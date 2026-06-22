@@ -2565,7 +2565,7 @@
           {
             "id": "abdominal-noun-1",
             "definition": "the muscles of the abdomen",
-            "translation": "",
+            "translation": "腹部肌肉",
             "examples": []
           }
         ]
@@ -2595,7 +2595,7 @@
           {
             "id": "abdominocentesis-noun-1",
             "definition": "centesis of the belly to remove fluid for diagnosis",
-            "translation": "",
+            "translation": "腹腔穿刺术（用于诊断）",
             "examples": []
           }
         ]
@@ -2625,7 +2625,7 @@
           {
             "id": "abdominoplasty-noun-1",
             "definition": "cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach",
-            "translation": "",
+            "translation": "腹部整形术（去除皱纹并紧致腹部皮肤）",
             "examples": []
           }
         ]
@@ -2656,7 +2656,7 @@
           {
             "id": "abdominous-adjective-1",
             "definition": "having a large belly",
-            "translation": "",
+            "translation": "腹部肥大的",
             "examples": []
           }
         ]
@@ -2686,7 +2686,7 @@
           {
             "id": "abdominousness-noun-1",
             "definition": "the bodily property of a protruding belly",
-            "translation": "",
+            "translation": "腹部突出的身体特征",
             "examples": []
           }
         ]
@@ -2714,7 +2714,7 @@
           {
             "id": "abdominovesical-adjective-1",
             "definition": "of or relating to the abdomen and the urinary bladder",
-            "translation": "",
+            "translation": "腹膀胱的",
             "examples": []
           }
         ]
@@ -2744,7 +2744,7 @@
           {
             "id": "abduce-verb-1",
             "definition": "to advance evidence for",
-            "translation": "",
+            "translation": "提出证据支持",
             "examples": [
               {
                 "text": "I abduced the conclusion from the facts at hand.",
@@ -2779,7 +2779,7 @@
           {
             "id": "abducens-noun-1",
             "definition": "a small motor nerve supplying the lateral rectus muscle of the eye",
-            "translation": "",
+            "translation": "外展神经",
             "examples": []
           }
         ]
@@ -2817,7 +2817,7 @@
           {
             "id": "abducent-adjective-1",
             "definition": "especially of muscles",
-            "translation": "",
+            "translation": "特别是肌肉的",
             "examples": []
           }
         ]
@@ -2828,7 +2828,7 @@
           {
             "id": "abducent-noun-1",
             "definition": "a small motor nerve supplying the lateral rectus muscle of the eye",
-            "translation": "",
+            "translation": "供应眼外直肌的小运动神经",
             "examples": []
           }
         ]
@@ -2865,7 +2865,7 @@
           {
             "id": "abduct-verb-1",
             "definition": "to pull away from the body",
-            "translation": "",
+            "translation": "使外展（拉离身体）",
             "examples": [
               {
                 "text": "This muscle abducts.",
@@ -2876,7 +2876,7 @@
           {
             "id": "abduct-verb-2",
             "definition": "to take away to an undisclosed location against their will and usually in order to extract a ransom",
-            "translation": "",
+            "translation": "绑架（带到秘密地点以勒索赎金）",
             "examples": [
               {
                 "text": "The child was abducted from the mall.",
@@ -2911,7 +2911,7 @@
           {
             "id": "abducting-adjective-1",
             "definition": "especially of muscles",
-            "translation": "",
+            "translation": "特别是肌肉的",
             "examples": []
           }
         ]
@@ -2939,13 +2939,13 @@
           {
             "id": "abduction-noun-1",
             "definition": "(physiology) moving of a body part away from the central axis of the body",
-            "translation": "",
+            "translation": "外展（生理学：身体部位远离中央轴线）",
             "examples": []
           },
           {
             "id": "abduction-noun-2",
             "definition": "the criminal act of capturing and carrying away by force a family member",
-            "translation": "",
+            "translation": "绑架家庭成员的犯罪行为",
             "examples": []
           }
         ]
@@ -2978,13 +2978,13 @@
           {
             "id": "abductor-noun-1",
             "definition": "a muscle that draws a body part away from the median line",
-            "translation": "",
+            "translation": "外展肌（使身体部位远离中线的肌肉）",
             "examples": []
           },
           {
             "id": "abductor-noun-2",
             "definition": "someone who unlawfully seizes and detains a victim (usually for ransom)",
-            "translation": "",
+            "translation": "绑架者",
             "examples": []
           }
         ]
@@ -3012,7 +3012,7 @@
           {
             "id": "abeam-adverb-1",
             "definition": "at right angles to the length of a ship or airplane",
-            "translation": "",
+            "translation": "正横方向",
             "examples": []
           }
         ]
@@ -3040,7 +3040,7 @@
           {
             "id": "abecedarian-adjective-1",
             "definition": "alphabetically arranged (as for beginning readers)",
-            "translation": "",
+            "translation": "按字母顺序排列的（适合初学者）",
             "examples": []
           }
         ]
@@ -3051,7 +3051,7 @@
           {
             "id": "abecedarian-noun-1",
             "definition": "a novice learning the rudiments of some subject",
-            "translation": "",
+            "translation": "初学者",
             "examples": []
           }
         ]
@@ -3079,7 +3079,7 @@
           {
             "id": "abecedarius-noun-1",
             "definition": "a poem having lines beginning with letters of the alphabet in regular order",
-            "translation": "",
+            "translation": "字母诗（各行按字母顺序开头的诗）",
             "examples": []
           }
         ]
@@ -3107,7 +3107,7 @@
           {
             "id": "abed-adverb-1",
             "definition": "in bed",
-            "translation": "",
+            "translation": "在床上",
             "examples": []
           }
         ]
@@ -3137,7 +3137,7 @@
           {
             "id": "abele-noun-1",
             "definition": "a poplar that is widely cultivated in the United States",
-            "translation": "",
+            "translation": "美洲杨（在美国广泛种植的杨树）",
             "examples": []
           }
         ]
@@ -3165,7 +3165,7 @@
           {
             "id": "abelia-noun-1",
             "definition": "any of various deciduous or evergreen ornamental shrubs of the genus Abelia having opposite simple leaves and cymes of small white or pink or purplish flowers",
-            "translation": "",
+            "translation": "六道木属各种落叶或常绿观赏灌木",
             "examples": []
           }
         ]
@@ -3195,7 +3195,7 @@
           {
             "id": "abelmosk-noun-1",
             "definition": "bushy herb of tropical Asia grown for its yellow or pink to scarlet blooms that resemble the hibiscus",
-            "translation": "",
+            "translation": "黄葵（热带亚洲灌木状草本植物）",
             "examples": []
           }
         ]
@@ -3223,7 +3223,7 @@
           {
             "id": "aberdonian-adjective-1",
             "definition": "of or relating to Aberdeen",
-            "translation": "",
+            "translation": "阿伯丁的",
             "examples": []
           }
         ]
@@ -3253,7 +3253,7 @@
           {
             "id": "aberrance-noun-1",
             "definition": "a state or condition markedly different from the norm",
-            "translation": "",
+            "translation": "异常状态",
             "examples": [
               {
                 "text": "The aberrance in payment has not gone unnoticed.",
@@ -3288,7 +3288,7 @@
           {
             "id": "aberrancy-noun-1",
             "definition": "a state or condition markedly different from the norm",
-            "translation": "",
+            "translation": "异常状态",
             "examples": [
               {
                 "text": "The aberrancy in sales this month is troubling.",
@@ -3326,7 +3326,7 @@
           {
             "id": "aberrant-adjective-1",
             "definition": "markedly different from an accepted norm",
-            "translation": "",
+            "translation": "异常的",
             "examples": [
               {
                 "text": "Their aberrant behavior disturbed the party's host.",
@@ -3342,7 +3342,7 @@
           {
             "id": "aberrant-noun-1",
             "definition": "one whose behavior departs substantially from the norm of a group",
-            "translation": "",
+            "translation": "行为偏离群体规范的人",
             "examples": [
               {
                 "text": "The aberrant refused to wear the group's uniform.",
@@ -3375,7 +3375,7 @@
           {
             "id": "aberrate-verb-1",
             "definition": "to diverge or deviate from the straight path",
-            "translation": "",
+            "translation": "偏离直路",
             "examples": [
               {
                 "text": "We can not afford to aberrate from our plan.",
@@ -3386,7 +3386,7 @@
           {
             "id": "aberrate-verb-2",
             "definition": "to diverge from the expected",
-            "translation": "",
+            "translation": "偏离预期",
             "examples": [
               {
                 "text": "The President aberrated from the plan spontaneously.",
@@ -3425,19 +3425,19 @@
           {
             "id": "aberration-noun-1",
             "definition": "an optical phenomenon resulting from the failure of a lens or mirror to produce a good image",
-            "translation": "",
+            "translation": "像差",
             "examples": []
           },
           {
             "id": "aberration-noun-2",
             "definition": "a disorder in one's mental state",
-            "translation": "",
+            "translation": "精神状态异常",
             "examples": []
           },
           {
             "id": "aberration-noun-3",
             "definition": "a state or condition markedly different from the norm",
-            "translation": "",
+            "translation": "异常",
             "examples": []
           }
         ]
@@ -3471,7 +3471,7 @@
           {
             "id": "abet-verb-1",
             "definition": "to assist or encourage, usually in some wrongdoing",
-            "translation": "",
+            "translation": "教唆或协助（通常指不当行为）",
             "examples": [
               {
                 "text": "Do you know you are abetting a known criminal?",
@@ -3509,7 +3509,7 @@
           {
             "id": "abetalipoproteinemia-noun-1",
             "definition": "a rare inherited disorder of fat metabolism",
-            "translation": "",
+            "translation": "无β脂蛋白血症",
             "examples": []
           }
         ]
@@ -3537,9 +3537,9 @@
         "partOfSpeech": "noun",
         "senses": [
           {
-            "id": "abetment-noun-1",
+            "id": "abetmentabetment-noun-1",
             "definition": "the verbal act of urging on",
-            "translation": "",
+            "translation": "口头怂恿的行为",
             "examples": []
           }
         ]
@@ -3569,7 +3569,7 @@
           {
             "id": "abettal-noun-1",
             "definition": "the verbal act of urging on",
-            "translation": "",
+            "translation": "口头怂恿的行为",
             "examples": []
           }
         ]
@@ -3599,7 +3599,7 @@
           {
             "id": "abetter-noun-1",
             "definition": "one who helps or encourages or incites another",
-            "translation": "",
+            "translation": "教唆者或协助者",
             "examples": []
           }
         ]
@@ -3629,7 +3629,7 @@
           {
             "id": "abettor-noun-1",
             "definition": "one who helps or encourages or incites another",
-            "translation": "",
+            "translation": "教唆者或协助者",
             "examples": []
           }
         ]
@@ -3661,7 +3661,7 @@
           {
             "id": "abeyance-noun-1",
             "definition": "temporary cessation or suspension",
-            "translation": "",
+            "translation": "中止",
             "examples": []
           }
         ]
@@ -3691,7 +3691,7 @@
           {
             "id": "abeyant-adjective-1",
             "definition": "inactive but capable of becoming active",
-            "translation": "",
+            "translation": "中止的但可恢复的",
             "examples": []
           }
         ]
@@ -3719,7 +3719,7 @@
           {
             "id": "abfarad-noun-1",
             "definition": "a capacitance unit equal to one billion farads",
-            "translation": "",
+            "translation": "绝对法拉（等于十亿法拉的电容单位）",
             "examples": []
           }
         ]
@@ -3747,7 +3747,7 @@
           {
             "id": "abhenry-noun-1",
             "definition": "a unit of inductance equal to one billionth of a henry",
-            "translation": "",
+            "translation": "绝对亨利（等于十亿分之一亨利）",
             "examples": []
           }
         ]
@@ -3784,7 +3784,7 @@
           {
             "id": "abhor-verb-1",
             "definition": "to find repugnant",
-            "translation": "",
+            "translation": "憎恶",
             "examples": [
               {
                 "text": "I abhor your attitude.",
@@ -3819,7 +3819,7 @@
           {
             "id": "abhorrence-noun-1",
             "definition": "hate coupled with disgust",
-            "translation": "",
+            "translation": "憎恨与厌恶",
             "examples": []
           }
         ]
@@ -3852,7 +3852,7 @@
           {
             "id": "abhorrent-adjective-1",
             "definition": "offensive to the mind",
-            "translation": "",
+            "translation": "令人憎恶的",
             "examples": [
               {
                 "text": "an abhorrent deed",
@@ -3890,7 +3890,7 @@
           {
             "id": "abhorrer-noun-1",
             "definition": "a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred",
-            "translation": "",
+            "translation": "1679年签署谴责请愿者的人",
             "examples": []
           }
         ]
@@ -3923,19 +3923,19 @@
           {
             "id": "abidance-noun-1",
             "definition": "the act of abiding (enduring without yielding)",
-            "translation": "",
+            "translation": "遵守",
             "examples": []
           },
           {
             "id": "abidance-noun-2",
             "definition": "the act of dwelling in a place",
-            "translation": "",
+            "translation": "居住",
             "examples": []
           },
           {
             "id": "abidance-noun-3",
             "definition": "acting according to certain accepted standards",
-            "translation": "",
+            "translation": "遵守公认标准",
             "examples": []
           }
         ]
@@ -3988,7 +3988,7 @@
           {
             "id": "abide-verb-1",
             "definition": "to put up with something or somebody unpleasant",
-            "translation": "",
+            "translation": "忍受",
             "examples": [
               {
                 "text": "We can barely abide their presence.",
@@ -3999,7 +3999,7 @@
           {
             "id": "abide-verb-2",
             "definition": "to accept without objection",
-            "translation": "",
+            "translation": "无条件接受",
             "examples": [
               {
                 "text": "I will abide by your decision.",
@@ -4077,7 +4077,7 @@
           {
             "id": "abiding-adjective-1",
             "definition": "unceasing",
-            "translation": "",
+            "translation": "持久的",
             "examples": [
               {
                 "text": "an abiding belief",
@@ -4115,7 +4115,7 @@
           {
             "id": "abience-noun-1",
             "definition": "(psychology) an urge to withdraw or avoid a situation or an object",
-            "translation": "",
+            "translation": "回避倾向（心理学：退缩或回避的冲动）",
             "examples": []
           }
         ]
@@ -4143,7 +4143,7 @@
           {
             "id": "abient-adjective-1",
             "definition": "characterized by avoidance or withdrawal",
-            "translation": "",
+            "translation": "回避性的",
             "examples": []
           }
         ]
@@ -4180,13 +4180,13 @@
           {
             "id": "ability-noun-1",
             "definition": "the quality of being able to perform",
-            "translation": "",
+            "translation": "执行能力",
             "examples": []
           },
           {
             "id": "ability-noun-2",
             "definition": "possession of the qualities (especially mental qualities) required to do something or get something done",
-            "translation": "",
+            "translation": "具备完成任务所需的素质",
             "examples": []
           }
         ]
@@ -4391,7 +4391,7 @@
           {
             "id": "abiogenesis-noun-1",
             "definition": "a hypothetical organic phenomenon by which living organisms are created from nonliving matter",
-            "translation": "",
+            "translation": "自然发生",
             "examples": []
           }
         ]
@@ -4419,7 +4419,7 @@
           {
             "id": "abiogenetic-adjective-1",
             "definition": "originating by abiogenesis",
-            "translation": "",
+            "translation": "自然发生的",
             "examples": []
           }
         ]
@@ -4447,7 +4447,7 @@
           {
             "id": "abiogenist-noun-1",
             "definition": "a believer in abiogenesis",
-            "translation": "",
+            "translation": "自然发生论的信徒",
             "examples": []
           }
         ]
@@ -4475,7 +4475,7 @@
           {
             "id": "abiotrophy-noun-1",
             "definition": "a loss of vitality and a degeneration of cells and tissues not due to any apparent injury",
-            "translation": "",
+            "translation": "非损伤性细胞组织退化",
             "examples": []
           }
         ]
@@ -4509,7 +4509,7 @@
           {
             "id": "abject-adjective-1",
             "definition": "showing humiliation or submissiveness",
-            "translation": "",
+            "translation": "卑屈的",
             "examples": [
               {
                 "text": "an abject apology",
@@ -4520,7 +4520,7 @@
           {
             "id": "abject-adjective-2",
             "definition": "of the most contemptible kind",
-            "translation": "",
+            "translation": "最卑鄙的",
             "examples": [
               {
                 "text": "abject cowardice",
@@ -4531,7 +4531,7 @@
           {
             "id": "abject-adjective-3",
             "definition": "most unfortunate or miserable",
-            "translation": "",
+            "translation": "悲惨的",
             "examples": [
               {
                 "text": "the most abject slaves joined in the revolt",
@@ -4542,7 +4542,7 @@
           {
             "id": "abject-adjective-4",
             "definition": "showing utter resignation or hopelessness",
-            "translation": "",
+            "translation": "表现出彻底的绝望",
             "examples": [
               {
                 "text": "abject surrender",
@@ -4577,7 +4577,7 @@
           {
             "id": "abjection-noun-1",
             "definition": "a low or downcast state",
-            "translation": "",
+            "translation": "卑微或沮丧的状态",
             "examples": []
           }
         ]
@@ -4607,7 +4607,7 @@
           {
             "id": "abjectly-adverb-1",
             "definition": "in a hopeless resigned manner",
-            "translation": "",
+            "translation": "绝望地",
             "examples": [
               {
                 "text": "They shrugged their shoulders abjectly.",
@@ -4642,7 +4642,7 @@
           {
             "id": "abjuration-noun-1",
             "definition": "a disavowal or taking back of a previous assertion",
-            "translation": "",
+            "translation": "否认或收回之前的声明",
             "examples": []
           }
         ]
@@ -4678,7 +4678,7 @@
           {
             "id": "abjure-verb-1",
             "definition": "to formally reject or disavow a formerly held belief, usually under pressure",
-            "translation": "",
+            "translation": "正式放弃以前的信仰",
             "examples": [
               {
                 "text": "They couldn't abjure their religious beliefs, even for a large sum of cash.",
@@ -4711,7 +4711,7 @@
           {
             "id": "abjurer-noun-1",
             "definition": "a person who abjures",
-            "translation": "",
+            "translation": "放弃信仰的人",
             "examples": []
           }
         ]
@@ -4741,7 +4741,7 @@
           {
             "id": "abkhaz-adjective-1",
             "definition": "of or relating to Abkazia or its people or their language",
-            "translation": "",
+            "translation": "阿布哈兹的",
             "examples": []
           }
         ]
@@ -4752,7 +4752,7 @@
           {
             "id": "abkhaz-noun-1",
             "definition": "a member of the Circassian people who live to the east of the Black Sea",
-            "translation": "",
+            "translation": "阿布哈兹人",
             "examples": []
           }
         ]
@@ -4782,7 +4782,7 @@
           {
             "id": "abkhazian-adjective-1",
             "definition": "of or relating to Abkazia or its people or their language",
-            "translation": "",
+            "translation": "阿布哈兹的",
             "examples": []
           }
         ]
@@ -4793,7 +4793,7 @@
           {
             "id": "abkhazian-noun-1",
             "definition": "a Circassian language spoken by the Abkhaz",
-            "translation": "",
+            "translation": "阿布哈兹语",
             "examples": []
           }
         ]
@@ -4823,7 +4823,7 @@
           {
             "id": "ablactate-verb-1",
             "definition": "to gradually deprive infants and young mammals of mother's milk",
-            "translation": "",
+            "translation": "使断奶",
             "examples": [
               {
                 "text": "The doctor recommended the mother ablactate the child, and move onto solid foods instead.",
@@ -4858,13 +4858,13 @@
           {
             "id": "ablactation-noun-1",
             "definition": "the act of substituting other food for the mother's milk in the diet of a child or young mammal",
-            "translation": "",
+            "translation": "断奶（用其他食物替代母乳）",
             "examples": []
           },
           {
             "id": "ablactation-noun-2",
             "definition": "the cessation of lactation",
-            "translation": "",
+            "translation": "停止泌乳",
             "examples": []
           }
         ]
@@ -4896,7 +4896,7 @@
           {
             "id": "ablate-verb-1",
             "definition": "to remove an organ or bodily structure",
-            "translation": "",
+            "translation": "切除器官或身体结构",
             "examples": [
               {
                 "text": "We ablated the liver.",
@@ -4907,7 +4907,7 @@
           {
             "id": "ablate-verb-2",
             "definition": "to wear away through erosion or vaporization",
-            "translation": "",
+            "translation": "通过侵蚀或蒸发磨损",
             "examples": [
               {
                 "text": "The river bank is ablating.",
@@ -4940,7 +4940,7 @@
           {
             "id": "ablated-adjective-1",
             "definition": "made smaller or less by melting or erosion or vaporization",
-            "translation": "",
+            "translation": "通过熔化、侵蚀或蒸发变小",
             "examples": [
               {
                 "text": "the rocket's ablated head shield",
@@ -4975,13 +4975,13 @@
           {
             "id": "ablation-noun-1",
             "definition": "surgical removal of a body part or tissue",
-            "translation": "",
+            "translation": "手术切除身体部位或组织",
             "examples": []
           },
           {
             "id": "ablation-noun-2",
             "definition": "the erosive process that reduces the size of glaciers",
-            "translation": "",
+            "translation": "冰川减小的侵蚀过程",
             "examples": []
           }
         ]
@@ -5011,13 +5011,13 @@
           {
             "id": "ablative-adjective-1",
             "definition": "tending to ablate",
-            "translation": "",
+            "translation": "倾向于切除的",
             "examples": []
           },
           {
             "id": "ablative-adjective-2",
             "definition": "relating to the ablative case",
-            "translation": "",
+            "translation": "离格的",
             "examples": []
           }
         ]
@@ -5028,7 +5028,7 @@
           {
             "id": "ablative-noun-1",
             "definition": "the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb",
-            "translation": "",
+            "translation": "离格（语法格）",
             "examples": []
           }
         ]
@@ -5056,7 +5056,7 @@
           {
             "id": "ablaut-noun-1",
             "definition": "a vowel whose quality or length is changed to indicate linguistic distinctions (such as sing sang sung song)",
-            "translation": "",
+            "translation": "元音变换（如sing sang sung）",
             "examples": []
           }
         ]
@@ -5094,19 +5094,19 @@
           {
             "id": "ablaze-adjective-1",
             "definition": "lighted with red light as if with flames",
-            "translation": "",
+            "translation": "燃烧般的红光",
             "examples": []
           },
           {
             "id": "ablaze-adjective-2",
             "definition": "lighted up by or as by fire or flame",
-            "translation": "",
+            "translation": "着火的",
             "examples": []
           },
           {
             "id": "ablaze-adjective-3",
             "definition": "resembling flame in brilliance or color",
-            "translation": "",
+            "translation": "像火焰一样明亮",
             "examples": [
               {
                 "text": "maple trees ablaze in autumn",
@@ -5117,7 +5117,7 @@
           {
             "id": "ablaze-adjective-4",
             "definition": "keenly excited, especially sexually, or indicating excitement",
-            "translation": "",
+            "translation": "极度兴奋的",
             "examples": [
               {
                 "text": "Their face was ablaze with excitement.",
@@ -5161,7 +5161,7 @@
           {
             "id": "able-adjective-1",
             "definition": "(usually followed by `to') having the necessary means or skill or know-how or authority to do something",
-            "translation": "",
+            "translation": "有能力的",
             "examples": [
               {
                 "text": "able to swim",
@@ -5172,7 +5172,7 @@
           {
             "id": "able-adjective-2",
             "definition": "having inherent physical or mental ability or capacity",
-            "translation": "",
+            "translation": "具有天生的身体或精神能力",
             "examples": [
               {
                 "text": "able to learn",
@@ -5183,7 +5183,7 @@
           {
             "id": "able-adjective-3",
             "definition": "have the skills and qualifications to do things well",
-            "translation": "",
+            "translation": "有技能和资格做好事情",
             "examples": [
               {
                 "text": "able teachers",
@@ -5234,7 +5234,7 @@
           {
             "id": "able-bodied-adjective-1",
             "definition": "having a strong healthy body",
-            "translation": "",
+            "translation": "身体健康的",
             "examples": []
           }
         ]
@@ -5264,7 +5264,7 @@
           {
             "id": "able-bodiedism-noun-1",
             "definition": "discrimination in favor of the able-bodied",
-            "translation": "",
+            "translation": "体能歧视",
             "examples": []
           }
         ]
@@ -5294,7 +5294,7 @@
           {
             "id": "able-bodism-noun-1",
             "definition": "discrimination in favor of the able-bodied",
-            "translation": "",
+            "translation": "体能歧视",
             "examples": []
           }
         ]
@@ -5326,7 +5326,7 @@
           {
             "id": "ableism-noun-1",
             "definition": "discrimination in favor of the able-bodied",
-            "translation": "",
+            "translation": "体能歧视",
             "examples": []
           }
         ]
@@ -5354,7 +5354,7 @@
           {
             "id": "ablepharia-noun-1",
             "definition": "a congenital absence of eyelids (partial or complete)",
-            "translation": "",
+            "translation": "先天性无眼睑",
             "examples": []
           }
         ]
@@ -5384,7 +5384,7 @@
           {
             "id": "ablism-noun-1",
             "definition": "discrimination in favor of the able-bodied",
-            "translation": "",
+            "translation": "体能歧视",
             "examples": []
           }
         ]
@@ -5414,7 +5414,7 @@
           {
             "id": "abloom-adjective-1",
             "definition": "bursting into flower",
-            "translation": "",
+            "translation": "盛开的",
             "examples": []
           }
         ]
@@ -5445,7 +5445,7 @@
           {
             "id": "ablution-noun-1",
             "definition": "the ritual washing of a priest's hands or of sacred vessels",
-            "translation": "",
+            "translation": "仪式性清洗（祭司洗手或清洗圣器）",
             "examples": []
           }
         ]
@@ -5475,7 +5475,7 @@
           {
             "id": "ablutionary-adjective-1",
             "definition": "cleansing the body by washing",
-            "translation": "",
+            "translation": "清洗身体的",
             "examples": []
           }
         ]
@@ -5505,7 +5505,7 @@
           {
             "id": "ably-adverb-1",
             "definition": "with competence",
-            "translation": "",
+            "translation": "有能力地",
             "examples": []
           }
         ]
@@ -5533,7 +5533,7 @@
           {
             "id": "abnaki-adjective-1",
             "definition": "of or relating to the Abnakis or their language",
-            "translation": "",
+            "translation": "阿布纳基的",
             "examples": []
           }
         ]
@@ -5544,7 +5544,7 @@
           {
             "id": "abnaki-noun-1",
             "definition": "the Algonquian language spoken by the Abnaki and Penobscot",
-            "translation": "",
+            "translation": "阿布纳基语",
             "examples": []
           }
         ]
@@ -5580,7 +5580,7 @@
           {
             "id": "abnegate-verb-1",
             "definition": "to deny or renounce",
-            "translation": "",
+            "translation": "否认或放弃",
             "examples": [
               {
                 "text": "They abnegated their gods.",
@@ -5591,7 +5591,7 @@
           {
             "id": "abnegate-verb-2",
             "definition": "to surrender power or a position",
-            "translation": "",
+            "translation": "放弃权力或职位",
             "examples": [
               {
                 "text": "The monarch abnegated their power to the ministers.",
@@ -5602,7 +5602,7 @@
           {
             "id": "abnegate-verb-3",
             "definition": "to deny oneself something",
-            "translation": "",
+            "translation": "自我克制",
             "examples": [
               {
                 "text": "I abnegated myself the luxuries of life and settled for a modest home in the mountains.",
@@ -5642,13 +5642,13 @@
           {
             "id": "abnegation-noun-1",
             "definition": "renunciation of your own interests in favor of the interests of others",
-            "translation": "",
+            "translation": "放弃自身利益以利他人",
             "examples": []
           },
           {
             "id": "abnegation-noun-2",
             "definition": "the denial and rejection of a doctrine or belief",
-            "translation": "",
+            "translation": "否认和拒绝某种教义或信仰",
             "examples": [
               {
                 "text": "abnegation of the Holy Trinity",
@@ -5681,7 +5681,7 @@
           {
             "id": "abnegator-noun-1",
             "definition": "one who gives up or relinquishes or renounces something",
-            "translation": "",
+            "translation": "放弃者",
             "examples": []
           }
         ]
@@ -5718,7 +5718,7 @@
           {
             "id": "abnormal-adjective-1",
             "definition": "much greater than the normal",
-            "translation": "",
+            "translation": "远超正常的",
             "examples": [
               {
                 "text": "abnormal profits",
@@ -5729,13 +5729,13 @@
           {
             "id": "abnormal-adjective-2",
             "definition": "not normal",
-            "translation": "",
+            "translation": "不正常的",
             "examples": []
           },
           {
             "id": "abnormal-adjective-3",
             "definition": "departing from the normal in e.g. intelligence and development",
-            "translation": "",
+            "translation": "偏离正常的（如智力或发育）",
             "examples": [
               {
                 "text": "they were heartbroken when they learned their child was abnormal",
@@ -5770,7 +5770,7 @@
           {
             "id": "abnormalcy-noun-1",
             "definition": "an abnormal physical condition resulting from defective genes or developmental deficiencies",
-            "translation": "",
+            "translation": "异常身体状况（由基因缺陷或发育不足引起）",
             "examples": []
           }
         ]
@@ -5803,25 +5803,25 @@
           {
             "id": "abnormality-noun-1",
             "definition": "behavior that breaches the rule or etiquette or custom or morality",
-            "translation": "",
+            "translation": "反常行为",
             "examples": []
           },
           {
             "id": "abnormality-noun-2",
             "definition": "marked strangeness as a consequence of being abnormal",
-            "translation": "",
+            "translation": "因异常而明显的怪异",
             "examples": []
           },
           {
             "id": "abnormality-noun-3",
             "definition": "retardation sufficient to fall outside the normal range of intelligence",
-            "translation": "",
+            "translation": "智力迟钝超出正常范围",
             "examples": []
           },
           {
             "id": "abnormality-noun-4",
             "definition": "an abnormal physical condition resulting from defective genes or developmental deficiencies",
-            "translation": "",
+            "translation": "异常",
             "examples": []
           }
         ]
@@ -5849,7 +5849,7 @@
           {
             "id": "abnormally-adverb-1",
             "definition": "in an abnormal manner",
-            "translation": "",
+            "translation": "异常地",
             "examples": [
               {
                 "text": "they were behaving abnormally",
@@ -5891,7 +5891,7 @@
           {
             "id": "aboard-adverb-1",
             "definition": "on first or second or third base",
-            "translation": "",
+            "translation": "在垒上（棒球）",
             "examples": [
               {
                 "text": "Their second homer with Bob Allison aboard",
@@ -5902,13 +5902,13 @@
           {
             "id": "aboard-adverb-2",
             "definition": "on a ship, train, plane or other vehicle",
-            "translation": "",
+            "translation": "在船、火车、飞机或其他交通工具上",
             "examples": []
           },
           {
             "id": "aboard-adverb-3",
             "definition": "part of a group",
-            "translation": "",
+            "translation": "属于团队的一部分",
             "examples": [
               {
                 "text": "Bill's been aboard for three years now",
@@ -5952,7 +5952,7 @@
           {
             "id": "abocclusion-noun-1",
             "definition": "the condition in which the upper teeth do not touch the lower teeth when biting",
-            "translation": "",
+            "translation": "咬合时上下牙齿不接触的状况",
             "examples": []
           }
         ]
@@ -5983,13 +5983,13 @@
           {
             "id": "abode-noun-1",
             "definition": "housing that someone is living in",
-            "translation": "",
+            "translation": "住所",
             "examples": []
           },
           {
             "id": "abode-noun-2",
             "definition": "any address at which you dwell more than temporarily",
-            "translation": "",
+            "translation": "住所",
             "examples": []
           }
         ]
@@ -6026,7 +6026,7 @@
           {
             "id": "abohm-noun-1",
             "definition": "a unit of resistance equal to a billionth of an ohm",
-            "translation": "",
+            "translation": "绝对欧姆（等于十亿分之一欧姆）",
             "examples": []
           }
         ]
@@ -6067,7 +6067,7 @@
           {
             "id": "abolish-verb-1",
             "definition": "to do away with",
-            "translation": "",
+            "translation": "废除",
             "examples": [
               {
                 "text": "In the mid-19th century, America and Russia abolished slavery.",
@@ -6100,7 +6100,7 @@
           {
             "id": "abolishable-adjective-1",
             "definition": "capable of being abolished",
-            "translation": "",
+            "translation": "可废除的",
             "examples": []
           }
         ]
@@ -6130,7 +6130,7 @@
           {
             "id": "abolishment-noun-1",
             "definition": "the act of abolishing a system or practice or institution (especially abolishing slavery)",
-            "translation": "",
+            "translation": "废除制度或做法的行为",
             "examples": []
           }
         ]
@@ -6163,7 +6163,7 @@
           {
             "id": "abolition-noun-1",
             "definition": "the act of abolishing a system or practice or institution (especially abolishing slavery)",
-            "translation": "",
+            "translation": "废除制度或做法的行为",
             "examples": [
               {
                 "text": "the abolition of capital punishment",
@@ -6196,7 +6196,7 @@
           {
             "id": "abolitionary-adjective-1",
             "definition": "relating to or favoring abolition, especially abolition of slavery",
-            "translation": "",
+            "translation": "废除论的",
             "examples": []
           }
         ]
@@ -6224,7 +6224,7 @@
           {
             "id": "abolitionism-noun-1",
             "definition": "the doctrine that calls for the abolition of slavery",
-            "translation": "",
+            "translation": "废奴主义",
             "examples": []
           }
         ]
@@ -6256,7 +6256,7 @@
           {
             "id": "abolitionist-noun-1",
             "definition": "a reformer who favors abolishing slavery",
-            "translation": "",
+            "translation": "废奴主义者",
             "examples": []
           }
         ]
@@ -6284,7 +6284,7 @@
           {
             "id": "abomasal-adjective-1",
             "definition": "relating to the abomasum (the fourth compartment of the stomach of ruminants)",
-            "translation": "",
+            "translation": "皱胃的",
             "examples": []
           }
         ]
@@ -6314,7 +6314,7 @@
           {
             "id": "abomasum-noun-1",
             "definition": "the fourth compartment of the stomach of a ruminant",
-            "translation": "",
+            "translation": "皱胃（反刍动物胃的第四部分）",
             "examples": []
           }
         ]
@@ -6345,13 +6345,13 @@
           {
             "id": "abominable-adjective-1",
             "definition": "exceptionally bad or displeasing",
-            "translation": "",
+            "translation": "可恶的",
             "examples": []
           },
           {
             "id": "abominable-adjective-2",
             "definition": "unequivocally detestable",
-            "translation": "",
+            "translation": "可憎的",
             "examples": [
               {
                 "text": "abominable treatment of prisoners",
@@ -6389,13 +6389,13 @@
           {
             "id": "abominably-adverb-1",
             "definition": "in a terrible manner",
-            "translation": "",
+            "translation": "糟糕地",
             "examples": []
           },
           {
             "id": "abominably-adverb-2",
             "definition": "in an offensive and hateful manner",
-            "translation": "",
+            "translation": "可憎地",
             "examples": [
               {
                 "text": "I don't know anyone who could have behaved so abominably",
@@ -6436,7 +6436,7 @@
           {
             "id": "abominate-verb-1",
             "definition": "to find repugnant",
-            "translation": "",
+            "translation": "憎恶",
             "examples": [
               {
                 "text": "I abominate this cheese.",
@@ -6475,19 +6475,19 @@
           {
             "id": "abomination-noun-1",
             "definition": "an action that is vicious or vile",
-            "translation": "",
+            "translation": "邪恶或卑劣的行为",
             "examples": []
           },
           {
             "id": "abomination-noun-2",
             "definition": "hate coupled with disgust",
-            "translation": "",
+            "translation": "憎恨与厌恶",
             "examples": []
           },
           {
             "id": "abomination-noun-3",
             "definition": "a person who is loathsome or disgusting",
-            "translation": "",
+            "translation": "令人憎恶的人",
             "examples": []
           }
         ]
@@ -6517,7 +6517,7 @@
           {
             "id": "abominator-noun-1",
             "definition": "one who hates or loathes",
-            "translation": "",
+            "translation": "憎恶者",
             "examples": []
           }
         ]
@@ -6545,7 +6545,7 @@
           {
             "id": "abor-noun-1",
             "definition": "little known Kamarupan languages",
-            "translation": "",
+            "translation": "阿博尔语",
             "examples": []
           }
         ]
@@ -6573,7 +6573,7 @@
           {
             "id": "aborad-adverb-1",
             "definition": "away from the mouth or oral region",
-            "translation": "",
+            "translation": "远离口腔区域",
             "examples": []
           }
         ]
@@ -6601,7 +6601,7 @@
           {
             "id": "aboral-adjective-1",
             "definition": "opposite to or away from the mouth",
-            "translation": "",
+            "translation": "对口端的",
             "examples": [
               {
                 "text": "the aboral surface of a starfish",
@@ -6646,13 +6646,13 @@
           {
             "id": "aboriginal-adjective-1",
             "definition": "having existed from the beginning",
-            "translation": "",
+            "translation": "原始的",
             "examples": []
           },
           {
             "id": "aboriginal-adjective-2",
             "definition": "characteristic of or relating to people inhabiting a region from the beginning",
-            "translation": "",
+            "translation": "土著的特征",
             "examples": []
           }
         ]
@@ -6663,7 +6663,7 @@
           {
             "id": "aboriginal-noun-1",
             "definition": "an indigenous person who was born in a particular place",
-            "translation": "",
+            "translation": "土著居民",
             "examples": []
           }
         ]
@@ -6729,7 +6729,7 @@
           {
             "id": "aborigine-noun-1",
             "definition": "an indigenous person who was born in a particular place",
-            "translation": "",
+            "translation": "土著居民",
             "examples": []
           }
         ]
@@ -6886,7 +6886,7 @@
           {
             "id": "abortifacient-noun-1",
             "definition": "a drug (or other chemical agent) that causes abortion",
-            "translation": "",
+            "translation": "堕胎药",
             "examples": []
           }
         ]
@@ -6919,13 +6919,13 @@
           {
             "id": "abortion-noun-1",
             "definition": "termination of pregnancy",
-            "translation": "",
+            "translation": "堕胎",
             "examples": []
           },
           {
             "id": "abortion-noun-2",
             "definition": "failure of a plan",
-            "translation": "",
+            "translation": "失败",
             "examples": []
           }
         ]
@@ -6995,7 +6995,7 @@
           {
             "id": "abortive-adjective-1",
             "definition": "failing to accomplish an intended result",
-            "translation": "",
+            "translation": "失败的",
             "examples": [
               {
                 "text": "an abortive revolt",
@@ -7155,7 +7155,7 @@
           {
             "id": "abound-verb-1",
             "definition": "to be abundant or plentiful",
-            "translation": "",
+            "translation": "大量存在",
             "examples": [
               {
                 "text": "Strawberries abound.",
@@ -7214,7 +7214,7 @@
           {
             "id": "abounding-adjective-1",
             "definition": "existing in abundance",
-            "translation": "",
+            "translation": "丰富的",
             "examples": [
               {
                 "text": "abounding confidence",
@@ -7468,7 +7468,7 @@
           {
             "id": "above-adjective-1",
             "definition": "appearing earlier in the same text",
-            "translation": "",
+            "translation": "上文的",
             "examples": [
               {
                 "text": "flaws in the above interpretation",
@@ -7986,7 +7986,7 @@
           {
             "id": "abrasion-noun-1",
             "definition": "the wearing down of rock particles by friction due to water or wind or ice",
-            "translation": "",
+            "translation": "侵蚀",
             "examples": []
           },
           {
@@ -7998,7 +7998,7 @@
           {
             "id": "abrasion-noun-3",
             "definition": "an abraded area where the skin is torn or worn off",
-            "translation": "",
+            "translation": "擦伤",
             "examples": []
           }
         ]
@@ -8263,7 +8263,7 @@
           {
             "id": "abridge-verb-2",
             "definition": "to reduce in scope while retaining essential elements",
-            "translation": "",
+            "translation": "删节",
             "examples": [
               {
                 "text": "I asked them to abridge the meeting notes.",
@@ -8331,7 +8331,7 @@
           {
             "id": "abridgement-noun-1",
             "definition": "a shortened version of a written work",
-            "translation": "",
+            "translation": "节本",
             "examples": []
           }
         ]
@@ -8461,7 +8461,7 @@
           {
             "id": "abroad-adjective-1",
             "definition": "in a foreign country",
-            "translation": "",
+            "translation": "在国外",
             "examples": [
               {
                 "text": "markets abroad",
@@ -8595,7 +8595,7 @@
           {
             "id": "abrogation-noun-1",
             "definition": "the act of abrogating",
-            "translation": "",
+            "translation": "废除",
             "examples": []
           }
         ]
@@ -9267,13 +9267,13 @@
           {
             "id": "absence-noun-1",
             "definition": "failure to be present",
-            "translation": "",
+            "translation": "缺席",
             "examples": []
           },
           {
             "id": "absence-noun-2",
             "definition": "the state of being absent",
-            "translation": "",
+            "translation": "不在",
             "examples": [
               {
                 "text": "I was surprised by the absence of any explanation.",
@@ -9371,7 +9371,7 @@
           {
             "id": "absent-adjective-3",
             "definition": "not being in a specified place",
-            "translation": "",
+            "translation": "缺席的",
             "examples": []
           }
         ]
@@ -9698,7 +9698,7 @@
           {
             "id": "absolute-adjective-1",
             "definition": "perfect or complete or pure",
-            "translation": "",
+            "translation": "绝对的",
             "examples": [
               {
                 "text": "absolute loyalty",
@@ -9721,7 +9721,7 @@
           {
             "id": "absolute-adjective-4",
             "definition": "not limited by law",
-            "translation": "",
+            "translation": "不受限制的",
             "examples": [
               {
                 "text": "an absolute monarch",
@@ -9824,7 +9824,7 @@
           {
             "id": "absoluteness-noun-1",
             "definition": "the quality of being absolute",
-            "translation": "",
+            "translation": "绝对性",
             "examples": [
               {
                 "text": "the absoluteness of the pope's decree could not be challenged",
@@ -10086,7 +10086,7 @@
           {
             "id": "absolved-adjective-1",
             "definition": "freed from any question of guilt",
-            "translation": "",
+            "translation": "赦免的",
             "examples": [
               {
                 "text": "is absolved from all blame",
@@ -10519,7 +10519,7 @@
           {
             "id": "absorbent-adjective-1",
             "definition": "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)",
-            "translation": "",
+            "translation": "吸收性的",
             "examples": [
               {
                 "text": "as absorbent as a sponge",
@@ -10739,7 +10739,7 @@
           {
             "id": "absorptive-adjective-1",
             "definition": "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)",
-            "translation": "",
+            "translation": "吸收性的",
             "examples": []
           }
         ]
@@ -10856,7 +10856,7 @@
           {
             "id": "abstain-verb-2",
             "definition": "to refrain from voting",
-            "translation": "",
+            "translation": "弃权",
             "examples": [
               {
                 "text": "I abstained because I didn't like any of the candidates.",
@@ -10892,7 +10892,7 @@
           {
             "id": "abstainer-noun-1",
             "definition": "a person who refrains from drinking intoxicating beverages",
-            "translation": "",
+            "translation": "戒酒者",
             "examples": []
           },
           {
@@ -11106,7 +11106,7 @@
           {
             "id": "abstinence-noun-1",
             "definition": "act or practice of refraining from indulging an appetite",
-            "translation": "",
+            "translation": "节制",
             "examples": []
           },
           {
@@ -11206,7 +11206,7 @@
           {
             "id": "abstract-adjective-1",
             "definition": "existing only in the mind",
-            "translation": "",
+            "translation": "抽象的",
             "examples": []
           },
           {
@@ -11483,7 +11483,7 @@
           {
             "id": "abstraction-noun-6",
             "definition": "a concept or idea not associated with any specific instance",
-            "translation": "",
+            "translation": "抽象概念",
             "examples": []
           }
         ]
@@ -11781,7 +11781,7 @@
           {
             "id": "abstruseness-noun-1",
             "definition": "the quality of being unclear or abstruse and hard to understand",
-            "translation": "",
+            "translation": "深奥",
             "examples": []
           },
           {
@@ -11913,7 +11913,7 @@
           {
             "id": "absurdity-noun-1",
             "definition": "a ludicrous folly",
-            "translation": "",
+            "translation": "荒谬",
             "examples": [
               {
                 "text": "the crowd laughed at the absurdity of the clown's behavior",
@@ -12084,7 +12084,7 @@
           {
             "id": "abundance-noun-1",
             "definition": "the property of a more than adequate quantity or supply",
-            "translation": "",
+            "translation": "丰富",
             "examples": [
               {
                 "text": "an age of abundance",
@@ -12135,7 +12135,7 @@
           {
             "id": "abundant-adjective-1",
             "definition": "present in great quantity",
-            "translation": "",
+            "translation": "丰富的",
             "examples": [
               {
                 "text": "an abundant supply of water",
@@ -12177,7 +12177,7 @@
           {
             "id": "abundantly-adverb-1",
             "definition": "in an abundant manner",
-            "translation": "",
+            "translation": "丰富地",
             "examples": [
               {
                 "text": "they were abundantly supplied with food",
@@ -12234,7 +12234,7 @@
           {
             "id": "abuse-noun-1",
             "definition": "cruel or inhumane treatment",
-            "translation": "",
+            "translation": "虐待",
             "examples": [
               {
                 "text": "the child showed signs of physical abuse",
@@ -12245,7 +12245,7 @@
           {
             "id": "abuse-noun-2",
             "definition": "improper or excessive use",
-            "translation": "",
+            "translation": "滥用",
             "examples": [
               {
                 "text": "alcohol abuse",
@@ -12347,7 +12347,7 @@
           {
             "id": "abused-adjective-1",
             "definition": "subjected to cruel treatment",
-            "translation": "",
+            "translation": "受虐待的",
             "examples": [
               {
                 "text": "an abused wife",
@@ -12426,7 +12426,7 @@
           {
             "id": "abusive-adjective-1",
             "definition": "characterized by physical or psychological maltreatment",
-            "translation": "",
+            "translation": "虐待的",
             "examples": [
               {
                 "text": "abusive punishment",
@@ -12437,7 +12437,7 @@
           {
             "id": "abusive-adjective-2",
             "definition": "expressing offensive reproach",
-            "translation": "",
+            "translation": "辱骂的",
             "examples": []
           }
         ]
@@ -12465,7 +12465,7 @@
           {
             "id": "abusively-adverb-1",
             "definition": "in an abusive manner",
-            "translation": "",
+            "translation": "辱骂地",
             "examples": [
               {
                 "text": "They behaved abusively toward their friends at the party.",
@@ -12904,7 +12904,7 @@
           {
             "id": "abyss-noun-1",
             "definition": "a bottomless gulf or pit",
-            "translation": "",
+            "translation": "深渊",
             "examples": []
           }
         ]
@@ -13012,7 +13012,7 @@
           {
             "id": "acacia-noun-1",
             "definition": "any of various spiny trees or shrubs of the genus Acacia",
-            "translation": "",
+            "translation": "金合欢",
             "examples": []
           }
         ]
@@ -14251,7 +14251,7 @@
           {
             "id": "acarus-noun-1",
             "definition": "any of several mites of the order Acarina",
-            "translation": "",
+            "translation": "螨属",
             "examples": []
           }
         ]
@@ -15027,7 +15027,7 @@
           {
             "id": "accent-noun-3",
             "definition": "distinctive manner of oral expression",
-            "translation": "",
+            "translation": "口音",
             "examples": [
               {
                 "text": "Their couldn't suppress their contempt in their accent.",
@@ -15255,7 +15255,7 @@
           {
             "id": "accentuate-verb-2",
             "definition": "to stress, single out as important",
-            "translation": "",
+            "translation": "强调",
             "examples": [
               {
                 "text": "I accentuated the importance of good grades.",
@@ -15296,7 +15296,7 @@
           {
             "id": "accentuation-noun-2",
             "definition": "the use or application of an accent",
-            "translation": "",
+            "translation": "强调",
             "examples": []
           }
         ]
@@ -15530,7 +15530,7 @@
           {
             "id": "acceptable-adjective-1",
             "definition": "worthy of acceptance or satisfactory",
-            "translation": "",
+            "translation": "可接受的",
             "examples": [
               {
                 "text": "acceptable levels of radiation",
@@ -15687,7 +15687,7 @@
           {
             "id": "acceptance-noun-4",
             "definition": "the mental attitude that something is believable and should be accepted as true",
-            "translation": "",
+            "translation": "接受",
             "examples": []
           },
           {
@@ -15861,7 +15861,7 @@
           {
             "id": "accepted-adjective-1",
             "definition": "generally approved or compelling recognition",
-            "translation": "",
+            "translation": "公认的",
             "examples": [
               {
                 "text": "several accepted techniques for treating the condition",
@@ -16040,7 +16040,7 @@
           {
             "id": "access-noun-1",
             "definition": "the act of approaching or entering",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "We gained access to the building.",
@@ -16074,7 +16074,7 @@
           {
             "id": "access-noun-5",
             "definition": "the right to enter",
-            "translation": "",
+            "translation": "进入权",
             "examples": []
           },
           {
@@ -16285,7 +16285,7 @@
           {
             "id": "accessibility-noun-2",
             "definition": "the quality of being at hand when needed",
-            "translation": "",
+            "translation": "可及性",
             "examples": []
           }
         ]
@@ -16334,7 +16334,7 @@
           {
             "id": "accessible-adjective-1",
             "definition": "capable of being reached",
-            "translation": "",
+            "translation": "可接近的",
             "examples": [
               {
                 "text": "a town accessible by rail",
@@ -16413,7 +16413,7 @@
           {
             "id": "accession-noun-1",
             "definition": "the act of attaining or gaining access to a new office or right or position (especially the throne)",
-            "translation": "",
+            "translation": "就任",
             "examples": [
               {
                 "text": "Elizabeth's accession in 1558",
@@ -16626,7 +16626,7 @@
           {
             "id": "accessory-noun-1",
             "definition": "a supplementary component that improves capability",
-            "translation": "",
+            "translation": "附件",
             "examples": []
           },
           {
@@ -16638,7 +16638,7 @@
           {
             "id": "accessory-noun-3",
             "definition": "someone who helps another person commit a crime",
-            "translation": "",
+            "translation": "从犯",
             "examples": []
           }
         ]
@@ -16751,7 +16751,7 @@
           {
             "id": "accident-noun-1",
             "definition": "anything that happens suddenly or by chance without an apparent cause",
-            "translation": "",
+            "translation": "意外",
             "examples": [
               {
                 "text": "winning the lottery was a happy accident",
@@ -16819,7 +16819,7 @@
           {
             "id": "accident-prone-adjective-1",
             "definition": "having more than the average number of accidents",
-            "translation": "",
+            "translation": "易出事故的",
             "examples": []
           }
         ]
@@ -16986,7 +16986,7 @@
           {
             "id": "acclaim-noun-1",
             "definition": "enthusiastic approval",
-            "translation": "",
+            "translation": "称赞",
             "examples": [
               {
                 "text": "the book met with modest acclaim",
@@ -17002,7 +17002,7 @@
           {
             "id": "acclaim-verb-1",
             "definition": "to praise vociferously",
-            "translation": "",
+            "translation": "欢呼",
             "examples": [
               {
                 "text": "I acclaimed the director's recent work.",
@@ -17048,7 +17048,7 @@
           {
             "id": "acclamation-noun-1",
             "definition": "enthusiastic approval",
-            "translation": "",
+            "translation": "欢呼",
             "examples": []
           }
         ]
@@ -17370,7 +17370,7 @@
           {
             "id": "accolade-noun-1",
             "definition": "a tangible symbol signifying approval or distinction",
-            "translation": "",
+            "translation": "荣誉",
             "examples": []
           }
         ]
@@ -17417,7 +17417,7 @@
           {
             "id": "accommodate-verb-1",
             "definition": "to make fit for, or change to suit a new purpose",
-            "translation": "",
+            "translation": "适应",
             "examples": [
               {
                 "text": "I can accommodate you.",
@@ -17461,7 +17461,7 @@
           {
             "id": "accommodate-verb-5",
             "definition": "to provide housing for",
-            "translation": "",
+            "translation": "提供住宿",
             "examples": [
               {
                 "text": "I accommodated the travelers.",
@@ -17538,7 +17538,7 @@
           {
             "id": "accommodating-adjective-1",
             "definition": "helpful in bringing about a harmonious adaptation",
-            "translation": "",
+            "translation": "乐于助人的",
             "examples": [
               {
                 "text": "the warden was always accommodating in allowing visitors in",
@@ -17622,13 +17622,13 @@
           {
             "id": "accommodation-noun-2",
             "definition": "the act of providing something (lodging or seat or food) to meet a need",
-            "translation": "",
+            "translation": "提供",
             "examples": []
           },
           {
             "id": "accommodation-noun-3",
             "definition": "living quarters provided for public convenience",
-            "translation": "",
+            "translation": "住所",
             "examples": [
               {
                 "text": "overnight accommodations are available",
@@ -17727,7 +17727,7 @@
           {
             "id": "accommodative-adjective-2",
             "definition": "tending to reconcile or accommodate",
-            "translation": "",
+            "translation": "适应的",
             "examples": []
           },
           {
@@ -17872,7 +17872,7 @@
           {
             "id": "accompaniment-noun-4",
             "definition": "an event or situation that happens at the same time as or in connection with another",
-            "translation": "",
+            "translation": "伴随物",
             "examples": []
           }
         ]
@@ -17959,7 +17959,7 @@
           {
             "id": "accompany-verb-2",
             "definition": "to go or travel along with",
-            "translation": "",
+            "translation": "陪伴",
             "examples": [
               {
                 "text": "My siblings accompany me whenever I tour.",
@@ -18230,7 +18230,7 @@
           {
             "id": "accomplished-adjective-1",
             "definition": "successfully completed or brought to an end",
-            "translation": "",
+            "translation": "完成的",
             "examples": [
               {
                 "text": "With their mission accomplished, they took a much needed vacation.",
@@ -18299,13 +18299,13 @@
           {
             "id": "accomplishment-noun-1",
             "definition": "the action of accomplishing something",
-            "translation": "",
+            "translation": "成就",
             "examples": []
           },
           {
             "id": "accomplishment-noun-2",
             "definition": "an ability that has been acquired by training",
-            "translation": "",
+            "translation": "技能",
             "examples": []
           }
         ]
@@ -18368,7 +18368,7 @@
           {
             "id": "accord-noun-3",
             "definition": "concurrence of opinion",
-            "translation": "",
+            "translation": "一致",
             "examples": [
               {
                 "text": "we are in accord with your proposal",
@@ -18462,7 +18462,7 @@
           {
             "id": "accordance-noun-2",
             "definition": "concurrence of opinion",
-            "translation": "",
+            "translation": "一致",
             "examples": []
           }
         ]
@@ -18732,7 +18732,7 @@
           {
             "id": "accordingly-adverb-2",
             "definition": "in accordance with",
-            "translation": "",
+            "translation": "因此",
             "examples": [
               {
                 "text": "They acted accordingly.",
@@ -18912,7 +18912,7 @@
           {
             "id": "accoucheur-noun-1",
             "definition": "a physician specializing in obstetrics",
-            "translation": "",
+            "translation": "产科医生",
             "examples": []
           }
         ]
@@ -18942,7 +18942,7 @@
           {
             "id": "accoucheuse-noun-1",
             "definition": "a woman skilled in aiding the delivery of babies",
-            "translation": "",
+            "translation": "助产士",
             "examples": []
           }
         ]
@@ -19056,7 +19056,7 @@
           {
             "id": "account-noun-9",
             "definition": "a statement of recent transactions and the resulting balance",
-            "translation": "",
+            "translation": "账目",
             "examples": [
               {
                 "text": "they send me an accounting every month",
@@ -19067,7 +19067,7 @@
           {
             "id": "account-noun-10",
             "definition": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
-            "translation": "",
+            "translation": "账户",
             "examples": [
               {
                 "text": "I asked to see the executive who handled my account.",
@@ -19094,7 +19094,7 @@
           {
             "id": "account-verb-2",
             "definition": "to give an account or representation of in words",
-            "translation": "",
+            "translation": "解释",
             "examples": [
               {
                 "text": "You have to account for these losses somehow.",
@@ -19211,7 +19211,7 @@
           {
             "id": "accountability-noun-1",
             "definition": "responsibility to someone or for some activity",
-            "translation": "",
+            "translation": "责任",
             "examples": []
           }
         ]
@@ -19244,7 +19244,7 @@
           {
             "id": "accountable-adjective-1",
             "definition": "liable to account for one's actions",
-            "translation": "",
+            "translation": "有责任的",
             "examples": [
               {
                 "text": "governments must be accountable to someone beside themselves",
@@ -19319,7 +19319,7 @@
           {
             "id": "accountant-noun-1",
             "definition": "someone who maintains and audits business accounts",
-            "translation": "",
+            "translation": "会计师",
             "examples": []
           }
         ]
@@ -19397,13 +19397,13 @@
           {
             "id": "accounting-noun-1",
             "definition": "the occupation of maintaining and auditing records and preparing financial reports for a business",
-            "translation": "",
+            "translation": "会计学",
             "examples": []
           },
           {
             "id": "accounting-noun-2",
             "definition": "a system that provides quantitative information about finances",
-            "translation": "",
+            "translation": "会计",
             "examples": []
           },
           {
@@ -20075,7 +20075,7 @@
           {
             "id": "accrual-noun-1",
             "definition": "the act of accumulating",
-            "translation": "",
+            "translation": "累积",
             "examples": []
           }
         ]
@@ -20116,7 +20116,7 @@
           {
             "id": "accrue-verb-1",
             "definition": "to grow by addition",
-            "translation": "",
+            "translation": "累积",
             "examples": [
               {
                 "text": "The interest accrues constantly.",
@@ -20167,7 +20167,7 @@
           {
             "id": "accrued-adjective-1",
             "definition": "periodically accumulated over time",
-            "translation": "",
+            "translation": "累积的",
             "examples": [
               {
                 "text": "accrued interest",
@@ -20433,7 +20433,7 @@
           {
             "id": "accumulate-verb-2",
             "definition": "to get or gather together",
-            "translation": "",
+            "translation": "积累",
             "examples": [
               {
                 "text": "Let's accumulate some oak wood to build a fire.",
@@ -20525,7 +20525,7 @@
           {
             "id": "accumulation-noun-2",
             "definition": "several things grouped together or considered as a whole",
-            "translation": "",
+            "translation": "堆积",
             "examples": []
           },
           {
@@ -20537,7 +20537,7 @@
           {
             "id": "accumulation-noun-4",
             "definition": "an increase by natural growth or addition",
-            "translation": "",
+            "translation": "积累",
             "examples": []
           }
         ]
@@ -20583,7 +20583,7 @@
           {
             "id": "accumulative-adjective-2",
             "definition": "increasing by successive addition",
-            "translation": "",
+            "translation": "累积的",
             "examples": []
           }
         ]
@@ -20666,7 +20666,7 @@
           {
             "id": "accuracy-noun-1",
             "definition": "the quality of being near to the true value",
-            "translation": "",
+            "translation": "准确性",
             "examples": [
               {
                 "text": "I was beginning to doubt the accuracy of my compass when I finally came upon a recognizable landmark.",
@@ -21097,7 +21097,7 @@
           {
             "id": "accusatory-adjective-1",
             "definition": "containing or expressing accusation",
-            "translation": "",
+            "translation": "指责的",
             "examples": []
           }
         ]
@@ -21140,7 +21140,7 @@
           {
             "id": "accuse-verb-1",
             "definition": "to bring an accusation against",
-            "translation": "",
+            "translation": "控告",
             "examples": [
               {
                 "text": "I accuse you of stealing the last cookie.",
@@ -21184,7 +21184,7 @@
           {
             "id": "accused-noun-1",
             "definition": "a defendant in a criminal proceeding",
-            "translation": "",
+            "translation": "被告",
             "examples": []
           }
         ]
@@ -21214,7 +21214,7 @@
           {
             "id": "accuser-noun-1",
             "definition": "someone who imputes guilt or blame",
-            "translation": "",
+            "translation": "控告者",
             "examples": []
           }
         ]
@@ -21272,7 +21272,7 @@
           {
             "id": "accusingly-adverb-1",
             "definition": "in an accusing manner",
-            "translation": "",
+            "translation": "指责地",
             "examples": [
               {
                 "text": "They looked at us accusingly.",
@@ -21969,7 +21969,7 @@
           {
             "id": "acerbic-adjective-1",
             "definition": "harsh or corrosive in tone",
-            "translation": "",
+            "translation": "尖刻的",
             "examples": [
               {
                 "text": "an acerbic tone piercing otherwise flowery prose",
@@ -22458,7 +22458,7 @@
           {
             "id": "acetate-noun-2",
             "definition": "a salt or ester of acetic acid",
-            "translation": "",
+            "translation": "醋酸盐",
             "examples": []
           }
         ]
@@ -22486,7 +22486,7 @@
           {
             "id": "acetic-adjective-1",
             "definition": "relating to or containing acetic acid",
-            "translation": "",
+            "translation": "乙酸的",
             "examples": []
           }
         ]
@@ -23015,7 +23015,7 @@
           {
             "id": "acetylene-noun-1",
             "definition": "a colorless flammable gas used chiefly in welding and in organic synthesis",
-            "translation": "",
+            "translation": "乙炔",
             "examples": []
           }
         ]
@@ -23488,7 +23488,7 @@
           {
             "id": "achieve-verb-1",
             "definition": "to gain with effort",
-            "translation": "",
+            "translation": "实现",
             "examples": [
               {
                 "text": "I achieved my goal despite setbacks.",
@@ -23529,7 +23529,7 @@
           {
             "id": "achievement-noun-1",
             "definition": "the action of accomplishing something",
-            "translation": "",
+            "translation": "成就",
             "examples": []
           }
         ]
@@ -23653,7 +23653,7 @@
           {
             "id": "aching-adjective-1",
             "definition": "causing a dull and steady pain",
-            "translation": "",
+            "translation": "疼痛的",
             "examples": [
               {
                 "text": "my aching head",
@@ -24033,7 +24033,7 @@
           {
             "id": "achromatic-adjective-1",
             "definition": "having no hue",
-            "translation": "",
+            "translation": "无色的",
             "examples": []
           }
         ]
@@ -24184,7 +24184,7 @@
           {
             "id": "achromatism-noun-1",
             "definition": "the visual property of being without chromatic color",
-            "translation": "",
+            "translation": "消色差",
             "examples": []
           }
         ]
@@ -24542,7 +24542,7 @@
           {
             "id": "acid-adjective-2",
             "definition": "harsh or corrosive in tone",
-            "translation": "",
+            "translation": "尖酸的",
             "examples": []
           },
           {
@@ -24565,7 +24565,7 @@
           {
             "id": "acid-noun-2",
             "definition": "any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt",
-            "translation": "",
+            "translation": "酸",
             "examples": []
           }
         ]
@@ -24818,7 +24818,7 @@
           {
             "id": "acidification-noun-1",
             "definition": "the process of becoming acid or being converted into an acid",
-            "translation": "",
+            "translation": "酸化",
             "examples": []
           }
         ]
@@ -24958,7 +24958,7 @@
           {
             "id": "acidity-noun-1",
             "definition": "the property of being acidic",
-            "translation": "",
+            "translation": "酸性",
             "examples": []
           },
           {
@@ -25274,7 +25274,7 @@
           {
             "id": "acidulous-adjective-1",
             "definition": "being sour to the taste",
-            "translation": "",
+            "translation": "微酸的",
             "examples": []
           }
         ]
@@ -25837,7 +25837,7 @@
           {
             "id": "acknowledgment-noun-2",
             "definition": "a statement acknowledging something or someone",
-            "translation": "",
+            "translation": "致谢",
             "examples": [
               {
                 "text": "Your acknowledgment meant the world to them.",
@@ -26217,7 +26217,7 @@
           {
             "id": "acoustic-adjective-1",
             "definition": "of or relating to the science of acoustics",
-            "translation": "",
+            "translation": "声学的",
             "examples": [
               {
                 "text": "acoustic properties of a hall",
@@ -26265,7 +26265,7 @@
           {
             "id": "acoustical-adjective-1",
             "definition": "of or relating to the science of acoustics",
-            "translation": "",
+            "translation": "声学的",
             "examples": []
           }
         ]
@@ -26384,7 +26384,7 @@
           {
             "id": "acoustics-noun-1",
             "definition": "the study of the physical properties of sound",
-            "translation": "",
+            "translation": "声学",
             "examples": []
           }
         ]
@@ -26501,13 +26501,13 @@
           {
             "id": "acquaintance-noun-1",
             "definition": "personal knowledge or information about someone or something",
-            "translation": "",
+            "translation": "了解",
             "examples": []
           },
           {
             "id": "acquaintance-noun-2",
             "definition": "a person with whom you are acquainted",
-            "translation": "",
+            "translation": "熟人",
             "examples": [
               {
                 "text": "I have trouble remembering the names of all my acquaintances",
@@ -26630,7 +26630,7 @@
           {
             "id": "acquiesce-verb-1",
             "definition": "to agree or express agreement",
-            "translation": "",
+            "translation": "默许",
             "examples": [
               {
                 "text": "After the theory had been explained to me, I acquiesced.",
@@ -26710,7 +26710,7 @@
           {
             "id": "acquiescent-adjective-1",
             "definition": "willing to carry out the orders or wishes of another without protest",
-            "translation": "",
+            "translation": "默许的",
             "examples": [
               {
                 "text": "too acquiescent to challenge authority",
@@ -26820,7 +26820,7 @@
           {
             "id": "acquire-verb-4",
             "definition": "to come into the possession of something concrete or abstract",
-            "translation": "",
+            "translation": "获得",
             "examples": [
               {
                 "text": "I acquired a new car.",
@@ -26882,7 +26882,7 @@
           {
             "id": "acquired-adjective-1",
             "definition": "gotten through environmental forces",
-            "translation": "",
+            "translation": "获得的",
             "examples": [
               {
                 "text": "acquired characteristics (such as a suntan or a broken nose) cannot be passed on",
@@ -26970,7 +26970,7 @@
           {
             "id": "acquirer-noun-4",
             "definition": "a person who acquires something (usually permanently)",
-            "translation": "",
+            "translation": "获得者",
             "examples": []
           }
         ]
@@ -27071,7 +27071,7 @@
           {
             "id": "acquisition-noun-4",
             "definition": "something acquired",
-            "translation": "",
+            "translation": "获得物",
             "examples": [
               {
                 "text": "a recent acquisition by the museum",
@@ -27117,7 +27117,7 @@
           {
             "id": "acquisitive-adjective-1",
             "definition": "eager to acquire and possess things especially material possessions or ideas",
-            "translation": "",
+            "translation": "贪得的",
             "examples": [
               {
                 "text": "an acquisitive mind",
@@ -27222,7 +27222,7 @@
           {
             "id": "acquittal-noun-1",
             "definition": "a judgment of not guilty",
-            "translation": "",
+            "translation": "无罪释放",
             "examples": []
           }
         ]
@@ -27328,7 +27328,7 @@
           {
             "id": "acre-noun-1",
             "definition": "a unit of area (4840 square yards) used in English-speaking countries",
-            "translation": "",
+            "translation": "英亩",
             "examples": []
           }
         ]
@@ -27474,7 +27474,7 @@
           {
             "id": "acrid-adjective-2",
             "definition": "strong and sharp",
-            "translation": "",
+            "translation": "辛辣的",
             "examples": []
           }
         ]
@@ -27620,7 +27620,7 @@
           {
             "id": "acrimonious-adjective-1",
             "definition": "marked by strong resentment or cynicism",
-            "translation": "",
+            "translation": "刻薄的",
             "examples": [
               {
                 "text": "an acrimonious dispute",
@@ -29016,7 +29016,7 @@
           {
             "id": "act-noun-2",
             "definition": "a legal document codifying the result of deliberations of a committee or society or legislative body",
-            "translation": "",
+            "translation": "法案",
             "examples": []
           },
           {
@@ -29033,7 +29033,7 @@
           {
             "id": "act-noun-4",
             "definition": "a subdivision of a play or opera or ballet",
-            "translation": "",
+            "translation": "一幕",
             "examples": []
           },
           {
@@ -29417,7 +29417,7 @@
           {
             "id": "acting-adjective-1",
             "definition": "serving temporarily especially as a substitute",
-            "translation": "",
+            "translation": "代理的",
             "examples": []
           }
         ]
@@ -29428,7 +29428,7 @@
           {
             "id": "acting-noun-1",
             "definition": "the performance of a part or role in a drama",
-            "translation": "",
+            "translation": "表演",
             "examples": []
           }
         ]
@@ -30318,7 +30318,7 @@
           {
             "id": "action-noun-2",
             "definition": "the most important or interesting work or activity in a specific area or field",
-            "translation": "",
+            "translation": "活动",
             "examples": [
               {
                 "text": "the action is no longer in technology stocks but in municipal bonds",
@@ -30549,7 +30549,7 @@
           {
             "id": "actionable-adjective-1",
             "definition": "affording grounds for legal action",
-            "translation": "",
+            "translation": "可起诉的",
             "examples": [
               {
                 "text": "slander is an actionable offense",
@@ -30592,7 +30592,7 @@
           {
             "id": "activate-verb-1",
             "definition": "to make active or more active",
-            "translation": "",
+            "translation": "激活",
             "examples": [
               {
                 "text": "You should activate that old file.",
@@ -30671,7 +30671,7 @@
           {
             "id": "activated-adjective-1",
             "definition": "(military) set up and placed on active assignment",
-            "translation": "",
+            "translation": "激活的",
             "examples": [
               {
                 "text": "a newly activated unit",
@@ -30736,7 +30736,7 @@
           {
             "id": "activating-noun-1",
             "definition": "the activity of causing to have energy and be active",
-            "translation": "",
+            "translation": "激活",
             "examples": []
           }
         ]
@@ -30773,7 +30773,7 @@
           {
             "id": "activation-noun-2",
             "definition": "the activity of causing to have energy and be active",
-            "translation": "",
+            "translation": "激活",
             "examples": []
           },
           {
@@ -30850,7 +30850,7 @@
           {
             "id": "active-adjective-1",
             "definition": "characterized by energetic activity",
-            "translation": "",
+            "translation": "活跃的",
             "examples": [
               {
                 "text": "an active toddler",
@@ -30962,7 +30962,7 @@
           {
             "id": "active-adjective-13",
             "definition": "taking part in an activity",
-            "translation": "",
+            "translation": "积极的",
             "examples": [
               {
                 "text": "an active member of the club",
@@ -31046,7 +31046,7 @@
           {
             "id": "actively-adverb-1",
             "definition": "in an active manner",
-            "translation": "",
+            "translation": "积极地",
             "examples": [
               {
                 "text": "They participated actively in the war.",
@@ -31256,7 +31256,7 @@
           {
             "id": "activity-noun-1",
             "definition": "any specific behavior",
-            "translation": "",
+            "translation": "活动",
             "examples": [
               {
                 "text": "they avoided all recreational activity",
@@ -31290,7 +31290,7 @@
           {
             "id": "activity-noun-5",
             "definition": "the state of being active",
-            "translation": "",
+            "translation": "活性",
             "examples": [
               {
                 "text": "Your sphere of activity is pretty large.",
@@ -31419,7 +31419,7 @@
           {
             "id": "actor-noun-1",
             "definition": "a theatrical performer",
-            "translation": "",
+            "translation": "演员",
             "examples": []
           },
           {
@@ -31462,7 +31462,7 @@
           {
             "id": "actress-noun-1",
             "definition": "a female actor",
-            "translation": "",
+            "translation": "女演员",
             "examples": []
           }
         ]
@@ -31647,7 +31647,7 @@
           {
             "id": "actuality-noun-1",
             "definition": "the state of actually existing objectively",
-            "translation": "",
+            "translation": "现实",
             "examples": [
               {
                 "text": "a hope that progressed from possibility to actuality",
@@ -32008,7 +32008,7 @@
           {
             "id": "actuation-noun-1",
             "definition": "the act of propelling",
-            "translation": "",
+            "translation": "驱动",
             "examples": []
           }
         ]
@@ -32041,7 +32041,7 @@
           {
             "id": "actuator-noun-1",
             "definition": "a mechanism that puts something into automatic action",
-            "translation": "",
+            "translation": "执行器",
             "examples": []
           }
         ]
@@ -32104,7 +32104,7 @@
           {
             "id": "acuity-noun-1",
             "definition": "a quick and penetrating intelligence",
-            "translation": "",
+            "translation": "洞察力",
             "examples": []
           },
           {
@@ -32428,7 +32428,7 @@
           {
             "id": "acute-adjective-1",
             "definition": "having or experiencing a rapid onset and short but severe course",
-            "translation": "",
+            "translation": "严重的",
             "examples": [
               {
                 "text": "acute appendicitis",
@@ -32450,7 +32450,7 @@
           {
             "id": "acute-adjective-3",
             "definition": "extremely sharp or intense",
-            "translation": "",
+            "translation": "急性的",
             "examples": [
               {
                 "text": "acute pain",
@@ -32540,7 +32540,7 @@
           {
             "id": "acutely-adverb-3",
             "definition": "in an acute manner",
-            "translation": "",
+            "translation": "急剧地",
             "examples": [
               {
                 "text": "I pitied my sister acutely.",
@@ -32581,7 +32581,7 @@
           {
             "id": "acuteness-noun-1",
             "definition": "the quality of having a sharp edge or point",
-            "translation": "",
+            "translation": "尖锐",
             "examples": []
           },
           {
@@ -32698,7 +32698,7 @@
           {
             "id": "acyl-noun-1",
             "definition": "any group or radical of the form RCO- where R is an organic group",
-            "translation": "",
+            "translation": "酰基",
             "examples": [
               {
                 "text": "an example of the acyl group is the acetyl group",
@@ -32843,7 +32843,7 @@
           {
             "id": "ad-noun-1",
             "definition": "a public promotion of some product or service",
-            "translation": "",
+            "translation": "广告",
             "examples": []
           }
         ]
@@ -33139,7 +33139,7 @@
           {
             "id": "adagio-adverb-1",
             "definition": "slowly",
-            "translation": "",
+            "translation": "缓慢地",
             "examples": [
               {
                 "text": "here you must play adagio",
@@ -33161,7 +33161,7 @@
           {
             "id": "adagio-noun-2",
             "definition": "(music) a composition played in adagio tempo (slowly and gracefully)",
-            "translation": "",
+            "translation": "柔板",
             "examples": [
               {
                 "text": "they played the adagio too quickly",
@@ -33351,7 +33351,7 @@
           {
             "id": "adamantine-adjective-3",
             "definition": "consisting of or having the hardness of adamant",
-            "translation": "",
+            "translation": "坚硬的",
             "examples": []
           }
         ]
@@ -33471,7 +33471,7 @@
           {
             "id": "adaptability-noun-1",
             "definition": "the ability to change (or be changed) to fit changed circumstances",
-            "translation": "",
+            "translation": "适应性",
             "examples": []
           }
         ]
@@ -33552,7 +33552,7 @@
           {
             "id": "adaptation-noun-2",
             "definition": "a written work (as a novel) that has been recast in a new form",
-            "translation": "",
+            "translation": "改编",
             "examples": [
               {
                 "text": "the play is an adaptation of a short novel",
@@ -33702,7 +33702,7 @@
           {
             "id": "adapter-noun-1",
             "definition": "device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible",
-            "translation": "",
+            "translation": "适配器",
             "examples": []
           },
           {
@@ -33738,7 +33738,7 @@
           {
             "id": "adaption-noun-1",
             "definition": "the process of adapting to something (such as environmental conditions)",
-            "translation": "",
+            "translation": "适应",
             "examples": []
           }
         ]
@@ -33770,7 +33770,7 @@
           {
             "id": "adaptive-adjective-1",
             "definition": "having a capacity for adaptation",
-            "translation": "",
+            "translation": "适应的",
             "examples": [
               {
                 "text": "the adaptive coloring of a chameleon",
@@ -33805,7 +33805,7 @@
           {
             "id": "adaptor-noun-1",
             "definition": "device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible",
-            "translation": "",
+            "translation": "适配器",
             "examples": []
           }
         ]
@@ -34207,7 +34207,7 @@
           {
             "id": "add-verb-4",
             "definition": "to state or say further",
-            "translation": "",
+            "translation": "补充",
             "examples": [
               {
                 "text": "Let me add that I agree with what the others have said.",
@@ -34660,7 +34660,7 @@
           {
             "id": "adder-noun-2",
             "definition": "a machine that adds numbers",
-            "translation": "",
+            "translation": "加法器",
             "examples": []
           },
           {
@@ -34951,7 +34951,7 @@
           {
             "id": "addition-noun-1",
             "definition": "the act of adding one thing to another",
-            "translation": "",
+            "translation": "加法",
             "examples": [
               {
                 "text": "the addition of flowers created a pleasing effect",
@@ -34968,7 +34968,7 @@
           {
             "id": "addition-noun-3",
             "definition": "a component that is added to something to improve it",
-            "translation": "",
+            "translation": "添加物",
             "examples": [
               {
                 "text": "the addition of a bathroom was a major improvement",
@@ -35140,7 +35140,7 @@
           {
             "id": "additive-adjective-2",
             "definition": "designating or involving an equation whose terms are of the first degree",
-            "translation": "",
+            "translation": "加法的",
             "examples": []
           }
         ]
@@ -35151,7 +35151,7 @@
           {
             "id": "additive-noun-1",
             "definition": "something added to enhance food or gasoline or paint or medicine",
-            "translation": "",
+            "translation": "添加剂",
             "examples": []
           }
         ]
@@ -35482,7 +35482,7 @@
           {
             "id": "address-noun-8",
             "definition": "the place where a person or organization can be found or communicated with",
-            "translation": "",
+            "translation": "地址",
             "examples": []
           }
         ]
@@ -36128,7 +36128,7 @@
           {
             "id": "adenocarcinoma-noun-1",
             "definition": "malignant tumor originating in glandular epithelium",
-            "translation": "",
+            "translation": "腺癌",
             "examples": []
           }
         ]
@@ -36471,7 +36471,7 @@
           {
             "id": "adenosine-noun-1",
             "definition": "a nucleoside that is a structural component of nucleic acids",
-            "translation": "",
+            "translation": "腺苷",
             "examples": [
               {
                 "text": "Adenosine is a part of ATP which fuels the body.",
@@ -36534,7 +36534,7 @@
           {
             "id": "adenovirus-noun-1",
             "definition": "any of a group of viruses including those that in humans cause upper respiratory infections or infectious pinkeye",
-            "translation": "",
+            "translation": "腺病毒",
             "examples": []
           }
         ]
@@ -36569,7 +36569,7 @@
           {
             "id": "adept-adjective-1",
             "definition": "having or showing knowledge and skill and aptitude",
-            "translation": "",
+            "translation": "熟练的",
             "examples": [
               {
                 "text": "adept in handicrafts",
@@ -37032,7 +37032,7 @@
           {
             "id": "adherence-noun-1",
             "definition": "faithful support for a cause or political party or religion",
-            "translation": "",
+            "translation": "坚持",
             "examples": []
           },
           {
@@ -37083,7 +37083,7 @@
           {
             "id": "adherent-adjective-1",
             "definition": "sticking fast",
-            "translation": "",
+            "translation": "粘附的",
             "examples": []
           }
         ]
@@ -37094,7 +37094,7 @@
           {
             "id": "adherent-noun-1",
             "definition": "someone who believes and helps to spread the doctrine of another",
-            "translation": "",
+            "translation": "信徒",
             "examples": []
           }
         ]
@@ -37191,7 +37191,7 @@
           {
             "id": "adhesive-adjective-1",
             "definition": "tending to adhere",
-            "translation": "",
+            "translation": "粘性的",
             "examples": []
           }
         ]
@@ -37202,7 +37202,7 @@
           {
             "id": "adhesive-noun-1",
             "definition": "a substance that unites or bonds surfaces together",
-            "translation": "",
+            "translation": "粘合剂",
             "examples": []
           }
         ]
@@ -37298,7 +37298,7 @@
           {
             "id": "adiabatic-adjective-1",
             "definition": "occurring without loss or gain of heat",
-            "translation": "",
+            "translation": "绝热的",
             "examples": [
               {
                 "text": "adiabatic expansion",
@@ -37389,7 +37389,7 @@
           {
             "id": "adieu-noun-1",
             "definition": "a farewell remark",
-            "translation": "",
+            "translation": "再见",
             "examples": []
           }
         ]
@@ -37657,7 +37657,7 @@
           {
             "id": "adjacent-adjective-1",
             "definition": "near or close to but not necessarily touching",
-            "translation": "",
+            "translation": "相邻的",
             "examples": [
               {
                 "text": "lands adjacent to the mountains",
@@ -37789,7 +37789,7 @@
           {
             "id": "adjective-adjective-2",
             "definition": "of or relating to or functioning as an adjective",
-            "translation": "",
+            "translation": "形容词的",
             "examples": []
           }
         ]
@@ -37806,7 +37806,7 @@
           {
             "id": "adjective-noun-2",
             "definition": "a word that expresses an attribute of something",
-            "translation": "",
+            "translation": "形容词",
             "examples": []
           }
         ]
@@ -38018,7 +38018,7 @@
           {
             "id": "adjournment-noun-1",
             "definition": "the termination of a meeting",
-            "translation": "",
+            "translation": "休会",
             "examples": []
           },
           {
@@ -38063,7 +38063,7 @@
           {
             "id": "adjudge-verb-1",
             "definition": "to declare to be",
-            "translation": "",
+            "translation": "宣判",
             "examples": [
               {
                 "text": "I adjudge you to be lying to me!",
@@ -38576,7 +38576,7 @@
           {
             "id": "adjust-verb-2",
             "definition": "to alter or regulate so as to achieve accuracy or conform to a standard",
-            "translation": "",
+            "translation": "调整",
             "examples": [
               {
                 "text": "We adjusted to fit in.",
@@ -38778,7 +38778,7 @@
           {
             "id": "adjuster-noun-1",
             "definition": "one who investigates insurance claims or claims for damages and recommends an effective settlement",
-            "translation": "",
+            "translation": "理算员",
             "examples": []
           }
         ]
@@ -38843,7 +38843,7 @@
           {
             "id": "adjustment-noun-1",
             "definition": "the act of making something different (as e.g. the size of a garment)",
-            "translation": "",
+            "translation": "调整",
             "examples": []
           },
           {
@@ -40089,7 +40089,7 @@
           {
             "id": "admissible-adjective-1",
             "definition": "deserving to be admitted",
-            "translation": "",
+            "translation": "可接纳的",
             "examples": [
               {
                 "text": "admissible evidence",
@@ -40144,7 +40144,7 @@
           {
             "id": "admission-noun-1",
             "definition": "the act of admitting someone to enter",
-            "translation": "",
+            "translation": "入场",
             "examples": [
               {
                 "text": "The surgery was performed on my second admission to the clinic.",
@@ -40315,7 +40315,7 @@
           {
             "id": "admit-verb-3",
             "definition": "to declare to be true or admit the existence or reality or truth of",
-            "translation": "",
+            "translation": "承认",
             "examples": [
               {
                 "text": "They admitted their errors.",
@@ -40454,7 +40454,7 @@
           {
             "id": "admittance-noun-2",
             "definition": "the right to enter",
-            "translation": "",
+            "translation": "进入权",
             "examples": []
           }
         ]
@@ -40760,7 +40760,7 @@
           {
             "id": "admonishment-noun-1",
             "definition": "a firm rebuke",
-            "translation": "",
+            "translation": "告诫",
             "examples": []
           }
         ]
@@ -41141,7 +41141,7 @@
           {
             "id": "adolescence-noun-2",
             "definition": "the time period between the beginning of puberty and adulthood",
-            "translation": "",
+            "translation": "青春期",
             "examples": []
           }
         ]
@@ -41209,7 +41209,7 @@
           {
             "id": "adolescent-adjective-4",
             "definition": "relating to or peculiar to or suggestive of an adolescent",
-            "translation": "",
+            "translation": "青春期的",
             "examples": [
               {
                 "text": "adolescent problems",
@@ -41354,7 +41354,7 @@
           {
             "id": "adopt-verb-1",
             "definition": "to take into one's family",
-            "translation": "",
+            "translation": "收养",
             "examples": [
               {
                 "text": "They adopted two children.",
@@ -41724,7 +41724,7 @@
           {
             "id": "adorable-adjective-1",
             "definition": "lovable especially in a childlike or naive way",
-            "translation": "",
+            "translation": "可爱的",
             "examples": []
           }
         ]
@@ -41833,7 +41833,7 @@
           {
             "id": "adoration-noun-3",
             "definition": "a feeling of profound love and admiration",
-            "translation": "",
+            "translation": "爱慕",
             "examples": []
           }
         ]
@@ -41872,7 +41872,7 @@
           {
             "id": "adore-verb-1",
             "definition": "to love intensely",
-            "translation": "",
+            "translation": "爱慕",
             "examples": [
               {
                 "text": "Everyone could tell that they just adored their spouse.",
@@ -42120,7 +42120,7 @@
           {
             "id": "adorned-adjective-1",
             "definition": "provided with something intended to increase its beauty or distinction",
-            "translation": "",
+            "translation": "装饰的",
             "examples": []
           }
         ]
@@ -42702,7 +42702,7 @@
           {
             "id": "adroit-adjective-1",
             "definition": "quick or skillful or adept in action or thought",
-            "translation": "",
+            "translation": "熟练的",
             "examples": [
               {
                 "text": "an exceptionally adroit pianist",
@@ -42765,7 +42765,7 @@
           {
             "id": "adroitness-noun-1",
             "definition": "skillful performance or ability without difficulty",
-            "translation": "",
+            "translation": "熟练",
             "examples": []
           }
         ]
@@ -43243,7 +43243,7 @@
           {
             "id": "adult-adjective-1",
             "definition": "(of animals) fully developed",
-            "translation": "",
+            "translation": "成年的",
             "examples": [
               {
                 "text": "an adult animal",
@@ -43271,7 +43271,7 @@
           {
             "id": "adult-noun-2",
             "definition": "a fully developed person from maturity onward",
-            "translation": "",
+            "translation": "成年人",
             "examples": []
           }
         ]
@@ -43313,7 +43313,7 @@
           {
             "id": "adulterant-noun-1",
             "definition": "any substance that lessens the purity or effectiveness of a substance",
-            "translation": "",
+            "translation": "掺杂物",
             "examples": [
               {
                 "text": "it is necessary to remove the adulterants before use",
@@ -43401,7 +43401,7 @@
           {
             "id": "adulterated-adjective-1",
             "definition": "mixed with impurities",
-            "translation": "",
+            "translation": "掺假的",
             "examples": []
           }
         ]
@@ -43468,7 +43468,7 @@
           {
             "id": "adulteration-noun-1",
             "definition": "the act of adulterating (especially the illicit substitution of one substance for another)",
-            "translation": "",
+            "translation": "掺假",
             "examples": []
           },
           {
@@ -43710,7 +43710,7 @@
           {
             "id": "adultery-noun-1",
             "definition": "extramarital sex that willfully and maliciously interferes with marriage relations",
-            "translation": "",
+            "translation": "通奸",
             "examples": [
               {
                 "text": "adultery is often cited as grounds for divorce",
@@ -43750,7 +43750,7 @@
           {
             "id": "adulthood-noun-1",
             "definition": "the state (and responsibilities) of a person who has attained maturity",
-            "translation": "",
+            "translation": "成年",
             "examples": []
           },
           {
@@ -44946,7 +44946,7 @@
           {
             "id": "advent-noun-2",
             "definition": "the season including the four Sundays preceding Christmas",
-            "translation": "",
+            "translation": "降临节",
             "examples": []
           }
         ]
@@ -45461,7 +45461,7 @@
           {
             "id": "adverbial-adjective-1",
             "definition": "of or relating to or functioning as an adverb",
-            "translation": "",
+            "translation": "副词的",
             "examples": [
               {
                 "text": "adverbial syntax",
@@ -45623,7 +45623,7 @@
           {
             "id": "adverse-adjective-2",
             "definition": "contrary to your interests or welfare",
-            "translation": "",
+            "translation": "不利的",
             "examples": [
               {
                 "text": "adverse circumstances",
@@ -45706,7 +45706,7 @@
           {
             "id": "adversity-noun-2",
             "definition": "a state of misfortune or affliction",
-            "translation": "",
+            "translation": "逆境",
             "examples": [
               {
                 "text": "debt-ridden farmers struggling with adversity",
@@ -46091,7 +46091,7 @@
           {
             "id": "advertising-noun-1",
             "definition": "the business of drawing public attention to goods and services",
-            "translation": "",
+            "translation": "广告业",
             "examples": []
           },
           {
@@ -46311,7 +46311,7 @@
           {
             "id": "advice-noun-1",
             "definition": "a proposal for an appropriate course of action",
-            "translation": "",
+            "translation": "建议",
             "examples": []
           }
         ]
@@ -46435,7 +46435,7 @@
           {
             "id": "advise-verb-1",
             "definition": "to give advice to",
-            "translation": "",
+            "translation": "建议",
             "examples": [
               {
                 "text": "My financial planner advised me to invest for the long term.",
@@ -46793,7 +46793,7 @@
           {
             "id": "advocacy-noun-1",
             "definition": "active support of an idea or cause etc.",
-            "translation": "",
+            "translation": "倡导",
             "examples": []
           }
         ]
@@ -46843,7 +46843,7 @@
           {
             "id": "advocate-noun-1",
             "definition": "a person who pleads for a cause or propounds an idea",
-            "translation": "",
+            "translation": "倡导者",
             "examples": []
           },
           {
@@ -47619,7 +47619,7 @@
           {
             "id": "aerial-adjective-1",
             "definition": "existing or living or growing or operating in the air",
-            "translation": "",
+            "translation": "空中的",
             "examples": [
               {
                 "text": "aerial roots of a philodendron",
@@ -47647,7 +47647,7 @@
           {
             "id": "aerial-noun-2",
             "definition": "an electrical device that sends or receives radio or television signals",
-            "translation": "",
+            "translation": "天线",
             "examples": []
           }
         ]
@@ -47966,7 +47966,7 @@
           {
             "id": "aerobic-adjective-1",
             "definition": "depending on free oxygen or air",
-            "translation": "",
+            "translation": "有氧的",
             "examples": [
               {
                 "text": "aerobic fermentation",
@@ -48126,7 +48126,7 @@
           {
             "id": "aerodrome-noun-1",
             "definition": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
-            "translation": "",
+            "translation": "机场",
             "examples": []
           }
         ]
@@ -48162,7 +48162,7 @@
           {
             "id": "aerodynamic-adjective-2",
             "definition": "of or relating to aerodynamics",
-            "translation": "",
+            "translation": "空气动力学的",
             "examples": []
           }
         ]
@@ -48616,7 +48616,7 @@
           {
             "id": "aeronaut-noun-1",
             "definition": "someone who operates an aircraft",
-            "translation": "",
+            "translation": "飞行员",
             "examples": [
               {
                 "text": "The child wants to be an aeronaut.",
@@ -48713,7 +48713,7 @@
           {
             "id": "aeronautics-noun-1",
             "definition": "the theory and practice of navigation through air or space",
-            "translation": "",
+            "translation": "航空学",
             "examples": []
           }
         ]
@@ -49449,7 +49449,7 @@
           {
             "id": "aesthetic-adjective-1",
             "definition": "concerning or characterized by an appreciation of beauty or good taste",
-            "translation": "",
+            "translation": "审美的",
             "examples": [
               {
                 "text": "I find that my aesthetic faculties get stronger every time I visit a museum.",
@@ -50160,7 +50160,7 @@
           {
             "id": "affably-adverb-1",
             "definition": "in an affable manner",
-            "translation": "",
+            "translation": "和蔼地",
             "examples": []
           }
         ]
@@ -50204,7 +50204,7 @@
           {
             "id": "affair-noun-2",
             "definition": "a vaguely specified social event",
-            "translation": "",
+            "translation": "事件",
             "examples": [
               {
                 "text": "the party was quite an affair",
@@ -50215,7 +50215,7 @@
           {
             "id": "affair-noun-3",
             "definition": "a usually secretive or illicit sexual relationship",
-            "translation": "",
+            "translation": "风流韵事",
             "examples": []
           }
         ]
@@ -50659,7 +50659,7 @@
           {
             "id": "affection-noun-1",
             "definition": "a positive feeling of liking",
-            "translation": "",
+            "translation": "喜爱",
             "examples": [
               {
                 "text": "I had trouble expressing the affection I felt.",
@@ -50727,7 +50727,7 @@
           {
             "id": "affectionate-adjective-1",
             "definition": "having or displaying warmth or affection",
-            "translation": "",
+            "translation": "深情的",
             "examples": [
               {
                 "text": "affectionate children",
@@ -50762,7 +50762,7 @@
           {
             "id": "affectionately-adverb-1",
             "definition": "with affection",
-            "translation": "",
+            "translation": "深情地",
             "examples": []
           }
         ]
@@ -51161,7 +51161,7 @@
           {
             "id": "affiliation-noun-1",
             "definition": "the act of becoming formally connected or joined",
-            "translation": "",
+            "translation": "加入",
             "examples": [
               {
                 "text": "welcomed the affiliation of the research center with the university",
@@ -51355,7 +51355,7 @@
           {
             "id": "affinity-noun-5",
             "definition": "a natural attraction or feeling of kinship",
-            "translation": "",
+            "translation": "亲和力",
             "examples": [
               {
                 "text": "an affinity for politics",
@@ -51530,7 +51530,7 @@
           {
             "id": "affirmation-noun-3",
             "definition": "a statement asserting the existence or the truth of something",
-            "translation": "",
+            "translation": "确认",
             "examples": []
           },
           {
@@ -51637,7 +51637,7 @@
           {
             "id": "affirmatively-adverb-1",
             "definition": "in an affirmative manner",
-            "translation": "",
+            "translation": "肯定地",
             "examples": []
           }
         ]
@@ -51764,7 +51764,7 @@
           {
             "id": "affix-noun-1",
             "definition": "a linguistic element added to a word to produce an inflected or derived form",
-            "translation": "",
+            "translation": "词缀",
             "examples": []
           }
         ]
@@ -51797,7 +51797,7 @@
           {
             "id": "affix-verb-3",
             "definition": "to attach to",
-            "translation": "",
+            "translation": "附加",
             "examples": [
               {
                 "text": "They affixed the seal to the envelope.",
@@ -52115,7 +52115,7 @@
           {
             "id": "affliction-noun-3",
             "definition": "a state of great suffering and distress due to adversity",
-            "translation": "",
+            "translation": "苦难",
             "examples": []
           }
         ]
@@ -52215,7 +52215,7 @@
           {
             "id": "affluent-adjective-1",
             "definition": "having an abundant supply of money or possessions of value",
-            "translation": "",
+            "translation": "富裕的",
             "examples": [
               {
                 "text": "an affluent banker",
@@ -52279,7 +52279,7 @@
           {
             "id": "afford-verb-1",
             "definition": "to be able to spare or give up",
-            "translation": "",
+            "translation": "负担得起",
             "examples": [
               {
                 "text": "I can't afford to spend two hours with this person.",
@@ -52356,7 +52356,7 @@
           {
             "id": "affordable-adjective-1",
             "definition": "that you have the financial means for",
-            "translation": "",
+            "translation": "负担得起的",
             "examples": []
           }
         ]
@@ -52986,7 +52986,7 @@
           {
             "id": "afield-adverb-3",
             "definition": "far away from home or one's usual surroundings",
-            "translation": "",
+            "translation": "在远处",
             "examples": [
               {
                 "text": "looking afield for new lands to conquer- R.A.Hall",
@@ -53052,7 +53052,7 @@
           {
             "id": "aflame-adjective-1",
             "definition": "lighted up by or as by fire or flame",
-            "translation": "",
+            "translation": "燃烧的",
             "examples": []
           },
           {
@@ -53275,7 +53275,7 @@
           {
             "id": "afoot-adjective-2",
             "definition": "traveling by foot",
-            "translation": "",
+            "translation": "徒步的",
             "examples": []
           }
         ]
@@ -53509,7 +53509,7 @@
           {
             "id": "afresh-adverb-1",
             "definition": "again but in a new or different way",
-            "translation": "",
+            "translation": "重新",
             "examples": [
               {
                 "text": "start afresh",
@@ -53818,7 +53818,7 @@
           {
             "id": "aft-adverb-1",
             "definition": "at or near or toward the stern of a ship or tail of an airplane",
-            "translation": "",
+            "translation": "在船尾",
             "examples": [
               {
                 "text": "I stowed the luggage aft.",
@@ -54006,7 +54006,7 @@
           {
             "id": "afterbirth-noun-1",
             "definition": "the placenta and fetal membranes that are expelled from the uterus after the baby is born",
-            "translation": "",
+            "translation": "胎盘",
             "examples": []
           }
         ]
@@ -54062,7 +54062,7 @@
           {
             "id": "aftercare-noun-1",
             "definition": "care and treatment of a convalescent patient",
-            "translation": "",
+            "translation": "康复护理",
             "examples": []
           }
         ]
@@ -54256,7 +54256,7 @@
           {
             "id": "afterlife-noun-1",
             "definition": "life after death",
-            "translation": "",
+            "translation": "死后生活",
             "examples": []
           }
         ]
@@ -54367,7 +54367,7 @@
           {
             "id": "afternoon-noun-2",
             "definition": "the part of the day between noon and evening",
-            "translation": "",
+            "translation": "下午",
             "examples": [
               {
                 "text": "I spent a quiet afternoon in the park.",
@@ -54683,7 +54683,7 @@
           {
             "id": "afterward-adverb-1",
             "definition": "happening at a time subsequent to a reference time",
-            "translation": "",
+            "translation": "之后",
             "examples": [
               {
                 "text": "Afterward, we went out for an ice cream cone.",
@@ -54718,7 +54718,7 @@
           {
             "id": "afterwards-adverb-1",
             "definition": "happening at a time subsequent to a reference time",
-            "translation": "",
+            "translation": "之后",
             "examples": []
           }
         ]
@@ -55362,7 +55362,7 @@
           {
             "id": "agate-noun-1",
             "definition": "an impure form of quartz consisting of banded chalcedony",
-            "translation": "",
+            "translation": "玛瑙",
             "examples": []
           }
         ]
@@ -55494,7 +55494,7 @@
           {
             "id": "age-noun-1",
             "definition": "how long something has existed",
-            "translation": "",
+            "translation": "年龄",
             "examples": [
               {
                 "text": "it was replaced because of its age",
@@ -55565,7 +55565,7 @@
           {
             "id": "age-verb-2",
             "definition": "to begin to seem older",
-            "translation": "",
+            "translation": "变老",
             "examples": [
               {
                 "text": "The death of their child aged them.",
@@ -55741,7 +55741,7 @@
           {
             "id": "aged-adjective-3",
             "definition": "advanced in years",
-            "translation": "",
+            "translation": "年老的",
             "examples": [
               {
                 "text": "(`aged' is pronounced as two syllables)",
@@ -55933,7 +55933,7 @@
           {
             "id": "ageless-adjective-1",
             "definition": "continuing forever or indefinitely",
-            "translation": "",
+            "translation": "永恒的",
             "examples": [
               {
                 "text": "the ageless themes of love and revenge",
@@ -56591,7 +56591,7 @@
           {
             "id": "agglomeration-noun-1",
             "definition": "the act of collecting in a mass",
-            "translation": "",
+            "translation": "聚集",
             "examples": []
           },
           {
@@ -57076,7 +57076,7 @@
           {
             "id": "aggravate-verb-1",
             "definition": "to make worse",
-            "translation": "",
+            "translation": "加重",
             "examples": [
               {
                 "text": "This drug aggravates the pain.",
@@ -57689,7 +57689,7 @@
           {
             "id": "aggressive-adjective-3",
             "definition": "tending to spread quickly",
-            "translation": "",
+            "translation": "侵略性的",
             "examples": [
               {
                 "text": "an aggressive tumor",
@@ -57725,7 +57725,7 @@
           {
             "id": "aggressively-adverb-1",
             "definition": "in an aggressive manner",
-            "translation": "",
+            "translation": "侵略性地",
             "examples": []
           }
         ]
@@ -57811,7 +57811,7 @@
           {
             "id": "aggressor-noun-2",
             "definition": "someone who attacks",
-            "translation": "",
+            "translation": "侵略者",
             "examples": []
           }
         ]
@@ -59261,7 +59261,7 @@
           {
             "id": "ago-adverb-1",
             "definition": "in the past",
-            "translation": "",
+            "translation": "以前",
             "examples": [
               {
                 "text": "Long ago your sibling and I found a treasure chest hidden under this rock.",
@@ -59860,7 +59860,7 @@
           {
             "id": "agony-noun-1",
             "definition": "intense feelings of suffering",
-            "translation": "",
+            "translation": "极度痛苦",
             "examples": []
           },
           {
@@ -59974,7 +59974,7 @@
           {
             "id": "agoraphobic-adjective-1",
             "definition": "suffering from agoraphobia",
-            "translation": "",
+            "translation": "广场恐惧症的",
             "examples": []
           }
         ]
@@ -60689,7 +60689,7 @@
           {
             "id": "agreement-noun-3",
             "definition": "the statement (oral or written) of an exchange of promises",
-            "translation": "",
+            "translation": "协议",
             "examples": [
               {
                 "text": "they had an agreement that they would not interfere in each other's business",
@@ -62392,7 +62392,7 @@
           {
             "id": "aided-adjective-1",
             "definition": "having help",
-            "translation": "",
+            "translation": "有援助的",
             "examples": []
           }
         ]
@@ -64246,7 +64246,7 @@
           {
             "id": "aircraft-noun-1",
             "definition": "a vehicle that can fly",
-            "translation": "",
+            "translation": "飞机",
             "examples": []
           }
         ]
@@ -64987,7 +64987,7 @@
           {
             "id": "airless-adjective-1",
             "definition": "lacking fresh air",
-            "translation": "",
+            "translation": "无空气的",
             "examples": [
               {
                 "text": "a dusty airless attic",
@@ -70913,7 +70913,7 @@
           {
             "id": "algebraically-adverb-1",
             "definition": "in an algebraic manner",
-            "translation": "",
+            "translation": "代数地",
             "examples": [
               {
                 "text": "algebraically determined",
@@ -76216,7 +76216,7 @@
           {
             "id": "allegorically-adverb-1",
             "definition": "in an allegorical manner",
-            "translation": "",
+            "translation": "寓言地",
             "examples": [
               {
                 "text": "the play ended allegorically",
@@ -80359,7 +80359,7 @@
           {
             "id": "almighty-adjective-1",
             "definition": "having unlimited power",
-            "translation": "",
+            "translation": "全能的",
             "examples": []
           }
         ]
@@ -81832,7 +81832,7 @@
           {
             "id": "alphabetically-adverb-1",
             "definition": "in alphabetical order",
-            "translation": "",
+            "translation": "按字母顺序",
             "examples": [
               {
                 "text": "the list was arranged alphabetically",
@@ -82615,7 +82615,7 @@
           {
             "id": "also-adverb-1",
             "definition": "in addition",
-            "translation": "",
+            "translation": "也",
             "examples": []
           }
         ]
@@ -84235,7 +84235,7 @@
           {
             "id": "altruistically-adverb-1",
             "definition": "in an altruistic manner",
-            "translation": "",
+            "translation": "利他地",
             "examples": []
           }
         ]
@@ -84984,7 +84984,7 @@
           {
             "id": "always-adverb-1",
             "definition": "at all times",
-            "translation": "",
+            "translation": "总是",
             "examples": []
           },
           {
@@ -86283,7 +86283,7 @@
           {
             "id": "amazingly-adverb-1",
             "definition": "in an amazing manner",
-            "translation": "",
+            "translation": "惊奇地",
             "examples": []
           }
         ]
@@ -86988,7 +86988,7 @@
           {
             "id": "ambiguity-noun-1",
             "definition": "unclearness by virtue of having more than one meaning",
-            "translation": "",
+            "translation": "歧义",
             "examples": []
           },
           {
@@ -88628,7 +88628,7 @@
           {
             "id": "ameliorate-verb-2",
             "definition": "to make better",
-            "translation": "",
+            "translation": "改善",
             "examples": [
               {
                 "text": "I ameliorated the unpleasant situation.",
@@ -92769,7 +92769,7 @@
           {
             "id": "amok-adverb-1",
             "definition": "in a murderous frenzy",
-            "translation": "",
+            "translation": "疯狂地",
             "examples": []
           },
           {
@@ -92887,7 +92887,7 @@
           {
             "id": "amorality-noun-1",
             "definition": "the quality of being amoral",
-            "translation": "",
+            "translation": "非道德性",
             "examples": []
           }
         ]
@@ -93044,7 +93044,7 @@
           {
             "id": "amorously-adverb-1",
             "definition": "in an amorous manner",
-            "translation": "",
+            "translation": "多情地",
             "examples": [
               {
                 "text": "You looked at me amorously.",
@@ -102280,7 +102280,7 @@
           {
             "id": "ancient-adjective-1",
             "definition": "very old",
-            "translation": "",
+            "translation": "古老的",
             "examples": [
               {
                 "text": "an ancient mariner",
@@ -102341,7 +102341,7 @@
           {
             "id": "anciently-adverb-1",
             "definition": "in ancient times",
-            "translation": "",
+            "translation": "古代地",
             "examples": []
           }
         ]
@@ -103093,7 +103093,7 @@
           {
             "id": "androgynous-adjective-1",
             "definition": "having both male and female characteristics",
-            "translation": "",
+            "translation": "雌雄同体的",
             "examples": []
           },
           {
@@ -109505,7 +109505,7 @@
           {
             "id": "anion-noun-1",
             "definition": "a negatively charged ion",
-            "translation": "",
+            "translation": "阴离子",
             "examples": []
           }
         ]
@@ -110205,7 +110205,7 @@
           {
             "id": "anklet-noun-1",
             "definition": "an ornament worn around the ankle",
-            "translation": "",
+            "translation": "脚链",
             "examples": []
           },
           {
@@ -115445,7 +115445,7 @@
           {
             "id": "antagonistically-adverb-1",
             "definition": "in an antagonistic manner",
-            "translation": "",
+            "translation": "对抗地",
             "examples": [
               {
                 "text": "They behave antagonistically toward their colleagues.",
@@ -135893,7 +135893,7 @@
           {
             "id": "appreciate-verb-2",
             "definition": "to increase in value",
-            "translation": "",
+            "translation": "增值",
             "examples": [
               {
                 "text": "My stocks have appreciated for the last three quarters.",
@@ -137582,7 +137582,7 @@
           {
             "id": "appropriately-adverb-1",
             "definition": "in an appropriate manner",
-            "translation": "",
+            "translation": "适当地",
             "examples": [
               {
                 "text": "I was appropriately dressed.",
@@ -138003,7 +138003,7 @@
           {
             "id": "approvingly-adverb-1",
             "definition": "in an approving manner",
-            "translation": "",
+            "translation": "批准地",
             "examples": [
               {
                 "text": "The boss nodded approvingly as the team presented their ideas.",
@@ -149094,7 +149094,7 @@
           {
             "id": "aristocratically-adverb-1",
             "definition": "in an aristocratic manner",
-            "translation": "",
+            "translation": "贵族地",
             "examples": [
               {
                 "text": "they behaved aristocratically",
@@ -153580,7 +153580,7 @@
           {
             "id": "arrogantly-adverb-1",
             "definition": "in an arrogant manner",
-            "translation": "",
+            "translation": "傲慢地",
             "examples": []
           }
         ]
@@ -157219,7 +157219,7 @@
           {
             "id": "artistically-adverb-1",
             "definition": "in an artistic manner",
-            "translation": "",
+            "translation": "艺术地",
             "examples": [
               {
                 "text": "it was artistically decorated",
@@ -175616,7 +175616,7 @@
           {
             "id": "attacker-noun-1",
             "definition": "someone who attacks",
-            "translation": "",
+            "translation": "攻击者",
             "examples": []
           }
         ]
@@ -179524,7 +179524,7 @@
           {
             "id": "audibly-adverb-1",
             "definition": "in an audible manner",
-            "translation": "",
+            "translation": "可听见地",
             "examples": [
               {
                 "text": "I spoke audibly above the murmurs in the room.",
@@ -181561,7 +181561,7 @@
           {
             "id": "auriferous-adjective-1",
             "definition": "containing gold",
-            "translation": "",
+            "translation": "含金的",
             "examples": [
               {
                 "text": "auriferous quartz veins",
@@ -184980,7 +184980,7 @@
           {
             "id": "autocratically-adverb-1",
             "definition": "in an autocratic manner",
-            "translation": "",
+            "translation": "独裁地",
             "examples": [
               {
                 "text": "the Czars ruled Russia autocratically",
@@ -188218,7 +188218,7 @@
           {
             "id": "avail-noun-1",
             "definition": "a means of serving",
-            "translation": "",
+            "translation": "效用",
             "examples": [
               {
                 "text": "of no avail",
@@ -188298,7 +188298,7 @@
           {
             "id": "availability-noun-1",
             "definition": "the quality of being at hand when needed",
-            "translation": "",
+            "translation": "可用性",
             "examples": []
           }
         ]
@@ -188344,7 +188344,7 @@
           {
             "id": "available-adjective-1",
             "definition": "obtainable or accessible and ready for use or service",
-            "translation": "",
+            "translation": "可用的",
             "examples": [
               {
                 "text": "kept a fire extinguisher available",
@@ -188454,7 +188454,7 @@
           {
             "id": "avalanche-noun-2",
             "definition": "a slide of large masses of snow and ice and mud down a mountain",
-            "translation": "",
+            "translation": "雪崩",
             "examples": []
           }
         ]
@@ -188594,7 +188594,7 @@
           {
             "id": "avarice-noun-2",
             "definition": "extreme greed for material wealth",
-            "translation": "",
+            "translation": "贪婪",
             "examples": []
           }
         ]
@@ -188792,7 +188792,7 @@
           {
             "id": "avatar-noun-2",
             "definition": "a new personification of a familiar idea",
-            "translation": "",
+            "translation": "化身",
             "examples": []
           }
         ]
@@ -188956,7 +188956,7 @@
           {
             "id": "avenger-noun-1",
             "definition": "someone who takes vengeance",
-            "translation": "",
+            "translation": "复仇者",
             "examples": []
           }
         ]
@@ -189080,7 +189080,7 @@
           {
             "id": "avenue-noun-1",
             "definition": "a line of approach",
-            "translation": "",
+            "translation": "途径",
             "examples": [
               {
                 "text": "they explored every avenue they could think of",
@@ -189482,7 +189482,7 @@
           {
             "id": "aversion-noun-2",
             "definition": "a feeling of intense dislike",
-            "translation": "",
+            "translation": "厌恶",
             "examples": []
           }
         ]
@@ -189592,7 +189592,7 @@
           {
             "id": "avert-verb-2",
             "definition": "to prevent the occurrence of",
-            "translation": "",
+            "translation": "防止",
             "examples": [
               {
                 "text": "We will try to avert disaster by being better prepared.",
@@ -189858,7 +189858,7 @@
           {
             "id": "aviary-noun-1",
             "definition": "a building where birds are kept",
-            "translation": "",
+            "translation": "鸟舍",
             "examples": []
           }
         ]
@@ -189985,7 +189985,7 @@
           {
             "id": "aviator-noun-1",
             "definition": "someone who operates an aircraft",
-            "translation": "",
+            "translation": "飞行员",
             "examples": []
           }
         ]
@@ -190080,7 +190080,7 @@
           {
             "id": "avid-adjective-1",
             "definition": "marked by active interest and enthusiasm",
-            "translation": "",
+            "translation": "热切的",
             "examples": [
               {
                 "text": "an avid sports fan",
@@ -190126,7 +190126,7 @@
           {
             "id": "avidity-noun-1",
             "definition": "a positive feeling of wanting to push ahead with something",
-            "translation": "",
+            "translation": "热切",
             "examples": []
           }
         ]
@@ -190154,7 +190154,7 @@
           {
             "id": "avidly-adverb-1",
             "definition": "in an avid manner",
-            "translation": "",
+            "translation": "热切地",
             "examples": [
               {
                 "text": "whatever the flavor or color of your local paper, do remember that these are read avidly for local information",
@@ -190540,7 +190540,7 @@
           {
             "id": "avocation-noun-1",
             "definition": "an auxiliary activity",
-            "translation": "",
+            "translation": "副业",
             "examples": []
           }
         ]
@@ -190641,7 +190641,7 @@
           {
             "id": "avoid-verb-1",
             "definition": "to stay clear from",
-            "translation": "",
+            "translation": "避免",
             "examples": [
               {
                 "text": "I try to avoid the main roads during rush hour.",
@@ -190663,7 +190663,7 @@
           {
             "id": "avoid-verb-3",
             "definition": "to prevent the occurrence of",
-            "translation": "",
+            "translation": "防止",
             "examples": [
               {
                 "text": "We need to avoid further problems.",
@@ -190745,7 +190745,7 @@
           {
             "id": "avoidance-noun-1",
             "definition": "deliberately avoiding",
-            "translation": "",
+            "translation": "避免",
             "examples": []
           }
         ]
@@ -190925,7 +190925,7 @@
           {
             "id": "avowal-noun-1",
             "definition": "a statement asserting the existence or the truth of something",
-            "translation": "",
+            "translation": "声明",
             "examples": []
           }
         ]
@@ -191177,7 +191177,7 @@
           {
             "id": "await-verb-1",
             "definition": "to look forward to the probable occurrence of",
-            "translation": "",
+            "translation": "等待",
             "examples": [
               {
                 "text": "I eagerly awaited their return.",
@@ -191253,7 +191253,7 @@
           {
             "id": "awake-adjective-1",
             "definition": "not in a state of sleep",
-            "translation": "",
+            "translation": "清醒的",
             "examples": []
           },
           {
@@ -191270,7 +191270,7 @@
           {
             "id": "awake-verb-1",
             "definition": "to stop sleeping",
-            "translation": "",
+            "translation": "醒来",
             "examples": [
               {
                 "text": "Awake, my child.",
@@ -191427,7 +191427,7 @@
           {
             "id": "awakening-noun-1",
             "definition": "the act of waking",
-            "translation": "",
+            "translation": "觉醒",
             "examples": [
               {
                 "text": "it was an early awakening",
@@ -191481,7 +191481,7 @@
           {
             "id": "award-noun-1",
             "definition": "a grant made by a law court",
-            "translation": "",
+            "translation": "裁决",
             "examples": [
               {
                 "text": "They criticized the award of the court for compensation.",
@@ -191701,7 +191701,7 @@
           {
             "id": "awareness-noun-1",
             "definition": "having knowledge of",
-            "translation": "",
+            "translation": "意识",
             "examples": [
               {
                 "text": "I had no awareness of my mistakes.",
@@ -191747,7 +191747,7 @@
           {
             "id": "awash-adjective-1",
             "definition": "covered with water",
-            "translation": "",
+            "translation": "被水覆盖的",
             "examples": []
           }
         ]
@@ -192007,7 +192007,7 @@
           {
             "id": "awe-noun-1",
             "definition": "an overwhelming feeling of wonder or admiration",
-            "translation": "",
+            "translation": "敬畏",
             "examples": [
               {
                 "text": "I stared over the edge of the Empire State Building with a feeling of awe.",
@@ -192264,7 +192264,7 @@
           {
             "id": "awesome-adjective-1",
             "definition": "inspiring awe or admiration or wonder",
-            "translation": "",
+            "translation": "令人敬畏的",
             "examples": []
           }
         ]
@@ -192399,7 +192399,7 @@
           {
             "id": "awful-adjective-2",
             "definition": "exceptionally bad or displeasing",
-            "translation": "",
+            "translation": "糟糕的",
             "examples": []
           },
           {
@@ -192474,7 +192474,7 @@
           {
             "id": "awfully-adverb-1",
             "definition": "used as intensifiers",
-            "translation": "",
+            "translation": "非常",
             "examples": []
           },
           {
@@ -192850,7 +192850,7 @@
           {
             "id": "awl-noun-1",
             "definition": "a pointed tool for marking surfaces or for punching small holes",
-            "translation": "",
+            "translation": "锥子",
             "examples": []
           }
         ]
@@ -192971,7 +192971,7 @@
           {
             "id": "awn-noun-1",
             "definition": "slender bristlelike appendage found on the bracts of grasses",
-            "translation": "",
+            "translation": "芒",
             "examples": []
           }
         ]
@@ -193233,7 +193233,7 @@
           {
             "id": "awry-adjective-2",
             "definition": "turned or twisted toward one side",
-            "translation": "",
+            "translation": "歪斜的",
             "examples": []
           }
         ]
@@ -193244,7 +193244,7 @@
           {
             "id": "awry-adverb-1",
             "definition": "away from the correct or expected course",
-            "translation": "",
+            "translation": "歪的",
             "examples": [
               {
                 "text": "something has gone awry in our plans",
@@ -193362,7 +193362,7 @@
           {
             "id": "axe-noun-1",
             "definition": "an edge tool with a heavy bladed head mounted across a handle",
-            "translation": "",
+            "translation": "斧头",
             "examples": []
           }
         ]
@@ -193781,7 +193781,7 @@
           {
             "id": "axiom-noun-2",
             "definition": "a saying that is widely accepted on its own merits",
-            "translation": "",
+            "translation": "公理",
             "examples": []
           }
         ]
@@ -194004,7 +194004,7 @@
           {
             "id": "axle-noun-1",
             "definition": "a shaft on which a wheel rotates",
-            "translation": "",
+            "translation": "车轴",
             "examples": []
           }
         ]
@@ -195054,7 +195054,7 @@
           {
             "id": "azure-noun-1",
             "definition": "a light shade of blue",
-            "translation": "",
+            "translation": "蔚蓝色",
             "examples": []
           }
         ]
