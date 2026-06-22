@@ -31,44 +31,44 @@
           {
             "id": "a-noun-1",
             "definition": "the unit symbol for the ampere, the basic unit of electric current adopted under the Systeme International d'Unites",
-            "translation": "",
+            "translation": "安培的单位符号，国际单位制中采用的基本电流单位",
             "examples": [
               {
                 "text": "My headlights have a current of 5 A each.",
-                "translation": ""
+                "translation": "我的车灯每个电流为5安培。"
               }
             ]
           },
           {
             "id": "a-noun-2",
             "definition": "short form for adenine, a purine base found in DNA and RNA",
-            "translation": "",
+            "translation": "腺嘌呤的缩写形式，DNA和RNA中发现的嘌呤碱基",
             "examples": [
               {
                 "text": "I used 2mg of A in the experiment.",
-                "translation": ""
+                "translation": "我在实验中使用了2毫克腺嘌呤。"
               }
             ]
           },
           {
             "id": "a-noun-3",
             "definition": "one of the four nucleotides used in building DNA",
-            "translation": "",
+            "translation": "构成DNA的四种核苷酸之一",
             "examples": [
               {
                 "text": "My DNA gene sequence had 3,000 As in it.",
-                "translation": ""
+                "translation": "我的DNA基因序列中有3000个腺嘌呤。"
               }
             ]
           },
           {
             "id": "a-noun-4",
             "definition": "any of several fat-soluble vitamins essential for normal vision",
-            "translation": "",
+            "translation": "几种对正常视力至关重要的脂溶性维生素之一",
             "examples": [
               {
                 "text": "Did you get your daily dose of A today?",
-                "translation": ""
+                "translation": "你今天摄入每日所需的维生素A了吗？"
               }
             ]
           }
@@ -100,11 +100,11 @@
           {
             "id": "a-article-1",
             "definition": "the indefinite article, used to non-specifically identify something",
-            "translation": "",
+            "translation": "不定冠词，用于非特指地指代某物",
             "examples": [
               {
                 "text": "I chose a shirt from the closet.",
-                "translation": ""
+                "translation": "我从衣柜里选了一件衬衫。"
               }
             ]
           }
@@ -116,11 +116,11 @@
           {
             "id": "a-noun-1",
             "definition": "the 1st letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母表的第一个字母",
             "examples": [
               {
                 "text": "My name contains the letter a.",
-                "translation": ""
+                "translation": "我的名字包含字母a。"
               }
             ]
           }
@@ -149,11 +149,11 @@
           {
             "id": "a-line-noun-1",
             "definition": "women's clothing that has a fitted top and a flared skirt that is widest at the hemline",
-            "translation": "",
+            "translation": "上紧下宽的女式服装，裙摆最宽",
             "examples": [
               {
                 "text": "it is called the A-line because the effect resembles the capital letter A",
-                "translation": ""
+                "translation": "它被称为A字裙，因为效果类似于大写字母A"
               }
             ]
           }
@@ -182,11 +182,11 @@
           {
             "id": "a-list-noun-1",
             "definition": "a list of names of specially favored people",
-            "translation": "",
+            "translation": "特别受青睐的人物名单",
             "examples": [
               {
                 "text": "The boss gave me the A-list of people we should try to recruit.",
-                "translation": ""
+                "translation": "老板给了我一份我们应该努力招聘的重点人物名单。"
               }
             ]
           }
@@ -217,7 +217,7 @@
           {
             "id": "a-ok-adjective-1",
             "definition": "in perfect condition or order",
-            "translation": "",
+            "translation": "状况极佳，一切正常",
             "examples": []
           }
         ]
@@ -247,7 +247,7 @@
           {
             "id": "a-okay-adjective-1",
             "definition": "in perfect condition or order",
-            "translation": "",
+            "translation": "状况极佳，一切正常",
             "examples": []
           }
         ]
@@ -277,7 +277,7 @@
           {
             "id": "a-one-adjective-1",
             "definition": "of the highest quality",
-            "translation": "",
+            "translation": "最高品质的",
             "examples": []
           }
         ]
@@ -305,7 +305,7 @@
           {
             "id": "a-team-noun-1",
             "definition": "a group of elite soldiers or a leadership group of advisors or workers in an organization",
-            "translation": "",
+            "translation": "精英士兵小组或组织中的顾问/工人领导小组",
             "examples": []
           }
         ]
@@ -335,7 +335,7 @@
           {
             "id": "a.d.-adverb-1",
             "definition": "in the Christian era",
-            "translation": "",
+            "translation": "在基督教时代（公元）",
             "examples": []
           }
         ]
@@ -366,7 +366,7 @@
           {
             "id": "a.k.a.-adverb-1",
             "definition": "as known or named at another time or place",
-            "translation": "",
+            "translation": "又名，亦称",
             "examples": []
           }
         ]
@@ -396,11 +396,11 @@
           {
             "id": "a.m.-adverb-1",
             "definition": "before noon",
-            "translation": "",
+            "translation": "上午，中午之前",
             "examples": [
               {
                 "text": "let's meet at 11 A.M.",
-                "translation": ""
+                "translation": "我们上午11点见面吧。"
               }
             ]
           }
@@ -431,7 +431,7 @@
           {
             "id": "a.m.-adjective-1",
             "definition": "before noon",
-            "translation": "",
+            "translation": "上午，中午之前",
             "examples": []
           }
         ]
@@ -459,13 +459,13 @@
           {
             "id": "aa-noun-1",
             "definition": "an associate degree in arts",
-            "translation": "",
+            "translation": "文科副学士学位",
             "examples": []
           },
           {
             "id": "aa-noun-2",
             "definition": "an international organization that provides a support group for persons trying to overcome alcoholism",
-            "translation": "",
+            "translation": "为试图戒酒的人提供支持小组的国际组织（匿名戒酒会）",
             "examples": []
           }
         ]
@@ -493,7 +493,7 @@
           {
             "id": "aa-noun-1",
             "definition": "a dry form of lava resembling clinkers",
-            "translation": "",
+            "translation": "类似熔渣的干燥熔岩",
             "examples": []
           }
         ]
@@ -523,11 +523,11 @@
           {
             "id": "aah-verb-1",
             "definition": "to express admiration and pleasure by uttering 'ooh' or 'aah'",
-            "translation": "",
+            "translation": "通过发出'哦'或'啊'的声音表达钦佩和愉悦",
             "examples": [
               {
                 "text": "They oohed and aahed when they unwrapped the presents.",
-                "translation": ""
+                "translation": "他们拆礼物时发出惊叹声。"
               }
             ]
           }
@@ -556,7 +556,7 @@
           {
             "id": "aalii-noun-1",
             "definition": "a small Hawaiian tree with hard dark wood",
-            "translation": "",
+            "translation": "夏威夷一种小型树木，木材坚硬深色",
             "examples": []
           }
         ]
@@ -586,7 +586,7 @@
           {
             "id": "aardvark-noun-1",
             "definition": "nocturnal burrowing mammal of the grasslands of Africa that feeds on termites",
-            "translation": "",
+            "translation": "非洲草原上以白蚁为食的夜间穴居哺乳动物（土豚）",
             "examples": []
           }
         ]
@@ -614,7 +614,7 @@
           {
             "id": "aardwolf-noun-1",
             "definition": "striped hyena of southeast Africa that feeds chiefly on insects",
-            "translation": "",
+            "translation": "非洲东南部主要以昆虫为食的条纹鬣狗（土狼）",
             "examples": []
           }
         ]
@@ -644,7 +644,7 @@
           {
             "id": "ab-noun-1",
             "definition": "the muscles of the abdomen",
-            "translation": "",
+            "translation": "腹部肌肉",
             "examples": []
           }
         ]
@@ -672,7 +672,7 @@
           {
             "id": "ab-noun-1",
             "definition": "the eleventh month of the civil year",
-            "translation": "",
+            "translation": "民用年的第十一个月（犹太历）",
             "examples": []
           }
         ]
@@ -700,13 +700,13 @@
           {
             "id": "aba-noun-1",
             "definition": "a fabric woven from goat hair and camel hair",
-            "translation": "",
+            "translation": "用山羊毛和骆驼毛织成的织物",
             "examples": []
           },
           {
             "id": "aba-noun-2",
             "definition": "a loose sleeveless outer garment made from aba cloth",
-            "translation": "",
+            "translation": "用aba布料制成的宽松无袖外衣",
             "examples": []
           }
         ]
@@ -734,13 +734,13 @@
           {
             "id": "abaca-noun-1",
             "definition": "Philippine banana tree having leafstalks that yield Manila hemp used for rope and paper etc",
-            "translation": "",
+            "translation": "菲律宾香蕉树，其叶柄产生马尼拉麻，用于制绳和造纸等",
             "examples": []
           },
           {
             "id": "abaca-noun-2",
             "definition": "a kind of hemp obtained from the abaca plant in the Philippines",
-            "translation": "",
+            "translation": "从菲律宾abaca植物中获得的一种麻",
             "examples": []
           }
         ]
@@ -768,11 +768,11 @@
           {
             "id": "abacinate-verb-1",
             "definition": "to blind by holding a red-hot metal plate before someone's eyes",
-            "translation": "",
+            "translation": "将烧红的金属板放在人眼前使其失明",
             "examples": [
               {
                 "text": "The prisoners were abacinated by their captors.",
-                "translation": ""
+                "translation": "囚犯被俘虏者用烧红的金属板弄瞎了眼睛。"
               }
             ]
           }
@@ -801,22 +801,22 @@
           {
             "id": "aback-adverb-1",
             "definition": "by surprise",
-            "translation": "",
+            "translation": "突然地，意外地",
             "examples": [
               {
                 "text": "taken aback by the caustic remarks",
-                "translation": ""
+                "translation": "被刻薄的言论吓了一跳"
               }
             ]
           },
           {
             "id": "aback-adverb-2",
             "definition": "having the wind against the forward side of the sails",
-            "translation": "",
+            "translation": "逆风的，风从帆的前方吹来",
             "examples": [
               {
                 "text": "the ship came up into the wind with all yards aback",
-                "translation": ""
+                "translation": "船逆风行驶，所有帆桁都处于逆风位置"
               }
             ]
           }
@@ -845,7 +845,7 @@
           {
             "id": "abactinal-adjective-1",
             "definition": "(of radiate animals) located on the surface or end opposite to that on which the mouth is situated",
-            "translation": "",
+            "translation": "（辐射对称动物）位于口所在位置对面的表面或末端",
             "examples": []
           }
         ]
@@ -873,13 +873,13 @@
           {
             "id": "abacus-noun-1",
             "definition": "a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves",
-            "translation": "",
+            "translation": "通过手动滑动杆上或凹槽中的算珠进行算术运算的计算器（算盘）",
             "examples": []
           },
           {
             "id": "abacus-noun-2",
             "definition": "a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave",
-            "translation": "",
+            "translation": "水平放置在柱顶上方的平板，用于辅助支撑额枋",
             "examples": []
           }
         ]
@@ -909,7 +909,7 @@
           {
             "id": "abaft-adverb-1",
             "definition": "at or near or toward the stern of a ship or tail of an airplane",
-            "translation": "",
+            "translation": "在船尾或飞机尾部附近或朝向船尾/飞机尾部",
             "examples": []
           }
         ]
@@ -939,7 +939,7 @@
           {
             "id": "abalone-noun-1",
             "definition": "any of various large edible marine gastropods of the genus Haliotis having an ear-shaped shell with pearly interior",
-            "translation": "",
+            "translation": "鲍属各种大型可食用海洋腹足动物，具有珍珠光泽的耳形贝壳（鲍鱼）",
             "examples": []
           }
         ]
@@ -969,7 +969,7 @@
           {
             "id": "abamp-noun-1",
             "definition": "a unit of current equal to 10 amperes",
-            "translation": "",
+            "translation": "等于10安培的电流单位（绝对安培）",
             "examples": []
           }
         ]
@@ -999,7 +999,7 @@
           {
             "id": "abampere-noun-1",
             "definition": "a unit of current equal to 10 amperes",
-            "translation": "",
+            "translation": "等于10安培的电流单位（绝对安培）",
             "examples": []
           }
         ]
@@ -1044,13 +1044,13 @@
           {
             "id": "abandon-noun-1",
             "definition": "the trait of lacking restraint or control",
-            "translation": "",
+            "translation": "缺乏约束或控制的特质",
             "examples": []
           },
           {
             "id": "abandon-noun-2",
             "definition": "a feeling of extreme emotional intensity",
-            "translation": "",
+            "translation": "极度情感强度的感觉",
             "examples": []
           }
         ]
@@ -1061,44 +1061,44 @@
           {
             "id": "abandon-verb-1",
             "definition": "to stop maintaining or insisting on",
-            "translation": "",
+            "translation": "停止维持或坚持",
             "examples": [
               {
                 "text": "I abandoned my vacation plans when it was clear no-one was interested.",
-                "translation": ""
+                "translation": "很明显没人感兴趣，我放弃了我的度假计划。"
               }
             ]
           },
           {
             "id": "abandon-verb-2",
             "definition": "to leave someone who needs or counts on you",
-            "translation": "",
+            "translation": "离开需要你或依赖你的人",
             "examples": [
               {
                 "text": "They abandoned me when things got rough.",
-                "translation": ""
+                "translation": "情况变糟时他们抛弃了我。"
               }
             ]
           },
           {
             "id": "abandon-verb-3",
             "definition": "to leave behind empty",
-            "translation": "",
+            "translation": "空着留下",
             "examples": [
               {
                 "text": "You should abandon the building.",
-                "translation": ""
+                "translation": "你应该撤离这栋建筑。"
               }
             ]
           },
           {
             "id": "abandon-verb-4",
             "definition": "to give up with the intent of never claiming again",
-            "translation": "",
+            "translation": "放弃并不再索回",
             "examples": [
               {
                 "text": "I abandoned the project due to disagreements with the client.",
-                "translation": ""
+                "translation": "由于与客户意见不合，我放弃了这个项目。"
               }
             ]
           }
@@ -1108,7 +1108,7 @@
     "phrases": [
       {
         "text": "abandon to",
-        "translation": ""
+        "translation": "放弃给"
       }
     ]
   },
@@ -1137,22 +1137,22 @@
           {
             "id": "abandoned-adjective-1",
             "definition": "forsaken by owner or inhabitants",
-            "translation": "",
+            "translation": "被所有者或居住者遗弃的",
             "examples": [
               {
                 "text": "weed-grown yard of an abandoned farmhouse",
-                "translation": ""
+                "translation": "废弃农舍杂草丛生的院子"
               }
             ]
           },
           {
             "id": "abandoned-adjective-2",
             "definition": "free from constraint",
-            "translation": "",
+            "translation": "不受约束的",
             "examples": [
               {
                 "text": "an abandoned sadness born of grief- Liam O'Flaherty",
-                "translation": ""
+                "translation": "由悲伤而生的无尽哀愁——利亚姆·奥弗莱厄蒂"
               }
             ]
           }
@@ -1185,24 +1185,24 @@
           {
             "id": "abandonment-noun-1",
             "definition": "withdrawing support or help despite allegiance or responsibility",
-            "translation": "",
+            "translation": "尽管有忠诚或责任仍撤回支持或帮助",
             "examples": [
               {
                 "text": "The abandonment of pseudoscience let medicine thrive.",
-                "translation": ""
+                "translation": "抛弃伪科学使医学得以发展。"
               }
             ]
           },
           {
             "id": "abandonment-noun-2",
             "definition": "the voluntary surrender of property (or a right to property) without attempting to reclaim it or give it away",
-            "translation": "",
+            "translation": "自愿放弃财产（或财产权利），无意收回或赠予",
             "examples": []
           },
           {
             "id": "abandonment-noun-3",
             "definition": "the act of giving something up",
-            "translation": "",
+            "translation": "放弃某物的行为",
             "examples": []
           }
         ]
@@ -1211,11 +1211,11 @@
     "phrases": [
       {
         "text": "abandonment in extractive industries",
-        "translation": ""
+        "translation": "采掘业中的废弃"
       },
       {
         "text": "abandonment in extractive industry",
-        "translation": ""
+        "translation": "采掘业中的废弃"
       }
     ]
   },
@@ -1239,7 +1239,7 @@
           {
             "id": "abarticulation-noun-1",
             "definition": "dislocation of a joint",
-            "translation": "",
+            "translation": "关节脱位",
             "examples": []
           }
         ]
@@ -1275,11 +1275,11 @@
           {
             "id": "abase-verb-1",
             "definition": "to cause to feel shame",
-            "translation": "",
+            "translation": "使感到羞愧",
             "examples": [
               {
                 "text": "You shouldn't abase the students like that.",
-                "translation": ""
+                "translation": "你不应该那样羞辱学生。"
               }
             ]
           }
@@ -1311,17 +1311,17 @@
           {
             "id": "abasement-noun-1",
             "definition": "depriving one of self-esteem",
-            "translation": "",
+            "translation": "剥夺自尊",
             "examples": []
           },
           {
             "id": "abasement-noun-2",
             "definition": "a low or downcast state",
-            "translation": "",
+            "translation": "低落或沮丧的状态",
             "examples": [
               {
                 "text": "Each confession brought them into an attitude of abasement.",
-                "translation": ""
+                "translation": "每次忏悔都使他们陷入谦卑的态度。"
               }
             ]
           }
@@ -1358,11 +1358,11 @@
           {
             "id": "abash-verb-1",
             "definition": "to cause to be embarrassed",
-            "translation": "",
+            "translation": "使尴尬",
             "examples": [
               {
                 "text": "My lack of knowledge abashed me when I went on Jeopardy.",
-                "translation": ""
+                "translation": "我参加危险边缘节目时，知识的匮乏让我感到尴尬。"
               }
             ]
           }
@@ -1395,11 +1395,11 @@
           {
             "id": "abashed-adjective-1",
             "definition": "feeling or caused to feel uneasy and self-conscious",
-            "translation": "",
+            "translation": "感到不安和不自在的",
             "examples": [
               {
                 "text": "felt abashed at the extravagant praise",
-                "translation": ""
+                "translation": "对过分的赞扬感到尴尬"
               }
             ]
           }
@@ -1430,7 +1430,7 @@
           {
             "id": "abashment-noun-1",
             "definition": "feeling embarrassed due to modesty",
-            "translation": "",
+            "translation": "因谦虚而感到尴尬",
             "examples": []
           }
         ]
@@ -1458,7 +1458,7 @@
           {
             "id": "abasia-noun-1",
             "definition": "inability to walk",
-            "translation": "",
+            "translation": "行走不能",
             "examples": []
           }
         ]
@@ -1488,7 +1488,7 @@
           {
             "id": "abasic-adjective-1",
             "definition": "of or relating to abasia (inability to walk)",
-            "translation": "",
+            "translation": "与行走不能有关的",
             "examples": []
           }
         ]
@@ -1516,7 +1516,7 @@
           {
             "id": "abatable-adjective-1",
             "definition": "capable of being abated",
-            "translation": "",
+            "translation": "可减轻的，可废除的",
             "examples": []
           }
         ]
@@ -1553,22 +1553,22 @@
           {
             "id": "abate-verb-1",
             "definition": "to become less in amount or intensity",
-            "translation": "",
+            "translation": "数量或强度减少",
             "examples": [
               {
                 "text": "The storm abated and we could finally continue our voyage.",
-                "translation": ""
+                "translation": "风暴减弱了，我们终于可以继续航行。"
               }
             ]
           },
           {
             "id": "abate-verb-2",
             "definition": "to make less active or intense",
-            "translation": "",
+            "translation": "使不那么活跃或强烈",
             "examples": [
               {
                 "text": "We need to abate the bullying at my school.",
-                "translation": ""
+                "translation": "我们需要制止我校的欺凌行为。"
               }
             ]
           }
@@ -1599,18 +1599,18 @@
           {
             "id": "abatement-noun-1",
             "definition": "the act of abating",
-            "translation": "",
+            "translation": "减轻的行为",
             "examples": [
               {
                 "text": "laws enforcing noise abatement",
-                "translation": ""
+                "translation": "强制执行噪音消减的法律"
               }
             ]
           },
           {
             "id": "abatement-noun-2",
             "definition": "an interruption in the intensity or amount of something",
-            "translation": "",
+            "translation": "强度或数量的中断",
             "examples": []
           }
         ]
@@ -1640,7 +1640,7 @@
           {
             "id": "abatic-adjective-1",
             "definition": "of or relating to abasia (inability to walk)",
-            "translation": "",
+            "translation": "与行走不能有关的",
             "examples": []
           }
         ]
@@ -1670,7 +1670,7 @@
           {
             "id": "abatis-noun-1",
             "definition": "a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) pointed toward the enemy",
-            "translation": "",
+            "translation": "由伐倒的或活的树木构成的防线，树枝（削尖或缠绕铁丝网）指向敌人",
             "examples": []
           }
         ]
@@ -1698,7 +1698,7 @@
           {
             "id": "abator-noun-1",
             "definition": "a person who abates a nuisance",
-            "translation": "",
+            "translation": "消除滋扰的人",
             "examples": []
           }
         ]
@@ -1728,7 +1728,7 @@
           {
             "id": "abattis-noun-1",
             "definition": "a line of defense consisting of a barrier of felled or live trees with branches (sharpened or with barbed wire entwined) pointed toward the enemy",
-            "translation": "",
+            "translation": "由伐倒的或活的树木构成的防线，树枝（削尖或缠绕铁丝网）指向敌人",
             "examples": []
           }
         ]
@@ -1758,7 +1758,7 @@
           {
             "id": "abattoir-noun-1",
             "definition": "a building where animals are butchered",
-            "translation": "",
+            "translation": "屠宰动物的建筑物（屠宰场）",
             "examples": []
           }
         ]
@@ -1788,11 +1788,11 @@
           {
             "id": "abaxial-adjective-1",
             "definition": "facing away from the axis of an organ or organism",
-            "translation": "",
+            "translation": "背离器官或生物体轴线的",
             "examples": [
               {
                 "text": "the abaxial surface of a leaf is the underside or side facing away from the stem",
-                "translation": ""
+                "translation": "叶子的远轴面是底面或背离茎的一面"
               }
             ]
           }
@@ -1821,7 +1821,7 @@
           {
             "id": "abaxially-adverb-1",
             "definition": "in an abaxial manner",
-            "translation": "",
+            "translation": "以背离轴线的方式",
             "examples": []
           }
         ]
@@ -1849,7 +1849,7 @@
           {
             "id": "abaya-noun-1",
             "definition": "(Arabic) a loose black robe from head to toe",
-            "translation": "",
+            "translation": "（阿拉伯语）从头到脚的宽松黑色长袍",
             "examples": []
           }
         ]
@@ -1877,7 +1877,7 @@
           {
             "id": "abbacy-noun-1",
             "definition": "the jurisdiction or office of an abbot",
-            "translation": "",
+            "translation": "修道院院长的管辖范围或职位",
             "examples": []
           }
         ]
@@ -1905,7 +1905,7 @@
           {
             "id": "abbatial-adjective-1",
             "definition": "of or having to do with or belonging to an abbey or abbot, or abbess",
-            "translation": "",
+            "translation": "与修道院、修道院院长或女修道院院长有关的",
             "examples": []
           }
         ]
@@ -1933,7 +1933,7 @@
           {
             "id": "abbe-noun-1",
             "definition": "a French abbot",
-            "translation": "",
+            "translation": "法国修道院院长",
             "examples": []
           }
         ]
@@ -1964,7 +1964,7 @@
           {
             "id": "abbess-noun-1",
             "definition": "the superior of a group of nuns",
-            "translation": "",
+            "translation": "一群修女的女院长",
             "examples": []
           }
         ]
@@ -1992,19 +1992,19 @@
           {
             "id": "abbey-noun-1",
             "definition": "a monastery ruled by an abbot",
-            "translation": "",
+            "translation": "由修道院院长管理的修道院",
             "examples": []
           },
           {
             "id": "abbey-noun-2",
             "definition": "a convent ruled by an abbess",
-            "translation": "",
+            "translation": "由女修道院院长管理的女修道院",
             "examples": []
           },
           {
             "id": "abbey-noun-3",
             "definition": "a church associated with a monastery or convent",
-            "translation": "",
+            "translation": "与修道院或女修道院相关联的教堂",
             "examples": []
           }
         ]
@@ -2034,11 +2034,11 @@
           {
             "id": "abbot-noun-1",
             "definition": "the superior of an abbey of monks",
-            "translation": "",
+            "translation": "男修道院的院长",
             "examples": [
               {
                 "text": "The abbot woke up the monks at six in the morning.",
-                "translation": ""
+                "translation": "修道院院长早上六点叫醒了僧侣们。"
               }
             ]
           }
@@ -2076,22 +2076,22 @@
           {
             "id": "abbreviate-verb-1",
             "definition": "to shorten",
-            "translation": "",
+            "translation": "缩短",
             "examples": [
               {
                 "text": "I abbreviated the terms for easier note taking.",
-                "translation": ""
+                "translation": "为了便于记笔记，我缩写了这些术语。"
               }
             ]
           },
           {
             "id": "abbreviate-verb-2",
             "definition": "to reduce in scope while retaining essential elements",
-            "translation": "",
+            "translation": "在保留基本要素的同时缩小范围",
             "examples": [
               {
                 "text": "I like to abbreviate words when I am writing text messages.",
-                "translation": ""
+                "translation": "我写短信时喜欢缩写单词。"
               }
             ]
           }
@@ -2101,7 +2101,7 @@
     "phrases": [
       {
         "text": "abbreviate to",
-        "translation": ""
+        "translation": "缩写为"
       }
     ]
   },
@@ -2128,22 +2128,22 @@
           {
             "id": "abbreviated-adjective-1",
             "definition": "(of clothing) very short",
-            "translation": "",
+            "translation": "（衣物）非常短的",
             "examples": [
               {
                 "text": "an abbreviated swimsuit",
-                "translation": ""
+                "translation": "超短泳衣"
               }
             ]
           },
           {
             "id": "abbreviated-adjective-2",
             "definition": "cut short in duration",
-            "translation": "",
+            "translation": "持续时间缩短的",
             "examples": [
               {
                 "text": "the abbreviated speech",
-                "translation": ""
+                "translation": "简短的演讲"
               }
             ]
           }
@@ -2176,13 +2176,13 @@
           {
             "id": "abbreviation-noun-1",
             "definition": "shortening something by omitting parts of it",
-            "translation": "",
+            "translation": "通过省略部分内容来缩短",
             "examples": []
           },
           {
             "id": "abbreviation-noun-2",
             "definition": "a shortened form of a word or phrase",
-            "translation": "",
+            "translation": "单词或短语的缩写形式",
             "examples": []
           }
         ]
@@ -2191,7 +2191,7 @@
     "phrases": [
       {
         "text": "abbreviation on chart",
-        "translation": ""
+        "translation": "图表上的缩写"
       }
     ]
   },
@@ -2217,7 +2217,7 @@
           {
             "id": "abbreviator-noun-1",
             "definition": "one who shortens or abridges or condenses a written work",
-            "translation": "",
+            "translation": "缩短、删节或压缩书面作品的人",
             "examples": []
           }
         ]
@@ -2247,7 +2247,7 @@
           {
             "id": "abc-noun-1",
             "definition": "the elementary stages of any subject (usually plural)",
-            "translation": "",
+            "translation": "任何学科的基础阶段（通常复数）",
             "examples": []
           }
         ]
@@ -2277,7 +2277,7 @@
           {
             "id": "abc's-noun-1",
             "definition": "the elementary stages of any subject (usually plural)",
-            "translation": "",
+            "translation": "任何学科的基础阶段（通常复数）",
             "examples": []
           }
         ]
@@ -2305,7 +2305,7 @@
           {
             "id": "abcoulomb-noun-1",
             "definition": "a unit of electrical charge equal to 10 coulombs",
-            "translation": "",
+            "translation": "等于10库仑的电荷单位（绝对库仑）",
             "examples": []
           }
         ]
@@ -2335,7 +2335,7 @@
           {
             "id": "abcs-noun-1",
             "definition": "the elementary stages of any subject (usually plural)",
-            "translation": "",
+            "translation": "任何学科的基础阶段（通常复数）",
             "examples": []
           }
         ]
@@ -2363,11 +2363,11 @@
           {
             "id": "abdicable-adjective-1",
             "definition": "capable of being discarded or renounced or relinquished",
-            "translation": "",
+            "translation": "可抛弃、放弃或让出的",
             "examples": [
               {
                 "text": "abdicable responsibilites",
-                "translation": ""
+                "translation": "可放弃的责任"
               }
             ]
           }
@@ -2405,11 +2405,11 @@
           {
             "id": "abdicate-verb-1",
             "definition": "to give up, such as power, as of monarchs and emperors, or duties and obligations",
-            "translation": "",
+            "translation": "放弃（如君主和皇帝放弃权力）或职责和义务",
             "examples": [
               {
                 "text": "The British royalty abdicated when their child became of age.",
-                "translation": ""
+                "translation": "英国皇室在孩子成年后退位。"
               }
             ]
           }
@@ -2440,13 +2440,13 @@
           {
             "id": "abdication-noun-1",
             "definition": "the act of abdicating",
-            "translation": "",
+            "translation": "退位的行为",
             "examples": []
           },
           {
             "id": "abdication-noun-2",
             "definition": "a formal resignation and renunciation of powers",
-            "translation": "",
+            "translation": "正式辞职和放弃权力",
             "examples": []
           }
         ]
@@ -2474,7 +2474,7 @@
           {
             "id": "abdicator-noun-1",
             "definition": "one who formally relinquishes an office or responsibility",
-            "translation": "",
+            "translation": "正式放弃职位或责任的人",
             "examples": []
           }
         ]
@@ -2507,13 +2507,13 @@
           {
             "id": "abdomen-noun-1",
             "definition": "the region of the body of a vertebrate between the thorax and the pelvis",
-            "translation": "",
+            "translation": "脊椎动物身体中胸部和骨盆之间的区域（腹部）",
             "examples": []
           },
           {
             "id": "abdomen-noun-2",
             "definition": "the cavity containing the major viscera",
-            "translation": "",
+            "translation": "包含主要内脏的腔（腹腔）",
             "examples": []
           }
         ]
@@ -2522,7 +2522,7 @@
     "phrases": [
       {
         "text": "abdomen in",
-        "translation": ""
+        "translation": "收腹"
       }
     ]
   },
@@ -2549,7 +2549,7 @@
           {
             "id": "abdominal-adjective-1",
             "definition": "of or relating to or near the abdomen",
-            "translation": "",
+            "translation": "腹部的或与腹部相关的",
             "examples": [
               {
                 "text": "The abdominal aorta continues from the descending aorta.",
