@@ -1,0 +1,7339 @@
+[
+  {
+    "word": "y",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈɪtrɪəm"
+      },
+      "uk": {
+        "ipa": "ˈɪtrɪəm"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "wye"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "y-noun-1",
+            "definition": "the 25th letter of the Roman alphabet",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "y'all",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "pronoun",
+        "senses": [
+          {
+            "id": "y'all-pronoun-1",
+            "definition": "second person plural pronoun, contraction of \"you all\"",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I don't know about y'all, but I'm ready for bed.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "y-axis",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈwaɪˌæksɪs"
+      },
+      "uk": {
+        "ipa": "ˈwaɪˌæksɪs"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "y-axis-noun-1",
+            "definition": "the vertical axis in a plane coordinate system",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The line intersects the y-axis at (0, -2).",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yacca",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yacca-noun-1",
+            "definition": "West Indian evergreen with medium to long leaves",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yacht",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɑt"
+      },
+      "uk": {
+        "ipa": "jɒt"
+      }
+    },
+    "forms": {
+      "gerund": "yachting",
+      "past": "yachted",
+      "pastParticiple": "yachted"
+    },
+    "tags": [
+      "cet6",
+      "gre"
+    ],
+    "synonyms": [
+      "racing yacht"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yacht-noun-1",
+            "definition": "an expensive vessel propelled by sail or power and used for cruising or racing",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yacht-verb-1",
+            "definition": "travel in a yacht",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yachting",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "boating"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yachting-noun-1",
+            "definition": "water travel for pleasure",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I enjoy yachting on the Atlantic off the coast of Florida.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yachtsman",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yachtsman-noun-1",
+            "definition": "a person who owns or sails a yacht",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yack",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yacking",
+      "past": "yacked",
+      "pastParticiple": "yacked"
+    },
+    "tags": [],
+    "synonyms": [
+      "jaw",
+      "yak"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yack-noun-1",
+            "definition": "noisy talk",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Quiet your yack.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yack-verb-1",
+            "definition": "talk incessantly and tiresomely",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The kids were yacking about their trip to the zoo.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yagi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yagi-noun-1",
+            "definition": "a sharply directional antenna",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We pointed the yagi toward the signal's source.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yahoo",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɑhu"
+      },
+      "uk": {
+        "ipa": "jɑ:ˈhu"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "hick"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yahoo-noun-1",
+            "definition": "a person who acts recklessly or dangerously",
+            "translation": "",
+            "examples": [
+              {
+                "text": "These yahoos keep driving down the street at 70 mph.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yahoo-noun-2",
+            "definition": "a person who is not very intelligent or interested in culture",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This bar is full of yahoos.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yak",
+    "pronunciation": {
+      "us": {
+        "ipa": "jæk"
+      },
+      "uk": {
+        "ipa": "jæk"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "cackle",
+      "chatter",
+      "gab",
+      "yack",
+      "yakety-yak"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yak-noun-1",
+            "definition": "large long-haired wild ox of Tibet often domesticated",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yak-noun-2",
+            "definition": "noisy talk",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yak-verb-1",
+            "definition": "talk profusely",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I was yakking away about my grandchildren with a glass of whiskey on the porch.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yak on",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yakety-yak",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yak"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yakety-yak-noun-1",
+            "definition": "noisy talk",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Stop all that yakety-yak and get back to work.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yakuza",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yakuza-noun-1",
+            "definition": "organized crime in Japan",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yakuza controls the black market.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yakuza-noun-2",
+            "definition": "a Japanese gangster",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I saw a yakuza that was missing half a finger.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yall",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "pronoun",
+        "senses": [
+          {
+            "id": "yall-pronoun-1",
+            "definition": "second person plural pronoun, contraction of \"you all\"",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I don't know about y'all, but I'm ready for bed.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yam",
+    "pronunciation": {
+      "us": {
+        "ipa": "jæm"
+      },
+      "uk": {
+        "ipa": "jæm"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yam-noun-1",
+            "definition": "edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yam-noun-2",
+            "definition": "sweet potato with deep orange flesh that remains moist when baked",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yam-noun-3",
+            "definition": "any of a number of tropical vines of the genus Dioscorea many having edible tuberous roots",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yam-noun-4",
+            "definition": "edible tuber of any of several yams",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yammer",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yammering",
+      "past": "yammered",
+      "pastParticiple": "yammered"
+    },
+    "tags": [],
+    "synonyms": [
+      "grizzle",
+      "yowl"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yammer-verb-1",
+            "definition": "to complain whiningly",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The kids yammered about getting socks for Christmas again.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yammer-verb-2",
+            "definition": "to cry loudly, as of animals",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yammering coyotes kept us awake in the tent all night long.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yang",
+    "pronunciation": {
+      "us": {
+        "ipa": "jæŋ"
+      },
+      "uk": {
+        "ipa": "jæŋ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yang-noun-1",
+            "definition": "the bright, positive, masculine principle in Chinese dualistic cosmology",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yin and yang together produce everything that comes into existence, according to some.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yank",
+    "pronunciation": {
+      "us": {
+        "ipa": "jæŋk"
+      },
+      "uk": {
+        "ipa": "jæŋk"
+      }
+    },
+    "forms": {
+      "past": "yanked",
+      "gerund": "yanking",
+      "pastParticiple": "yanked"
+    },
+    "tags": [],
+    "synonyms": [
+      "jerk"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yank-noun-1",
+            "definition": "a quick, sudden pulling movement",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yank on the rope caught me off guard.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yank-noun-2",
+            "definition": "short for yankee i.e. an American, often pejorative ",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This cafe is full of drunken yanks.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yank-verb-1",
+            "definition": "to pull, or move with a sudden movement",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I yanked the table cloth off the table, leaving the plates and silverware in place.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yank in",
+        "translation": ""
+      },
+      {
+        "text": "yank off",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yankee",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjæŋki"
+      },
+      "uk": {
+        "ipa": "ˈjæŋkɪ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yankee-adjective-1",
+            "definition": "relating to an inhabitant of a northern state in the United States, especially a Union soldier during the Civil War, typically used by inhabitants of the southern United States as a pejorative term",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I don't care for Yankee food.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yankee-noun-1",
+            "definition": "an inhabitant of a northern state in the United States, especially a Union soldier during the Civil War, typically used by inhabitants of the southern United States as a pejorative term",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yanker",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "jerker"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yanker-noun-1",
+            "definition": "someone who gives a strong sudden pull",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yap",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yapping",
+      "past": "yapped",
+      "pastParticiple": "yapped"
+    },
+    "tags": [],
+    "synonyms": [
+      "trap",
+      "yelp",
+      "yip"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yap-noun-1",
+            "definition": "informal terms for the mouth",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yap-verb-1",
+            "definition": "bark in a high-pitched tone",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yap at",
+        "translation": ""
+      },
+      {
+        "text": "yap away",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yard",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɑrd"
+      },
+      "uk": {
+        "ipa": "jɑ:d"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet4",
+      "cet6",
+      "gk",
+      "ielts",
+      "ky",
+      "zk"
+    ],
+    "synonyms": [
+      "cubic yard",
+      "curtilage",
+      "grand",
+      "grounds",
+      "pace",
+      "railway yard",
+      "railyard"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yard-noun-1",
+            "definition": "an enclosure for animals (as chicken or livestock)",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yard-noun-2",
+            "definition": "a long horizontal spar tapered at the end and used to support and spread a square sail or lateen",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yard-noun-3",
+            "definition": "the enclosed land around a house or other building",
+            "translation": "",
+            "examples": [
+              {
+                "text": "it was a small house with almost no yard",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yard-noun-4",
+            "definition": "an area having a network of railway tracks and sidings for storage and maintenance of cars and engines",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yard-noun-5",
+            "definition": "a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)",
+            "translation": "",
+            "examples": [
+              {
+                "text": "they opened a repair yard on the edge of town",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yard-noun-6",
+            "definition": "a tract of land where logs are accumulated",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yard-noun-7",
+            "definition": "a unit of volume, as for sand or gravel",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We'll need 1000 yards to finish this project.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yard-noun-8",
+            "definition": "a unit of length equal to 3 feet",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yard-noun-9",
+            "definition": "the cardinal number that is the product of 10 and 100",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yard up",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yardage",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɑrdɪdʒ"
+      },
+      "uk": {
+        "ipa": "ˈjɑ:dɪdʒ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardage-noun-1",
+            "definition": "distance measured in the aggregate number of yards",
+            "translation": "",
+            "examples": [
+              {
+                "text": "What is the yardage of this golf course?",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardarm",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardarm-noun-1",
+            "definition": "either end of the yard of a square-rigged ship",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Go up on the yardarm and have a look.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardbird",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "con",
+      "yard bird"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardbird-noun-1",
+            "definition": "a person serving a sentence in a jail or prison",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Some thought the yardbirds would never amount to anything.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yardbird-noun-2",
+            "definition": "a military recruit who is assigned menial tasks",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Looks like we have a new yard bird to collect cigarette butts in the parking lot.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarder",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yard donkey"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarder-noun-1",
+            "definition": "a winch (or system of winches) powered by an engine and used to haul logs from a stump to a landing or to a skid road",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yarder-noun-2",
+            "definition": "the height or length of something in yards, used only in combinations",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The golfer hit a 300-yarder to the green.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardgrass",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "goose grass",
+      "wire grass"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardgrass-noun-1",
+            "definition": "coarse annual grass having fingerlike spikes of flowers",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardie",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardie-noun-1",
+            "definition": "member of an international gang of Jamaican criminals who sell drugs and violence",
+            "translation": "",
+            "examples": [
+              {
+                "text": "A much publicized raid on yardies had first been simulated.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardman",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardman-noun-1",
+            "definition": "a laborer hired to do outdoor work",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yardman was doing some weeding in front of the house.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yardman-noun-2",
+            "definition": "worker in a railway yard",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yardman helped run off some vagrants.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardmaster",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "train dispatcher",
+      "trainmaster"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardmaster-noun-1",
+            "definition": "a railroad employer who is in charge of a railway yard",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yardstick",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɑrdstɪk"
+      },
+      "uk": {
+        "ipa": "ˈjɑ:dstɪk"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "toefl"
+    ],
+    "synonyms": [
+      "yard measure"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yardstick-noun-1",
+            "definition": "a ruler or tape that is three feet long",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yardstick-noun-2",
+            "definition": "a measure or standard used for comparison",
+            "translation": "",
+            "examples": [
+              {
+                "text": "On what kind of yardstick are they basing their judgment?",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarmelke",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarmelke-noun-1",
+            "definition": "a skullcap worn by Jews, especially at prayer",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I wore my yarmulke to church.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarmulka",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarmulka-noun-1",
+            "definition": "a skullcap worn by Jews, especially at prayer",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I wore my yarmulke to church.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarmulke",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarmulke-noun-1",
+            "definition": "a skullcap worn by Jews, especially at prayer",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I wore my yarmulke to church.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarn",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɑrn"
+      },
+      "uk": {
+        "ipa": "jɑ:n"
+      }
+    },
+    "forms": {
+      "gerund": "yarning",
+      "past": "yarned",
+      "pastParticiple": "yarned"
+    },
+    "tags": [
+      "gre",
+      "ielts",
+      "toefl"
+    ],
+    "synonyms": [
+      "narration",
+      "recital",
+      "thread"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarn-noun-1",
+            "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yarn-noun-2",
+            "definition": "the act of giving an account describing incidents or a course of events",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yarn-verb-1",
+            "definition": "tell or spin a yarn",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yarn to yarn friction",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yarn-dye",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yarn-dye-verb-1",
+            "definition": "to dye fabric before it is spun",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I yard-dye the fabric for our company.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarn-spinning",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yarn-spinning-adjective-1",
+            "definition": "inclined to tell long and involved stories, often of incredible happenings",
+            "translation": "",
+            "examples": [
+              {
+                "text": "They all enjoyed the yarn-spinning sailor's tales of adventure.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yarrow",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "milfoil"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yarrow-noun-1",
+            "definition": "ubiquitous strong-scented mat-forming Eurasian herb of wasteland, hedgerow or pasture having narrow serrate leaves and small usually white florets",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yashmac",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yashmak"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yashmac-noun-1",
+            "definition": "the face veil worn by Muslim women in Turkish",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The imam's wife wore a yashmac out in public.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yashmak",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yashmac"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yashmak-noun-1",
+            "definition": "the face veil worn by Muslim women",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yataghan",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yataghan-noun-1",
+            "definition": "a long Turkish knife with a curved blade having a single edge",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The shopkeeper had several exotic yataghans in their knife selection.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yatobyo",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "tularemia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yatobyo-noun-1",
+            "definition": "a highly infectious disease of rodents, especially rabbits and squirrels, and sometimes transmitted to humans by ticks or flies or by handling infected animals",
+            "translation": "",
+            "examples": [
+              {
+                "text": "While exploring the forests of Japan, I came across a squirrel with yatobyo.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yaup",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yauping",
+      "past": "yauped",
+      "pastParticiple": "yauped"
+    },
+    "tags": [],
+    "synonyms": [
+      "yawl"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yaup-verb-1",
+            "definition": "to emit long loud cries",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The dog is yauping.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yautia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "malanga",
+      "spoonflower",
+      "tannia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yautia-noun-1",
+            "definition": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yaw",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɔ"
+      },
+      "uk": {
+        "ipa": "jɔ:"
+      }
+    },
+    "forms": {
+      "gerund": "yawing",
+      "past": "yawed",
+      "pastParticiple": "yawed"
+    },
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "swerve",
+      "yawn"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yaw-noun-1",
+            "definition": "a direction of rotation along the vertical axis in the horizontal plane",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yaw of the plane was affected by the unbalanced thrust.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yaw-noun-2",
+            "definition": "an erratic deflection from an intended course",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yaw-verb-1",
+            "definition": "to rotate along the vertical axis in the horizontal plane",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The plane yawed to the left to match the new heading.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yaw-verb-2",
+            "definition": "to swerve off course momentarily",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The ship yawed when the huge waves hit it.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yaw-verb-3",
+            "definition": "to deviate erratically from a set course",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The car with the flat started to yaw away from the road.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yaw-verb-4",
+            "definition": "to be wide open",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The chasm yawed in front of them.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yaw in bore",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yawl",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yawling",
+      "past": "yawled",
+      "pastParticiple": "yawled"
+    },
+    "tags": [],
+    "synonyms": [
+      "dandy",
+      "howl",
+      "roar",
+      "ululate",
+      "wail",
+      "yaup"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yawl-noun-1",
+            "definition": "a sailing vessel with two masts",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yawl-noun-2",
+            "definition": "a ship's small boat (usually rowed by 4 or 6 oars)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yawl-verb-1",
+            "definition": "emit long loud cries",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yawn",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɔn"
+      },
+      "uk": {
+        "ipa": "jɔ:n"
+      }
+    },
+    "forms": {
+      "past": "yawned",
+      "gerund": "yawning",
+      "pastParticiple": "yawned"
+    },
+    "tags": [
+      "cet4",
+      "cet6",
+      "gk",
+      "gre",
+      "ielts",
+      "ky",
+      "toefl"
+    ],
+    "synonyms": [
+      "gape",
+      "oscitance",
+      "oscitancy",
+      "yaw",
+      "yawning"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yawn-noun-1",
+            "definition": "an involuntary intake of breath through a wide open mouth",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yawn-verb-1",
+            "definition": "utter a yawn, as from lack of oxygen or when one is tired",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The child yawned during the long performance",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yawn-verb-2",
+            "definition": "be wide open",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yawner",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yawner-noun-1",
+            "definition": "a person who yawns",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yawner was embarrassed upon being caught in the act.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yawning",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "drowsy",
+      "yawn"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yawning-adjective-1",
+            "definition": "showing lack of attention or boredom",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The teacher tried a new subject to wake the yawning class.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yawning-adjective-2",
+            "definition": "gaping open as if threatening to engulf someone or something",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yawning mine shaft was pitch black.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yawning-adjective-3",
+            "definition": "with the mouth wide open indicating boredom or sleepiness",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We put the yawning toddler to bed.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yawning-noun-1",
+            "definition": "an involuntary intake of breath through a wide open mouth",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your yawning is contagious.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yawp",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yawping",
+      "past": "yawped",
+      "pastParticiple": "yawped"
+    },
+    "tags": [],
+    "synonyms": [
+      "bawl",
+      "grizzle"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yawp-verb-1",
+            "definition": "to complain whiningly",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The children yawped to their parents about eating brussels sprouts.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yawp-verb-2",
+            "definition": "to make a raucous noise",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The students were yawping at a party.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yaws",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "frambesia",
+      "framboesia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yaws-noun-1",
+            "definition": "an infectious tropical disease resembling syphilis in its early stages",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yea",
+    "pronunciation": {
+      "us": {
+        "ipa": "je"
+      },
+      "uk": {
+        "ipa": "jeɪ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yeah",
+      "yes"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yea-adverb-1",
+            "definition": "not only so, but",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I therein do rejoice, yea, and will rejoice",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yea-noun-1",
+            "definition": "an affirmative",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yeas have it",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeah",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɛə"
+      },
+      "uk": {
+        "ipa": "jeə"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yea"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yeah-adverb-1",
+            "definition": "casual way of answering yes",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yeah, I agree.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "year",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɪɚ"
+      },
+      "uk": {
+        "ipa": "jɪə(r)"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk",
+      "zk"
+    ],
+    "synonyms": [
+      "class",
+      "twelvemonth"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "year-noun-1",
+            "definition": "a body of students who graduate together",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "year-noun-2",
+            "definition": "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a Martian year takes 687 of our days",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "year-noun-3",
+            "definition": "a period of time containing 365 days",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I am four years old.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "year-noun-4",
+            "definition": "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a school year",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "year after year",
+        "translation": ""
+      },
+      {
+        "text": "year around",
+        "translation": ""
+      },
+      {
+        "text": "year before last",
+        "translation": ""
+      },
+      {
+        "text": "year by year",
+        "translation": ""
+      },
+      {
+        "text": "year in and year out",
+        "translation": ""
+      },
+      {
+        "text": "year in year out",
+        "translation": ""
+      },
+      {
+        "text": "year on year",
+        "translation": ""
+      },
+      {
+        "text": "year round",
+        "translation": ""
+      },
+      {
+        "text": "year round air conditioning",
+        "translation": ""
+      },
+      {
+        "text": "year round employment",
+        "translation": ""
+      },
+      {
+        "text": "year round goods",
+        "translation": ""
+      },
+      {
+        "text": "year round heating load",
+        "translation": ""
+      },
+      {
+        "text": "year round type",
+        "translation": ""
+      },
+      {
+        "text": "year round work schedule",
+        "translation": ""
+      },
+      {
+        "text": "year to dates",
+        "translation": ""
+      },
+      {
+        "text": "year under review",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "year-end",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɪɚˌɛnd"
+      },
+      "uk": {
+        "ipa": "ˈjɪəˌend"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "year-end-adjective-1",
+            "definition": "taking place at the close of a fiscal year",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Our year-end audit is happening next weekend.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "year-end-noun-1",
+            "definition": "the end of a calendar year",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The manager had to unload the merchandise before the year-end.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "year-round",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɪrˈraʊnd"
+      },
+      "uk": {
+        "ipa": "ˈjɜ:ˈraʊnd"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "year-round-adjective-1",
+            "definition": "operating or continuing throughout the year",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a year-round resort",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearbook",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɪrbʊk"
+      },
+      "uk": {
+        "ipa": "ˈjɪəbuk"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yearbook-noun-1",
+            "definition": "a book published annually by a school usually containing photographs of faculty and students",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yearbooks are being sold for $65 dollars in the cafeteria this week.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearling",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɪrlɪŋ"
+      },
+      "uk": {
+        "ipa": "ˈjɪəlɪŋ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "bambino",
+      "kiddy"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yearling-noun-1",
+            "definition": "an animal in its second year",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yearling-noun-2",
+            "definition": "a racehorse considered one year old until the second Jan. 1 following its birth",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yearling-noun-3",
+            "definition": "a young child",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearlong",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yearlong-adjective-1",
+            "definition": "lasting through a year",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I am attending yearlong courses in Latin.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearly",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɪrli"
+      },
+      "uk": {
+        "ipa": "ˈjɜ:lɪ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet4",
+      "cet6",
+      "ky"
+    ],
+    "synonyms": [
+      "annual",
+      "annually"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yearly-adjective-1",
+            "definition": "occurring or payable every year",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yearly-adverb-1",
+            "definition": "without missing a year",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yearly-noun-1",
+            "definition": "a reference book that is published regularly once every year",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearn",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɚn"
+      },
+      "uk": {
+        "ipa": "jɜ:n"
+      }
+    },
+    "forms": {
+      "gerund": "yearning",
+      "past": "yearned",
+      "pastParticiple": "yearned"
+    },
+    "tags": [
+      "cet6",
+      "gre",
+      "ielts",
+      "toefl"
+    ],
+    "synonyms": [
+      "long",
+      "yen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yearn-verb-1",
+            "definition": "to have affection for",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I yearn for them.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yearn-verb-2",
+            "definition": "to have a desire for something or someone who is not present",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I yearn to go on a trip abroad.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yearn-verb-3",
+            "definition": "to desire strongly or persistently",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The old couple yearned for simpler times.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yearn to",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yearned-for",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "coveted"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yearned-for-adjective-1",
+            "definition": "greatly desired",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My yearned-for vacation has been rejected by management again.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearner",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "longer"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yearner-noun-1",
+            "definition": "a person with a strong desire for something",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yearners have to be doers if they want to attain what they desire.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearning",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɚnɪŋ"
+      },
+      "uk": {
+        "ipa": "ˈjɜ:nɪŋ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "hungriness"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yearning-noun-1",
+            "definition": "prolonged unfulfilled desire or need",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This yearning for travel will not go away.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yearningly",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "longingly"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yearningly-adverb-1",
+            "definition": "in a yearning manner",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The poet yearningly wrote for their lover.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeast",
+    "pronunciation": {
+      "us": {
+        "ipa": "jist"
+      },
+      "uk": {
+        "ipa": "ji:st"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet6",
+      "gre"
+    ],
+    "synonyms": [
+      "barm"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeast-noun-1",
+            "definition": "any of various single-celled fungi that reproduce asexually by budding or division",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yeast-noun-2",
+            "definition": "a commercial leavening agent containing yeast cells",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeastlike",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yeasty"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yeastlike-adjective-1",
+            "definition": "of or resembling or containing yeast",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeasty",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "barmy",
+      "yeastlike",
+      "zestful",
+      "zesty"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yeasty-adjective-1",
+            "definition": "exuberantly creative",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yeasty-adjective-2",
+            "definition": "marked by spirited enjoyment",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yeasty-adjective-3",
+            "definition": "of or resembling or containing yeast",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeatsian",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yeatsian-adjective-1",
+            "definition": "in the manner of William Butler Yeats",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This poetry is Yeatsian.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yell",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɛl"
+      },
+      "uk": {
+        "ipa": "jel"
+      }
+    },
+    "forms": {
+      "past": "yelled",
+      "gerund": "yelling",
+      "pastParticiple": "yelled"
+    },
+    "tags": [
+      "cet4",
+      "cet6",
+      "gk",
+      "ky",
+      "toefl"
+    ],
+    "synonyms": [
+      "call",
+      "cry",
+      "scream"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yell-noun-1",
+            "definition": "a loud utterance",
+            "translation": "",
+            "examples": [
+              {
+                "text": "They let loose a yell when they saw the party.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yell-noun-2",
+            "definition": "a loud utterance of emotion, especially when inarticulate",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The crowd let out an angry yell.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yell-verb-1",
+            "definition": "to utter or declare in a very loud voice",
+            "translation": "",
+            "examples": [
+              {
+                "text": "You don't have to yell the directions--I can hear you just fine!",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yell-verb-2",
+            "definition": "to utter a sudden loud cry",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The team yelled to the fans when they scored.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yell at",
+        "translation": ""
+      },
+      {
+        "text": "yell out",
+        "translation": ""
+      },
+      {
+        "text": "yell out an oath",
+        "translation": ""
+      },
+      {
+        "text": "yell together for",
+        "translation": ""
+      },
+      {
+        "text": "yell up",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yelled",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "shouted"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yelled-adjective-1",
+            "definition": "in a vehement outcry",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your yelled warning was of no use; the car still didn't have time to stop.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeller",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "screamer"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeller-noun-1",
+            "definition": "someone who communicates vocally in a very loud voice",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We could not hear each other over the yeller standing next to us.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yelling",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "shouting"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yelling-noun-1",
+            "definition": "uttering a loud inarticulate cry as of pain or excitement",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjeloʊ"
+      },
+      "uk": {
+        "ipa": "ˈjeləʊ"
+      }
+    },
+    "forms": {
+      "gerund": "yellowing",
+      "past": "yellowed",
+      "pastParticiple": "yellowed"
+    },
+    "tags": [
+      "gk",
+      "ielts",
+      "zk"
+    ],
+    "synonyms": [
+      "chicken",
+      "icteric",
+      "jaundiced",
+      "scandalmongering",
+      "xanthous",
+      "yellowed",
+      "yellowness"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-adjective-1",
+            "definition": "typical of tabloids",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellow-adjective-2",
+            "definition": "easily frightened",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellow-adjective-3",
+            "definition": "of the color intermediate between green and orange in the color spectrum",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellow-adjective-4",
+            "definition": "affected by jaundice which causes yellowing of skin etc",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellow-adjective-5",
+            "definition": "cowardly or treacherous",
+            "translation": "",
+            "examples": [
+              {
+                "text": "the little yellow stain of treason-M.W.Straight",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yellow-adjective-6",
+            "definition": "changed to a yellowish color by age",
+            "translation": "",
+            "examples": [
+              {
+                "text": "yellowed parchment",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellow-noun-1",
+            "definition": "yellow color or pigment",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yellow-verb-1",
+            "definition": "turn yellow",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The pages of the book began to yellow",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yellow about the gills",
+        "translation": ""
+      },
+      {
+        "text": "yellow back",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yellow-beige",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-beige-adjective-1",
+            "definition": "of beige tinged with yellow",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-bellied",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "chicken"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-bellied-adjective-1",
+            "definition": "easily frightened",
+            "translation": "",
+            "examples": [
+              {
+                "text": "When the bully called me a yellow-bellied coward, I confronted them.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-blindness",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "tetartanopia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellow-blindness-noun-1",
+            "definition": "a form of dichromacy characterized by lowered sensitivity to yellow light",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My yellow-blindness was discovered when I got a vision test for my driver license.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-green",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-green-adjective-1",
+            "definition": "of a color midway between yellow and green",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The color of leaves half way though fall.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-grey",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-grey-adjective-1",
+            "definition": "of grey tinged with yellow",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-orange",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-orange-adjective-1",
+            "definition": "of orange tinged with yellow",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellow-white",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellow-white-adjective-1",
+            "definition": "of a white tinged with yellow",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowbird",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "golden warbler",
+      "goldfinch"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowbird-noun-1",
+            "definition": "American finch whose male has yellow body plumage in summer",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellowbird-noun-2",
+            "definition": "yellow-throated American wood warbler",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowcake",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowcake-noun-1",
+            "definition": "an impure mixture of uranium oxides obtained during the processing of uranium ore",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This yellowcake could be turned into a weapon.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowed",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɛlod"
+      },
+      "uk": {
+        "ipa": "ˈjeləʊd"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yellow"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellowed-adjective-1",
+            "definition": "changed to a yellowish color by age",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yellowed parchment cracked at the slightest touch.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowfin",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yellowfin tuna"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowfin-noun-1",
+            "definition": "may reach 400 pounds",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowhammer",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowhammer-noun-1",
+            "definition": "European bunting the male being bright yellow",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellowhammer-noun-2",
+            "definition": "large flicker of eastern North America with a red neck and yellow undersurface to wings and tail",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowish",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjeloʊɪʃ"
+      },
+      "uk": {
+        "ipa": "ˈjeləʊɪʃ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yellowish-adjective-1",
+            "definition": "of the color intermediate between green and orange in the color spectrum",
+            "translation": "",
+            "examples": [
+              {
+                "text": "That car is an awful yellowish color.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowness",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yellow"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowness-noun-1",
+            "definition": "yellow color or pigment",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yellowness of the banana indicates that it is ripe.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yellowness-noun-2",
+            "definition": "cowardlyness",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your yellowness is showing.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowtail",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowtail-noun-1",
+            "definition": "game fish of southern California and Mexico having a yellow tail fin",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellowtail-noun-2",
+            "definition": "superior food fish of the tropical Atlantic and Caribbean with broad yellow stripe along the sides and on the tail",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yellowwood",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yellowwood-noun-1",
+            "definition": "any of various trees having yellowish wood or yielding a yellow extract",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yellowwood-noun-2",
+            "definition": "the yellow wood of any of various yellowwood trees",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yelp",
+    "pronunciation": {
+      "us": {
+        "ipa": "jelp"
+      },
+      "uk": {
+        "ipa": "jelp"
+      }
+    },
+    "forms": {
+      "past": "yelped",
+      "gerund": "yelping",
+      "pastParticiple": "yelped"
+    },
+    "tags": [
+      "toefl"
+    ],
+    "synonyms": [
+      "yap",
+      "yip"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yelp-noun-1",
+            "definition": "a sharp, high-pitched cry, especially by a dog",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yelp pierced the silent night sky and made its way through the streets of Chicago.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yelp-verb-1",
+            "definition": "to bark in a high-pitched tone",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The puppies yelped when they heard the garage door open up.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yelping",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yip"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yelping-noun-1",
+            "definition": "a sharp high-pitched cry, especially by a dog",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The dog's yelping carried through the walls all night long.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yemeni",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yemeni-adjective-1",
+            "definition": "of or relating to or characteristic of Yemen or its inhabitants",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The Yemeni mountains provide a harsh living environment.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yen",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɛn"
+      },
+      "uk": {
+        "ipa": "jen"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "ielts",
+      "toefl"
+    ],
+    "synonyms": [
+      "ache",
+      "hankering",
+      "languish",
+      "pine",
+      "yearn"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yen-noun-1",
+            "definition": "a yearning for something or to do something",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yen-noun-2",
+            "definition": "the basic unit of money in Japan",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yen-verb-1",
+            "definition": "have a desire for something or someone who is not present",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yenta",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yenta-noun-1",
+            "definition": "from Yiddish, a woman who talks too much",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The party was full of insufferable yentas.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yenta-noun-2",
+            "definition": "from Yiddish, a vulgar shrew",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I won't let you grow up to be a yenta!",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeoman",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjoʊmən"
+      },
+      "uk": {
+        "ipa": "ˈjəʊmən"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "beefeater"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeoman-noun-1",
+            "definition": "in former times was free and cultivated his own land",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yeoman-noun-2",
+            "definition": "officer in the (ceremonial) bodyguard of the British monarch",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeomanry",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeomanry-noun-1",
+            "definition": "a British volunteer cavalry force organized in 1761 for home defense later incorporated into the Territorial Army",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yeomanry protected Britain on horseback.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yeomanry-noun-2",
+            "definition": "class of small freeholders who cultivated their own land",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yeomanry produced another great potato crop.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yes",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɛs"
+      },
+      "uk": {
+        "ipa": "jes"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk",
+      "zk"
+    ],
+    "synonyms": [
+      "yea"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yes-noun-1",
+            "definition": "an affirmative",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I was hoping for a yes.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yes-man",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "stooge"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yes-man-noun-1",
+            "definition": "a person of unquestioning obedience",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I don't need yes-men; I need constructive criticism.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeshiva",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yeshivah"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeshiva-noun-1",
+            "definition": "an academy for the advanced study of Jewish texts (primarily the Talmud)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeshivah",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yeshiva"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeshivah-noun-1",
+            "definition": "an academy for the advanced study of Jewish texts (primarily the Talmud)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yesterday",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjestɚde"
+      },
+      "uk": {
+        "ipa": "ˈjestədeɪ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk",
+      "zk"
+    ],
+    "synonyms": [
+      "recently"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yesterday-adverb-1",
+            "definition": "on the day preceding today",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yesterday, the weather was beautiful.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yesterday-adverb-2",
+            "definition": "in the recent past",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The election was news yesterday.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yesterday-noun-1",
+            "definition": "the day immediately before today",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The news was in yesterday's newspapers.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yesterday-noun-2",
+            "definition": "the recent past",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yesterday's solutions are not good enough.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yesteryear",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "past"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yesteryear-noun-1",
+            "definition": "the time that has elapsed",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We have not heard that song since yesteryear.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yet",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɛt"
+      },
+      "uk": {
+        "ipa": "jet"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk",
+      "zk"
+    ],
+    "synonyms": [
+      "even",
+      "however",
+      "in time",
+      "so far"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yet-adverb-1",
+            "definition": "to a greater degree or extent",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We aim for yet better results.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yet-adverb-2",
+            "definition": "despite anything to the contrary, usually following a concession",
+            "translation": "",
+            "examples": [
+              {
+                "text": "You are right, yet I still disagree.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yet-adverb-3",
+            "definition": "up to the present time",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I have yet to see the results.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yet-adverb-4",
+            "definition": "used in negative statement to describe a situation that has existed up to this point or up to the present time",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yet you have not lived up to expectations.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yet-adverb-5",
+            "definition": "used after a superlative",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The violinist was the best yet.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yet-adverb-6",
+            "definition": "within an indefinite time or at an unspecified future time",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The gardeners longed for the flowers that were yet to show themselves.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yeti",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɛti"
+      },
+      "uk": {
+        "ipa": "ˈjetɪ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "abominable snowman"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yeti-noun-1",
+            "definition": "a large hairy humanoid creature said to live in the Himalayas",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The Everest expedition came to an untimely end upon being devoured by a Yeti.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yew",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yew-noun-1",
+            "definition": "any of numerous evergreen trees or shrubs having red cup-shaped berries and flattened needlelike leaves",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I especially like the durable fine-grained light brown or red wood of the English yew for cabinetwork and archery bows.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yid",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "sheeny"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yid-noun-1",
+            "definition": "a fan of the Tottenham Hotspur Football Club",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yid-noun-2",
+            "definition": "offensive term for a Jew",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We were shocked and offended when they called us yids.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yield",
+    "pronunciation": {
+      "us": {
+        "ipa": "jild"
+      },
+      "uk": {
+        "ipa": "ji:ld"
+      }
+    },
+    "forms": {
+      "past": "yielded",
+      "pastParticiple": "yielded",
+      "gerund": "yielding"
+    },
+    "tags": [
+      "cet4",
+      "cet6",
+      "ielts",
+      "ky",
+      "toefl"
+    ],
+    "synonyms": [
+      "afford",
+      "bear",
+      "buckle under",
+      "ease up",
+      "fruit",
+      "give",
+      "give in",
+      "give way",
+      "grant",
+      "knuckle under",
+      "move over",
+      "output",
+      "pay",
+      "production",
+      "relent",
+      "return",
+      "soften",
+      "succumb"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yield-noun-1",
+            "definition": "production of a certain amount",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-noun-2",
+            "definition": "an amount of a product",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-noun-3",
+            "definition": "the income or profit arising from such transactions as the sale of land or other property",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-noun-4",
+            "definition": "the quantity of something (as a commodity) that is created (usually within a given period of time)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yield-verb-1",
+            "definition": "end resistance, as under pressure or force",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The door yielded to repeated blows with a battering ram",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yield-verb-2",
+            "definition": "consent reluctantly",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-3",
+            "definition": "be willing to concede",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-4",
+            "definition": "cease opposition",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-5",
+            "definition": "be flexible under stress of physical force",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-6",
+            "definition": "give or supply",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-7",
+            "definition": "cause to happen or be responsible for",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-8",
+            "definition": "move in order to make room for someone for something",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-9",
+            "definition": "bring in",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-10",
+            "definition": "give over",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-11",
+            "definition": "be the cause or source of",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-12",
+            "definition": "be fatally overwhelmed",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yield-verb-13",
+            "definition": "give in, as to influence or pressure",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yield ahead sign",
+        "translation": ""
+      },
+      {
+        "text": "yield away to temptation",
+        "translation": ""
+      },
+      {
+        "text": "yield in bushels",
+        "translation": ""
+      },
+      {
+        "text": "yield in material",
+        "translation": ""
+      },
+      {
+        "text": "yield on treasury bill",
+        "translation": ""
+      },
+      {
+        "text": "yield to",
+        "translation": ""
+      },
+      {
+        "text": "yield to adjusted minimum maturity",
+        "translation": ""
+      },
+      {
+        "text": "yield to average life",
+        "translation": ""
+      },
+      {
+        "text": "yield to call",
+        "translation": ""
+      },
+      {
+        "text": "yield to crash",
+        "translation": ""
+      },
+      {
+        "text": "yield to despair",
+        "translation": ""
+      },
+      {
+        "text": "yield to first call",
+        "translation": ""
+      },
+      {
+        "text": "yield to maturity",
+        "translation": ""
+      },
+      {
+        "text": "yield to necessity",
+        "translation": ""
+      },
+      {
+        "text": "yield to no remedy",
+        "translation": ""
+      },
+      {
+        "text": "yield to none",
+        "translation": ""
+      },
+      {
+        "text": "yield to put",
+        "translation": ""
+      },
+      {
+        "text": "yield to redemption",
+        "translation": ""
+      },
+      {
+        "text": "yield to subscriber",
+        "translation": ""
+      },
+      {
+        "text": "yield to subscribers",
+        "translation": ""
+      },
+      {
+        "text": "yield to the dictatorship of",
+        "translation": ""
+      },
+      {
+        "text": "yield to worst",
+        "translation": ""
+      },
+      {
+        "text": "yield up",
+        "translation": ""
+      },
+      {
+        "text": "yield up the ghost",
+        "translation": ""
+      },
+      {
+        "text": "yield up the spirit",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yielder",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "surrenderer"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yielder-noun-1",
+            "definition": "a person who yields or surrenders",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The conquerers met with no yielders in their contested invasion.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yielding",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjildɪŋ"
+      },
+      "uk": {
+        "ipa": "ˈji:ldɪŋ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet6",
+      "gre"
+    ],
+    "synonyms": [
+      "conceding",
+      "concession",
+      "surrender"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yielding-adjective-1",
+            "definition": "tending to give in or surrender or agree",
+            "translation": "",
+            "examples": [
+              {
+                "text": "too yielding to make a stand against any encroachments- V.I.Parrington",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yielding-adjective-2",
+            "definition": "lacking stiffness and giving way to pressure",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a deep yielding layer of foam rubber",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yielding-adjective-3",
+            "definition": "inclined to yield to argument or influence or control",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a timid yielding person",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yielding-noun-1",
+            "definition": "the act of conceding or yielding",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yielding-noun-2",
+            "definition": "a verbal act of admitting defeat",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yielding up",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yieldingly",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "obediently"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yieldingly-adverb-1",
+            "definition": "in an obedient manner",
+            "translation": "",
+            "examples": [
+              {
+                "text": "They yieldingly surrendered to the superior forces.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yin",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɪn"
+      },
+      "uk": {
+        "ipa": "jɪn"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yin-noun-1",
+            "definition": "the dark, negative, feminine principle in Chinese dualistic cosmology",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The interaction of yin and yang maintains the harmony of the universe, according to some.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yin in its extreme gives rise to yang",
+        "translation": ""
+      },
+      {
+        "text": "yin in its extreme will give rise to yang",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yip",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɪp"
+      },
+      "uk": {
+        "ipa": "jɪp"
+      }
+    },
+    "forms": {
+      "past": "yipped",
+      "gerund": "yipping",
+      "pastParticiple": "yipped"
+    },
+    "tags": [],
+    "synonyms": [
+      "yap",
+      "yelp",
+      "yelping"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yip-noun-1",
+            "definition": "a sharp high-pitched cry (especially by a dog)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yip-verb-1",
+            "definition": "bark in a high-pitched tone",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yips",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yips-noun-1",
+            "definition": "nervous tension that causes an athlete to fail, especially causing golfers to miss short putts",
+            "translation": "",
+            "examples": [
+              {
+                "text": "To avoid the yips, I changed my style of putting.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "ylem",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "ylem-noun-1",
+            "definition": "in cosmology, the original matter that, according to the big bang theory, existed before the formation of the chemical elements",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The ylem existed before atoms formed from electrons, neutrons and protons.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yo",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "interjection",
+        "senses": [
+          {
+            "id": "yo-interjection-1",
+            "definition": "a greeting like 'hi'",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yo, what's up?",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yo-yo",
+    "pronunciation": {
+      "us": {
+        "ipa": "joʊ joʊ"
+      },
+      "uk": {
+        "ipa": "ˈjəʊjəʊ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yo-yo-noun-1",
+            "definition": "a toy consisting of a spool that is reeled up and down on a string by motions of the hand",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My yo-yo's string is broken.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yo-yo-verb-1",
+            "definition": "to play with a yo-yo",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My nibling can yo-yo with both hands at the same time.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yob",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "tough"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yob-noun-1",
+            "definition": "a cruel and brutal fellow",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This pub is full of yobbos.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yobbo",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "tough"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yobbo-noun-1",
+            "definition": "a cruel and brutal fellow",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This pub is full of yobbos.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yobibit",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yobibit-noun-1",
+            "definition": "a unit of information equal to 1024 zebibits or 2^80 bits",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My drive can store more yobibits than yours.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yobibyte",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yottabyte"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yobibyte-noun-1",
+            "definition": "a unit of information equal to 1024 zebibytes or 2^80 bytes",
+            "translation": "",
+            "examples": [
+              {
+                "text": "How many yobibytes of data do we have?",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yobo",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "tough"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yobo-noun-1",
+            "definition": "a cruel and brutal fellow",
+            "translation": "",
+            "examples": [
+              {
+                "text": "This pub is full of yobbos.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yodel",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {
+      "gerund": "yodelling",
+      "past": "yodelled",
+      "pastParticiple": "yodelled"
+    },
+    "tags": [],
+    "synonyms": [
+      "warble"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yodel-noun-1",
+            "definition": "a songlike cry in which the voice fluctuates rapidly between the normal voice and falsetto",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The student's yodel projected quite a distance.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yodel-verb-1",
+            "definition": "to sing by changing register",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I started my music career yodeling on street corners for change.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yodeling",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yodeling-noun-1",
+            "definition": "singing by changing back and forth between the chest voice and a falsetto",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yodeling is something that you either love or hate.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yodeller",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yodeller-noun-1",
+            "definition": "a singer who changes register rapidly, popular in Swiss folk songs",
+            "translation": "",
+            "examples": [
+              {
+                "text": "That yodeller is terrible.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yodh",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yodh-noun-1",
+            "definition": "the 10th letter of the Hebrew alphabet",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I have trouble pronouncing yodh.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yoga",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjoʊgə"
+      },
+      "uk": {
+        "ipa": "ˈjəʊɡə"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "ielts"
+    ],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yoga-noun-1",
+            "definition": "a system of exercises, focusing on breathing techniques, originally practiced as part of the Hindu religion, to promote control of the body and mind",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I always feel calm after practicing yoga.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yoghourt",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjogɚt"
+      },
+      "uk": {
+        "ipa": "ˈjəʊgət"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yoghourt-noun-1",
+            "definition": "a custard-like food made from curdled milk",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yoghurt",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjoʊgət"
+      },
+      "uk": {
+        "ipa": "ˈjəʊgɜ:t"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk"
+    ],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yoghurt-noun-1",
+            "definition": "a custard-like food made from curdled milk",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I mixed granola with my morning yogurt.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yogi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yogi-noun-1",
+            "definition": "one who practices yoga and has achieved a high level of spiritual insight",
+            "translation": "",
+            "examples": [
+              {
+                "text": "My yogi taught me how to stretch and meditate.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yogic",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yogistic"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yogic-adjective-1",
+            "definition": "of or relating to yoga",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yogic exercises have trimmed my belly.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yogistic",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yogic"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yogistic-adjective-1",
+            "definition": "of or relating to yoga",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yogurt",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjoɡət"
+      },
+      "uk": {
+        "ipa": "ˈjɒɡət"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yogurt-noun-1",
+            "definition": "a custard-like food made from curdled milk",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I mixed granola with my morning yogurt.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yoke",
+    "pronunciation": {
+      "us": {
+        "ipa": "joʊk"
+      },
+      "uk": {
+        "ipa": "jəʊk"
+      }
+    },
+    "forms": {
+      "pastParticiple": "yoked",
+      "past": "yoked",
+      "gerund": "yoking"
+    },
+    "tags": [
+      "cet6",
+      "gre",
+      "ielts"
+    ],
+    "synonyms": [
+      "coupling",
+      "link",
+      "span"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yoke-noun-1",
+            "definition": "stable gear that joins two draft animals at the neck so they can work together as a team",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The oxen were used to pulling the plow with the yoke.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-2",
+            "definition": "fabric comprising a fitted part at the top of a garment",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The tailor had to patch the yoke of my shirt.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-3",
+            "definition": "a connection, like a clamp or vise, between two things so they move together",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yoke between the parts was firm after the glue dried.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-4",
+            "definition": "support consisting of a wooden frame across the shoulders that enables a person to carry buckets hanging from each end",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The farmer carried buckets of water with a yoke back to the house.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-5",
+            "definition": "a pair of draft animals joined by a yoke",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The wagon was pulled by a yoke of oxen.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-6",
+            "definition": "two items of the same kind",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The third broke, but we still have a yoke.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-7",
+            "definition": "an oppressive power",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The populace was under the yoke of a tyrant.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-noun-8",
+            "definition": "the control mechanism for an aircraft",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The pilot pulled back on the yoke to straighten out the plane's path.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yoke-verb-1",
+            "definition": "to put a yoke on or join with a yoke",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The peasant yoked the horse after putting its blinders on.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-verb-2",
+            "definition": "to link with or as with a yoke",
+            "translation": "",
+            "examples": [
+              {
+                "text": "You will need to yoke the oxen together.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "yoke-verb-3",
+            "definition": "to become joined or linked together",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We were yoked before competing in the three-legged race.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "yoke back",
+        "translation": ""
+      },
+      {
+        "text": "yoke back chair",
+        "translation": ""
+      },
+      {
+        "text": "yoke together",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "yokel",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjoʊkl"
+      },
+      "uk": {
+        "ipa": "ˈjəʊkəl"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "hick"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yokel-noun-1",
+            "definition": "a person who is not very intelligent or interested in culture",
+            "translation": "",
+            "examples": [
+              {
+                "text": "They looked like yokels, but were in fact college professors.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yokel-like",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yokel-like-adjective-1",
+            "definition": "stupid and ignorant like proverbial rural inhabitants",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The kid's empty yokel-like expression was offensive to my eyes.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yokelish",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "rude"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yokelish-adjective-1",
+            "definition": "relating to persons that are lacking in refinement or grace",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We did not want to appear yokelish to the visitors.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yolk",
+    "pronunciation": {
+      "us": {
+        "ipa": "joʊk"
+      },
+      "uk": {
+        "ipa": "jəʊk"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet6",
+      "toefl"
+    ],
+    "synonyms": [
+      "egg yolk"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yolk-noun-1",
+            "definition": "nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yolk-noun-2",
+            "definition": "the yellow spherical part of an egg that is surrounded by the albumen",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yolo",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "phrase",
+        "senses": [
+          {
+            "id": "yolo-phrase-1",
+            "definition": "shortened form of \"you only live once\"",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yon",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yonder"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yon-adjective-1",
+            "definition": "distant but within sight (`yon' is dialectal)",
+            "translation": "",
+            "examples": [
+              {
+                "text": "yonder valley",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yonder",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjɑndɚ(r)"
+      },
+      "uk": {
+        "ipa": "ˈjɒndə(r)"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yon"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yonder-adjective-1",
+            "definition": "distant but within sight (`yon' is dialectal)",
+            "translation": "",
+            "examples": [
+              {
+                "text": "yonder valley",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "yonder-adverb-1",
+            "definition": "at or in an indicated (usually distant) place (`yon' is archaic and dialectal)",
+            "translation": "",
+            "examples": [
+              {
+                "text": "the house yonder",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yore",
+    "pronunciation": {
+      "us": {
+        "ipa": "jɔr"
+      },
+      "uk": {
+        "ipa": "jɔ:"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yore-noun-1",
+            "definition": "time long past",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The card games of yore are mostly forgotten.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yottabit",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yottabit-noun-1",
+            "definition": "a unit of information equal to 1000 zettabits or 10^24 bits",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I am calculating how many yottabits of information our company has.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yottabyte",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yobibyte"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yottabyte-noun-1",
+            "definition": "a unit of information equal to 1024 zebibytes or 2^80 bytes",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yottabyte-noun-2",
+            "definition": "a unit of information equal to 1000 zettabytes or 10^24 bytes",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yottasecond",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yottasecond-noun-1",
+            "definition": "a period of time equal to one septillion seconds, or 10^24",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "young",
+    "pronunciation": {
+      "us": {
+        "ipa": "jʌŋ"
+      },
+      "uk": {
+        "ipa": "jʌŋ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk",
+      "zk"
+    ],
+    "synonyms": [
+      "immature",
+      "new",
+      "offspring",
+      "unseasoned",
+      "untested",
+      "untried",
+      "youth",
+      "youthful"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "young-adjective-1",
+            "definition": "(of crops) harvested at an early stage of development",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "young-adjective-2",
+            "definition": "not tried or tested by experience",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "young-adjective-3",
+            "definition": "being in its early stage",
+            "translation": "",
+            "examples": [
+              {
+                "text": "a young industry",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "young-adjective-4",
+            "definition": "of living things, especially persons, in an early period of life or development or growth",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The young people played games in the park.",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "young-adjective-5",
+            "definition": "suggestive of youth",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "young-noun-1",
+            "definition": "any immature animal",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "young-noun-2",
+            "definition": "young people collectively",
+            "translation": "",
+            "examples": [
+              {
+                "text": "rock music appeals to the young",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "young at heart",
+        "translation": ""
+      },
+      {
+        "text": "young in heart",
+        "translation": ""
+      },
+      {
+        "text": "young in the trade",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "young-bearing",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "egg-producing"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "young-bearing-adjective-1",
+            "definition": "capable of producing eggs and bearing offspring",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The chickens are nearly old enough to be young-bearing.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "younger",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjʌŋɡɚ"
+      },
+      "uk": {
+        "ipa": "ˈjʌŋɡə"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "jr."
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "younger-adjective-1",
+            "definition": "used of the younger of two persons of the same name especially used to distinguish a son from his father",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youngish",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "youngish-adjective-1",
+            "definition": "somewhat young",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Their modern haircut contributed to their youngish appearance.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youngness",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "youngness-noun-1",
+            "definition": "the opposite of oldness",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The player's youngness was apparent.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youngster",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjʌŋstɚ"
+      },
+      "uk": {
+        "ipa": "ˈjʌŋstə"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet4",
+      "cet6",
+      "ielts",
+      "ky",
+      "toefl"
+    ],
+    "synonyms": [
+      "nestling"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "youngster-noun-1",
+            "definition": "a young person",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I was suspicious of the youngsters who were eyeballing my merchandise.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "younker",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "spring chicken"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "younker-noun-1",
+            "definition": "a young person, especially a young man or boy",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The younkers won't stop playing in the road.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youth",
+    "pronunciation": {
+      "us": {
+        "ipa": "juθ"
+      },
+      "uk": {
+        "ipa": "ju:θ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet4",
+      "cet6",
+      "gk",
+      "ielts",
+      "ky"
+    ],
+    "synonyms": [
+      "early days",
+      "juvenility",
+      "spring chicken",
+      "young",
+      "youthfulness"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "youth-noun-1",
+            "definition": "the freshness and vitality characteristic of a young person",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "youth-noun-2",
+            "definition": "young people collectively",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "youth-noun-3",
+            "definition": "a young person (especially a young man or boy)",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "youth-noun-4",
+            "definition": "early maturity",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "youth-noun-5",
+            "definition": "the time of life between childhood and maturity",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "youth-noun-6",
+            "definition": "an early period of development",
+            "translation": "",
+            "examples": [
+              {
+                "text": "during the youth of the project",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youthful",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjuθfəl"
+      },
+      "uk": {
+        "ipa": "ˈˈju:θful"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet4",
+      "cet6"
+    ],
+    "synonyms": [
+      "young"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "youthful-adjective-1",
+            "definition": "suggestive of youth",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your youthful good looks will be an advantage in the modeling world.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youthfully",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adverb",
+        "senses": [
+          {
+            "id": "youthfully-adverb-1",
+            "definition": "in a youthful manner",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I am still youthfully enthusiastic.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "youthfulness",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "youth"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "youthfulness-noun-1",
+            "definition": "the freshness and vitality characteristic of a young person",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your youthfulness continues to stay with you despite your ever-increasing age.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yowl",
+    "pronunciation": {
+      "us": {
+        "ipa": "jaʊl"
+      },
+      "uk": {
+        "ipa": "jaʊl"
+      }
+    },
+    "forms": {
+      "past": "yowled",
+      "gerund": "yowling",
+      "pastParticiple": "yowled"
+    },
+    "tags": [],
+    "synonyms": [
+      "caterwaul",
+      "howl",
+      "roaring",
+      "wrawl",
+      "yammer"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yowl-noun-1",
+            "definition": "a very loud utterance (like the sound of an animal)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "yowl-verb-1",
+            "definition": "utter shrieks, as of cats",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "yowl-verb-2",
+            "definition": "cry loudly, as of animals",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "ytterbium",
+    "pronunciation": {
+      "us": {
+        "ipa": "ɪˈtɚbiəm"
+      },
+      "uk": {
+        "ipa": "ɪˈtɜ:bɪəm"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "ytterbium-noun-1",
+            "definition": "a soft silvery metallic element",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yttrium",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈɪtriəm"
+      },
+      "uk": {
+        "ipa": "ˈɪtrɪəm"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yttrium-noun-1",
+            "definition": "a silvery metallic element that is common in rare-earth minerals",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yuan",
+    "pronunciation": {
+      "us": {
+        "ipa": "juˈɑn"
+      },
+      "uk": {
+        "ipa": "juˈɑ:n"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yuan-noun-1",
+            "definition": "the basic unit of money in China",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yucca",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yucca-noun-1",
+            "definition": "any of several evergreen plants of the genus Yucca, typically characterized by tall, stout stems and a terminal cluster of white flowers",
+            "translation": "",
+            "examples": [
+              {
+                "text": "In certain climates, yucca grows wild year-round.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yucky",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjʌki"
+      },
+      "uk": {
+        "ipa": "ˈjʌkɪ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "repellent"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yucky-adjective-1",
+            "definition": "unappealing or unappetizing",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The calamari looked yucky from where I was sitting.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yugoslav",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjuɡoʊˌslɑv"
+      },
+      "uk": {
+        "ipa": "ˈju:ɡəʊˌslɑ:v"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "Yugoslavian"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yugoslav-adjective-1",
+            "definition": "of, relating to, or characteristic of the former country of Yugoslavia, its people, or its languages",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I had some great Yugoslav wine the other evening.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yugoslavian",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˌjuɡoˈslɑviən"
+      },
+      "uk": {
+        "ipa": "ˌju:ɡəʊˈslɒvɪən"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "Yugoslav"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yugoslavian-adjective-1",
+            "definition": "of or relating to or characteristic of the former country of Yugoslavia or its people or languages",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yugoslavian wine",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yuman",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yuman-adjective-1",
+            "definition": "of or relating to the language or culture of the Yuma people",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Yuman settlements were commonly small and not permanent.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yuman-noun-1",
+            "definition": "a Native American tribal person living in southern California or western Arizona",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The Yumans also had loose political structure and control.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yummy",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjʌmi"
+      },
+      "uk": {
+        "ipa": "ˈjʌmɪ"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gk"
+    ],
+    "synonyms": [
+      "delectable"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "yummy-adjective-1",
+            "definition": "extremely pleasing to the sense of taste",
+            "translation": "",
+            "examples": [
+              {
+                "text": "These seared scallops are yummy.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yuppie",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈjʌpi"
+      },
+      "uk": {
+        "ipa": "ˈjʌpɪ"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yuppie-noun-1",
+            "definition": "a young upwardly mobile professional individual",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The yuppies loved meeting at coffee shops to talk.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "yurt",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "yurt-noun-1",
+            "definition": "a circular domed dwelling that is portable and self-supporting",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I built a yurt in my backyard for the summer.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  }
+]

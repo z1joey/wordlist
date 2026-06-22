@@ -1,0 +1,3051 @@
+[
+  {
+    "word": "x",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ex",
+      "ten"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "x-adjective-1",
+            "definition": "the Roman numeral for 10",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "x-noun-1",
+            "definition": "the 24th letter of the Roman alphabet",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The farmer signed with an x.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "text": "X to the Z",
+        "translation": ""
+      }
+    ]
+  },
+  {
+    "word": "x-axis",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈɛksˌæksɪs"
+      },
+      "uk": {
+        "ipa": "ˈeksˌæksɪs"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "x-axis-noun-1",
+            "definition": "the horizontal axis in a plane coordinate system",
+            "translation": "",
+            "examples": [
+              {
+                "text": "We marked the x-axis with the number of visitors that the museum received.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "x-linked",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "x-linked-adjective-1",
+            "definition": "relating to genes or characteristics or conditions carried on the X chromosome",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I think it might be an X-linked mutation.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "x-ray",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈɛksˌre"
+      },
+      "uk": {
+        "ipa": "ˈeksˈreɪ"
+      }
+    },
+    "forms": {
+      "gerund": "x-raying",
+      "past": "x-rayed",
+      "pastParticiple": "x-rayed"
+    },
+    "tags": [
+      "cet4",
+      "ielts",
+      "zk"
+    ],
+    "synonyms": [
+      "X ray",
+      "roentgenogram"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "x-ray-noun-1",
+            "definition": "a radiogram made by exposing photographic film to X rays",
+            "translation": "",
+            "examples": []
+          },
+          {
+            "id": "x-ray-noun-2",
+            "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "x-ray",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈɛksˌre"
+      },
+      "uk": {
+        "ipa": "ˈeksˈreɪ"
+      }
+    },
+    "forms": {
+      "gerund": "x-raying",
+      "past": "x-rayed",
+      "pastParticiple": "x-rayed"
+    },
+    "tags": [
+      "cet4",
+      "ielts",
+      "zk"
+    ],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "x-ray-verb-1",
+            "definition": "take an x-ray of something or somebody",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The doctor x-rayed my chest",
+                "translation": ""
+              }
+            ]
+          },
+          {
+            "id": "x-ray-verb-2",
+            "definition": "examine by taking x-rays",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "x-raying",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "x-raying-noun-1",
+            "definition": "obtaining images by the use of X rays",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The pictures from the X-raying were analyzed by the dentist.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthate",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthate-noun-1",
+            "definition": "a salt or ester of xanthic acid",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthelasma",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthelasma-noun-1",
+            "definition": "xanthoma of the eyelids",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthemia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "carotenemia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthemia-noun-1",
+            "definition": "excess carotene in the blood stream",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Eating too many carrots had contributed to the child's xanthemia.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthine",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthine-noun-1",
+            "definition": "crystalline oxidation product of the metabolism of nucleoproteins",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Once generated from guanine, xanthine is often turned into uric acid.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthoma",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthoma-noun-1",
+            "definition": "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The patient is suffering from xanthoma.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthomatosis",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "cholesterosis cutis",
+      "lipid granulomatosis",
+      "xanthoma multiplex"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthomatosis-noun-1",
+            "definition": "widespread xanthomas (especially on elbows and knees)",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthomonad",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthomonad-noun-1",
+            "definition": "bacteria producing yellow non-water-soluble pigments",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I cultured a flask full of xanthomonad.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthophyl",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xanthophyll"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthophyl-noun-1",
+            "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthophyll",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "lutein",
+      "xanthophyl"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthophyll-noun-1",
+            "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthopsia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthopsia-noun-1",
+            "definition": "visual defect in which objects appear to have a yellowish hue",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The drug digitalin is thought to cause xanthopsia.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthosis",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xanthosis-noun-1",
+            "definition": "an abnormal yellow discoloration of the skin",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The child was so unhealthy that the skin displayed xanthosis.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xanthous",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "yellow"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xanthous-adjective-1",
+            "definition": "of the color intermediate between green and orange in the color spectrum",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The new rug you bought is fairly xanthous, don't you think?",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xc",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xc-adjective-1",
+            "definition": "the Roman numeral for 90",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xci",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety-one"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xci-adjective-1",
+            "definition": "the Roman numeral for 91",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xciii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xciii-adjective-1",
+            "definition": "the Roman numeral for 93",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xciv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xciv-adjective-1",
+            "definition": "nintey-four in Roman numerals",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xcl",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "one hundred ninety"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xcl-adjective-1",
+            "definition": "the Roman numeral for 190",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xcv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety-five"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xcv-adjective-1",
+            "definition": "the Roman numeral for 95",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xcvi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety-six"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xcvi-adjective-1",
+            "definition": "the Roman numeral for 96",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xcvii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety-seven"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xcvii-adjective-1",
+            "definition": "the number 97 in Roman numerals",
+            "translation": "",
+            "examples": [
+              {
+                "text": "It's my xcvii birthday, Augustus!",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xcviii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "ninety-eight"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xcviii-adjective-1",
+            "definition": "the Roman numeral for 98",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenogeneic",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xenogeneic-adjective-1",
+            "definition": "denoting or relating to cells or tissues from individuals belonging to different species",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The xenogenic reactions of trees and mosses is quite fascinating.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenogenesis",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "alternation of generations"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenogenesis-noun-1",
+            "definition": "the production of offspring that is distinct from either parent",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The two creatures did not look alike, but were thought to be different stages in xenogenesis.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenograft",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "heterograft"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenograft-noun-1",
+            "definition": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The surgeons used skin from a pig as a xenograft.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenolith",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenolith-noun-1",
+            "definition": "a piece of rock of different origin from the igneous rock in which it is embedded",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenon",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzenɑn"
+      },
+      "uk": {
+        "ipa": "ˈzenɒn"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenon-noun-1",
+            "definition": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The canister was filled with xenon.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenophobia",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˌzenəˈfoʊbiə"
+      },
+      "uk": {
+        "ipa": "ˌzenəˈfəʊbɪə"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenophobia-noun-1",
+            "definition": "a fear of foreigners or strangers",
+            "translation": "",
+            "examples": [
+              {
+                "text": "I think your xenophobia might be cured by a trip abroad.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenophobic",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˌzenəˈfoʊbɪk"
+      },
+      "uk": {
+        "ipa": "ˌzenəˈfəʊbɪk"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xenophobic-adjective-1",
+            "definition": "suffering from xenophobia, or the fear of outsiders",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Those remarks make it pretty clear how xenophobic you are.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenotime",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenotime-noun-1",
+            "definition": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenotransplant",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xenotransplantation"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenotransplant-noun-1",
+            "definition": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xenotransplantation",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xenotransplant"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xenotransplantation-noun-1",
+            "definition": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The comparable sizes of organs in pigs and humans means that xenotransplantation could be feasible.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xeric",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xeric-adjective-1",
+            "definition": "being deficient in moisture",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The Sahara desert is a xeric environment – it rarely rains there.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xeroderma",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xerodermia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xeroderma-noun-1",
+            "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerodermia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xeroderma"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerodermia-noun-1",
+            "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerographic",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xerographic-adjective-1",
+            "definition": "of or relating to copying paper or other items, aka xerography",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Our xerographic machine was on the fritz.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerography",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerography-noun-1",
+            "definition": "forming an image by the action of light on a specially coated charged plate",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The machine used xerography to print copies.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xeroma",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xerophthalmia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xeroma-noun-1",
+            "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Your eyes have a condition called xeroma.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerophile",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "desert plant"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerophile-noun-1",
+            "definition": "plant adapted for life with a limited supply of water",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Cacti are some of the most well-known xerophiles.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerophthalmia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "conjunctivitis arida",
+      "xeroma",
+      "xerophthalmus"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerophthalmia-noun-1",
+            "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerophthalmus",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xerophthalmia"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerophthalmus-noun-1",
+            "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerophyte",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzɪrəˌfaɪt"
+      },
+      "uk": {
+        "ipa": "ˈzɪərəfaɪt"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "desert plant"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerophyte-noun-1",
+            "definition": "plant adapted for life with a limited supply of water",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The gardener loved the easy maintenance of the xerophyte.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerophytic",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xerophytic-adjective-1",
+            "definition": "adapted to a dry environment",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Cacti are xerophytic plants.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xeroradiography",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xeroradiography-noun-1",
+            "definition": "radiography using X-rays and xerographic techniques",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The radiologist specialized in xeroradiography.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerostomia",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "dry mouth"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerostomia-noun-1",
+            "definition": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerotes",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "dryness"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerotes-noun-1",
+            "definition": "the condition of not containing or being covered by a liquid, especially water",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The xerotes of the skin was helped by applying a wax.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerox",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzɪrɑks"
+      },
+      "uk": {
+        "ipa": "ˈzɪərɒks"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet6",
+      "ky"
+    ],
+    "synonyms": [
+      "xerographic copier"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerox-noun-1",
+            "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xerox",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzɪrɑks"
+      },
+      "uk": {
+        "ipa": "ˈzɪərɒks"
+      }
+    },
+    "forms": {},
+    "tags": [
+      "cet6",
+      "ky"
+    ],
+    "synonyms": [
+      "photocopy"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xerox-noun-1",
+            "definition": "a copy made by a xerographic printer",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "verb",
+        "senses": [
+          {
+            "id": "xerox-verb-1",
+            "definition": "reproduce by xerography",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "eleven"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xi-adjective-1",
+            "definition": "the Roman numeral for 11",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xi-noun-1",
+            "definition": "the 14th letter of the Greek alphabet",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twelve"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xii-adjective-1",
+            "definition": "the Roman numeral for 12",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xiii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xiii-adjective-1",
+            "definition": "the Roman numeral for 13",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xiv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "fourteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xiv-adjective-1",
+            "definition": "the Roman numeral for 14",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xix",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "nineteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xix-adjective-1",
+            "definition": "the Roman numeral for 19",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xl",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xl-adjective-1",
+            "definition": "the Roman numeral for 40",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xlii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-two"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xlii-adjective-1",
+            "definition": "the Roman numeral for 42",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xliii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-three"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xliii-adjective-1",
+            "definition": "the Roman numeral for 43",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xliv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-four"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xliv-adjective-1",
+            "definition": "the Roman numeral for 44",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xlv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-five"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xlv-adjective-1",
+            "definition": "the Roman numeral for 45",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xlvi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-six"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xlvi-adjective-1",
+            "definition": "the Roman numeral for 46",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xlvii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-seven"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xlvii-adjective-1",
+            "definition": "the Roman numeral for 47",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xlviii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "forty-eight"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xlviii-adjective-1",
+            "definition": "the Roman numeral for 48",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "fifteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xv-adjective-1",
+            "definition": "the Roman numeral for 15",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xvi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "sixteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xvi-adjective-1",
+            "definition": "the Roman numeral for 16",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xvii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "seventeen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xvii-adjective-1",
+            "definition": "the Roman numeral for 17",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xviii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "eighteen"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xviii-adjective-1",
+            "definition": "the Roman numeral for 18",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xx",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xx-adjective-1",
+            "definition": "the Roman numeral for 20",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-one"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxi-adjective-1",
+            "definition": "the Roman numeral for 21",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-two"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxii-adjective-1",
+            "definition": "the Roman numeral for 22",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxiii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-three"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxiii-adjective-1",
+            "definition": "the Roman numeral for 23",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxiv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-four"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxiv-adjective-1",
+            "definition": "the Roman numeral for 24",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxix",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-nine"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxix-adjective-1",
+            "definition": "the Roman numeral for 29",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-five"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxv-adjective-1",
+            "definition": "the Roman numeral for 25",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxvi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-six"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxvi-adjective-1",
+            "definition": "the Roman numeral for 26",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxvii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-seven"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxvii-adjective-1",
+            "definition": "being seven more than twenty",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxviii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "twenty-eight"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxviii-adjective-1",
+            "definition": "the Roman numeral for 28",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxx",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxx-adjective-1",
+            "definition": "the Roman numeral for 30",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-one"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxi-adjective-1",
+            "definition": "thirty-one in Roman numerals",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-two"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxii-adjective-1",
+            "definition": "the Roman numeral for 32",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxiii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-three"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxiii-adjective-1",
+            "definition": "the Roman numeral for 33",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxiv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-four"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxiv-adjective-1",
+            "definition": "the Roman numeral for 34",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxv",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-five"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxv-adjective-1",
+            "definition": "the Roman numeral for 35",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxvi",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-six"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxvi-adjective-1",
+            "definition": "the Roman numeral for 36",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxvii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "thirty-seven"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxvii-adjective-1",
+            "definition": "the Roman numeral for 37",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xxxviii",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "adjective",
+        "senses": [
+          {
+            "id": "xxxviii-adjective-1",
+            "definition": "the Roman numeral for 38",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylem",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzaɪləm"
+      },
+      "uk": {
+        "ipa": "ˈzaɪlem"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylem-noun-1",
+            "definition": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The xylem carries water up into the tree.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylene",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xylol"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylene-noun-1",
+            "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+            "translation": "",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylol",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "xylene"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylol-noun-1",
+            "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The only way the powder would dissolve was in xylol.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylophone",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈzaɪləfoʊn"
+      },
+      "uk": {
+        "ipa": "ˈzaɪləfəʊn"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "marimba"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylophone-noun-1",
+            "definition": "a percussion instrument with wooden bars tuned to produce a chromatic scale, with resonators to help with the sound quality",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The children were encouraged to play the xylophone.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylophonist",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylophonist-noun-1",
+            "definition": "someone who plays a xylophone",
+            "translation": "",
+            "examples": [
+              {
+                "text": "The xylophonist played the Danse Macabre.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  },
+  {
+    "word": "xylose",
+    "pronunciation": {
+      "us": {
+        "ipa": ""
+      },
+      "uk": {
+        "ipa": ""
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "wood sugar"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "xylose-noun-1",
+            "definition": "a sugar extracted from wood or straw",
+            "translation": "",
+            "examples": [
+              {
+                "text": "Xylose is found in most plants that humans consume.",
+                "translation": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "phrases": []
+  }
+]
