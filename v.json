@@ -19,7 +19,7 @@
           {
             "id": "v-adjective-1",
             "definition": "signifying the number five",
-            "translation": "",
+            "translation": "V",
             "examples": [
               {
                 "text": "Book V in this series happens to be one of the best that this author has written.",
@@ -35,7 +35,7 @@
           {
             "id": "v-noun-1",
             "definition": "the 22nd letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母第22个字母",
             "examples": [
               {
                 "text": "What words start with the letter v?",
@@ -268,13 +268,13 @@
           {
             "id": "vacation-noun-1",
             "definition": "the act of making something legally void",
-            "translation": "",
+            "translation": "制造行为",
             "examples": []
           },
           {
             "id": "vacation-noun-2",
             "definition": "leisure time away from work devoted to rest or pleasure",
-            "translation": "",
+            "translation": "假期",
             "examples": [
               {
                 "text": "we get two weeks of vacation every summer",
@@ -290,7 +290,7 @@
           {
             "id": "vacation-verb-1",
             "definition": "spend or take a vacation",
-            "translation": "",
+            "translation": "假期",
             "examples": []
           }
         ]
@@ -357,7 +357,7 @@
           {
             "id": "vacationing-noun-1",
             "definition": "the act of taking a vacation",
-            "translation": "",
+            "translation": "假期",
             "examples": [
               {
                 "text": "We are vacationing in Mexico next year.",
@@ -458,7 +458,7 @@
           {
             "id": "vaccinate-verb-1",
             "definition": "to perform vaccinations or produce immunity in by inoculation",
-            "translation": "",
+            "translation": "产生；实现",
             "examples": [
               {
                 "text": "We vaccinate against scarlet fever.",
@@ -626,7 +626,7 @@
           {
             "id": "vaccine-noun-1",
             "definition": "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies",
-            "translation": "",
+            "translation": "疫苗",
             "examples": []
           }
         ]
@@ -1311,25 +1311,25 @@
           {
             "id": "vacuum-noun-1",
             "definition": "an electrical home appliance that cleans by suction",
-            "translation": "",
+            "translation": "真空",
             "examples": []
           },
           {
             "id": "vacuum-noun-2",
             "definition": "a region that is devoid of matter",
-            "translation": "",
+            "translation": "真空",
             "examples": []
           },
           {
             "id": "vacuum-noun-3",
             "definition": "an empty area or space",
-            "translation": "",
+            "translation": "真空",
             "examples": []
           },
           {
             "id": "vacuum-noun-4",
             "definition": "the absence of matter",
-            "translation": "",
+            "translation": "事情的缺席",
             "examples": []
           }
         ]
@@ -1340,7 +1340,7 @@
           {
             "id": "vacuum-verb-1",
             "definition": "clean with a vacuum cleaner",
-            "translation": "",
+            "translation": "真空",
             "examples": [
               {
                 "text": "vacuum the carpets",
@@ -1354,11 +1354,11 @@
     "phrases": [
       {
         "text": "vacuum back",
-        "translation": ""
+        "translation": "真空背"
       },
       {
         "text": "vacuum down",
-        "translation": ""
+        "translation": "真空向下"
       },
       {
         "text": "vacuum in canned product",
@@ -1507,7 +1507,7 @@
           {
             "id": "vagal-adjective-1",
             "definition": "of or relating to the vagus nerve",
-            "translation": "",
+            "translation": "神经的",
             "examples": []
           }
         ]
@@ -1636,7 +1636,7 @@
           {
             "id": "vaginal-adjective-1",
             "definition": "of or relating to the vagina",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -1847,19 +1847,19 @@
           {
             "id": "vague-adjective-1",
             "definition": "not clearly understood or expressed",
-            "translation": "",
+            "translation": "模糊的",
             "examples": []
           },
           {
             "id": "vague-adjective-2",
             "definition": "not precisely limited, determined, or distinguished",
-            "translation": "",
+            "translation": "模糊的",
             "examples": []
           },
           {
             "id": "vague-adjective-3",
             "definition": "lacking clarity or distinctness",
-            "translation": "",
+            "translation": "模糊的",
             "examples": []
           }
         ]
@@ -1889,7 +1889,7 @@
           {
             "id": "vaguely-adverb-1",
             "definition": "in a vague way",
-            "translation": "",
+            "translation": "模糊的地",
             "examples": [
               {
                 "text": "The painting looked vaguely familiar, since the school of painters was well known.",
@@ -2018,7 +2018,7 @@
           {
             "id": "vain-adjective-2",
             "definition": "characteristic of false pride",
-            "translation": "",
+            "translation": "假的骄傲的",
             "examples": []
           }
         ]
@@ -2308,7 +2308,7 @@
           {
             "id": "valedictory-adjective-1",
             "definition": "of a speech expressing leave-taking",
-            "translation": "",
+            "translation": "表达的",
             "examples": [
               {
                 "text": "One of the graduating students gave a valedictory address.",
@@ -2631,7 +2631,7 @@
           {
             "id": "valetudinarian-adjective-1",
             "definition": "of or relating to or characteristic of a person who is a valetudinarian",
-            "translation": "",
+            "translation": "人的",
             "examples": []
           }
         ]
@@ -2672,7 +2672,7 @@
           {
             "id": "valetudinarianism-noun-1",
             "definition": "the state of being weak in health or body, especially from old age",
-            "translation": "",
+            "translation": "…的状态",
             "examples": [
               {
                 "text": "Valetudinarianism comes naturally with age.",
@@ -2901,7 +2901,7 @@
           {
             "id": "valid-adjective-1",
             "definition": "still legally acceptable",
-            "translation": "",
+            "translation": "有效的",
             "examples": [
               {
                 "text": "The license is still valid.",
@@ -2912,7 +2912,7 @@
           {
             "id": "valid-adjective-2",
             "definition": "well grounded in logic or truth or having legal force",
-            "translation": "",
+            "translation": "有效的",
             "examples": [
               {
                 "text": "You made a valid inference.",
@@ -2930,7 +2930,7 @@
       },
       {
         "text": "valid round",
-        "translation": ""
+        "translation": "有效的圆的"
       }
     ]
   },
@@ -2964,7 +2964,7 @@
           {
             "id": "validate-verb-1",
             "definition": "make valid or confirm the validity of",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "validate a ticket",
@@ -2975,7 +2975,7 @@
           {
             "id": "validate-verb-2",
             "definition": "prove valid",
-            "translation": "",
+            "translation": "证明有效的",
             "examples": []
           },
           {
@@ -3210,7 +3210,7 @@
           {
             "id": "validly-adverb-1",
             "definition": "with validity",
-            "translation": "",
+            "translation": "有效的地",
             "examples": [
               {
                 "text": "You reasoned validly.",
@@ -3370,7 +3370,7 @@
           {
             "id": "valley-noun-1",
             "definition": "a long depression in the surface of the land that usually contains a river",
-            "translation": "",
+            "translation": "山谷",
             "examples": []
           }
         ]
@@ -3618,7 +3618,7 @@
           {
             "id": "valuable-adjective-1",
             "definition": "having great material or monetary value, especially for use or exchange",
-            "translation": "",
+            "translation": "有价值的",
             "examples": [
               {
                 "text": "Their book collection was extremely valuable.",
@@ -3629,7 +3629,7 @@
           {
             "id": "valuable-adjective-2",
             "definition": "having worth,  merit, or value",
-            "translation": "",
+            "translation": "有价值的",
             "examples": [
               {
                 "text": "I've always found you to be a valuable friend.",
@@ -3645,7 +3645,7 @@
           {
             "id": "valuable-noun-1",
             "definition": "something of value",
-            "translation": "",
+            "translation": "有价值的",
             "examples": [
               {
                 "text": "All our valuables were stolen.",
@@ -3872,7 +3872,7 @@
           {
             "id": "value-noun-1",
             "definition": "relative darkness or lightness of a color",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "I establish the colors and principal values by organizing the painting into three values--dark, medium...and light-Joe Hing Lowe",
@@ -3883,7 +3883,7 @@
           {
             "id": "value-noun-2",
             "definition": "the quality (positive or negative) that renders something desirable or valuable",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "the Shakespearean Shylock is of dubious value in the modern world",
@@ -3894,7 +3894,7 @@
           {
             "id": "value-noun-3",
             "definition": "a numerical quantity measured or assigned or computed",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "the value assigned was 16 milliseconds",
@@ -3905,7 +3905,7 @@
           {
             "id": "value-noun-4",
             "definition": "an ideal accepted by some individual or group",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "They have old-fashioned values different from their children's.",
@@ -3916,7 +3916,7 @@
           {
             "id": "value-noun-5",
             "definition": "the amount of money, goods, or services that is considered to be a fair equivalent for something else",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "They tried to estimate the value of the produce at normal prices.",
@@ -3927,7 +3927,7 @@
           {
             "id": "value-noun-6",
             "definition": "(music) the relative duration of a musical note",
-            "translation": "",
+            "translation": "价值",
             "examples": []
           }
         ]
@@ -3938,25 +3938,25 @@
           {
             "id": "value-verb-1",
             "definition": "estimate the value of",
-            "translation": "",
+            "translation": "价值",
             "examples": []
           },
           {
             "id": "value-verb-2",
             "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
-            "translation": "",
+            "translation": "价值",
             "examples": []
           },
           {
             "id": "value-verb-3",
             "definition": "regard highly",
-            "translation": "",
+            "translation": "价值",
             "examples": []
           },
           {
             "id": "value-verb-4",
             "definition": "fix or determine the value of",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "assign a value to",
@@ -3967,7 +3967,7 @@
           {
             "id": "value-verb-5",
             "definition": "hold dear",
-            "translation": "",
+            "translation": "价值",
             "examples": []
           }
         ]
@@ -4060,7 +4060,7 @@
           {
             "id": "valued-adjective-1",
             "definition": "having value of a specified kind",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "The triple-valued coupons were guarded jealously.",
@@ -4071,7 +4071,7 @@
           {
             "id": "valued-adjective-2",
             "definition": "held in great esteem for admirable qualities especially of an intrinsic nature",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "They were a valued friend to the president.",
@@ -4109,7 +4109,7 @@
           {
             "id": "valueless-adjective-1",
             "definition": "of no value",
-            "translation": "",
+            "translation": "价值的",
             "examples": [
               {
                 "text": "This rock is valueless.",
@@ -4208,7 +4208,7 @@
           {
             "id": "values-noun-1",
             "definition": "the beliefs of a person or social group in which they have an emotional investment, either for or against something",
-            "translation": "",
+            "translation": "价值",
             "examples": [
               {
                 "text": "They have very conservative values.",
@@ -4472,7 +4472,7 @@
           {
             "id": "valvular-adjective-1",
             "definition": "relating to or operating by means of valves",
-            "translation": "",
+            "translation": "手段的",
             "examples": []
           }
         ]
@@ -4627,7 +4627,7 @@
           {
             "id": "vamoose-verb-1",
             "definition": "to leave suddenly",
-            "translation": "",
+            "translation": "离开突然",
             "examples": [
               {
                 "text": "You should vamoose before my parents get home!",
@@ -4708,7 +4708,7 @@
           {
             "id": "vamp-verb-3",
             "definition": "piece (something old) with a new part",
-            "translation": "",
+            "translation": "分离；分开",
             "examples": [
               {
                 "text": "vamp up an old speech",
@@ -4719,7 +4719,7 @@
           {
             "id": "vamp-verb-4",
             "definition": "make up",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "vamp up an excuse for not attending the meeting",
@@ -4863,25 +4863,25 @@
           {
             "id": "van-noun-1",
             "definition": "a truck with an enclosed cargo space",
-            "translation": "",
+            "translation": "货车",
             "examples": []
           },
           {
             "id": "van-noun-2",
             "definition": "a camper equipped with living quarters",
-            "translation": "",
+            "translation": "货车",
             "examples": []
           },
           {
             "id": "van-noun-3",
             "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
-            "translation": "",
+            "translation": "货车",
             "examples": []
           },
           {
             "id": "van-noun-4",
             "definition": "the leading units moving at the head of an army",
-            "translation": "",
+            "translation": "货车",
             "examples": []
           },
           {
@@ -4976,7 +4976,7 @@
           {
             "id": "vanadium-noun-1",
             "definition": "a soft silvery white toxic metallic element used in steel alloys",
-            "translation": "",
+            "translation": "钒",
             "examples": []
           }
         ]
@@ -5229,7 +5229,7 @@
           {
             "id": "vaned-adjective-1",
             "definition": "of an arrow, equipped with feathers",
-            "translation": "",
+            "translation": "羽毛的",
             "examples": [
               {
                 "text": "These arrows are vaned and ready to shoot.",
@@ -5432,13 +5432,13 @@
           {
             "id": "vanish-verb-1",
             "definition": "pass away rapidly",
-            "translation": "",
+            "translation": "消失",
             "examples": []
           },
           {
             "id": "vanish-verb-2",
             "definition": "become invisible or unnoticeable",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "The effect vanished when day broke",
@@ -5449,7 +5449,7 @@
           {
             "id": "vanish-verb-3",
             "definition": "decrease rapidly and disappear",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "the money vanished in las Vegas",
@@ -5460,13 +5460,13 @@
           {
             "id": "vanish-verb-4",
             "definition": "get lost, as without warning or explanation",
-            "translation": "",
+            "translation": "消失",
             "examples": []
           },
           {
             "id": "vanish-verb-5",
             "definition": "cease to exist",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "An entire civilization vanished",
@@ -5480,7 +5480,7 @@
     "phrases": [
       {
         "text": "vanish away",
-        "translation": ""
+        "translation": "消失离开"
       },
       {
         "text": "vanish into smoke",
@@ -5524,7 +5524,7 @@
           {
             "id": "vanished-adjective-1",
             "definition": "having passed out of existence",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "Vanished civilizations can be studied through the artifacts that have survived.",
@@ -5557,7 +5557,7 @@
           {
             "id": "vanisher-noun-1",
             "definition": "a person who disappears",
-            "translation": "",
+            "translation": "消失的人",
             "examples": [
               {
                 "text": "They are known vanishers at parties.",
@@ -5590,7 +5590,7 @@
           {
             "id": "vanishing-adjective-1",
             "definition": "a small or decreasing amount",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "We have a vanishing chance of meeting the deadline.",
@@ -5606,7 +5606,7 @@
           {
             "id": "vanishing-noun-1",
             "definition": "a sudden or mysterious disappearance",
-            "translation": "",
+            "translation": "消失",
             "examples": [
               {
                 "text": "The child's vanishing scared the parents.",
@@ -5744,7 +5744,7 @@
           {
             "id": "vanquish-verb-1",
             "definition": "to come out better in a competition, race, or conflict",
-            "translation": "",
+            "translation": "出来",
             "examples": [
               {
                 "text": "We vanquished the opposition.",
@@ -6124,7 +6124,7 @@
           {
             "id": "vaporific-adjective-2",
             "definition": "used of substances, capable of being volatilized",
-            "translation": "",
+            "translation": "能够被",
             "examples": []
           }
         ]
@@ -6357,7 +6357,7 @@
           {
             "id": "vaporizable-adjective-1",
             "definition": "capable of being volatilized",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "Let's test if this cheese is vapourisable.",
@@ -6649,7 +6649,7 @@
           {
             "id": "vapors-noun-1",
             "definition": "a state of depression",
-            "translation": "",
+            "translation": "对抑郁的状态",
             "examples": [
               {
                 "text": "I think they have the vapors again.",
@@ -6728,7 +6728,7 @@
           {
             "id": "vapourific-adjective-2",
             "definition": "used of substances, capable of being volatilized",
-            "translation": "",
+            "translation": "能够被",
             "examples": []
           }
         ]
@@ -6756,7 +6756,7 @@
           {
             "id": "vapourisable-adjective-1",
             "definition": "capable of being volatilized",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "Let's test if this cheese is vapourisable.",
@@ -6941,7 +6941,7 @@
           {
             "id": "vapours-noun-1",
             "definition": "a state of depression",
-            "translation": "",
+            "translation": "对抑郁的状态",
             "examples": [
               {
                 "text": "I think they have the vapors again.",
@@ -7233,7 +7233,7 @@
           {
             "id": "variable-adjective-1",
             "definition": "(used of a device) designed so that a property (as e.g. light) can be varied",
-            "translation": "",
+            "translation": "变量",
             "examples": [
               {
                 "text": "a variable capacitor",
@@ -7244,7 +7244,7 @@
           {
             "id": "variable-adjective-2",
             "definition": "liable to or capable of change",
-            "translation": "",
+            "translation": "变量",
             "examples": [
               {
                 "text": "rainfall in the tropics is notoriously variable",
@@ -7255,7 +7255,7 @@
           {
             "id": "variable-adjective-3",
             "definition": "marked by diversity or difference",
-            "translation": "",
+            "translation": "变量",
             "examples": []
           }
         ]
@@ -7266,25 +7266,25 @@
           {
             "id": "variable-noun-1",
             "definition": "a quantity that can assume any of a set of values",
-            "translation": "",
+            "translation": "变量",
             "examples": []
           },
           {
             "id": "variable-noun-2",
             "definition": "a symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity",
-            "translation": "",
+            "translation": "变量",
             "examples": []
           },
           {
             "id": "variable-noun-3",
             "definition": "something that is likely to vary",
-            "translation": "",
+            "translation": "变量",
             "examples": []
           },
           {
             "id": "variable-noun-4",
             "definition": "a star that varies noticeably in brightness",
-            "translation": "",
+            "translation": "变量",
             "examples": []
           }
         ]
@@ -7631,7 +7631,7 @@
           {
             "id": "variation-noun-1",
             "definition": "an activity that varies from a norm or standard",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "Any variation in their routine was immediately reported.",
@@ -7642,7 +7642,7 @@
           {
             "id": "variation-noun-2",
             "definition": "the act of changing or altering something slightly but noticeably from the norm or standard",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "who is responsible for these variations in taxation?",
@@ -7653,13 +7653,13 @@
           {
             "id": "variation-noun-3",
             "definition": "(ballet) a solo dance or dance figure",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-4",
             "definition": "an artifact that deviates from a norm or standard",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "I patented a variation on the sandal.",
@@ -7670,43 +7670,43 @@
           {
             "id": "variation-noun-5",
             "definition": "something a little different from others of the same type",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-6",
             "definition": "a repetition of a musical theme in which it is modified or embellished",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-7",
             "definition": "an instance of change",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-8",
             "definition": "(biology) an organism that has characteristics resulting from chromosomal alteration",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-9",
             "definition": "(astronomy) any perturbation of the mean motion or orbit of a planet or satellite (especially a perturbation of the earth's moon)",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-10",
             "definition": "the process of varying or being varied",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           },
           {
             "id": "variation-noun-11",
             "definition": "the angle (at a particular location) between magnetic north and true north",
-            "translation": "",
+            "translation": "变化",
             "examples": []
           }
         ]
@@ -7715,11 +7715,11 @@
     "phrases": [
       {
         "text": "variation between classes",
-        "translation": ""
+        "translation": "变化在...之间班级"
       },
       {
         "text": "variation between laboratories",
-        "translation": ""
+        "translation": "变化在...之间实验室"
       },
       {
         "text": "variation in abilities",
@@ -8109,7 +8109,7 @@
           {
             "id": "varied-adjective-2",
             "definition": "widely different",
-            "translation": "",
+            "translation": "广泛地不同的",
             "examples": [
               {
                 "text": "varied motives prompt people to join a political party",
@@ -8120,7 +8120,7 @@
           {
             "id": "varied-adjective-3",
             "definition": "characterized by variety",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "immigrants' varied ethnic and religious traditions",
@@ -8339,13 +8339,13 @@
           {
             "id": "variety-noun-1",
             "definition": "noticeable heterogeneity",
-            "translation": "",
+            "translation": "多样性",
             "examples": []
           },
           {
             "id": "variety-noun-2",
             "definition": "a difference that is usually pleasant",
-            "translation": "",
+            "translation": "多样性",
             "examples": [
               {
                 "text": "They go to France for variety.",
@@ -8356,25 +8356,25 @@
           {
             "id": "variety-noun-3",
             "definition": "a category of things distinguished by some common characteristic or quality",
-            "translation": "",
+            "translation": "多样性",
             "examples": []
           },
           {
             "id": "variety-noun-4",
             "definition": "a show consisting of a series of short unrelated performances",
-            "translation": "",
+            "translation": "多样性",
             "examples": []
           },
           {
             "id": "variety-noun-5",
             "definition": "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics",
-            "translation": "",
+            "translation": "多样性",
             "examples": []
           },
           {
             "id": "variety-noun-6",
             "definition": "a collection containing a variety of sorts of things",
-            "translation": "",
+            "translation": "多样性",
             "examples": []
           }
         ]
@@ -8693,19 +8693,19 @@
           {
             "id": "various-adjective-1",
             "definition": "of many different kinds purposefully arranged but lacking any uniformity",
-            "translation": "",
+            "translation": "任何的",
             "examples": []
           },
           {
             "id": "various-adjective-2",
             "definition": "distinctly dissimilar or unlike",
-            "translation": "",
+            "translation": "各种",
             "examples": []
           },
           {
             "id": "various-adjective-3",
             "definition": "having great diversity or variety",
-            "translation": "",
+            "translation": "各种",
             "examples": [
               {
                 "text": "Their various achievements were impressive.",
@@ -8716,7 +8716,7 @@
           {
             "id": "various-adjective-4",
             "definition": "considered individually",
-            "translation": "",
+            "translation": "各种",
             "examples": []
           }
         ]
@@ -8747,7 +8747,7 @@
           {
             "id": "variously-adverb-1",
             "definition": "in diverse ways",
-            "translation": "",
+            "translation": "各种地",
             "examples": [
               {
                 "text": "the alternatives that are variously represented by the participants",
@@ -9042,7 +9042,7 @@
           {
             "id": "varsity-adjective-1",
             "definition": "relating to a team representing a college or university",
-            "translation": "",
+            "translation": "大学的",
             "examples": [
               {
                 "text": "I played on the varsity team for cricket.",
@@ -9155,7 +9155,7 @@
           {
             "id": "vary-verb-2",
             "definition": "to make something more diverse and varied",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "We varied our responses so they did not sound scripted.",
@@ -9166,7 +9166,7 @@
           {
             "id": "vary-verb-3",
             "definition": "to be at variance with",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "The politician's statements vary drastically from what they said before.",
@@ -9177,7 +9177,7 @@
           {
             "id": "vary-verb-4",
             "definition": "to be subject to change in accordance with a variable",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "Lobster prices vary according to market conditions.",
@@ -9191,7 +9191,7 @@
     "phrases": [
       {
         "text": "vary between",
-        "translation": ""
+        "translation": "变化在...之间"
       },
       {
         "text": "vary by category",
@@ -9211,7 +9211,7 @@
       },
       {
         "text": "vary off line",
-        "translation": ""
+        "translation": "变化离开线"
       },
       {
         "text": "vary on line",
@@ -9219,7 +9219,7 @@
       },
       {
         "text": "vary with",
-        "translation": ""
+        "translation": "随...变化"
       }
     ]
   },
@@ -9245,7 +9245,7 @@
           {
             "id": "varying-adjective-1",
             "definition": "marked by diversity or difference",
-            "translation": "",
+            "translation": "变化",
             "examples": [
               {
                 "text": "Students at our school come from varying backgrounds.",
@@ -9313,7 +9313,7 @@
           {
             "id": "vascular-adjective-1",
             "definition": "of or relating to or having vessels that conduct and circulate fluids",
-            "translation": "",
+            "translation": "流体的",
             "examples": [
               {
                 "text": "Vascular constriction is evident.",
@@ -9622,7 +9622,7 @@
           {
             "id": "vasectomise-verb-1",
             "definition": "remove the vas deferens",
-            "translation": "",
+            "translation": "移除",
             "examples": [
               {
                 "text": "many men choose to be vasectomized as a form of safe birth control",
@@ -9655,7 +9655,7 @@
           {
             "id": "vasectomize-verb-1",
             "definition": "remove the vas deferens",
-            "translation": "",
+            "translation": "移除",
             "examples": [
               {
                 "text": "many men choose to be vasectomized as a form of safe birth control",
@@ -9986,7 +9986,7 @@
           {
             "id": "vasomotor-adjective-1",
             "definition": "relating to the nerves and muscles that cause the blood vessels to constrict or dilate",
-            "translation": "",
+            "translation": "容器的",
             "examples": []
           }
         ]
@@ -10259,7 +10259,7 @@
           {
             "id": "vast-adjective-1",
             "definition": "unusually great in size, amount, degree, extent, or scope",
-            "translation": "",
+            "translation": "广阔的",
             "examples": [
               {
                 "text": "The universe in unquestionably vast.",
@@ -10294,7 +10294,7 @@
           {
             "id": "vastly-adverb-1",
             "definition": "to an exceedingly great extent or degree",
-            "translation": "",
+            "translation": "广阔的地",
             "examples": [
               {
                 "text": "We had vastly overestimated our resources and are now in a precarious situation.",
@@ -10917,7 +10917,7 @@
           {
             "id": "vaunt-verb-1",
             "definition": "to show off",
-            "translation": "",
+            "translation": "炫耀",
             "examples": [
               {
                 "text": "My siblings were eager to vaunt for the rest of our family.",
@@ -11282,7 +11282,7 @@
           {
             "id": "vedic-adjective-1",
             "definition": "of or relating to the Vedas or to the ancient Sanskrit in which they were written",
-            "translation": "",
+            "translation": "古代的的",
             "examples": [
               {
                 "text": "Vedic literature is studied at universities around the world.",
@@ -11335,7 +11335,7 @@
           {
             "id": "veer-verb-2",
             "definition": "to turn sharply",
-            "translation": "",
+            "translation": "转动尖锐地",
             "examples": [
               {
                 "text": "The car veered suddenly.",
@@ -11533,13 +11533,13 @@
           {
             "id": "vegetable-noun-1",
             "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-            "translation": "",
+            "translation": "蔬菜",
             "examples": []
           },
           {
             "id": "vegetable-noun-2",
             "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
-            "translation": "",
+            "translation": "蔬菜",
             "examples": []
           }
         ]
@@ -11548,7 +11548,7 @@
     "phrases": [
       {
         "text": "vegetable down",
-        "translation": ""
+        "translation": "蔬菜向下"
       },
       {
         "text": "vegetable in chili",
@@ -11576,7 +11576,7 @@
           {
             "id": "vegetal-adjective-1",
             "definition": "(of reproduction) characterized by asexual processes",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": []
           },
           {
@@ -11719,7 +11719,7 @@
           {
             "id": "vegetate-verb-4",
             "definition": "to grow like a plant",
-            "translation": "",
+            "translation": "生长喜欢一个植物",
             "examples": [
               {
                 "text": "This fungus usually vegetates vigorously.",
@@ -11730,7 +11730,7 @@
           {
             "id": "vegetate-verb-5",
             "definition": "to produce vegetation",
-            "translation": "",
+            "translation": "产生；实现",
             "examples": [
               {
                 "text": "The fields vegetate vigorously.",
@@ -11886,7 +11886,7 @@
           {
             "id": "vegetative-adjective-1",
             "definition": "characterized by an asexual reproductive processes in plants",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "The vegetative plant sends out runners to spread itself.",
@@ -11897,7 +11897,7 @@
           {
             "id": "vegetative-adjective-2",
             "definition": "relating to involuntary bodily functions",
-            "translation": "",
+            "translation": "功能的",
             "examples": [
               {
                 "text": "Vegetative functions such as digestion or growth or circulation keep animals alive even when they are unconscious.",
@@ -11919,7 +11919,7 @@
           {
             "id": "vegetative-adjective-4",
             "definition": "of or relating to an activity that is passive and monotonous",
-            "translation": "",
+            "translation": "被动的的",
             "examples": [
               {
                 "text": "We don't want to live a dull, vegetative lifestyle.",
@@ -11963,7 +11963,7 @@
           {
             "id": "vegetive-adjective-1",
             "definition": "of or relating to an activity that is passive and monotonous",
-            "translation": "",
+            "translation": "被动的的",
             "examples": []
           }
         ]
@@ -12085,7 +12085,7 @@
           {
             "id": "vehement-adjective-2",
             "definition": "characterized by great force or energy",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "Yesterday there were vehement deluges of rain.",
@@ -12162,13 +12162,13 @@
           {
             "id": "vehicle-noun-1",
             "definition": "a conveyance that transports people or objects",
-            "translation": "",
+            "translation": "车辆",
             "examples": []
           },
           {
             "id": "vehicle-noun-2",
             "definition": "a medium for the expression or achievement of something",
-            "translation": "",
+            "translation": "车辆",
             "examples": [
               {
                 "text": "Their editorials provided a vehicle for their political views.",
@@ -12179,7 +12179,7 @@
           {
             "id": "vehicle-noun-3",
             "definition": "any inanimate object, such as a towel, money, or clothing that can transmit infectious agents from one person to another",
-            "translation": "",
+            "translation": "车辆",
             "examples": [
               {
                 "text": "The vehicle for the ebola outbreak was discovered to be an unwashed hospital sheet.",
@@ -12190,7 +12190,7 @@
           {
             "id": "vehicle-noun-4",
             "definition": "any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
-            "translation": "",
+            "translation": "车辆",
             "examples": []
           }
         ]
@@ -12294,7 +12294,7 @@
           {
             "id": "veil-verb-1",
             "definition": "make undecipherable or imperceptible by obscuring or concealing",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           },
           {
@@ -12423,13 +12423,13 @@
           {
             "id": "vein-noun-1",
             "definition": "one of the horny ribs that stiffen and support the wing of an insect",
-            "translation": "",
+            "translation": "静脉",
             "examples": []
           },
           {
             "id": "vein-noun-2",
             "definition": "a blood vessel that carries blood from the capillaries toward the heart",
-            "translation": "",
+            "translation": "静脉",
             "examples": [
               {
                 "text": "all veins except the pulmonary vein carry unaerated blood",
@@ -12440,7 +12440,7 @@
           {
             "id": "vein-noun-3",
             "definition": "a distinctive style or manner",
-            "translation": "",
+            "translation": "静脉",
             "examples": [
               {
                 "text": "They continued in this vein for several minutes.",
@@ -12451,13 +12451,13 @@
           {
             "id": "vein-noun-4",
             "definition": "a layer of ore between layers of rock",
-            "translation": "",
+            "translation": "静脉",
             "examples": []
           },
           {
             "id": "vein-noun-5",
             "definition": "any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ",
-            "translation": "",
+            "translation": "静脉",
             "examples": []
           }
         ]
@@ -12468,7 +12468,7 @@
           {
             "id": "vein-verb-1",
             "definition": "make a veinlike pattern",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -12496,7 +12496,7 @@
           {
             "id": "veinal-adjective-1",
             "definition": "relating to the veins of plants",
-            "translation": "",
+            "translation": "植物的",
             "examples": []
           }
         ]
@@ -12524,7 +12524,7 @@
           {
             "id": "veined-adjective-1",
             "definition": "having or showing markings that resemble veins",
-            "translation": "",
+            "translation": "静脉",
             "examples": []
           }
         ]
@@ -12558,7 +12558,7 @@
           {
             "id": "velar-adjective-2",
             "definition": "of or relating to the velum",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -12740,7 +12740,7 @@
           {
             "id": "vellicate-verb-2",
             "definition": "to touch a body part lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements",
-            "translation": "",
+            "translation": "分离；分开",
             "examples": []
           }
         ]
@@ -12925,7 +12925,7 @@
           {
             "id": "velocity-noun-1",
             "definition": "the distance travelled per unit time",
-            "translation": "",
+            "translation": "速度",
             "examples": [
               {
                 "text": "We learned to calculate velocity in school.",
@@ -12955,7 +12955,7 @@
       },
       {
         "text": "velocity through screen",
-        "translation": ""
+        "translation": "速度通过屏幕"
       },
       {
         "text": "velocity to height ratio",
@@ -13374,7 +13374,7 @@
           {
             "id": "venal-adjective-1",
             "definition": "capable of being corrupted",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "Last time venal politicians got into office multiple problems arose.",
@@ -13475,7 +13475,7 @@
           {
             "id": "venatic-adjective-1",
             "definition": "of or relating to hunting",
-            "translation": "",
+            "translation": "打猎的",
             "examples": [
               {
                 "text": "Humans lived a venatic lifestyle before agriculture revolutionized the world.",
@@ -13542,7 +13542,7 @@
           {
             "id": "venatorial-adjective-1",
             "definition": "of or relating to hunting",
-            "translation": "",
+            "translation": "打猎的",
             "examples": [
               {
                 "text": "Their venatorial skills have slowly gotten better over the past year as a result of the constant practice.",
@@ -13651,7 +13651,7 @@
           {
             "id": "vendee-noun-1",
             "definition": "a person who buys",
-            "translation": "",
+            "translation": "购买的人",
             "examples": [
               {
                 "text": "There were lots of vendees at the trade fair.",
@@ -14268,7 +14268,7 @@
           {
             "id": "venereal-adjective-1",
             "definition": "of or relating to the external sex organs",
-            "translation": "",
+            "translation": "器官的",
             "examples": []
           }
         ]
@@ -14354,7 +14354,7 @@
           {
             "id": "venetian-adjective-1",
             "definition": "of or relating to or characteristic of Venice or its people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "Venetian glass is popular all over the world for its beautiful colors.",
@@ -14387,7 +14387,7 @@
           {
             "id": "venezuelan-adjective-1",
             "definition": "of or relating to or characteristic of Venezuela or its people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "Venezuelan oil prices are kept artificially low through government regulations.",
@@ -14669,7 +14669,7 @@
           {
             "id": "venison-noun-1",
             "definition": "meat from a deer used as food",
-            "translation": "",
+            "translation": "肉从一个鹿用过的一个食物",
             "examples": [
               {
                 "text": "I grilled some venison for dinner.",
@@ -14820,7 +14820,7 @@
           {
             "id": "venomed-adjective-1",
             "definition": "full of malice or hate",
-            "translation": "",
+            "translation": "充满",
             "examples": [
               {
                 "text": "Your venomed remarks are unwelcome at the dinner table.",
@@ -14981,7 +14981,7 @@
           {
             "id": "venous-adjective-1",
             "definition": "of or contained in or performing the function of the veins",
-            "translation": "",
+            "translation": "静脉的",
             "examples": [
               {
                 "text": "The venous inflammation was more serious than it seemed.",
@@ -15772,7 +15772,7 @@
           {
             "id": "ventricular-adjective-1",
             "definition": "of or relating to a ventricle, of the heart or brain",
-            "translation": "",
+            "translation": "大脑的",
             "examples": []
           }
         ]
@@ -15946,19 +15946,19 @@
           {
             "id": "venture-noun-1",
             "definition": "any venturesome undertaking especially one with an uncertain outcome",
-            "translation": "",
+            "translation": "冒险",
             "examples": []
           },
           {
             "id": "venture-noun-2",
             "definition": "a commercial undertaking that risks a loss but promises a profit",
-            "translation": "",
+            "translation": "冒险",
             "examples": []
           },
           {
             "id": "venture-noun-3",
             "definition": "an investment that is very risky but could yield great profits",
-            "translation": "",
+            "translation": "冒险",
             "examples": []
           }
         ]
@@ -15969,13 +15969,13 @@
           {
             "id": "venture-verb-1",
             "definition": "put forward, of a guess, in spite of possible refutation",
-            "translation": "",
+            "translation": "冒险",
             "examples": []
           },
           {
             "id": "venture-verb-2",
             "definition": "proceed somewhere despite the risk of possible dangers",
-            "translation": "",
+            "translation": "冒险",
             "examples": [
               {
                 "text": "We ventured into the world of high-tech and bought a supercomputer",
@@ -15986,7 +15986,7 @@
           {
             "id": "venture-verb-3",
             "definition": "put at risk",
-            "translation": "",
+            "translation": "冒险",
             "examples": []
           }
         ]
@@ -16015,7 +16015,7 @@
       },
       {
         "text": "venture upon",
-        "translation": ""
+        "translation": "冒险在...上"
       }
     ]
   },
@@ -16208,13 +16208,13 @@
           {
             "id": "venue-noun-1",
             "definition": "in law: the jurisdiction where a trial will be held",
-            "translation": "",
+            "translation": "场地",
             "examples": []
           },
           {
             "id": "venue-noun-2",
             "definition": "the scene of any event or action, especially the place of a meeting or performance",
-            "translation": "",
+            "translation": "场地",
             "examples": [
               {
                 "text": "This venue is known for its outstanding acoustics.",
@@ -16279,7 +16279,7 @@
           {
             "id": "veracious-adjective-1",
             "definition": "precisely accurate",
-            "translation": "",
+            "translation": "精确地准确",
             "examples": [
               {
                 "text": "a veracious account",
@@ -16433,7 +16433,7 @@
           {
             "id": "verb-noun-1",
             "definition": "a word that denotes an action, occurrence, or state of existence",
-            "translation": "",
+            "translation": "动词",
             "examples": [
               {
                 "text": "The verb described what the subject of the sentence did.",
@@ -16449,7 +16449,7 @@
           {
             "id": "verb-verb-1",
             "definition": "to use a word not conventionally considered a verb, typically a noun, as a verb",
-            "translation": "",
+            "translation": "动词",
             "examples": [
               {
                 "text": "I'm going to try to verb the word 'morning' and see if it catches on.",
@@ -16488,7 +16488,7 @@
           {
             "id": "verbal-adjective-1",
             "definition": "communicated in the form of words",
-            "translation": "",
+            "translation": "口头的",
             "examples": [
               {
                 "text": "Verbal imagery is central to poetry.",
@@ -16499,7 +16499,7 @@
           {
             "id": "verbal-adjective-2",
             "definition": "prolix",
-            "translation": "",
+            "translation": "口头的",
             "examples": [
               {
                 "text": "The interviewee was quite verbal.",
@@ -16510,7 +16510,7 @@
           {
             "id": "verbal-adjective-3",
             "definition": "relating to or having facility in the use of words",
-            "translation": "",
+            "translation": "单词的",
             "examples": [
               {
                 "text": "A good poet is a verbal artist.",
@@ -16521,7 +16521,7 @@
           {
             "id": "verbal-adjective-4",
             "definition": "expressed in spoken words",
-            "translation": "",
+            "translation": "口头的",
             "examples": [
               {
                 "text": "A verbal contract is binding in many jurisdictions.",
@@ -16532,7 +16532,7 @@
           {
             "id": "verbal-adjective-5",
             "definition": "of or relating to or formed from a verb",
-            "translation": "",
+            "translation": "动词的",
             "examples": [
               {
                 "text": "Verbal adjectives like 'running' in 'hot and cold running water' are common.",
@@ -16543,7 +16543,7 @@
           {
             "id": "verbal-adjective-6",
             "definition": "of or relating to or formed from words in general",
-            "translation": "",
+            "translation": "一般的的",
             "examples": [
               {
                 "text": "Verbal ability is essential to many professions.",
@@ -16952,7 +16952,7 @@
           {
             "id": "verbally-adverb-1",
             "definition": "by means of language",
-            "translation": "",
+            "translation": "口头的地",
             "examples": [
               {
                 "text": "The child is more verbally expressive than usual for the age.",
@@ -16963,7 +16963,7 @@
           {
             "id": "verbally-adverb-2",
             "definition": "using another part of speech as a verb",
-            "translation": "",
+            "translation": "口头的地",
             "examples": [
               {
                 "text": "I had a habit of using nouns verbally.",
@@ -17157,7 +17157,7 @@
           {
             "id": "verbolatry-noun-1",
             "definition": "the worship of words",
-            "translation": "",
+            "translation": "单词的崇拜",
             "examples": []
           }
         ]
@@ -17391,7 +17391,7 @@
           {
             "id": "verdant-adjective-1",
             "definition": "characterized by the abundance of green foliage",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "The verdant meadow was a perfect place for a picnic.",
@@ -17430,7 +17430,7 @@
           {
             "id": "verdict-noun-1",
             "definition": "(law) the findings of a jury on issues of fact submitted to it for decision",
-            "translation": "",
+            "translation": "裁决",
             "examples": []
           }
         ]
@@ -17611,7 +17611,7 @@
           {
             "id": "verge-noun-1",
             "definition": "a grass border along a road",
-            "translation": "",
+            "translation": "一个草边境沿着一个道路",
             "examples": []
           },
           {
@@ -17764,7 +17764,7 @@
           {
             "id": "verifiable-adjective-1",
             "definition": "capable of being tested, verified or falsified, by experiment or observation",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "Your results are not verifiable and therefore not scientific.",
@@ -17988,7 +17988,7 @@
           {
             "id": "verify-verb-1",
             "definition": "to confirm the truth of",
-            "translation": "",
+            "translation": "验证",
             "examples": [
               {
                 "text": "Please verify that the doors are locked before you leave the house.",
@@ -18010,13 +18010,13 @@
           {
             "id": "verify-verb-3",
             "definition": "to attach or append a legal verification to",
-            "translation": "",
+            "translation": "验证",
             "examples": []
           },
           {
             "id": "verify-verb-4",
             "definition": "to check or regulate a scientific experiment by conducting a parallel experiment or comparing with another standard",
-            "translation": "",
+            "translation": "验证",
             "examples": [
               {
                 "text": "The results of the experiment were verified against the control group.",
@@ -18051,7 +18051,7 @@
           {
             "id": "verifying-adjective-1",
             "definition": "serving to support or corroborate",
-            "translation": "",
+            "translation": "验证",
             "examples": [
               {
                 "text": "We have enough verifying statements to bring the suspect in for questioning.",
@@ -18632,7 +18632,7 @@
           {
             "id": "verminous-adjective-1",
             "definition": "of the nature of vermin",
-            "translation": "",
+            "translation": "自然的",
             "examples": [
               {
                 "text": "These verminous creatures are eating up my garden.",
@@ -18783,7 +18783,7 @@
           {
             "id": "vernal-adjective-1",
             "definition": "of or characteristic of or occurring in spring",
-            "translation": "",
+            "translation": "春天的",
             "examples": [
               {
                 "text": "The vernal equinox happens every spring.",
@@ -19229,7 +19229,7 @@
           {
             "id": "verse-verb-2",
             "definition": "compose verses or put into verse",
-            "translation": "",
+            "translation": "组成",
             "examples": []
           }
         ]
@@ -19456,13 +19456,13 @@
           {
             "id": "version-noun-1",
             "definition": "manual turning of a fetus in the uterus to aid delivery",
-            "translation": "",
+            "translation": "版本",
             "examples": []
           },
           {
             "id": "version-noun-2",
             "definition": "something a little different from others of the same type",
-            "translation": "",
+            "translation": "版本",
             "examples": [
               {
                 "text": "It was the experimental version of the night fighter.",
@@ -19473,7 +19473,7 @@
           {
             "id": "version-noun-3",
             "definition": "a mental representation of the meaning or significance of something",
-            "translation": "",
+            "translation": "版本",
             "examples": [
               {
                 "text": "My version of it was that you wanted to get out.",
@@ -19484,7 +19484,7 @@
           {
             "id": "version-noun-4",
             "definition": "an artistic work that has been recast in a new form",
-            "translation": "",
+            "translation": "版本",
             "examples": [
               {
                 "text": "We made a new version of Star Trek in 3D.",
@@ -19495,7 +19495,7 @@
           {
             "id": "version-noun-5",
             "definition": "a written communication in a second language having the same meaning as the written communication in a first language",
-            "translation": "",
+            "translation": "版本",
             "examples": [
               {
                 "text": "I handed out the French version of The God Delusion to the villagers.",
@@ -19506,7 +19506,7 @@
           {
             "id": "version-noun-6",
             "definition": "an interpretation of a matter from a particular viewpoint",
-            "translation": "",
+            "translation": "版本",
             "examples": [
               {
                 "text": "Their version of the fight was different from mine.",
@@ -19552,7 +19552,7 @@
           {
             "id": "verso-noun-2",
             "definition": "a left-hand page",
-            "translation": "",
+            "translation": "一个左边手页",
             "examples": []
           }
         ]
@@ -19636,7 +19636,7 @@
           {
             "id": "vertebral-adjective-1",
             "definition": "of or relating to or constituting vertebrae",
-            "translation": "",
+            "translation": "构成的",
             "examples": []
           }
         ]
@@ -19780,7 +19780,7 @@
           {
             "id": "vertical-adjective-1",
             "definition": "of or relating to different levels in a hierarchy (as levels of social class or income group)",
-            "translation": "",
+            "translation": "团体的",
             "examples": [
               {
                 "text": "vertical social mobility",
@@ -19791,7 +19791,7 @@
           {
             "id": "vertical-adjective-2",
             "definition": "at right angles to the plane of the horizon or a base line",
-            "translation": "",
+            "translation": "垂直的",
             "examples": [
               {
                 "text": "a vertical camera angle",
@@ -19802,13 +19802,13 @@
           {
             "id": "vertical-adjective-3",
             "definition": "upright in position or posture",
-            "translation": "",
+            "translation": "垂直的",
             "examples": []
           },
           {
             "id": "vertical-adjective-4",
             "definition": "relating to or involving all stages of a business from production to distribution",
-            "translation": "",
+            "translation": "分配的",
             "examples": []
           }
         ]
@@ -19819,13 +19819,13 @@
           {
             "id": "vertical-noun-1",
             "definition": "a vertical structural member as a post or stake",
-            "translation": "",
+            "translation": "垂直的",
             "examples": []
           },
           {
             "id": "vertical-noun-2",
             "definition": "something that is oriented vertically",
-            "translation": "",
+            "translation": "垂直的",
             "examples": []
           }
         ]
@@ -19838,11 +19838,11 @@
       },
       {
         "text": "vertical off normal contacts",
-        "translation": ""
+        "translation": "垂直的离开正常的联系"
       },
       {
         "text": "vertical off normal spring",
-        "translation": ""
+        "translation": "垂直的离开正常的春天"
       },
       {
         "text": "vertical up welding",
@@ -19900,7 +19900,7 @@
           {
             "id": "vertically-adverb-1",
             "definition": "in a vertical direction",
-            "translation": "",
+            "translation": "垂直的地",
             "examples": [
               {
                 "text": "A gallery quite often is added to make use of space vertically as well as horizontally.",
@@ -20382,7 +20382,7 @@
           {
             "id": "vesical-adjective-1",
             "definition": "of or relating to a bladder, especially the urinary bladder",
-            "translation": "",
+            "translation": "特别的",
             "examples": []
           }
         ]
@@ -20628,7 +20628,7 @@
           {
             "id": "vesicular-adjective-1",
             "definition": "of or relating to or involving vesicles",
-            "translation": "",
+            "translation": "涉及的",
             "examples": []
           }
         ]
@@ -20900,19 +20900,19 @@
           {
             "id": "vessel-noun-1",
             "definition": "a craft designed for water transportation",
-            "translation": "",
+            "translation": "容器",
             "examples": []
           },
           {
             "id": "vessel-noun-2",
             "definition": "an object used as a container (especially for liquids)",
-            "translation": "",
+            "translation": "容器",
             "examples": []
           },
           {
             "id": "vessel-noun-3",
             "definition": "a tube in which a body fluid circulates",
-            "translation": "",
+            "translation": "容器",
             "examples": []
           }
         ]
@@ -21019,7 +21019,7 @@
           {
             "id": "vest-verb-4",
             "definition": "place authority, property, or rights in the control of a person or group of persons",
-            "translation": "",
+            "translation": "地方",
             "examples": [
               {
                 "text": "They vested their vast fortune in their two children.",
@@ -21083,7 +21083,7 @@
           {
             "id": "vestal-adjective-2",
             "definition": "of or relating to Vesta, the Roman goddess of the home",
-            "translation": "",
+            "translation": "家的",
             "examples": [
               {
                 "text": "The vestal virgins were a group of individuals with high status in Ancient Rome.",
@@ -21174,7 +21174,7 @@
           {
             "id": "vestiary-adjective-1",
             "definition": "relating to clothing, especially vestments",
-            "translation": "",
+            "translation": "特别的",
             "examples": [
               {
                 "text": "There is a big vestiary sale going on downtown.",
@@ -21207,7 +21207,7 @@
           {
             "id": "vestibular-adjective-1",
             "definition": "relating to the sense of equilibrium",
-            "translation": "",
+            "translation": "感觉的",
             "examples": []
           }
         ]
@@ -21322,7 +21322,7 @@
           {
             "id": "vestigial-adjective-2",
             "definition": "relating to previous functionality or form",
-            "translation": "",
+            "translation": "形式的",
             "examples": [
               {
                 "text": "I removed the vestigial traces of the apartment's previous tenants.",
@@ -21355,7 +21355,7 @@
           {
             "id": "vestiture-noun-1",
             "definition": "clothing   ",
-            "translation": "",
+            "translation": "布",
             "examples": []
           }
         ]
@@ -21418,7 +21418,7 @@
           {
             "id": "vestmental-adjective-1",
             "definition": "of or relating to or resembling a vestment",
-            "translation": "",
+            "translation": "类似的",
             "examples": []
           }
         ]
@@ -21858,7 +21858,7 @@
           {
             "id": "veteran-adjective-1",
             "definition": "rendered competent through trial and experience",
-            "translation": "",
+            "translation": "老兵",
             "examples": [
               {
                 "text": "I am a veteran footballer.",
@@ -21874,7 +21874,7 @@
           {
             "id": "veteran-noun-1",
             "definition": "an experienced person who has been through many battles",
-            "translation": "",
+            "translation": "老兵",
             "examples": [
               {
                 "text": "I am a veteran when it comes to exams.",
@@ -21885,7 +21885,7 @@
           {
             "id": "veteran-noun-2",
             "definition": "a person who has served in the armed forces",
-            "translation": "",
+            "translation": "老兵",
             "examples": [
               {
                 "text": "There are many veterans in my family.",
@@ -21896,7 +21896,7 @@
           {
             "id": "veteran-noun-3",
             "definition": "a serviceman who has seen considerable active service",
-            "translation": "",
+            "translation": "老兵",
             "examples": [
               {
                 "text": "The veterans laughed at the new recruits.",
@@ -21965,7 +21965,7 @@
           {
             "id": "veterinary-adjective-1",
             "definition": "of or relating to veterinarians or veterinary medicine",
-            "translation": "",
+            "translation": "药物的",
             "examples": []
           }
         ]
@@ -22039,13 +22039,13 @@
           {
             "id": "veto-verb-1",
             "definition": "command against",
-            "translation": "",
+            "translation": "命令反对",
             "examples": []
           },
           {
             "id": "veto-verb-2",
             "definition": "vote against",
-            "translation": "",
+            "translation": "投票反对",
             "examples": []
           }
         ]
@@ -22345,7 +22345,7 @@
           {
             "id": "vexillology-noun-1",
             "definition": "the study of flags",
-            "translation": "",
+            "translation": "旗帜的学习",
             "examples": [
               {
                 "text": "The history of vexillology reflects many other pieces of history.",
@@ -22501,7 +22501,7 @@
           {
             "id": "viable-adjective-1",
             "definition": "capable of life or normal growth and development",
-            "translation": "",
+            "translation": "可行的",
             "examples": [
               {
                 "text": "viable seeds",
@@ -22512,7 +22512,7 @@
           {
             "id": "viable-adjective-2",
             "definition": "capable of being done with means at hand and circumstances as they are",
-            "translation": "",
+            "translation": "能够被",
             "examples": []
           }
         ]
@@ -22671,7 +22671,7 @@
           {
             "id": "viatical-adjective-1",
             "definition": "pertaining to the purchase of insurance policies from terminally ill policy holders",
-            "translation": "",
+            "translation": "政策的",
             "examples": [
               {
                 "text": "Viatical business is up this quarter.",
@@ -22931,13 +22931,13 @@
           {
             "id": "vibrant-adjective-1",
             "definition": "of colors that are bright and striking",
-            "translation": "",
+            "translation": "引人注目的的",
             "examples": []
           },
           {
             "id": "vibrant-adjective-2",
             "definition": "of sounds that are strong and resonating",
-            "translation": "",
+            "translation": "强壮的的",
             "examples": [
               {
                 "text": "the men's vibrant voices",
@@ -23194,7 +23194,7 @@
           {
             "id": "vibrational-adjective-1",
             "definition": "of or relating to or characterized by vibration",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "We are getting vibrational signals from underground.",
@@ -23566,7 +23566,7 @@
           {
             "id": "vicarial-adjective-1",
             "definition": "of or relating to or characteristic of a vicar",
-            "translation": "",
+            "translation": "特征的",
             "examples": []
           }
         ]
@@ -23752,7 +23752,7 @@
           {
             "id": "vice-noun-1",
             "definition": "a specific form of evildoing",
-            "translation": "",
+            "translation": "副的",
             "examples": [
               {
                 "text": "vice offends the moral standards of the community",
@@ -23763,7 +23763,7 @@
           {
             "id": "vice-noun-2",
             "definition": "moral weakness",
-            "translation": "",
+            "translation": "副的",
             "examples": []
           }
         ]
@@ -23880,7 +23880,7 @@
           {
             "id": "viceregal-adjective-1",
             "definition": "of or relating to a viceroy",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "The viceregal visit takes place next month.",
@@ -24335,13 +24335,13 @@
           {
             "id": "victim-noun-1",
             "definition": "an unfortunate person who suffers from some adverse circumstance",
-            "translation": "",
+            "translation": "受害者",
             "examples": []
           },
           {
             "id": "victim-noun-2",
             "definition": "a person who is tricked or swindled",
-            "translation": "",
+            "translation": "受害者",
             "examples": []
           }
         ]
@@ -24434,7 +24434,7 @@
           {
             "id": "victimise-verb-3",
             "definition": "make a victim of",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "I was victimized by this con-man",
@@ -24599,7 +24599,7 @@
           {
             "id": "victimize-verb-3",
             "definition": "make a victim of",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "I was victimized by this con-man",
@@ -24766,7 +24766,7 @@
           {
             "id": "victorian-adjective-3",
             "definition": "of or relating to Queen Victoria of Great Britain or to the age in which she ruled",
-            "translation": "",
+            "translation": "规则的",
             "examples": [
               {
                 "text": "I enjoy a Victorian novel from time to time.",
@@ -24823,7 +24823,7 @@
           {
             "id": "victorian-adjective-3",
             "definition": "of or relating to Queen Victoria of Great Britain or to the age in which she ruled",
-            "translation": "",
+            "translation": "规则的",
             "examples": [
               {
                 "text": "I enjoy a Victorian novel from time to time.",
@@ -24946,7 +24946,7 @@
           {
             "id": "victory-noun-1",
             "definition": "a successful ending of a struggle or contest",
-            "translation": "",
+            "translation": "胜利",
             "examples": [
               {
                 "text": "a narrow victory",
@@ -25257,7 +25257,7 @@
           {
             "id": "video-noun-1",
             "definition": "a recording of both the visual and audible components, especially one containing a recording of a movie or television program",
-            "translation": "",
+            "translation": "视频",
             "examples": [
               {
                 "text": "We made a video of our kid's first birthday.",
@@ -25268,7 +25268,7 @@
           {
             "id": "video-noun-2",
             "definition": "broadcasting visual images of stationary or moving objects",
-            "translation": "",
+            "translation": "视频",
             "examples": [
               {
                 "text": "I am a star of screen and video.",
@@ -25279,7 +25279,7 @@
           {
             "id": "video-noun-3",
             "definition": "the visible part of a television transmission",
-            "translation": "",
+            "translation": "一个电视传输的可见的部分",
             "examples": [
               {
                 "text": "The video is a bit fuzzy.",
@@ -25290,7 +25290,7 @@
           {
             "id": "video-noun-4",
             "definition": "the appearance of text and graphics on a video display",
-            "translation": "",
+            "translation": "视频",
             "examples": [
               {
                 "text": "We are streaming video.",
@@ -25449,7 +25449,7 @@
           {
             "id": "videotape-verb-1",
             "definition": "record on videotape",
-            "translation": "",
+            "translation": "记录",
             "examples": [
               {
                 "text": "I videotaped the town hall meeting.",
@@ -25541,7 +25541,7 @@
           {
             "id": "viennese-adjective-1",
             "definition": "of or relating to or characteristic of Vienna or its inhabitants",
-            "translation": "",
+            "translation": "居民的",
             "examples": []
           }
         ]
@@ -25569,7 +25569,7 @@
           {
             "id": "vietnamese-adjective-1",
             "definition": "of or relating to or characteristic of Vietnam or its people or its language",
-            "translation": "",
+            "translation": "越南的",
             "examples": [
               {
                 "text": "The Vietnamese countryside is popular with visitors.",
@@ -25654,7 +25654,7 @@
           {
             "id": "view-noun-1",
             "definition": "the act of looking or seeing or observing",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "I tried to get a better view of it from a different perspective.",
@@ -25665,13 +25665,13 @@
           {
             "id": "view-noun-2",
             "definition": "graphic art consisting of the graphic or photographic representation of a visual percept",
-            "translation": "",
+            "translation": "观点",
             "examples": []
           },
           {
             "id": "view-noun-3",
             "definition": "outward appearance",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "they look the same in outward view",
@@ -25682,13 +25682,13 @@
           {
             "id": "view-noun-4",
             "definition": "the range of interest or activity that can be anticipated",
-            "translation": "",
+            "translation": "观点",
             "examples": []
           },
           {
             "id": "view-noun-5",
             "definition": "the visual percept of a region",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "the most desirable feature of the park are the beautiful views",
@@ -25699,13 +25699,13 @@
           {
             "id": "view-noun-6",
             "definition": "a personal belief or judgment that is not founded on proof or certainty",
-            "translation": "",
+            "translation": "观点",
             "examples": []
           },
           {
             "id": "view-noun-7",
             "definition": "purpose",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "the phrase `with a view to' means `with the intention of' or `for the purpose of'",
@@ -25716,7 +25716,7 @@
           {
             "id": "view-noun-8",
             "definition": "a way of regarding situations or topics etc.",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "consider what follows from the positivist view",
@@ -25727,13 +25727,13 @@
           {
             "id": "view-noun-9",
             "definition": "a message expressing a belief about something",
-            "translation": "",
+            "translation": "观点",
             "examples": []
           },
           {
             "id": "view-noun-10",
             "definition": "the range of the eye",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "they were soon out of view",
@@ -25749,7 +25749,7 @@
           {
             "id": "view-verb-1",
             "definition": "to deem to be",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "They view this quite differently from me.",
@@ -25760,13 +25760,13 @@
           {
             "id": "view-verb-2",
             "definition": "look at carefully",
-            "translation": "",
+            "translation": "看",
             "examples": []
           },
           {
             "id": "view-verb-3",
             "definition": "see or watch",
-            "translation": "",
+            "translation": "看见",
             "examples": [
               {
                 "text": "view a show on television",
@@ -25780,7 +25780,7 @@
     "phrases": [
       {
         "text": "view away",
-        "translation": ""
+        "translation": "观点离开"
       },
       {
         "text": "view in opposite place",
@@ -25812,7 +25812,7 @@
           {
             "id": "viewable-adjective-1",
             "definition": "capable of being viewed",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "The fight is only viewable on pay channels.",
@@ -25849,7 +25849,7 @@
           {
             "id": "viewer-noun-1",
             "definition": "an optical device for viewing photographic transparencies",
-            "translation": "",
+            "translation": "观众",
             "examples": [
               {
                 "text": "Use the viewer to get a better look.",
@@ -25860,7 +25860,7 @@
           {
             "id": "viewer-noun-2",
             "definition": "an observer",
-            "translation": "",
+            "translation": "观众",
             "examples": [
               {
                 "text": "The TV show had a lot of viewers.",
@@ -25964,7 +25964,7 @@
           {
             "id": "viewing-noun-1",
             "definition": "a vigil held over a corpse the night before burial",
-            "translation": "",
+            "translation": "观点",
             "examples": [
               {
                 "text": "The family gathered at the viewing before their grandparent's funeral.",
@@ -25975,7 +25975,7 @@
           {
             "id": "viewing-noun-2",
             "definition": "the display of a motion picture",
-            "translation": "",
+            "translation": "一个运动图片的展示",
             "examples": [
               {
                 "text": "We went to the 7:00 viewing of the new film.",
@@ -26122,7 +26122,7 @@
           {
             "id": "vigesimal-adjective-1",
             "definition": "relating to or based on the number twenty",
-            "translation": "",
+            "translation": "数字的",
             "examples": []
           }
         ]
@@ -26385,7 +26385,7 @@
           {
             "id": "vignette-noun-3",
             "definition": "a brief literary description",
-            "translation": "",
+            "translation": "一个简短的文学的描述",
             "examples": [
               {
                 "text": "Rather than telling the whole story, the author described a poignant vignette.",
@@ -26520,7 +26520,7 @@
           {
             "id": "vigorous-adjective-1",
             "definition": "characterized by forceful and energetic action or activity",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "A vigorous hiker can reach the summit in four hours.",
@@ -26882,7 +26882,7 @@
           {
             "id": "vilify-verb-1",
             "definition": "to spread negative information about",
-            "translation": "",
+            "translation": "传播消极的信息关于",
             "examples": [
               {
                 "text": "The reporter vilified the politician.",
@@ -27024,13 +27024,13 @@
           {
             "id": "village-noun-1",
             "definition": "a community of people smaller than a town",
-            "translation": "",
+            "translation": "村庄",
             "examples": []
           },
           {
             "id": "village-noun-2",
             "definition": "a settlement smaller than a town",
-            "translation": "",
+            "translation": "村庄",
             "examples": []
           }
         ]
@@ -27460,7 +27460,7 @@
           {
             "id": "vinaceous-adjective-1",
             "definition": "of the color of wine",
-            "translation": "",
+            "translation": "葡萄酒的",
             "examples": [
               {
                 "text": "Your wallpaper is vinaceous.",
@@ -27471,7 +27471,7 @@
           {
             "id": "vinaceous-adjective-2",
             "definition": "of or relating to wine",
-            "translation": "",
+            "translation": "葡萄酒的",
             "examples": [
               {
                 "text": "Is this sauce vinaceous?",
@@ -27746,7 +27746,7 @@
           {
             "id": "vindicatory-adjective-3",
             "definition": "of or relating to or having the nature of retribution",
-            "translation": "",
+            "translation": "自然的",
             "examples": []
           }
         ]
@@ -28354,7 +28354,7 @@
           {
             "id": "vinous-adjective-1",
             "definition": "of or relating to wine",
-            "translation": "",
+            "translation": "葡萄酒的",
             "examples": []
           }
         ]
@@ -28586,7 +28586,7 @@
           {
             "id": "violable-adjective-1",
             "definition": "capable of being violated",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "All rules are violable.",
@@ -28641,7 +28641,7 @@
           {
             "id": "violate-verb-2",
             "definition": "to destroy and strip of its possessions",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "The town was violated by raiders.",
@@ -28652,7 +28652,7 @@
           {
             "id": "violate-verb-3",
             "definition": "to act in disregard of laws, rules, contracts, or promises",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "The police officer violated my rights.",
@@ -28663,7 +28663,7 @@
           {
             "id": "violate-verb-4",
             "definition": "to force someone to have sex against their will",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "I was violated by a stranger.",
@@ -28674,7 +28674,7 @@
           {
             "id": "violate-verb-5",
             "definition": "to violate the sacred character of a place or language",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "You have violated this sanctuary with your bad behavior.",
@@ -28707,7 +28707,7 @@
           {
             "id": "violated-adjective-1",
             "definition": "treated irreverently or sacrilegiously",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "The violated text had smudge marks from the unprofessional handling.",
@@ -28753,25 +28753,25 @@
           {
             "id": "violation-noun-1",
             "definition": "entry to another's property without right or permission",
-            "translation": "",
+            "translation": "违反",
             "examples": []
           },
           {
             "id": "violation-noun-2",
             "definition": "a disrespectful act",
-            "translation": "",
+            "translation": "违反",
             "examples": []
           },
           {
             "id": "violation-noun-3",
             "definition": "a crime less serious than a felony",
-            "translation": "",
+            "translation": "违反",
             "examples": []
           },
           {
             "id": "violation-noun-4",
             "definition": "an act that disregards an agreement or a right",
-            "translation": "",
+            "translation": "违反",
             "examples": [
               {
                 "text": "They claimed a violation of their rights under the Fifth Amendment.",
@@ -28782,7 +28782,7 @@
           {
             "id": "violation-noun-5",
             "definition": "the crime of forcing a woman to submit to sexual intercourse against her will",
-            "translation": "",
+            "translation": "违反",
             "examples": []
           }
         ]
@@ -28894,7 +28894,7 @@
           {
             "id": "violence-noun-1",
             "definition": "an act of aggression, as one against a person who resists",
-            "translation": "",
+            "translation": "暴力",
             "examples": [
               {
                 "text": "They may accomplish by craft in the long run what they cannot do by force and violence in the short one.",
@@ -28905,7 +28905,7 @@
           {
             "id": "violence-noun-2",
             "definition": "the property of being wild or turbulent",
-            "translation": "",
+            "translation": "暴力",
             "examples": [
               {
                 "text": "the storm's violence",
@@ -28916,7 +28916,7 @@
           {
             "id": "violence-noun-3",
             "definition": "a turbulent state resulting in injuries and destruction etc.",
-            "translation": "",
+            "translation": "暴力",
             "examples": []
           }
         ]
@@ -28957,13 +28957,13 @@
           {
             "id": "violent-adjective-1",
             "definition": "characterized by violence or bloodshed",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": []
           },
           {
             "id": "violent-adjective-2",
             "definition": "marked by extreme intensity of emotions or convictions",
-            "translation": "",
+            "translation": "暴力的",
             "examples": [
               {
                 "text": "inclined to react violently",
@@ -28974,7 +28974,7 @@
           {
             "id": "violent-adjective-3",
             "definition": "(of colors or sounds) intensely vivid or loud",
-            "translation": "",
+            "translation": "暴力的",
             "examples": [
               {
                 "text": "a violent clash of colors",
@@ -28985,7 +28985,7 @@
           {
             "id": "violent-adjective-4",
             "definition": "effected by force or injury rather than natural causes",
-            "translation": "",
+            "translation": "暴力的",
             "examples": [
               {
                 "text": "a violent death",
@@ -28996,7 +28996,7 @@
           {
             "id": "violent-adjective-5",
             "definition": "acting with or marked by or resulting from great force or energy or emotional intensity",
-            "translation": "",
+            "translation": "暴力的",
             "examples": [
               {
                 "text": "a violent attack",
@@ -29036,7 +29036,7 @@
           {
             "id": "violently-adverb-1",
             "definition": "in a violent manner",
-            "translation": "",
+            "translation": "暴力的地",
             "examples": [
               {
                 "text": "The enemy attacked violently, but we held them off.",
@@ -29076,7 +29076,7 @@
           {
             "id": "violet-adjective-1",
             "definition": "of a color intermediate between red and blue",
-            "translation": "",
+            "translation": "蓝色的",
             "examples": []
           }
         ]
@@ -29481,7 +29481,7 @@
           {
             "id": "viral-adjective-1",
             "definition": "relating to or caused by a virus",
-            "translation": "",
+            "translation": "原因的",
             "examples": []
           }
         ]
@@ -29914,7 +29914,7 @@
           {
             "id": "virile-adjective-1",
             "definition": "characteristic of a man",
-            "translation": "",
+            "translation": "男人的",
             "examples": []
           },
           {
@@ -29926,7 +29926,7 @@
           {
             "id": "virile-adjective-3",
             "definition": "characterized by energy and vigor",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "a virile and ever stronger free society",
@@ -29996,7 +29996,7 @@
           {
             "id": "virilise-verb-1",
             "definition": "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy",
-            "translation": "",
+            "translation": "产生；实现",
             "examples": []
           }
         ]
@@ -30141,7 +30141,7 @@
           {
             "id": "virilize-verb-1",
             "definition": "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy",
-            "translation": "",
+            "translation": "产生；实现",
             "examples": []
           }
         ]
@@ -30255,7 +30255,7 @@
           {
             "id": "virological-adjective-1",
             "definition": "of or relating to the science of virology",
-            "translation": "",
+            "translation": "科学的",
             "examples": [
               {
                 "text": "My virological research concerning hepatitis C has flipped cornerstones and will be recognized for years to come.",
@@ -30357,7 +30357,7 @@
           {
             "id": "virtu-noun-2",
             "definition": "artistic quality",
-            "translation": "",
+            "translation": "艺术的质量",
             "examples": []
           },
           {
@@ -30440,7 +30440,7 @@
           {
             "id": "virtually-adverb-1",
             "definition": "slightly short of or not quite accomplished",
-            "translation": "",
+            "translation": "几乎",
             "examples": [
               {
                 "text": "Crime in the town has been virtually eliminated, but there are still a handful of complaints.",
@@ -30451,7 +30451,7 @@
           {
             "id": "virtually-adverb-2",
             "definition": "in essence or effect, but not in fact",
-            "translation": "",
+            "translation": "几乎",
             "examples": [
               {
                 "text": "After decades of progress, we have virtually eliminated the disease.",
@@ -30493,25 +30493,25 @@
           {
             "id": "virtue-noun-1",
             "definition": "the quality of doing what is right and avoiding what is wrong",
-            "translation": "",
+            "translation": "美德",
             "examples": []
           },
           {
             "id": "virtue-noun-2",
             "definition": "a particular moral excellence",
-            "translation": "",
+            "translation": "美德",
             "examples": []
           },
           {
             "id": "virtue-noun-3",
             "definition": "morality with respect to sexual relations",
-            "translation": "",
+            "translation": "美德",
             "examples": []
           },
           {
             "id": "virtue-noun-4",
             "definition": "any admirable quality or attribute",
-            "translation": "",
+            "translation": "美德",
             "examples": []
           }
         ]
@@ -31318,7 +31318,7 @@
           {
             "id": "visceral-adjective-2",
             "definition": "relating to or affecting the viscera; guts",
-            "translation": "",
+            "translation": "肠道的",
             "examples": [
               {
                 "text": "The patient was suffering from visceral bleeding.",
@@ -31329,7 +31329,7 @@
           {
             "id": "visceral-adjective-3",
             "definition": "relating to crude elements or emotions; earthy",
-            "translation": "",
+            "translation": "情感的",
             "examples": [
               {
                 "text": "It was weird holding an organ in my hands, the visceral quality of it was shocking to understand.",
@@ -31604,7 +31604,7 @@
           {
             "id": "viscometric-adjective-1",
             "definition": "of or relating to the measurement of viscosity",
-            "translation": "",
+            "translation": "测量的",
             "examples": []
           }
         ]
@@ -31726,7 +31726,7 @@
           {
             "id": "viscosimetric-adjective-1",
             "definition": "of or relating to the measurement of viscosity",
-            "translation": "",
+            "translation": "测量的",
             "examples": []
           }
         ]
@@ -32204,13 +32204,13 @@
           {
             "id": "visible-adjective-1",
             "definition": "present and easily available",
-            "translation": "",
+            "translation": "现在的",
             "examples": []
           },
           {
             "id": "visible-adjective-2",
             "definition": "obvious to the eye",
-            "translation": "",
+            "translation": "可见的",
             "examples": [
               {
                 "text": "a visible change of expression",
@@ -32221,7 +32221,7 @@
           {
             "id": "visible-adjective-3",
             "definition": "capable of being seen",
-            "translation": "",
+            "translation": "能够被",
             "examples": []
           }
         ]
@@ -32345,19 +32345,19 @@
           {
             "id": "vision-noun-1",
             "definition": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
-            "translation": "",
+            "translation": "愿景",
             "examples": []
           },
           {
             "id": "vision-noun-2",
             "definition": "the ability to see",
-            "translation": "",
+            "translation": "愿景",
             "examples": []
           },
           {
             "id": "vision-noun-3",
             "definition": "the perceptual experience of seeing",
-            "translation": "",
+            "translation": "愿景",
             "examples": [
               {
                 "text": "The runners emerged from the trees into the crowd's clear vision.",
@@ -32368,7 +32368,7 @@
           {
             "id": "vision-noun-4",
             "definition": "a vivid mental image",
-            "translation": "",
+            "translation": "愿景",
             "examples": [
               {
                 "text": "I had a vision of my own death.",
@@ -32379,7 +32379,7 @@
           {
             "id": "vision-noun-5",
             "definition": "a religious or mystical experience of a supernatural appearance",
-            "translation": "",
+            "translation": "愿景",
             "examples": [
               {
                 "text": "I had a vision of the Virgin Mary while I was putting butter on my toast.",
@@ -32504,13 +32504,13 @@
           {
             "id": "visit-noun-1",
             "definition": "a temporary stay (e.g., as a guest)",
-            "translation": "",
+            "translation": "访问",
             "examples": []
           },
           {
             "id": "visit-noun-2",
             "definition": "the act of going to see some person in a professional capacity",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "a visit to the dentist",
@@ -32521,13 +32521,13 @@
           {
             "id": "visit-noun-3",
             "definition": "the act of visiting in an official capacity (as for an inspection)",
-            "translation": "",
+            "translation": "访问",
             "examples": []
           },
           {
             "id": "visit-noun-4",
             "definition": "the act of going to see some person or place or thing for a short time",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "We dropped by our friend's house for a visit.",
@@ -32538,7 +32538,7 @@
           {
             "id": "visit-noun-5",
             "definition": "a meeting arranged by the visitor to see someone such as a doctor or lawyer for treatment or advice",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "I scheduled a visit to the dentist.",
@@ -32554,7 +32554,7 @@
           {
             "id": "visit-verb-1",
             "definition": "assail or inflict",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "They were visited with a terrible illness that killed them quickly.",
@@ -32565,7 +32565,7 @@
           {
             "id": "visit-verb-2",
             "definition": "impose something unpleasant",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "The principal visited their rage on the students.",
@@ -32576,13 +32576,13 @@
           {
             "id": "visit-verb-3",
             "definition": "talk socially without exchanging too much information",
-            "translation": "",
+            "translation": "访问",
             "examples": []
           },
           {
             "id": "visit-verb-4",
             "definition": "go to certain places as for sightseeing",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "Did you ever visit Paris?",
@@ -32593,7 +32593,7 @@
           {
             "id": "visit-verb-5",
             "definition": "come to see in an official or professional capacity",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "The governor visited the prison",
@@ -32604,19 +32604,19 @@
           {
             "id": "visit-verb-6",
             "definition": "pay a brief visit",
-            "translation": "",
+            "translation": "访问",
             "examples": []
           },
           {
             "id": "visit-verb-7",
             "definition": "go to see a place, as for entertainment",
-            "translation": "",
+            "translation": "访问",
             "examples": []
           },
           {
             "id": "visit-verb-8",
             "definition": "stay with as a guest",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "Every summer, we visited our relatives in the country for a month",
@@ -32642,7 +32642,7 @@
       },
       {
         "text": "visit upon",
-        "translation": ""
+        "translation": "访问在...上"
       },
       {
         "text": "visit with",
@@ -32753,7 +32753,7 @@
           {
             "id": "visiting-noun-1",
             "definition": "the activity of making visits",
-            "translation": "",
+            "translation": "访问",
             "examples": [
               {
                 "text": "The purpose of the organization was to promote homes, clubs, visiting, and other services.",
@@ -32803,7 +32803,7 @@
           {
             "id": "visitor-noun-1",
             "definition": "someone who visits",
-            "translation": "",
+            "translation": "访客",
             "examples": []
           }
         ]
@@ -32964,7 +32964,7 @@
           {
             "id": "visual-adjective-2",
             "definition": "relating to or using sight",
-            "translation": "",
+            "translation": "视力的",
             "examples": [
               {
                 "text": "My visual abilities were impaired by the smoke grenade.",
@@ -33036,7 +33036,7 @@
           {
             "id": "visualise-verb-1",
             "definition": "to make visible",
-            "translation": "",
+            "translation": "制造可见的",
             "examples": [
               {
                 "text": "With this machine, ultrasound can be visualized.",
@@ -33047,7 +33047,7 @@
           {
             "id": "visualise-verb-2",
             "definition": "to imagine",
-            "translation": "",
+            "translation": "想象",
             "examples": []
           },
           {
@@ -33210,7 +33210,7 @@
           {
             "id": "visualize-verb-1",
             "definition": "to make visible",
-            "translation": "",
+            "translation": "制造可见的",
             "examples": [
               {
                 "text": "With this machine, ultrasound can be visualized.",
@@ -33337,7 +33337,7 @@
           {
             "id": "visually-adverb-1",
             "definition": "with respect to vision",
-            "translation": "",
+            "translation": "视觉的地",
             "examples": [
               {
                 "text": "The TV picture is visually distorted.",
@@ -33381,7 +33381,7 @@
           {
             "id": "vital-adjective-1",
             "definition": "manifesting or characteristic of life",
-            "translation": "",
+            "translation": "至关重要的",
             "examples": [
               {
                 "text": "a vital, living organism",
@@ -33392,13 +33392,13 @@
           {
             "id": "vital-adjective-2",
             "definition": "full of spirit",
-            "translation": "",
+            "translation": "充满",
             "examples": []
           },
           {
             "id": "vital-adjective-3",
             "definition": "performing an essential function in the living body",
-            "translation": "",
+            "translation": "至关重要的",
             "examples": [
               {
                 "text": "vital organs",
@@ -33409,7 +33409,7 @@
           {
             "id": "vital-adjective-4",
             "definition": "urgently needed",
-            "translation": "",
+            "translation": "至关重要的",
             "examples": []
           }
         ]
@@ -33442,7 +33442,7 @@
           {
             "id": "vitalisation-noun-1",
             "definition": "the state of being vitalized and filled with life",
-            "translation": "",
+            "translation": "…的状态",
             "examples": []
           }
         ]
@@ -33470,7 +33470,7 @@
           {
             "id": "vitalise-verb-1",
             "definition": "make more lively or vigorous",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "The treatment at the spa vitalized the old man",
@@ -33666,7 +33666,7 @@
           {
             "id": "vitalization-noun-1",
             "definition": "the state of being vitalized and filled with life",
-            "translation": "",
+            "translation": "…的状态",
             "examples": []
           }
         ]
@@ -33700,7 +33700,7 @@
           {
             "id": "vitalize-verb-1",
             "definition": "make more lively or vigorous",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "The treatment at the spa vitalized the old man",
@@ -33809,7 +33809,7 @@
           {
             "id": "vitally-adverb-1",
             "definition": "to a vital degree",
-            "translation": "",
+            "translation": "至关重要的度",
             "examples": [
               {
                 "text": "This is vitally important.",
@@ -33879,7 +33879,7 @@
           {
             "id": "vitals-noun-1",
             "definition": "medical measurements of heart rate and other indicators of health",
-            "translation": "",
+            "translation": "至关重要的",
             "examples": [
               {
                 "text": "The doctor took a measurement of my vitals.",
@@ -33890,7 +33890,7 @@
           {
             "id": "vitals-noun-2",
             "definition": "bodily organs that are essential for life",
-            "translation": "",
+            "translation": "至关重要的",
             "examples": [
               {
                 "text": "Thank goodness I didn't get shot in my vitals.",
@@ -33927,7 +33927,7 @@
           {
             "id": "vitamin-noun-1",
             "definition": "any of a group of organic substances essential in small quantities to normal metabolism",
-            "translation": "",
+            "translation": "维生素",
             "examples": []
           }
         ]
@@ -33955,7 +33955,7 @@
           {
             "id": "vitaminise-verb-1",
             "definition": "add vitamins as a supplement",
-            "translation": "",
+            "translation": "添加维生素一个一个补充",
             "examples": [
               {
                 "text": "vitaminized processed foods",
@@ -33988,7 +33988,7 @@
           {
             "id": "vitaminize-verb-1",
             "definition": "add vitamins as a supplement",
-            "translation": "",
+            "translation": "添加维生素一个一个补充",
             "examples": [
               {
                 "text": "vitaminized processed foods",
@@ -34224,7 +34224,7 @@
           {
             "id": "vitiliginous-adjective-1",
             "definition": "of or relating to or having vitiligo",
-            "translation": "",
+            "translation": "有的",
             "examples": []
           }
         ]
@@ -34312,7 +34312,7 @@
           {
             "id": "vitreous-adjective-1",
             "definition": "of ceramics, having the surface made shiny and nonporous by fusing a vitreous solution to it",
-            "translation": "",
+            "translation": "解决方案的",
             "examples": [
               {
                 "text": "I prefer vitreous ceramics.",
@@ -34323,7 +34323,7 @@
           {
             "id": "vitreous-adjective-2",
             "definition": "relating to or resembling or derived from or containing glass",
-            "translation": "",
+            "translation": "玻璃的",
             "examples": [
               {
                 "text": "These vitreous rocks will be a nice addition to my collection.",
@@ -34442,7 +34442,7 @@
           {
             "id": "vitrify-verb-1",
             "definition": "to change into glass or a glass-like substance by applying heat",
-            "translation": "",
+            "translation": "变成",
             "examples": []
           }
         ]
@@ -34559,7 +34559,7 @@
           {
             "id": "vitriolic-adjective-1",
             "definition": "of a substance, an especially strong acid",
-            "translation": "",
+            "translation": "强壮的的",
             "examples": [
               {
                 "text": "The vitriolic liquid corroded through the metal.",
@@ -34644,7 +34644,7 @@
           {
             "id": "vituperate-verb-1",
             "definition": "to spread negative information about",
-            "translation": "",
+            "translation": "传播消极的信息关于",
             "examples": [
               {
                 "text": "Don't vituperate your colleagues.",
@@ -34975,7 +34975,7 @@
           {
             "id": "vivid-adjective-1",
             "definition": "having the highest saturation of color",
-            "translation": "",
+            "translation": "生动的",
             "examples": [
               {
                 "text": "The vivid green walls added a playfulness to the room.",
@@ -34986,7 +34986,7 @@
           {
             "id": "vivid-adjective-2",
             "definition": "having striking color",
-            "translation": "",
+            "translation": "生动的",
             "examples": [
               {
                 "text": "The vivid bird could be seen from far away.",
@@ -34997,7 +34997,7 @@
           {
             "id": "vivid-adjective-3",
             "definition": "having the clarity and freshness of immediate experience",
-            "translation": "",
+            "translation": "生动的",
             "examples": [
               {
                 "text": "I have a vivid recollection of the day I was married.",
@@ -35008,7 +35008,7 @@
           {
             "id": "vivid-adjective-4",
             "definition": "evoking lifelike images within the mind",
-            "translation": "",
+            "translation": "生动的",
             "examples": [
               {
                 "text": "The vivid writing transported the reader to another world.",
@@ -35043,7 +35043,7 @@
           {
             "id": "vividly-adverb-1",
             "definition": "in a vivid manner",
-            "translation": "",
+            "translation": "生动的地",
             "examples": [
               {
                 "text": "They described their adventures abroad vividly.",
@@ -35237,7 +35237,7 @@
           {
             "id": "vivisect-verb-1",
             "definition": "to cut a body open while still alive",
-            "translation": "",
+            "translation": "切割一个身体开着的当仍然活着的",
             "examples": [
               {
                 "text": "It's considered unethical to vivisect animals in some parts of the world.",
@@ -35331,7 +35331,7 @@
           {
             "id": "vixen-noun-1",
             "definition": "a female fox",
-            "translation": "",
+            "translation": "一个女性的狐狸",
             "examples": [
               {
                 "text": "I took some great photos of a vixen in the snow before it dashed off.",
@@ -35654,13 +35654,13 @@
           {
             "id": "vocabulary-noun-1",
             "definition": "a language user's knowledge of words",
-            "translation": "",
+            "translation": "词汇",
             "examples": []
           },
           {
             "id": "vocabulary-noun-2",
             "definition": "the system of techniques or symbols serving as a means of expression, typically in an art or craft",
-            "translation": "",
+            "translation": "词汇",
             "examples": [
               {
                 "text": "The professor introduced a wide vocabulary of mathematical techniques.",
@@ -35671,7 +35671,7 @@
           {
             "id": "vocabulary-noun-3",
             "definition": "a listing of the words used in some enterprise",
-            "translation": "",
+            "translation": "词汇",
             "examples": []
           }
         ]
@@ -35716,7 +35716,7 @@
           {
             "id": "vocal-adjective-2",
             "definition": "full of the sound of voices",
-            "translation": "",
+            "translation": "充满",
             "examples": [
               {
                 "text": "The playground was vocal with the shouts and laughter of children.",
@@ -35738,7 +35738,7 @@
           {
             "id": "vocal-adjective-4",
             "definition": "relating to or designed for or using the singing voice",
-            "translation": "",
+            "translation": "声音的",
             "examples": [
               {
                 "text": "The singer's vocal technique is excellent.",
@@ -35787,7 +35787,7 @@
           {
             "id": "vocalic-adjective-1",
             "definition": "being, containing or characterized by vowels",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "Vocalic sounds are common in English.",
@@ -35875,7 +35875,7 @@
           {
             "id": "vocalise-verb-3",
             "definition": "express or state clearly",
-            "translation": "",
+            "translation": "陈述；说明",
             "examples": []
           },
           {
@@ -35917,7 +35917,7 @@
           {
             "id": "vocaliser-noun-1",
             "definition": "a person who sings",
-            "translation": "",
+            "translation": "唱的人",
             "examples": []
           },
           {
@@ -35991,7 +35991,7 @@
           {
             "id": "vocalist-noun-1",
             "definition": "a person who sings",
-            "translation": "",
+            "translation": "唱的人",
             "examples": [
               {
                 "text": "The band is looking for a new vocalist.",
@@ -36079,7 +36079,7 @@
           {
             "id": "vocalize-verb-3",
             "definition": "express or state clearly",
-            "translation": "",
+            "translation": "陈述；说明",
             "examples": []
           },
           {
@@ -36121,7 +36121,7 @@
           {
             "id": "vocalizer-noun-1",
             "definition": "a person who sings",
-            "translation": "",
+            "translation": "唱的人",
             "examples": []
           },
           {
@@ -36269,7 +36269,7 @@
           {
             "id": "vocational-adjective-1",
             "definition": "of or relating to a vocation or occupation",
-            "translation": "",
+            "translation": "职业的",
             "examples": []
           }
         ]
@@ -36330,7 +36330,7 @@
           {
             "id": "vocative-adjective-1",
             "definition": "relating to a case used in some languages",
-            "translation": "",
+            "translation": "语言的",
             "examples": [
               {
                 "text": "vocative verb endings",
@@ -36757,7 +36757,7 @@
           {
             "id": "voice-noun-1",
             "definition": "a means or agency by which something is expressed or communicated",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "the voice of the law",
@@ -36768,7 +36768,7 @@
           {
             "id": "voice-noun-2",
             "definition": "the distinctive quality or pitch or condition of a person's speech",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "A shrill voice sounded behind us",
@@ -36779,7 +36779,7 @@
           {
             "id": "voice-noun-3",
             "definition": "the ability to speak",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "I lost my voice.",
@@ -36790,19 +36790,19 @@
           {
             "id": "voice-noun-4",
             "definition": "the melody carried by a particular voice or instrument in polyphonic music",
-            "translation": "",
+            "translation": "声音",
             "examples": []
           },
           {
             "id": "voice-noun-5",
             "definition": "expressing in coherent verbal form",
-            "translation": "",
+            "translation": "声音",
             "examples": []
           },
           {
             "id": "voice-noun-6",
             "definition": "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "Their voice echoed through the building.",
@@ -36813,7 +36813,7 @@
           {
             "id": "voice-noun-7",
             "definition": "something suggestive of speech in being a medium of expression",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "the wee small voice of conscience",
@@ -36824,7 +36824,7 @@
           {
             "id": "voice-noun-8",
             "definition": "a sound suggestive of a vocal utterance",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "the noisy voice of the waterfall",
@@ -36835,13 +36835,13 @@
           {
             "id": "voice-noun-9",
             "definition": "an advocate who represents someone else's policy or purpose",
-            "translation": "",
+            "translation": "声音",
             "examples": []
           },
           {
             "id": "voice-noun-10",
             "definition": "metonymy for a singer",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "There is no sound better than a trained voice.",
@@ -36852,7 +36852,7 @@
           {
             "id": "voice-noun-11",
             "definition": "(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes",
-            "translation": "",
+            "translation": "声音",
             "examples": []
           }
         ]
@@ -36863,7 +36863,7 @@
           {
             "id": "voice-verb-1",
             "definition": "allow something to be expressed",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "I've already voiced my concern.",
@@ -36874,7 +36874,7 @@
           {
             "id": "voice-verb-2",
             "definition": "utter with vibrating vocal chords",
-            "translation": "",
+            "translation": "声音",
             "examples": []
           }
         ]
@@ -36883,7 +36883,7 @@
     "phrases": [
       {
         "text": "voice back",
-        "translation": ""
+        "translation": "声音背"
       },
       {
         "text": "voice in the wilderness",
@@ -36951,7 +36951,7 @@
           {
             "id": "voiced-adjective-1",
             "definition": "produced with vibration of the vocal cords",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "The sound of \"z\" in English is voiced, but \"s\" is not.",
@@ -36962,7 +36962,7 @@
           {
             "id": "voiced-adjective-2",
             "definition": "said or expressed out loud",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "A frequently-voiced opinion is that there should be peace on earth.",
@@ -37195,7 +37195,7 @@
           {
             "id": "voicing-noun-1",
             "definition": "the act of adjusting an organ pipe or wind instrument so that it conforms to the standards of tone and pitch and color",
-            "translation": "",
+            "translation": "声音",
             "examples": [
               {
                 "text": "We are voicing the organ tomorrow morning.",
@@ -37306,7 +37306,7 @@
           {
             "id": "void-verb-2",
             "definition": "take away the legal force of or render ineffective",
-            "translation": "",
+            "translation": "拿",
             "examples": []
           },
           {
@@ -37372,7 +37372,7 @@
           {
             "id": "voidable-adjective-1",
             "definition": "capable of being rescinded or voided",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "This check is voidable.",
@@ -37590,7 +37590,7 @@
           {
             "id": "volar-adjective-1",
             "definition": "relating to the palm of the hand or the sole of the foot",
-            "translation": "",
+            "translation": "英尺的",
             "examples": [
               {
                 "text": "Your volar surface is rough.",
@@ -37732,7 +37732,7 @@
           {
             "id": "volatilisable-adjective-1",
             "definition": "capable of being dispersed into a vapour",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "The volatilisable substance had to be kept in a fume cupboard.",
@@ -37765,7 +37765,7 @@
           {
             "id": "volatilise-verb-1",
             "definition": "make volatile",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -37879,7 +37879,7 @@
           {
             "id": "volatilizable-adjective-1",
             "definition": "capable of being dispersed into a vapour",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "The volatilisable substance had to be kept in a fume cupboard.",
@@ -37916,7 +37916,7 @@
           {
             "id": "volatilize-verb-1",
             "definition": "make volatile",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -37979,7 +37979,7 @@
           {
             "id": "volcanic-adjective-1",
             "definition": "of or relating to igneous rock produced by eruption and solidified on or near the earth's surface",
-            "translation": "",
+            "translation": "表面的",
             "examples": [
               {
                 "text": "This volcanic rock formation formed over 1 million years ago.",
@@ -38001,7 +38001,7 @@
           {
             "id": "volcanic-adjective-3",
             "definition": "relating to or produced by or consisting of volcanoes",
-            "translation": "",
+            "translation": "由...组成的",
             "examples": [
               {
                 "text": "The volcanic steam can reach temperatures of 1000 degrees.",
@@ -38223,7 +38223,7 @@
           {
             "id": "volition-noun-2",
             "definition": "the act of making a choice",
-            "translation": "",
+            "translation": "制造行为",
             "examples": [
               {
                 "text": "followed my father of my own volition",
@@ -38515,13 +38515,13 @@
           {
             "id": "voltage-noun-1",
             "definition": "the difference in electrical charge between two points in a circuit expressed in volts",
-            "translation": "",
+            "translation": "电压",
             "examples": []
           },
           {
             "id": "voltage-noun-2",
             "definition": "the rate at which energy is drawn from a source that produces a flow of electricity in a circuit",
-            "translation": "",
+            "translation": "电压",
             "examples": []
           }
         ]
@@ -38530,11 +38530,11 @@
     "phrases": [
       {
         "text": "voltage across",
-        "translation": ""
+        "translation": "电压穿过"
       },
       {
         "text": "voltage across poles",
-        "translation": ""
+        "translation": "电压穿过杆"
       },
       {
         "text": "voltage at discharge end",
@@ -38558,15 +38558,15 @@
       },
       {
         "text": "voltage below level",
-        "translation": ""
+        "translation": "电压下面水平"
       },
       {
         "text": "voltage between layers",
-        "translation": ""
+        "translation": "电压在...之间层"
       },
       {
         "text": "voltage between lines",
-        "translation": ""
+        "translation": "电压在...之间线"
       },
       {
         "text": "voltage between lines of a polyphase system",
@@ -38578,11 +38578,11 @@
       },
       {
         "text": "voltage between phases",
-        "translation": ""
+        "translation": "电压在...之间阶段"
       },
       {
         "text": "voltage between segments",
-        "translation": ""
+        "translation": "电压在...之间部分"
       },
       {
         "text": "voltage between swiching segments",
@@ -38660,7 +38660,7 @@
           {
             "id": "voltaic-adjective-1",
             "definition": "pertaining to or producing electric current by chemical action",
-            "translation": "",
+            "translation": "化学的的",
             "examples": []
           }
         ]
@@ -38889,13 +38889,13 @@
           {
             "id": "volume-noun-1",
             "definition": "physical objects consisting of a number of pages bound together",
-            "translation": "",
+            "translation": "体积",
             "examples": []
           },
           {
             "id": "volume-noun-2",
             "definition": "the magnitude of sound, usually in a specified direction",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "I like to play music at a pleasant volume.",
@@ -38906,13 +38906,13 @@
           {
             "id": "volume-noun-3",
             "definition": "the property of something that is great in magnitude",
-            "translation": "",
+            "translation": "体积",
             "examples": []
           },
           {
             "id": "volume-noun-4",
             "definition": "a publication that is one of a set of several similar publications",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "the third volume was missing",
@@ -38923,7 +38923,7 @@
           {
             "id": "volume-noun-5",
             "definition": "the amount of 3-dimensional space occupied by an object",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "the gas expanded to twice its original volume",
@@ -38934,7 +38934,7 @@
           {
             "id": "volume-noun-6",
             "definition": "a relative amount",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "mix one volume of the solution with ten volumes of water",
@@ -38980,7 +38980,7 @@
           {
             "id": "volumed-adjective-1",
             "definition": "furnished with volumes",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "I live in a large room volumed with ancient books.",
@@ -38991,7 +38991,7 @@
           {
             "id": "volumed-adjective-2",
             "definition": "formed or rising in rounded masses",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "The structure was gasping with the volumed smoke.",
@@ -39002,7 +39002,7 @@
           {
             "id": "volumed-adjective-3",
             "definition": "consisting of or having a given number or kind of volumes",
-            "translation": "",
+            "translation": "体积",
             "examples": [
               {
                 "text": "The poet's volumed works are on sale.",
@@ -39065,7 +39065,7 @@
           {
             "id": "volumetric-adjective-1",
             "definition": "of or relating to measurement by volume",
-            "translation": "",
+            "translation": "体积的",
             "examples": [
               {
                 "text": "volumetric analysis",
@@ -39100,7 +39100,7 @@
           {
             "id": "volumetrical-adjective-1",
             "definition": "of or relating to measurement by volume",
-            "translation": "",
+            "translation": "体积的",
             "examples": []
           }
         ]
@@ -39322,13 +39322,13 @@
           {
             "id": "voluntary-adjective-1",
             "definition": "of your own free will or design",
-            "translation": "",
+            "translation": "设计的",
             "examples": []
           },
           {
             "id": "voluntary-adjective-2",
             "definition": "controlled by individual volition",
-            "translation": "",
+            "translation": "自愿的",
             "examples": [
               {
                 "text": "voluntary motions",
@@ -39344,13 +39344,13 @@
           {
             "id": "voluntary-noun-1",
             "definition": "composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious service or musical performance",
-            "translation": "",
+            "translation": "自愿的",
             "examples": []
           },
           {
             "id": "voluntary-noun-2",
             "definition": "(military) a person who freely enlists for service",
-            "translation": "",
+            "translation": "自愿的",
             "examples": []
           }
         ]
@@ -39393,7 +39393,7 @@
           {
             "id": "volunteer-adjective-1",
             "definition": "without payment",
-            "translation": "",
+            "translation": "志愿者",
             "examples": []
           }
         ]
@@ -39404,13 +39404,13 @@
           {
             "id": "volunteer-noun-1",
             "definition": "a person who performs voluntary work",
-            "translation": "",
+            "translation": "执行自愿的工作的人",
             "examples": []
           },
           {
             "id": "volunteer-noun-2",
             "definition": "(military) a person who freely enlists for service",
-            "translation": "",
+            "translation": "志愿者",
             "examples": []
           }
         ]
@@ -39421,7 +39421,7 @@
           {
             "id": "volunteer-verb-1",
             "definition": "tell voluntarily",
-            "translation": "",
+            "translation": "志愿者",
             "examples": [
               {
                 "text": "I volunteered the information.",
@@ -39432,13 +39432,13 @@
           {
             "id": "volunteer-verb-2",
             "definition": "do volunteer work",
-            "translation": "",
+            "translation": "志愿者",
             "examples": []
           },
           {
             "id": "volunteer-verb-3",
             "definition": "agree freely",
-            "translation": "",
+            "translation": "志愿者",
             "examples": [
               {
                 "text": "I volunteered to drive our guests home.",
@@ -40552,7 +40552,7 @@
           {
             "id": "vote-noun-1",
             "definition": "the opinion of a group as determined by voting",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "they put the question to a vote",
@@ -40563,7 +40563,7 @@
           {
             "id": "vote-noun-2",
             "definition": "a choice that is made by counting the number of people in favor of each alternative",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "there were only 17 votes in favor of the motion",
@@ -40574,13 +40574,13 @@
           {
             "id": "vote-noun-3",
             "definition": "a legal right guaranteed by the 15th amendment to the US Constitution",
-            "translation": "",
+            "translation": "投票",
             "examples": []
           },
           {
             "id": "vote-noun-4",
             "definition": "the total number of voters who participated",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "they are expecting a large vote",
@@ -40591,7 +40591,7 @@
           {
             "id": "vote-noun-5",
             "definition": "a body of voters who have the same interests",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "The party failed to get the Black vote.",
@@ -40607,7 +40607,7 @@
           {
             "id": "vote-verb-1",
             "definition": "be guided by in voting",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "vote one's conscience",
@@ -40618,7 +40618,7 @@
           {
             "id": "vote-verb-2",
             "definition": "express one's preference for a candidate or for a measure or resolution",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "cast a vote",
@@ -40629,7 +40629,7 @@
           {
             "id": "vote-verb-3",
             "definition": "bring into existence or make available by vote",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "They voted aid for the underdeveloped countries in Asia",
@@ -40640,7 +40640,7 @@
           {
             "id": "vote-verb-4",
             "definition": "express a choice or opinion",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "I vote that we all go home",
@@ -40651,7 +40651,7 @@
           {
             "id": "vote-verb-5",
             "definition": "express one's choice or preference by vote",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "vote the Democratic ticket",
@@ -40665,7 +40665,7 @@
     "phrases": [
       {
         "text": "vote against",
-        "translation": ""
+        "translation": "投票反对"
       },
       {
         "text": "vote against sb",
@@ -40729,11 +40729,11 @@
       },
       {
         "text": "vote down",
-        "translation": ""
+        "translation": "投票向下"
       },
       {
         "text": "vote down a proposal",
-        "translation": ""
+        "translation": "投票向下一个提议"
       },
       {
         "text": "vote in",
@@ -40789,7 +40789,7 @@
       },
       {
         "text": "vote through",
-        "translation": ""
+        "translation": "投票通过"
       },
       {
         "text": "vote with",
@@ -40860,7 +40860,7 @@
           {
             "id": "voter-noun-1",
             "definition": "a citizen who has a legal right to vote",
-            "translation": "",
+            "translation": "选民",
             "examples": []
           }
         ]
@@ -40890,7 +40890,7 @@
           {
             "id": "voting-noun-1",
             "definition": "a choice that is made by counting the number of people in favor of each alternative",
-            "translation": "",
+            "translation": "投票",
             "examples": [
               {
                 "text": "Voting is an important part of our political process.",
@@ -40908,7 +40908,7 @@
       },
       {
         "text": "voting down",
-        "translation": ""
+        "translation": "投票向下"
       },
       {
         "text": "voting in",
@@ -40924,7 +40924,7 @@
       },
       {
         "text": "voting through",
-        "translation": ""
+        "translation": "投票通过"
       },
       {
         "text": "voting with foot",
@@ -41301,13 +41301,13 @@
           {
             "id": "vowel-noun-1",
             "definition": "a speech sound made with the vocal tract open",
-            "translation": "",
+            "translation": "元音",
             "examples": []
           },
           {
             "id": "vowel-noun-2",
             "definition": "a letter of the alphabet standing for a spoken vowel",
-            "translation": "",
+            "translation": "元音",
             "examples": []
           }
         ]
@@ -41669,7 +41669,7 @@
           {
             "id": "voyeuristic-adjective-1",
             "definition": "of or relating to voyeurs or voyeurism",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "Our voyeuristic pleasures aren't for everyone.",
@@ -41704,7 +41704,7 @@
           {
             "id": "voyeuristical-adjective-1",
             "definition": "of or relating to voyeurs or voyeurism",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "This film feels voyeuristical.",
@@ -42130,7 +42130,7 @@
           {
             "id": "vulgar-adjective-3",
             "definition": "of or associated with the great masses of people",
-            "translation": "",
+            "translation": "人民的",
             "examples": []
           },
           {
@@ -42199,7 +42199,7 @@
           {
             "id": "vulgarisation-noun-1",
             "definition": "the act of making something attractive to the general public",
-            "translation": "",
+            "translation": "制造行为",
             "examples": []
           },
           {
@@ -42410,7 +42410,7 @@
           {
             "id": "vulgarization-noun-1",
             "definition": "the act of making something attractive to the general public",
-            "translation": "",
+            "translation": "制造行为",
             "examples": []
           },
           {
@@ -42592,7 +42592,7 @@
           {
             "id": "vulnerability-noun-2",
             "definition": "the state of being vulnerable or exposed",
-            "translation": "",
+            "translation": "…的状态",
             "examples": [
               {
                 "text": "Our vulnerability to litigation must be mitigated.",
@@ -42636,7 +42636,7 @@
           {
             "id": "vulnerable-adjective-1",
             "definition": "capable of being wounded or hurt",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "The human body has many vulnerable parts.",
@@ -42647,7 +42647,7 @@
           {
             "id": "vulnerable-adjective-2",
             "definition": "susceptible to criticism or persuasion or temptation",
-            "translation": "",
+            "translation": "脆弱的",
             "examples": [
               {
                 "text": "The government is vulnerable to bribery.",
@@ -42658,7 +42658,7 @@
           {
             "id": "vulnerable-adjective-3",
             "definition": "susceptible to attack",
-            "translation": "",
+            "translation": "脆弱的",
             "examples": [
               {
                 "text": "The bridge is vulnerable from the south.",
@@ -42950,7 +42950,7 @@
           {
             "id": "vulval-adjective-1",
             "definition": "of or relating to the vulva",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -42980,7 +42980,7 @@
           {
             "id": "vulvar-adjective-1",
             "definition": "of or relating to the vulva",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]

@@ -21,7 +21,7 @@
           {
             "id": "y-noun-1",
             "definition": "the 25th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母表的第25个字母",
             "examples": []
           }
         ]
@@ -193,7 +193,7 @@
           {
             "id": "yack-noun-1",
             "definition": "noisy talk",
-            "translation": "",
+            "translation": "嘈杂的说话",
             "examples": [
               {
                 "text": "Quiet your yack.",
@@ -332,7 +332,7 @@
           {
             "id": "yak-noun-2",
             "definition": "noisy talk",
-            "translation": "",
+            "translation": "嘈杂的说话",
             "examples": []
           }
         ]
@@ -663,7 +663,7 @@
           {
             "id": "yankee-adjective-1",
             "definition": "relating to an inhabitant of a northern state in the United States, especially a Union soldier during the Civil War, typically used by inhabitants of the southern United States as a pejorative term",
-            "translation": "",
+            "translation": "术语的",
             "examples": [
               {
                 "text": "I don't care for Yankee food.",
@@ -806,19 +806,19 @@
           {
             "id": "yard-noun-1",
             "definition": "an enclosure for animals (as chicken or livestock)",
-            "translation": "",
+            "translation": "码",
             "examples": []
           },
           {
             "id": "yard-noun-2",
             "definition": "a long horizontal spar tapered at the end and used to support and spread a square sail or lateen",
-            "translation": "",
+            "translation": "码",
             "examples": []
           },
           {
             "id": "yard-noun-3",
             "definition": "the enclosed land around a house or other building",
-            "translation": "",
+            "translation": "码",
             "examples": [
               {
                 "text": "it was a small house with almost no yard",
@@ -829,13 +829,13 @@
           {
             "id": "yard-noun-4",
             "definition": "an area having a network of railway tracks and sidings for storage and maintenance of cars and engines",
-            "translation": "",
+            "translation": "码",
             "examples": []
           },
           {
             "id": "yard-noun-5",
             "definition": "a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)",
-            "translation": "",
+            "translation": "码",
             "examples": [
               {
                 "text": "they opened a repair yard on the edge of town",
@@ -846,13 +846,13 @@
           {
             "id": "yard-noun-6",
             "definition": "a tract of land where logs are accumulated",
-            "translation": "",
+            "translation": "码",
             "examples": []
           },
           {
             "id": "yard-noun-7",
             "definition": "a unit of volume, as for sand or gravel",
-            "translation": "",
+            "translation": "码",
             "examples": [
               {
                 "text": "We'll need 1000 yards to finish this project.",
@@ -863,13 +863,13 @@
           {
             "id": "yard-noun-8",
             "definition": "a unit of length equal to 3 feet",
-            "translation": "",
+            "translation": "码",
             "examples": []
           },
           {
             "id": "yard-noun-9",
             "definition": "the cardinal number that is the product of 10 and 100",
-            "translation": "",
+            "translation": "码",
             "examples": []
           }
         ]
@@ -2132,13 +2132,13 @@
           {
             "id": "year-noun-1",
             "definition": "a body of students who graduate together",
-            "translation": "",
+            "translation": "年",
             "examples": []
           },
           {
             "id": "year-noun-2",
             "definition": "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
-            "translation": "",
+            "translation": "年",
             "examples": [
               {
                 "text": "a Martian year takes 687 of our days",
@@ -2149,7 +2149,7 @@
           {
             "id": "year-noun-3",
             "definition": "a period of time containing 365 days",
-            "translation": "",
+            "translation": "年",
             "examples": [
               {
                 "text": "I am four years old.",
@@ -2160,7 +2160,7 @@
           {
             "id": "year-noun-4",
             "definition": "a period of time occupying a regular part of a calendar year that is used for some particular activity",
-            "translation": "",
+            "translation": "年",
             "examples": [
               {
                 "text": "a school year",
@@ -2174,11 +2174,11 @@
     "phrases": [
       {
         "text": "year after year",
-        "translation": ""
+        "translation": "年之后年"
       },
       {
         "text": "year around",
-        "translation": ""
+        "translation": "年周围"
       },
       {
         "text": "year before last",
@@ -2202,31 +2202,31 @@
       },
       {
         "text": "year round",
-        "translation": ""
+        "translation": "年圆的"
       },
       {
         "text": "year round air conditioning",
-        "translation": ""
+        "translation": "年圆的空气条件"
       },
       {
         "text": "year round employment",
-        "translation": ""
+        "translation": "年圆的就业"
       },
       {
         "text": "year round goods",
-        "translation": ""
+        "translation": "年圆的货物"
       },
       {
         "text": "year round heating load",
-        "translation": ""
+        "translation": "年圆的热负载"
       },
       {
         "text": "year round type",
-        "translation": ""
+        "translation": "年圆的类型"
       },
       {
         "text": "year round work schedule",
-        "translation": ""
+        "translation": "年圆的工作日程"
       },
       {
         "text": "year to dates",
@@ -2234,7 +2234,7 @@
       },
       {
         "text": "year under review",
-        "translation": ""
+        "translation": "年在...下审查"
       }
     ]
   },
@@ -2306,7 +2306,7 @@
           {
             "id": "yearling-noun-3",
             "definition": "a young child",
-            "translation": "",
+            "translation": "一个年轻的儿童",
             "examples": []
           }
         ]
@@ -2642,7 +2642,7 @@
           {
             "id": "yeastlike-adjective-1",
             "definition": "of or resembling or containing yeast",
-            "translation": "",
+            "translation": "包含的",
             "examples": []
           }
         ]
@@ -2687,7 +2687,7 @@
           {
             "id": "yeasty-adjective-3",
             "definition": "of or resembling or containing yeast",
-            "translation": "",
+            "translation": "包含的",
             "examples": []
           }
         ]
@@ -2762,7 +2762,7 @@
           {
             "id": "yell-noun-1",
             "definition": "a loud utterance",
-            "translation": "",
+            "translation": "喊叫",
             "examples": [
               {
                 "text": "They let loose a yell when they saw the party.",
@@ -2773,7 +2773,7 @@
           {
             "id": "yell-noun-2",
             "definition": "a loud utterance of emotion, especially when inarticulate",
-            "translation": "",
+            "translation": "喊叫",
             "examples": [
               {
                 "text": "The crowd let out an angry yell.",
@@ -2789,7 +2789,7 @@
           {
             "id": "yell-verb-1",
             "definition": "to utter or declare in a very loud voice",
-            "translation": "",
+            "translation": "喊叫",
             "examples": [
               {
                 "text": "You don't have to yell the directions--I can hear you just fine!",
@@ -2800,7 +2800,7 @@
           {
             "id": "yell-verb-2",
             "definition": "to utter a sudden loud cry",
-            "translation": "",
+            "translation": "发出突然的大声",
             "examples": [
               {
                 "text": "The team yelled to the fans when they scored.",
@@ -2856,7 +2856,7 @@
           {
             "id": "yelled-adjective-1",
             "definition": "in a vehement outcry",
-            "translation": "",
+            "translation": "喊叫",
             "examples": [
               {
                 "text": "Your yelled warning was of no use; the car still didn't have time to stop.",
@@ -2926,7 +2926,7 @@
           {
             "id": "yelling-noun-1",
             "definition": "uttering a loud inarticulate cry as of pain or excitement",
-            "translation": "",
+            "translation": "喊叫",
             "examples": []
           }
         ]
@@ -2970,31 +2970,31 @@
           {
             "id": "yellow-adjective-1",
             "definition": "typical of tabloids",
-            "translation": "",
+            "translation": "黄色",
             "examples": []
           },
           {
             "id": "yellow-adjective-2",
             "definition": "easily frightened",
-            "translation": "",
+            "translation": "黄色",
             "examples": []
           },
           {
             "id": "yellow-adjective-3",
             "definition": "of the color intermediate between green and orange in the color spectrum",
-            "translation": "",
+            "translation": "光谱的",
             "examples": []
           },
           {
             "id": "yellow-adjective-4",
             "definition": "affected by jaundice which causes yellowing of skin etc",
-            "translation": "",
+            "translation": "黄色",
             "examples": []
           },
           {
             "id": "yellow-adjective-5",
             "definition": "cowardly or treacherous",
-            "translation": "",
+            "translation": "黄色",
             "examples": [
               {
                 "text": "the little yellow stain of treason-M.W.Straight",
@@ -3005,7 +3005,7 @@
           {
             "id": "yellow-adjective-6",
             "definition": "changed to a yellowish color by age",
-            "translation": "",
+            "translation": "黄色",
             "examples": [
               {
                 "text": "yellowed parchment",
@@ -3021,7 +3021,7 @@
           {
             "id": "yellow-noun-1",
             "definition": "yellow color or pigment",
-            "translation": "",
+            "translation": "黄色",
             "examples": []
           }
         ]
@@ -3032,7 +3032,7 @@
           {
             "id": "yellow-verb-1",
             "definition": "turn yellow",
-            "translation": "",
+            "translation": "黄色",
             "examples": [
               {
                 "text": "The pages of the book began to yellow",
@@ -3050,7 +3050,7 @@
       },
       {
         "text": "yellow back",
-        "translation": ""
+        "translation": "黄色背"
       }
     ]
   },
@@ -3145,7 +3145,7 @@
           {
             "id": "yellowed-adjective-1",
             "definition": "changed to a yellowish color by age",
-            "translation": "",
+            "translation": "黄色",
             "examples": [
               {
                 "text": "The yellowed parchment cracked at the slightest touch.",
@@ -3240,7 +3240,7 @@
           {
             "id": "yellowish-adjective-1",
             "definition": "of the color intermediate between green and orange in the color spectrum",
-            "translation": "",
+            "translation": "光谱的",
             "examples": [
               {
                 "text": "That car is an awful yellowish color.",
@@ -3480,7 +3480,7 @@
           {
             "id": "yemeni-adjective-1",
             "definition": "of or relating to or characteristic of Yemen or its inhabitants",
-            "translation": "",
+            "translation": "居民的",
             "examples": [
               {
                 "text": "The Yemeni mountains provide a harsh living environment.",
@@ -3698,7 +3698,7 @@
           {
             "id": "yes-noun-1",
             "definition": "an affirmative",
-            "translation": "",
+            "translation": "是",
             "examples": [
               {
                 "text": "I was hoping for a yes.",
@@ -3796,7 +3796,7 @@
           {
             "id": "yesterday-adverb-1",
             "definition": "on the day preceding today",
-            "translation": "",
+            "translation": "昨天",
             "examples": [
               {
                 "text": "Yesterday, the weather was beautiful.",
@@ -3807,7 +3807,7 @@
           {
             "id": "yesterday-adverb-2",
             "definition": "in the recent past",
-            "translation": "",
+            "translation": "昨天",
             "examples": [
               {
                 "text": "The election was news yesterday.",
@@ -3823,7 +3823,7 @@
           {
             "id": "yesterday-noun-1",
             "definition": "the day immediately before today",
-            "translation": "",
+            "translation": "昨天",
             "examples": [
               {
                 "text": "The news was in yesterday's newspapers.",
@@ -3834,7 +3834,7 @@
           {
             "id": "yesterday-noun-2",
             "definition": "the recent past",
-            "translation": "",
+            "translation": "昨天",
             "examples": [
               {
                 "text": "Yesterday's solutions are not good enough.",
@@ -3908,7 +3908,7 @@
           {
             "id": "yet-adverb-1",
             "definition": "to a greater degree or extent",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "We aim for yet better results.",
@@ -3919,7 +3919,7 @@
           {
             "id": "yet-adverb-2",
             "definition": "despite anything to the contrary, usually following a concession",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "You are right, yet I still disagree.",
@@ -3930,7 +3930,7 @@
           {
             "id": "yet-adverb-3",
             "definition": "up to the present time",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "I have yet to see the results.",
@@ -3941,7 +3941,7 @@
           {
             "id": "yet-adverb-4",
             "definition": "used in negative statement to describe a situation that has existed up to this point or up to the present time",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "Yet you have not lived up to expectations.",
@@ -3952,7 +3952,7 @@
           {
             "id": "yet-adverb-5",
             "definition": "used after a superlative",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "The violinist was the best yet.",
@@ -3963,7 +3963,7 @@
           {
             "id": "yet-adverb-6",
             "definition": "within an indefinite time or at an unspecified future time",
-            "translation": "",
+            "translation": "还",
             "examples": [
               {
                 "text": "The gardeners longed for the flowers that were yet to show themselves.",
@@ -4126,25 +4126,25 @@
           {
             "id": "yield-noun-1",
             "definition": "production of a certain amount",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-noun-2",
             "definition": "an amount of a product",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-noun-3",
             "definition": "the income or profit arising from such transactions as the sale of land or other property",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-noun-4",
             "definition": "the quantity of something (as a commodity) that is created (usually within a given period of time)",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           }
         ]
@@ -4155,7 +4155,7 @@
           {
             "id": "yield-verb-1",
             "definition": "end resistance, as under pressure or force",
-            "translation": "",
+            "translation": "产量",
             "examples": [
               {
                 "text": "The door yielded to repeated blows with a battering ram",
@@ -4166,73 +4166,73 @@
           {
             "id": "yield-verb-2",
             "definition": "consent reluctantly",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-3",
             "definition": "be willing to concede",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-4",
             "definition": "cease opposition",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-5",
             "definition": "be flexible under stress of physical force",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-6",
             "definition": "give or supply",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-7",
             "definition": "cause to happen or be responsible for",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-8",
             "definition": "move in order to make room for someone for something",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-9",
             "definition": "bring in",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-10",
             "definition": "give over",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-11",
             "definition": "be the cause or source of",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-12",
             "definition": "be fatally overwhelmed",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yield-verb-13",
             "definition": "give in, as to influence or pressure",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           }
         ]
@@ -4241,7 +4241,7 @@
     "phrases": [
       {
         "text": "yield ahead sign",
-        "translation": ""
+        "translation": "产量向前标志"
       },
       {
         "text": "yield away to temptation",
@@ -4363,7 +4363,7 @@
           {
             "id": "yielder-noun-1",
             "definition": "a person who yields or surrenders",
-            "translation": "",
+            "translation": "产量或投降的人",
             "examples": [
               {
                 "text": "The conquerers met with no yielders in their contested invasion.",
@@ -4403,7 +4403,7 @@
           {
             "id": "yielding-adjective-1",
             "definition": "tending to give in or surrender or agree",
-            "translation": "",
+            "translation": "产量",
             "examples": [
               {
                 "text": "too yielding to make a stand against any encroachments- V.I.Parrington",
@@ -4414,7 +4414,7 @@
           {
             "id": "yielding-adjective-2",
             "definition": "lacking stiffness and giving way to pressure",
-            "translation": "",
+            "translation": "产量",
             "examples": [
               {
                 "text": "a deep yielding layer of foam rubber",
@@ -4425,7 +4425,7 @@
           {
             "id": "yielding-adjective-3",
             "definition": "inclined to yield to argument or influence or control",
-            "translation": "",
+            "translation": "产量",
             "examples": [
               {
                 "text": "a timid yielding person",
@@ -4441,13 +4441,13 @@
           {
             "id": "yielding-noun-1",
             "definition": "the act of conceding or yielding",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           },
           {
             "id": "yielding-noun-2",
             "definition": "a verbal act of admitting defeat",
-            "translation": "",
+            "translation": "产量",
             "examples": []
           }
         ]
@@ -4997,7 +4997,7 @@
           {
             "id": "yodh-noun-1",
             "definition": "the 10th letter of the Hebrew alphabet",
-            "translation": "",
+            "translation": "希伯来字母表的第10个字母",
             "examples": [
               {
                 "text": "I have trouble pronouncing yodh.",
@@ -5163,7 +5163,7 @@
           {
             "id": "yogic-adjective-1",
             "definition": "of or relating to yoga",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "Yogic exercises have trimmed my belly.",
@@ -5198,7 +5198,7 @@
           {
             "id": "yogistic-adjective-1",
             "definition": "of or relating to yoga",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -5471,7 +5471,7 @@
           {
             "id": "yokelish-adjective-1",
             "definition": "relating to persons that are lacking in refinement or grace",
-            "translation": "",
+            "translation": "优雅的",
             "examples": [
               {
                 "text": "We did not want to appear yokelish to the visitors.",
@@ -5655,7 +5655,7 @@
           {
             "id": "yore-noun-1",
             "definition": "time long past",
-            "translation": "",
+            "translation": "时间长的过去的",
             "examples": [
               {
                 "text": "The card games of yore are mostly forgotten.",
@@ -5797,19 +5797,19 @@
           {
             "id": "young-adjective-1",
             "definition": "(of crops) harvested at an early stage of development",
-            "translation": "",
+            "translation": "年轻的",
             "examples": []
           },
           {
             "id": "young-adjective-2",
             "definition": "not tried or tested by experience",
-            "translation": "",
+            "translation": "年轻的",
             "examples": []
           },
           {
             "id": "young-adjective-3",
             "definition": "being in its early stage",
-            "translation": "",
+            "translation": "年轻的",
             "examples": [
               {
                 "text": "a young industry",
@@ -5820,7 +5820,7 @@
           {
             "id": "young-adjective-4",
             "definition": "of living things, especially persons, in an early period of life or development or growth",
-            "translation": "",
+            "translation": "增长的",
             "examples": [
               {
                 "text": "The young people played games in the park.",
@@ -5831,7 +5831,7 @@
           {
             "id": "young-adjective-5",
             "definition": "suggestive of youth",
-            "translation": "",
+            "translation": "年轻的",
             "examples": []
           }
         ]
@@ -5842,13 +5842,13 @@
           {
             "id": "young-noun-1",
             "definition": "any immature animal",
-            "translation": "",
+            "translation": "年轻的",
             "examples": []
           },
           {
             "id": "young-noun-2",
             "definition": "young people collectively",
-            "translation": "",
+            "translation": "年轻的",
             "examples": [
               {
                 "text": "rock music appeals to the young",
@@ -5922,7 +5922,7 @@
           {
             "id": "youngish-adjective-1",
             "definition": "somewhat young",
-            "translation": "",
+            "translation": "有点年轻的",
             "examples": [
               {
                 "text": "Their modern haircut contributed to their youngish appearance.",
@@ -5996,7 +5996,7 @@
           {
             "id": "youngster-noun-1",
             "definition": "a young person",
-            "translation": "",
+            "translation": "年轻人",
             "examples": [
               {
                 "text": "I was suspicious of the youngsters who were eyeballing my merchandise.",
@@ -6072,37 +6072,37 @@
           {
             "id": "youth-noun-1",
             "definition": "the freshness and vitality characteristic of a young person",
-            "translation": "",
+            "translation": "青年",
             "examples": []
           },
           {
             "id": "youth-noun-2",
             "definition": "young people collectively",
-            "translation": "",
+            "translation": "青年",
             "examples": []
           },
           {
             "id": "youth-noun-3",
             "definition": "a young person (especially a young man or boy)",
-            "translation": "",
+            "translation": "青年",
             "examples": []
           },
           {
             "id": "youth-noun-4",
             "definition": "early maturity",
-            "translation": "",
+            "translation": "青年",
             "examples": []
           },
           {
             "id": "youth-noun-5",
             "definition": "the time of life between childhood and maturity",
-            "translation": "",
+            "translation": "青年",
             "examples": []
           },
           {
             "id": "youth-noun-6",
             "definition": "an early period of development",
-            "translation": "",
+            "translation": "青年",
             "examples": [
               {
                 "text": "during the youth of the project",
@@ -6296,7 +6296,7 @@
           {
             "id": "ytterbium-noun-1",
             "definition": "a soft silvery metallic element",
-            "translation": "",
+            "translation": "铟",
             "examples": []
           }
         ]
@@ -6324,7 +6324,7 @@
           {
             "id": "yttrium-noun-1",
             "definition": "a silvery metallic element that is common in rare-earth minerals",
-            "translation": "",
+            "translation": "铒",
             "examples": []
           }
         ]
@@ -6485,7 +6485,7 @@
           {
             "id": "yugoslavian-adjective-1",
             "definition": "of or relating to or characteristic of the former country of Yugoslavia or its people or languages",
-            "translation": "",
+            "translation": "语言的",
             "examples": [
               {
                 "text": "Yugoslavian wine",
@@ -6518,7 +6518,7 @@
           {
             "id": "yuman-adjective-1",
             "definition": "of or relating to the language or culture of the Yuma people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "Yuman settlements were commonly small and not permanent.",

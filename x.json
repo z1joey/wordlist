@@ -22,7 +22,7 @@
           {
             "id": "x-adjective-1",
             "definition": "the Roman numeral for 10",
-            "translation": "",
+            "translation": "罗马数字10",
             "examples": []
           }
         ]
@@ -33,7 +33,7 @@
           {
             "id": "x-noun-1",
             "definition": "the 24th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母第24个字母",
             "examples": [
               {
                 "text": "The farmer signed with an x.",
@@ -81,13 +81,13 @@
           {
             "id": "x-ray-noun-1",
             "definition": "a radiogram made by exposing photographic film to X rays",
-            "translation": "",
+            "translation": "X光照片",
             "examples": []
           },
           {
             "id": "x-ray-noun-2",
             "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
-            "translation": "",
+            "translation": "X射线",
             "examples": []
           }
         ]
@@ -123,7 +123,7 @@
           {
             "id": "x-ray-verb-1",
             "definition": "take an x-ray of something or somebody",
-            "translation": "",
+            "translation": "拍X光片",
             "examples": [
               {
                 "text": "The doctor x-rayed my chest",
@@ -134,7 +134,7 @@
           {
             "id": "x-ray-verb-2",
             "definition": "examine by taking x-rays",
-            "translation": "",
+            "translation": "用X光检查",
             "examples": []
           }
         ]
@@ -509,7 +509,7 @@
           {
             "id": "xanthous-adjective-1",
             "definition": "of the color intermediate between green and orange in the color spectrum",
-            "translation": "",
+            "translation": "光谱的",
             "examples": [
               {
                 "text": "The new rug you bought is fairly xanthous, don't you think?",
@@ -544,7 +544,7 @@
           {
             "id": "xc-adjective-1",
             "definition": "the Roman numeral for 90",
-            "translation": "",
+            "translation": "罗马数字90",
             "examples": []
           }
         ]
@@ -572,7 +572,7 @@
           {
             "id": "xci-adjective-1",
             "definition": "the Roman numeral for 91",
-            "translation": "",
+            "translation": "罗马数字91",
             "examples": []
           }
         ]
@@ -600,7 +600,7 @@
           {
             "id": "xciii-adjective-1",
             "definition": "the Roman numeral for 93",
-            "translation": "",
+            "translation": "罗马数字93",
             "examples": []
           }
         ]
@@ -656,7 +656,7 @@
           {
             "id": "xcl-adjective-1",
             "definition": "the Roman numeral for 190",
-            "translation": "",
+            "translation": "罗马数字190",
             "examples": []
           }
         ]
@@ -684,7 +684,7 @@
           {
             "id": "xcv-adjective-1",
             "definition": "the Roman numeral for 95",
-            "translation": "",
+            "translation": "罗马数字95",
             "examples": []
           }
         ]
@@ -712,7 +712,7 @@
           {
             "id": "xcvi-adjective-1",
             "definition": "the Roman numeral for 96",
-            "translation": "",
+            "translation": "罗马数字96",
             "examples": []
           }
         ]
@@ -773,7 +773,7 @@
           {
             "id": "xcviii-adjective-1",
             "definition": "the Roman numeral for 98",
-            "translation": "",
+            "translation": "罗马数字98",
             "examples": []
           }
         ]
@@ -869,7 +869,7 @@
           {
             "id": "xenograft-noun-1",
             "definition": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
-            "translation": "",
+            "translation": "组织",
             "examples": [
               {
                 "text": "The surgeons used skin from a pig as a xenograft.",
@@ -930,7 +930,7 @@
           {
             "id": "xenon-noun-1",
             "definition": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
-            "translation": "",
+            "translation": "氙",
             "examples": [
               {
                 "text": "The canister was filled with xenon.",
@@ -965,7 +965,7 @@
           {
             "id": "xenophobia-noun-1",
             "definition": "a fear of foreigners or strangers",
-            "translation": "",
+            "translation": "仇外心理",
             "examples": [
               {
                 "text": "I think your xenophobia might be cured by a trip abroad.",
@@ -998,7 +998,7 @@
           {
             "id": "xenophobic-adjective-1",
             "definition": "suffering from xenophobia, or the fear of outsiders",
-            "translation": "",
+            "translation": "仇外的",
             "examples": [
               {
                 "text": "Those remarks make it pretty clear how xenophobic you are.",
@@ -1217,7 +1217,7 @@
           {
             "id": "xerographic-adjective-1",
             "definition": "of or relating to copying paper or other items, aka xerography",
-            "translation": "",
+            "translation": "静电复印的",
             "examples": [
               {
                 "text": "Our xerographic machine was on the fritz.",
@@ -1250,7 +1250,7 @@
           {
             "id": "xerography-noun-1",
             "definition": "forming an image by the action of light on a specially coated charged plate",
-            "translation": "",
+            "translation": "静电复印",
             "examples": [
               {
                 "text": "The machine used xerography to print copies.",
@@ -1318,7 +1318,7 @@
           {
             "id": "xerophile-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "",
+            "translation": "植物",
             "examples": [
               {
                 "text": "Cacti are some of the most well-known xerophiles.",
@@ -1414,7 +1414,7 @@
           {
             "id": "xerophyte-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "",
+            "translation": "植物",
             "examples": [
               {
                 "text": "The gardener loved the easy maintenance of the xerophyte.",
@@ -1579,7 +1579,7 @@
           {
             "id": "xerox-noun-1",
             "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
-            "translation": "",
+            "translation": "施乐复印",
             "examples": []
           }
         ]
@@ -1612,7 +1612,7 @@
           {
             "id": "xerox-noun-1",
             "definition": "a copy made by a xerographic printer",
-            "translation": "",
+            "translation": "施乐复印",
             "examples": []
           }
         ]
@@ -1623,7 +1623,7 @@
           {
             "id": "xerox-verb-1",
             "definition": "reproduce by xerography",
-            "translation": "",
+            "translation": "静电复印",
             "examples": []
           }
         ]
@@ -1653,7 +1653,7 @@
           {
             "id": "xi-adjective-1",
             "definition": "the Roman numeral for 11",
-            "translation": "",
+            "translation": "罗马数字11",
             "examples": []
           }
         ]
@@ -1664,7 +1664,7 @@
           {
             "id": "xi-noun-1",
             "definition": "the 14th letter of the Greek alphabet",
-            "translation": "",
+            "translation": "希腊字母表的第14个字母",
             "examples": []
           }
         ]
@@ -1694,7 +1694,7 @@
           {
             "id": "xii-adjective-1",
             "definition": "the Roman numeral for 12",
-            "translation": "",
+            "translation": "罗马数字12",
             "examples": []
           }
         ]
@@ -1724,7 +1724,7 @@
           {
             "id": "xiii-adjective-1",
             "definition": "the Roman numeral for 13",
-            "translation": "",
+            "translation": "罗马数字13",
             "examples": []
           }
         ]
@@ -1754,7 +1754,7 @@
           {
             "id": "xiv-adjective-1",
             "definition": "the Roman numeral for 14",
-            "translation": "",
+            "translation": "罗马数字14",
             "examples": []
           }
         ]
@@ -1784,7 +1784,7 @@
           {
             "id": "xix-adjective-1",
             "definition": "the Roman numeral for 19",
-            "translation": "",
+            "translation": "罗马数字19",
             "examples": []
           }
         ]
@@ -1814,7 +1814,7 @@
           {
             "id": "xl-adjective-1",
             "definition": "the Roman numeral for 40",
-            "translation": "",
+            "translation": "罗马数字40",
             "examples": []
           }
         ]
@@ -1842,7 +1842,7 @@
           {
             "id": "xlii-adjective-1",
             "definition": "the Roman numeral for 42",
-            "translation": "",
+            "translation": "罗马数字42",
             "examples": []
           }
         ]
@@ -1870,7 +1870,7 @@
           {
             "id": "xliii-adjective-1",
             "definition": "the Roman numeral for 43",
-            "translation": "",
+            "translation": "罗马数字43",
             "examples": []
           }
         ]
@@ -1898,7 +1898,7 @@
           {
             "id": "xliv-adjective-1",
             "definition": "the Roman numeral for 44",
-            "translation": "",
+            "translation": "罗马数字44",
             "examples": []
           }
         ]
@@ -1926,7 +1926,7 @@
           {
             "id": "xlv-adjective-1",
             "definition": "the Roman numeral for 45",
-            "translation": "",
+            "translation": "罗马数字45",
             "examples": []
           }
         ]
@@ -1954,7 +1954,7 @@
           {
             "id": "xlvi-adjective-1",
             "definition": "the Roman numeral for 46",
-            "translation": "",
+            "translation": "罗马数字46",
             "examples": []
           }
         ]
@@ -1982,7 +1982,7 @@
           {
             "id": "xlvii-adjective-1",
             "definition": "the Roman numeral for 47",
-            "translation": "",
+            "translation": "罗马数字47",
             "examples": []
           }
         ]
@@ -2010,7 +2010,7 @@
           {
             "id": "xlviii-adjective-1",
             "definition": "the Roman numeral for 48",
-            "translation": "",
+            "translation": "罗马数字48",
             "examples": []
           }
         ]
@@ -2040,7 +2040,7 @@
           {
             "id": "xv-adjective-1",
             "definition": "the Roman numeral for 15",
-            "translation": "",
+            "translation": "罗马数字15",
             "examples": []
           }
         ]
@@ -2070,7 +2070,7 @@
           {
             "id": "xvi-adjective-1",
             "definition": "the Roman numeral for 16",
-            "translation": "",
+            "translation": "罗马数字16",
             "examples": []
           }
         ]
@@ -2100,7 +2100,7 @@
           {
             "id": "xvii-adjective-1",
             "definition": "the Roman numeral for 17",
-            "translation": "",
+            "translation": "罗马数字17",
             "examples": []
           }
         ]
@@ -2130,7 +2130,7 @@
           {
             "id": "xviii-adjective-1",
             "definition": "the Roman numeral for 18",
-            "translation": "",
+            "translation": "罗马数字18",
             "examples": []
           }
         ]
@@ -2160,7 +2160,7 @@
           {
             "id": "xx-adjective-1",
             "definition": "the Roman numeral for 20",
-            "translation": "",
+            "translation": "罗马数字20",
             "examples": []
           }
         ]
@@ -2188,7 +2188,7 @@
           {
             "id": "xxi-adjective-1",
             "definition": "the Roman numeral for 21",
-            "translation": "",
+            "translation": "罗马数字21",
             "examples": []
           }
         ]
@@ -2216,7 +2216,7 @@
           {
             "id": "xxii-adjective-1",
             "definition": "the Roman numeral for 22",
-            "translation": "",
+            "translation": "罗马数字22",
             "examples": []
           }
         ]
@@ -2244,7 +2244,7 @@
           {
             "id": "xxiii-adjective-1",
             "definition": "the Roman numeral for 23",
-            "translation": "",
+            "translation": "罗马数字23",
             "examples": []
           }
         ]
@@ -2272,7 +2272,7 @@
           {
             "id": "xxiv-adjective-1",
             "definition": "the Roman numeral for 24",
-            "translation": "",
+            "translation": "罗马数字24",
             "examples": []
           }
         ]
@@ -2300,7 +2300,7 @@
           {
             "id": "xxix-adjective-1",
             "definition": "the Roman numeral for 29",
-            "translation": "",
+            "translation": "罗马数字29",
             "examples": []
           }
         ]
@@ -2328,7 +2328,7 @@
           {
             "id": "xxv-adjective-1",
             "definition": "the Roman numeral for 25",
-            "translation": "",
+            "translation": "罗马数字25",
             "examples": []
           }
         ]
@@ -2356,7 +2356,7 @@
           {
             "id": "xxvi-adjective-1",
             "definition": "the Roman numeral for 26",
-            "translation": "",
+            "translation": "罗马数字26",
             "examples": []
           }
         ]
@@ -2412,7 +2412,7 @@
           {
             "id": "xxviii-adjective-1",
             "definition": "the Roman numeral for 28",
-            "translation": "",
+            "translation": "罗马数字28",
             "examples": []
           }
         ]
@@ -2442,7 +2442,7 @@
           {
             "id": "xxx-adjective-1",
             "definition": "the Roman numeral for 30",
-            "translation": "",
+            "translation": "罗马数字30",
             "examples": []
           }
         ]
@@ -2498,7 +2498,7 @@
           {
             "id": "xxxii-adjective-1",
             "definition": "the Roman numeral for 32",
-            "translation": "",
+            "translation": "罗马数字32",
             "examples": []
           }
         ]
@@ -2526,7 +2526,7 @@
           {
             "id": "xxxiii-adjective-1",
             "definition": "the Roman numeral for 33",
-            "translation": "",
+            "translation": "罗马数字33",
             "examples": []
           }
         ]
@@ -2554,7 +2554,7 @@
           {
             "id": "xxxiv-adjective-1",
             "definition": "the Roman numeral for 34",
-            "translation": "",
+            "translation": "罗马数字34",
             "examples": []
           }
         ]
@@ -2582,7 +2582,7 @@
           {
             "id": "xxxv-adjective-1",
             "definition": "the Roman numeral for 35",
-            "translation": "",
+            "translation": "罗马数字35",
             "examples": []
           }
         ]
@@ -2610,7 +2610,7 @@
           {
             "id": "xxxvi-adjective-1",
             "definition": "the Roman numeral for 36",
-            "translation": "",
+            "translation": "罗马数字36",
             "examples": []
           }
         ]
@@ -2638,7 +2638,7 @@
           {
             "id": "xxxvii-adjective-1",
             "definition": "the Roman numeral for 37",
-            "translation": "",
+            "translation": "罗马数字37",
             "examples": []
           }
         ]
@@ -2666,7 +2666,7 @@
           {
             "id": "xxxviii-adjective-1",
             "definition": "the Roman numeral for 38",
-            "translation": "",
+            "translation": "罗马数字38",
             "examples": []
           }
         ]

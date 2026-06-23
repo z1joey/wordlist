@@ -19,7 +19,7 @@
           {
             "id": "q-noun-1",
             "definition": "the 17th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母第17个字母",
             "examples": []
           }
         ]
@@ -285,7 +285,7 @@
           {
             "id": "qatari-adjective-1",
             "definition": "of or concerning Qatar or its inhabitants",
-            "translation": "",
+            "translation": "居民的",
             "examples": []
           }
         ]
@@ -530,7 +530,7 @@
           {
             "id": "qoph-noun-1",
             "definition": "the 19th letter of the Hebrew alphabet",
-            "translation": "",
+            "translation": "希伯来字母表的第19个字母",
             "examples": []
           }
         ]
@@ -821,7 +821,7 @@
           {
             "id": "quadrangular-adjective-1",
             "definition": "of or relating to or shaped like a quadrangle",
-            "translation": "",
+            "translation": "喜欢的",
             "examples": [
               {
                 "text": "The new design is quadrangular.",
@@ -937,7 +937,7 @@
           {
             "id": "quadraphonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "The quadraphonic sound system had twice as many speakers as the stereo system but made the audio much more realistic.",
@@ -1000,7 +1000,7 @@
           {
             "id": "quadrasonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "I have a quadrasonic sound system.",
@@ -1083,7 +1083,7 @@
           {
             "id": "quadratic-adjective-1",
             "definition": "of or relating to the second power",
-            "translation": "",
+            "translation": "功率的",
             "examples": [
               {
                 "text": "quadratic equation",
@@ -1094,7 +1094,7 @@
           {
             "id": "quadratic-adjective-2",
             "definition": "of or relating to or resembling a square",
-            "translation": "",
+            "translation": "正方形的",
             "examples": [
               {
                 "text": "quadratic shapes",
@@ -1536,7 +1536,7 @@
           {
             "id": "quadriphonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "This quadriphonic system sounds superb.",
@@ -1637,7 +1637,7 @@
           {
             "id": "quadrisonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "I have a quadrisonic sound system.",
@@ -2307,7 +2307,7 @@
           {
             "id": "quaggy-adjective-1",
             "definition": "of soil, soft and watery",
-            "translation": "",
+            "translation": "柔软的的",
             "examples": [
               {
                 "text": "This quaggy ground is no place to build a house.",
@@ -2977,13 +2977,13 @@
           {
             "id": "qualify-verb-1",
             "definition": "add a modifier to a constituent",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualify-verb-2",
             "definition": "make more specific",
-            "translation": "",
+            "translation": "通过更多具体的制造",
             "examples": [
               {
                 "text": "qualify these remarks",
@@ -2994,31 +2994,31 @@
           {
             "id": "qualify-verb-3",
             "definition": "make fit or prepared",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           },
           {
             "id": "qualify-verb-4",
             "definition": "describe or portray the character or the qualities or peculiarities of",
-            "translation": "",
+            "translation": "描述",
             "examples": []
           },
           {
             "id": "qualify-verb-5",
             "definition": "pronounce fit or able",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualify-verb-6",
             "definition": "specify as a condition or requirement in a contract or agreement",
-            "translation": "",
+            "translation": "收缩；缩小",
             "examples": []
           },
           {
             "id": "qualify-verb-7",
             "definition": "prove capable or fit",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           }
         ]
@@ -3055,13 +3055,13 @@
           {
             "id": "qualifying-noun-1",
             "definition": "success in satisfying a test or requirement",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualifying-noun-2",
             "definition": "the grammatical relation that exists when a word qualifies the meaning of the phrase",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           }
         ]
@@ -3070,7 +3070,7 @@
     "phrases": [
       {
         "text": "qualifying round",
-        "translation": ""
+        "translation": "合格圆的"
       }
     ]
   },
@@ -3109,7 +3109,7 @@
           {
             "id": "qualitative-adjective-2",
             "definition": "relating to or involving comparisons based on qualities",
-            "translation": "",
+            "translation": "质量的",
             "examples": []
           }
         ]
@@ -3187,7 +3187,7 @@
           {
             "id": "quality-adjective-1",
             "definition": "of high social status",
-            "translation": "",
+            "translation": "高的社会的地位的",
             "examples": [
               {
                 "text": "people of quality",
@@ -3198,7 +3198,7 @@
           {
             "id": "quality-adjective-2",
             "definition": "of superior grade",
-            "translation": "",
+            "translation": "优越的等级的",
             "examples": []
           }
         ]
@@ -3209,7 +3209,7 @@
           {
             "id": "quality-noun-1",
             "definition": "an essential and distinguishing attribute of something or someone",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "the quality of mercy is not strained--Shakespeare",
@@ -3220,7 +3220,7 @@
           {
             "id": "quality-noun-2",
             "definition": "a degree or grade of excellence or worth",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "the quality of students has risen",
@@ -3231,13 +3231,13 @@
           {
             "id": "quality-noun-3",
             "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
-            "translation": "",
+            "translation": "质量",
             "examples": []
           },
           {
             "id": "quality-noun-4",
             "definition": "a characteristic property that defines the apparent individual nature of something",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "each town has a quality all its own",
@@ -3248,7 +3248,7 @@
           {
             "id": "quality-noun-5",
             "definition": "high social status",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "A person of quality would not behave uncouthly.",
@@ -3442,7 +3442,7 @@
           {
             "id": "quantal-adjective-1",
             "definition": "of or relating to a quantum or capable of existing in only one of two states",
-            "translation": "",
+            "translation": "状态的",
             "examples": []
           }
         ]
@@ -3533,7 +3533,7 @@
           {
             "id": "quantifiable-adjective-1",
             "definition": "capable of being quantified",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "These theories are simply not quantifiable.",
@@ -3648,7 +3648,7 @@
           {
             "id": "quantify-verb-1",
             "definition": "to express as a number",
-            "translation": "",
+            "translation": "表达一个一个数字",
             "examples": [
               {
                 "text": "Can you quantify the results of your survey?",
@@ -3765,7 +3765,7 @@
           {
             "id": "quantitative-adjective-2",
             "definition": "of verse, having a metric system based on relative duration of syllables",
-            "translation": "",
+            "translation": "音节的",
             "examples": [
               {
                 "text": "This is clearly quantitative verse.",
@@ -3776,7 +3776,7 @@
           {
             "id": "quantitative-adjective-3",
             "definition": "relating to the measurement of quantity",
-            "translation": "",
+            "translation": "数量的",
             "examples": [
               {
                 "text": "Quantitative studies are more important than armchair theorizing when it comes to solving world hunger.",
@@ -3861,7 +3861,7 @@
           {
             "id": "quantity-noun-2",
             "definition": "an adequate or large amount",
-            "translation": "",
+            "translation": "数量",
             "examples": [
               {
                 "text": "The troops had a quantity of ammunition.",
@@ -3872,7 +3872,7 @@
           {
             "id": "quantity-noun-3",
             "definition": "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
-            "translation": "",
+            "translation": "数量",
             "examples": [
               {
                 "text": "Vectors have a quantity as well as a direction.",
@@ -4026,7 +4026,7 @@
           {
             "id": "quantized-adjective-1",
             "definition": "of or relating to a quantum or capable of existing in only one of two states",
-            "translation": "",
+            "translation": "状态的",
             "examples": [
               {
                 "text": "Sub-atomic particles may be quantized to better understand their structure.",
@@ -4584,7 +4584,7 @@
           {
             "id": "quarry-verb-1",
             "definition": "extract something, for example stones, from or as if from a quarry",
-            "translation": "",
+            "translation": "提取",
             "examples": [
               {
                 "text": "I like to quarry marble in my spare time.",
@@ -4689,7 +4689,7 @@
           {
             "id": "quart-noun-1",
             "definition": "a United States liquid unit equal to 32 fluid ounces",
-            "translation": "",
+            "translation": "夸脱",
             "examples": [
               {
                 "text": "four quarts equal one gallon",
@@ -4700,13 +4700,13 @@
           {
             "id": "quart-noun-2",
             "definition": "a United States dry unit equal to 2 pints or 67.2 cubic inches",
-            "translation": "",
+            "translation": "夸脱",
             "examples": []
           },
           {
             "id": "quart-noun-3",
             "definition": "a British imperial capacity measure, liquid or dry, equal to 2 pints or 1.136 liters",
-            "translation": "",
+            "translation": "夸脱",
             "examples": [
               {
                 "text": "I ordered a quart of soup to take home.",
@@ -4798,7 +4798,7 @@
           {
             "id": "quarter-noun-1",
             "definition": "clemency or mercy shown to a defeated opponent",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "We surrendered but asked for quarter, hoping that our captors would be accommodating.",
@@ -4809,7 +4809,7 @@
           {
             "id": "quarter-noun-2",
             "definition": "piece of leather that comprises the part of a shoe or boot covering the heel and joining the vamp",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I had the cobbler replace the quarter on my boots.",
@@ -4820,7 +4820,7 @@
           {
             "id": "quarter-noun-3",
             "definition": "the rear part of a ship",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I snuck aboard the boat by hiding in the quarter.",
@@ -4831,7 +4831,7 @@
           {
             "id": "quarter-noun-4",
             "definition": "a district of a city having some distinguishing character",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The French Quarter of the city is considered to be the most beautiful.",
@@ -4842,7 +4842,7 @@
           {
             "id": "quarter-noun-5",
             "definition": "an unspecified person",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "They dropped a word in the right quarter.",
@@ -4853,7 +4853,7 @@
           {
             "id": "quarter-noun-6",
             "definition": "a United States or Canadian coin worth one fourth of a dollar",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I fed four quarters into the slot machine.",
@@ -4864,13 +4864,13 @@
           {
             "id": "quarter-noun-7",
             "definition": "a quarter of a hundredweight, 28 pounds",
-            "translation": "",
+            "translation": "季度",
             "examples": []
           },
           {
             "id": "quarter-noun-8",
             "definition": "one of four equal parts",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I ate a quarter of the pie.",
@@ -4881,7 +4881,7 @@
           {
             "id": "quarter-noun-9",
             "definition": "one of the four major division of the compass",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The wind is coming from that quarter.",
@@ -4892,7 +4892,7 @@
           {
             "id": "quarter-noun-10",
             "definition": "a fourth part of a year, usually in financial areas",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "What are your sales figures for the last quarter?",
@@ -4903,7 +4903,7 @@
           {
             "id": "quarter-noun-11",
             "definition": "one of four periods into which the school year is divided",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The fall quarter ends at Christmas.",
@@ -4914,7 +4914,7 @@
           {
             "id": "quarter-noun-12",
             "definition": "a unit of time equal to 15 minutes or a quarter of an hour",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "It's now a quarter to four.",
@@ -4925,7 +4925,7 @@
           {
             "id": "quarter-noun-13",
             "definition": "one of four timed divisions into which some games are divided",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "Both teams scored in the first quarter.",
@@ -4941,7 +4941,7 @@
           {
             "id": "quarter-verb-1",
             "definition": "to divide by four",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "If you quarter twelve, you get three.",
@@ -4952,7 +4952,7 @@
           {
             "id": "quarter-verb-2",
             "definition": "to divide into quarters",
-            "translation": "",
+            "translation": "分成",
             "examples": [
               {
                 "text": "I quartered a pie.",
@@ -4963,7 +4963,7 @@
           {
             "id": "quarter-verb-3",
             "definition": "to pull a person apart with four horses tied to their extremities, so as to execute them",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "In the old days, people were drawn and quartered for certain crimes.",
@@ -4974,7 +4974,7 @@
           {
             "id": "quarter-verb-4",
             "definition": "to provide housing for, usually used for military personnel",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I was quartered in a bunker at first.",
@@ -5000,7 +5000,7 @@
       },
       {
         "text": "quarter round",
-        "translation": ""
+        "translation": "季度圆的"
       },
       {
         "text": "quarter up price",
@@ -5148,7 +5148,7 @@
           {
             "id": "quartering-noun-1",
             "definition": "dividing into four equal parts",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "Quartering an apple only requires two cuts.",
@@ -5159,7 +5159,7 @@
           {
             "id": "quartering-noun-2",
             "definition": "living accommodations, especially those assigned to military personnel",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The soldiers' quartering will be the barracks.",
@@ -5170,7 +5170,7 @@
           {
             "id": "quartering-noun-3",
             "definition": "a coat of arms that occupies one quarter of an escutcheon",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The lower left quartering portrays a lion and a wolf.",
@@ -5242,7 +5242,7 @@
           {
             "id": "quarterly-adjective-1",
             "definition": "of or relating to or consisting of a quarter",
-            "translation": "",
+            "translation": "季度的",
             "examples": [
               {
                 "text": "quarterly report",
@@ -5258,7 +5258,7 @@
           {
             "id": "quarterly-adverb-1",
             "definition": "in three month intervals",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "interest is compounded quarterly",
@@ -5269,7 +5269,7 @@
           {
             "id": "quarterly-adverb-2",
             "definition": "in diagonally opposed quarters of an escutcheon",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "two coats of arms borne quarterly",
@@ -5285,7 +5285,7 @@
           {
             "id": "quarterly-noun-1",
             "definition": "a periodical that is published every quarter, or four issues per year",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "My favorite art magazine is a quarterly publication. ",
@@ -5414,7 +5414,7 @@
           {
             "id": "quarters-noun-1",
             "definition": "housing available for people to live in",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The family found quarters to live in.",
@@ -5851,7 +5851,7 @@
           {
             "id": "quash-verb-1",
             "definition": "to put down by force or intimidation",
-            "translation": "",
+            "translation": "放下",
             "examples": [
               {
                 "text": "The government quashes any attempt of an uprising.",
@@ -6693,7 +6693,7 @@
           {
             "id": "quebecois-adjective-1",
             "definition": "of or relating to Quebec, especially to the French speaking inhabitants or their culture",
-            "translation": "",
+            "translation": "文化的",
             "examples": [
               {
                 "text": "The Quebecois food is delicious.",
@@ -6726,7 +6726,7 @@
           {
             "id": "quechuan-adjective-1",
             "definition": "of or relating to the Quechua people or their language",
-            "translation": "",
+            "translation": "语言的",
             "examples": []
           }
         ]
@@ -6776,61 +6776,61 @@
           {
             "id": "queen-noun-1",
             "definition": "female cat",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-2",
             "definition": "the only fertile female in a colony of social insects such as bees and ants and termites",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-3",
             "definition": "an especially large mole rat and the only member of a colony of naked mole rats to bear offspring which are sired by only a few males",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-4",
             "definition": "(chess) the most powerful piece",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-5",
             "definition": "one of four face cards in a deck bearing a picture of a queen",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-6",
             "definition": "offensive term for an openly homosexual man",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-7",
             "definition": "a competitor who holds a preeminent position",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-8",
             "definition": "a female sovereign ruler",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-9",
             "definition": "the wife or widow of a king",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-10",
             "definition": "something personified as a woman who is considered the best or most important of her kind",
-            "translation": "",
+            "translation": "女王",
             "examples": [
               {
                 "text": "Paris is the queen of cities",
@@ -6846,7 +6846,7 @@
           {
             "id": "queen-verb-1",
             "definition": "become a queen",
-            "translation": "",
+            "translation": "女王",
             "examples": [
               {
                 "text": "Their pawn queened on their next move\n.",
@@ -6857,7 +6857,7 @@
           {
             "id": "queen-verb-2",
             "definition": "promote to a queen, as of a pawn in chess",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           }
         ]
@@ -6951,7 +6951,7 @@
           {
             "id": "queenly-adjective-1",
             "definition": "having the rank of or resembling or befitting a queen",
-            "translation": "",
+            "translation": "女王地",
             "examples": [
               {
                 "text": "I always show queenly propriety.",
@@ -7049,7 +7049,7 @@
           {
             "id": "queer-verb-2",
             "definition": "to hinder or prevent the efforts, plans, or desires of",
-            "translation": "",
+            "translation": "阻碍或防止",
             "examples": [
               {
                 "text": "Should the government queer the advocate's attempts once more a rebellion will probably break out.",
@@ -7773,7 +7773,7 @@
           {
             "id": "query-verb-1",
             "definition": "to pose a question",
-            "translation": "",
+            "translation": "姿势一个问题",
             "examples": [
               {
                 "text": "They queried us about our plans for the weekend.",
@@ -7936,7 +7936,7 @@
           {
             "id": "quest-verb-5",
             "definition": "make a search (for)",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "Things that die with their eyes open and questing",
@@ -8035,7 +8035,7 @@
           {
             "id": "question-noun-1",
             "definition": "uncertainty about the truth, factuality, or existence of something",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "There is a big question over where I'll be in five years.",
@@ -8046,7 +8046,7 @@
           {
             "id": "question-noun-2",
             "definition": "the subject matter at issue",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The question of disease merits serious discussion.",
@@ -8057,7 +8057,7 @@
           {
             "id": "question-noun-3",
             "definition": "a reference to a marriage proposal",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "Where were you when your spouse popped the question?",
@@ -8068,7 +8068,7 @@
           {
             "id": "question-noun-4",
             "definition": "a formal proposal for action made to a deliberative assembly for discussion and vote",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "I posed the question of whether we should fund the neighbouring park.",
@@ -8079,7 +8079,7 @@
           {
             "id": "question-noun-5",
             "definition": "an instance of questioning",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "There was a question about my training.",
@@ -8090,7 +8090,7 @@
           {
             "id": "question-noun-6",
             "definition": "a sentence of inquiry that asks for a reply",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The officer asked a direct question.",
@@ -8106,7 +8106,7 @@
           {
             "id": "question-verb-1",
             "definition": "to pose a question",
-            "translation": "",
+            "translation": "姿势一个问题",
             "examples": [
               {
                 "text": "I questioned: what makes the sky so blue?",
@@ -8117,7 +8117,7 @@
           {
             "id": "question-verb-2",
             "definition": "to pose a series of questions to",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The police questioned the subject.",
@@ -8128,7 +8128,7 @@
           {
             "id": "question-verb-3",
             "definition": "to conduct an interview in television, newspaper, and radio reporting",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The reporter questioned the celebrity live.",
@@ -8139,7 +8139,7 @@
           {
             "id": "question-verb-4",
             "definition": "to challenge the accuracy, probity, or propriety of",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "We must question your judgment in this matter.",
@@ -8150,7 +8150,7 @@
           {
             "id": "question-verb-5",
             "definition": "to place in doubt or express doubtful speculation",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "I questioned the origin of the food.",
@@ -8164,7 +8164,7 @@
     "phrases": [
       {
         "text": "question about",
-        "translation": ""
+        "translation": "问题关于"
       },
       {
         "text": "question at issue",
@@ -8332,19 +8332,19 @@
           {
             "id": "questioning-adjective-1",
             "definition": "showing curiosity",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           },
           {
             "id": "questioning-adjective-2",
             "definition": "perplexed (as if being expected to know something that you do not know)",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           },
           {
             "id": "questioning-adjective-3",
             "definition": "marked by or given to doubt",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           }
         ]
@@ -8355,7 +8355,7 @@
           {
             "id": "questioning-noun-1",
             "definition": "a request for information",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           }
         ]
@@ -8566,7 +8566,7 @@
           {
             "id": "queue-verb-1",
             "definition": "form a queue, form a line, stand in line",
-            "translation": "",
+            "translation": "形式",
             "examples": []
           }
         ]
@@ -8759,7 +8759,7 @@
           {
             "id": "quick-adjective-2",
             "definition": "easily aroused or excited",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "a quick temper",
@@ -8770,13 +8770,13 @@
           {
             "id": "quick-adjective-3",
             "definition": "performed with little or no delay",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           },
           {
             "id": "quick-adjective-4",
             "definition": "accomplished rapidly and without delay",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "was quick to make friends",
@@ -8787,13 +8787,13 @@
           {
             "id": "quick-adjective-5",
             "definition": "hurried and brief",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           },
           {
             "id": "quick-adjective-6",
             "definition": "apprehending and responding with speed and sensitivity",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "a quick mind",
@@ -8804,7 +8804,7 @@
           {
             "id": "quick-adjective-7",
             "definition": "alive or living",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "Man is no star, but a quick coal of mortal fire.",
@@ -8820,7 +8820,7 @@
           {
             "id": "quick-adverb-1",
             "definition": "with little or no delay",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           }
         ]
@@ -8831,7 +8831,7 @@
           {
             "id": "quick-noun-1",
             "definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           }
         ]
@@ -8840,7 +8840,7 @@
     "phrases": [
       {
         "text": "quick after look",
-        "translation": ""
+        "translation": "快的之后看"
       },
       {
         "text": "quick at",
@@ -8902,7 +8902,7 @@
           {
             "id": "quicken-verb-2",
             "definition": "show signs of life",
-            "translation": "",
+            "translation": "展示",
             "examples": [
               {
                 "text": "the fetus quickened",
@@ -8925,7 +8925,7 @@
           {
             "id": "quicken-verb-5",
             "definition": "make keen or more acute",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -8996,7 +8996,7 @@
           {
             "id": "quickening-noun-1",
             "definition": "the act of accelerating",
-            "translation": "",
+            "translation": "加速的行为",
             "examples": [
               {
                 "text": "Any more quickening and we are going to blow the motor.",
@@ -9053,7 +9053,7 @@
           {
             "id": "quicker-adverb-1",
             "definition": "more quickly",
-            "translation": "",
+            "translation": "更多快地",
             "examples": []
           }
         ]
@@ -9083,7 +9083,7 @@
           {
             "id": "quickest-adverb-1",
             "definition": "most quickly",
-            "translation": "",
+            "translation": "最多快地",
             "examples": []
           }
         ]
@@ -9151,7 +9151,7 @@
           {
             "id": "quickly-adverb-1",
             "definition": "with rapid movements",
-            "translation": "",
+            "translation": "快地",
             "examples": [
               {
                 "text": "The tailor works quickly with the shears and cloth.",
@@ -9162,13 +9162,13 @@
           {
             "id": "quickly-adverb-2",
             "definition": "with little or no delay",
-            "translation": "",
+            "translation": "快地",
             "examples": []
           },
           {
             "id": "quickly-adverb-3",
             "definition": "without taking pains",
-            "translation": "",
+            "translation": "快地",
             "examples": []
           }
         ]
@@ -9346,7 +9346,7 @@
           {
             "id": "quicksilver-noun-1",
             "definition": "liquid mercury",
-            "translation": "",
+            "translation": "液体汞",
             "examples": [
               {
                 "text": "The beaker broke and quicksilver ran across the lab station and beaded on the floor.",
@@ -9795,25 +9795,25 @@
           {
             "id": "quiet-adjective-1",
             "definition": "of the sun characterized by a low level of surface phenomena like sunspots e.g.",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": []
           },
           {
             "id": "quiet-adjective-2",
             "definition": "(of a body of water) free from disturbance by heavy waves",
-            "translation": "",
+            "translation": "免于",
             "examples": []
           },
           {
             "id": "quiet-adjective-3",
             "definition": "in a softened tone",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-adjective-4",
             "definition": "not showy or obtrusive",
-            "translation": "",
+            "translation": "安静的",
             "examples": [
               {
                 "text": "clothes in quiet good taste",
@@ -9824,13 +9824,13 @@
           {
             "id": "quiet-adjective-5",
             "definition": "free of noise or uproar",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-adjective-6",
             "definition": "characterized by an absence or near absence of agitation or activity",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "a quiet life",
@@ -9846,7 +9846,7 @@
           {
             "id": "quiet-adverb-1",
             "definition": "with little or no activity or no agitation",
-            "translation": "",
+            "translation": "安静的",
             "examples": [
               {
                 "text": "Their hands rested quiet in their lap.",
@@ -9862,25 +9862,25 @@
           {
             "id": "quiet-noun-1",
             "definition": "a disposition free from stress or emotion",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-noun-2",
             "definition": "the absence of sound",
-            "translation": "",
+            "translation": "声音的缺席",
             "examples": []
           },
           {
             "id": "quiet-noun-3",
             "definition": "an untroubled state",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-noun-4",
             "definition": "a period of calm weather",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           }
         ]
@@ -9891,7 +9891,7 @@
           {
             "id": "quiet-verb-1",
             "definition": "make calm or still",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "quiet the dragons of worry and fear",
@@ -9902,7 +9902,7 @@
           {
             "id": "quiet-verb-2",
             "definition": "become quiet or quieter",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           }
         ]
@@ -9915,7 +9915,7 @@
       },
       {
         "text": "quiet down",
-        "translation": ""
+        "translation": "安静的向下"
       }
     ]
   },
@@ -10071,13 +10071,13 @@
           {
             "id": "quietly-adverb-1",
             "definition": "with low volume",
-            "translation": "",
+            "translation": "安静地",
             "examples": []
           },
           {
             "id": "quietly-adverb-2",
             "definition": "with little or no sound",
-            "translation": "",
+            "translation": "安静地",
             "examples": [
               {
                 "text": "the class was listening quietly and intently",
@@ -10088,7 +10088,7 @@
           {
             "id": "quietly-adverb-3",
             "definition": "with little or no activity or no agitation, 'quiet' is a nonstandard variant for 'quietly'",
-            "translation": "",
+            "translation": "安静地",
             "examples": [
               {
                 "text": "While meditating, their hands rested quietly in their laps.",
@@ -10099,7 +10099,7 @@
           {
             "id": "quietly-adverb-4",
             "definition": "in a restful manner",
-            "translation": "",
+            "translation": "安静地",
             "examples": []
           }
         ]
@@ -10617,7 +10617,7 @@
           {
             "id": "quincentenary-adjective-1",
             "definition": "of or relating to a 500th anniversary",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -10663,7 +10663,7 @@
           {
             "id": "quincentennial-adjective-1",
             "definition": "of or relating to a 500th anniversary",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "the quincentennial celebration of the founding of the city",
@@ -10803,7 +10803,7 @@
           {
             "id": "quinquefoliate-adjective-1",
             "definition": "of a leaf shape, having five leaflets",
-            "translation": "",
+            "translation": "有的",
             "examples": [
               {
                 "text": "This is a great example of a quinquefoliate leaf.",
@@ -11485,7 +11485,7 @@
           {
             "id": "quip-verb-1",
             "definition": "make jokes or quips",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -11833,7 +11833,7 @@
           {
             "id": "quit-verb-1",
             "definition": "to give up in the face of defeat of lacking hope",
-            "translation": "",
+            "translation": "放弃",
             "examples": [
               {
                 "text": "The team was down a player but would not quit.",
@@ -11855,7 +11855,7 @@
           {
             "id": "quit-verb-3",
             "definition": "to turn away from",
-            "translation": "",
+            "translation": "转动离开从",
             "examples": [
               {
                 "text": "They quit each other after a long argument.",
@@ -11866,7 +11866,7 @@
           {
             "id": "quit-verb-4",
             "definition": "to give up or retire from a position",
-            "translation": "",
+            "translation": "放弃",
             "examples": [
               {
                 "text": "I quit my board seat after ten years of service.",
@@ -11877,7 +11877,7 @@
           {
             "id": "quit-verb-5",
             "definition": "to put an end to a state or an activity",
-            "translation": "",
+            "translation": "陈述；说明",
             "examples": [
               {
                 "text": "I quit smoking three years ago.",
@@ -11954,13 +11954,13 @@
           {
             "id": "quite-adverb-1",
             "definition": "to the greatest extent",
-            "translation": "",
+            "translation": "相当",
             "examples": []
           },
           {
             "id": "quite-adverb-2",
             "definition": "to a degree (not used with a negative)",
-            "translation": "",
+            "translation": "相当",
             "examples": [
               {
                 "text": "quite tasty",
@@ -11971,7 +11971,7 @@
           {
             "id": "quite-adverb-3",
             "definition": "of an unusually noticeable or exceptional or remarkable kind, not used with a negative",
-            "translation": "",
+            "translation": "消极的的",
             "examples": [
               {
                 "text": "Your victory was quite something.",
@@ -11982,7 +11982,7 @@
           {
             "id": "quite-adverb-4",
             "definition": "actually or truly or to an extreme",
-            "translation": "",
+            "translation": "相当",
             "examples": [
               {
                 "text": "was quite a sudden change",
@@ -11996,7 +11996,7 @@
     "phrases": [
       {
         "text": "quite apart from",
-        "translation": ""
+        "translation": "相当分开从"
       }
     ]
   },
@@ -12020,7 +12020,7 @@
           {
             "id": "quits-adjective-1",
             "definition": "on equal terms by payment or requital",
-            "translation": "",
+            "translation": "退出",
             "examples": [
               {
                 "text": "Since you've paid me back for the drink, we're quits.",
@@ -12266,7 +12266,7 @@
           {
             "id": "quixotic-adjective-1",
             "definition": "not sensible about practical matters",
-            "translation": "",
+            "translation": "不明智的关于实用的事情",
             "examples": []
           }
         ]
@@ -12382,7 +12382,7 @@
           {
             "id": "quiz-verb-1",
             "definition": "examine someone's knowledge of something",
-            "translation": "",
+            "translation": "检查",
             "examples": []
           }
         ]
@@ -12987,13 +12987,13 @@
           {
             "id": "quote-noun-1",
             "definition": "a passage or expression that is quoted or cited",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           },
           {
             "id": "quote-noun-2",
             "definition": "a punctuation mark used to attribute the enclosed text to someone else",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           }
         ]
@@ -13004,13 +13004,13 @@
           {
             "id": "quote-verb-1",
             "definition": "put quote marks around",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           },
           {
             "id": "quote-verb-2",
             "definition": "repeat a passage from",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "They quoted the Bible to us.",
@@ -13021,7 +13021,7 @@
           {
             "id": "quote-verb-3",
             "definition": "refer to for illustration or proof",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "I said that I could quote several instances of this behavior.",
@@ -13032,7 +13032,7 @@
           {
             "id": "quote-verb-4",
             "definition": "name the price of",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "quote prices for cars",
