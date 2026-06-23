@@ -17210,11 +17210,11 @@
           {
             "id": "accompany-verb-1",
             "definition": "to perform a musical accompaniment ",
-            "translation": "",
+            "translation": "为...伴奏",
             "examples": [
               {
                 "text": "I accompanied the pianist with my violin.",
-                "translation": ""
+                "translation": "我用小提琴为钢琴家伴奏。"
               }
             ]
           },
@@ -17225,7 +17225,7 @@
             "examples": [
               {
                 "text": "My siblings accompany me whenever I tour.",
-                "translation": ""
+                "translation": "我巡演时兄弟姐妹总是陪伴着我。"
               }
             ]
           },
@@ -17236,7 +17236,7 @@
             "examples": [
               {
                 "text": "I asked them to accompany me to the party.",
-                "translation": ""
+                "translation": "我邀请他们陪我去参加派对。"
               }
             ]
           },
@@ -17247,7 +17247,7 @@
             "examples": [
               {
                 "text": "I accompanied them to the soiree.",
-                "translation": ""
+                "translation": "我陪他们去参加晚会。"
               }
             ]
           }
@@ -17257,11 +17257,11 @@
     "phrases": [
       {
         "text": "accompany by",
-        "translation": ""
+        "translation": "由...陪伴；由...伴奏"
       },
       {
         "text": "accompany with",
-        "translation": ""
+        "translation": "用...陪伴；用...伴奏"
       }
     ]
   },
@@ -154025,19 +154025,19 @@
           {
             "id": "ash-noun-1",
             "definition": "any of various deciduous pinnate-leaved ornamental or timber trees of the genus Fraxinus",
-            "translation": "",
+            "translation": "梣树，白蜡树",
             "examples": []
           },
           {
             "id": "ash-noun-2",
             "definition": "strong elastic wood of any of various ash trees",
-            "translation": "",
+            "translation": "梣木，白蜡木",
             "examples": []
           },
           {
             "id": "ash-noun-3",
             "definition": "the residue that remains when something is burned",
-            "translation": "",
+            "translation": "灰烬，灰末",
             "examples": []
           }
         ]
@@ -154048,11 +154048,11 @@
           {
             "id": "ash-verb-1",
             "definition": "to convert into ashes",
-            "translation": "",
+            "translation": "烧成灰，化为灰烬",
             "examples": [
               {
                 "text": "Are they going to ash the firewood?",
-                "translation": ""
+                "translation": "他们打算把这些木柴烧成灰吗？"
               }
             ]
           }
@@ -154062,7 +154062,7 @@
     "phrases": [
       {
         "text": "ash on dry coal",
-        "translation": ""
+        "translation": "干煤上的灰烬"
       }
     ]
   },
@@ -154091,7 +154091,7 @@
           {
             "id": "ashamed-adjective-1",
             "definition": "feeling shame or guilt or embarrassment or remorse",
-            "translation": "",
+            "translation": "感到羞愧的，惭愧的",
             "examples": []
           }
         ]
@@ -154100,11 +154100,11 @@
     "phrases": [
       {
         "text": "ashamed at",
-        "translation": ""
+        "translation": "对...感到羞愧"
       },
       {
         "text": "ashamed to (do)",
-        "translation": ""
+        "translation": "耻于做...，对做...感到惭愧"
       }
     ]
   },
@@ -154456,11 +154456,11 @@
           {
             "id": "asian-adjective-1",
             "definition": "of or relating to or characteristic of Asia or the peoples of Asia or their languages or culture",
-            "translation": "",
+            "translation": "亚洲的，亚洲人的",
             "examples": [
               {
                 "text": "Asian countries",
-                "translation": ""
+                "translation": "亚洲国家"
               }
             ]
           }
