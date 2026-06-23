@@ -1098,259 +1098,6 @@
     ]
   },
   {
-    "word": "jack-a-lantern",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "jack-o-lantern fungus"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-a-lantern-noun-1",
-            "definition": "a large poisonous agaric with orange caps and narrow clustered stalks",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "jack-a-lantern-noun-2",
-            "definition": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We're going to carve the scariest jack-o-lanterns this year.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-by-the-hedge",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "garlic mustard"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-by-the-hedge-noun-1",
-            "definition": "a European herb that smells like garlic",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-in-the-box",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈdʒækɪnðəˌbɑks"
-      },
-      "uk": {
-        "ipa": "ˈdʒækɪnðəbɒks"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-in-the-box-noun-1",
-            "definition": "a toy consisting of a box from which a toy clown or other figure jumps out when the lid is opened, often accomplished by turning a crank",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The child was delighted when the jack-in-the-box sprung open.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-in-the-pulpit",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "cuckoopint",
-      "wake-robin"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-in-the-pulpit-noun-1",
-            "definition": "common European arum with lanceolate spathe and short purple spadix",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "jack-in-the-pulpit-noun-2",
-            "definition": "common American spring-flowering woodland herb having sheathing leaves and an upright club-shaped spadix with overarching green and purple spathe producing scarlet berries",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-o'-lantern",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈdʒækə læntɚn"
-      },
-      "uk": {
-        "ipa": "ˌdʒækə ˈlæntən"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "jack-o-lantern fungus"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-o'-lantern-noun-1",
-            "definition": "a large poisonous agaric with orange caps and narrow clustered stalks",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "jack-o'-lantern-noun-2",
-            "definition": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We're going to carve the scariest jack-o-lanterns this year.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-o-lantern",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "jack-o-lantern fungus"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-o-lantern-noun-1",
-            "definition": "a large poisonous agaric with orange caps and narrow clustered stalks",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "jack-o-lantern-noun-2",
-            "definition": "a lantern made from a hollowed pumpkin in which holes are carved, typically to resemble facial features, in which a candle or light is placed; primarily created around Halloween",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We're going to carve the scariest jack-o-lanterns this year.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jack-tar",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "gob"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jack-tar-noun-1",
-            "definition": "a man who serves as a sailor in the Royal Navy",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jackal",
     "pronunciation": {
       "us": {
@@ -1789,34 +1536,6 @@
           {
             "id": "jackknife-verb-1",
             "definition": "dive into the water bending the body at the waist at a right angle, like a jackknife",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jackknife-fish",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jackknife-fish-noun-1",
-            "definition": "black-and-white drumfish with an erect elongated dorsal fin",
             "translation": "",
             "examples": []
           }
@@ -3947,41 +3666,6 @@
     ]
   },
   {
-    "word": "jam-packed",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "packed"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jam-packed-adjective-1",
-            "definition": "filled to capacity",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The concert was jam-packed.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jamaican",
     "pronunciation": {
       "us": {
@@ -4786,59 +4470,6 @@
             "examples": [
               {
                 "text": "I couldn't believe how janky my workplace's computers were compared to mine, but then again it's not like the company had much money to work with.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "janus-faced",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "ambidextrous",
-      "deceitful",
-      "double-dealing",
-      "double-faced",
-      "double-tongued",
-      "duplicitous",
-      "two-faced"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "janus-faced-adjective-1",
-            "definition": "having two faces--one looking to the future and one to the past",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "janus-faced-adjective-2",
-            "definition": "marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "janus-faced-adjective-3",
-            "definition": "having or concerned with polarities or contrasts",
-            "translation": "",
-            "examples": [
-              {
-                "text": "a Janus-faced view of history",
                 "translation": ""
               }
             ]
@@ -8268,41 +7899,6 @@
     ]
   },
   {
-    "word": "jerk-off",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "tosser"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jerk-off-noun-1",
-            "definition": "a term of abuse for someone doing something socially inacceptable",
-            "translation": "",
-            "examples": [
-              {
-                "text": "You jerk-offs need to stop smoking in the non-smoking section.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jerker",
     "pronunciation": {
       "us": {
@@ -8656,142 +8252,6 @@
             "definition": "term for a person of German descent",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jerry-builder",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jerry-builder-noun-1",
-            "definition": "someone who builds cheap buildings out of poor materials on speculation for a quick profit",
-            "translation": "",
-            "examples": [
-              {
-                "text": "All of these jerry-builders are filling our neighborhood with junk buildings.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jerry-building",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jerry-building-noun-1",
-            "definition": "construction of inferior buildings for a quick profit",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Jerry-building has ruined the property values in my neighborhood.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jerry-built",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "shoddy"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jerry-built-adjective-1",
-            "definition": "of inferior workmanship and materials",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The new subdivision was filled with mean little jerry-built houses.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jerry-rigged",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "makeshift"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jerry-rigged-adjective-1",
-            "definition": "done or made using whatever is available",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My table is jury-rigged, but gets the job done.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }
@@ -9309,74 +8769,6 @@
     ]
   },
   {
-    "word": "jet-black",
-    "pronunciation": {
-      "us": {
-        "ipa": "dʒɛt blæk"
-      },
-      "uk": {
-        "ipa": "dʒet blæk"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "sable"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jet-black-noun-1",
-            "definition": "a very dark black",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Jet black hair is popular in some subcultures.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jet-propelled",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jet-propelled-adjective-1",
-            "definition": "propelled by a jet engine",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The jet-propelled aircraft revolutionized world travel.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jetliner",
     "pronunciation": {
       "us": {
@@ -9860,34 +9252,6 @@
     "phrases": []
   },
   {
-    "word": "jewels-of-opar",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jewels-of-opar-noun-1",
-            "definition": "erect plant with tuberous roots and terminal panicles of red to yellow flowers",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jewelweed",
     "pronunciation": {
       "us": {
@@ -9990,36 +9354,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jewish-orthodox",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "Orthodox"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jewish-orthodox-adjective-1",
-            "definition": "of or pertaining to or characteristic of Judaism",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -10508,41 +9842,6 @@
             "examples": [
               {
                 "text": "We should change this jiggermast.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jiggery-pokery",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "trickery"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jiggery-pokery-noun-1",
-            "definition": "dishonest verbal misrepresentation intended to deceive",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The politician is a master of jiggery-pokery.",
                 "translation": ""
               }
             ]
@@ -11065,52 +10364,6 @@
             "definition": "make a sound typical of metallic objects",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jingle-jangle",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "jingle"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "verb",
-        "senses": [
-          {
-            "id": "jingle-jangle-verb-1",
-            "definition": "to make a sound typical of metallic objects",
-            "translation": "",
-            "examples": [
-              {
-                "text": "You jingle-jangle your keys and it is making me insane.",
-                "translation": ""
-              }
-            ]
-          },
-          {
-            "id": "jingle-jangle-verb-2",
-            "definition": "to emit a sound typical of metallic objects",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The wind chime jingle-jangles through the night.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }
@@ -16786,36 +16039,6 @@
     "phrases": []
   },
   {
-    "word": "jr.",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "younger"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jr.-adjective-1",
-            "definition": "used of the younger of two persons of the same name especially used to distinguish a son from his father",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jubilance",
     "pronunciation": {
       "us": {
@@ -17273,67 +16496,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "judeo-christian",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "judeo-christian-adjective-1",
-            "definition": "being historically related to both Judaism and Christianity",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The Judeo-Christian tradition spans thousands of years.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "judeo-spanish",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "judeo-spanish-noun-1",
-            "definition": "the Spanish dialect spoken by Sephardic Jews but written in the Hebrew script",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -19994,91 +19156,6 @@
     ]
   },
   {
-    "word": "jump-start",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈdʒʌmpˌstɑrt"
-      },
-      "uk": {
-        "ipa": "dʒʌmp stɑ:t"
-      }
-    },
-    "forms": {
-      "gerund": "jump-starting",
-      "past": "jump-started",
-      "pastParticiple": "jump-started"
-    },
-    "tags": [],
-    "synonyms": [
-      "jump",
-      "jumpstart"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "jump-start-noun-1",
-            "definition": "starting an automobile engine that has a weak battery by means of jumper cables to another car",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      },
-      {
-        "partOfSpeech": "verb",
-        "senses": [
-          {
-            "id": "jump-start-verb-1",
-            "definition": "start or re-start vigorously",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "jump-start-verb-2",
-            "definition": "start (a car engine whose battery is dead) by connecting it to another car's battery",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jumped-up",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jumped-up-adjective-1",
-            "definition": "recently risen to much greater prominence or importance",
-            "translation": "",
-            "examples": [
-              {
-                "text": "That jumped-up band could only book bar gigs last month, and now everyone wants them.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "jumper",
     "pronunciation": {
       "us": {
@@ -20840,41 +19917,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "junior-grade",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "secondary"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "junior-grade-adjective-1",
-            "definition": "inferior in rank or status",
-            "translation": "",
-            "examples": [
-              {
-                "text": "This is junior-grade work and it must be improved before our deadline.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "juniper",
@@ -21804,41 +20846,6 @@
             "examples": [
               {
                 "text": "I was asked to be on the jury for an art exhibition.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "jury-rigged",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "makeshift"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "jury-rigged-adjective-1",
-            "definition": "done or made using whatever is available",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My table is jury-rigged, but gets the job done.",
                 "translation": ""
               }
             ]

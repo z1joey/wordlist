@@ -50,36 +50,6 @@
     ]
   },
   {
-    "word": "k-meson",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kaon"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "k-meson-noun-1",
-            "definition": "an unstable meson produced as the result of a high-energy particle collision",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kabala",
     "pronunciation": {
       "us": {
@@ -841,36 +811,6 @@
     "phrases": []
   },
   {
-    "word": "kala-azar",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "visceral leishmaniasis"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kala-azar-noun-1",
-            "definition": "a leishmaniasis of the viscera",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kalansuwa",
     "pronunciation": {
       "us": {
@@ -1600,34 +1540,6 @@
     "phrases": []
   },
   {
-    "word": "kangaroo's-foot",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kangaroo's-foot-noun-1",
-            "definition": "a sedgelike spring-flowering herb having clustered flowers covered with woolly hairs",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kantian",
     "pronunciation": {
       "us": {
@@ -1966,36 +1878,6 @@
           {
             "id": "kappa-noun-1",
             "definition": "the 10th letter of the Greek alphabet",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kappa-meson",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kaon"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kappa-meson-noun-1",
-            "definition": "an unstable meson produced as the result of a high-energy particle collision",
             "translation": "",
             "examples": []
           }
@@ -3781,71 +3663,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "keen-eyed",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "sharp-eyed"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "keen-eyed-adjective-1",
-            "definition": "having keen eyesight",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "keen-sighted",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "farseeing"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "keen-sighted-adjective-1",
-            "definition": "capable of seeing to a great distance",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The keen-sighted falcon hunts from high in the air.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "keenly",
@@ -10222,94 +10039,6 @@
     ]
   },
   {
-    "word": "kick-down",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kick-down-noun-1",
-            "definition": "in a vehicle with an automatic transmission, a device for changing gears by fully depressing the accelerator pedal",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I forced the kickdown to engage so my car would take off faster.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kick-start",
-    "pronunciation": {
-      "us": {
-        "ipa": "kɪk stɑrt"
-      },
-      "uk": {
-        "ipa": "kɪk stɑ:t"
-      }
-    },
-    "forms": {
-      "pastParticiple": "kick-started",
-      "gerund": "kick-starting",
-      "past": "kick-started"
-    },
-    "tags": [],
-    "synonyms": [
-      "kick starter"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kick-start-noun-1",
-            "definition": "a starter, as on a motorcycle, that is activated with the foot and the weight of the body",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My bike has both a push button start and a kick start.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "partOfSpeech": "verb",
-        "senses": [
-          {
-            "id": "kick-start-verb-1",
-            "definition": "to use a kick starter to start an engine",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I kick start my bike when it is cold out.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kickback",
     "pronunciation": {
       "us": {
@@ -10740,36 +10469,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "kid-glove",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "tactful"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "kid-glove-adjective-1",
-            "definition": "showing skill and sensitivity in dealing with people",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "kiddo",
@@ -12050,34 +11749,6 @@
     "phrases": []
   },
   {
-    "word": "kilogram-meter",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kilogram-meter-noun-1",
-            "definition": "a unit of work equal to the work done by a one kilogram force operating through a distance of one meter",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kilohertz",
     "pronunciation": {
       "us": {
@@ -12293,34 +11964,6 @@
           {
             "id": "kilovolt-noun-1",
             "definition": "a unit of potential equal to a thousand volts",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kilovolt-ampere",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kilovolt-ampere-noun-1",
-            "definition": "a unit of electrical power equal to 1000 volt-amperes",
             "translation": "",
             "examples": []
           }
@@ -12840,74 +12483,6 @@
             "definition": "a category of things distinguished by some common characteristic or quality",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kind-hearted",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈkaɪndˈhɑrtɪd"
-      },
-      "uk": {
-        "ipa": "ˈkaɪndˈhɑ:tɪd"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "kind-hearted-adjective-1",
-            "definition": "having or proceeding from an innately kind disposition",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The generous and kindhearted teacher stayed after school to help students in need.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kind-heartedness",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kindheartedness"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kind-heartedness-noun-1",
-            "definition": "sympathy arising from a kind heart",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Your kind-heartedness toward the downtrodden is an example for us all.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }
@@ -14039,76 +13614,6 @@
             "examples": [
               {
                 "text": "the lion is the king of beasts",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "king-size",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "king-sized"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "king-size-adjective-1",
-            "definition": "extra large",
-            "translation": "",
-            "examples": [
-              {
-                "text": "a king-size bed",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "king-sized",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "king-size"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "king-sized-adjective-1",
-            "definition": "extra large",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I ate a king-sized candy bar, and now I'm full.",
                 "translation": ""
               }
             ]
@@ -15726,36 +15231,6 @@
     ]
   },
   {
-    "word": "kiss-me-over-the-garden-gate",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "prince's-feather"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kiss-me-over-the-garden-gate-noun-1",
-            "definition": "an annual with broadly ovate leaves and slender drooping spikes of crimson flowers",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kisser",
     "pronunciation": {
       "us": {
@@ -16505,34 +15980,6 @@
     "phrases": []
   },
   {
-    "word": "kitten-tails",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kitten-tails-noun-1",
-            "definition": "a plant of the genus Besseya having fluffy spikes of flowers",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kittenish",
     "pronunciation": {
       "us": {
@@ -16674,106 +16121,6 @@
             "definition": "the combined stakes of the betters",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kitty-cat",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kitty"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kitty-cat-noun-1",
-            "definition": "a domestic cat",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kitty-corner",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "catacorner"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "kitty-corner-adjective-1",
-            "definition": "slanted across a polygon on a diagonal line",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My friend's house is kitty-cornered from mine.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kitty-cornered",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "catacorner"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "kitty-cornered-adjective-1",
-            "definition": "slanted across a polygon on a diagonal line",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My friend's house is kitty-cornered from mine.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }
@@ -17262,34 +16609,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "km/h",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "km/h-noun-1",
-            "definition": "the ratio of the distance traveled in kilometers to the time spent traveling in hours",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -17891,151 +17210,6 @@
     ]
   },
   {
-    "word": "knee-deep",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "ankle-deep"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knee-deep-adjective-1",
-            "definition": "coming only to the ankle or knee",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      },
-      {
-        "partOfSpeech": "adverb",
-        "senses": [
-          {
-            "id": "knee-deep-adverb-1",
-            "definition": "up to the knees",
-            "translation": "",
-            "examples": [
-              {
-                "text": "we were standing knee-deep in the water",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knee-hi",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knee-hi-noun-1",
-            "definition": "a sock or stocking that reaches up to just below the knees",
-            "translation": "",
-            "examples": [
-              {
-                "text": "You need knee-highs to cover your shin pads.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knee-high",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knee-high-noun-1",
-            "definition": "a sock or stocking that reaches up to just below the knees",
-            "translation": "",
-            "examples": [
-              {
-                "text": "You need knee-highs to cover your shin pads.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knee-length",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knee-length-adjective-1",
-            "definition": "extending to the knee",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I wore knee-length socks.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kneecap",
     "pronunciation": {
       "us": {
@@ -18540,69 +17714,6 @@
     ]
   },
   {
-    "word": "knife-edge",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knife-edge-noun-1",
-            "definition": "a narrow boundary",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I live on the knife-edge between genius and insanity.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knife-handle",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "razor clam"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knife-handle-noun-1",
-            "definition": "a marine clam having a long narrow curved thin shell",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "knifelike",
     "pronunciation": {
       "us": {
@@ -18711,39 +17822,6 @@
             "examples": [
               {
                 "text": "The Beatles were knighted",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knight-errant",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knight-errant-noun-1",
-            "definition": "a medieval wandering knight traveling in search of adventure",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The knight-errant didn't belong to any house involved in the conflict, but still joined the battle.",
                 "translation": ""
               }
             ]
@@ -19920,130 +18998,6 @@
     ]
   },
   {
-    "word": "knock-down",
-    "pronunciation": {
-      "us": {
-        "ipa": "nɑk daʊn"
-      },
-      "uk": {
-        "ipa": "nɒk daʊn"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "powerful"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knock-down-adjective-1",
-            "definition": "strong enough to knock down or overwhelm",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knock-down-and-drag-out",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "knockdown-dragout"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knock-down-and-drag-out-adjective-1",
-            "definition": "extremely violent",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Two students got in a knock-down-and-drag-out fight over a petty slight.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knock-knee",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "genu valgum",
-      "tibia valga"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "knock-knee-noun-1",
-            "definition": "an inward slant of the thigh",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knock-kneed",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knock-kneed-adjective-1",
-            "definition": "having the knees abnormally close together and the ankles wide apart",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "knockabout",
     "pronunciation": {
       "us": {
@@ -20148,36 +19102,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "knockdown-dragout",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "knock-down-and-drag-out"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "knockdown-dragout-adjective-1",
-            "definition": "extremely violent",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -21115,39 +20039,6 @@
     ]
   },
   {
-    "word": "know-all",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "know-all-noun-1",
-            "definition": "someone who thinks they know everything and refuses to accept advice or information from others",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Don't be such a know-it-all.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "know-how",
     "pronunciation": {
       "us": {
@@ -21173,39 +20064,6 @@
             "examples": [
               {
                 "text": "We need to hire someone with the proper know-how to set up our network.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "know-it-all",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "know-it-all-noun-1",
-            "definition": "someone who thinks they know everything and refuses to accept advice or information from others",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Don't be such a know-it-all.",
                 "translation": ""
               }
             ]
@@ -21956,41 +20814,6 @@
     "phrases": []
   },
   {
-    "word": "ko'd",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "out"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "ko'd-adjective-1",
-            "definition": "knocked unconscious by a heavy blow",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The boxer was KO'd in the first round.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "koala",
     "pronunciation": {
       "us": {
@@ -22259,66 +21082,6 @@
           {
             "id": "koinonia-noun-1",
             "definition": "communion by intimate participation, associated with the Christian church; fellowship",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kok-saghyz",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kok-sagyz"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kok-saghyz-noun-1",
-            "definition": "perennial dandelion native to Kazakhstan cultivated for its fleshy roots that have high rubber content",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kok-sagyz",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kok-saghyz"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kok-sagyz-noun-1",
-            "definition": "a perennial dandelion native to Kazakhstan cultivated for its fleshy roots that have high rubber content",
             "translation": "",
             "examples": []
           }
@@ -23827,36 +22590,6 @@
     "phrases": []
   },
   {
-    "word": "ku-chiku",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "giant timber bamboo"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "ku-chiku-noun-1",
-            "definition": "a large bamboo having thick-walled culms",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kudos",
     "pronunciation": {
       "us": {
@@ -24225,36 +22958,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kuri-chiku",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "black bamboo"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kuri-chiku-noun-1",
-            "definition": "small bamboo having thin green culms turning shining black",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -24667,36 +23370,6 @@
     "phrases": []
   },
   {
-    "word": "kw-hr",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "kilowatt hour"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kw-hr-noun-1",
-            "definition": "a unit of energy equal to the work done by a power of 1000 watts operating for one hour",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "kwacha",
     "pronunciation": {
       "us": {
@@ -24989,36 +23662,6 @@
           {
             "id": "kymograph-noun-1",
             "definition": "scientific instrument consisting of a rotating drum holding paper on which a stylus traces a continuous record (as of breathing or blood pressure)",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "kyo-chiku",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "giant bamboo"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "kyo-chiku-noun-1",
-            "definition": "an immense tropical southeast Asian bamboo with tough hollow culms that resemble tree trunks",
             "translation": "",
             "examples": []
           }

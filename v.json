@@ -49,34 +49,6 @@
     "phrases": []
   },
   {
-    "word": "v.p.",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "v.p.-noun-1",
-            "definition": "an executive officer ranking immediately below a president",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "vacancy",
     "pronunciation": {
       "us": {
@@ -4076,41 +4048,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "value-system",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "ethic"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "value-system-noun-1",
-            "definition": "the principles of right and wrong that are accepted by an individual or a social group",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Stealing doesn't fit into my value-system.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "valued",
@@ -9698,36 +9635,6 @@
     ]
   },
   {
-    "word": "vase-fine",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "leather flower"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vase-fine-noun-1",
-            "definition": "a scandent subshrub of southeastern United States having large red-purple bell-shaped flowers with leathery recurved sepals",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "vasectomise",
     "pronunciation": {
       "us": {
@@ -13321,43 +13228,6 @@
     "phrases": []
   },
   {
-    "word": "velvet-leaf",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "tree mallow",
-      "velvetleaf"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "velvet-leaf-noun-1",
-            "definition": "tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "velvet-leaf-noun-2",
-            "definition": "arborescent perennial shrub having palmately lobed furry leaves and showy red-purple flowers",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "velveteen",
     "pronunciation": {
       "us": {
@@ -13491,34 +13361,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "velvety-furred",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "velvety-furred-adjective-1",
-            "definition": "having hair that feels like velvet",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -15310,36 +15152,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "vent-hole",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "vent"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vent-hole-noun-1",
-            "definition": "a hole for the escape of gas or air",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "ventail",
@@ -23783,34 +23595,6 @@
     "phrases": []
   },
   {
-    "word": "vicar-general",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vicar-general-noun-1",
-            "definition": "an administrative deputy who assists a bishop in the Roman Catholic Church",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "vicarage",
     "pronunciation": {
       "us": {
@@ -24062,96 +23846,6 @@
           {
             "id": "vice-noun-2",
             "definition": "moral weakness",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "vice-presidency",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vice-presidency-noun-1",
-            "definition": "the office and function of a vice president",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "vice-presidency-noun-2",
-            "definition": "the tenure of a vice president",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "vice-presidential",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "vice-presidential-adjective-1",
-            "definition": "relating to a vice president or vice-presidency",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "vice-regent",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vice-regent-noun-1",
-            "definition": "a regent's deputy",
             "translation": "",
             "examples": []
           }
@@ -28568,36 +28262,6 @@
     "phrases": []
   },
   {
-    "word": "vingt-et-un",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "blackjack"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vingt-et-un-noun-1",
-            "definition": "the French name for the card game blackjack",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "viniculture",
     "pronunciation": {
       "us": {
@@ -29535,62 +29199,6 @@
           {
             "id": "violet-noun-2",
             "definition": "any of numerous low-growing violas with small flowers",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "violet-colored",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "violet-colored-adjective-1",
-            "definition": "having a violet color",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "violet-tinged",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "violet-tinged-adjective-1",
-            "definition": "of something that is tinged with violet",
             "translation": "",
             "examples": []
           }
@@ -31566,57 +31174,6 @@
           {
             "id": "virusoid-noun-1",
             "definition": "the smallest of viruses",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "vis-a-vis",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˌvi:z ɑ ˈvi:"
-      },
-      "uk": {
-        "ipa": "vi:zɑ:ˈvi:"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "counterpart",
-      "love seat",
-      "loveseat",
-      "opposite number",
-      "tete-a-tete"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adverb",
-        "senses": [
-          {
-            "id": "vis-a-vis-adverb-1",
-            "definition": "face-to-face with",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      },
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vis-a-vis-noun-1",
-            "definition": "small sofa that seats two people",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "vis-a-vis-noun-2",
-            "definition": "a person or thing having the same function or characteristics as another",
             "translation": "",
             "examples": []
           }
@@ -35342,41 +34899,6 @@
     "phrases": []
   },
   {
-    "word": "viva-voce",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "word-of-mouth"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "viva-voce-adjective-1",
-            "definition": "expressed orally",
-            "translation": "",
-            "examples": [
-              {
-                "text": "a viva-voce report",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "vivace",
     "pronunciation": {
       "us": {
@@ -36002,34 +35524,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "viz.",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adverb",
-        "senses": [
-          {
-            "id": "viz.-adverb-1",
-            "definition": "as follows or in other words",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -38192,34 +37686,6 @@
     "phrases": []
   },
   {
-    "word": "vol-au-vent",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "vol-au-vent-noun-1",
-            "definition": "a puff paste shell filled with a savory meat mixture usually with a sauce",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "volant",
     "pronunciation": {
       "us": {
@@ -39174,34 +38640,6 @@
     "phrases": []
   },
   {
-    "word": "volt-ampere",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "volt-ampere-noun-1",
-            "definition": "a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "voltage",
     "pronunciation": {
       "us": {
@@ -39434,41 +38872,6 @@
             "definition": "in the manner of Voltaire",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "volte-face",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "about-face"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "volte-face-noun-1",
-            "definition": "a major change in attitude or principle or point of view",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The politician did a volte-face when it was convenient.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }

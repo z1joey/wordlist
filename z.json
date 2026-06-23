@@ -33,39 +33,6 @@
     "phrases": []
   },
   {
-    "word": "z-axis",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "z-axis-noun-1",
-            "definition": "the third axis in a 3-dimensional coordinate system",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The line needs to be drawn on the z-axis.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "zabaglione",
     "pronunciation": {
       "us": {
@@ -1978,41 +1945,6 @@
             "examples": [
               {
                 "text": "The zig was cut in the wood without a pattern.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "zig-zag",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "zigzag"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "zig-zag-adjective-1",
-            "definition": "having short sharp turns or angles",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Driving down the zig-zag road made me sick to my stomach.",
                 "translation": ""
               }
             ]

@@ -44,92 +44,6 @@
     ]
   },
   {
-    "word": "u-drive",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "car rental"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "u-drive-noun-1",
-            "definition": "a rented car",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "u-shaped",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "u-shaped-adjective-1",
-            "definition": "shaped in the form of the letter U",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "u-turn",
-    "pronunciation": {
-      "us": {
-        "ipa": "ju tɝn"
-      },
-      "uk": {
-        "ipa": "ju: tɜ:n"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "u-turn-noun-1",
-            "definition": "complete reversal of direction of travel",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "uakari",
     "pronunciation": {
       "us": {
@@ -2490,36 +2404,6 @@
     "phrases": []
   },
   {
-    "word": "umbel-like",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "umbellate"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "umbel-like-adjective-1",
-            "definition": "resembling an umbel in form",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "umbellar",
     "pronunciation": {
       "us": {
@@ -2993,34 +2877,6 @@
     "phrases": []
   },
   {
-    "word": "umbrella-shaped",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "umbrella-shaped-adjective-1",
-            "definition": "shaped in the form of an umbrella",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "umbrellalike",
     "pronunciation": {
       "us": {
@@ -3381,95 +3237,6 @@
           {
             "id": "umteenth-adjective-1",
             "definition": "last in an indefinitely numerous series",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "un-american",
-    "pronunciation": {
-      "us": {
-        "ipa": "ʌn ɚˈmɛrɪkɚn"
-      },
-      "uk": {
-        "ipa": "ʌn əˈmerɪkən"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "un-american-adjective-1",
-            "definition": "considered contrary to the best interests of the United States",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "un-come-at-able",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "un-get-at-able",
-      "ungetatable"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "un-come-at-able-adjective-1",
-            "definition": "difficult to reach or attain",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "un-get-at-able",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "un-come-at-able"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "un-get-at-able-adjective-1",
-            "definition": "difficult to reach or attain",
             "translation": "",
             "examples": []
           }
@@ -12005,47 +11772,6 @@
     "phrases": []
   },
   {
-    "word": "uncalled-for",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "gratuitous"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "uncalled-for-adjective-1",
-            "definition": "unnecessary and unwarranted",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "uncalled-for-adjective-2",
-            "definition": "not required or requested",
-            "translation": "",
-            "examples": [
-              {
-                "text": "uncalled-for suggestions",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "uncamphorated",
     "pronunciation": {
       "us": {
@@ -12201,34 +11927,6 @@
           {
             "id": "uncarbonated-adjective-1",
             "definition": "not having carbonation",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "uncared-for",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "uncared-for-adjective-1",
-            "definition": "lacking needed care and attention",
             "translation": "",
             "examples": []
           }
@@ -21668,64 +21366,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "under-the-counter",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "under-the-counter-adjective-1",
-            "definition": "done or sold illicitly and secretly",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "under-the-table",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "sub-rosa"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "under-the-table-adjective-1",
-            "definition": "designed and carried out secretly or confidentially",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -40637,34 +40277,6 @@
     "phrases": []
   },
   {
-    "word": "unheard-of",
-    "pronunciation": {
-      "us": {
-        "ipa": "ʌnˈhɚd ʌv"
-      },
-      "uk": {
-        "ipa": "ʌnˈhɜ:dɒv"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unheard-of-adjective-1",
-            "definition": "previously unknown",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "unhearing",
     "pronunciation": {
       "us": {
@@ -41339,41 +40951,6 @@
         "senses": [
           {
             "id": "unhoped-adjective-1",
-            "definition": "so unexpected as to have not been imagined",
-            "translation": "",
-            "examples": [
-              {
-                "text": "an unhoped-for piece of luck",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "unhoped-for",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "unhoped"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unhoped-for-adjective-1",
             "definition": "so unexpected as to have not been imagined",
             "translation": "",
             "examples": [
@@ -50307,36 +49884,6 @@
     "phrases": []
   },
   {
-    "word": "unlooked-for",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "unanticipated"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unlooked-for-adjective-1",
-            "definition": "not anticipated",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "unloose",
     "pronunciation": {
       "us": {
@@ -57693,36 +57240,6 @@
                 "translation": ""
               }
             ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "unpleasant-smelling",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "malodorous"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unpleasant-smelling-adjective-1",
-            "definition": "having an unpleasant smell",
-            "translation": "",
-            "examples": []
           }
         ]
       }
@@ -75932,36 +75449,6 @@
     "phrases": []
   },
   {
-    "word": "unthought-of",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "unhoped"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unthought-of-adjective-1",
-            "definition": "so unexpected as to have not been imagined",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "unthoughtful",
     "pronunciation": {
       "us": {
@@ -81217,36 +80704,6 @@
     "phrases": []
   },
   {
-    "word": "unwished-for",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "unwelcome"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "unwished-for-adjective-1",
-            "definition": "not welcome",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "unwitting",
     "pronunciation": {
       "us": {
@@ -82662,125 +82119,6 @@
     ]
   },
   {
-    "word": "up-and-coming",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˌʌpənˈkʌmɪŋ"
-      },
-      "uk": {
-        "ipa": "ˌʌpənˈkʌmɪŋ"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "industrious"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "up-and-coming-adjective-1",
-            "definition": "working hard to promote an enterprise",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "up-bow",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "up-bow-noun-1",
-            "definition": "an upward stroke from the tip to the heel of the bow",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "up-country",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adverb",
-        "senses": [
-          {
-            "id": "up-country-adverb-1",
-            "definition": "to or in the interior of a country or region",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "up-tick",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "up-tick-noun-1",
-            "definition": "a small increase",
-            "translation": "",
-            "examples": [
-              {
-                "text": "the up-tick in terrorist activity",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "up-to-date",
     "pronunciation": {
       "us": {
@@ -82817,66 +82155,6 @@
           {
             "id": "up-to-date-adjective-2",
             "definition": "in accord with the most fashionable ideas or style",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "up-to-dateness",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "currency"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "up-to-dateness-noun-1",
-            "definition": "the property of belonging to the present time",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "up-to-the-minute",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "latest"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "up-to-the-minute-adjective-1",
-            "definition": "up to the immediate present",
             "translation": "",
             "examples": []
           }
@@ -84484,120 +83762,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "upper-class",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈʌpɚklɑs"
-      },
-      "uk": {
-        "ipa": "ˈʌpəklɑ:s"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "upper-class-adjective-1",
-            "definition": "occupying the highest socioeconomic position in a society",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "upper-level",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "high-level"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "upper-level-adjective-1",
-            "definition": "at an elevated level in rank or importance",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "upper-lower-class",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "upper-lower-class-adjective-1",
-            "definition": "occupying the upper part of the lower class",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "upper-middle-class",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈʌpɚ ˈmidl klæs"
-      },
-      "uk": {
-        "ipa": "ˈʌpə ˈmɪdl klɑ:s"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "upper-middle-class-adjective-1",
-            "definition": "occupying the upper part of the middle socioeconomic range in a society",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "uppercase",
@@ -88888,34 +88052,6 @@
     "phrases": []
   },
   {
-    "word": "urn-shaped",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "urn-shaped-adjective-1",
-            "definition": "having a concave shape like an urn",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "urobilin",
     "pronunciation": {
       "us": {
@@ -90192,36 +89328,6 @@
     ]
   },
   {
-    "word": "used-car",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "secondhand car"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "used-car-noun-1",
-            "definition": "a car that has been previously owned",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "useful",
     "pronunciation": {
       "us": {
@@ -90491,36 +89597,6 @@
         "translation": ""
       }
     ]
-  },
-  {
-    "word": "user-friendly",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈjuzɚ ˈfrendli"
-      },
-      "uk": {
-        "ipa": "ˈju:zə ˈfrendlɪ"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "handy"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "user-friendly-adjective-1",
-            "definition": "easy to use",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
   },
   {
     "word": "usher",
@@ -91594,36 +90670,6 @@
     "phrases": []
   },
   {
-    "word": "utility-grade",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "utility"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "utility-grade-adjective-1",
-            "definition": "used of beef",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "utilizable",
     "pronunciation": {
       "us": {
@@ -92663,36 +91709,6 @@
           {
             "id": "uvulopalatopharyngoplasty-noun-1",
             "definition": "surgical resection of unnecessary palatal and oropharyngeal tissue to open the airway",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "ux.",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "uxor"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "ux.-noun-1",
-            "definition": "(legal terminology) the Latin word for wife",
             "translation": "",
             "examples": []
           }

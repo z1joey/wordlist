@@ -52,72 +52,6 @@
     ]
   },
   {
-    "word": "x-axis",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈɛksˌæksɪs"
-      },
-      "uk": {
-        "ipa": "ˈeksˌæksɪs"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "x-axis-noun-1",
-            "definition": "the horizontal axis in a plane coordinate system",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We marked the x-axis with the number of visitors that the museum received.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "x-linked",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "x-linked-adjective-1",
-            "definition": "relating to genes or characteristics or conditions carried on the X chromosome",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I think it might be an X-linked mutation.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
     "word": "x-ray",
     "pronunciation": {
       "us": {
@@ -203,39 +137,6 @@
             "definition": "examine by taking x-rays",
             "translation": "",
             "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "x-raying",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "x-raying-noun-1",
-            "definition": "obtaining images by the use of X rays",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The pictures from the X-raying were analyzed by the dentist.",
-                "translation": ""
-              }
-            ]
           }
         ]
       }
