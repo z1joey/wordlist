@@ -59,7 +59,6 @@
       "cet6"
     ],
     "synonyms": [
-      "id est",
       "ie"
     ],
     "entries": [
@@ -193,9 +192,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "comfort woman"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -307,9 +304,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ibid."
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -393,9 +388,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "isobutylphenyl propionic acid"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -428,9 +421,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -458,9 +449,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cocoa plum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -506,10 +495,8 @@
       "crank",
       "frappe",
       "frost",
-      "ice rink",
       "icing",
-      "sparkler",
-      "water ice"
+      "sparkler"
     ],
     "entries": [
       {
@@ -641,8 +628,7 @@
       "toefl"
     ],
     "synonyms": [
-      "berg",
-      "crisphead lettuce"
+      "berg"
     ],
     "entries": [
       {
@@ -823,9 +809,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ice cap"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -853,9 +837,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ice cream"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -977,9 +959,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hatchet man"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1013,9 +993,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ice pick"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1170,9 +1148,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fish-worship"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1449,8 +1425,7 @@
     "synonyms": [
       "frost",
       "frosting",
-      "ice",
-      "icing the puck"
+      "ice"
     ],
     "entries": [
       {
@@ -1715,9 +1690,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "image breaker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2166,9 +2139,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intensive care unit"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2285,9 +2256,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "I.D."
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2326,9 +2295,7 @@
     ],
     "synonyms": [
       "approximation",
-      "melodic theme",
       "mind",
-      "musical theme",
       "theme",
       "thought"
     ],
@@ -2583,9 +2550,7 @@
     "tags": [
       "cet6"
     ],
-    "synonyms": [
-      "high-mindedness"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3520,11 +3485,8 @@
     ],
     "synonyms": [
       "identicalness",
-      "identity element",
-      "identity operator",
       "indistinguishability",
-      "individuality",
-      "personal identity"
+      "individuality"
     ],
     "entries": [
       {
@@ -3922,10 +3884,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "political orientation",
-      "political theory"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4081,8 +4040,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "autolatry",
-      "self-worship"
+      "autolatry"
     ],
     "entries": [
       {
@@ -4149,13 +4107,9 @@
     ],
     "synonyms": [
       "accent",
-      "artistic style",
       "dialect",
-      "idiomatic expression",
       "parlance",
-      "phrasal idiom",
-      "phrase",
-      "set phrase"
+      "phrase"
     ],
     "entries": [
       {
@@ -4345,9 +4299,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "idiopathic disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4579,9 +4531,7 @@
       "jobless",
       "light",
       "loose",
-      "out of work",
       "slug",
-      "tick over",
       "unused",
       "wild"
     ],
@@ -4914,8 +4864,6 @@
     ],
     "synonyms": [
       "god",
-      "graven image",
-      "matinee idol",
       "perfection"
     ],
     "entries": [
@@ -4960,7 +4908,6 @@
       "gre"
     ],
     "synonyms": [
-      "idol worshiper",
       "idoliser",
       "idolizer"
     ],
@@ -5092,8 +5039,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cultism",
-      "idol worship"
+      "cultism"
     ],
     "entries": [
       {
@@ -5556,9 +5502,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "i.e."
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -5586,9 +5530,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "improvised explosive device"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5987,8 +5929,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "firing",
-      "ignition system"
+      "firing"
     ],
     "entries": [
       {
@@ -6342,9 +6283,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "know nothing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6615,9 +6554,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "common iguana"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6645,9 +6582,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "iguanid lizard"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6828,9 +6763,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -6858,9 +6791,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ilama tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6978,9 +6909,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intestinal obstruction"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7593,7 +7522,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bar sinister",
       "bastardy"
     ],
     "entries": [
@@ -7687,8 +7615,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "illicitly",
-      "out of wedlock"
+      "illicitly"
     ],
     "entries": [
       {
@@ -8021,7 +7948,6 @@
     ],
     "synonyms": [
       "ignorant",
-      "illiterate person",
       "nonreader"
     ],
     "entries": [
@@ -8431,8 +8357,7 @@
     "tags": [],
     "synonyms": [
       "lighted",
-      "lit",
-      "well-lighted"
+      "lit"
     ],
     "entries": [
       {
@@ -8619,8 +8544,6 @@
       "delusion",
       "fancy",
       "fantasy",
-      "head game",
-      "magic trick",
       "phantasy",
       "semblance"
     ],
@@ -9168,9 +9091,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fifty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -9198,9 +9119,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sixty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -9228,9 +9147,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "seventy-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -9275,13 +9192,11 @@
       "figure",
       "icon",
       "ikon",
-      "mental image",
       "paradigm",
       "persona",
       "picture",
       "prototype",
-      "range",
-      "range of a function"
+      "range"
     ],
     "entries": [
       {
@@ -9490,9 +9405,6 @@
       "toefl"
     ],
     "synonyms": [
-      "complex number",
-      "complex quantity",
-      "imaginary number",
       "notional"
     ],
     "entries": [
@@ -9707,7 +9619,6 @@
       "zk"
     ],
     "synonyms": [
-      "conceive of",
       "envisage",
       "ideate",
       "think"
@@ -9753,7 +9664,6 @@
     "synonyms": [
       "imagery",
       "imagination",
-      "mental imagery",
       "tomography"
     ],
     "entries": [
@@ -10062,7 +9972,6 @@
     "synonyms": [
       "changeling",
       "cretin",
-      "half-wit",
       "idiot",
       "idiotic",
       "imbecilic",
@@ -10699,9 +10608,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "impramine hydrochloride"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10975,7 +10882,6 @@
     "synonyms": [
       "faultless",
       "impeccable",
-      "spic-and-span",
       "undefiled"
     ],
     "entries": [
@@ -11600,7 +11506,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "immediate apprehension",
       "immediateness",
       "instancy",
       "instantaneousness"
@@ -12272,9 +12177,7 @@
       "gk",
       "toefl"
     ],
-    "synonyms": [
-      "in-migration"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12381,9 +12284,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "at hand"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -12504,7 +12405,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "non-miscible",
       "unmixable"
     ],
     "entries": [
@@ -13623,8 +13523,6 @@
     "tags": [],
     "synonyms": [
       "immoveable",
-      "real estate",
-      "real property",
       "realty",
       "stabile",
       "unmovable"
@@ -14151,9 +14049,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "immunochemical assay"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14450,9 +14346,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "immunizing agent"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14536,11 +14430,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "immune gamma globulin",
-      "immune globulin",
-      "immune serum globulin"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14865,9 +14755,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "immune suppressant drug",
       "immunosuppressant",
-      "immunosuppressive drug",
       "immunosuppressor"
     ],
     "entries": [
@@ -15384,7 +15272,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "impacted tooth",
       "impingement"
     ],
     "entries": [
@@ -15887,9 +15774,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "odd-pinnate"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -16182,8 +16067,6 @@
       "gre"
     ],
     "synonyms": [
-      "blind alley",
-      "dead end",
       "deadlock",
       "stalemate",
       "standstill"
@@ -17383,9 +17266,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "at hand"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -17416,9 +17297,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "at hand"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -17707,11 +17586,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "imperative form",
-      "imperative mood",
-      "jussive mood"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -18081,9 +17956,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "imperfective aspect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18210,7 +18083,6 @@
       "ky"
     ],
     "synonyms": [
-      "imperial beard",
       "purple"
     ],
     "entries": [
@@ -20374,9 +20246,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "deep-rooted"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -20549,13 +20419,7 @@
       "toefl"
     ],
     "synonyms": [
-      "carry out",
-      "enforce",
-      "follow out",
-      "follow through",
-      "follow up",
-      "go through",
-      "put through"
+      "enforce"
     ],
     "entries": [
       {
@@ -20643,7 +20507,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "carrying out",
       "effectuation",
       "execution"
     ],
@@ -20810,10 +20673,8 @@
       "toefl"
     ],
     "synonyms": [
-      "conditional relation",
       "deduction",
-      "import",
-      "logical implication"
+      "import"
     ],
     "entries": [
       {
@@ -21095,9 +20956,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "go off"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -21693,7 +21552,6 @@
     "synonyms": [
       "authoritative",
       "crucial",
-      "of import",
       "significant"
     ],
     "entries": [
@@ -22340,7 +22198,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "impossible action",
       "impossibleness"
     ],
     "entries": [
@@ -22385,7 +22242,6 @@
     ],
     "synonyms": [
       "inconceivable",
-      "out of the question",
       "unacceptable",
       "unimaginable"
     ],
@@ -23572,9 +23428,6 @@
     },
     "tags": [],
     "synonyms": [
-      "bang up",
-      "knock up",
-      "prang up",
       "saturate",
       "tincture"
     ],
@@ -23943,7 +23796,6 @@
       "depression",
       "effect",
       "feeling",
-      "mental picture",
       "picture",
       "printing",
       "stamp"
@@ -24810,12 +24662,9 @@
       "toefl"
     ],
     "synonyms": [
-      "ad lib",
-      "ad-lib",
       "extemporaneous",
       "extemporary",
       "extempore",
-      "off-the-cuff",
       "offhand",
       "offhanded",
       "unrehearsed"
@@ -25372,8 +25221,6 @@
       "toefl"
     ],
     "synonyms": [
-      "ill-considered",
-      "ill-judged",
       "shortsighted"
     ],
     "entries": [
@@ -25478,8 +25325,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "extemporization",
-      "temporary expedient"
+      "extemporization"
     ],
     "entries": [
       {
@@ -25528,9 +25374,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "ad-lib"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -25595,9 +25439,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ad-lib"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -25980,9 +25822,6 @@
       "impetus",
       "impulsion",
       "momentum",
-      "nerve impulse",
-      "nervous impulse",
-      "neural impulse",
       "pulsation",
       "pulse",
       "pulsing",
@@ -28034,7 +27873,6 @@
     ],
     "synonyms": [
       "breathless",
-      "non-living",
       "nonliving"
     ],
     "entries": [
@@ -28247,9 +28085,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "out of place"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -28346,7 +28182,6 @@
     ],
     "synonyms": [
       "incompatible",
-      "out or keeping",
       "unfitting"
     ],
     "entries": [
@@ -28973,7 +28808,6 @@
     ],
     "synonyms": [
       "first",
-      "inaugural address",
       "inauguration"
     ],
     "entries": [
@@ -29079,8 +28913,7 @@
       "toefl"
     ],
     "synonyms": [
-      "introduce",
-      "kick off"
+      "introduce"
     ],
     "entries": [
       {
@@ -29803,8 +29636,7 @@
       "cet6"
     ],
     "synonyms": [
-      "incompetent",
-      "unequal to"
+      "incompetent"
     ],
     "entries": [
       {
@@ -30151,7 +29983,6 @@
     ],
     "synonyms": [
       "bodied",
-      "body forth",
       "embody",
       "substantiate"
     ],
@@ -30521,11 +30352,9 @@
     "synonyms": [
       "firebomb",
       "firebug",
-      "incendiary bomb",
       "incitive",
       "inflammatory",
       "instigative",
-      "rabble-rousing",
       "seditious"
     ],
     "entries": [
@@ -31081,7 +30910,6 @@
       "zk"
     ],
     "synonyms": [
-      "column inch",
       "edge",
       "in"
     ],
@@ -31183,8 +31011,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "budding",
-      "inchoative aspect"
+      "budding"
     ],
     "entries": [
       {
@@ -31229,9 +31056,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "measuring worm"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31265,9 +31090,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "relative incidence"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31392,8 +31215,6 @@
     "synonyms": [
       "attendant",
       "incident",
-      "incidental expense",
-      "minor expense",
       "nonessential"
     ],
     "entries": [
@@ -31477,8 +31298,7 @@
       "toefl"
     ],
     "synonyms": [
-      "accidentally",
-      "by the way"
+      "accidentally"
     ],
     "entries": [
       {
@@ -31851,8 +31671,7 @@
       "prick",
       "scratch",
       "section",
-      "slit",
-      "surgical incision"
+      "slit"
     ],
     "entries": [
       {
@@ -32144,8 +31963,7 @@
     ],
     "synonyms": [
       "move",
-      "prod",
-      "set off"
+      "prod"
     ],
     "entries": [
       {
@@ -32361,7 +32179,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bad weather",
       "inclementness",
       "severity"
     ],
@@ -32469,17 +32286,12 @@
       "toefl"
     ],
     "synonyms": [
-      "angle of dip",
-      "angle of inclination",
       "dip",
       "disposition",
-      "inclination of an orbit",
       "inclining",
       "lean",
       "leaning",
       "list",
-      "magnetic dip",
-      "magnetic inclination",
       "tendency",
       "tilt"
     ],
@@ -32787,8 +32599,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "clinometer",
-      "dip circle"
+      "clinometer"
     ],
     "entries": [
       {
@@ -32917,9 +32728,7 @@
       "ky",
       "zk"
     ],
-    "synonyms": [
-      "let in"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -33018,9 +32827,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cellular inclusion",
-      "comprehension",
-      "inclusion body"
+      "comprehension"
     ],
     "entries": [
       {
@@ -33354,9 +33161,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "tongue-tied"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -33984,7 +33789,6 @@
     "tags": [],
     "synonyms": [
       "inconsistency",
-      "mutual exclusiveness",
       "repugnance"
     ],
     "entries": [
@@ -34039,7 +33843,6 @@
       "antagonistic",
       "contrastive",
       "discrepant",
-      "ill-sorted",
       "inappropriate",
       "mismated",
       "uncongenial",
@@ -34232,7 +34035,6 @@
       "clumsy",
       "fumbling",
       "incapable",
-      "incompetent person",
       "unqualified",
       "unskilled"
     ],
@@ -34308,9 +34110,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "displaying incompetence"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -35790,8 +35590,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "incontinency",
-      "self-gratification"
+      "incontinency"
     ],
     "entries": [
       {
@@ -36030,7 +35829,6 @@
       "disoblige",
       "incommode",
       "incommodiousness",
-      "put out",
       "trouble",
       "troublesomeness"
     ],
@@ -36920,8 +36718,7 @@
       "augmentation",
       "gain",
       "growth",
-      "increment",
-      "step-up"
+      "increment"
     ],
     "entries": [
       {
@@ -37241,7 +37038,6 @@
       "ky"
     ],
     "synonyms": [
-      "more and more",
       "progressively"
     ],
     "entries": [
@@ -37430,7 +37226,6 @@
     ],
     "synonyms": [
       "disbelief",
-      "mental rejection",
       "scepticism",
       "skepticism"
     ],
@@ -38341,8 +38136,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "tenure",
-      "term of office"
+      "tenure"
     ],
     "entries": [
       {
@@ -38941,7 +38735,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "concave shape",
       "concavity",
       "incurvature"
     ],
@@ -40301,8 +40094,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "indecorous",
-      "off-color"
+      "indecorous"
     ],
     "entries": [
       {
@@ -40916,14 +40708,10 @@
     "synonyms": [
       "autonomous",
       "fencesitter",
-      "free lance",
-      "free-lance",
       "freelance",
       "freelancer",
       "main",
       "mugwump",
-      "self-employed person",
-      "self-governing",
       "sovereign"
     ],
     "entries": [
@@ -41411,7 +41199,6 @@
     ],
     "synonyms": [
       "forefinger",
-      "index finger",
       "indicator",
       "power"
     ],
@@ -41689,8 +41476,7 @@
     ],
     "synonyms": [
       "Amerind",
-      "Amerindic",
-      "Native American"
+      "Amerindic"
     ],
     "entries": [
       {
@@ -41930,11 +41716,7 @@
       "toefl"
     ],
     "synonyms": [
-      "common mood",
       "declarative",
-      "declarative mood",
-      "fact mood",
-      "indicative mood",
       "suggestive"
     ],
     "entries": [
@@ -41995,7 +41777,6 @@
     ],
     "synonyms": [
       "index",
-      "index number",
       "indicant"
     ],
     "entries": [
@@ -42202,9 +41983,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "bill of indictment"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42358,7 +42137,6 @@
       "deaf",
       "immaterial",
       "inert",
-      "so-so",
       "unbiased",
       "unbiassed"
     ],
@@ -42830,9 +42608,7 @@
       "toefl"
     ],
     "synonyms": [
-      "dyspepsia",
-      "stomach upset",
-      "upset stomach"
+      "dyspepsia"
     ],
     "entries": [
       {
@@ -43014,7 +42790,6 @@
     "tags": [],
     "synonyms": [
       "anil",
-      "indigo plant",
       "indigotin"
     ],
     "entries": [
@@ -44252,7 +44027,6 @@
       "ky"
     ],
     "synonyms": [
-      "case-by-case",
       "person",
       "private",
       "single"
@@ -44448,8 +44222,7 @@
       "toefl"
     ],
     "synonyms": [
-      "individuality",
-      "laissez faire"
+      "individuality"
     ],
     "entries": [
       {
@@ -44537,8 +44310,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "individualist",
-      "laissez-faire"
+      "individualist"
     ],
     "entries": [
       {
@@ -45045,8 +44817,7 @@
       "faineant",
       "lazy",
       "otiose",
-      "slothful",
-      "work-shy"
+      "slothful"
     ],
     "entries": [
       {
@@ -45180,7 +44951,6 @@
       "toefl"
     ],
     "synonyms": [
-      "never-say-die",
       "unsubduable"
     ],
     "entries": [
@@ -45601,9 +45371,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "beyond doubt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -45631,11 +45399,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "beyond a doubt",
-      "beyond a shadow of a doubt",
-      "beyond doubt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -45679,7 +45443,6 @@
       "toefl"
     ],
     "synonyms": [
-      "bring on",
       "cause",
       "induct",
       "rush"
@@ -46086,7 +45849,6 @@
       "generalisation",
       "generalization",
       "inductance",
-      "inductive reasoning",
       "initiation",
       "installation",
       "trigger"
@@ -46381,7 +46143,6 @@
       "lenience",
       "lunacy",
       "pampering",
-      "self-indulgence",
       "tomfoolery"
     ],
     "entries": [
@@ -46855,9 +46616,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "industrial enterprise"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47016,9 +46775,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "industrial enterprise"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47165,8 +46922,7 @@
     "synonyms": [
       "energetic",
       "gumptious",
-      "hardworking",
-      "up-and-coming"
+      "hardworking"
     ],
     "entries": [
       {
@@ -48606,7 +48362,6 @@
       "clumsy",
       "cumbersome",
       "feckless",
-      "ill-chosen",
       "inapt",
       "tactless"
     ],
@@ -49514,7 +49269,6 @@
       "inescapably",
       "necessarily",
       "needs",
-      "of necessity",
       "perforce",
       "unavoidably"
     ],
@@ -50924,9 +50678,7 @@
       "cet4",
       "toefl"
     ],
-    "synonyms": [
-      "ill-famed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -51000,8 +50752,7 @@
       "toefl"
     ],
     "synonyms": [
-      "babyhood",
-      "early childhood"
+      "babyhood"
     ],
     "entries": [
       {
@@ -51237,7 +50988,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "foot soldier",
       "footslogger",
       "marcher"
     ],
@@ -52262,12 +52012,7 @@
       "cet6",
       "toefl"
     ],
-    "synonyms": [
-      "low quality",
-      "lower rank",
-      "lower status",
-      "unfavorable position"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52697,9 +52442,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "baseball diamond"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52768,7 +52511,6 @@
       "toefl"
     ],
     "synonyms": [
-      "pass through",
       "penetrate"
     ],
     "entries": [
@@ -52917,7 +52659,6 @@
       "innumerous",
       "multitudinous",
       "myriad",
-      "non-finite",
       "numberless",
       "space",
       "uncounted",
@@ -53755,7 +53496,6 @@
     "synonyms": [
       "amplify",
       "balloon",
-      "blow up",
       "expand"
     ],
     "entries": [
@@ -53835,8 +53575,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "high-flown",
-      "high-sounding",
       "hyperbolic"
     ],
     "entries": [
@@ -53914,7 +53652,6 @@
       "pompousness",
       "pretentiousness",
       "puffiness",
-      "rising prices",
       "splashiness"
     ],
     "entries": [
@@ -54631,7 +54368,6 @@
       "zk"
     ],
     "synonyms": [
-      "act upon",
       "charm",
       "shape",
       "tempt"
@@ -55275,9 +55011,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "information science"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55651,7 +55385,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "making known",
       "ratting"
     ],
     "entries": [
@@ -55934,12 +55667,7 @@
     "tags": [
       "ky"
     ],
-    "synonyms": [
-      "infrared emission",
-      "infrared frequency",
-      "infrared light",
-      "infrared radiation"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -57146,9 +56874,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "chimney corner"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57247,10 +56973,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "block of metal",
-      "metal bar"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57360,9 +57083,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "deep-rooted"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -57427,9 +57148,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "ungrateful person"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58268,7 +57987,6 @@
     "tags": [],
     "synonyms": [
       "aspiration",
-      "breathing in",
       "inhalant",
       "inspiration",
       "intake"
@@ -58630,8 +58348,7 @@
       "toefl"
     ],
     "synonyms": [
-      "constitutional",
-      "implicit in"
+      "constitutional"
     ],
     "entries": [
       {
@@ -58813,7 +58530,6 @@
       "toefl"
     ],
     "synonyms": [
-      "hereditary pattern",
       "heritage"
     ],
     "entries": [
@@ -60056,8 +59772,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "initialization",
-      "low-level formatting"
+      "initialization"
     ],
     "entries": [
       {
@@ -60199,9 +59914,7 @@
       "cet6",
       "toefl"
     ],
-    "synonyms": [
-      "ab initio"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -60244,8 +59957,6 @@
       "broach",
       "enlightened",
       "induct",
-      "lead up",
-      "learned person",
       "novice",
       "pioneer",
       "pundit",
@@ -60427,8 +60138,7 @@
     ],
     "synonyms": [
       "enterprise",
-      "first",
-      "first step"
+      "first"
     ],
     "entries": [
       {
@@ -60544,12 +60254,9 @@
       "toefl"
     ],
     "synonyms": [
-      "come in",
       "interject",
       "interpose",
-      "put in",
-      "shoot",
-      "throw in"
+      "shoot"
     ],
     "entries": [
       {
@@ -60877,7 +60584,6 @@
       "gre"
     ],
     "synonyms": [
-      "cease and desist order",
       "enjoining",
       "enjoinment"
     ],
@@ -61109,8 +60815,6 @@
       "toefl"
     ],
     "synonyms": [
-      "accidental injury",
-      "combat injury",
       "harm",
       "wound"
     ],
@@ -61383,8 +61087,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "evergreen winterberry",
-      "gall-berry",
       "gallberry"
     ],
     "entries": [
@@ -61575,9 +61277,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ink bottle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61671,9 +61371,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ink-black"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -62599,9 +62297,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "purple chinese houses"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62637,11 +62333,9 @@
       "toefl"
     ],
     "synonyms": [
-      "clean-handed",
       "free",
       "guiltless",
       "impeccant",
-      "inexperienced person",
       "ingenuous",
       "innocuous",
       "sinless",
@@ -64196,7 +63890,6 @@
     ],
     "synonyms": [
       "comment",
-      "input signal",
       "remark",
       "stimulation"
     ],
@@ -65786,9 +65479,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "insect powder"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -65816,9 +65507,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "insect repellent"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66638,7 +66327,6 @@
       "toefl"
     ],
     "synonyms": [
-      "cut-in",
       "enclose",
       "enter",
       "inclose",
@@ -66648,10 +66336,6 @@
       "introduce",
       "pose",
       "present",
-      "put in",
-      "slip in",
-      "sneak in",
-      "stick in",
       "tuck"
     ],
     "entries": [
@@ -66932,7 +66616,6 @@
       "zk"
     ],
     "synonyms": [
-      "at heart",
       "indoors",
       "inner",
       "interior",
@@ -67269,8 +66952,7 @@
       "brainstorm",
       "brainwave",
       "penetration",
-      "perceptiveness",
-      "sixth sense"
+      "perceptiveness"
     ],
     "entries": [
       {
@@ -67977,8 +67659,7 @@
     ],
     "synonyms": [
       "assert",
-      "importune",
-      "take a firm stand"
+      "importune"
     ],
     "entries": [
       {
@@ -68271,9 +67952,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "so far"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -68350,8 +68029,7 @@
     "synonyms": [
       "heliotherapy",
       "siriasis",
-      "sunstroke",
-      "thermic fever"
+      "sunstroke"
     ],
     "entries": [
       {
@@ -68472,8 +68150,7 @@
     "synonyms": [
       "audacious",
       "flip",
-      "impudent",
-      "snotty-nosed"
+      "impudent"
     ],
     "entries": [
       {
@@ -68786,7 +68463,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "sleepless person",
       "watchful"
     ],
     "entries": [
@@ -69268,7 +68944,6 @@
     ],
     "synonyms": [
       "brainchild",
-      "divine guidance",
       "inhalation",
       "stirring"
     ],
@@ -69850,9 +69525,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "install",
-      "put in",
-      "set up"
+      "install"
     ],
     "entries": [
       {
@@ -69915,9 +69588,7 @@
       "toefl"
     ],
     "synonyms": [
-      "instal",
-      "put in",
-      "set up"
+      "instal"
     ],
     "entries": [
       {
@@ -70413,7 +70084,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "in a flash",
       "instantly",
       "outright"
     ],
@@ -70559,15 +70229,11 @@
       "cet6"
     ],
     "synonyms": [
-      "at once",
       "directly",
       "forthwith",
       "immediately",
       "instantaneously",
-      "like a shot",
       "now",
-      "right away",
-      "straight off",
       "straightaway"
     ],
     "entries": [
@@ -70778,8 +70444,7 @@
       "toefl"
     ],
     "synonyms": [
-      "prompt",
-      "set off"
+      "prompt"
     ],
     "entries": [
       {
@@ -71213,7 +70878,6 @@
       "toefl"
     ],
     "synonyms": [
-      "inherent aptitude",
       "replete"
     ],
     "entries": [
@@ -71436,12 +71100,7 @@
     "synonyms": [
       "asylum",
       "establishment",
-      "initiation",
-      "insane asylum",
-      "mental home",
-      "mental hospital",
-      "mental institution",
-      "psychiatric hospital"
+      "initiation"
     ],
     "entries": [
       {
@@ -71834,7 +71493,6 @@
       "direction",
       "education",
       "pedagogy",
-      "program line",
       "statement",
       "teaching"
     ],
@@ -71949,9 +71607,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "instruction manual"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72167,13 +71823,7 @@
       "toefl"
     ],
     "synonyms": [
-      "cat's-paw",
-      "instrumental role",
       "instrumentate",
-      "legal document",
-      "legal instrument",
-      "musical instrument",
-      "official document",
       "pawn",
       "tool"
     ],
@@ -73179,8 +72829,7 @@
     ],
     "synonyms": [
       "detachment",
-      "insulant",
-      "insulating material"
+      "insulant"
     ],
     "entries": [
       {
@@ -73906,9 +73555,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "insured person"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -73952,9 +73599,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "insurance company"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -74045,7 +73690,6 @@
       "gre"
     ],
     "synonyms": [
-      "freedom fighter",
       "guerrilla",
       "insurrectionist",
       "rebel",
@@ -74551,7 +74195,6 @@
     "synonyms": [
       "impalpable",
       "insubstantiality",
-      "intangible asset",
       "nonphysical"
     ],
     "entries": [
@@ -74655,9 +74298,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "whole number"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -75552,11 +75193,6 @@
       "toefl"
     ],
     "synonyms": [
-      "intelligence activity",
-      "intelligence agency",
-      "intelligence information",
-      "intelligence operation",
-      "intelligence service",
       "news",
       "tidings",
       "word"
@@ -75626,8 +75262,7 @@
     "synonyms": [
       "reasoning",
       "sound",
-      "thinking",
-      "well-informed"
+      "thinking"
     ],
     "entries": [
       {
@@ -75858,8 +75493,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "intemperateness",
-      "self-indulgence"
+      "intemperateness"
     ],
     "entries": [
       {
@@ -76329,8 +75963,7 @@
     "synonyms": [
       "compound",
       "deepen",
-      "escalate",
-      "step up"
+      "escalate"
     ],
     "entries": [
       {
@@ -76468,7 +76101,6 @@
       "ky"
     ],
     "synonyms": [
-      "intensity level",
       "intensiveness",
       "saturation",
       "strength",
@@ -76885,9 +76517,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "on purpose"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -77080,9 +76710,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "fundamental interaction"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77716,8 +77344,6 @@
       "change",
       "exchange",
       "flip",
-      "flip-flop",
-      "give-and-take",
       "reciprocation",
       "replace",
       "substitute",
@@ -78351,10 +77977,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intercostal muscle",
-      "musculus intercostalis"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -78402,8 +78025,7 @@
       "ky"
     ],
     "synonyms": [
-      "relation",
-      "social intercourse"
+      "relation"
     ],
     "entries": [
       {
@@ -78552,9 +78174,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hang together"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -78653,8 +78273,7 @@
       "toefl"
     ],
     "synonyms": [
-      "mutualist",
-      "mutually beneficial"
+      "mutualist"
     ],
     "entries": [
       {
@@ -78828,10 +78447,8 @@
     ],
     "synonyms": [
       "concern",
-      "interest group",
       "interestingness",
       "involvement",
-      "matter to",
       "occupy",
       "pursuit",
       "sake",
@@ -79352,8 +78969,7 @@
       "ky"
     ],
     "synonyms": [
-      "port",
-      "user interface"
+      "port"
     ],
     "entries": [
       {
@@ -80222,9 +79838,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lingua franca"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -80590,7 +80204,6 @@
       "gre"
     ],
     "synonyms": [
-      "ignition interlock",
       "interlace",
       "lock",
       "mesh"
@@ -80741,7 +80354,6 @@
       "gre"
     ],
     "synonyms": [
-      "conversational partner",
       "middleman"
     ],
     "entries": [
@@ -80875,7 +80487,6 @@
       "toefl"
     ],
     "synonyms": [
-      "entr'acte",
       "intermezzo"
     ],
     "entries": [
@@ -81778,8 +81389,7 @@
       "confine",
       "detain",
       "houseman",
-      "interne",
-      "medical intern"
+      "interne"
     ],
     "entries": [
       {
@@ -83701,7 +83311,6 @@
       "gk"
     ],
     "synonyms": [
-      "interpretive program",
       "translator",
       "voice"
     ],
@@ -84299,8 +83908,6 @@
     ],
     "synonyms": [
       "interrogation",
-      "interrogative mood",
-      "interrogative sentence",
       "interrogatory",
       "question"
     ],
@@ -84481,7 +84088,6 @@
     "synonyms": [
       "ax",
       "axe",
-      "cut off",
       "disrupt",
       "disturb"
     ],
@@ -84876,9 +84482,7 @@
       "crossing",
       "crossroad",
       "crossway",
-      "intersection point",
       "overlap",
-      "point of intersection",
       "product"
     ],
     "entries": [
@@ -85198,9 +84802,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "interstate highway"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -85537,9 +85139,7 @@
       "toefl"
     ],
     "synonyms": [
-      "musical interval",
-      "separation",
-      "time interval"
+      "separation"
     ],
     "entries": [
       {
@@ -85643,8 +85243,7 @@
     ],
     "synonyms": [
       "interfere",
-      "interpose",
-      "step in"
+      "interpose"
     ],
     "entries": [
       {
@@ -86942,9 +86541,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "illiberally",
-      "narrow-mindedly",
-      "small-mindedly"
+      "illiberally"
     ],
     "entries": [
       {
@@ -87161,8 +86758,6 @@
     "tags": [],
     "synonyms": [
       "alcohol",
-      "alcoholic beverage",
-      "alcoholic drink",
       "inebriant",
       "intoxicating"
     ],
@@ -88143,10 +87738,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intransitive verb",
-      "intransitive verb form"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -89152,11 +88744,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "as such",
-      "in and of itself",
-      "per se"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -89231,14 +88819,11 @@
       "zk"
     ],
     "synonyms": [
-      "bring in",
-      "bring out",
       "inaugurate",
       "innovate",
       "insert",
       "preface",
-      "present",
-      "usher in"
+      "present"
     ],
     "entries": [
       {
@@ -89745,9 +89330,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "noncoding DNA"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -89807,10 +89390,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-contemplation",
-      "self-examination"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -89842,8 +89422,7 @@
       "toefl"
     ],
     "synonyms": [
-      "introverted",
-      "self-examining"
+      "introverted"
     ],
     "entries": [
       {
@@ -90093,9 +89672,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "shut-in"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -90777,7 +90354,6 @@
     },
     "tags": [],
     "synonyms": [
-      "bubble up",
       "swell"
     ],
     "entries": [
@@ -91382,9 +90958,6 @@
       "toefl"
     ],
     "synonyms": [
-      "encroach upon",
-      "intrude on",
-      "obtrude upon",
       "occupy",
       "overrun"
     ],
@@ -91613,8 +91186,7 @@
     "synonyms": [
       "disable",
       "handicap",
-      "incapacitate",
-      "shut-in"
+      "incapacitate"
     ],
     "entries": [
       {
@@ -92765,11 +92337,7 @@
       "armoury",
       "inventorying",
       "stock",
-      "stock list",
-      "stock-take",
-      "stock-taking",
-      "stocktaking",
-      "take stock"
+      "stocktaking"
     ],
     "entries": [
       {
@@ -93007,7 +92575,6 @@
       "anastrophe",
       "eversion",
       "everting",
-      "sexual inversion",
       "upending"
     ],
     "entries": [
@@ -93243,8 +92810,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "anatropous",
-      "upside-down"
+      "anatropous"
     ],
     "entries": [
       {
@@ -93578,9 +93144,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fact-finding"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -93610,7 +93174,6 @@
     "tags": [],
     "synonyms": [
       "detective",
-      "research worker",
       "researcher"
     ],
     "entries": [
@@ -93652,9 +93215,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fact-finding"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -93770,8 +93331,7 @@
     ],
     "synonyms": [
       "investing",
-      "investiture",
-      "investment funds"
+      "investiture"
     ],
     "entries": [
       {
@@ -94983,13 +94543,7 @@
       "zk"
     ],
     "synonyms": [
-      "ask for",
-      "ask in",
-      "ask over",
-      "call for",
-      "pay for",
       "receive",
-      "take in",
       "tempt"
     ],
     "entries": [
@@ -96463,8 +96017,7 @@
       "gre"
     ],
     "synonyms": [
-      "iodin",
-      "tincture of iodine"
+      "iodin"
     ],
     "entries": [
       {
@@ -96718,7 +96271,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "tri-iodomethane",
       "triiodomethane"
     ],
     "entries": [
@@ -96754,9 +96306,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "iodinated protein"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -97341,8 +96891,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "electromotive drug administration",
-      "ionic medication",
       "iontotherapy"
     ],
     "entries": [
@@ -97501,9 +97049,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "initial public offering"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -97559,9 +97105,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ipse dixit"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -97617,9 +97161,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intelligence quotient"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -98389,8 +97931,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "flag",
-      "iris diaphragm"
+      "flag"
     ],
     "entries": [
       {
@@ -98605,10 +98146,7 @@
       "zk"
     ],
     "synonyms": [
-      "branding iron",
-      "cast-iron",
-      "press",
-      "smoothing iron"
+      "press"
     ],
     "entries": [
       {
@@ -99045,9 +98583,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "iron man"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -99076,7 +98612,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hardware store",
       "hardwareman"
     ],
     "entries": [
@@ -99309,12 +98844,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "iron tree",
-      "iron-tree",
-      "ironwood tree",
-      "rose chestnut"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -99456,7 +98986,6 @@
       "toefl"
     ],
     "synonyms": [
-      "caustic remark",
       "sarcasm",
       "satire"
     ],
@@ -99561,13 +99090,9 @@
     "tags": [],
     "synonyms": [
       "beam",
-      "beam of light",
-      "light beam",
       "radiotherapy",
       "ray",
-      "ray of light",
-      "shaft",
-      "shaft of light"
+      "shaft"
     ],
     "entries": [
       {
@@ -99631,9 +99156,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "irrational number"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -100241,7 +99764,6 @@
     "synonyms": [
       "abnormality",
       "constipation",
-      "geometrical irregularity",
       "unregularity"
     ],
     "entries": [
@@ -100324,9 +99846,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "on an irregular basis"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -102860,10 +102380,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "ischial bone",
-      "os ischii",
-      "os pubis",
-      "pubic bone",
       "pubis"
     ],
     "entries": [
@@ -103190,9 +102706,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "island-dweller"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -103220,9 +102734,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "holly-leaved cherry"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -103675,8 +103187,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "isoclinic",
-      "isoclinic line"
+      "isoclinic"
     ],
     "entries": [
       {
@@ -103916,9 +103427,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "isogonic line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -104074,8 +103583,7 @@
     "synonyms": [
       "insulate",
       "sequester",
-      "sequestrate",
-      "set apart"
+      "sequestrate"
     ],
     "entries": [
       {
@@ -104247,9 +103755,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "closing off"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -104722,7 +104228,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "isometric line",
       "isometrical"
     ],
     "entries": [
@@ -104811,9 +104316,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "isometric exercise"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -105121,9 +104624,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "isopropyl alcohol"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -105741,20 +105242,16 @@
       "egress",
       "event",
       "exit",
-      "government issue",
       "issuance",
       "issuing",
-      "make out",
       "matter",
-      "military issue",
       "number",
       "offspring",
       "progeny",
       "publication",
       "release",
       "return",
-      "supply",
-      "write out"
+      "supply"
     ],
     "entries": [
       {
@@ -106892,7 +106389,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "iterative aspect",
       "reiterative"
     ],
     "entries": [
@@ -106993,9 +106489,7 @@
       "toefl"
     ],
     "synonyms": [
-      "path",
-      "travel guidebook",
-      "travel plan"
+      "path"
     ],
     "entries": [
       {
@@ -107154,9 +106648,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "intravenous feeding"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -107184,9 +106676,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ivy-covered"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -107270,9 +106760,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ivory-billed woodpecker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -107300,9 +106788,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "common ivy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -107360,9 +106846,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "eighty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -107390,9 +106874,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -107420,9 +106902,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hard tick"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",

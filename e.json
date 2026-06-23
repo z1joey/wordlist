@@ -75,10 +75,7 @@
       "zk"
     ],
     "synonyms": [
-      "apiece",
-      "for each one",
-      "from each one",
-      "to each one"
+      "apiece"
     ],
     "entries": [
       {
@@ -137,8 +134,7 @@
     "synonyms": [
       "aegir",
       "bore",
-      "eagre",
-      "tidal bore"
+      "eagre"
     ],
     "entries": [
       {
@@ -279,10 +275,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "bird of Jove",
-      "double birdie"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -518,9 +511,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pendant earring"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -578,9 +569,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "dog-eared"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -649,9 +638,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "going-over"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -814,12 +801,9 @@
       "anterior",
       "before",
       "earliest",
-      "in the beginning",
-      "in the first place",
       "originally",
       "prior",
-      "sooner",
-      "to begin with"
+      "sooner"
     ],
     "entries": [
       {
@@ -950,9 +934,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ear lobe"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -984,11 +966,8 @@
       "zk"
     ],
     "synonyms": [
-      "ahead of time",
       "betimes",
-      "early on",
-      "former",
-      "too soon"
+      "former"
     ],
     "entries": [
       {
@@ -1334,9 +1313,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wage earner"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1437,7 +1414,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "in earnest",
       "seriously",
       "weightily"
     ],
@@ -1926,8 +1902,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "false truffle",
-      "hard-skinned puffball",
       "puffball"
     ],
     "entries": [
@@ -2384,10 +2358,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "world-shaking",
-      "world-shattering"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2454,9 +2425,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "earth-tongue"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2515,12 +2484,9 @@
     "synonyms": [
       "angleworm",
       "crawler",
-      "dew worm",
-      "fishing worm",
       "fishworm",
       "nightcrawler",
       "nightwalker",
-      "red worm",
       "wiggler"
     ],
     "entries": [
@@ -2553,8 +2519,7 @@
       "gre"
     ],
     "synonyms": [
-      "crude",
-      "down-to-earth"
+      "crude"
     ],
     "entries": [
       {
@@ -3157,7 +3122,6 @@
       "zk"
     ],
     "synonyms": [
-      "due east",
       "eastward"
     ],
     "entries": [
@@ -3305,7 +3269,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "east wind",
       "easter",
       "easterly",
       "eastern"
@@ -4025,7 +3988,6 @@
       "zk"
     ],
     "synonyms": [
-      "eat on",
       "exhaust",
       "feed",
       "rust"
@@ -4482,9 +4444,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "listen in"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -4559,10 +4519,6 @@
       "toefl"
     ],
     "synonyms": [
-      "ebb away",
-      "ebb down",
-      "ebb off",
-      "ebb out",
       "ebbing",
       "reflux",
       "wane"
@@ -4893,7 +4849,6 @@
     "tags": [],
     "synonyms": [
       "ebon",
-      "ebony tree",
       "sable"
     ],
     "entries": [
@@ -5167,7 +5122,6 @@
     "synonyms": [
       "bizarre",
       "case",
-      "eccentric person",
       "flake",
       "flakey",
       "flaky",
@@ -5177,7 +5131,6 @@
       "gonzo",
       "nonconcentric",
       "oddball",
-      "off-the-wall",
       "outlandish",
       "outre"
     ],
@@ -5558,9 +5511,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ectopic pregnancy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5779,8 +5730,7 @@
     "tags": [],
     "synonyms": [
       "anteater",
-      "echidna",
-      "spiny anteater"
+      "echidna"
     ],
     "entries": [
       {
@@ -5815,9 +5765,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "barrel cactus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5846,7 +5794,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hydatid disease",
       "hydatidosis"
     ],
     "entries": [
@@ -5972,7 +5919,6 @@
     ],
     "synonyms": [
       "evoke",
-      "paint a picture",
       "recall",
       "repeat",
       "replication",
@@ -6510,9 +6456,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "echo sounding"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6758,9 +6702,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "eclectic method"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7176,8 +7118,7 @@
       "toefl"
     ],
     "synonyms": [
-      "bionomics",
-      "environmental science"
+      "bionomics"
     ],
     "entries": [
       {
@@ -7544,10 +7485,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "economic science",
-      "political economy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7655,9 +7593,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "economic expert"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7790,7 +7726,6 @@
       "ky"
     ],
     "synonyms": [
-      "economic system",
       "saving",
       "thriftiness"
     ],
@@ -7898,11 +7833,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "eco-warfare",
-      "ecological terrorism",
-      "ecological warfare"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8413,9 +8344,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "asthenic type"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10272,7 +10201,6 @@
       "ky"
     ],
     "synonyms": [
-      "blue-pencil",
       "cut",
       "delete",
       "redact"
@@ -10491,10 +10419,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "editor in chief",
-      "editor program"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10543,8 +10468,7 @@
       "ky"
     ],
     "synonyms": [
-      "column",
-      "newspaper column"
+      "column"
     ],
     "entries": [
       {
@@ -10937,7 +10861,6 @@
     "synonyms": [
       "breeding",
       "didactics",
-      "educational activity",
       "instruction",
       "pedagogy",
       "teaching",
@@ -11430,10 +11353,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sea wrack",
-      "tape grass"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11741,10 +11661,7 @@
     ],
     "synonyms": [
       "erase",
-      "obliterate",
-      "rub out",
-      "score out",
-      "wipe off"
+      "obliterate"
     ],
     "entries": [
       {
@@ -11830,9 +11747,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-effacement"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11882,8 +11797,7 @@
       "effectuate",
       "event",
       "force",
-      "impression",
-      "set up"
+      "impression"
     ],
     "entries": [
       {
@@ -12091,9 +12005,7 @@
       "effectual",
       "efficacious",
       "efficient",
-      "good",
-      "in effect",
-      "in force"
+      "good"
     ],
     "entries": [
       {
@@ -12185,8 +12097,7 @@
       "ielts"
     ],
     "synonyms": [
-      "efficaciously",
-      "in effect"
+      "efficaciously"
     ],
     "entries": [
       {
@@ -12346,9 +12257,7 @@
     "tags": [
       "ielts"
     ],
-    "synonyms": [
-      "personal effects"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12773,9 +12682,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "afferent",
-      "efferent nerve",
-      "motor nerve"
+      "afferent"
     ],
     "entries": [
       {
@@ -13378,7 +13285,6 @@
     },
     "tags": [],
     "synonyms": [
-      "burst forth",
       "crystallise",
       "crystallize"
     ],
@@ -13541,7 +13447,6 @@
     ],
     "synonyms": [
       "outflowing",
-      "sewer water",
       "wastewater"
     ],
     "entries": [
@@ -13649,7 +13554,6 @@
     "synonyms": [
       "attempt",
       "cause",
-      "elbow grease",
       "endeavor",
       "endeavour",
       "exertion",
@@ -13972,9 +13876,7 @@
     "tags": [],
     "synonyms": [
       "decant",
-      "flow out",
-      "pour",
-      "pour out"
+      "pour"
     ],
     "entries": [
       {
@@ -14521,9 +14423,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "egg cup"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14671,10 +14571,7 @@
     ],
     "synonyms": [
       "aubergine",
-      "brinjal",
-      "eggplant bush",
-      "garden egg",
-      "mad apple"
+      "brinjal"
     ],
     "entries": [
       {
@@ -14949,8 +14846,7 @@
       "gre"
     ],
     "synonyms": [
-      "egoist",
-      "self-centered"
+      "egoist"
     ],
     "entries": [
       {
@@ -15024,10 +14920,7 @@
       "toefl"
     ],
     "synonyms": [
-      "egocentrism",
-      "self-centeredness",
-      "self-concern",
-      "self-interest"
+      "egocentrism"
     ],
     "entries": [
       {
@@ -15100,9 +14993,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-centered"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -15130,9 +15021,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-centered"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -15217,9 +15106,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "ego",
-      "self-importance",
-      "swelled head"
+      "ego"
     ],
     "entries": [
       {
@@ -15289,7 +15176,6 @@
     "synonyms": [
       "egotistical",
       "narcissistic",
-      "self-loving",
       "vain"
     ],
     "entries": [
@@ -15474,13 +15360,10 @@
       "toefl"
     ],
     "synonyms": [
-      "come forth",
-      "come out",
       "egression",
       "emerge",
       "emergence",
       "emersion",
-      "go forth",
       "issue"
     ],
     "entries": [
@@ -15644,9 +15527,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "eider duck"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15680,7 +15561,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "continental quilt",
       "duvet"
     ],
     "entries": [
@@ -15772,11 +15652,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "characteristic root of a square matrix",
-      "eigenvalue of a matrix",
-      "eigenvalue of a square matrix"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15808,9 +15684,7 @@
       "zk"
     ],
     "synonyms": [
-      "eight-spot",
       "eighter",
-      "eighter from Decatur",
       "octad",
       "octet",
       "octonary",
@@ -16026,9 +15900,7 @@
       "gk",
       "zk"
     ],
-    "synonyms": [
-      "one-eighth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -16073,9 +15945,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "mid-eighties"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16652,9 +16522,7 @@
       "toefl"
     ],
     "synonyms": [
-      "force out",
-      "release",
-      "turn out"
+      "release"
     ],
     "entries": [
       {
@@ -16743,7 +16611,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cartridge ejector",
       "ouster"
     ],
     "entries": [
@@ -16864,12 +16731,10 @@
       "expatiate",
       "exposit",
       "expound",
-      "flesh out",
       "lucubrate",
       "luxuriant",
       "rarify",
-      "refine",
-      "work out"
+      "refine"
     ],
     "entries": [
       {
@@ -16985,7 +16850,6 @@
       "toefl"
     ],
     "synonyms": [
-      "in an elaborate way",
       "intricately"
     ],
     "entries": [
@@ -17066,8 +16930,7 @@
       "expansion",
       "intricacy",
       "involution",
-      "refinement",
-      "working out"
+      "refinement"
     ],
     "entries": [
       {
@@ -17198,9 +17061,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pere david's deer"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17228,9 +17089,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "elapid snake"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17365,10 +17224,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "elastance unit",
-      "electrical elastance"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17430,9 +17286,7 @@
       "ky"
     ],
     "synonyms": [
-      "elastic band",
-      "flexible",
-      "rubber band"
+      "flexible"
     ],
     "entries": [
       {
@@ -17766,9 +17620,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "elaterid beetle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17796,9 +17648,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "elaterid beetle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17906,11 +17756,7 @@
       "toefl"
     ],
     "synonyms": [
-      "articulatio cubiti",
-      "cubital joint",
-      "cubitus",
-      "elbow joint",
-      "human elbow"
+      "cubitus"
     ],
     "entries": [
       {
@@ -18107,7 +17953,6 @@
       "zk"
     ],
     "synonyms": [
-      "elderberry bush",
       "older",
       "senior"
     ],
@@ -18162,9 +18007,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "black elder",
-      "bourtree",
-      "common elder"
+      "bourtree"
     ],
     "entries": [
       {
@@ -18643,7 +18486,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bell ringing",
       "campaigning"
     ],
     "entries": [
@@ -18681,7 +18523,6 @@
     "tags": [],
     "synonyms": [
       "elected",
-      "elective course",
       "facultative"
     ],
     "entries": [
@@ -18849,8 +18690,6 @@
       "zk"
     ],
     "synonyms": [
-      "electric automobile",
-      "electric car",
       "electrical",
       "galvanic",
       "galvanising",
@@ -19041,9 +18880,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "electrical energy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19886,10 +19723,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "electrolytic capacitor",
-      "electrolytic condenser"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -20738,9 +20572,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "electroconvulsive therapy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20949,8 +20781,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "electric healing",
-      "electrical healing",
       "galvanism"
     ],
     "entries": [
@@ -21361,7 +21191,6 @@
       "toefl"
     ],
     "synonyms": [
-      "chemical element",
       "component"
     ],
     "entries": [
@@ -21649,9 +21478,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "gum elemi"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21841,9 +21668,6 @@
     "tags": [],
     "synonyms": [
       "el",
-      "elevated railroad",
-      "elevated railway",
-      "overhead railway",
       "raised",
       "sublime"
     ],
@@ -21917,7 +21741,6 @@
       "height",
       "lift",
       "meridian",
-      "natural elevation",
       "peak",
       "pinnacle",
       "summit",
@@ -22055,7 +21878,6 @@
       "zk"
     ],
     "synonyms": [
-      "football team",
       "xi"
     ],
     "entries": [
@@ -22580,17 +22402,12 @@
     "synonyms": [
       "abolish",
       "annihilate",
-      "carry off",
       "decimate",
-      "do away with",
       "eradicate",
       "extinguish",
-      "get rid of",
       "obviate",
       "pass",
-      "reject",
-      "rid of",
-      "wipe out"
+      "reject"
     ],
     "entries": [
       {
@@ -22672,7 +22489,6 @@
     "synonyms": [
       "evacuation",
       "liquidation",
-      "reasoning by elimination",
       "riddance"
     ],
     "entries": [
@@ -22826,8 +22642,7 @@
       "toefl"
     ],
     "synonyms": [
-      "elect",
-      "elite group"
+      "elect"
     ],
     "entries": [
       {
@@ -22926,10 +22741,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "philosopher's stone",
-      "philosophers' stone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23004,7 +22816,6 @@
     "tags": [],
     "synonyms": [
       "moose",
-      "red deer",
       "wapiti"
     ],
     "entries": [
@@ -23079,9 +22890,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "umbrella tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23282,10 +23091,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "egg-shaped",
       "elliptical",
       "oval",
-      "oval-shaped",
       "ovate",
       "oviform",
       "ovoid",
@@ -23408,7 +23215,6 @@
       "gre"
     ],
     "synonyms": [
-      "elm tree",
       "elmwood"
     ],
     "entries": [
@@ -23803,9 +23609,7 @@
       "gerund": "eloping"
     },
     "tags": [],
-    "synonyms": [
-      "run off"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -23918,9 +23722,7 @@
     "synonyms": [
       "facile",
       "fluent",
-      "silver",
-      "silver-tongued",
-      "smooth-spoken"
+      "silver"
     ],
     "entries": [
       {
@@ -24604,9 +24406,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wing case"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24635,10 +24435,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "em quad",
-      "mutton quad",
-      "pica",
-      "pica em"
+      "pica"
     ],
     "entries": [
       {
@@ -24808,10 +24605,7 @@
       "ielts",
       "zk"
     ],
-    "synonyms": [
-      "e-mail",
-      "electronic mail"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24857,9 +24651,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "give forth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -25486,10 +25278,7 @@
       "gre",
       "ielts"
     ],
-    "synonyms": [
-      "trade embargo",
-      "trade stoppage"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27381,8 +27170,7 @@
       "encompass",
       "espouse",
       "hug",
-      "squeeze",
-      "sweep up"
+      "squeeze"
     ],
     "entries": [
       {
@@ -27988,8 +27776,7 @@
       "toefl"
     ],
     "synonyms": [
-      "conceptus",
-      "fertilized egg"
+      "conceptus"
     ],
     "entries": [
       {
@@ -28458,7 +28245,6 @@
       "toefl"
     ],
     "synonyms": [
-      "come forth",
       "egress"
     ],
     "entries": [
@@ -28612,7 +28398,6 @@
     ],
     "synonyms": [
       "exigency",
-      "hand brake",
       "pinch"
     ],
     "entries": [
@@ -29048,8 +28833,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "expatriation",
-      "out-migration"
+      "expatriation"
     ],
     "entries": [
       {
@@ -29452,8 +29236,6 @@
     ],
     "synonyms": [
       "breathe",
-      "give off",
-      "give out",
       "utter"
     ],
     "entries": [
@@ -29556,10 +29338,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "starch wheat",
-      "two-grain spelt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30447,10 +30226,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "emperor butterfly",
-      "emperor moth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30866,9 +30642,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pulmonary emphysema"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31075,10 +30849,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "by trial and error",
-      "through empirical observation"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -31114,7 +30885,6 @@
       "gre"
     ],
     "synonyms": [
-      "empiricist philosophy",
       "quackery",
       "sensationalism"
     ],
@@ -31604,9 +31374,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "department store"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31860,7 +31628,6 @@
       "abandon",
       "clear",
       "discharge",
-      "empty-bellied",
       "evacuate",
       "vacate",
       "vacuous",
@@ -32068,7 +31835,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "over-embellished",
       "purple"
     ],
     "entries": [
@@ -32178,7 +31944,6 @@
       "gre"
     ],
     "synonyms": [
-      "celestial sphere",
       "empyreal",
       "firmament",
       "heavens",
@@ -32235,9 +32000,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "electromagnetic unit"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32525,9 +32288,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "photographic emulsion"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32832,9 +32593,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "tooth enamel"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33207,9 +32966,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "mirror-image relation"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33237,9 +32994,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ball-and-socket joint"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33271,8 +33026,6 @@
       "enatic",
       "maternal",
       "matrikin",
-      "matrilineal kin",
-      "matrilineal sib",
       "matrisib"
     ],
     "entries": [
@@ -33345,8 +33098,7 @@
     "tags": [],
     "synonyms": [
       "cognation",
-      "matrilineage",
-      "plant process"
+      "matrilineage"
     ],
     "entries": [
       {
@@ -33448,9 +33200,6 @@
       "camp",
       "campground",
       "camping",
-      "camping area",
-      "camping ground",
-      "camping site",
       "campsite",
       "cantonment"
     ],
@@ -33998,9 +33747,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "brain disorder"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -34669,12 +34416,9 @@
       "toefl"
     ],
     "synonyms": [
-      "close in",
       "confine",
-      "hold in",
       "inclose",
       "insert",
-      "shut in",
       "wrap"
     ],
     "entries": [
@@ -34817,8 +34561,7 @@
     ],
     "synonyms": [
       "envelopment",
-      "inclosure",
-      "natural enclosure"
+      "inclosure"
     ],
     "entries": [
       {
@@ -35264,17 +35007,12 @@
     ],
     "synonyms": [
       "brush",
-      "come across",
-      "coming upon",
       "confrontation",
-      "face-off",
       "find",
       "meet",
       "meeting",
       "play",
       "receive",
-      "run across",
-      "run into",
       "see",
       "showdown"
     ],
@@ -35430,9 +35168,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bucked up"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -36137,9 +35873,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "encyclical letter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -36487,7 +36221,6 @@
       "conclusion",
       "destruction",
       "ending",
-      "final stage",
       "finish",
       "goal",
       "last",
@@ -37419,9 +37152,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "all over"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -37466,7 +37197,6 @@
     ],
     "synonyms": [
       "autochthonous",
-      "endemic disease",
       "endemical"
     ],
     "entries": [
@@ -37693,9 +37423,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "end game"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37824,7 +37552,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "chicory escarole",
       "witloof"
     ],
     "entries": [
@@ -38262,9 +37989,7 @@
     "tags": [],
     "synonyms": [
       "endocrinal",
-      "endocrine gland",
-      "hormone",
-      "internal secretion"
+      "hormone"
     ],
     "entries": [
       {
@@ -38525,9 +38250,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "energy-absorbing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -39059,9 +38782,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pyknic type"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39807,8 +39528,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "endothermal",
-      "heat-absorbing"
+      "endothermal"
     ],
     "entries": [
       {
@@ -40003,7 +39723,6 @@
       "toefl"
     ],
     "synonyms": [
-      "endowment fund",
       "gift"
     ],
     "entries": [
@@ -40124,9 +39843,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "end-plate"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40387,7 +40104,6 @@
       "toefl"
     ],
     "synonyms": [
-      "long-suffering",
       "unfailing"
     ],
     "entries": [
@@ -40492,7 +40208,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "end on",
       "endwise"
     ],
     "entries": [
@@ -41035,7 +40750,6 @@
       "zk"
     ],
     "synonyms": [
-      "free energy",
       "muscularity",
       "push",
       "vitality",
@@ -41483,9 +41197,7 @@
       "past": "enfiladed"
     },
     "tags": [],
-    "synonyms": [
-      "enfilade fire"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41749,9 +41461,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hatchet man"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42100,8 +41810,7 @@
       "booked",
       "busy",
       "intermeshed",
-      "occupied",
-      "set-aside"
+      "occupied"
     ],
     "entries": [
       {
@@ -42613,11 +42322,7 @@
       "zk"
     ],
     "synonyms": [
-      "applied scientist",
       "direct",
-      "engine driver",
-      "locomotive engineer",
-      "railroad engineer",
       "technologist"
     ],
     "entries": [
@@ -42698,7 +42403,6 @@
       "ky"
     ],
     "synonyms": [
-      "engine room",
       "technology"
     ],
     "entries": [
@@ -43034,9 +42738,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "memory trace"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -44422,7 +44124,6 @@
       "ky"
     ],
     "synonyms": [
-      "blow up",
       "elaborate",
       "magnify"
     ],
@@ -44490,7 +44191,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "blown-up",
       "exaggerated",
       "hypertrophied",
       "magnified"
@@ -46771,11 +46471,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "corps de ballet",
-      "supporting players",
-      "tout ensemble"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -46921,7 +46617,6 @@
     "tags": [],
     "synonyms": [
       "bladelike",
-      "sword-shaped",
       "swordlike"
     ],
     "entries": [
@@ -46958,9 +46653,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "national flag"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47483,7 +47176,6 @@
       "toefl"
     ],
     "synonyms": [
-      "fee-tail",
       "implicate",
       "imply",
       "mean"
@@ -47811,9 +47503,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "entente cordiale"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47860,7 +47550,6 @@
       "accede",
       "embark",
       "figure",
-      "get into",
       "insert",
       "participate",
       "record",
@@ -48281,9 +47970,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "enteric bacteria"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48396,9 +48083,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "enteric bacteria"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48834,7 +48519,6 @@
     "synonyms": [
       "endeavor",
       "enterprisingness",
-      "go-ahead",
       "initiative"
     ],
     "entries": [
@@ -49049,8 +48733,7 @@
       "toefl"
     ],
     "synonyms": [
-      "hold",
-      "think of"
+      "hold"
     ],
     "entries": [
       {
@@ -49273,9 +48956,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heat content"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -49859,9 +49540,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "sky-high"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -49954,7 +49633,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "come-on",
       "lure",
       "temptation"
     ],
@@ -50621,7 +50299,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bug-hunter",
       "bugologist"
     ],
     "entries": [
@@ -51538,8 +51215,7 @@
       "accession",
       "admission",
       "admittance",
-      "entrance",
-      "main course"
+      "entrance"
     ],
     "entries": [
       {
@@ -51617,9 +51293,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "side dish"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51654,7 +51328,6 @@
       "gre"
     ],
     "synonyms": [
-      "dig in",
       "intrench",
       "trench"
     ],
@@ -51783,8 +51456,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "storage",
-      "transshipment center"
+      "storage"
     ],
     "entries": [
       {
@@ -51929,9 +51601,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "enteric bacteria"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51961,8 +51631,7 @@
     "tags": [],
     "synonyms": [
       "information",
-      "randomness",
-      "selective information"
+      "randomness"
     ],
     "entries": [
       {
@@ -52068,13 +51737,10 @@
       "toefl"
     ],
     "synonyms": [
-      "accounting entry",
       "debut",
       "entrance",
-      "first appearance",
       "introduction",
       "launching",
-      "ledger entry",
       "submission",
       "unveiling"
     ],
@@ -52444,9 +52110,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "census taker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52577,9 +52241,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "urinary incontinence"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53451,9 +53113,7 @@
     ],
     "synonyms": [
       "emissary",
-      "envoi",
-      "envoy extraordinary",
-      "minister plenipotentiary"
+      "envoi"
     ],
     "entries": [
       {
@@ -53782,9 +53442,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "dawn horse"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54737,9 +54395,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "joint fir"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55085,11 +54741,9 @@
       "toefl"
     ],
     "synonyms": [
-      "epic poem",
       "epical",
       "epos",
-      "heroic",
-      "heroic poem"
+      "heroic"
     ],
     "entries": [
       {
@@ -55205,9 +54859,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "epicanthic fold"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55353,7 +55005,6 @@
       "androgyne",
       "bisexual",
       "emasculate",
-      "epicene person",
       "gynandromorph",
       "hermaphrodite",
       "intersex"
@@ -55581,7 +55232,6 @@
       "gre"
     ],
     "synonyms": [
-      "bon vivant",
       "epicure",
       "foodie",
       "gastronome",
@@ -56302,8 +55952,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "epidural anaesthesia",
-      "epidural anesthesia",
       "extradural"
     ],
     "entries": [
@@ -57197,9 +56845,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orchid cactus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57287,9 +56933,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pineal gland"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57323,9 +56967,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "air plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58453,9 +58095,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "epithelial tissue"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58629,9 +58269,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "antigenic determinant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58806,7 +58444,6 @@
       "toefl"
     ],
     "synonyms": [
-      "date of reference",
       "era"
     ],
     "entries": [
@@ -58848,9 +58485,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "epoch-making"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -59051,9 +58686,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "phenolic resin"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -59442,8 +59075,7 @@
     },
     "tags": [],
     "synonyms": [
-      "equal",
-      "get even"
+      "equal"
     ],
     "entries": [
       {
@@ -59683,8 +59315,7 @@
     },
     "tags": [],
     "synonyms": [
-      "equal",
-      "get even"
+      "equal"
     ],
     "entries": [
       {
@@ -59782,8 +59413,7 @@
     "tags": [],
     "synonyms": [
       "as",
-      "evenly",
-      "every bit"
+      "evenly"
     ],
     "entries": [
       {
@@ -59860,9 +59490,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-contained"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -60243,7 +59871,6 @@
       "toefl"
     ],
     "synonyms": [
-      "horseback rider",
       "horseman"
     ],
     "entries": [
@@ -60547,11 +60174,7 @@
       "toefl"
     ],
     "synonyms": [
-      "balance",
-      "chemical equilibrium",
-      "labyrinthine sense",
-      "sense of balance",
-      "sense of equilibrium"
+      "balance"
     ],
     "entries": [
       {
@@ -60730,11 +60353,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "celestial equator",
-      "equinoctial circle",
-      "equinoctial line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -60779,9 +60398,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "equinoctial point"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61053,7 +60670,6 @@
     "tags": [],
     "synonyms": [
       "equipt",
-      "fitted out",
       "furnished",
       "weaponed"
     ],
@@ -61432,9 +61048,7 @@
       "toefl"
     ],
     "synonyms": [
-      "combining weight",
       "eq",
-      "equivalent weight",
       "tantamount"
     ],
     "entries": [
@@ -61734,8 +61348,7 @@
       "toefl"
     ],
     "synonyms": [
-      "epoch",
-      "geological era"
+      "epoch"
     ],
     "entries": [
       {
@@ -61950,8 +61563,7 @@
     ],
     "synonyms": [
       "delete",
-      "efface",
-      "wipe out"
+      "efface"
     ],
     "entries": [
       {
@@ -62318,8 +61930,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "erecting",
-      "hard-on"
+      "erecting"
     ],
     "entries": [
       {
@@ -62417,9 +62028,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "straight-backed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -62712,9 +62321,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vitamin D"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63129,9 +62736,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "true heath"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63362,9 +62967,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "shorttail weasel"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63399,10 +63002,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "erne",
-      "gray sea eagle",
-      "grey sea eagle",
-      "white-tailed sea eagle"
+      "erne"
     ],
     "entries": [
       {
@@ -63468,11 +63068,8 @@
       "toefl"
     ],
     "synonyms": [
-      "eat at",
       "fret",
-      "gnaw",
-      "gnaw at",
-      "wear away"
+      "gnaw"
     ],
     "entries": [
       {
@@ -63615,9 +63212,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sexual desire"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63895,9 +63490,7 @@
       "past": "eroticised"
     },
     "tags": [],
-    "synonyms": [
-      "sex up"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -63971,9 +63564,7 @@
       "past": "eroticized"
     },
     "tags": [],
-    "synonyms": [
-      "sex up"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -64231,7 +63822,6 @@
       "fickle",
       "mercurial",
       "planetary",
-      "quick silver",
       "quicksilver",
       "temperamental",
       "wandering"
@@ -64383,9 +63973,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "error-prone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -64518,8 +64106,6 @@
       "toefl"
     ],
     "synonyms": [
-      "computer error",
-      "erroneous belief",
       "erroneousness",
       "misplay",
       "mistake",
@@ -64977,8 +64563,7 @@
     "tags": [],
     "synonyms": [
       "belch",
-      "spew",
-      "spew out"
+      "spew"
     ],
     "entries": [
       {
@@ -65198,17 +64783,11 @@
     "synonyms": [
       "belch",
       "break",
-      "break out",
-      "break through",
-      "catch fire",
       "combust",
-      "come out",
       "conflagrate",
       "flare",
       "ignite",
-      "push through",
-      "recrudesce",
-      "take fire"
+      "recrudesce"
     ],
     "entries": [
       {
@@ -65572,9 +65151,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "coral tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -65602,9 +65179,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cobalt bloom"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -65688,9 +65263,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "red blood cell"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66143,11 +65716,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "escalator clause",
-      "moving staircase",
-      "moving stairway"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66273,9 +65842,7 @@
     "tags": [],
     "synonyms": [
       "adventure",
-      "dangerous undertaking",
-      "lark",
-      "risky venture"
+      "lark"
     ],
     "entries": [
       {
@@ -66326,33 +65893,18 @@
       "toefl"
     ],
     "synonyms": [
-      "break loose",
       "elude",
-      "escape cock",
-      "escape valve",
       "escapism",
       "evasion",
       "flight",
-      "fly the coop",
-      "get away",
-      "get by",
-      "get off",
-      "get out",
-      "head for the hills",
-      "hightail it",
       "lam",
       "leak",
       "leakage",
       "miss",
       "outflow",
-      "relief valve",
       "run",
-      "run away",
-      "safety valve",
       "scarper",
-      "scat",
-      "take to the woods",
-      "turn tail"
+      "scat"
     ],
     "entries": [
       {
@@ -66662,8 +66214,7 @@
       "toefl"
     ],
     "synonyms": [
-      "dreamer",
-      "wishful thinker"
+      "dreamer"
     ],
     "entries": [
       {
@@ -66692,9 +66243,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "escape expert"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66785,9 +66334,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "chicory escarole"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66847,7 +66394,6 @@
     "tags": [],
     "synonyms": [
       "escarp",
-      "protective embankment",
       "scarp"
     ],
     "entries": [
@@ -67400,7 +66946,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "finger plate",
       "scutcheon"
     ],
     "entries": [
@@ -67698,9 +67243,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cross-eye"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -68450,13 +67993,10 @@
       "toefl"
     ],
     "synonyms": [
-      "all important",
-      "all-important",
       "crucial",
       "indispensable",
       "necessary",
       "necessity",
-      "of the essence",
       "requirement",
       "requisite",
       "substantive"
@@ -68628,9 +68168,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cinnamon stone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -68674,7 +68212,6 @@
       "launch",
       "make",
       "plant",
-      "set up",
       "show"
     ],
     "entries": [
@@ -68843,7 +68380,6 @@
       "constitution",
       "ecesis",
       "governance",
-      "governing body",
       "institution",
       "organisation",
       "organization",
@@ -69007,7 +68543,6 @@
       "toefl"
     ],
     "synonyms": [
-      "estate of the realm",
       "land"
     ],
     "entries": [
@@ -69173,14 +68708,9 @@
     ],
     "synonyms": [
       "admiration",
-      "look on",
-      "look upon",
       "regard",
-      "regard as",
       "repute",
-      "respect",
-      "take to be",
-      "think of"
+      "respect"
     ],
     "entries": [
       {
@@ -69481,8 +69011,7 @@
     "tags": [],
     "synonyms": [
       "aesthetic",
-      "esthetic",
-      "æsthetic"
+      "esthetic"
     ],
     "entries": [
       {
@@ -70650,7 +70179,6 @@
       "famished",
       "greedy",
       "ravenous",
-      "sharp-set",
       "starved"
     ],
     "entries": [
@@ -70841,9 +70369,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "and so forth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -71503,9 +71029,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ethyl alcohol"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -71926,13 +71450,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "ethical code",
-      "moral principle",
-      "value orientation",
-      "value system",
-      "value-system"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72159,7 +71677,6 @@
       "toefl"
     ],
     "synonyms": [
-      "moral philosophy",
       "morality"
     ],
     "entries": [
@@ -72228,9 +71745,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ethmoid bone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72601,9 +72116,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "descriptive anthropology"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72759,9 +72272,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ethnic group"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72909,11 +72420,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "diethyl ether",
-      "divinyl ether",
-      "ether",
-      "ethyl ether",
-      "vinyl ether"
+      "ether"
     ],
     "entries": [
       {
@@ -72942,10 +72449,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ethyl group",
-      "ethyl radical"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73372,9 +72876,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bunsen burner"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73726,8 +73228,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eubacterium",
-      "true bacteria"
+      "eubacterium"
     ],
     "entries": [
       {
@@ -73849,8 +73350,7 @@
       "gre"
     ],
     "synonyms": [
-      "eucalypt",
-      "eucalyptus tree"
+      "eucalypt"
     ],
     "entries": [
       {
@@ -73978,9 +73478,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "five hundred"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -74189,8 +73687,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eudaemon",
-      "good spirit"
+      "eudaemon"
     ],
     "entries": [
       {
@@ -74783,9 +74280,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "male hypogonadism"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -75165,9 +74660,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "gum eurphorbium"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76119,9 +75612,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "mercy killing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76178,9 +75669,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eutherian mammal",
-      "placental",
-      "placental mammal"
+      "placental"
     ],
     "entries": [
       {
@@ -76281,9 +75770,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "electron volt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77659,8 +77146,6 @@
     ],
     "synonyms": [
       "eve",
-      "even out",
-      "fifty-fifty",
       "flush",
       "regular",
       "still",
@@ -78076,9 +77561,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "evening clothes"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -78541,9 +78024,7 @@
       "zk"
     ],
     "synonyms": [
-      "ever so",
-      "nonstop",
-      "of all time"
+      "nonstop"
     ],
     "entries": [
       {
@@ -78610,9 +78091,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "evergreen plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -78657,7 +78136,6 @@
       "toefl"
     ],
     "synonyms": [
-      "everlasting flower",
       "perpetual",
       "stark"
     ],
@@ -79094,7 +78572,6 @@
       "zk"
     ],
     "synonyms": [
-      "all over",
       "everyplace"
     ],
     "entries": [
@@ -79136,9 +78613,7 @@
       "gre",
       "ielts"
     ],
-    "synonyms": [
-      "force out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -79190,9 +78665,7 @@
       "gre"
     ],
     "synonyms": [
-      "constructive eviction",
-      "dispossession",
-      "legal ouster"
+      "dispossession"
     ],
     "entries": [
       {
@@ -80058,7 +79531,6 @@
     "synonyms": [
       "echo",
       "extract",
-      "kick up",
       "raise"
     ],
     "entries": [
@@ -80160,8 +79632,7 @@
       "toefl"
     ],
     "synonyms": [
-      "development",
-      "organic evolution"
+      "development"
     ],
     "entries": [
       {
@@ -80260,9 +79731,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "theory of evolution"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -80475,8 +79944,6 @@
     "tags": [],
     "synonyms": [
       "antique",
-      "ex-husband",
-      "ex-wife",
       "x"
     ],
     "entries": [
@@ -81738,7 +81205,6 @@
       "case",
       "exemplar",
       "exercise",
-      "good example",
       "illustration",
       "instance",
       "lesson",
@@ -81866,8 +81332,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "exanthema",
-      "skin eruption"
+      "exanthema"
     ],
     "entries": [
       {
@@ -82056,10 +81521,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "browned off",
-      "cheesed off"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -82321,7 +81783,6 @@
     ],
     "synonyms": [
       "dig",
-      "turn up",
       "unearth"
     ],
     "entries": [
@@ -82392,7 +81853,6 @@
       "toefl"
     ],
     "synonyms": [
-      "archeological site",
       "dig",
       "mining"
     ],
@@ -82453,7 +81913,6 @@
     "tags": [],
     "synonyms": [
       "digger",
-      "power shovel",
       "shovel"
     ],
     "entries": [
@@ -82866,9 +82325,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wood shavings"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -82904,8 +82361,7 @@
       "zk"
     ],
     "synonyms": [
-      "dispute",
-      "take out"
+      "dispute"
     ],
     "entries": [
       {
@@ -83170,8 +82626,7 @@
     ],
     "synonyms": [
       "extract",
-      "selection",
-      "take out"
+      "selection"
     ],
     "entries": [
       {
@@ -83388,7 +82843,6 @@
     ],
     "synonyms": [
       "overly",
-      "to a fault",
       "too"
     ],
     "entries": [
@@ -83478,9 +82932,7 @@
       "interchange",
       "rally",
       "substitution",
-      "switch",
-      "switch over",
-      "telephone exchange"
+      "switch"
     ],
     "entries": [
       {
@@ -83815,9 +83267,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "money changer"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -83884,7 +83334,6 @@
       "gre"
     ],
     "synonyms": [
-      "excise tax",
       "strike"
     ],
     "entries": [
@@ -83951,9 +83400,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "tax collector"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -84148,8 +83595,7 @@
     "synonyms": [
       "excitative",
       "excitatory",
-      "stimulant",
-      "stimulant drug"
+      "stimulant"
     ],
     "entries": [
       {
@@ -84837,9 +84283,7 @@
       "toefl"
     ],
     "synonyms": [
-      "bar",
-      "take out",
-      "turn out"
+      "bar"
     ],
     "entries": [
       {
@@ -85635,11 +85079,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "body waste",
       "evacuation",
       "excrement",
-      "excreta",
-      "excretory product"
+      "excreta"
     ],
     "entries": [
       {
@@ -85912,8 +85354,7 @@
     "tags": [],
     "synonyms": [
       "alibi",
-      "excuse",
-      "self-justification"
+      "excuse"
     ],
     "entries": [
       {
@@ -86238,7 +85679,6 @@
       "apologise",
       "apologize",
       "apology",
-      "beg off",
       "condone",
       "exculpation",
       "exempt",
@@ -86659,7 +86099,6 @@
     "synonyms": [
       "action",
       "do",
-      "put to death",
       "run"
     ],
     "entries": [
@@ -86830,16 +86269,11 @@
       "toefl"
     ],
     "synonyms": [
-      "capital punishment",
-      "death penalty",
       "executing",
-      "execution of instrument",
       "implementation",
-      "instruction execution",
       "murder",
       "performance",
-      "slaying",
-      "writ of execution"
+      "slaying"
     ],
     "entries": [
       {
@@ -86909,9 +86343,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "public executioner"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -86946,8 +86378,7 @@
       "toefl"
     ],
     "synonyms": [
-      "administrator",
-      "executive director"
+      "administrator"
     ],
     "entries": [
       {
@@ -87409,7 +86840,6 @@
     "synonyms": [
       "excuse",
       "free",
-      "let off",
       "nontaxable",
       "relieve"
     ],
@@ -87482,7 +86912,6 @@
     ],
     "synonyms": [
       "freedom",
-      "granting immunity",
       "immunity"
     ],
     "entries": [
@@ -87607,14 +87036,11 @@
       "example",
       "exercising",
       "exert",
-      "physical exercise",
-      "physical exertion",
       "practice",
       "use",
       "utilised",
       "utilized",
       "work",
-      "work out",
       "workout"
     ],
     "entries": [
@@ -87739,9 +87165,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "gymnastic apparatus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -87799,9 +87223,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "exercise bike"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -88066,7 +87488,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "breathing out",
       "expiration",
       "halitus"
     ],
@@ -88111,8 +87532,7 @@
       "toefl"
     ],
     "synonyms": [
-      "expire",
-      "give forth"
+      "expire"
     ],
     "entries": [
       {
@@ -88168,15 +87588,9 @@
       "consume",
       "deplete",
       "eat",
-      "eat up",
-      "exhaust fumes",
-      "exhaust system",
       "fumes",
       "release",
-      "run through",
-      "sap",
-      "use up",
-      "wipe out"
+      "sap"
     ],
     "entries": [
       {
@@ -88286,8 +87700,7 @@
       "toefl"
     ],
     "synonyms": [
-      "spent",
-      "washed-out"
+      "spent"
     ],
     "entries": [
       {
@@ -88765,8 +88178,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "flasher",
-      "show-off"
+      "flasher"
     ],
     "entries": [
       {
@@ -89161,7 +88573,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "digging up",
       "disinterment"
     ],
     "entries": [
@@ -89703,10 +89114,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "existential philosophy",
-      "existentialist philosophy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -89739,10 +89147,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "existential philosopher",
-      "existentialist philosopher"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -89854,16 +89259,13 @@
       "choke",
       "departure",
       "expiration",
-      "get out",
-      "go out",
       "going",
       "issue",
       "leave",
       "loss",
       "outlet",
       "passing",
-      "release",
-      "way out"
+      "release"
     ],
     "entries": [
       {
@@ -90027,10 +89429,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "duct gland",
-      "exocrine gland"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -90283,9 +89682,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "energy-releasing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -90538,9 +89935,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "coding DNA"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91237,8 +90632,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "exothermal",
-      "heat-releasing"
+      "exothermal"
     ],
     "entries": [
       {
@@ -91484,8 +90878,7 @@
       "boom",
       "elaborate",
       "extend",
-      "inflate",
-      "spread out"
+      "inflate"
     ],
     "entries": [
       {
@@ -91825,8 +91218,7 @@
     ],
     "synonyms": [
       "elaboration",
-      "enlargement",
-      "expanding upon"
+      "enlargement"
     ],
     "entries": [
       {
@@ -92109,7 +91501,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "coefficient of expansion",
       "effusiveness",
       "expansiveness"
     ],
@@ -92622,9 +92013,6 @@
     ],
     "synonyms": [
       "anticipation",
-      "arithmetic mean",
-      "expected value",
-      "first moment",
       "prospect"
     ],
     "entries": [
@@ -92788,14 +92176,7 @@
       "past": "expectorated"
     },
     "tags": [],
-    "synonyms": [
-      "clear out",
-      "cough out",
-      "cough up",
-      "drive out",
-      "spit out",
-      "spit up"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -92918,8 +92299,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "expediency",
-      "self-seeking"
+      "expediency"
     ],
     "entries": [
       {
@@ -93124,9 +92504,7 @@
     ],
     "synonyms": [
       "despatch",
-      "hostile expedition",
-      "junket",
-      "military expedition"
+      "junket"
     ],
     "entries": [
       {
@@ -93320,13 +92698,9 @@
       "toefl"
     ],
     "synonyms": [
-      "boot out",
-      "drum out",
-      "kick out",
       "oust",
       "release",
-      "rout",
-      "throw out"
+      "rout"
     ],
     "entries": [
       {
@@ -93706,9 +93080,7 @@
       "ky"
     ],
     "synonyms": [
-      "disbursement",
-      "write down",
-      "write off"
+      "disbursement"
     ],
     "entries": [
       {
@@ -93904,7 +93276,6 @@
     "synonyms": [
       "feel",
       "get",
-      "go through",
       "have",
       "live",
       "see"
@@ -94142,8 +93513,7 @@
       "zk"
     ],
     "synonyms": [
-      "experimentation",
-      "try out"
+      "experimentation"
     ],
     "entries": [
       {
@@ -94268,7 +93638,6 @@
       "ky"
     ],
     "synonyms": [
-      "data-based",
       "observational"
     ],
     "entries": [
@@ -94366,10 +93735,7 @@
     "tags": [
       "cet6"
     ],
-    "synonyms": [
-      "by experimentation",
-      "through an experiment"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -94585,9 +93951,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "like an expert"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -94911,8 +94275,7 @@
     ],
     "synonyms": [
       "choke",
-      "exhale",
-      "run out"
+      "exhale"
     ],
     "entries": [
       {
@@ -95618,9 +94981,6 @@
       "toefl"
     ],
     "synonyms": [
-      "blow up",
-      "break loose",
-      "burst forth",
       "detonate",
       "irrupt"
     ],
@@ -96084,9 +95444,7 @@
       "cet6",
       "toefl"
     ],
-    "synonyms": [
-      "geographic expedition"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -96608,9 +95966,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "exponential function"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -96952,15 +96308,11 @@
       "toefl"
     ],
     "synonyms": [
-      "bring out",
       "debunk",
       "disclose",
       "discover",
       "display",
       "divulge",
-      "give away",
-      "let on",
-      "let out",
       "peril",
       "reveal",
       "uncover",
@@ -97146,8 +96498,7 @@
     "tags": [],
     "synonyms": [
       "elaborate",
-      "expound",
-      "set forth"
+      "expound"
     ],
     "entries": [
       {
@@ -97699,12 +97050,9 @@
     ],
     "synonyms": [
       "carry",
-      "express mail",
       "expressage",
       "extract",
-      "give tongue to",
       "limited",
-      "press out",
       "show",
       "state",
       "utter",
@@ -98002,7 +97350,6 @@
       "aspect",
       "construction",
       "face",
-      "facial expression",
       "formula",
       "formulation",
       "locution",
@@ -98473,7 +97820,6 @@
       "ejection",
       "exclusion",
       "extrusion",
-      "forcing out",
       "projection",
       "riddance"
     ],
@@ -99234,9 +98580,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ad-lib"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -99312,9 +98656,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "ad-lib"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -99367,22 +98709,15 @@
     "synonyms": [
       "carry",
       "cover",
-      "draw out",
       "expand",
       "exsert",
       "gallop",
-      "hold out",
       "offer",
       "pass",
-      "poke out",
       "prolong",
       "protract",
-      "put out",
-      "reach out",
       "strain",
       "stretch",
-      "stretch forth",
-      "stretch out",
       "widen"
     ],
     "entries": [
@@ -99625,7 +98960,6 @@
       "toefl"
     ],
     "synonyms": [
-      "drawn-out",
       "elongated",
       "extensive",
       "lengthened",
@@ -99799,15 +99133,10 @@
       "annexe",
       "denotation",
       "elongation",
-      "extension phone",
-      "extension service",
-      "filename extension",
       "lengthiness",
       "prolongation",
       "propagation",
       "reference",
-      "telephone extension",
-      "university extension",
       "wing"
     ],
     "entries": [
@@ -100086,9 +99415,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "extensor muscle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -100520,8 +99847,7 @@
       "toefl"
     ],
     "synonyms": [
-      "extirpate",
-      "kill off"
+      "extirpate"
     ],
     "entries": [
       {
@@ -100654,9 +99980,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "medical extern"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -101190,7 +100514,6 @@
     ],
     "synonyms": [
       "defunctness",
-      "experimental extinction",
       "extermination",
       "extinct",
       "extinguishing",
@@ -101411,9 +100734,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fire extinguisher"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -101514,7 +100835,6 @@
       "deracinate",
       "eradicate",
       "exterminate",
-      "root out",
       "uproot"
     ],
     "entries": [
@@ -101560,7 +100880,6 @@
     ],
     "synonyms": [
       "ablation",
-      "cutting out",
       "deracination",
       "excision"
     ],
@@ -101713,8 +101032,7 @@
       "toefl"
     ],
     "synonyms": [
-      "squeeze",
-      "wring from"
+      "squeeze"
     ],
     "entries": [
       {
@@ -101942,7 +101260,6 @@
       "excess",
       "redundant",
       "spare",
-      "spear carrier",
       "special",
       "supererogatory",
       "superfluous",
@@ -102076,7 +101393,6 @@
       "toefl"
     ],
     "synonyms": [
-      "draw out",
       "educe",
       "elicit",
       "evoke",
@@ -102296,7 +101612,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cartridge extractor",
       "centrifuge",
       "separator"
     ],
@@ -102903,7 +102218,6 @@
       "toefl"
     ],
     "synonyms": [
-      "over-the-top",
       "sinful"
     ],
     "entries": [
@@ -103210,7 +102524,6 @@
     ],
     "synonyms": [
       "extravagancy",
-      "high life",
       "highlife",
       "lavishness",
       "prodigality",
@@ -103697,7 +103010,6 @@
       "ky"
     ],
     "synonyms": [
-      "extreme point",
       "extremum",
       "utmost",
       "uttermost"
@@ -104500,9 +103812,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "squeeze out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -104695,7 +104005,6 @@
       "ebullient",
       "excessive",
       "extravagant",
-      "high-spirited",
       "lush",
       "luxuriant",
       "overweening",
@@ -104961,10 +104270,7 @@
       "gre"
     ],
     "synonyms": [
-      "be on cloud nine",
-      "jump for joy",
-      "triumph",
-      "walk on air"
+      "triumph"
     ],
     "entries": [
       {
@@ -105435,9 +104741,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "attention-getting"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -105585,9 +104889,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eye cup",
-      "eyebath",
-      "optic cup"
+      "eyebath"
     ],
     "entries": [
       {
@@ -105678,9 +104980,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "eye-drop"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -106443,9 +105743,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "eye-lotion"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",

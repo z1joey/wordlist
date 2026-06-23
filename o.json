@@ -103,9 +103,7 @@
       "gre",
       "ky"
     ],
-    "synonyms": [
-      "oak tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -559,7 +557,6 @@
     ],
     "synonyms": [
       "curse",
-      "curse word",
       "cuss",
       "expletive",
       "swearing",
@@ -622,8 +619,7 @@
       "gre"
     ],
     "synonyms": [
-      "burgoo",
-      "rolled oats"
+      "burgoo"
     ],
     "entries": [
       {
@@ -1471,7 +1467,6 @@
     "synonyms": [
       "aim",
       "objective",
-      "physical object",
       "target"
     ],
     "entries": [
@@ -1846,10 +1841,7 @@
       "accusative",
       "documentary",
       "nonsubjective",
-      "object",
-      "object glass",
-      "object lens",
-      "objective lens"
+      "object"
     ],
     "entries": [
       {
@@ -2165,9 +2157,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pumpkin-shaped"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2390,8 +2380,6 @@
       "toefl"
     ],
     "synonyms": [
-      "certificate of indebtedness",
-      "debt instrument",
       "duty",
       "indebtedness"
     ],
@@ -2731,9 +2719,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "duty-bound"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2899,11 +2885,7 @@
       "ielts"
     ],
     "synonyms": [
-      "abdominal external oblique muscle",
-      "devious",
-      "external oblique muscle",
-      "musculus obliquus externus abdominis",
-      "oblique case"
+      "devious"
     ],
     "entries": [
       {
@@ -3115,11 +3097,9 @@
       "toefl"
     ],
     "synonyms": [
-      "blotted out",
       "efface",
       "hide",
-      "kill",
-      "wipe out"
+      "kill"
     ],
     "entries": [
       {
@@ -3177,9 +3157,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "blotted out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -3860,7 +3838,6 @@
     "tags": [],
     "synonyms": [
       "bawdiness",
-      "dirty word",
       "filth",
       "lewdness",
       "salaciousness",
@@ -3994,7 +3971,6 @@
       "confuse",
       "dark",
       "fog",
-      "haze over",
       "hidden",
       "hide",
       "isolated",
@@ -4470,7 +4446,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "law-abiding",
       "observing"
     ],
     "entries": [
@@ -5642,8 +5617,7 @@
       "gre"
     ],
     "synonyms": [
-      "obstinance",
-      "self-will"
+      "obstinance"
     ],
     "entries": [
       {
@@ -5681,7 +5655,6 @@
     "synonyms": [
       "mulishness",
       "obstinacy",
-      "self-will",
       "stubbornness"
     ],
     "entries": [
@@ -6558,9 +6531,7 @@
       "toefl"
     ],
     "synonyms": [
-      "intrude",
-      "push out",
-      "thrust out"
+      "intrude"
     ],
     "entries": [
       {
@@ -7213,9 +7184,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sweet potato"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7393,14 +7362,7 @@
       "cet6",
       "toefl"
     ],
-    "synonyms": [
-      "at times",
-      "from time to time",
-      "now and again",
-      "now and then",
-      "on occasion",
-      "once in a while"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -7466,9 +7428,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "western hemisphere"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7766,8 +7726,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "closure",
-      "occluded front"
+      "closure"
     ],
     "entries": [
       {
@@ -7822,10 +7781,7 @@
     "tags": [],
     "synonyms": [
       "plosive",
-      "plosive consonant",
-      "plosive speech sound",
-      "stop",
-      "stop consonant"
+      "stop"
     ],
     "entries": [
       {
@@ -7873,7 +7829,6 @@
     ],
     "synonyms": [
       "eclipse",
-      "occult arts",
       "secret",
       "supernatural"
     ],
@@ -8148,9 +8103,6 @@
       "business",
       "job",
       "line",
-      "line of work",
-      "military control",
-      "moving in",
       "occupancy"
     ],
     "entries": [
@@ -8375,7 +8327,6 @@
       "fill",
       "interest",
       "invade",
-      "lodge in",
       "reside",
       "take"
     ],
@@ -8580,7 +8531,6 @@
     "tags": [],
     "synonyms": [
       "happening",
-      "natural event",
       "occurrence"
     ],
     "entries": [
@@ -8932,7 +8882,6 @@
     "tags": [],
     "synonyms": [
       "eyespot",
-      "simple eye",
       "stemma"
     ],
     "entries": [
@@ -8968,9 +8917,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "panther cat"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -9443,9 +9390,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "musical octave"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -9936,7 +9881,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eight-fold",
       "eightfold"
     ],
     "entries": [
@@ -10106,11 +10050,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "nervus oculomotorius",
-      "oculomotor nerve",
-      "third cranial nerve"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10206,7 +10146,6 @@
       "curious",
       "funny",
       "left",
-      "left over",
       "leftover",
       "peculiar",
       "remaining",
@@ -10540,9 +10479,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "betting odds"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12139,7 +12076,6 @@
       "gre"
     ],
     "synonyms": [
-      "far-out",
       "upbeat"
     ],
     "entries": [
@@ -12834,19 +12770,14 @@
     ],
     "synonyms": [
       "bid",
-      "declare oneself",
       "distribute",
       "extend",
-      "offer up",
       "offering",
       "open",
-      "open up",
       "pass",
-      "pop the question",
       "proffer",
       "propose",
       "provide",
-      "put up",
       "volunteer"
     ],
     "entries": [
@@ -13413,9 +13344,7 @@
     ],
     "synonyms": [
       "agency",
-      "business office",
       "function",
-      "office staff",
       "power",
       "spot"
     ],
@@ -13556,11 +13485,8 @@
       "zk"
     ],
     "synonyms": [
-      "military officer",
       "officeholder",
-      "police officer",
-      "policeman",
-      "ship's officer"
+      "policeman"
     ],
     "entries": [
       {
@@ -13773,9 +13699,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "government officials"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14370,10 +14294,7 @@
       "cancel",
       "counterbalance",
       "countervail",
-      "offset printing",
-      "runner",
-      "set off",
-      "set-back"
+      "runner"
     ],
     "entries": [
       {
@@ -15055,9 +14976,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cyma reversa"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15085,9 +15004,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "nose cone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15370,9 +15287,7 @@
       "anoint",
       "crude",
       "embrocate",
-      "inunct",
-      "oil color",
-      "oil colour"
+      "inunct"
     ],
     "entries": [
       {
@@ -15629,10 +15544,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oil tanker",
-      "oil well"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15830,9 +15742,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "drill rig"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15860,9 +15770,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oil-rich seed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15948,9 +15856,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oil heater"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16131,12 +16037,9 @@
       "zk"
     ],
     "synonyms": [
-      "O.K.",
       "OK",
-      "all right",
       "alright",
       "fine",
-      "hunky-dory",
       "okey",
       "sanction"
     ],
@@ -16224,8 +16127,6 @@
       "zk"
     ],
     "synonyms": [
-      "all right",
-      "o.k.",
       "ok",
       "okay",
       "okeh"
@@ -16346,12 +16247,9 @@
       "ky"
     ],
     "synonyms": [
-      "O.K.",
       "OK",
-      "all right",
       "alright",
       "fine",
-      "hunky-dory",
       "okey",
       "sanction"
     ],
@@ -16436,12 +16334,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "O.K.",
       "OK",
-      "all right",
       "alright",
       "fine",
-      "hunky-dory",
       "okey",
       "sanction"
     ],
@@ -16526,7 +16421,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "o.k.",
       "ok",
       "okay",
       "okeh"
@@ -16665,15 +16559,11 @@
       "chronic",
       "erstwhile",
       "former",
-      "honest-to-god",
-      "honest-to-goodness",
       "older",
-      "one-time",
       "onetime",
       "previous",
       "quondam",
-      "sometime",
-      "sure-enough"
+      "sometime"
     ],
     "entries": [
       {
@@ -16840,8 +16730,7 @@
       "elder",
       "elderly",
       "old",
-      "senior",
-      "sr."
+      "senior"
     ],
     "entries": [
       {
@@ -16882,9 +16771,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "golden oldie"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16940,9 +16827,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "old-line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -17009,11 +16894,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "golden ager",
-      "old person",
-      "senior citizen"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17109,7 +16990,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "old squaw",
       "oldwench"
     ],
     "entries": [
@@ -17247,9 +17127,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "rose bay"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17305,9 +17183,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "olecranon process"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17819,9 +17695,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oligochaete worm"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18234,9 +18108,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "olive-like"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -18607,9 +18479,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bella sombra"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19135,8 +19005,7 @@
       "toefl"
     ],
     "synonyms": [
-      "drop",
-      "take out"
+      "drop"
     ],
     "entries": [
       {
@@ -19439,10 +19308,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "omnidirectional radio range",
-      "omnidirectional range"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19500,9 +19366,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "all-knowing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -19637,9 +19501,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "umbilical hernia"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19697,9 +19559,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "navel-gazing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20089,12 +19949,9 @@
       "zk"
     ],
     "synonyms": [
-      "at one time",
       "erst",
       "erstwhile",
-      "formerly",
-      "in one case",
-      "one time"
+      "formerly"
     ],
     "entries": [
       {
@@ -20230,9 +20087,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "river blindness"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20260,9 +20115,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "butterfly orchid"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20290,9 +20143,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "transforming gene"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21067,9 +20918,7 @@
       "gk",
       "ky"
     ],
-    "synonyms": [
-      "onion plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21141,9 +20990,7 @@
     "tags": [
       "ielts"
     ],
-    "synonyms": [
-      "on-line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -21190,9 +21037,7 @@
     "tags": [
       "ielts"
     ],
-    "synonyms": [
-      "looker-on"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21227,7 +21072,6 @@
       "alone",
       "entirely",
       "just",
-      "only if",
       "sole"
     ],
     "entries": [
@@ -22209,8 +22053,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "peripatus",
-      "velvet worm"
+      "peripatus"
     ],
     "entries": [
       {
@@ -22328,9 +22171,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ingrown toenail"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -22538,8 +22379,7 @@
     "synonyms": [
       "desirability",
       "desirableness",
-      "dynamism",
-      "sex appeal"
+      "dynamism"
     ],
     "entries": [
       {
@@ -22755,7 +22595,6 @@
       "exudate",
       "exude",
       "goop",
-      "ooze out",
       "oozing",
       "seep",
       "transude"
@@ -23409,16 +23248,13 @@
       "clear",
       "exposed",
       "give",
-      "heart-to-heart",
       "loose",
       "offer",
-      "open up",
       "opened",
       "outdoors",
       "overt",
       "receptive",
       "spread",
-      "spread out",
       "subject",
       "surface",
       "undecided",
@@ -24257,16 +24093,11 @@
       "ky"
     ],
     "synonyms": [
-      "chess opening",
-      "curtain raising",
-      "first step",
       "gap",
       "hatchway",
-      "opening night",
       "orifice",
       "porta",
       "possibility",
-      "possible action",
       "scuttle"
     ],
     "entries": [
@@ -24641,9 +24472,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "opera house"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24829,7 +24658,6 @@
       "develop",
       "maneuver",
       "mesh",
-      "operate on",
       "recrudesce",
       "run"
     ],
@@ -25041,16 +24869,10 @@
     ],
     "synonyms": [
       "functioning",
-      "mathematical operation",
-      "mathematical process",
-      "military operation",
       "performance",
       "procedure",
       "process",
-      "surgery",
-      "surgical operation",
-      "surgical procedure",
-      "surgical process"
+      "surgery"
     ],
     "entries": [
       {
@@ -25322,7 +25144,6 @@
       "ky"
     ],
     "synonyms": [
-      "in operation",
       "operating",
       "usable"
     ],
@@ -25475,9 +25296,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "trading operations"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25509,13 +25328,7 @@
     ],
     "synonyms": [
       "PI",
-      "intelligence agent",
-      "intelligence officer",
-      "private detective",
-      "private eye",
-      "private investigator",
       "running",
-      "secret agent",
       "shamus",
       "sherlock",
       "surgical"
@@ -25794,9 +25607,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "light opera"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25970,9 +25781,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "serpent-worship"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26161,7 +25970,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "eye doctor",
       "oculist"
     ],
     "entries": [
@@ -26341,9 +26149,6 @@
     ],
     "synonyms": [
       "animadvert",
-      "sound off",
-      "speak out",
-      "speak up",
       "think"
     ],
     "entries": [
@@ -26389,11 +26194,8 @@
     "synonyms": [
       "feeling",
       "judgment",
-      "popular opinion",
-      "public opinion",
       "ruling",
-      "view",
-      "vox populi"
+      "view"
     ],
     "entries": [
       {
@@ -26470,8 +26272,7 @@
       "gre"
     ],
     "synonyms": [
-      "opinionative",
-      "self-opinionated"
+      "opinionative"
     ],
     "entries": [
       {
@@ -26874,9 +26675,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "self-seeking"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26906,7 +26705,6 @@
     "tags": [],
     "synonyms": [
       "opportunistic",
-      "self-seeker",
       "timeserving"
     ],
     "entries": [
@@ -27280,9 +27078,7 @@
       "contrary",
       "diametric",
       "diametrical",
-      "face-to-face",
       "inverse",
-      "opposite word",
       "opposition",
       "paired",
       "polar",
@@ -28247,9 +28043,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "optative mood"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -28468,9 +28262,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lens maker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -29559,8 +29351,7 @@
       "toefl"
     ],
     "synonyms": [
-      "unwritten",
-      "viva voce"
+      "unwritten"
     ],
     "entries": [
       {
@@ -29633,9 +29424,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "by word of mouth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -29703,7 +29492,6 @@
       "zk"
     ],
     "synonyms": [
-      "orange tree",
       "orangeness",
       "orangish"
     ],
@@ -30044,7 +29832,6 @@
       "toefl"
     ],
     "synonyms": [
-      "public speaker",
       "rhetorician",
       "speechifier",
       "speechmaker"
@@ -30314,13 +30101,8 @@
       "toefl"
     ],
     "synonyms": [
-      "celestial orbit",
-      "cranial orbit",
-      "electron orbit",
-      "eye socket",
       "field",
       "orb",
-      "orbital cavity",
       "reach",
       "revolve"
     ],
@@ -30442,9 +30224,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orbital point"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30532,9 +30312,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "killer whale"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30818,9 +30596,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "orchidaceous plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31232,9 +31008,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "trial by ordeal"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31297,26 +31071,19 @@
       "govern",
       "guild",
       "lodge",
-      "monastic order",
       "ordain",
-      "order of magnitude",
       "ordering",
       "orderliness",
       "ordinate",
       "ordination",
-      "parliamentary law",
-      "parliamentary procedure",
       "place",
       "prescribe",
-      "purchase order",
       "put",
       "regularise",
       "regularize",
       "regulate",
       "rescript",
-      "rules of order",
       "say",
-      "social club",
       "society",
       "tell"
     ],
@@ -31857,7 +31624,6 @@
       "toefl"
     ],
     "synonyms": [
-      "hospital attendant",
       "neat"
     ],
     "entries": [
@@ -31920,10 +31686,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "no.",
-      "ordinal number"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -32123,8 +31886,7 @@
       "ky"
     ],
     "synonyms": [
-      "average",
-      "ordinary bicycle"
+      "average"
     ],
     "entries": [
       {
@@ -32305,8 +32067,7 @@
     ],
     "synonyms": [
       "gun",
-      "munition",
-      "ordnance store"
+      "munition"
     ],
     "entries": [
       {
@@ -32496,9 +32257,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oreo cookie"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32533,10 +32292,7 @@
       "ky"
     ],
     "synonyms": [
-      "electric organ",
-      "harmonium",
-      "pipe organ",
-      "reed organ"
+      "harmonium"
     ],
     "entries": [
       {
@@ -32665,10 +32421,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cell organ",
-      "cell organelle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32708,9 +32461,7 @@
       "toefl"
     ],
     "synonyms": [
-      "constitutional",
-      "organic fertiliser",
-      "organic fertilizer"
+      "constitutional"
     ],
     "entries": [
       {
@@ -33162,8 +32913,7 @@
       "gk"
     ],
     "synonyms": [
-      "organizer",
-      "personal digital assistant"
+      "organizer"
     ],
     "entries": [
       {
@@ -33655,9 +33405,7 @@
     ],
     "synonyms": [
       "arranger",
-      "labor organizer",
-      "organiser",
-      "personal digital assistant"
+      "organiser"
     ],
     "entries": [
       {
@@ -33759,9 +33507,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "variety meat"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33889,7 +33635,6 @@
       "binge",
       "debauch",
       "debauchery",
-      "drunken revelry",
       "riot",
       "saturnalia"
     ],
@@ -33937,9 +33682,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oriel window"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33978,7 +33721,6 @@
       "toefl"
     ],
     "synonyms": [
-      "eastern hemisphere",
       "orientate",
       "point",
       "tailor"
@@ -34372,7 +34114,6 @@
       "toefl"
     ],
     "synonyms": [
-      "orientation course",
       "predilection",
       "preference"
     ],
@@ -34727,7 +34468,6 @@
     "synonyms": [
       "archetype",
       "master",
-      "master copy",
       "pilot"
     ],
     "entries": [
@@ -34882,7 +34622,6 @@
     "synonyms": [
       "daringly",
       "earlier",
-      "in the beginning",
       "primitively"
     ],
     "entries": [
@@ -35101,9 +34840,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orinasal phone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35195,9 +34932,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orlop deck"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35225,9 +34960,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sea-ear"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35724,9 +35457,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ornithischian dinosaur"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35789,9 +35520,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "bird watcher"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35877,9 +35606,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ornithopod dinosaur"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36251,8 +35978,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "orphanhood",
-      "orphans' asylum"
+      "orphanhood"
     ],
     "entries": [
       {
@@ -36646,9 +36372,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "image orthicon"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36798,8 +36522,6 @@
       "gre"
     ],
     "synonyms": [
-      "dental orthopaedics",
-      "dental orthopedics",
       "orthodontia",
       "orthodonture"
     ],
@@ -36931,12 +36653,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "Eastern Orthodox",
-      "Greek Orthodox",
-      "Jewish-Orthodox",
-      "Russian Orthodox"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -37117,7 +36834,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "orthogonal opposition",
       "perpendicularity"
     ],
     "entries": [
@@ -37181,9 +36897,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "writing system"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37576,9 +37290,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orthopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37606,9 +37318,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orthopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37809,9 +37519,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ortolan bunting"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -38005,9 +37713,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "operating system"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -38345,7 +38051,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cathode-ray oscilloscope",
       "scope"
     ],
     "entries": [
@@ -38375,9 +38080,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oscine bird"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -38858,9 +38561,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "flowering fern"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -38890,9 +38591,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "sea eagle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39644,10 +39343,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "degenerative arthritis",
-      "degenerative joint disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39675,9 +39371,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bone-forming cell"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40161,9 +39855,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "marble bones disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40247,9 +39939,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "osteogenic sarcoma"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40670,9 +40360,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "seed shrimp"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40794,9 +40482,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "over-the-counter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -40917,8 +40603,7 @@
       "ky"
     ],
     "synonyms": [
-      "differently",
-      "other than"
+      "differently"
     ],
     "entries": [
       {
@@ -41200,9 +40885,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "otic ganglion"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41230,9 +40913,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ear-nose-and-throat doctor"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41290,9 +40971,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ear doctor"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41376,9 +41055,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ear-nose-and-throat doctor"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41627,9 +41304,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "otter hound"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41816,12 +41491,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "apothecaries' ounce",
-      "oz.",
-      "snow leopard",
-      "troy ounce"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42026,9 +41696,7 @@
       "zk"
     ],
     "synonyms": [
-      "KO'd",
       "away",
-      "come out",
       "extinct",
       "forbidden",
       "kayoed",
@@ -42518,10 +42186,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "outboard motor",
-      "outboard motorboat"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -42742,8 +42407,7 @@
     "tags": [],
     "synonyms": [
       "burst",
-      "effusion",
-      "tumultuous disturbance"
+      "effusion"
     ],
     "entries": [
       {
@@ -43018,8 +42682,7 @@
     },
     "tags": [],
     "synonyms": [
-      "outcropping",
-      "rock outcrop"
+      "outcropping"
     ],
     "entries": [
       {
@@ -43155,7 +42818,6 @@
       "toefl"
     ],
     "synonyms": [
-      "out-of-date",
       "superannuated"
     ],
     "entries": [
@@ -43319,8 +42981,6 @@
     ],
     "synonyms": [
       "open",
-      "open air",
-      "out-of-doors",
       "outside"
     ],
     "entries": [
@@ -43642,9 +43302,7 @@
       "gerund": "outfacing"
     },
     "tags": [],
-    "synonyms": [
-      "stare down"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -43867,9 +43525,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fitted out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -43985,8 +43641,7 @@
     },
     "tags": [],
     "synonyms": [
-      "best",
-      "go around"
+      "best"
     ],
     "entries": [
       {
@@ -44404,9 +44059,7 @@
       "past": "outguessed"
     },
     "tags": [],
-    "synonyms": [
-      "second-guess"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -44469,7 +44122,6 @@
       "toefl"
     ],
     "synonyms": [
-      "field day",
       "junket",
       "picnic"
     ],
@@ -44844,16 +44496,8 @@
       "toefl"
     ],
     "synonyms": [
-      "electric outlet",
-      "electric receptacle",
-      "electrical outlet",
       "exit",
-      "mercantile establishment",
-      "release",
-      "retail store",
-      "sales outlet",
-      "wall plug",
-      "wall socket"
+      "release"
     ],
     "entries": [
       {
@@ -45104,7 +44748,6 @@
     "synonyms": [
       "lookout",
       "mentality",
-      "mind-set",
       "mindset",
       "prospect"
     ],
@@ -45679,7 +45322,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "frontier settlement",
       "outstation"
     ],
     "entries": [
@@ -45795,8 +45437,6 @@
       "toefl"
     ],
     "synonyms": [
-      "end product",
-      "output signal",
       "production",
       "turnout",
       "yield"
@@ -46395,7 +46035,6 @@
     ],
     "synonyms": [
       "instantaneously",
-      "straight-out",
       "unlimited"
     ],
     "entries": [
@@ -46843,9 +46482,6 @@
       "exterior",
       "external",
       "extraneous",
-      "in a pig's eye",
-      "out of doors",
-      "out-of-door",
       "outdoor",
       "outdoors",
       "remote"
@@ -47601,9 +47237,7 @@
       "pastParticiple": "outstared"
     },
     "tags": [],
-    "synonyms": [
-      "stare down"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -47979,7 +47613,6 @@
     ],
     "synonyms": [
       "outbound",
-      "outward-bound",
       "outwards"
     ],
     "entries": [
@@ -48652,9 +48285,7 @@
       "gre",
       "ielts"
     ],
-    "synonyms": [
-      "standing ovation"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48813,10 +48444,7 @@
       "gk",
       "zk"
     ],
-    "synonyms": [
-      "all over",
-      "o'er"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -49320,7 +48948,6 @@
       "toefl"
     ],
     "synonyms": [
-      "boilers suit",
       "boilersuit"
     ],
     "entries": [
@@ -49698,9 +49325,7 @@
       "pastParticiple": "overborne"
     },
     "tags": [],
-    "synonyms": [
-      "bear down"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -50016,9 +49641,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "boil over"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -50146,9 +49769,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bowed down"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -50378,9 +49999,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "too-careful"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -50416,7 +50035,6 @@
     ],
     "synonyms": [
       "cloud",
-      "cloud cover",
       "clouded",
       "cloudiness",
       "overcasting"
@@ -50702,8 +50320,6 @@
     },
     "tags": [],
     "synonyms": [
-      "cloud over",
-      "cloud up",
       "obscure"
     ],
     "entries": [
@@ -50825,7 +50441,6 @@
     ],
     "synonyms": [
       "defeat",
-      "get the best",
       "master",
       "overwhelm"
     ],
@@ -50914,8 +50529,7 @@
     },
     "tags": [],
     "synonyms": [
-      "cover",
-      "over-correct"
+      "cover"
     ],
     "entries": [
       {
@@ -51449,9 +51063,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "o.d."
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -52721,14 +52333,9 @@
       "toefl"
     ],
     "synonyms": [
-      "brim over",
-      "bubble over",
       "flood",
       "overrun",
-      "run over",
-      "runoff",
-      "spill over",
-      "well over"
+      "runoff"
     ],
     "entries": [
       {
@@ -52843,9 +52450,7 @@
       "pastParticiple": "overflown"
     },
     "tags": [],
-    "synonyms": [
-      "pass over"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -52931,9 +52536,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "outer garment"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53119,9 +52722,7 @@
       "past": "overgrew"
     },
     "tags": [],
-    "synonyms": [
-      "grow over"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -53481,11 +53082,6 @@
       "ky"
     ],
     "synonyms": [
-      "budget items",
-      "command processing overhead time",
-      "disk overhead",
-      "operating cost",
-      "operating expense",
       "smash"
     ],
     "entries": [
@@ -54151,9 +53747,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "too large"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -54552,10 +54146,7 @@
     ],
     "synonyms": [
       "command",
-      "drop",
-      "look across",
-      "look out on",
-      "look out over"
+      "drop"
     ],
     "entries": [
       {
@@ -54922,8 +54513,7 @@
     "synonyms": [
       "overabundance",
       "overmuchness",
-      "superabundance",
-      "too much"
+      "superabundance"
     ],
     "entries": [
       {
@@ -55039,7 +54629,6 @@
       "ky"
     ],
     "synonyms": [
-      "all-night",
       "nightlong"
     ],
     "entries": [
@@ -55101,10 +54690,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "overnight bag",
-      "overnight case"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55615,7 +55201,6 @@
     },
     "tags": [],
     "synonyms": [
-      "print over",
       "surprint"
     ],
     "entries": [
@@ -56102,9 +55687,7 @@
       "pastParticiple": "overrefined"
     },
     "tags": [],
-    "synonyms": [
-      "over-refine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -56797,9 +56380,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "highly-sexed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -56948,10 +56529,7 @@
       "pastParticiple": "overshot"
     },
     "tags": [],
-    "synonyms": [
-      "go-around",
-      "wave-off"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58286,9 +57864,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "extra time"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -58599,10 +58175,7 @@
     ],
     "synonyms": [
       "annul",
-      "bowl over",
-      "bring down",
       "countermand",
-      "knock over",
       "lift",
       "override",
       "overrule",
@@ -58614,9 +58187,6 @@
       "revolutionise",
       "revolutionize",
       "subvert",
-      "tip over",
-      "tump over",
-      "turn over",
       "turnover",
       "upset",
       "vacate"
@@ -59122,7 +58692,6 @@
       "overpower",
       "overtake",
       "submerge",
-      "sweep over",
       "whelm"
     ],
     "entries": [
@@ -59483,9 +59052,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "uterine tube"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -59657,9 +59224,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vitamin B2"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -59729,7 +59294,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "quarter round",
       "thumb"
     ],
     "entries": [
@@ -59948,9 +59512,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "egg cell"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -60103,8 +59665,6 @@
       "ky"
     ],
     "synonyms": [
-      "bird of Minerva",
-      "bird of night",
       "hooter"
     ],
     "entries": [
@@ -60134,9 +59694,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "orange sneezeweed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -60510,9 +60068,7 @@
       "gk",
       "ky"
     ],
-    "synonyms": [
-      "wild ox"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -60953,9 +60509,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heart cherry"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -60991,8 +60545,7 @@
     "tags": [],
     "synonyms": [
       "oxidiser",
-      "oxidizer",
-      "oxidizing agent"
+      "oxidizer"
     ],
     "entries": [
       {
@@ -61530,9 +61083,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oxidation-reduction"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61804,9 +61355,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oxygen acid"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61834,9 +61383,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "phenylic acid"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62313,9 +61860,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oxytocic drug"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62487,9 +62032,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oyster catcher"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62517,9 +62060,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "oyster fish"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62607,9 +62148,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ader wax"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62637,9 +62176,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ader wax"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62786,9 +62323,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ozone layer"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",

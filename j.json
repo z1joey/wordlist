@@ -335,8 +335,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "black-necked stork",
-      "policeman bird",
       "saddlebill"
     ],
     "entries": [
@@ -441,9 +439,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jaboticaba tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -505,9 +501,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "caviuna wood"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -572,7 +566,6 @@
       "cet6"
     ],
     "synonyms": [
-      "jack up",
       "jackass",
       "jackfruit",
       "jacklight",
@@ -581,7 +574,6 @@
       "knave",
       "laborer",
       "labourer",
-      "manual laborer",
       "squat"
     ],
     "entries": [
@@ -1418,8 +1410,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "jack",
-      "jackfruit tree"
+      "jack"
     ],
     "entries": [
       {
@@ -1454,9 +1445,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "air hammer"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1509,9 +1498,7 @@
       "pastParticiple": "jack-knifed"
     },
     "tags": [],
-    "synonyms": [
-      "clasp knife"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1741,9 +1728,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "screw jack"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1799,10 +1784,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "half snipe",
-      "pectoral sandpiper"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2219,8 +2201,7 @@
     "synonyms": [
       "boast",
       "boasting",
-      "jactation",
-      "self-praise"
+      "jactation"
     ],
     "entries": [
       {
@@ -2279,7 +2260,6 @@
       "hack",
       "hussy",
       "jadestone",
-      "loose woman",
       "nag",
       "plug",
       "slut",
@@ -2908,8 +2888,7 @@
     "tags": [],
     "synonyms": [
       "eyra",
-      "jaguarondi",
-      "jaguarundi cat"
+      "jaguarondi"
     ],
     "entries": [
       {
@@ -2998,9 +2977,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jail bird"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3375,9 +3352,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "chili pepper"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3444,9 +3419,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "louvered window"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3492,7 +3465,6 @@
     ],
     "synonyms": [
       "block",
-      "chock up",
       "cram",
       "crush",
       "fix",
@@ -3926,9 +3898,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "rose apple"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4139,7 +4109,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "electronic jamming",
       "jam"
     ],
     "entries": [
@@ -4726,9 +4695,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "maule's quince"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4776,8 +4743,7 @@
     "synonyms": [
       "clash",
       "jarful",
-      "jolt",
-      "shake up"
+      "jolt"
     ],
     "entries": [
       {
@@ -5632,9 +5598,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "collared peccary"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5675,11 +5639,8 @@
     "synonyms": [
       "chew",
       "rag",
-      "rattle on",
       "visit",
-      "yack",
-      "yack away",
-      "yap away"
+      "yack"
     ],
     "entries": [
       {
@@ -5792,7 +5753,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "lower jaw",
       "schmoose",
       "schmooze",
       "shmoose",
@@ -6002,9 +5962,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "blue jay"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6113,7 +6071,6 @@
     ],
     "synonyms": [
       "fuck",
-      "idle words",
       "malarkey",
       "malarky",
       "nothingness",
@@ -6193,9 +6150,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jazz musician"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6282,7 +6237,6 @@
     ],
     "synonyms": [
       "covetous",
-      "green-eyed",
       "overjealous"
     ],
     "entries": [
@@ -6362,9 +6316,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "green-eyed monster"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6406,7 +6358,6 @@
       "cet6"
     ],
     "synonyms": [
-      "blue jean",
       "denim"
     ],
     "entries": [
@@ -6694,9 +6645,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "international jihad"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7321,9 +7270,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "man-of-war"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7510,8 +7457,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "jenny",
-      "jenny ass"
+      "jenny"
     ],
     "entries": [
       {
@@ -7778,7 +7724,6 @@
       "dork",
       "flick",
       "hitch",
-      "jerked meat",
       "jerking",
       "jerky",
       "jolt",
@@ -8112,7 +8057,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "one-horse",
       "pokey",
       "poky"
     ],
@@ -8205,9 +8149,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "double-magnum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8270,10 +8212,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "T-shirt",
-      "tee shirt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8307,9 +8246,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "common jasmine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8645,13 +8582,10 @@
       "ky"
     ],
     "synonyms": [
-      "blue jet",
       "fountain",
       "green",
       "gush",
-      "jet plane",
       "pitchy",
-      "reverse lightning",
       "spirt",
       "spurt",
       "squirt"
@@ -9263,9 +9197,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "touch-me-not"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -9439,7 +9371,6 @@
     "tags": [],
     "synonyms": [
       "balk",
-      "change course",
       "gybe",
       "jibe"
     ],
@@ -9746,10 +9677,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "harvest mite",
       "jiggermast",
-      "pony",
-      "shot glass"
+      "pony"
     ],
     "entries": [
       {
@@ -9922,10 +9851,7 @@
       "gre"
     ],
     "synonyms": [
-      "fretsaw",
-      "reciprocating saw",
-      "saber saw",
-      "scroll saw"
+      "fretsaw"
     ],
     "entries": [
       {
@@ -9960,9 +9886,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "international jihad"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10330,8 +10254,7 @@
     ],
     "synonyms": [
       "doggerel",
-      "jangle",
-      "jingle-jangle"
+      "jangle"
     ],
     "entries": [
       {
@@ -10490,8 +10413,7 @@
       "gre"
     ],
     "synonyms": [
-      "chauvinism",
-      "flag waving"
+      "chauvinism"
     ],
     "entries": [
       {
@@ -10597,8 +10519,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "high jinks",
-      "high jinx",
       "hijinks"
     ],
     "entries": [
@@ -11105,10 +11025,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heebie-jeebies",
-      "screaming meemies"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11311,7 +11228,6 @@
     "synonyms": [
       "caper",
       "chore",
-      "farm out",
       "occupation",
       "problem",
       "speculate",
@@ -12307,10 +12223,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jodhpur boot",
-      "jodhpur shoe"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12414,11 +12327,9 @@
     ],
     "synonyms": [
       "clip",
-      "even up",
       "lope",
       "nudge",
       "ramble",
-      "square up",
       "trot"
     ],
     "entries": [
@@ -12756,10 +12667,7 @@
     ],
     "synonyms": [
       "articulation",
-      "bring together",
       "conjoin",
-      "fall in",
-      "get together",
       "link",
       "union"
     ],
@@ -13344,11 +13252,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jointer plane",
-      "jointing plane",
-      "long plane"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -13378,8 +13282,7 @@
     "tags": [],
     "synonyms": [
       "collectively",
-      "conjointly",
-      "together with"
+      "conjointly"
     ],
     "entries": [
       {
@@ -13420,7 +13323,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "legal jointure",
       "unification"
     ],
     "entries": [
@@ -13954,7 +13856,6 @@
       "ky"
     ],
     "synonyms": [
-      "jolly boat",
       "kid",
       "merry",
       "middling"
@@ -14285,9 +14186,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "folk singer"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14631,7 +14530,6 @@
       "gre"
     ],
     "synonyms": [
-      "jot down",
       "jotting",
       "pinch"
     ],
@@ -14752,9 +14650,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "watt second"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14952,9 +14848,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "news media"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15496,9 +15390,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lower jaw"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15537,9 +15429,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "double-chinned"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -16530,7 +16420,6 @@
       "jurist",
       "justice",
       "label",
-      "pass judgment",
       "try"
     ],
     "entries": [
@@ -16634,9 +16523,7 @@
       "toefl"
     ],
     "synonyms": [
-      "judgment",
-      "judicial decision",
-      "sound judgment"
+      "judgment"
     ],
     "entries": [
       {
@@ -16809,12 +16696,10 @@
       "discernment",
       "judgement",
       "judging",
-      "legal opinion",
       "mind",
       "opinion",
       "sagaciousness",
-      "sagacity",
-      "sound judgment"
+      "sagacity"
     ],
     "entries": [
       {
@@ -17000,7 +16885,6 @@
       "court",
       "judgeship",
       "judicatory",
-      "judicial system",
       "judiciary",
       "tribunal"
     ],
@@ -17747,9 +17631,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jugular vein"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -18002,8 +17884,7 @@
     "synonyms": [
       "fat",
       "gamy",
-      "lush",
-      "red-hot"
+      "lush"
     ],
     "entries": [
       {
@@ -18141,9 +18022,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jujube bush"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18216,11 +18095,7 @@
     "tags": [],
     "synonyms": [
       "fake",
-      "jook",
-      "jook house",
-      "jook joint",
-      "juke house",
-      "juke joint"
+      "jook"
     ],
     "entries": [
       {
@@ -18285,9 +18160,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "mint julep"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18446,9 +18319,7 @@
       "confuse",
       "fuddle",
       "jumbal",
-      "mare's nest",
       "mingle",
-      "mix up",
       "muddle",
       "patchwork",
       "scramble",
@@ -18532,9 +18403,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "topsy-turvy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -18602,9 +18471,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jumbo jet"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18632,9 +18499,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "beast of burden"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18705,23 +18570,17 @@
     "synonyms": [
       "alternate",
       "chute",
-      "climb up",
       "derail",
-      "jump out",
-      "jump-start",
       "jumping",
       "leap",
-      "leap out",
       "parachute",
       "parachuting",
       "rise",
       "saltation",
       "skip",
       "spring",
-      "stand out",
       "start",
-      "startle",
-      "stick out"
+      "startle"
     ],
     "entries": [
       {
@@ -19168,7 +19027,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "jump shot",
       "pinafore",
       "pinny",
       "sweater"
@@ -19373,9 +19231,7 @@
       "pastParticiple": "jumpstarted"
     },
     "tags": [],
-    "synonyms": [
-      "jump-start"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19430,9 +19286,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jump suit"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19737,9 +19591,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "hobo camp"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19844,10 +19696,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "next-to-last",
-      "third-year"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -20029,7 +19878,6 @@
       "feast",
       "jaunt",
       "outing",
-      "pleasure trip",
       "sashay"
     ],
     "entries": [
@@ -20129,7 +19977,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "drug addict",
       "nut"
     ],
     "entries": [
@@ -20506,9 +20353,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "legal power"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20708,8 +20553,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "judge",
-      "legal expert"
+      "judge"
     ],
     "entries": [
       {
@@ -20947,7 +20791,6 @@
       "exactly",
       "fair",
       "good",
-      "just now",
       "merely",
       "only",
       "precisely",
@@ -21731,11 +21574,9 @@
     "tags": [],
     "synonyms": [
       "extrusion",
-      "jut out",
       "project",
       "projection",
-      "protrude",
-      "stick out"
+      "protrude"
     ],
     "entries": [
       {
@@ -21829,8 +21670,7 @@
       "projection",
       "protruding",
       "relieved",
-      "sticking",
-      "sticking out"
+      "sticking"
     ],
     "entries": [
       {

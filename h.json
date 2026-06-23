@@ -109,10 +109,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "clothing store",
-      "men's furnishings"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -296,9 +293,6 @@
       "zk"
     ],
     "synonyms": [
-      "drug abuse",
-      "riding habit",
-      "substance abuse",
       "use",
       "wont"
     ],
@@ -521,9 +515,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "home ground"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -560,7 +552,6 @@
       "abode",
       "domicile",
       "dwelling",
-      "dwelling house",
       "home",
       "inhabitancy"
     ],
@@ -1004,18 +995,11 @@
       "cab",
       "chop",
       "cut",
-      "cut up",
       "drudge",
-      "hack on",
-      "hack writer",
       "hacker",
       "jade",
-      "literary hack",
-      "machine politician",
-      "political hack",
       "taxi",
       "taxicab",
-      "ward-heeler",
       "whoop"
     ],
     "entries": [
@@ -1287,7 +1271,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "nettle tree",
       "sugarberry"
     ],
     "entries": [
@@ -1353,9 +1336,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ground squirrel"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1528,9 +1509,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "balsam poplar"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1558,10 +1537,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hackney carriage",
-      "hackney coach"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1633,10 +1609,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hack saw",
-      "metal saw"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1902,7 +1875,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "duck-billed dinosaur",
       "hadrosaurus"
     ],
     "entries": [
@@ -3988,8 +3960,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hag",
-      "slime eels"
+      "hag"
     ],
     "entries": [
       {
@@ -4769,7 +4740,6 @@
     ],
     "synonyms": [
       "fuzz",
-      "hair's-breadth",
       "haircloth",
       "hairsbreadth",
       "pilus",
@@ -4913,9 +4883,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hair care"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5078,12 +5046,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hair care",
-      "hair grease",
-      "hair oil",
-      "hair tonic"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5486,8 +5449,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "finespun",
-      "word-splitting"
+      "finespun"
     ],
     "entries": [
       {
@@ -5560,9 +5522,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hairstreak butterfly"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6373,9 +6333,7 @@
       "gk",
       "zk"
     ],
-    "synonyms": [
-      "one-half"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -6658,7 +6616,6 @@
       "gre"
     ],
     "synonyms": [
-      "half-hearted",
       "lukewarm",
       "tepid"
     ],
@@ -6694,9 +6651,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ha'penny"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6729,9 +6684,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ha'p'orth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -6788,7 +6741,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "halftone engraving",
       "photoengraving"
     ],
     "entries": [
@@ -6957,9 +6909,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "rock salt"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7058,10 +7008,7 @@
       "dorm",
       "dormitory",
       "hallway",
-      "manor hall",
-      "residence",
-      "residence hall",
-      "student residence"
+      "residence"
     ],
     "entries": [
       {
@@ -7586,11 +7533,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hallucinogenic drug",
-      "psychedelic drug",
-      "psychodelic drug"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7679,9 +7622,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "big toe"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7844,9 +7785,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "alkyl halide"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8372,7 +8311,6 @@
       "hackamore",
       "haltere",
       "hamper",
-      "hangman's rope",
       "strangle"
     ],
     "entries": [
@@ -8624,8 +8562,6 @@
     ],
     "synonyms": [
       "gammon",
-      "ham actor",
-      "ham it up",
       "jambon",
       "overact",
       "overplay"
@@ -8680,9 +8616,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "king cobra"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8716,9 +8650,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "tragic flaw"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8779,11 +8711,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hamate bone",
-      "os hamatum",
-      "unciform bone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8820,8 +8748,7 @@
     ],
     "synonyms": [
       "beefburger",
-      "burger",
-      "ground beef"
+      "burger"
     ],
     "entries": [
       {
@@ -8969,8 +8896,7 @@
       "mallet",
       "malleus",
       "pound",
-      "pounding",
-      "power hammer"
+      "pounding"
     ],
     "entries": [
       {
@@ -9184,7 +9110,6 @@
       "dunce",
       "dunderhead",
       "fuckhead",
-      "hammerhead shark",
       "knucklehead",
       "loggerhead",
       "lunkhead",
@@ -9537,9 +9462,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "hamstring tendon"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -9593,12 +9516,8 @@
       "zk"
     ],
     "synonyms": [
-      "bridge player",
       "deal",
       "handwriting",
-      "helping hand",
-      "hired hand",
-      "hired man",
       "manus",
       "mitt",
       "pass",
@@ -10336,9 +10255,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "go-cart"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10827,9 +10744,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand-held"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -11003,9 +10918,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "odds-maker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11079,8 +10992,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "conveniently",
-      "hands down"
+      "conveniently"
     ],
     "entries": [
       {
@@ -11242,7 +11154,6 @@
     "synonyms": [
       "care",
       "cover",
-      "do by",
       "grip",
       "handgrip",
       "hold",
@@ -11450,7 +11361,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "animal trainer",
       "coach"
     ],
     "entries": [
@@ -11538,9 +11448,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11681,9 +11589,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand-crafted"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -11955,7 +11861,6 @@
       "custody",
       "manpower",
       "men",
-      "work force",
       "workforce"
     ],
     "entries": [
@@ -12115,10 +12020,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "carpenter's saw",
-      "hand saw"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12302,8 +12204,7 @@
       "zk"
     ],
     "synonyms": [
-      "big",
-      "fine-looking"
+      "big"
     ],
     "entries": [
       {
@@ -12382,9 +12283,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "good looks"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12469,7 +12368,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "rubber stamp",
       "rubberstamp"
     ],
     "entries": [
@@ -12573,9 +12471,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand-wash"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -12608,9 +12504,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand wear"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12702,9 +12596,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand-loomed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -12863,10 +12755,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "ready to hand",
-      "user-friendly"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -12926,10 +12815,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "jack of all trades",
-      "odd-job man"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12974,11 +12860,7 @@
       "bent",
       "cling",
       "fall",
-      "give ear",
-      "hang up",
-      "knack",
-      "pay heed",
-      "string up"
+      "knack"
     ],
     "entries": [
       {
@@ -13590,8 +13472,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "suspension",
-      "wall hanging"
+      "suspension"
     ],
     "entries": [
       {
@@ -14056,9 +13937,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hansom cab"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -14235,7 +14114,6 @@
     ],
     "synonyms": [
       "haphazardly",
-      "hit-or-miss",
       "slapdash"
     ],
     "entries": [
@@ -14550,10 +14428,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "by chance",
-      "by luck"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -14886,8 +14761,7 @@
     ],
     "synonyms": [
       "felicitous",
-      "glad",
-      "well-chosen"
+      "glad"
     ],
     "entries": [
       {
@@ -15044,7 +14918,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hara-kiri",
       "harikari",
       "seppuku"
     ],
@@ -16145,9 +16018,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hard-core"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -16574,9 +16445,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lesser knapweed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16740,9 +16609,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "toowomba canary grass"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16770,9 +16637,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hard-line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -17028,8 +16893,7 @@
     ],
     "synonyms": [
       "adversity",
-      "asperity",
-      "hard knocks"
+      "asperity"
     ],
     "entries": [
       {
@@ -17075,12 +16939,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pilot biscuit",
-      "pilot bread",
-      "sea biscuit",
-      "ship biscuit"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17149,7 +17008,6 @@
       "toefl"
     ],
     "synonyms": [
-      "computer hardware",
       "ironware"
     ],
     "entries": [
@@ -17520,9 +17378,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cleft lip"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18258,8 +18114,7 @@
       "toefl"
     ],
     "synonyms": [
-      "harp",
-      "mouth organ"
+      "harp"
     ],
     "entries": [
       {
@@ -18922,8 +18777,7 @@
     "synonyms": [
       "concord",
       "concordance",
-      "harmoniousness",
-      "musical harmony"
+      "harmoniousness"
     ],
     "entries": [
       {
@@ -18988,9 +18842,7 @@
       "toefl"
     ],
     "synonyms": [
-      "draw rein",
       "rein",
-      "rein in",
       "rule",
       "tackle"
     ],
@@ -19488,11 +19340,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "harpy bat",
-      "harpy eagle",
-      "hellcat",
-      "tube-nosed bat",
-      "tube-nosed fruit bat"
+      "hellcat"
     ],
     "entries": [
       {
@@ -20083,8 +19931,6 @@
     "synonyms": [
       "crop",
       "glean",
-      "harvest home",
-      "harvest time",
       "harvesting",
       "reap"
     ],
@@ -20259,9 +20105,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "daddy longlegs"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20450,9 +20294,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "service stripe"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20749,9 +20591,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "spearhead-shaped"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -21180,11 +21020,8 @@
       "concoct",
       "cover",
       "crosshatch",
-      "dream up",
       "hachure",
-      "hatching",
-      "think of",
-      "think up"
+      "hatching"
     ],
     "entries": [
       {
@@ -21284,9 +21121,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hatchback door"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -22692,8 +22527,7 @@
     ],
     "synonyms": [
       "obsessed",
-      "preoccupied",
-      "taken up"
+      "preoccupied"
     ],
     "entries": [
       {
@@ -23640,8 +23474,7 @@
     ],
     "synonyms": [
       "mortarboard",
-      "pitch",
-      "war hawk"
+      "pitch"
     ],
     "entries": [
       {
@@ -23715,9 +23548,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hawksbill turtle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23904,10 +23735,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hawk moth",
-      "hummingbird moth",
-      "sphingid",
-      "sphinx moth"
+      "sphingid"
     ],
     "entries": [
       {
@@ -23936,9 +23764,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hawksbill turtle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24316,9 +24142,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "haying time"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24383,10 +24207,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "KO punch",
-      "hay conditioner"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24988,9 +24809,7 @@
       "toefl"
     ],
     "synonyms": [
-      "hazel tree",
-      "hazelnut",
-      "hazelnut tree"
+      "hazelnut"
     ],
     "entries": [
       {
@@ -25085,9 +24904,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sweet gum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25275,9 +25092,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "high-definition television"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25370,9 +25185,6 @@
       "forefront",
       "foreland",
       "fountainhead",
-      "head teacher",
-      "head up",
-      "head word",
       "header",
       "headland",
       "headspring",
@@ -25381,16 +25193,12 @@
       "maneuver",
       "mind",
       "nous",
-      "oral sex",
       "pass",
       "point",
       "principal",
       "promontory",
       "psyche",
-      "question",
-      "read/write head",
-      "school principal",
-      "top dog"
+      "question"
     ],
     "entries": [
       {
@@ -25950,7 +25758,6 @@
     ],
     "synonyms": [
       "cephalalgia",
-      "head ache",
       "vexation"
     ],
     "entries": [
@@ -26108,9 +25915,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "head count"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26541,9 +26346,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "head-shrinker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26816,9 +26619,7 @@
       "gk",
       "ky"
     ],
-    "synonyms": [
-      "newspaper headline"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26956,7 +26757,6 @@
       "hasty",
       "headfirst",
       "headlong",
-      "hell-for-leather",
       "rashly"
     ],
     "entries": [
@@ -27323,13 +27123,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "central office",
-      "home base",
-      "home office",
-      "main office",
-      "military headquarters"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27407,9 +27201,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "head restraint"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27445,7 +27237,6 @@
     "tags": [],
     "synonyms": [
       "clearance",
-      "dynamic headroom",
       "headway"
     ],
     "entries": [
@@ -27992,9 +27783,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "captain",
-      "maitre d'",
-      "maitre d'hotel"
+      "captain"
     ],
     "entries": [
       {
@@ -28128,9 +27917,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "head word"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28474,9 +28261,7 @@
     "tags": [
       "ielts"
     ],
-    "synonyms": [
-      "health care"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28638,9 +28423,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "good health"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28672,7 +28455,6 @@
       "zk"
     ],
     "synonyms": [
-      "good for you",
       "goodly",
       "salubrious",
       "sound"
@@ -28915,7 +28697,6 @@
     "synonyms": [
       "listen",
       "see",
-      "take heed",
       "try"
     ],
     "entries": [
@@ -30046,9 +29827,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heart-leaf"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30252,9 +30031,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "Black Maria"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -30283,12 +30060,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "field pansy",
-      "love-in-idleness",
-      "pink of my John",
-      "repose",
-      "two-eyed violet",
-      "wild pansy"
+      "repose"
     ],
     "entries": [
       {
@@ -30558,9 +30330,7 @@
       "cet6"
     ],
     "synonyms": [
-      "full-blooded",
       "lusty",
-      "red-blooded",
       "square",
       "unreservedly"
     ],
@@ -30646,11 +30416,6 @@
       "zk"
     ],
     "synonyms": [
-      "heat energy",
-      "heat up",
-      "heating system",
-      "high temperature",
-      "hot up",
       "hotness",
       "passion",
       "rut",
@@ -30844,9 +30609,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "heated up",
-      "het",
-      "het up"
+      "het"
     ],
     "entries": [
       {
@@ -31124,7 +30887,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "heather mixture",
       "ling"
     ],
     "entries": [
@@ -31250,7 +31012,6 @@
       "cet6"
     ],
     "synonyms": [
-      "heating system",
       "warming"
     ],
     "entries": [
@@ -31377,9 +31138,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heat hyperpyrexia"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31449,10 +31208,8 @@
       "buckle",
       "gag",
       "gasp",
-      "heave up",
       "heaving",
       "heft",
-      "heft up",
       "lift",
       "pant",
       "puff",
@@ -31945,9 +31702,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "broken wind"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32257,7 +32012,6 @@
       "sullen",
       "threatening",
       "wakeless",
-      "weighed down",
       "weighty"
     ],
     "entries": [
@@ -32796,8 +32550,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "each week",
-      "every week",
       "weekly"
     ],
     "entries": [
@@ -32857,11 +32609,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "disorganized schizophrenia",
-      "disorganized type schizophrenia",
-      "hebephrenic schizophrenia"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33120,9 +32868,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "basset oboe"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33565,9 +33311,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "strong-arm"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -33607,7 +33351,6 @@
     ],
     "synonyms": [
       "dodge",
-      "hedge in",
       "hedgerow",
       "hedging"
     ],
@@ -33723,9 +33466,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "weasel-worded"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -33766,9 +33507,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hedge fund"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33843,9 +33582,7 @@
       "pastParticiple": "hedgehopped"
     },
     "tags": [],
-    "synonyms": [
-      "flat-hat"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -33997,9 +33734,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "creosote bush"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -34226,7 +33961,6 @@
       "advertent",
       "attentive",
       "careful",
-      "paying attention",
       "thoughtful"
     ],
     "entries": [
@@ -34592,8 +34326,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "calcaneus",
-      "os tarsi fibulare"
+      "calcaneus"
     ],
     "entries": [
       {
@@ -35432,11 +35165,9 @@
     },
     "tags": [],
     "synonyms": [
-      "armed robbery",
       "burglarise",
       "burglarize",
-      "burgle",
-      "rip-off"
+      "burgle"
     ],
     "entries": [
       {
@@ -35686,7 +35417,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "sun rose",
       "sunrose"
     ],
     "entries": [
@@ -35973,9 +35703,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sun-worship"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36405,10 +36133,8 @@
     "synonyms": [
       "blaze",
       "fun",
-      "hell on earth",
       "hellhole",
-      "inferno",
-      "snake pit"
+      "inferno"
     ],
     "entries": [
       {
@@ -36486,9 +36212,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "mud puppy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36546,9 +36270,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "false hellebore"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36582,9 +36304,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "rattlesnake plantain"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -36807,9 +36527,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "red region"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37043,7 +36761,6 @@
     ],
     "synonyms": [
       "hi",
-      "how-do-you-do",
       "howdy",
       "hullo"
     ],
@@ -37206,7 +36923,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "helmet orchid",
       "monkshood",
       "skullcap"
     ],
@@ -37249,9 +36965,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "parasitic worm"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37423,7 +37137,6 @@
       "assistant",
       "avail",
       "facilitate",
-      "help oneself",
       "serve",
       "service"
     ],
@@ -37615,9 +37328,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "help desk"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -37904,8 +37615,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "impotently",
-      "unable to help"
+      "impotently"
     ],
     "entries": [
       {
@@ -38683,8 +38393,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "haematocrit",
-      "packed cell volume"
+      "haematocrit"
     ],
     "entries": [
       {
@@ -38719,9 +38428,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hemorrhagic cyst"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39207,9 +38914,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "day blindness"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39237,9 +38942,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "brown lacewing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39447,9 +39150,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sixty-fourth note"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39835,9 +39536,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "unilateral paralysis"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39893,9 +39592,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "button quail"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -39989,9 +39686,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "cerebral hemisphere"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40115,12 +39810,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hemlock tree",
-      "poison hemlock",
-      "poison parsley",
-      "winter fern"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40171,11 +39861,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bronzed diabetes",
-      "iron overload",
-      "iron-storage disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40233,9 +39919,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "artificial kidney"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -40601,7 +40285,6 @@
       "gre"
     ],
     "synonyms": [
-      "bleeder's disease",
       "haemophilia"
     ],
     "entries": [
@@ -40797,8 +40480,7 @@
     ],
     "synonyms": [
       "bleed",
-      "bleeding",
-      "shed blood"
+      "bleeding"
     ],
     "entries": [
       {
@@ -41168,8 +40850,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cannabis",
-      "hangman's rope"
+      "cannabis"
     ],
     "entries": [
       {
@@ -41379,10 +41060,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "black henbane",
-      "stinking nightshade"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -41820,8 +41498,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hip",
-      "hip to"
+      "hip"
     ],
     "entries": [
       {
@@ -42048,9 +41725,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vitamin B2"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42079,9 +41754,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hepatocarcinoma",
-      "hepatocellular carcinoma",
-      "malignant hepatoma"
+      "hepatocarcinoma"
     ],
     "entries": [
       {
@@ -42543,9 +42216,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "herbaceous plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42649,10 +42320,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "herb tea",
-      "herbal tea"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -42696,9 +42364,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "herb doctor"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -42757,7 +42423,6 @@
       "gre"
     ],
     "synonyms": [
-      "weed killer",
       "weedkiller"
     ],
     "entries": [
@@ -43070,10 +42735,8 @@
       "zk"
     ],
     "synonyms": [
-      "here and now",
       "hither",
-      "moment",
-      "present moment"
+      "moment"
     ],
     "entries": [
       {
@@ -43253,8 +42916,7 @@
       "future",
       "futurity",
       "hereinafter",
-      "hereunder",
-      "time to come"
+      "hereunder"
     ],
     "entries": [
       {
@@ -43449,9 +43111,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "genetic endowment"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -43684,8 +43344,7 @@
       "gre"
     ],
     "synonyms": [
-      "misbeliever",
-      "religious outcast"
+      "misbeliever"
     ],
     "entries": [
       {
@@ -43785,9 +43444,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "so far"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -44613,10 +44270,7 @@
       "epic",
       "expansive",
       "grand",
-      "heroic meter",
-      "heroic verse",
-      "heroical",
-      "larger-than-life"
+      "heroical"
     ],
     "entries": [
       {
@@ -44974,9 +44628,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "herpes virus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45068,9 +44720,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "master race"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45192,9 +44842,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "herringbone pattern"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45808,9 +45456,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cinnamon stone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45902,8 +45548,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "heterocyclic",
-      "heterocyclic ring"
+      "heterocyclic"
     ],
     "entries": [
       {
@@ -45939,8 +45584,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "heterocycle",
-      "heterocyclic compound"
+      "heterocycle"
     ],
     "entries": [
       {
@@ -46251,9 +45895,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "alternation of generations"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47202,10 +46844,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heuristic program",
-      "heuristic rule"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -47251,9 +46890,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "hew out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -47341,9 +46978,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hand-hewn"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -47800,9 +47435,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "witches' broom"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48108,9 +47741,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "hole up"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -48399,7 +48030,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "love bite",
       "pimple",
       "zit"
     ],
@@ -48436,9 +48066,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hickory tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48474,7 +48102,6 @@
     "tags": [],
     "synonyms": [
       "obscure",
-      "out of sight",
       "secret"
     ],
     "entries": [
@@ -48615,11 +48242,9 @@
       "zk"
     ],
     "synonyms": [
-      "blot out",
       "conceal",
       "cover",
       "fell",
-      "hide out",
       "obliterate",
       "obscure",
       "pelt",
@@ -49289,10 +48914,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "pecking order",
-      "power structure"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -49332,7 +48954,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hieratic script",
       "hieratical"
     ],
     "entries": [
@@ -49715,18 +49336,10 @@
       "gamey",
       "gamy",
       "heights",
-      "high gear",
-      "high school",
-      "high up",
-      "high-pitched",
       "highschool",
-      "in high spirits",
       "low",
-      "low-pitched",
       "mellow",
-      "richly",
-      "senior high",
-      "senior high school"
+      "richly"
     ],
     "entries": [
       {
@@ -50008,9 +49621,7 @@
     "tags": [
       "ielts"
     ],
-    "synonyms": [
-      "tower block"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -50276,9 +49887,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "feeding chair"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -50548,8 +50157,7 @@
     "tags": [],
     "synonyms": [
       "highwayman",
-      "hijacker",
-      "road agent"
+      "hijacker"
     ],
     "entries": [
       {
@@ -50704,7 +50312,6 @@
     ],
     "synonyms": [
       "foreground",
-      "high spot",
       "highlighting"
     ],
     "entries": [
@@ -50961,9 +50568,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "trunk road"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51063,9 +50668,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "high tide"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51098,9 +50701,7 @@
       "gk",
       "ky"
     ],
-    "synonyms": [
-      "main road"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51220,7 +50821,6 @@
     "synonyms": [
       "commandeer",
       "highjack",
-      "move in on",
       "pirate"
     ],
     "entries": [
@@ -51380,7 +50980,6 @@
     ],
     "synonyms": [
       "boost",
-      "cost increase",
       "hiking",
       "raise",
       "rise",
@@ -52558,9 +52157,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hind limb"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52901,9 +52498,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "flexible joint"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53129,14 +52724,9 @@
       "ky"
     ],
     "synonyms": [
-      "articulatio coxae",
       "coxa",
       "hep",
-      "hip joint",
-      "pelvic arch",
-      "pelvic girdle",
       "pelvis",
-      "rose hip",
       "rosehip"
     ],
     "entries": [
@@ -53201,9 +52791,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "innominate bone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53231,9 +52819,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pocket flask"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53261,9 +52847,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hip-length"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -53431,7 +53015,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "flower child",
       "hippy",
       "hipster"
     ],
@@ -53462,9 +53045,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "flower people"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53522,9 +53103,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "louse fly"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53639,8 +53218,7 @@
       "gre"
     ],
     "synonyms": [
-      "hippo",
-      "river horse"
+      "hippo"
     ],
     "entries": [
       {
@@ -53729,9 +53307,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "flower people"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55371,25 +54947,17 @@
       "zk"
     ],
     "synonyms": [
-      "arrive at",
       "attain",
       "bang",
-      "bump off",
-      "collide with",
-      "come to",
       "dispatch",
       "gain",
       "hitting",
-      "impinge on",
       "make",
       "murder",
       "off",
       "pip",
-      "polish off",
-      "rack up",
       "reach",
       "remove",
-      "run into",
       "score",
       "shoot",
       "slay",
@@ -55771,7 +55339,6 @@
     "synonyms": [
       "catch",
       "check",
-      "duty tour",
       "encumbrance",
       "enlistment",
       "gimp",
@@ -55786,10 +55353,8 @@
       "preventative",
       "preventive",
       "rub",
-      "term of enlistment",
       "thumb",
-      "tour",
-      "tour of duty"
+      "tour"
     ],
     "entries": [
       {
@@ -55958,9 +55523,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hitching bar"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56028,9 +55591,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "so far"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -56292,9 +55853,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "human immunodeficiency virus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56509,9 +56068,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "health maintenance organization"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56993,15 +56550,10 @@
     "synonyms": [
       "canescent",
       "gray",
-      "gray-haired",
-      "gray-headed",
       "grey",
-      "grey-haired",
-      "grey-headed",
       "grizzly",
       "hoar",
-      "rusty",
-      "white-haired"
+      "rusty"
     ],
     "entries": [
       {
@@ -57090,11 +56642,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "play a joke on",
-      "pull someone's leg",
-      "put-on"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57407,8 +56955,7 @@
     ],
     "synonyms": [
       "hobbyhorse",
-      "pursuit",
-      "rocking horse"
+      "pursuit"
     ],
     "entries": [
       {
@@ -57737,7 +57284,6 @@
     },
     "tags": [],
     "synonyms": [
-      "hock-joint",
       "soak"
     ],
     "entries": [
@@ -57795,10 +57341,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "field hockey",
-      "ice hockey"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57899,9 +57442,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hod carrier"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58294,7 +57835,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hog snapper",
       "pigfish"
     ],
     "entries": [
@@ -58365,9 +57905,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "broken-backed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -58557,9 +58095,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cow parsnip"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -58805,9 +58341,6 @@
       "bear",
       "bind",
       "book",
-      "cargo area",
-      "cargo deck",
-      "cargo hold",
       "carry",
       "check",
       "clasp",
@@ -58821,17 +58354,12 @@
       "defy",
       "delay",
       "entertain",
-      "go for",
       "guard",
       "handle",
       "harbor",
       "harbour",
       "have",
-      "have got",
-      "hold back",
-      "hold up",
       "keep",
-      "keep back",
       "maintain",
       "nurse",
       "obligate",
@@ -58842,13 +58370,9 @@
       "reserve",
       "restrain",
       "retain",
-      "storage area",
       "support",
       "take",
-      "take for",
-      "take hold",
       "throw",
-      "time lag",
       "wait",
       "withstand"
     ],
@@ -59981,7 +59505,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "armed robbery",
       "delay"
     ],
     "entries": [
@@ -60038,8 +59561,6 @@
     ],
     "synonyms": [
       "fix",
-      "golf hole",
-      "hole out",
       "hollow",
       "trap"
     ],
@@ -60390,9 +59911,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "holistic theory"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -60713,11 +60232,9 @@
       "toefl"
     ],
     "synonyms": [
-      "core out",
       "dig",
       "hole",
       "holler",
-      "hollow out",
       "vacuous"
     ],
     "entries": [
@@ -60974,10 +60491,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "holly-leaves barberry",
-      "mountain grape"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61542,9 +61056,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "whole name"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61577,9 +61089,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "whole to part relation"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61663,9 +61173,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sea cucumber"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61693,9 +61201,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "type specimen"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -61793,7 +61299,6 @@
       "ky"
     ],
     "synonyms": [
-      "holy place",
       "sanctum"
     ],
     "entries": [
@@ -61990,14 +61495,10 @@
     "synonyms": [
       "base",
       "habitation",
-      "home base",
-      "home plate",
       "house",
       "internal",
-      "nursing home",
       "place",
-      "plate",
-      "rest home"
+      "plate"
     ],
     "entries": [
       {
@@ -62202,9 +61703,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "stay-at-home"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62233,8 +61732,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "housebound",
-      "shut-in"
+      "housebound"
     ],
     "entries": [
       {
@@ -62308,9 +61806,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "home brew"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -62339,8 +61835,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "home-builder",
-      "house-builder",
       "housebuilder"
     ],
     "entries": [
@@ -62534,7 +62028,6 @@
     "tags": [],
     "synonyms": [
       "dispossessed",
-      "homeless person",
       "stateless"
     ],
     "entries": [
@@ -62860,9 +62353,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "homeobox gene"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63170,9 +62661,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "home page"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63201,8 +62690,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "home run",
-      "homing pigeon",
       "kor"
     ],
     "entries": [
@@ -63288,9 +62775,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "home room"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -63379,7 +62864,6 @@
       "toefl"
     ],
     "synonyms": [
-      "cracker-barrel",
       "folksy",
       "tight"
     ],
@@ -63595,7 +63079,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "homeward-bound",
       "homewards"
     ],
     "entries": [
@@ -65794,9 +65277,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "homopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66599,10 +66080,7 @@
     ],
     "synonyms": [
       "honestness",
-      "money plant",
-      "satin flower",
-      "satinpod",
-      "silver dollar"
+      "satinpod"
     ],
     "entries": [
       {
@@ -66731,9 +66209,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "honey bell"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66901,9 +66377,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "honeydew melon"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -66969,10 +66443,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "honey-flower",
-      "mountain devil"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -67121,9 +66592,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "king protea"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -67151,9 +66620,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "honey eater"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -67181,10 +66648,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "coast banksia",
-      "meeting house"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -67700,7 +67164,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cum laude",
       "uprightly"
     ],
     "entries": [
@@ -68103,9 +67566,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cum laude"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -68133,9 +67594,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "honours degree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -68202,12 +67661,9 @@
       "cap",
       "cowl",
       "cowling",
-      "exhaust hood",
       "goon",
       "hoodlum",
-      "lens hood",
       "punk",
-      "strong-armer",
       "thug",
       "tough",
       "toughie"
@@ -68709,9 +68165,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "step dancing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -68767,10 +68221,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hoof mark",
-      "hoof-mark"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -68813,15 +68264,12 @@
       "addict",
       "bait",
       "claw",
-      "come-on",
       "cop",
       "crochet",
       "crotchet",
       "draw",
       "glom",
-      "hook shot",
       "hooking",
-      "knock off",
       "lure",
       "pinch",
       "pluck",
@@ -69070,14 +68518,11 @@
     "synonyms": [
       "calean",
       "chicha",
-      "hubble-bubble",
-      "hubbly-bubbly",
       "kalian",
       "narghile",
       "nargileh",
       "sheesha",
-      "shisha",
-      "water pipe"
+      "shisha"
     ],
     "entries": [
       {
@@ -69173,7 +68618,6 @@
       "floozy",
       "hustler",
       "slattern",
-      "street girl",
       "streetwalker"
     ],
     "entries": [
@@ -69302,9 +68746,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "Roman nose"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -69333,8 +68775,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "maulers",
-      "meat hooks"
+      "maulers"
     ],
     "entries": [
       {
@@ -69426,9 +68867,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hookworm disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -70154,7 +69593,6 @@
     "synonyms": [
       "hops",
       "leapfrog",
-      "record hop",
       "skip"
     ],
     "entries": [
@@ -70341,7 +69779,6 @@
     ],
     "synonyms": [
       "desire",
-      "go for",
       "promise",
       "trust"
     ],
@@ -70773,8 +70210,7 @@
     "tags": [],
     "synonyms": [
       "grasshopper",
-      "grounder",
-      "hop-picker"
+      "grounder"
     ],
     "entries": [
       {
@@ -71143,9 +70579,6 @@
       "toefl"
     ],
     "synonyms": [
-      "apparent horizon",
-      "celestial horizon",
-      "sensible horizon",
       "skyline",
       "view"
     ],
@@ -71392,12 +70825,8 @@
       "toefl"
     ],
     "synonyms": [
-      "automobile horn",
-      "car horn",
       "cornet",
       "hooter",
-      "motor horn",
-      "saddle horn",
       "trump",
       "trumpet",
       "tusk"
@@ -71738,9 +71167,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hot pants"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -71912,9 +71339,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "horned pout"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72520,10 +71945,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "horror-stricken",
-      "horror-struck"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -72696,9 +72118,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pilomotor reflex"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -72784,8 +72204,6 @@
     "synonyms": [
       "buck",
       "cavalry",
-      "gymnastic horse",
-      "horse cavalry",
       "knight"
     ],
     "entries": [
@@ -72934,9 +72352,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fava bean"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73121,9 +72537,7 @@
     "tags": [],
     "synonyms": [
       "cleg",
-      "clegg",
-      "horse fly",
-      "horse tick"
+      "clegg"
     ],
     "entries": [
       {
@@ -73250,9 +72664,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ha-ha"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73309,8 +72721,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "equestrian",
-      "horse fancier"
+      "equestrian"
     ],
     "entries": [
       {
@@ -73403,9 +72814,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lemon mint"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73539,11 +72948,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "horse radish",
-      "horseradish root",
-      "red cole"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -73787,10 +73192,7 @@
     "tags": [],
     "synonyms": [
       "fleabane",
-      "horse balm",
       "richweed",
-      "stone root",
-      "stone-root",
       "stoneroot"
     ],
     "entries": [
@@ -74020,9 +73422,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "golden glow"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -74218,7 +73618,6 @@
       "ky"
     ],
     "synonyms": [
-      "hose down",
       "hosepipe",
       "hosiery"
     ],
@@ -74651,9 +74050,7 @@
       "ielts",
       "ky"
     ],
-    "synonyms": [
-      "cordial reception"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -74682,9 +74079,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hospital care",
-      "hospitalisation",
-      "hospitalization insurance"
+      "hospitalisation"
     ],
     "entries": [
       {
@@ -74794,7 +74189,6 @@
       "horde",
       "innkeeper",
       "legion",
-      "master of ceremonies",
       "server"
     ],
     "entries": [
@@ -74944,9 +74338,7 @@
       "auberge",
       "hostelry",
       "inn",
-      "lodge",
-      "student lodging",
-      "youth hostel"
+      "lodge"
     ],
     "entries": [
       {
@@ -74982,7 +74374,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hotel manager",
       "hotelier",
       "hotelkeeper",
       "hotelman"
@@ -75061,7 +74452,6 @@
       "ky"
     ],
     "synonyms": [
-      "air hostess",
       "stewardess"
     ],
     "entries": [
@@ -75277,8 +74667,7 @@
     "synonyms": [
       "aggression",
       "antagonism",
-      "enmity",
-      "ill will"
+      "enmity"
     ],
     "entries": [
       {
@@ -75374,7 +74763,6 @@
       "zk"
     ],
     "synonyms": [
-      "bang-up",
       "blistering",
       "bully",
       "cold",
@@ -75383,19 +74771,14 @@
       "dandy",
       "excellent",
       "fantabulous",
-      "first-class",
       "great",
       "groovy",
       "keen",
       "live",
       "neat",
-      "new-made",
       "nifty",
-      "not bad",
       "peachy",
       "raging",
-      "red-hot",
-      "slap-up",
       "smashing",
       "spicy",
       "splendid",
@@ -75794,9 +75177,7 @@
       "zk"
     ],
     "synonyms": [
-      "dog",
-      "hot dog",
-      "red hot"
+      "dog"
     ],
     "entries": [
       {
@@ -75964,7 +75345,6 @@
     },
     "tags": [],
     "synonyms": [
-      "in short order",
       "speed"
     ],
     "entries": [
@@ -76016,10 +75396,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fire-eater",
-      "harum-scarum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76162,7 +75539,6 @@
     "tags": [],
     "synonyms": [
       "heat",
-      "hot pants",
       "pepperiness"
     ],
     "entries": [
@@ -76209,9 +75585,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hot plate"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76239,9 +75613,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hot pot"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76337,9 +75709,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hot spot"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -76539,7 +75909,6 @@
       "cad",
       "dog",
       "heel",
-      "hound dog",
       "hunt",
       "trace"
     ],
@@ -76601,8 +75970,7 @@
     ],
     "synonyms": [
       "hr",
-      "minute",
-      "time of day"
+      "minute"
     ],
     "entries": [
       {
@@ -76883,7 +76251,6 @@
     ],
     "synonyms": [
       "accommodate",
-      "business firm",
       "domiciliate",
       "family",
       "firm",
@@ -76892,11 +76259,7 @@
       "lodge",
       "mansion",
       "menage",
-      "planetary house",
-      "put up",
       "sign",
-      "sign of the zodiac",
-      "star sign",
       "theater",
       "theatre"
     ],
@@ -77151,9 +76514,7 @@
       "pastParticiple": "housebroken"
     },
     "tags": [],
-    "synonyms": [
-      "house-train"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -77182,7 +76543,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cat burglar",
       "housewrecker"
     ],
     "entries": [
@@ -77223,10 +76583,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "break-in",
-      "breaking and entering"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77254,9 +76611,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "house-trained"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -77512,9 +76867,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "house fly"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77575,9 +76928,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "house guest"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77670,9 +77021,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "house husband"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -77969,9 +77318,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "house paint"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -78127,9 +77474,7 @@
       "ky"
     ],
     "synonyms": [
-      "homemaker",
-      "lady of the house",
-      "woman of the house"
+      "homemaker"
     ],
     "entries": [
       {
@@ -78339,9 +77684,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "purple pea"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -78494,9 +77837,7 @@
     "tags": [
       "toefl"
     ],
-    "synonyms": [
-      "ground-effect machine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -78590,8 +77931,6 @@
       "zk"
     ],
     "synonyms": [
-      "all the same",
-      "even so",
       "nevertheless",
       "nonetheless",
       "notwithstanding",
@@ -78814,12 +78153,9 @@
       "gre"
     ],
     "synonyms": [
-      "belly laugh",
-      "howler monkey",
       "riot",
       "scream",
       "sidesplitter",
-      "thigh-slapper",
       "wow"
     ],
     "entries": [
@@ -79109,9 +78445,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hypertext markup language"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -79139,9 +78473,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wild tamarind"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -79522,7 +78854,6 @@
       "gre"
     ],
     "synonyms": [
-      "cheap-jack",
       "haggle",
       "pitch"
     ],
@@ -79593,7 +78924,6 @@
     ],
     "synonyms": [
       "cower",
-      "huddle together",
       "powwow"
     ],
     "entries": [
@@ -79922,7 +79252,6 @@
     "synonyms": [
       "miff",
       "puff",
-      "seeing red",
       "snort"
     ],
     "entries": [
@@ -80129,7 +79458,6 @@
       "feisty",
       "mad",
       "sore",
-      "thin-skinned",
       "touchy"
     ],
     "entries": [
@@ -80396,12 +79724,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cassie",
-      "flame tree",
-      "mimosa bush",
-      "scented wattle",
-      "sweet acacia",
-      "sweet wattle"
+      "cassie"
     ],
     "entries": [
       {
@@ -80460,9 +79783,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hula-hula"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -80867,7 +80188,6 @@
     ],
     "synonyms": [
       "homo",
-      "human being",
       "man"
     ],
     "entries": [
@@ -81105,8 +80425,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "humanitarianism",
-      "secular humanism"
+      "humanitarianism"
     ],
     "entries": [
       {
@@ -81150,7 +80469,6 @@
       "toefl"
     ],
     "synonyms": [
-      "human-centered",
       "humane",
       "humanistic",
       "humanitarian"
@@ -81235,7 +80553,6 @@
       "toefl"
     ],
     "synonyms": [
-      "human-centered",
       "humane",
       "humanist"
     ],
@@ -81298,8 +80615,6 @@
       "toefl"
     ],
     "synonyms": [
-      "do-gooder",
-      "human-centered",
       "humanist",
       "improver"
     ],
@@ -81388,9 +80703,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "humanistic discipline"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -82038,8 +81351,6 @@
       "boloney",
       "bosh",
       "drool",
-      "put-on",
-      "snake oil",
       "taradiddle",
       "tarradiddle",
       "tommyrot",
@@ -83003,12 +82314,7 @@
       "ky"
     ],
     "synonyms": [
-      "bodily fluid",
-      "body fluid",
       "humour",
-      "liquid body substance",
-      "sense of humor",
-      "sense of humour",
       "temper"
     ],
     "entries": [
@@ -83671,7 +82977,6 @@
     "tags": [],
     "synonyms": [
       "crookback",
-      "humpback whale",
       "hunchback",
       "kyphosis"
     ],
@@ -83848,8 +83153,6 @@
     ],
     "synonyms": [
       "hump",
-      "hunch forward",
-      "hunch over",
       "intuition",
       "suspicion"
     ],
@@ -83970,8 +83273,6 @@
     "tags": [],
     "synonyms": [
       "crooked",
-      "round-backed",
-      "round-shouldered",
       "stooped",
       "stooping"
     ],
@@ -84007,9 +83308,7 @@
     ],
     "synonyms": [
       "c",
-      "century",
-      "one C",
-      "one hundred"
+      "century"
     ],
     "entries": [
       {
@@ -84049,9 +83348,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "a hundred times"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -84085,9 +83382,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "centesimal",
-      "one percent",
-      "one-hundredth"
+      "centesimal"
     ],
     "entries": [
       {
@@ -84138,10 +83433,7 @@
       "centner",
       "cwt",
       "doppelzentner",
-      "long hundredweight",
-      "metric hundredweight",
-      "quintal",
-      "short hundredweight"
+      "quintal"
     ],
     "entries": [
       {
@@ -84548,7 +83840,6 @@
     ],
     "synonyms": [
       "hound",
-      "hunt club",
       "hunting",
       "run",
       "search"
@@ -84780,7 +84071,6 @@
       "gk"
     ],
     "synonyms": [
-      "hunting watch",
       "huntsman"
     ],
     "entries": [
@@ -85036,7 +84326,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hurdle race",
       "hurdling"
     ],
     "entries": [
@@ -85409,8 +84698,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hastily",
-      "in haste"
+      "hastily"
     ],
     "entries": [
       {
@@ -85490,7 +84778,6 @@
       "festinate",
       "haste",
       "hasten",
-      "look sharp",
       "rush",
       "speed"
     ],
@@ -85995,8 +85282,7 @@
     ],
     "synonyms": [
       "conserve",
-      "hubby",
-      "married man"
+      "hubby"
     ],
     "entries": [
       {
@@ -86146,10 +85432,8 @@
       "gre"
     ],
     "synonyms": [
-      "hush up",
       "quiet",
       "quieten",
-      "shut up",
       "silence",
       "still",
       "stillness"
@@ -86296,9 +85580,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hush puppy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -86636,14 +85918,9 @@
     ],
     "synonyms": [
       "bunco",
-      "bunco game",
       "bunko",
-      "bunko game",
       "bustle",
       "con",
-      "con game",
-      "confidence game",
-      "confidence trick",
       "flimflam",
       "gyp",
       "pluck",
@@ -86740,8 +86017,7 @@
     "tags": [],
     "synonyms": [
       "hooker",
-      "operator",
-      "wheeler dealer"
+      "operator"
     ],
     "entries": [
       {
@@ -86782,7 +86058,6 @@
       "ky"
     ],
     "synonyms": [
-      "army hut",
       "hovel"
     ],
     "entries": [
@@ -87149,8 +86424,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hyaline",
-      "hyaloid membrane"
+      "hyaline"
     ],
     "entries": [
       {
@@ -87190,9 +86464,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ground substance"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -87254,7 +86526,6 @@
     "synonyms": [
       "crossbreed",
       "intercrossed",
-      "loan-blend",
       "loanblend"
     ],
     "entries": [
@@ -87543,10 +86814,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "water pore",
-      "water stoma"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -88109,9 +87377,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fluid mechanics"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -89660,9 +88926,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hydromorphone hydrochloride"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -89915,9 +89179,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "aquatic plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -90071,8 +89333,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "aquiculture",
-      "tank farming"
+      "aquiculture"
     ],
     "entries": [
       {
@@ -90310,9 +89571,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hydrated oxide"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -90374,9 +89633,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "phenylic acid"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -90432,10 +89689,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hydroxyl group",
-      "hydroxyl radical"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -90547,9 +89801,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hydroxyzine hydrochloride"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91246,9 +90498,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hymenopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91276,9 +90526,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hymenopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91306,9 +90554,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hymenopterous insect"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91574,10 +90820,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hyoid bone",
-      "os hyoideum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -91732,10 +90975,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "calyx tube",
-      "floral cup"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -91933,7 +91173,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "auditory hyperesthesia",
       "hyperacusia"
     ],
     "entries": [
@@ -92084,9 +91323,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "total parenteral nutrition"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -93510,11 +92747,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hypermedia system",
-      "interactive multimedia",
-      "interactive multimedia system"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -93925,9 +93158,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "essential hypertension"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -93955,9 +93186,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "essential hypertension"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -94347,9 +93576,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "high blood pressure"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -95207,9 +94434,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "word division"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -95415,9 +94640,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sleep-learning"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -95884,9 +95107,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hypodermic",
-      "sodium thiosulfate",
-      "sodium thiosulphate"
+      "hypodermic"
     ],
     "entries": [
       {
@@ -96407,9 +95628,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pet name"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -96444,9 +95663,7 @@
     "tags": [
       "ky"
     ],
-    "synonyms": [
-      "lip service"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -96640,7 +95857,6 @@
     ],
     "synonyms": [
       "hypo",
-      "hypodermic syringe",
       "subcutaneous"
     ],
     "entries": [
@@ -96772,11 +95988,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hypoglossal nerve",
-      "nervus hypoglosus",
-      "twelfth cranial nerve"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -97572,8 +96784,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "epistasis",
-      "hypostasis of Christ"
+      "epistasis"
     ],
     "entries": [
       {
@@ -98944,8 +98155,7 @@
       "gre"
     ],
     "synonyms": [
-      "craze",
-      "hysterical neurosis"
+      "craze"
     ],
     "entries": [
       {

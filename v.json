@@ -200,7 +200,6 @@
     ],
     "synonyms": [
       "empty",
-      "give up",
       "overturn"
     ],
     "entries": [
@@ -1303,7 +1302,6 @@
     "synonyms": [
       "hoover",
       "vacuity",
-      "vacuum cleaner",
       "void"
     ],
     "entries": [
@@ -2005,9 +2003,7 @@
       "conceited",
       "egotistic",
       "egotistical",
-      "self-conceited",
-      "swollen",
-      "swollen-headed"
+      "swollen"
     ],
     "entries": [
       {
@@ -2110,9 +2106,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "in vain"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -3864,15 +3858,12 @@
       "zk"
     ],
     "synonyms": [
-      "economic value",
       "extrapolate",
       "interpolate",
       "measure",
-      "note value",
       "prize",
       "rate",
-      "respect",
-      "time value"
+      "respect"
     ],
     "entries": [
       {
@@ -4594,9 +4585,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "lower cannon"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4670,8 +4659,7 @@
     "synonyms": [
       "coin",
       "revamp",
-      "tease",
-      "vamp up"
+      "tease"
     ],
     "entries": [
       {
@@ -4865,7 +4853,6 @@
       "ky"
     ],
     "synonyms": [
-      "avant-garde",
       "caravan",
       "vanguard"
     ],
@@ -5083,8 +5070,7 @@
       "gre"
     ],
     "synonyms": [
-      "hooliganism",
-      "malicious mischief"
+      "hooliganism"
     ],
     "entries": [
       {
@@ -5187,10 +5173,8 @@
     "tags": [],
     "synonyms": [
       "blade",
-      "weather vane",
       "weathervane",
-      "web",
-      "wind vane"
+      "web"
     ],
     "entries": [
       {
@@ -5273,8 +5257,6 @@
       "gre"
     ],
     "synonyms": [
-      "avant-garde",
-      "cutting edge",
       "van"
     ],
     "entries": [
@@ -5441,8 +5423,7 @@
     ],
     "synonyms": [
       "disappear",
-      "fly",
-      "go away"
+      "fly"
     ],
     "entries": [
       {
@@ -5696,12 +5677,9 @@
       "toefl"
     ],
     "synonyms": [
-      "amour propre",
       "conceit",
       "conceitedness",
-      "dressing table",
-      "emptiness",
-      "self-love"
+      "emptiness"
     ],
     "entries": [
       {
@@ -7521,9 +7499,6 @@
       "toefl"
     ],
     "synonyms": [
-      "chance variable",
-      "random variable",
-      "stochastic variable",
       "strain",
       "variance",
       "variate",
@@ -7645,10 +7620,7 @@
     "synonyms": [
       "edition",
       "fluctuation",
-      "magnetic declination",
-      "magnetic variation",
       "mutant",
-      "pas seul",
       "variance",
       "variant"
     ],
@@ -8118,9 +8090,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "wide-ranging"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -9064,9 +9034,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "first team"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -10038,9 +10006,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "antidiuretic hormone"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10716,8 +10682,6 @@
       "toefl"
     ],
     "synonyms": [
-      "bank vault",
-      "burial vault",
       "hurdle",
       "overleap"
     ],
@@ -10823,10 +10787,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "pole jumper",
-      "pole vaulter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11717,9 +11678,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "vege out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -12297,10 +12256,7 @@
     ],
     "synonyms": [
       "caul",
-      "embryonic membrane",
-      "head covering",
-      "hide",
-      "humeral veil"
+      "hide"
     ],
     "entries": [
       {
@@ -12458,9 +12414,7 @@
       "toefl"
     ],
     "synonyms": [
-      "mineral vein",
-      "nervure",
-      "venous blood vessel"
+      "nervure"
     ],
     "entries": [
       {
@@ -13268,8 +13222,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "butter-print",
-      "velvet-leaf",
       "velvetweed"
     ],
     "entries": [
@@ -13761,9 +13713,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "blood feud"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15073,9 +15023,7 @@
     "synonyms": [
       "air",
       "blowhole",
-      "give vent",
       "release",
-      "vent-hole",
       "venthole",
       "ventilate"
     ],
@@ -15441,8 +15389,6 @@
     "synonyms": [
       "airing",
       "breathing",
-      "external respiration",
-      "public discussion",
       "respiration"
     ],
     "entries": [
@@ -15528,9 +15474,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "breathing device"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -15721,9 +15665,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heart ventricle"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -16090,8 +16032,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "adventurer",
-      "merchant-venturer"
+      "adventurer"
     ],
     "entries": [
       {
@@ -16298,9 +16239,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "capillary vein"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17052,8 +16991,7 @@
       "gre"
     ],
     "synonyms": [
-      "direct",
-      "word for word"
+      "direct"
     ],
     "entries": [
       {
@@ -17210,8 +17148,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "grammatolatry",
-      "word-worship"
+      "grammatolatry"
     ],
     "entries": [
       {
@@ -17276,7 +17213,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "long-windedly",
       "windily",
       "wordily"
     ],
@@ -17486,9 +17422,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "finding of fact"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17518,9 +17452,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "cupric acetate"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -17593,9 +17525,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "common purslane"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -18600,9 +18530,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "worm-shaped"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -18729,9 +18657,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vermis cerebelli"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -19260,7 +19186,6 @@
       "poetize",
       "poetry",
       "rhyme",
-      "verse line",
       "versify"
     ],
     "entries": [
@@ -20323,9 +20248,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vervet monkey"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20904,9 +20827,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vespertilian bat"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -20934,9 +20855,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vespid wasp"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21896,9 +21815,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "corn earworm"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25331,8 +25248,7 @@
     ],
     "synonyms": [
       "picture",
-      "television",
-      "video recording"
+      "television"
     ],
     "entries": [
       {
@@ -25720,7 +25636,6 @@
       "consider",
       "eyeshot",
       "horizon",
-      "look at",
       "opinion",
       "persuasion",
       "position",
@@ -26164,7 +26079,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "rake-off",
       "usury"
     ],
     "entries": [
@@ -26320,9 +26234,7 @@
       "ielts",
       "toefl"
     ],
-    "synonyms": [
-      "argus-eyed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -26558,7 +26470,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "rake-off",
       "usury"
     ],
     "entries": [
@@ -27585,9 +27496,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "sauce vinaigrette"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28145,9 +28054,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "turpentine camphor weed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28308,9 +28215,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vinifera grape"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28469,9 +28374,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "time of origin"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28540,10 +28443,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "wine maker",
-      "wine merchant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28577,10 +28477,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vinyl group",
-      "vinyl radical"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -28939,7 +28836,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "law offender",
       "lawbreaker",
       "ravisher"
     ],
@@ -29051,7 +28947,6 @@
       "crimson",
       "fierce",
       "tearing",
-      "trigger-happy",
       "vehement",
       "wild"
     ],
@@ -29172,8 +29067,7 @@
       "ky"
     ],
     "synonyms": [
-      "purple",
-      "reddish blue"
+      "purple"
     ],
     "entries": [
       {
@@ -29380,9 +29274,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vitamin D"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -29415,9 +29307,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "very important person"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -29788,7 +29678,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "pair of virginals",
       "pure"
     ],
     "entries": [
@@ -30595,8 +30484,7 @@
     ],
     "synonyms": [
       "chastity",
-      "merit",
-      "moral excellence"
+      "merit"
     ],
     "entries": [
       {
@@ -31112,9 +31000,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "computer virus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -31768,10 +31654,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cellulose xanthate",
-      "viscose rayon"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32181,9 +32064,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bench vise"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -32603,8 +32484,6 @@
       "chaffer",
       "chat",
       "chatter",
-      "chew the fat",
-      "chit-chat",
       "chitchat",
       "claver",
       "confab",
@@ -32616,9 +32495,7 @@
       "jaw",
       "natter",
       "see",
-      "shoot the breeze",
-      "sojourn",
-      "travel to"
+      "sojourn"
     ],
     "entries": [
       {
@@ -33112,9 +32989,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "visual image"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33152,7 +33027,6 @@
     },
     "tags": [],
     "synonyms": [
-      "bring out",
       "figure"
     ],
     "entries": [
@@ -33281,9 +33155,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "visual image"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -33329,7 +33201,6 @@
       "ielts"
     ],
     "synonyms": [
-      "bring out",
       "figure"
     ],
     "entries": [
@@ -33501,8 +33372,6 @@
     ],
     "synonyms": [
       "critical",
-      "full of life",
-      "life-sustaining",
       "lively"
     ],
     "entries": [
@@ -33736,9 +33605,7 @@
     ],
     "synonyms": [
       "animation",
-      "elan vital",
       "energy",
-      "life force",
       "verve"
     ],
     "entries": [
@@ -33899,9 +33766,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "life-giving"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -34006,9 +33871,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "vital organ"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -34634,9 +34497,6 @@
     },
     "tags": [],
     "synonyms": [
-      "oil of vitriol",
-      "sulfuric acid",
-      "sulphuric acid",
       "vituperation"
     ],
     "entries": [
@@ -35337,9 +35197,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "live-bearing"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -35752,9 +35610,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "spoken word"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -35789,8 +35645,7 @@
       "ky"
     ],
     "synonyms": [
-      "lexicon",
-      "mental lexicon"
+      "lexicon"
     ],
     "entries": [
       {
@@ -35841,8 +35696,7 @@
       "toefl"
     ],
     "synonyms": [
-      "outspoken",
-      "vocal music"
+      "outspoken"
     ],
     "entries": [
       {
@@ -36368,8 +36222,7 @@
       "toefl"
     ],
     "synonyms": [
-      "career",
-      "occupational group"
+      "career"
     ],
     "entries": [
       {
@@ -36517,9 +36370,7 @@
       "pastParticiple": "vociferated"
     },
     "tags": [],
-    "synonyms": [
-      "shout out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -37577,7 +37428,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "clothes hamper",
       "defecator",
       "gusset",
       "invalidator",
@@ -38321,9 +38171,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "field mouse"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -38658,8 +38506,6 @@
       "toefl"
     ],
     "synonyms": [
-      "electric potential",
-      "electromotive force",
       "emf"
     ],
     "entries": [
@@ -39467,7 +39313,6 @@
       "toefl"
     ],
     "synonyms": [
-      "military volunteer",
       "volunteer"
     ],
     "entries": [
@@ -39539,7 +39384,6 @@
     "synonyms": [
       "gratis",
       "offer",
-      "unpaid worker",
       "voluntary"
     ],
     "entries": [
@@ -39769,7 +39613,6 @@
     "tags": [],
     "synonyms": [
       "curvaceousness",
-      "hot stuff",
       "lushness",
       "luxuriance"
     ],
@@ -40700,9 +40543,7 @@
     ],
     "synonyms": [
       "ballot",
-      "right to vote",
-      "suffrage",
-      "voter turnout"
+      "suffrage"
     ],
     "entries": [
       {
@@ -41668,7 +41509,6 @@
     ],
     "synonyms": [
       "navigate",
-      "ocean trip",
       "sail"
     ],
     "entries": [
