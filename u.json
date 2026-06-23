@@ -594,7 +594,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -1657,7 +1657,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -1700,7 +1700,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -2534,7 +2534,7 @@
           {
             "id": "ultraviolet-adjective-1",
             "definition": "having or employing wavelengths shorter than light but longer than X-rays",
-            "translation": "",
+            "translation": "紫外的；紫外线的",
             "examples": []
           }
         ]
@@ -2545,7 +2545,7 @@
           {
             "id": "ultraviolet-noun-1",
             "definition": "radiation lying in the ultraviolet range",
-            "translation": "",
+            "translation": "紫外线辐射；紫外光",
             "examples": []
           }
         ]
@@ -2553,7 +2553,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -3796,7 +3796,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -6567,7 +6567,7 @@
           {
             "id": "unanimous-adjective-1",
             "definition": "in complete agreement",
-            "translation": "",
+            "translation": "（意见、决定等）全体一致的；无异议的",
             "examples": [
               {
                 "text": "a unanimous decision",
@@ -6578,7 +6578,7 @@
           {
             "id": "unanimous-adjective-2",
             "definition": "acting together as a single undiversified whole",
-            "translation": "",
+            "translation": "（团体、群体）意见一致的；步调统一的",
             "examples": []
           }
         ]
@@ -6586,7 +6586,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -10202,7 +10202,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -13166,13 +13166,13 @@
           {
             "id": "uncanny-adjective-1",
             "definition": "suggesting the operation of supernatural influences",
-            "translation": "",
+            "translation": "神秘的；怪异的；超乎寻常的",
             "examples": []
           },
           {
             "id": "uncanny-adjective-2",
             "definition": "surpassing the ordinary or normal",
-            "translation": "",
+            "translation": "不可思议的；离奇的；惊人的",
             "examples": []
           }
         ]
@@ -13180,7 +13180,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -13868,7 +13868,7 @@
           {
             "id": "uncertain-adjective-1",
             "definition": "ambiguous, especially preceded by a negative",
-            "translation": "",
+            "translation": "不确定的；不确知的；难以预料的",
             "examples": [
               {
                 "text": "The judge spoke in no uncertain terms to the defendant. ",
@@ -13879,13 +13879,13 @@
           {
             "id": "uncertain-adjective-2",
             "definition": "not established beyond doubt",
-            "translation": "",
+            "translation": "（结果、出路）不可预知的；成败未卜的",
             "examples": []
           },
           {
             "id": "uncertain-adjective-3",
             "definition": "lacking or indicating lack of confidence or assurance",
-            "translation": "",
+            "translation": "（人）拿不准的；犹豫的；迟疑不决的",
             "examples": [
               {
                 "text": "They were uncertain of their convictions.",
@@ -13896,13 +13896,13 @@
           {
             "id": "uncertain-adjective-4",
             "definition": "not certain to occur",
-            "translation": "",
+            "translation": "（光、声音）闪烁不定的；不稳定的",
             "examples": []
           },
           {
             "id": "uncertain-adjective-5",
             "definition": "not consistent or dependable",
-            "translation": "",
+            "translation": "（消息、信息）含糊的；不明确的",
             "examples": [
               {
                 "text": "an uncertain recollection of events",
@@ -13913,13 +13913,13 @@
           {
             "id": "uncertain-adjective-6",
             "definition": "not established or confirmed",
-            "translation": "",
+            "translation": "（人）拿不定主意的；优柔寡断的",
             "examples": []
           },
           {
             "id": "uncertain-adjective-7",
             "definition": "subject to change",
-            "translation": "",
+            "translation": "易变的；无常的；靠不住的",
             "examples": []
           }
         ]
@@ -13932,7 +13932,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -16905,7 +16905,7 @@
           {
             "id": "uncomfortable-adjective-1",
             "definition": "providing or experiencing physical discomfort",
-            "translation": "",
+            "translation": "（身体上）不舒服的；不舒适的",
             "examples": [
               {
                 "text": "an uncomfortable chair",
@@ -16916,7 +16916,7 @@
           {
             "id": "uncomfortable-adjective-2",
             "definition": "conducive to or feeling mental discomfort",
-            "translation": "",
+            "translation": "（心理上）不自在的；不愉快的；尴尬的",
             "examples": [
               {
                 "text": "this kind of life can prove disruptive and uncomfortable",
@@ -16929,7 +16929,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -18977,7 +18977,7 @@
           {
             "id": "unconscious-adjective-1",
             "definition": "(followed by `of') not knowing or perceiving",
-            "translation": "",
+            "translation": "未意识到的；不知道的（常与 of 连用）",
             "examples": []
           },
           {
@@ -18989,7 +18989,7 @@
           {
             "id": "unconscious-adjective-3",
             "definition": "without conscious volition",
-            "translation": "",
+            "translation": "无意的；非故意做的",
             "examples": []
           }
         ]
@@ -19000,7 +19000,7 @@
           {
             "id": "unconscious-noun-1",
             "definition": "that part of the mind wherein psychic activity takes place of which the person is unaware",
-            "translation": "",
+            "translation": "无意识；潜意识",
             "examples": []
           }
         ]
@@ -19008,7 +19008,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -19916,7 +19916,7 @@
           {
             "id": "unconventional-adjective-1",
             "definition": "not conforming to accepted rules or standards",
-            "translation": "",
+            "translation": "非常规的；不落俗套的",
             "examples": [
               {
                 "text": "Your unconventional dress and hair style was not popular with my family.",
@@ -19927,7 +19927,7 @@
           {
             "id": "unconventional-adjective-2",
             "definition": "not conventional or conformist",
-            "translation": "",
+            "translation": "非传统的；反传统的",
             "examples": [
               {
                 "text": "unconventional life styles",
@@ -19938,7 +19938,7 @@
           {
             "id": "unconventional-adjective-3",
             "definition": "not conforming to legality, moral law, or social convention",
-            "translation": "",
+            "translation": "异乎寻常的；不寻常的",
             "examples": [
               {
                 "text": "an unconventional marriage",
@@ -19951,7 +19951,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -20987,7 +20987,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -23762,7 +23762,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -24798,31 +24798,31 @@
           {
             "id": "undercut-noun-1",
             "definition": "a cut made underneath to remove material",
-            "translation": "",
+            "translation": "（牛、猪等的）里脊肉；腰部下侧肉",
             "examples": []
           },
           {
             "id": "undercut-noun-2",
             "definition": "(sports) a stroke that puts reverse spin on the ball",
-            "translation": "",
+            "translation": "（网球等的）下旋球",
             "examples": []
           },
           {
             "id": "undercut-noun-3",
             "definition": "a notch cut in the trunk of tree in order to determine the direction of its fall",
-            "translation": "",
+            "translation": "（商业上以低于对手价格的）削价竞争",
             "examples": []
           },
           {
             "id": "undercut-noun-4",
             "definition": "the tender meat of the loin muscle on each side of the vertebral column",
-            "translation": "",
+            "translation": "（矿井、墙体等的）底部掏槽",
             "examples": []
           },
           {
             "id": "undercut-noun-5",
             "definition": "the material removed by a cut made underneath",
-            "translation": "",
+            "translation": "（切下的）底部切除物；下切部分",
             "examples": []
           }
         ]
@@ -24862,7 +24862,7 @@
           {
             "id": "undercut-verb-5",
             "definition": "sell cheaper than one's competition",
-            "translation": "",
+            "translation": "以低于对手的价格出售；削价抢生意（与 verb-1 义近）",
             "examples": []
           }
         ]
@@ -24870,7 +24870,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -25289,7 +25289,7 @@
           {
             "id": "underestimate-noun-1",
             "definition": "an estimation that is too low",
-            "translation": "",
+            "translation": "过低的估计；低估",
             "examples": []
           }
         ]
@@ -25317,7 +25317,7 @@
           {
             "id": "underestimate-verb-3",
             "definition": "assign too low a value to",
-            "translation": "",
+            "translation": "低估；对…估计不足",
             "examples": [
               {
                 "text": "Don't underestimate the value of this heirloom-you may sell it at a good price",
@@ -25330,7 +25330,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -25812,7 +25812,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -25886,7 +25886,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -25984,7 +25984,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -26452,13 +26452,13 @@
           {
             "id": "underlie-verb-1",
             "definition": "be or form the base for",
-            "translation": "",
+            "translation": "构成…的基础；潜存于…之下",
             "examples": []
           },
           {
             "id": "underlie-verb-2",
             "definition": "lie underneath",
-            "translation": "",
+            "translation": "（金融）享有优先权；位于…之下",
             "examples": []
           }
         ]
@@ -26466,7 +26466,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -26532,7 +26532,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -26632,19 +26632,19 @@
           {
             "id": "underlying-adjective-1",
             "definition": "in the nature of something though not readily apparent",
-            "translation": "",
+            "translation": "潜在的；隐含的；表面之下的",
             "examples": []
           },
           {
             "id": "underlying-adjective-2",
             "definition": "being or involving basic facts or principles",
-            "translation": "",
+            "translation": "基本的；根本的；作为基础的",
             "examples": []
           },
           {
             "id": "underlying-adjective-3",
             "definition": "located beneath or below",
-            "translation": "",
+            "translation": "位于下方的；在下面的",
             "examples": []
           }
         ]
@@ -26652,7 +26652,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -26769,7 +26769,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -26799,13 +26799,13 @@
           {
             "id": "underneath-adverb-1",
             "definition": "under or below an object or a surface",
-            "translation": "",
+            "translation": "在下面；在底下",
             "examples": []
           },
           {
             "id": "underneath-adverb-2",
             "definition": "on the lower or downward side",
-            "translation": "",
+            "translation": "在较低处；朝下",
             "examples": []
           }
         ]
@@ -26813,7 +26813,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -27639,7 +27639,7 @@
           {
             "id": "underscore-noun-1",
             "definition": "a line drawn underneath (especially under written matter)",
-            "translation": "",
+            "translation": "（尤指文字下方的）下划线；底线",
             "examples": []
           }
         ]
@@ -27656,7 +27656,7 @@
           {
             "id": "underscore-verb-2",
             "definition": "give extra weight to (a communication)",
-            "translation": "",
+            "translation": "强调；突出（信息）的重要性",
             "examples": []
           }
         ]
@@ -27664,7 +27664,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -28486,7 +28486,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -28676,7 +28676,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -29111,7 +29111,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -29199,7 +29199,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -30041,7 +30041,7 @@
           {
             "id": "undesirable-adjective-1",
             "definition": "not wanted",
-            "translation": "",
+            "translation": "不想要的；不受欢迎的",
             "examples": [
               {
                 "text": "undesirable impurities in steel",
@@ -30052,7 +30052,7 @@
           {
             "id": "undesirable-adjective-2",
             "definition": "not worthy of being chosen (especially as a spouse)",
-            "translation": "",
+            "translation": "不合适的；（尤指）不宜作为配偶的",
             "examples": []
           }
         ]
@@ -30063,7 +30063,7 @@
           {
             "id": "undesirable-noun-1",
             "definition": "one whose presence is undesirable",
-            "translation": "",
+            "translation": "不受欢迎的人；不良分子",
             "examples": [
               {
                 "text": "rounding up vagrants and drunks and other undesirables",
@@ -30076,7 +30076,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -31985,7 +31985,7 @@
           {
             "id": "undo-verb-2",
             "definition": "cause to become loose",
-            "translation": "",
+            "translation": "松开；解开（纽扣、绳结等）",
             "examples": [
               {
                 "text": "undo the shoelace",
@@ -31996,7 +31996,7 @@
           {
             "id": "undo-verb-3",
             "definition": "cancel, annul, or reverse an action or its effect",
-            "translation": "",
+            "translation": "取消；撤销；废止（行为或其效果）",
             "examples": [
               {
                 "text": "I wish I could undo my actions",
@@ -32007,13 +32007,13 @@
           {
             "id": "undo-verb-4",
             "definition": "deprive of certain characteristics",
-            "translation": "",
+            "translation": "剥夺（某种特性）；使丧失",
             "examples": []
           },
           {
             "id": "undo-verb-5",
             "definition": "cause the ruin or downfall of",
-            "translation": "",
+            "translation": "使失败；使毁掉；使前功尽弃",
             "examples": []
           }
         ]
@@ -32021,7 +32021,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -32488,7 +32488,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -33532,13 +33532,13 @@
           {
             "id": "unearth-verb-1",
             "definition": "recover through digging",
-            "translation": "",
+            "translation": "（从地下）挖掘出；发掘",
             "examples": []
           },
           {
             "id": "unearth-verb-2",
             "definition": "bring to light",
-            "translation": "",
+            "translation": "揭露；使公开；发现（事实、真相）",
             "examples": [
               {
                 "text": "The CIA unearthed a plot to kill the President",
@@ -33551,7 +33551,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -33781,7 +33781,7 @@
           {
             "id": "uneasy-adjective-3",
             "definition": "lacking a sense of security or affording no ease or reassurance",
-            "translation": "",
+            "translation": "不安的；提心吊胆的；缺乏安全感的",
             "examples": [
               {
                 "text": "farmers were uneasy until rain finally came",
@@ -33792,7 +33792,7 @@
           {
             "id": "uneasy-adjective-4",
             "definition": "lacking or not affording physical or mental rest",
-            "translation": "",
+            "translation": "不舒服的；不能让人得到休息的",
             "examples": []
           },
           {
@@ -33811,7 +33811,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -34515,7 +34515,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -36920,7 +36920,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -37790,7 +37790,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -40406,7 +40406,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -41091,7 +41091,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -41138,7 +41138,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -44098,19 +44098,19 @@
           {
             "id": "unhappy-adjective-1",
             "definition": "generalized feeling of distress",
-            "translation": "",
+            "translation": "不快乐的；不幸福的；愁苦的",
             "examples": []
           },
           {
             "id": "unhappy-adjective-2",
             "definition": "marked by or producing unhappiness",
-            "translation": "",
+            "translation": "不满意的；不悦的",
             "examples": []
           },
           {
             "id": "unhappy-adjective-3",
             "definition": "experiencing or marked by or causing sadness or sorrow or discontent",
-            "translation": "",
+            "translation": "（选择、决定）不明智的；不恰当的",
             "examples": [
               {
                 "text": "We are unhappy to see you leave, but hope you come back soon.",
@@ -44121,7 +44121,7 @@
           {
             "id": "unhappy-adjective-4",
             "definition": "causing discomfort",
-            "translation": "",
+            "translation": "不幸的；不吉利的",
             "examples": [
               {
                 "text": "the unhappy truth",
@@ -44134,7 +44134,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -46536,7 +46536,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -46798,13 +46798,13 @@
           {
             "id": "unify-verb-1",
             "definition": "join or combine",
-            "translation": "",
+            "translation": "使联合；使合并；使成一体",
             "examples": []
           },
           {
             "id": "unify-verb-2",
             "definition": "become one",
-            "translation": "",
+            "translation": "成为一体；合而为一",
             "examples": []
           },
           {
@@ -46816,13 +46816,13 @@
           {
             "id": "unify-verb-4",
             "definition": "act in concert or unite in a common purpose or belief",
-            "translation": "",
+            "translation": "（为共同目标）联合行动；团结起来",
             "examples": []
           },
           {
             "id": "unify-verb-5",
             "definition": "bring together for a common purpose or action or ideology or in a shared situation",
-            "translation": "",
+            "translation": "汇集；使汇聚于共同目的或思想",
             "examples": []
           }
         ]
@@ -46830,7 +46830,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -49929,7 +49929,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -50110,7 +50110,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -50638,7 +50638,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -50989,7 +50989,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -51231,7 +51231,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -51606,7 +51606,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -51803,7 +51803,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -52118,7 +52118,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -52168,7 +52168,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -52302,7 +52302,7 @@
           {
             "id": "unjust-adjective-1",
             "definition": "not equitable or fair",
-            "translation": "",
+            "translation": "不公正的；不公平的；非正义的",
             "examples": [
               {
                 "text": "The rules of the game are obviously unjust; they shouldn't get 5 points per correct answer while we only get 3.",
@@ -52313,7 +52313,7 @@
           {
             "id": "unjust-adjective-2",
             "definition": "violating principles of justice",
-            "translation": "",
+            "translation": "（法律上）不符合正义原则的；不当的",
             "examples": [
               {
                 "text": "The unjust punishment is currently being amended by the government.",
@@ -52326,7 +52326,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -52694,13 +52694,13 @@
           {
             "id": "unkind-adjective-1",
             "definition": "deficient in humane and kindly feelings",
-            "translation": "",
+            "translation": "不友善的；不仁慈的；刻薄的",
             "examples": []
           },
           {
             "id": "unkind-adjective-2",
             "definition": "lacking kindness",
-            "translation": "",
+            "translation": "（评论、批评）尖刻的；伤人的",
             "examples": [
               {
                 "text": "a thoughtless and unkind remark",
@@ -52713,7 +52713,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -53186,7 +53186,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -54308,7 +54308,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -54480,7 +54480,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -55008,7 +55008,7 @@
           {
             "id": "unload-verb-2",
             "definition": "leave or unload",
-            "translation": "",
+            "translation": "卸货；卸下（货物、乘客）",
             "examples": [
               {
                 "text": "unload the cargo",
@@ -55026,7 +55026,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -55620,13 +55620,13 @@
           {
             "id": "unlucky-adjective-1",
             "definition": "marked by or promising bad fortune",
-            "translation": "",
+            "translation": "不幸的；倒霉的；运气不好的",
             "examples": []
           },
           {
             "id": "unlucky-adjective-2",
             "definition": "having or bringing misfortune",
-            "translation": "",
+            "translation": "不吉利的；带来厄运的（数字、颜色等）",
             "examples": [
               {
                 "text": "Friday the 13th is an unlucky date",
@@ -55644,7 +55644,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -63519,7 +63519,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -64410,7 +64410,7 @@
           {
             "id": "unprecedented-adjective-1",
             "definition": "having no precedent",
-            "translation": "",
+            "translation": "史无前例的；空前的；前所未有的",
             "examples": []
           }
         ]
@@ -64418,7 +64418,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -67155,7 +67155,7 @@
           {
             "id": "unravel-verb-1",
             "definition": "become undone",
-            "translation": "",
+            "translation": "解体；散开；松散",
             "examples": [
               {
                 "text": "the sweater unraveled",
@@ -67166,7 +67166,7 @@
           {
             "id": "unravel-verb-2",
             "definition": "become or cause to become undone by separating the fibers or threads of",
-            "translation": "",
+            "translation": "拆散（织物、绳线等）的纤维；解开",
             "examples": [
               {
                 "text": "unravel the thread",
@@ -67177,7 +67177,7 @@
           {
             "id": "unravel-verb-3",
             "definition": "disentangle",
-            "translation": "",
+            "translation": "理清；解决（难题、谜团）",
             "examples": [
               {
                 "text": "can you unravel the mystery?",
@@ -67190,7 +67190,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -69470,7 +69470,7 @@
           {
             "id": "unreliable-adjective-1",
             "definition": "not worthy of reliance or trust",
-            "translation": "",
+            "translation": "不可靠的；靠不住的",
             "examples": [
               {
                 "text": "in the early 1950s computers were large and expensive and unreliable",
@@ -69481,19 +69481,19 @@
           {
             "id": "unreliable-adjective-2",
             "definition": "liable to be erroneous or misleading",
-            "translation": "",
+            "translation": "不能信赖的；不可信任的",
             "examples": []
           },
           {
             "id": "unreliable-adjective-3",
             "definition": "lacking a sense of responsibility",
-            "translation": "",
+            "translation": "（信息、来源）不确实的；不准确的",
             "examples": []
           },
           {
             "id": "unreliable-adjective-4",
             "definition": "dangerously unstable and unpredictable",
-            "translation": "",
+            "translation": "（机器、设备）经常出故障的",
             "examples": []
           }
         ]
@@ -69501,7 +69501,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -73110,7 +73110,7 @@
           {
             "id": "unsatisfactory-adjective-1",
             "definition": "not giving satisfaction",
-            "translation": "",
+            "translation": "不能令人满意的；不够好的；不达标的",
             "examples": [
               {
                 "text": "shops should take back unsatisfactory goods",
@@ -73123,7 +73123,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -78893,19 +78893,19 @@
           {
             "id": "unstable-adjective-1",
             "definition": "subject to change",
-            "translation": "",
+            "translation": "易变的；多变的；不稳定的",
             "examples": []
           },
           {
             "id": "unstable-adjective-2",
             "definition": "affording no ease or reassurance",
-            "translation": "",
+            "translation": "令人不安的；不能让人放心的",
             "examples": []
           },
           {
             "id": "unstable-adjective-3",
             "definition": "highly or violently reactive",
-            "translation": "",
+            "translation": "（化学）易起反应的；不稳定的",
             "examples": [
               {
                 "text": "sensitive and highly unstable compounds",
@@ -78916,7 +78916,7 @@
           {
             "id": "unstable-adjective-4",
             "definition": "disposed to psychological variability",
-            "translation": "",
+            "translation": "（心理上）反复无常的；情绪不稳定的",
             "examples": [
               {
                 "text": "Their rather unstable religious convictions were alarming.",
@@ -78933,7 +78933,7 @@
           {
             "id": "unstable-adjective-6",
             "definition": "lacking stability or fixity or firmness",
-            "translation": "",
+            "translation": "不稳固的；不牢固的；易倒塌的",
             "examples": [
               {
                 "text": "unstable political conditions",
@@ -78946,7 +78946,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -80781,13 +80781,13 @@
           {
             "id": "unsuitable-adjective-1",
             "definition": "not worthy of being chosen (especially as a spouse)",
-            "translation": "",
+            "translation": "不合适的；不适宜的；不相配的",
             "examples": []
           },
           {
             "id": "unsuitable-adjective-2",
             "definition": "not meant or adapted for a particular purpose",
-            "translation": "",
+            "translation": "（言行）不得体的；不恰当的",
             "examples": [
               {
                 "text": "a solvent unsuitable for use on wood surfaces",
@@ -80798,7 +80798,7 @@
           {
             "id": "unsuitable-adjective-3",
             "definition": "not conducive to good moral development",
-            "translation": "",
+            "translation": "（时间、场合）不合适的；不便的",
             "examples": [
               {
                 "text": "the movie is unsuitable for children",
@@ -80817,7 +80817,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -86917,7 +86917,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -89249,13 +89249,13 @@
           {
             "id": "unwieldy-adjective-1",
             "definition": "lacking grace in movement or posture",
-            "translation": "",
+            "translation": "（动作、姿态）笨拙的；不优雅的",
             "examples": []
           },
           {
             "id": "unwieldy-adjective-2",
             "definition": "difficult to work or manipulate",
-            "translation": "",
+            "translation": "（工具、机器）难使用的；难操作的",
             "examples": [
               {
                 "text": "unwieldy rules and regulations",
@@ -89266,7 +89266,7 @@
           {
             "id": "unwieldy-adjective-3",
             "definition": "difficult to use or handle or manage because of size or weight or shape",
-            "translation": "",
+            "translation": "（因体积、规模）难处理；难管理；难对付的",
             "examples": [
               {
                 "text": "we set about towing the unwieldy structure into the shelter",
@@ -89279,7 +89279,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -89352,13 +89352,13 @@
           {
             "id": "unwilling-adjective-1",
             "definition": "in spite of contrary volition",
-            "translation": "",
+            "translation": "不愿意的；不情愿的；勉强的",
             "examples": []
           },
           {
             "id": "unwilling-adjective-2",
             "definition": "not disposed or inclined toward",
-            "translation": "",
+            "translation": "（行为、反应）迟疑的；不甘心的",
             "examples": [
               {
                 "text": "an unwilling assistant",
@@ -89371,7 +89371,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -90658,7 +90658,7 @@
           {
             "id": "up-adjective-1",
             "definition": "extending or moving toward a higher place",
-            "translation": "",
+            "translation": "向更高处的；向上方的",
             "examples": []
           },
           {
@@ -90675,7 +90675,7 @@
           {
             "id": "up-adjective-3",
             "definition": "getting higher or more vigorous",
-            "translation": "",
+            "translation": "升高的；增强的；更加活跃的",
             "examples": [
               {
                 "text": "its an up market",
@@ -90686,31 +90686,31 @@
           {
             "id": "up-adjective-4",
             "definition": "being or moving higher in position or greater in some value",
-            "translation": "",
+            "translation": "在更高位置的；数值更大的",
             "examples": []
           },
           {
             "id": "up-adjective-5",
             "definition": "out of bed",
-            "translation": "",
+            "translation": "起床的；不在床上的",
             "examples": []
           },
           {
             "id": "up-adjective-6",
             "definition": "used up",
-            "translation": "",
+            "translation": "用完的；耗尽的",
             "examples": []
           },
           {
             "id": "up-adjective-7",
             "definition": "(used of computers) operating properly",
-            "translation": "",
+            "translation": "（计算机、系统）正在运行的；正常工作的",
             "examples": []
           },
           {
             "id": "up-adjective-8",
             "definition": "(usually followed by `on' or `for') in readiness",
-            "translation": "",
+            "translation": "（常与 on/for 连用）准备好的；备齐的",
             "examples": []
           }
         ]
@@ -90721,7 +90721,7 @@
           {
             "id": "up-adverb-1",
             "definition": "spatially or metaphorically from a lower to a higher position",
-            "translation": "",
+            "translation": "（空间或比喻）从低处向高处；向上",
             "examples": [
               {
                 "text": "look up!",
@@ -90743,7 +90743,7 @@
           {
             "id": "up-adverb-3",
             "definition": "to a more central or a more northerly place",
-            "translation": "",
+            "translation": "向更中心的地方；向北；向城里",
             "examples": [
               {
                 "text": "was transferred up to headquarters",
@@ -90754,7 +90754,7 @@
           {
             "id": "up-adverb-4",
             "definition": "nearer to the speaker",
-            "translation": "",
+            "translation": "更靠近说话者地；向说话者这一边",
             "examples": [
               {
                 "text": "They walked up, grabbed my lapels, and whispered the password to me.",
@@ -90765,7 +90765,7 @@
           {
             "id": "up-adverb-5",
             "definition": "to a higher intensity",
-            "translation": "",
+            "translation": "（强度、力度）更高地；更强烈地",
             "examples": [
               {
                 "text": "The DJ turned up the volume.",
@@ -91207,7 +91207,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -91235,7 +91235,7 @@
           {
             "id": "up-to-date-adjective-1",
             "definition": "reflecting the latest information or changes",
-            "translation": "",
+            "translation": "最新的；包含最新信息的",
             "examples": [
               {
                 "text": "an up-to-date issue of the magazine",
@@ -91246,7 +91246,7 @@
           {
             "id": "up-to-date-adjective-2",
             "definition": "in accord with the most fashionable ideas or style",
-            "translation": "",
+            "translation": "时髦的；流行的；符合最新观念的",
             "examples": []
           }
         ]
@@ -91254,7 +91254,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -91744,7 +91744,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -92141,7 +92141,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -92181,19 +92181,19 @@
           {
             "id": "upheaval-noun-2",
             "definition": "(geology) a rise of land to a higher elevation (as in the process of mountain building)",
-            "translation": "",
+            "translation": "（地质）地壳隆起；地面抬升",
             "examples": []
           },
           {
             "id": "upheaval-noun-3",
             "definition": "a violent disturbance",
-            "translation": "",
+            "translation": "剧变；动乱；动荡",
             "examples": []
           },
           {
             "id": "upheaval-noun-4",
             "definition": "A state of violent disturbance and disorder, generally in politics or social conditions.",
-            "translation": "",
+            "translation": "混乱状态；骚乱状态",
             "examples": [
               {
                 "text": "The county-wide upheaval contributed to government instability.",
@@ -92206,7 +92206,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -92372,7 +92372,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -92998,7 +92998,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -93436,13 +93436,13 @@
           {
             "id": "upright-adjective-1",
             "definition": "in a vertical position",
-            "translation": "",
+            "translation": "垂直的；竖直的",
             "examples": []
           },
           {
             "id": "upright-adjective-2",
             "definition": "upright in position or posture",
-            "translation": "",
+            "translation": "挺直的；直立的（姿势）",
             "examples": []
           },
           {
@@ -93459,13 +93459,13 @@
           {
             "id": "upright-noun-1",
             "definition": "a piano with a vertical sounding board",
-            "translation": "",
+            "translation": "立式钢琴",
             "examples": []
           },
           {
             "id": "upright-noun-2",
             "definition": "a vertical structural member as a post or stake",
-            "translation": "",
+            "translation": "立柱；竖直构件",
             "examples": [
               {
                 "text": "the ball sailed between the uprights",
@@ -93478,7 +93478,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -93755,13 +93755,13 @@
           {
             "id": "uproar-noun-1",
             "definition": "loud confused noise from many sources",
-            "translation": "",
+            "translation": "喧闹；喧嚣；嘈杂声",
             "examples": []
           },
           {
             "id": "uproar-noun-2",
             "definition": "a state of commotion and noise and confusion",
-            "translation": "",
+            "translation": "骚动；骚乱；鼎沸",
             "examples": []
           }
         ]
@@ -93769,7 +93769,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -94204,7 +94204,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -94399,7 +94399,7 @@
           {
             "id": "upside-down-adjective-1",
             "definition": "being in such a position that top and bottom are reversed",
-            "translation": "",
+            "translation": "颠倒的；倒置的；上下颠倒的",
             "examples": []
           }
         ]
@@ -94407,7 +94407,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -94648,7 +94648,7 @@
           {
             "id": "upstairs-adjective-1",
             "definition": "on or of upper floors of a building",
-            "translation": "",
+            "translation": "楼上的；二层以上的",
             "examples": [
               {
                 "text": "the upstairs maid",
@@ -94664,7 +94664,7 @@
           {
             "id": "upstairs-adverb-1",
             "definition": "on a floor above",
-            "translation": "",
+            "translation": "在楼上；往楼上",
             "examples": [
               {
                 "text": "they lived upstairs",
@@ -94675,7 +94675,7 @@
           {
             "id": "upstairs-adverb-2",
             "definition": "with respect to the mind",
-            "translation": "",
+            "translation": "（在心智、地位上）向上；向更高层次",
             "examples": [
               {
                 "text": "she's a bit weak upstairs",
@@ -94691,7 +94691,7 @@
           {
             "id": "upstairs-noun-1",
             "definition": "the part of a building above the ground floor",
-            "translation": "",
+            "translation": "楼上；二楼以上部分",
             "examples": [
               {
                 "text": "no one was allowed to see the upstairs",
@@ -94704,7 +94704,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -95346,13 +95346,13 @@
           {
             "id": "upward-adjective-1",
             "definition": "extending or moving toward a higher place",
-            "translation": "",
+            "translation": "向上的；上升的",
             "examples": []
           },
           {
             "id": "upward-adjective-2",
             "definition": "directed up",
-            "translation": "",
+            "translation": "朝上的；向上的（方向）",
             "examples": [
               {
                 "text": "the cards were face upward",
@@ -95368,7 +95368,7 @@
           {
             "id": "upward-adverb-1",
             "definition": "spatially or metaphorically from a lower to a higher position",
-            "translation": "",
+            "translation": "向上地；上升地；趋升地",
             "examples": []
           },
           {
@@ -95382,7 +95382,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -95447,7 +95447,7 @@
           {
             "id": "upwards-adverb-1",
             "definition": "spatially or metaphorically from a lower to a higher position",
-            "translation": "",
+            "translation": "向上地；朝上地；趋升地",
             "examples": []
           },
           {
@@ -95461,7 +95461,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -96041,7 +96041,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -97046,7 +97046,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -97146,7 +97146,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -98659,7 +98659,7 @@
           {
             "id": "usage-noun-1",
             "definition": "accepted or habitual practice",
-            "translation": "",
+            "translation": "惯例；习俗；惯用法",
             "examples": []
           },
           {
@@ -98671,7 +98671,7 @@
           {
             "id": "usage-noun-3",
             "definition": "the customary manner in which a language (or a form of a language) is spoken or written",
-            "translation": "",
+            "translation": "（语言的）惯用法；正确用法",
             "examples": [
               {
                 "text": "English usage",
@@ -98684,7 +98684,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -98934,7 +98934,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -99110,7 +99110,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -99163,7 +99163,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -99282,7 +99282,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -99408,7 +99408,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -99613,7 +99613,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100143,7 +100143,7 @@
           {
             "id": "utensil-noun-1",
             "definition": "an implement for practical use (especially in a household)",
-            "translation": "",
+            "translation": "器具；器皿；（尤指）家用器具",
             "examples": []
           }
         ]
@@ -100151,7 +100151,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100425,7 +100425,7 @@
           {
             "id": "utilitarian-adjective-1",
             "definition": "having a useful function",
-            "translation": "",
+            "translation": "实用的；有实用价值的",
             "examples": [
               {
                 "text": "utilitarian steel tables",
@@ -100436,7 +100436,7 @@
           {
             "id": "utilitarian-adjective-2",
             "definition": "having utility often to the exclusion of values",
-            "translation": "",
+            "translation": "功利主义的；只讲效用不顾价值的",
             "examples": [
               {
                 "text": "plain utilitarian kitchenware",
@@ -100452,7 +100452,7 @@
           {
             "id": "utilitarian-noun-1",
             "definition": "someone who believes that the value of a thing depends on its utility",
-            "translation": "",
+            "translation": "功利主义者；实利主义者",
             "examples": []
           }
         ]
@@ -100460,7 +100460,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100584,7 +100584,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100713,7 +100713,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100821,13 +100821,13 @@
           {
             "id": "utmost-adjective-1",
             "definition": "(comparatives of `far') most remote in space or time or order",
-            "translation": "",
+            "translation": "最远的；最久远的（far 的最高级）",
             "examples": []
           },
           {
             "id": "utmost-adjective-2",
             "definition": "highest in extent or degree",
-            "translation": "",
+            "translation": "极度的；最大的；最高的",
             "examples": []
           },
           {
@@ -100844,7 +100844,7 @@
           {
             "id": "utmost-noun-1",
             "definition": "the greatest possible degree",
-            "translation": "",
+            "translation": "极限；最大可能",
             "examples": [
               {
                 "text": "I tried my utmost to improve the situation.",
@@ -100857,7 +100857,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100945,7 +100945,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -100987,7 +100987,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },
@@ -101100,7 +101100,7 @@
           {
             "id": "utter-adjective-2",
             "definition": "without qualification",
-            "translation": "",
+            "translation": "十足的；彻头彻尾的；绝对的",
             "examples": []
           }
         ]
@@ -101117,13 +101117,13 @@
           {
             "id": "utter-verb-2",
             "definition": "express in speech",
-            "translation": "",
+            "translation": "说出；讲出；表达",
             "examples": []
           },
           {
             "id": "utter-verb-3",
             "definition": "express audibly",
-            "translation": "",
+            "translation": "发出（声音）；清晰地说",
             "examples": [
               {
                 "text": "utter sounds (not necessarily words)",
@@ -101134,7 +101134,7 @@
           {
             "id": "utter-verb-4",
             "definition": "put into circulation",
-            "translation": "",
+            "translation": "使（货币、文书等）流通；投入使用",
             "examples": [
               {
                 "text": "utter counterfeit currency",
@@ -101147,7 +101147,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-23"
     }
   },

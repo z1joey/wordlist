@@ -1,6 +1,7 @@
 # Ignore everything by default
 *
 !.gitignore
+!AGENTS.md
 
 # But allow the a-z dictionary JSON files
 ![a].json
