@@ -154,7 +154,7 @@
           {
             "id": "lab-noun-1",
             "definition": "a workplace for the conduct of scientific research",
-            "translation": "",
+            "translation": "实验室；研究室",
             "examples": []
           }
         ]
@@ -162,8 +162,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -1258,19 +1258,19 @@
           {
             "id": "labour-noun-1",
             "definition": "productive work (especially physical work done for wages)",
-            "translation": "",
+            "translation": "劳动；体力劳动",
             "examples": []
           },
           {
             "id": "labour-noun-2",
             "definition": "a social class comprising those who do manual labor or work for wages",
-            "translation": "",
+            "translation": "劳工阶级",
             "examples": []
           },
           {
             "id": "labour-noun-3",
             "definition": "concluding state of pregnancy",
-            "translation": "",
+            "translation": "分娩",
             "examples": []
           }
         ]
@@ -1281,13 +1281,13 @@
           {
             "id": "labour-verb-1",
             "definition": "undergo the efforts of childbirth",
-            "translation": "",
+            "translation": "分娩",
             "examples": []
           },
           {
             "id": "labour-verb-2",
             "definition": "strive and make an effort to reach a goal",
-            "translation": "",
+            "translation": "努力；争取",
             "examples": []
           },
           {
@@ -1354,7 +1354,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -1428,7 +1428,7 @@
           {
             "id": "labourer-noun-1",
             "definition": "someone who works with their hands",
-            "translation": "",
+            "translation": "体力劳动者",
             "examples": []
           }
         ]
@@ -1436,8 +1436,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -6664,19 +6664,19 @@
           {
             "id": "lamb-noun-2",
             "definition": "the flesh of a young domestic sheep eaten as food",
-            "translation": "",
+            "translation": "羔羊肉",
             "examples": []
           },
           {
             "id": "lamb-noun-3",
             "definition": "a sweet innocent mild-mannered person (especially a child)",
-            "translation": "",
+            "translation": "温顺的人",
             "examples": []
           },
           {
             "id": "lamb-noun-4",
             "definition": "a person easily deceived or cheated (especially in financial matters)",
-            "translation": "",
+            "translation": "易受骗的人",
             "examples": []
           }
         ]
@@ -6687,11 +6687,11 @@
           {
             "id": "lamb-verb-1",
             "definition": "give birth to a lamb",
-            "translation": "",
+            "translation": "产羔羊",
             "examples": [
               {
                 "text": "the ewe lambed",
-                "translation": ""
+                "translation": "母羊产了羔。"
               }
             ]
           }
@@ -6709,7 +6709,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -7216,13 +7216,13 @@
           {
             "id": "lame-adjective-1",
             "definition": "disabled in the feet or legs",
-            "translation": "",
+            "translation": "瘸的；跛的",
             "examples": []
           },
           {
             "id": "lame-adjective-2",
             "definition": "pathetically lacking in force or effectiveness",
-            "translation": "",
+            "translation": "站不住脚的；无说服力的",
             "examples": []
           }
         ]
@@ -7233,18 +7233,18 @@
           {
             "id": "lame-noun-1",
             "definition": "a fabric interwoven with threads of metal",
-            "translation": "",
+            "translation": "金银线织锦",
             "examples": [
               {
                 "text": "I couldn't believe it when they arrived at the party wearing gold lame.",
-                "translation": ""
+                "translation": "他们竟然穿着金色金银线织锦来参加派对,我都不敢相信。"
               }
             ]
           },
           {
             "id": "lame-noun-2",
             "definition": "someone who doesn't understand what is going on",
-            "translation": "",
+            "translation": "不懂事的人",
             "examples": []
           }
         ]
@@ -7255,7 +7255,7 @@
           {
             "id": "lame-verb-1",
             "definition": "deprive of the use of a limb, especially a leg",
-            "translation": "",
+            "translation": "使跛；使残废",
             "examples": []
           }
         ]
@@ -7268,8 +7268,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12180,7 +12180,7 @@
           {
             "id": "lantern-noun-1",
             "definition": "light in a transparent protective case",
-            "translation": "",
+            "translation": "灯笼；提灯",
             "examples": []
           }
         ]
@@ -12188,8 +12188,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17903,13 +17903,13 @@
           {
             "id": "latest-adjective-1",
             "definition": "up to the immediate present",
-            "translation": "",
+            "translation": "最新的",
             "examples": []
           },
           {
             "id": "latest-adjective-2",
             "definition": "in the current fashion or style",
-            "translation": "",
+            "translation": "最时髦的",
             "examples": []
           }
         ]
@@ -17920,11 +17920,11 @@
           {
             "id": "latest-noun-1",
             "definition": "the most recent news or development",
-            "translation": "",
+            "translation": "最新消息",
             "examples": [
               {
                 "text": "have you heard the latest?",
-                "translation": ""
+                "translation": "你听到最新消息了吗?"
               }
             ]
           }
@@ -17933,8 +17933,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -20580,13 +20580,13 @@
           {
             "id": "laundry-noun-1",
             "definition": "workplace where clothes are washed and ironed",
-            "translation": "",
+            "translation": "洗衣店",
             "examples": []
           },
           {
             "id": "laundry-noun-2",
             "definition": "garments or white goods that can be cleaned by laundering",
-            "translation": "",
+            "translation": "待洗的衣物",
             "examples": []
           }
         ]
@@ -20594,8 +20594,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21234,19 +21234,19 @@
           {
             "id": "lavatory-noun-1",
             "definition": "a toilet that is cleaned of waste by the flow of water through it",
-            "translation": "",
+            "translation": "抽水马桶",
             "examples": []
           },
           {
             "id": "lavatory-noun-2",
             "definition": "a room or building equipped with one or more toilets",
-            "translation": "",
+            "translation": "厕所；洗手间",
             "examples": []
           },
           {
             "id": "lavatory-noun-3",
             "definition": "a bathroom sink that is permanently installed and connected to a water supply and drainpipe",
-            "translation": "",
+            "translation": "固定式洗手盆",
             "examples": []
           }
         ]
@@ -21254,8 +21254,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -26034,41 +26034,41 @@
           {
             "id": "leak-noun-1",
             "definition": "unauthorized (especially deliberate) disclosure of confidential information",
-            "translation": "",
+            "translation": "泄密",
             "examples": []
           },
           {
             "id": "leak-noun-2",
             "definition": "the discharge of a fluid from some container",
-            "translation": "",
+            "translation": "渗漏",
             "examples": []
           },
           {
             "id": "leak-noun-3",
             "definition": "an accidental hole that allows something (fluid or light etc.) to enter or escape",
-            "translation": "",
+            "translation": "漏洞；漏处",
             "examples": [
               {
                 "text": "one of the tires developed a leak",
-                "translation": ""
+                "translation": "有一个轮胎漏气了。"
               }
             ]
           },
           {
             "id": "leak-noun-4",
             "definition": "an impolite euphemism for urination",
-            "translation": "",
+            "translation": "小便",
             "examples": [
               {
                 "text": "Where's the bathroom? I gotta take a leak.",
-                "translation": ""
+                "translation": "洗手间在哪儿?我得小便一下。"
               }
             ]
           },
           {
             "id": "leak-noun-5",
             "definition": "soft watery rot in fruits and vegetables caused by fungi",
-            "translation": "",
+            "translation": "软腐病",
             "examples": []
           }
         ]
@@ -26079,44 +26079,44 @@
           {
             "id": "leak-verb-1",
             "definition": "have an opening that allows light or substances to enter or go out",
-            "translation": "",
+            "translation": "漏；渗漏",
             "examples": [
               {
                 "text": "The container leaked gasoline",
-                "translation": ""
+                "translation": "容器漏出了汽油。"
               }
             ]
           },
           {
             "id": "leak-verb-2",
             "definition": "enter or escape as through a hole or crack or fissure",
-            "translation": "",
+            "translation": "漏出",
             "examples": [
               {
                 "text": "Water leaked out of the can into the backpack",
-                "translation": ""
+                "translation": "水从罐子里漏进了背包。"
               }
             ]
           },
           {
             "id": "leak-verb-3",
             "definition": "to divulge or reveal",
-            "translation": "",
+            "translation": "泄露",
             "examples": [
               {
                 "text": "The news leaked out despite their secrecy.",
-                "translation": ""
+                "translation": "尽管他们保密,消息还是泄露出去了。"
               }
             ]
           },
           {
             "id": "leak-verb-4",
             "definition": "tell anonymously",
-            "translation": "",
+            "translation": "匿名透露",
             "examples": [
               {
                 "text": "The news were leaked to the paper",
-                "translation": ""
+                "translation": "消息被匿名透露给了报社。"
               }
             ]
           }
@@ -26162,8 +26162,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31047,11 +31047,11 @@
           {
             "id": "leftover-adjective-1",
             "definition": "not used up",
-            "translation": "",
+            "translation": "剩余的",
             "examples": [
               {
                 "text": "leftover meatloaf",
-                "translation": ""
+                "translation": "剩下的肉糕"
               }
             ]
           }
@@ -31063,7 +31063,7 @@
           {
             "id": "leftover-noun-1",
             "definition": "a small part or portion that remains after the main part no longer exists",
-            "translation": "",
+            "translation": "剩余物",
             "examples": []
           }
         ]
@@ -31071,8 +31071,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34279,7 +34279,7 @@
           {
             "id": "lemonade-noun-1",
             "definition": "sweetened beverage of diluted lemon juice",
-            "translation": "",
+            "translation": "柠檬水",
             "examples": []
           }
         ]
@@ -34287,8 +34287,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -43609,30 +43609,30 @@
           {
             "id": "liberate-verb-1",
             "definition": "release (gas or energy) as a result of a chemical reaction or physical decomposition",
-            "translation": "",
+            "translation": "释放",
             "examples": []
           },
           {
             "id": "liberate-verb-2",
             "definition": "grant freedom to",
-            "translation": "",
+            "translation": "解放",
             "examples": []
           },
           {
             "id": "liberate-verb-3",
             "definition": "grant freedom to",
-            "translation": "",
+            "translation": "释放",
             "examples": [
               {
                 "text": "The students liberated their slaves upon graduating from the university",
-                "translation": ""
+                "translation": "学生们在毕业时释放了自己的奴隶。"
               }
             ]
           },
           {
             "id": "liberate-verb-4",
             "definition": "give equal rights to",
-            "translation": "",
+            "translation": "给予平等权利",
             "examples": []
           }
         ]
@@ -43640,8 +43640,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -43717,23 +43717,23 @@
           {
             "id": "liberation-noun-1",
             "definition": "the act of liberating someone or something",
-            "translation": "",
+            "translation": "解放；释放",
             "examples": []
           },
           {
             "id": "liberation-noun-2",
             "definition": "the termination of someone's employment (leaving them free to depart)",
-            "translation": "",
+            "translation": "解雇",
             "examples": []
           },
           {
             "id": "liberation-noun-3",
             "definition": "the attempt to achieve equal rights or status",
-            "translation": "",
+            "translation": "争取平等权利",
             "examples": [
               {
                 "text": "They worked for women's liberation.",
-                "translation": ""
+                "translation": "她们为妇女解放而工作。"
               }
             ]
           }
@@ -43747,8 +43747,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -44153,7 +44153,7 @@
           {
             "id": "librarian-noun-1",
             "definition": "a professional person trained in library science and engaged in library services",
-            "translation": "",
+            "translation": "图书馆员",
             "examples": []
           }
         ]
@@ -44161,8 +44161,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -63367,7 +63367,7 @@
           {
             "id": "litre-noun-1",
             "definition": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions",
-            "translation": "",
+            "translation": "升",
             "examples": []
           }
         ]
@@ -63375,8 +63375,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -63413,25 +63413,25 @@
           {
             "id": "litter-noun-1",
             "definition": "material used to provide a bed for animals",
-            "translation": "",
+            "translation": "垫料",
             "examples": []
           },
           {
             "id": "litter-noun-2",
             "definition": "conveyance consisting of a chair or bed carried on two poles by bearers",
-            "translation": "",
+            "translation": "轿子",
             "examples": []
           },
           {
             "id": "litter-noun-3",
             "definition": "the offspring at one birth of a multiparous mammal",
-            "translation": "",
+            "translation": "一窝幼崽",
             "examples": []
           },
           {
             "id": "litter-noun-4",
             "definition": "rubbish carelessly dropped or left about (especially in public places)",
-            "translation": "",
+            "translation": "垃圾；废弃物",
             "examples": []
           }
         ]
@@ -63442,7 +63442,7 @@
           {
             "id": "litter-verb-1",
             "definition": "give birth to a litter of animals",
-            "translation": "",
+            "translation": "产仔",
             "examples": []
           },
           {
@@ -63454,11 +63454,11 @@
           {
             "id": "litter-verb-3",
             "definition": "strew",
-            "translation": "",
+            "translation": "乱丢；使杂乱",
             "examples": [
               {
                 "text": "Cigar butts littered the ground",
-                "translation": ""
+                "translation": "雪茄烟蒂撒了一地。"
               }
             ]
           }
@@ -63484,7 +63484,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -67027,22 +67027,22 @@
           {
             "id": "loaf-noun-1",
             "definition": "a quantity of food, other than bread, formed in a particular shape",
-            "translation": "",
+            "translation": "长条形食物",
             "examples": [
               {
                 "text": "I made a delicious meat loaf for my family.",
-                "translation": ""
+                "translation": "我给家人做了一条好吃的肉糕。"
               }
             ]
           },
           {
             "id": "loaf-noun-2",
             "definition": "a shaped mass of baked bread that is usually sliced before eating",
-            "translation": "",
+            "translation": "一条面包",
             "examples": [
               {
                 "text": "I bought a loaf from the bakery.",
-                "translation": ""
+                "translation": "我从面包店买了一条面包。"
               }
             ]
           }
@@ -67054,22 +67054,22 @@
           {
             "id": "loaf-verb-1",
             "definition": "to be about",
-            "translation": "",
+            "translation": "闲荡",
             "examples": [
               {
                 "text": "I didn't want to leave, so I loafed for a while.",
-                "translation": ""
+                "translation": "我不想走,就闲荡了一会儿。"
               }
             ]
           },
           {
             "id": "loaf-verb-2",
             "definition": "to be lazy or idle",
-            "translation": "",
+            "translation": "游手好闲",
             "examples": [
               {
                 "text": "I loafed around all day.",
-                "translation": ""
+                "translation": "我整天无所事事。"
               }
             ]
           }
@@ -67103,8 +67103,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -71332,19 +71332,19 @@
           {
             "id": "locust-noun-1",
             "definition": "migratory grasshoppers of warm regions having short antennae",
-            "translation": "",
+            "translation": "蝗虫",
             "examples": []
           },
           {
             "id": "locust-noun-2",
             "definition": "any of various hardwood trees of the family Leguminosae",
-            "translation": "",
+            "translation": "刺槐",
             "examples": []
           },
           {
             "id": "locust-noun-3",
             "definition": "hardwood from any of various locust trees",
-            "translation": "",
+            "translation": "刺槐木",
             "examples": []
           }
         ]
@@ -71352,8 +71352,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -80304,13 +80304,13 @@
           {
             "id": "lorry-noun-1",
             "definition": "a large truck designed to carry heavy loads",
-            "translation": "",
+            "translation": "卡车",
             "examples": []
           },
           {
             "id": "lorry-noun-2",
             "definition": "a large low horse-drawn wagon without sides",
-            "translation": "",
+            "translation": "无侧板的大型运货马车",
             "examples": []
           }
         ]
@@ -80323,8 +80323,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -82288,7 +82288,7 @@
           {
             "id": "loudspeaker-noun-1",
             "definition": "electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance",
-            "translation": "",
+            "translation": "扬声器；喇叭",
             "examples": []
           }
         ]
@@ -82296,8 +82296,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -82371,13 +82371,13 @@
           {
             "id": "lounge-noun-1",
             "definition": "a room (as in a hotel or airport) with seating where people can wait",
-            "translation": "",
+            "translation": "休息室",
             "examples": []
           },
           {
             "id": "lounge-noun-2",
             "definition": "an upholstered seat for more than one person",
-            "translation": "",
+            "translation": "长沙发",
             "examples": []
           }
         ]
@@ -82388,13 +82388,13 @@
           {
             "id": "lounge-verb-1",
             "definition": "sit or recline comfortably",
-            "translation": "",
+            "translation": "舒适地坐或倚",
             "examples": []
           },
           {
             "id": "lounge-verb-2",
             "definition": "be about",
-            "translation": "",
+            "translation": "闲逛",
             "examples": []
           }
         ]
@@ -82411,8 +82411,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

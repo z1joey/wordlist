@@ -3911,11 +3911,11 @@
           {
             "id": "radioactive-adjective-1",
             "definition": "exhibiting or caused by radioactivity",
-            "translation": "",
+            "translation": "放射性的",
             "examples": [
               {
                 "text": "radioactive isotope",
-                "translation": ""
+                "translation": "放射性同位素"
               }
             ]
           }
@@ -3924,8 +3924,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -6405,31 +6405,31 @@
           {
             "id": "rag-noun-1",
             "definition": "a boisterous practical joke (especially by college students)",
-            "translation": "",
+            "translation": "恶作剧；喧闹",
             "examples": []
           },
           {
             "id": "rag-noun-2",
             "definition": "a small piece of cloth or paper",
-            "translation": "",
+            "translation": "破布；碎片",
             "examples": []
           },
           {
             "id": "rag-noun-3",
             "definition": "newspaper with half-size pages",
-            "translation": "",
+            "translation": "小报",
             "examples": []
           },
           {
             "id": "rag-noun-4",
             "definition": "music with a syncopated melody (usually for the piano)",
-            "translation": "",
+            "translation": "雷格泰姆音乐",
             "examples": []
           },
           {
             "id": "rag-noun-5",
             "definition": "a week at British universities during which side-shows and processions of floats are organized to raise money for charities",
-            "translation": "",
+            "translation": "英国大学的慈善周",
             "examples": []
           }
         ]
@@ -6446,36 +6446,36 @@
           {
             "id": "rag-verb-2",
             "definition": "censure severely or angrily",
-            "translation": "",
+            "translation": "严厉斥责",
             "examples": []
           },
           {
             "id": "rag-verb-3",
             "definition": "harass with persistent criticism or carping",
-            "translation": "",
+            "translation": "不断批评",
             "examples": []
           },
           {
             "id": "rag-verb-4",
             "definition": "play in ragtime",
-            "translation": "",
+            "translation": "用雷格泰姆风格演奏",
             "examples": [
               {
                 "text": "rag that old tune",
-                "translation": ""
+                "translation": "用雷格泰姆风格弹奏那首老曲子"
               }
             ]
           },
           {
             "id": "rag-verb-5",
             "definition": "cause annoyance in",
-            "translation": "",
+            "translation": "使烦恼",
             "examples": []
           },
           {
             "id": "rag-verb-6",
             "definition": "treat cruelly",
-            "translation": "",
+            "translation": "虐待",
             "examples": []
           }
         ]
@@ -6488,7 +6488,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -8098,13 +8098,13 @@
           {
             "id": "railway-noun-1",
             "definition": "a line of track providing a runway for wheels",
-            "translation": "",
+            "translation": "铁路",
             "examples": []
           },
           {
             "id": "railway-noun-2",
             "definition": "line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight",
-            "translation": "",
+            "translation": "铁路公司",
             "examples": []
           }
         ]
@@ -8125,8 +8125,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8412,18 +8412,18 @@
           {
             "id": "rainbow-noun-1",
             "definition": "an illusory hope",
-            "translation": "",
+            "translation": "幻想；空想的希望",
             "examples": [
               {
                 "text": "chasing rainbows",
-                "translation": ""
+                "translation": "追逐空想"
               }
             ]
           },
           {
             "id": "rainbow-noun-2",
             "definition": "an arc of colored light in the sky caused by refraction of the sun's rays by rain",
-            "translation": "",
+            "translation": "彩虹",
             "examples": []
           }
         ]
@@ -8431,8 +8431,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8461,7 +8461,7 @@
           {
             "id": "raincoat-noun-1",
             "definition": "a water-resistant coat",
-            "translation": "",
+            "translation": "雨衣",
             "examples": []
           }
         ]
@@ -8469,8 +8469,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8531,7 +8531,7 @@
           {
             "id": "rainfall-noun-1",
             "definition": "water falling in drops from vapor condensed in the atmosphere",
-            "translation": "",
+            "translation": "降雨；降雨量",
             "examples": []
           }
         ]
@@ -8539,8 +8539,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8926,11 +8926,11 @@
           {
             "id": "rainy-adjective-1",
             "definition": "areas or periods of time when it often rains",
-            "translation": "",
+            "translation": "多雨的",
             "examples": [
               {
                 "text": "The Pacific Northwest of the USA has a rainy climate. ",
-                "translation": ""
+                "translation": "美国太平洋西北部气候多雨。"
               }
             ]
           }
@@ -8939,8 +8939,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12421,7 +12421,7 @@
           {
             "id": "random-adjective-1",
             "definition": "lacking any definite plan or order or purpose",
-            "translation": "",
+            "translation": "随意的；无计划的",
             "examples": []
           }
         ]
@@ -12429,8 +12429,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -22276,7 +22276,7 @@
           {
             "id": "razor-noun-1",
             "definition": "edge tool used in shaving",
-            "translation": "",
+            "translation": "剃刀",
             "examples": []
           }
         ]
@@ -22300,7 +22300,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -25556,13 +25556,13 @@
           {
             "id": "realise-verb-1",
             "definition": "perceive (an idea or situation) mentally",
-            "translation": "",
+            "translation": "领悟；意识到",
             "examples": []
           },
           {
             "id": "realise-verb-2",
             "definition": "be fully aware or cognizant of",
-            "translation": "",
+            "translation": "完全意识到",
             "examples": []
           },
           {
@@ -25580,13 +25580,13 @@
           {
             "id": "realise-verb-5",
             "definition": "convert into cash",
-            "translation": "",
+            "translation": "变现；兑换成现金",
             "examples": []
           },
           {
             "id": "realise-verb-6",
             "definition": "earn on some commercial or business transaction",
-            "translation": "",
+            "translation": "赚得",
             "examples": []
           }
         ]
@@ -25594,7 +25594,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -32155,11 +32155,11 @@
           {
             "id": "receptionist-noun-1",
             "definition": "an employee whose main duty is to answer the telephone and receive visitors, typically located behind the front desk",
-            "translation": "",
+            "translation": "接待员",
             "examples": [
               {
                 "text": "The receptionist offered the guests coffee while they waited in the lobby. ",
-                "translation": ""
+                "translation": "客人在大堂等候时,接待员给他们送上咖啡。"
               }
             ]
           }
@@ -32168,8 +32168,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -33820,36 +33820,36 @@
           {
             "id": "recite-verb-1",
             "definition": "repeat aloud from memory",
-            "translation": "",
+            "translation": "背诵",
             "examples": [
               {
                 "text": "The student recited a poem.",
-                "translation": ""
+                "translation": "学生背诵了一首诗。"
               }
             ]
           },
           {
             "id": "recite-verb-2",
             "definition": "specify individually",
-            "translation": "",
+            "translation": "逐一列举",
             "examples": []
           },
           {
             "id": "recite-verb-3",
             "definition": "narrate or give a detailed account of",
-            "translation": "",
+            "translation": "叙述",
             "examples": []
           },
           {
             "id": "recite-verb-4",
             "definition": "recite in elocution",
-            "translation": "",
+            "translation": "朗诵",
             "examples": []
           },
           {
             "id": "recite-verb-5",
             "definition": "render verbally, 'recite a poem'",
-            "translation": "",
+            "translation": "口头表达",
             "examples": []
           }
         ]
@@ -33857,8 +33857,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34936,25 +34936,25 @@
           {
             "id": "recognise-verb-1",
             "definition": "accept (someone) to be what is claimed or accept his power and authority",
-            "translation": "",
+            "translation": "认可；承认",
             "examples": []
           },
           {
             "id": "recognise-verb-2",
             "definition": "perceive to be the same",
-            "translation": "",
+            "translation": "认出",
             "examples": []
           },
           {
             "id": "recognise-verb-3",
             "definition": "be fully aware or cognizant of",
-            "translation": "",
+            "translation": "充分意识到",
             "examples": []
           },
           {
             "id": "recognise-verb-4",
             "definition": "express obligation, thanks, or gratitude for",
-            "translation": "",
+            "translation": "表达感谢",
             "examples": []
           },
           {
@@ -34972,7 +34972,7 @@
           {
             "id": "recognise-verb-7",
             "definition": "grant credentials to",
-            "translation": "",
+            "translation": "授予资格证书",
             "examples": []
           },
           {
@@ -34986,7 +34986,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -37633,25 +37633,25 @@
           {
             "id": "recorder-noun-1",
             "definition": "a tubular wind instrument with 8 finger holes and a fipple mouthpiece",
-            "translation": "",
+            "translation": "竖笛",
             "examples": []
           },
           {
             "id": "recorder-noun-2",
             "definition": "equipment for making records",
-            "translation": "",
+            "translation": "录音机",
             "examples": []
           },
           {
             "id": "recorder-noun-3",
             "definition": "a barrister or solicitor who serves as part-time judge in towns or boroughs",
-            "translation": "",
+            "translation": "兼职法官",
             "examples": []
           },
           {
             "id": "recorder-noun-4",
             "definition": "someone responsible for keeping records",
-            "translation": "",
+            "translation": "记录员",
             "examples": []
           }
         ]
@@ -37664,8 +37664,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -38994,7 +38994,7 @@
           {
             "id": "rectangle-noun-1",
             "definition": "a parallelogram with four right angles",
-            "translation": "",
+            "translation": "长方形；矩形",
             "examples": []
           }
         ]
@@ -39002,8 +39002,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -42781,11 +42781,11 @@
           {
             "id": "redirect-verb-1",
             "definition": "channel into a new direction",
-            "translation": "",
+            "translation": "使转向；改变方向",
             "examples": [
               {
                 "text": "redirect your attention to the danger from the fundamentalists",
-                "translation": ""
+                "translation": "把注意力转向原教旨主义者的威胁。"
               }
             ]
           }
@@ -42794,8 +42794,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -47207,19 +47207,19 @@
           {
             "id": "referee-noun-1",
             "definition": "(sports) the chief official (as in boxing or American football) who is expected to ensure fair play",
-            "translation": "",
+            "translation": "裁判员",
             "examples": []
           },
           {
             "id": "referee-noun-2",
             "definition": "an attorney appointed by a court to investigate and report on a case",
-            "translation": "",
+            "translation": "受托调查人",
             "examples": []
           },
           {
             "id": "referee-noun-3",
             "definition": "someone who reads manuscripts and judges their suitability for publication",
-            "translation": "",
+            "translation": "审稿人",
             "examples": []
           }
         ]
@@ -47230,13 +47230,13 @@
           {
             "id": "referee-verb-1",
             "definition": "evaluate professionally a colleague's work",
-            "translation": "",
+            "translation": "评审",
             "examples": []
           },
           {
             "id": "referee-verb-2",
             "definition": "be a referee or umpire in a sports competition",
-            "translation": "",
+            "translation": "担任裁判",
             "examples": []
           }
         ]
@@ -47253,8 +47253,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -52001,7 +52001,7 @@
           {
             "id": "refusal-noun-1",
             "definition": "a message refusing to accept something that is offered",
-            "translation": "",
+            "translation": "拒绝",
             "examples": []
           },
           {
@@ -52056,7 +52056,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -60559,18 +60559,18 @@
           {
             "id": "relay-noun-1",
             "definition": "the act of passing something along from one person or group to another",
-            "translation": "",
+            "translation": "接力；传递",
             "examples": [
               {
                 "text": "the relay was successful",
-                "translation": ""
+                "translation": "接力传递成功了。"
               }
             ]
           },
           {
             "id": "relay-noun-2",
             "definition": "electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit",
-            "translation": "",
+            "translation": "继电器",
             "examples": []
           },
           {
@@ -60582,13 +60582,13 @@
           {
             "id": "relay-noun-4",
             "definition": "a fresh team to relieve weary draft animals",
-            "translation": "",
+            "translation": "替换役畜的新一组",
             "examples": []
           },
           {
             "id": "relay-noun-5",
             "definition": "a crew of workers who relieve another crew",
-            "translation": "",
+            "translation": "轮班工人",
             "examples": []
           }
         ]
@@ -60610,7 +60610,7 @@
           {
             "id": "relay-verb-2",
             "definition": "control or operate by relay",
-            "translation": "",
+            "translation": "通过继电器控制",
             "examples": []
           }
         ]
@@ -60623,7 +60623,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -90674,11 +90674,11 @@
           {
             "id": "retell-verb-3",
             "definition": "render verbally, 'recite a poem'",
-            "translation": "",
+            "translation": "复述",
             "examples": [
               {
                 "text": "retell a story",
-                "translation": ""
+                "translation": "复述一个故事"
               }
             ]
           }
@@ -90687,7 +90687,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -95723,7 +95723,7 @@
           {
             "id": "reuse-verb-1",
             "definition": "use again after processing",
-            "translation": "",
+            "translation": "再使用",
             "examples": []
           }
         ]
@@ -95731,8 +95731,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -98606,13 +98606,13 @@
           {
             "id": "reviewer-noun-1",
             "definition": "a writer who reports and analyzes events of the day",
-            "translation": "",
+            "translation": "评论家",
             "examples": []
           },
           {
             "id": "reviewer-noun-2",
             "definition": "someone who reads manuscripts and judges their suitability for publication",
-            "translation": "",
+            "translation": "审稿人",
             "examples": []
           }
         ]
@@ -98620,8 +98620,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -101087,11 +101087,11 @@
           {
             "id": "rewrite-noun-1",
             "definition": "something that has been written again",
-            "translation": "",
+            "translation": "重写；改写",
             "examples": [
               {
                 "text": "the rewrite was much better",
-                "translation": ""
+                "translation": "改写稿好多了。"
               }
             ]
           }
@@ -101109,7 +101109,7 @@
           {
             "id": "rewrite-verb-2",
             "definition": "rewrite so as to make fit to suit a new or different purpose",
-            "translation": "",
+            "translation": "改写以适应新用途",
             "examples": []
           }
         ]
@@ -101117,7 +101117,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -104209,13 +104209,13 @@
           {
             "id": "rhyme-noun-1",
             "definition": "a piece of poetry",
-            "translation": "",
+            "translation": "诗歌；韵文",
             "examples": []
           },
           {
             "id": "rhyme-noun-2",
             "definition": "correspondence in the sounds of two or more lines (especially final sounds)",
-            "translation": "",
+            "translation": "押韵",
             "examples": []
           }
         ]
@@ -104232,11 +104232,11 @@
           {
             "id": "rhyme-verb-2",
             "definition": "be similar in sound, especially with respect to the last syllable",
-            "translation": "",
+            "translation": "押韵",
             "examples": [
               {
                 "text": "hat and cat rhyme",
-                "translation": ""
+                "translation": "hat 和 cat 押韵。"
               }
             ]
           }
@@ -104254,7 +104254,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -105817,13 +105817,13 @@
           {
             "id": "rice-noun-1",
             "definition": "grains used as food either unpolished or more often polished",
-            "translation": "",
+            "translation": "大米",
             "examples": []
           },
           {
             "id": "rice-noun-2",
             "definition": "annual or perennial rhizomatous marsh grasses",
-            "translation": "",
+            "translation": "稻",
             "examples": []
           }
         ]
@@ -105834,11 +105834,11 @@
           {
             "id": "rice-verb-1",
             "definition": "sieve so that it becomes the consistency of rice",
-            "translation": "",
+            "translation": "用筛子过滤",
             "examples": [
               {
                 "text": "rice the potatoes",
-                "translation": ""
+                "translation": "把土豆压成土豆泥"
               }
             ]
           }
@@ -105852,8 +105852,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -107142,7 +107142,7 @@
           {
             "id": "riddle-noun-1",
             "definition": "a coarse sieve (as for gravel)",
-            "translation": "",
+            "translation": "粗筛",
             "examples": []
           },
           {
@@ -107159,11 +107159,11 @@
           {
             "id": "riddle-verb-1",
             "definition": "set a difficult problem or riddle",
-            "translation": "",
+            "translation": "出谜",
             "examples": [
               {
                 "text": "riddle me a riddle",
-                "translation": ""
+                "translation": "给我出条谜语"
               }
             ]
           },
@@ -107176,23 +107176,23 @@
           {
             "id": "riddle-verb-3",
             "definition": "speak in riddles",
-            "translation": "",
+            "translation": "含糊其辞地说",
             "examples": []
           },
           {
             "id": "riddle-verb-4",
             "definition": "spread or diffuse through",
-            "translation": "",
+            "translation": "弥漫；散布",
             "examples": []
           },
           {
             "id": "riddle-verb-5",
             "definition": "pierce with many holes",
-            "translation": "",
+            "translation": "把…打得满是窟窿",
             "examples": [
               {
                 "text": "The bullets riddled the body of the car.",
-                "translation": ""
+                "translation": "子弹把车身打得千疮百孔。"
               }
             ]
           },
@@ -107212,7 +107212,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -114236,7 +114236,7 @@
           {
             "id": "ripe-adjective-1",
             "definition": "fully prepared or eager",
-            "translation": "",
+            "translation": "准备充分的；渴望的",
             "examples": []
           },
           {
@@ -114248,29 +114248,29 @@
           {
             "id": "ripe-adjective-3",
             "definition": "at the highest point of development especially in judgment or knowledge",
-            "translation": "",
+            "translation": "成熟的（智力、判断力方面）",
             "examples": [
               {
                 "text": "a ripe mind",
-                "translation": ""
+                "translation": "成熟的心智"
               }
             ]
           },
           {
             "id": "ripe-adjective-4",
             "definition": "fully developed or matured and ready to be eaten or used",
-            "translation": "",
+            "translation": "成熟的；可食用的",
             "examples": [
               {
                 "text": "ripe peaches",
-                "translation": ""
+                "translation": "成熟的桃子"
               }
             ]
           },
           {
             "id": "ripe-adjective-5",
             "definition": "most suitable or right for a particular purpose",
-            "translation": "",
+            "translation": "合适的；恰当的",
             "examples": []
           }
         ]
@@ -114278,8 +114278,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -114346,22 +114346,22 @@
           {
             "id": "ripen-verb-1",
             "definition": "grow ripe",
-            "translation": "",
+            "translation": "成熟",
             "examples": [
               {
                 "text": "The plums ripen in July",
-                "translation": ""
+                "translation": "李子在七月成熟。"
               }
             ]
           },
           {
             "id": "ripen-verb-2",
             "definition": "cause to ripen or develop fully",
-            "translation": "",
+            "translation": "使成熟",
             "examples": [
               {
                 "text": "The sun ripens the fruit",
-                "translation": ""
+                "translation": "阳光使水果成熟。"
               }
             ]
           }
@@ -114379,8 +114379,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -118379,11 +118379,11 @@
           {
             "id": "roast-adjective-1",
             "definition": "cooked by dry heat in an oven",
-            "translation": "",
+            "translation": "烤的；烘焙的",
             "examples": [
               {
                 "text": "We had roast chicken for dinner.",
-                "translation": ""
+                "translation": "我们晚餐吃了烤鸡。"
               }
             ]
           }
@@ -118401,7 +118401,7 @@
           {
             "id": "roast-noun-2",
             "definition": "a piece of meat roasted or for roasting and of a size for slicing into more than one portion",
-            "translation": "",
+            "translation": "烤肉",
             "examples": []
           }
         ]
@@ -118412,18 +118412,18 @@
           {
             "id": "roast-verb-1",
             "definition": "cook with dry heat, usually in an oven",
-            "translation": "",
+            "translation": "烤；烘",
             "examples": [
               {
                 "text": "roast the turkey",
-                "translation": ""
+                "translation": "烤火鸡"
               }
             ]
           },
           {
             "id": "roast-verb-2",
             "definition": "subject to laughter or ridicule",
-            "translation": "",
+            "translation": "嘲笑；嘲弄",
             "examples": []
           }
         ]
@@ -118431,7 +118431,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -122387,66 +122387,66 @@
           {
             "id": "roller-noun-1",
             "definition": "in baseball, a ground ball that rolls along the infield",
-            "translation": "",
+            "translation": "滚地球",
             "examples": [
               {
                 "text": "The shortstop made easy work of the batter's weak roller.",
-                "translation": ""
+                "translation": "游击手轻松接住了击球员的软弱滚地球。"
               }
             ]
           },
           {
             "id": "roller-noun-2",
             "definition": "pigeon that executes backward somersaults in flight or on the ground",
-            "translation": "",
+            "translation": "翻滚鸽",
             "examples": [
               {
                 "text": "Watch this roller!",
-                "translation": ""
+                "translation": "看这只翻滚鸽!"
               }
             ]
           },
           {
             "id": "roller-noun-3",
             "definition": "a mechanical device consisting of a cylindrical tube around which the hair is wound to curl it",
-            "translation": "",
+            "translation": "卷发筒",
             "examples": [
               {
                 "text": "I put my hair in rollers.",
-                "translation": ""
+                "translation": "我把头发用卷发筒卷起来。"
               }
             ]
           },
           {
             "id": "roller-noun-4",
             "definition": "a cylinder that revolves",
-            "translation": "",
+            "translation": "滚筒",
             "examples": [
               {
                 "text": "We need to oil the roller.",
-                "translation": ""
+                "translation": "我们得给滚筒上点油。"
               }
             ]
           },
           {
             "id": "roller-noun-5",
             "definition": "a small wheel without spokes, as on a roller skate",
-            "translation": "",
+            "translation": "滚轮",
             "examples": [
               {
                 "text": "These rollers are pretty worn out.",
-                "translation": ""
+                "translation": "这些滚轮已经磨得很旧了。"
               }
             ]
           },
           {
             "id": "roller-noun-6",
             "definition": "a long heavy sea wave as it advances towards the shore",
-            "translation": "",
+            "translation": "翻滚的浪",
             "examples": [
               {
                 "text": "That huge roller is coming toward us.",
-                "translation": ""
+                "translation": "巨浪正朝我们涌来。"
               }
             ]
           }
@@ -122468,8 +122468,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -125561,7 +125561,7 @@
           {
             "id": "rooster-noun-1",
             "definition": "adult male chicken",
-            "translation": "",
+            "translation": "公鸡",
             "examples": []
           }
         ]
@@ -125569,8 +125569,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -128053,19 +128053,19 @@
           {
             "id": "rot-noun-1",
             "definition": "unacceptable behavior (especially ludicrously false statements)",
-            "translation": "",
+            "translation": "胡闹；胡说",
             "examples": []
           },
           {
             "id": "rot-noun-2",
             "definition": "(biology) the process of decay caused by bacterial or fungal action",
-            "translation": "",
+            "translation": "腐烂",
             "examples": []
           },
           {
             "id": "rot-noun-3",
             "definition": "a state of decay usually accompanied by an offensive odor",
-            "translation": "",
+            "translation": "腐朽状态",
             "examples": []
           }
         ]
@@ -128076,7 +128076,7 @@
           {
             "id": "rot-verb-1",
             "definition": "become physically weaker",
-            "translation": "",
+            "translation": "变弱；腐坏",
             "examples": []
           },
           {
@@ -128103,7 +128103,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -131024,13 +131024,13 @@
           {
             "id": "roundabout-adjective-1",
             "definition": "deviating from a straight course",
-            "translation": "",
+            "translation": "绕弯的；间接的",
             "examples": []
           },
           {
             "id": "roundabout-adjective-2",
             "definition": "marked by obliqueness or indirection in speech or conduct",
-            "translation": "",
+            "translation": "拐弯抹角的",
             "examples": []
           }
         ]
@@ -131041,13 +131041,13 @@
           {
             "id": "roundabout-noun-1",
             "definition": "a large, rotating machine with seats for children to ride or amusement",
-            "translation": "",
+            "translation": "旋转木马",
             "examples": []
           },
           {
             "id": "roundabout-noun-2",
             "definition": "a road junction at which traffic streams circularly around a central island",
-            "translation": "",
+            "translation": "环岛",
             "examples": []
           }
         ]
@@ -131055,8 +131055,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -136562,7 +136562,7 @@
           {
             "id": "rugby-noun-1",
             "definition": "a form of football played with an oval ball",
-            "translation": "",
+            "translation": "橄榄球",
             "examples": []
           }
         ]
@@ -136570,8 +136570,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -140923,54 +140923,54 @@
           {
             "id": "runner-noun-3",
             "definition": "a long narrow carpet",
-            "translation": "",
+            "translation": "走廊地毯",
             "examples": []
           },
           {
             "id": "runner-noun-4",
             "definition": "(football) the player who is carrying (and trying to advance) the ball on an offensive play",
-            "translation": "",
+            "translation": "带球进攻的球员",
             "examples": []
           },
           {
             "id": "runner-noun-5",
             "definition": "a baseball player on the team at bat who is on base (or attempting to reach a base)",
-            "translation": "",
+            "translation": "跑垒员",
             "examples": []
           },
           {
             "id": "runner-noun-6",
             "definition": "a person who is employed to deliver messages or documents",
-            "translation": "",
+            "translation": "信使；送件人",
             "examples": [
               {
                 "text": "They sent a runner over with the contract.",
-                "translation": ""
+                "translation": "他们派了一个信使带着合同过来。"
               }
             ]
           },
           {
             "id": "runner-noun-7",
             "definition": "someone who travels on foot by running",
-            "translation": "",
+            "translation": "跑步者",
             "examples": []
           },
           {
             "id": "runner-noun-8",
             "definition": "a trained athlete who competes in foot races",
-            "translation": "",
+            "translation": "赛跑运动员",
             "examples": []
           },
           {
             "id": "runner-noun-9",
             "definition": "someone who imports or exports without paying duties",
-            "translation": "",
+            "translation": "走私者",
             "examples": []
           },
           {
             "id": "runner-noun-10",
             "definition": "a horizontal branch from the base of plant that produces new plants from buds at its tips",
-            "translation": "",
+            "translation": "匍匐茎",
             "examples": []
           }
         ]
@@ -140995,7 +140995,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -141062,25 +141062,25 @@
           {
             "id": "running-adjective-1",
             "definition": "continually repeated over a period of time",
-            "translation": "",
+            "translation": "持续不断的",
             "examples": []
           },
           {
             "id": "running-adjective-2",
             "definition": "(of e.g. a machine) performing or capable of performing",
-            "translation": "",
+            "translation": "运行中的",
             "examples": []
           },
           {
             "id": "running-adjective-3",
             "definition": "executed or initiated by running",
-            "translation": "",
+            "translation": "跑步完成的",
             "examples": []
           },
           {
             "id": "running-adjective-4",
             "definition": "(of fluids) moving or issuing in a stream",
-            "translation": "",
+            "translation": "流动的",
             "examples": []
           },
           {
@@ -141092,7 +141092,7 @@
           {
             "id": "running-adjective-6",
             "definition": "measured lengthwise",
-            "translation": "",
+            "translation": "纵向量的",
             "examples": []
           }
         ]
@@ -141103,29 +141103,29 @@
           {
             "id": "running-noun-1",
             "definition": "the act of running",
-            "translation": "",
+            "translation": "跑步",
             "examples": []
           },
           {
             "id": "running-noun-2",
             "definition": "the act of participating in an athletic competition involving running on a track",
-            "translation": "",
+            "translation": "赛跑",
             "examples": []
           },
           {
             "id": "running-noun-3",
             "definition": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
-            "translation": "",
+            "translation": "带球跑动进攻",
             "examples": []
           },
           {
             "id": "running-noun-4",
             "definition": "the act of administering or being in charge of something",
-            "translation": "",
+            "translation": "运营；管理",
             "examples": [
               {
                 "text": "They have responsibility for the running of two companies at the same time.",
-                "translation": ""
+                "translation": "他们同时负责两家公司的运营。"
               }
             ]
           },
@@ -141390,7 +141390,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },

@@ -8686,13 +8686,13 @@
           {
             "id": "mailbox-noun-1",
             "definition": "a private box for delivery of mail",
-            "translation": "",
+            "translation": "私人信箱",
             "examples": []
           },
           {
             "id": "mailbox-noun-2",
             "definition": "public box for deposit of mail",
-            "translation": "",
+            "translation": "公共邮筒",
             "examples": []
           }
         ]
@@ -8700,8 +8700,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9239,7 +9239,7 @@
           {
             "id": "mainland-noun-1",
             "definition": "the main land mass of a country or continent",
-            "translation": "",
+            "translation": "大陆",
             "examples": []
           }
         ]
@@ -9247,8 +9247,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21932,7 +21932,7 @@
           {
             "id": "mankind-noun-1",
             "definition": "all of the living human inhabitants of the earth",
-            "translation": "",
+            "translation": "人类",
             "examples": []
           }
         ]
@@ -21940,8 +21940,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -25285,17 +25285,17 @@
           {
             "id": "maple-noun-1",
             "definition": "any of numerous trees or shrubs of the genus Acer bearing winged seeds in pairs",
-            "translation": "",
+            "translation": "枫树",
             "examples": []
           },
           {
             "id": "maple-noun-2",
             "definition": "wood of any of various maple trees",
-            "translation": "",
+            "translation": "枫木",
             "examples": [
               {
                 "text": "especially the hard close-grained wood of the sugar maple",
-                "translation": ""
+                "translation": "尤其是糖枫致密坚硬的木材"
               }
             ]
           }
@@ -25304,8 +25304,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -25959,22 +25959,22 @@
           {
             "id": "marathon-noun-1",
             "definition": "any long and arduous undertaking",
-            "translation": "",
+            "translation": "马拉松式的事件；艰巨任务",
             "examples": [
               {
                 "text": "Reading War and Peace was a marathon!",
-                "translation": ""
+                "translation": "读《战争与和平》是一场马拉松!"
               }
             ]
           },
           {
             "id": "marathon-noun-2",
             "definition": "a footrace of 26 miles and 385 yards",
-            "translation": "",
+            "translation": "马拉松赛跑",
             "examples": [
               {
                 "text": "I trained to run a marathon.",
-                "translation": ""
+                "translation": "我为跑马拉松而训练。"
               }
             ]
           }
@@ -25983,8 +25983,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -26223,19 +26223,19 @@
           {
             "id": "marble-noun-1",
             "definition": "a small ball of glass that is used in various games",
-            "translation": "",
+            "translation": "玻璃弹珠",
             "examples": []
           },
           {
             "id": "marble-noun-2",
             "definition": "a sculpture carved from marble",
-            "translation": "",
+            "translation": "大理石雕像",
             "examples": []
           },
           {
             "id": "marble-noun-3",
             "definition": "a hard crystalline metamorphic rock that takes a high polish",
-            "translation": "",
+            "translation": "大理石",
             "examples": []
           }
         ]
@@ -26259,7 +26259,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -37071,7 +37071,7 @@
           {
             "id": "mat-adjective-1",
             "definition": "not reflecting light",
-            "translation": "",
+            "translation": "不反光的；哑光的",
             "examples": []
           }
         ]
@@ -37082,41 +37082,41 @@
           {
             "id": "mat-noun-1",
             "definition": "a thick flat pad used as a floor covering",
-            "translation": "",
+            "translation": "地垫",
             "examples": []
           },
           {
             "id": "mat-noun-2",
             "definition": "sports equipment consisting of a piece of thick padding on the floor for gymnastic sports",
-            "translation": "",
+            "translation": "体操垫",
             "examples": []
           },
           {
             "id": "mat-noun-3",
             "definition": "a small pad of material that is used to protect surface from an object placed on it",
-            "translation": "",
+            "translation": "垫子",
             "examples": []
           },
           {
             "id": "mat-noun-4",
             "definition": "mounting consisting of a border or background for a picture",
-            "translation": "",
+            "translation": "画框衬边",
             "examples": []
           },
           {
             "id": "mat-noun-5",
             "definition": "the property of having little or no contrast",
-            "translation": "",
+            "translation": "无对比；暗淡",
             "examples": []
           },
           {
             "id": "mat-noun-6",
             "definition": "a mass that is densely tangled or interwoven",
-            "translation": "",
+            "translation": "缠结的一团",
             "examples": [
               {
                 "text": "a mat of weeds and grass",
-                "translation": ""
+                "translation": "一丛杂草"
               }
             ]
           }
@@ -37128,13 +37128,13 @@
           {
             "id": "mat-verb-1",
             "definition": "change texture so as to become matted and felt-like",
-            "translation": "",
+            "translation": "使缠结成毡",
             "examples": []
           },
           {
             "id": "mat-verb-2",
             "definition": "twist together or entwine into a confusing mass",
-            "translation": "",
+            "translation": "缠在一起",
             "examples": []
           }
         ]
@@ -37147,8 +37147,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -43333,7 +43333,7 @@
           {
             "id": "maybe-adverb-1",
             "definition": "by chance",
-            "translation": "",
+            "translation": "也许；大概",
             "examples": []
           }
         ]
@@ -43341,8 +43341,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -55494,17 +55494,17 @@
           {
             "id": "melon-noun-1",
             "definition": "any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh",
-            "translation": "",
+            "translation": "瓜类水果",
             "examples": []
           },
           {
             "id": "melon-noun-2",
             "definition": "any of various fruit of cucurbitaceous vines including: muskmelons",
-            "translation": "",
+            "translation": "甜瓜",
             "examples": [
               {
                 "text": "watermelons",
-                "translation": ""
+                "translation": "西瓜"
               }
             ]
           }
@@ -55513,8 +55513,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56870,19 +56870,19 @@
           {
             "id": "memorial-noun-1",
             "definition": "a structure erected to commemorate persons or events",
-            "translation": "",
+            "translation": "纪念碑",
             "examples": []
           },
           {
             "id": "memorial-noun-2",
             "definition": "a written statement of facts submitted in conjunction with a petition to an authority",
-            "translation": "",
+            "translation": "备忘录；请愿书",
             "examples": []
           },
           {
             "id": "memorial-noun-3",
             "definition": "a recognition of meritorious service",
-            "translation": "",
+            "translation": "表彰",
             "examples": []
           }
         ]
@@ -56899,8 +56899,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57242,7 +57242,7 @@
           {
             "id": "memorize-verb-1",
             "definition": "commit to memory",
-            "translation": "",
+            "translation": "记住；熟记",
             "examples": []
           }
         ]
@@ -57250,8 +57250,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57826,17 +57826,17 @@
           {
             "id": "mend-noun-1",
             "definition": "the act of putting something in working order again",
-            "translation": "",
+            "translation": "修补",
             "examples": []
           },
           {
             "id": "mend-noun-2",
             "definition": "sewing that repairs a worn or torn hole, especially in a garment",
-            "translation": "",
+            "translation": "补丁",
             "examples": [
               {
                 "text": "The stockings had several mends.",
-                "translation": ""
+                "translation": "这些长筒袜有几处补丁。"
               }
             ]
           }
@@ -57854,11 +57854,11 @@
           {
             "id": "mend-verb-2",
             "definition": "heal or recover",
-            "translation": "",
+            "translation": "愈合；恢复",
             "examples": [
               {
                 "text": "My broken leg is mending",
-                "translation": ""
+                "translation": "我骨折的腿正在愈合。"
               }
             ]
           }
@@ -57872,7 +57872,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -61171,22 +61171,22 @@
           {
             "id": "merciful-adjective-1",
             "definition": "(used conventionally of royalty and high nobility) gracious",
-            "translation": "",
+            "translation": "仁慈的（对君主的尊称）",
             "examples": [
               {
                 "text": "our merciful king",
-                "translation": ""
+                "translation": "我们仁慈的国王"
               }
             ]
           },
           {
             "id": "merciful-adjective-2",
             "definition": "showing or giving mercy",
-            "translation": "",
+            "translation": "宽大的；慈悲的",
             "examples": [
               {
                 "text": "sought merciful treatment for the captives",
-                "translation": ""
+                "translation": "为俘虏寻求宽大处理"
               }
             ]
           }
@@ -61195,8 +61195,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -66063,7 +66063,7 @@
           {
             "id": "messy-adjective-1",
             "definition": "dirty and disorderly",
-            "translation": "",
+            "translation": "脏乱的",
             "examples": []
           }
         ]
@@ -66071,8 +66071,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -71480,19 +71480,19 @@
           {
             "id": "metre-noun-1",
             "definition": "rhythm as given by division into parts of equal duration",
-            "translation": "",
+            "translation": "节拍",
             "examples": []
           },
           {
             "id": "metre-noun-2",
             "definition": "(prosody) the accent in a metrical foot of verse",
-            "translation": "",
+            "translation": "韵律",
             "examples": []
           },
           {
             "id": "metre-noun-3",
             "definition": "the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)",
-            "translation": "",
+            "translation": "米",
             "examples": []
           }
         ]
@@ -71500,8 +71500,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -74386,7 +74386,7 @@
           {
             "id": "microcomputer-noun-1",
             "definition": "a small digital computer based on a microprocessor and designed to be used by one person at a time",
-            "translation": "",
+            "translation": "微型计算机",
             "examples": []
           }
         ]
@@ -74399,8 +74399,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -76041,11 +76041,11 @@
           {
             "id": "microscope-noun-1",
             "definition": "magnifier of the image of small objects",
-            "translation": "",
+            "translation": "显微镜",
             "examples": [
               {
                 "text": "the invention of the microscope led to the discovery of the cell",
-                "translation": ""
+                "translation": "显微镜的发明带来了细胞的发现。"
               }
             ]
           }
@@ -76063,8 +76063,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -76702,17 +76702,17 @@
           {
             "id": "microwave-noun-1",
             "definition": "kitchen appliance that cooks food by passing an electromagnetic wave through it",
-            "translation": "",
+            "translation": "微波炉",
             "examples": []
           },
           {
             "id": "microwave-noun-2",
             "definition": "a short electromagnetic wave (longer than infrared but shorter than radio waves)",
-            "translation": "",
+            "translation": "微波",
             "examples": [
               {
                 "text": "used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
-                "translation": ""
+                "translation": "用于雷达、微波炉、电话、传真、视频和数据的传输"
               }
             ]
           }
@@ -76724,11 +76724,11 @@
           {
             "id": "microwave-verb-1",
             "definition": "cook or heat in a microwave oven",
-            "translation": "",
+            "translation": "用微波炉加热",
             "examples": [
               {
                 "text": "You can microwave the leftovers",
-                "translation": ""
+                "translation": "你可以用微波炉加热剩菜。"
               }
             ]
           }
@@ -76737,8 +76737,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -77019,7 +77019,7 @@
           {
             "id": "midday-noun-1",
             "definition": "the middle of the day",
-            "translation": "",
+            "translation": "正午",
             "examples": []
           }
         ]
@@ -77027,8 +77027,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -77105,17 +77105,17 @@
           {
             "id": "middle-adjective-1",
             "definition": "equally distant from the extremes",
-            "translation": "",
+            "translation": "中间的",
             "examples": []
           },
           {
             "id": "middle-adjective-2",
             "definition": "between an earlier and a later period of time",
-            "translation": "",
+            "translation": "中间的（时期）",
             "examples": [
               {
                 "text": "in the middle years",
-                "translation": ""
+                "translation": "在中年时期"
               }
             ]
           },
@@ -77128,7 +77128,7 @@
           {
             "id": "middle-adjective-4",
             "definition": "being neither at the beginning nor at the end in a series",
-            "translation": "",
+            "translation": "中间的",
             "examples": []
           }
         ]
@@ -77139,34 +77139,34 @@
           {
             "id": "middle-noun-1",
             "definition": "the middle area of the human torso (usually in front)",
-            "translation": "",
+            "translation": "身体中部",
             "examples": []
           },
           {
             "id": "middle-noun-2",
             "definition": "an intermediate part or section",
-            "translation": "",
+            "translation": "中间部分",
             "examples": [
               {
                 "text": "A whole is that which has beginning, middle, and end- Aristotle",
-                "translation": ""
+                "translation": "整体有开始、中间和结束——亚里士多德"
               }
             ]
           },
           {
             "id": "middle-noun-3",
             "definition": "an area that is approximately central within some larger region",
-            "translation": "",
+            "translation": "中部地区",
             "examples": []
           },
           {
             "id": "middle-noun-4",
             "definition": "time between the beginning and the end of a temporal period",
-            "translation": "",
+            "translation": "中段时间",
             "examples": [
               {
                 "text": "the middle of the war",
-                "translation": ""
+                "translation": "战争中期"
               }
             ]
           }
@@ -77178,7 +77178,7 @@
           {
             "id": "middle-verb-1",
             "definition": "put in the middle",
-            "translation": "",
+            "translation": "置于中间",
             "examples": []
           }
         ]
@@ -77191,7 +77191,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -83187,7 +83187,7 @@
           {
             "id": "million-adjective-1",
             "definition": "(in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units",
-            "translation": "",
+            "translation": "一百万的",
             "examples": []
           }
         ]
@@ -83198,17 +83198,17 @@
           {
             "id": "million-noun-1",
             "definition": "the number that is represented as a one followed by 6 zeros",
-            "translation": "",
+            "translation": "一百万",
             "examples": []
           },
           {
             "id": "million-noun-2",
             "definition": "a very large indefinite number (usually hyperbole)",
-            "translation": "",
+            "translation": "许多；无数",
             "examples": [
               {
                 "text": "there were millions of flies",
-                "translation": ""
+                "translation": "有成千上万只苍蝇"
               }
             ]
           }
@@ -83217,8 +83217,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -83246,7 +83246,7 @@
           {
             "id": "millionaire-noun-1",
             "definition": "a person whose material wealth is valued at more than a million dollars",
-            "translation": "",
+            "translation": "百万富翁",
             "examples": []
           }
         ]
@@ -83254,8 +83254,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -86895,7 +86895,7 @@
           {
             "id": "minibus-noun-1",
             "definition": "a light bus (4 to 10 passengers)",
-            "translation": "",
+            "translation": "小型公共汽车",
             "examples": []
           }
         ]
@@ -86903,8 +86903,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -87753,7 +87753,7 @@
           {
             "id": "miniskirt-noun-1",
             "definition": "a very short skirt",
-            "translation": "",
+            "translation": "超短裙",
             "examples": []
           }
         ]
@@ -87761,8 +87761,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -89192,22 +89192,22 @@
           {
             "id": "minus-adjective-1",
             "definition": "involving disadvantage or harm",
-            "translation": "",
+            "translation": "负面的；不利的",
             "examples": [
               {
                 "text": "minus (or negative) factors",
-                "translation": ""
+                "translation": "负面(或消极)因素"
               }
             ]
           },
           {
             "id": "minus-adjective-2",
             "definition": "on the negative side or lower end of a scale",
-            "translation": "",
+            "translation": "负的；零下的",
             "examples": [
               {
                 "text": "minus 5 degrees",
-                "translation": ""
+                "translation": "零下5度"
               }
             ]
           }
@@ -89219,7 +89219,7 @@
           {
             "id": "minus-noun-1",
             "definition": "an arithmetic operation in which the difference between two numbers is calculated",
-            "translation": "",
+            "translation": "减法",
             "examples": []
           }
         ]
@@ -89227,8 +89227,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -97710,7 +97710,7 @@
           {
             "id": "mist-noun-1",
             "definition": "a thin fog with condensation near the ground",
-            "translation": "",
+            "translation": "薄雾",
             "examples": []
           }
         ]
@@ -97721,18 +97721,18 @@
           {
             "id": "mist-verb-1",
             "definition": "become covered with mist",
-            "translation": "",
+            "translation": "起雾",
             "examples": [
               {
                 "text": "The windshield misted over",
-                "translation": ""
+                "translation": "挡风玻璃上起了雾。"
               }
             ]
           },
           {
             "id": "mist-verb-2",
             "definition": "spray finely or cover with mist",
-            "translation": "",
+            "translation": "喷雾",
             "examples": []
           },
           {
@@ -97751,7 +97751,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -97925,13 +97925,13 @@
           {
             "id": "mistaken-adjective-1",
             "definition": "arising from error",
-            "translation": "",
+            "translation": "错误的",
             "examples": []
           },
           {
             "id": "mistaken-adjective-2",
             "definition": "wrong in e.g. opinion or judgment",
-            "translation": "",
+            "translation": "弄错的",
             "examples": []
           }
         ]
@@ -97939,8 +97939,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -100810,7 +100810,7 @@
           {
             "id": "mm-noun-1",
             "definition": "a metric unit of length equal to one thousandth of a meter",
-            "translation": "",
+            "translation": "毫米",
             "examples": []
           }
         ]
@@ -100818,8 +100818,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -101420,45 +101420,45 @@
           {
             "id": "mobile-adjective-1",
             "definition": "affording change (especially in social status)",
-            "translation": "",
+            "translation": "可流动的（社会地位）",
             "examples": []
           },
           {
             "id": "mobile-adjective-2",
             "definition": "capable of changing quickly from one state or condition to another",
-            "translation": "",
+            "translation": "多变的",
             "examples": [
               {
                 "text": "a highly mobile face",
-                "translation": ""
+                "translation": "一张表情多变的脸"
               }
             ]
           },
           {
             "id": "mobile-adjective-3",
             "definition": "moving or capable of moving readily (especially from place to place)",
-            "translation": "",
+            "translation": "移动的；流动的",
             "examples": [
               {
                 "text": "a mobile missile system",
-                "translation": ""
+                "translation": "机动导弹系统"
               }
             ]
           },
           {
             "id": "mobile-adjective-4",
             "definition": "having transportation available",
-            "translation": "",
+            "translation": "有交通工具的",
             "examples": []
           },
           {
             "id": "mobile-adjective-5",
             "definition": "migratory",
-            "translation": "",
+            "translation": "流动的；迁徙的",
             "examples": [
               {
                 "text": "a restless mobile society",
-                "translation": ""
+                "translation": "一个不安定的流动社会"
               }
             ]
           }
@@ -101470,7 +101470,7 @@
           {
             "id": "mobile-noun-1",
             "definition": "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents",
-            "translation": "",
+            "translation": "风动艺术雕塑",
             "examples": []
           }
         ]
@@ -101478,8 +101478,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -103021,7 +103021,7 @@
           {
             "id": "modem-noun-1",
             "definition": "(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line",
-            "translation": "",
+            "translation": "调制解调器",
             "examples": []
           }
         ]
@@ -103029,8 +103029,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -110043,11 +110043,11 @@
           {
             "id": "money-noun-1",
             "definition": "wealth in terms of accessible currency",
-            "translation": "",
+            "translation": "钱财",
             "examples": [
               {
                 "text": "All my money is in real estate.",
-                "translation": ""
+                "translation": "我的钱都投在房地产里了。"
               }
             ]
           },
@@ -110060,11 +110060,11 @@
           {
             "id": "money-noun-3",
             "definition": "the official currency issued by a government or national bank",
-            "translation": "",
+            "translation": "货币",
             "examples": [
               {
                 "text": "Everytime I travel, I find it really interesting to look at all the things on different countries' money.",
-                "translation": ""
+                "translation": "每次旅行我都觉得看看不同国家货币上的东西很有意思。"
               }
             ]
           }
@@ -110166,7 +110166,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -116781,19 +116781,19 @@
           {
             "id": "monument-noun-1",
             "definition": "a structure erected to commemorate persons or events",
-            "translation": "",
+            "translation": "纪念碑",
             "examples": []
           },
           {
             "id": "monument-noun-2",
             "definition": "a burial vault (usually for some famous person)",
-            "translation": "",
+            "translation": "陵墓",
             "examples": []
           },
           {
             "id": "monument-noun-3",
             "definition": "an important site that is marked and preserved as public property",
-            "translation": "",
+            "translation": "历史遗址",
             "examples": []
           }
         ]
@@ -116801,8 +116801,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -118758,7 +118758,7 @@
           {
             "id": "mop-noun-1",
             "definition": "cleaning implement consisting of absorbent material fastened to a handle",
-            "translation": "",
+            "translation": "拖把",
             "examples": []
           }
         ]
@@ -118780,7 +118780,7 @@
           {
             "id": "mop-verb-2",
             "definition": "to wash or wipe with or as if with a mop",
-            "translation": "",
+            "translation": "用拖把擦洗",
             "examples": []
           }
         ]
@@ -118805,7 +118805,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -123390,7 +123390,7 @@
           {
             "id": "mosquito-noun-1",
             "definition": "two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals",
-            "translation": "",
+            "translation": "蚊子",
             "examples": []
           }
         ]
@@ -123398,8 +123398,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -124182,7 +124182,7 @@
           {
             "id": "motherland-noun-1",
             "definition": "the country where you were born",
-            "translation": "",
+            "translation": "祖国",
             "examples": []
           }
         ]
@@ -124190,8 +124190,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -125732,7 +125732,7 @@
           {
             "id": "motorbike-noun-1",
             "definition": "small motorcycle with a low frame and small wheels and elevated handlebars",
-            "translation": "",
+            "translation": "摩托车",
             "examples": []
           }
         ]
@@ -125743,7 +125743,7 @@
           {
             "id": "motorbike-verb-1",
             "definition": "ride a motorcycle",
-            "translation": "",
+            "translation": "骑摩托车",
             "examples": []
           }
         ]
@@ -125751,8 +125751,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -125965,7 +125965,7 @@
           {
             "id": "motorcycle-noun-1",
             "definition": "a motor vehicle with two wheels and a strong frame",
-            "translation": "",
+            "translation": "摩托车",
             "examples": []
           }
         ]
@@ -125976,7 +125976,7 @@
           {
             "id": "motorcycle-verb-1",
             "definition": "ride a motorcycle",
-            "translation": "",
+            "translation": "骑摩托车",
             "examples": []
           }
         ]
@@ -125989,8 +125989,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -126802,7 +126802,7 @@
           {
             "id": "motto-noun-1",
             "definition": "a favorite saying of a sect or political group",
-            "translation": "",
+            "translation": "箴言；座右铭",
             "examples": []
           }
         ]
@@ -126810,8 +126810,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -127817,24 +127817,24 @@
           {
             "id": "mountainous-adjective-1",
             "definition": "containing many mountains",
-            "translation": "",
+            "translation": "多山的",
             "examples": []
           },
           {
             "id": "mountainous-adjective-2",
             "definition": "like a mountain in size and impressiveness",
-            "translation": "",
+            "translation": "巨大的",
             "examples": [
               {
                 "text": "mountainous waves",
-                "translation": ""
+                "translation": "巨浪"
               }
             ]
           },
           {
             "id": "mountainous-adjective-3",
             "definition": "having hills and crags",
-            "translation": "",
+            "translation": "崎岖的",
             "examples": []
           }
         ]
@@ -127842,8 +127842,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -128124,11 +128124,11 @@
           {
             "id": "mourn-verb-1",
             "definition": "feel sadness",
-            "translation": "",
+            "translation": "哀悼",
             "examples": [
               {
                 "text": "They mourn for their dead child.",
-                "translation": ""
+                "translation": "他们为死去的孩子哀悼。"
               }
             ]
           },
@@ -128148,7 +128148,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -128796,11 +128796,11 @@
           {
             "id": "moustache-noun-1",
             "definition": "an unshaved growth of hair on the upper lip",
-            "translation": "",
+            "translation": "小胡子",
             "examples": [
               {
                 "text": "They looked younger after they shaved off their mustache.",
-                "translation": ""
+                "translation": "他们剃掉胡子后看起来年轻了。"
               }
             ]
           }
@@ -128809,8 +128809,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -129125,13 +129125,13 @@
           {
             "id": "mouthful-noun-1",
             "definition": "a small amount eaten or drunk",
-            "translation": "",
+            "translation": "一口",
             "examples": []
           },
           {
             "id": "mouthful-noun-2",
             "definition": "the quantity that can be held in the mouth",
-            "translation": "",
+            "translation": "满口之量",
             "examples": []
           }
         ]
@@ -129139,8 +129139,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -131175,7 +131175,7 @@
           {
             "id": "ms.-noun-1",
             "definition": "a form of address for a woman",
-            "translation": "",
+            "translation": "女士",
             "examples": []
           }
         ]
@@ -131183,8 +131183,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -132615,13 +132615,13 @@
           {
             "id": "mud-noun-1",
             "definition": "slanderous remarks or charges",
-            "translation": "",
+            "translation": "诽谤；污蔑",
             "examples": []
           },
           {
             "id": "mud-noun-2",
             "definition": "water soaked soil",
-            "translation": "",
+            "translation": "泥",
             "examples": []
           }
         ]
@@ -132632,13 +132632,13 @@
           {
             "id": "mud-verb-1",
             "definition": "plaster with mud",
-            "translation": "",
+            "translation": "抹泥；涂泥",
             "examples": []
           },
           {
             "id": "mud-verb-2",
             "definition": "soil with mud, muck, or mire",
-            "translation": "",
+            "translation": "使沾上泥",
             "examples": []
           }
         ]
@@ -132659,8 +132659,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -133040,25 +133040,25 @@
           {
             "id": "muddy-adjective-1",
             "definition": "dirty and messy",
-            "translation": "",
+            "translation": "脏乱的",
             "examples": []
           },
           {
             "id": "muddy-adjective-2",
             "definition": "(of liquids) clouded as with sediment",
-            "translation": "",
+            "translation": "浑浊的",
             "examples": []
           },
           {
             "id": "muddy-adjective-3",
             "definition": "(of color) discolored by impurities",
-            "translation": "",
+            "translation": "污浊的（颜色）",
             "examples": []
           },
           {
             "id": "muddy-adjective-4",
             "definition": "(of soil) soft and watery",
-            "translation": "",
+            "translation": "泥泞的",
             "examples": []
           }
         ]
@@ -133080,13 +133080,13 @@
           {
             "id": "muddy-verb-2",
             "definition": "cause to become muddy",
-            "translation": "",
+            "translation": "使浑浊",
             "examples": []
           },
           {
             "id": "muddy-verb-3",
             "definition": "dirty with mud",
-            "translation": "",
+            "translation": "弄脏",
             "examples": []
           }
         ]
@@ -133099,7 +133099,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -136877,7 +136877,7 @@
           {
             "id": "multiply-adverb-1",
             "definition": "in several ways",
-            "translation": "",
+            "translation": "多方面地",
             "examples": []
           }
         ]
@@ -136894,28 +136894,28 @@
           {
             "id": "multiply-verb-2",
             "definition": "have young (animals) or reproduce (organisms)",
-            "translation": "",
+            "translation": "繁殖",
             "examples": []
           },
           {
             "id": "multiply-verb-3",
             "definition": "combine or increase by multiplication",
-            "translation": "",
+            "translation": "成倍增加",
             "examples": [
               {
                 "text": "I managed to multiply my profits.",
-                "translation": ""
+                "translation": "我设法使利润成倍增长。"
               }
             ]
           },
           {
             "id": "multiply-verb-4",
             "definition": "combine by multiplication",
-            "translation": "",
+            "translation": "相乘",
             "examples": [
               {
                 "text": "multiply 10 by 15",
-                "translation": ""
+                "translation": "10乘以15"
               }
             ]
           }
@@ -136937,7 +136937,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -141152,31 +141152,31 @@
           {
             "id": "mushroom-noun-1",
             "definition": "fleshy body of any of numerous edible fungi",
-            "translation": "",
+            "translation": "蘑菇",
             "examples": []
           },
           {
             "id": "mushroom-noun-2",
             "definition": "a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)",
-            "translation": "",
+            "translation": "蘑菇云",
             "examples": []
           },
           {
             "id": "mushroom-noun-3",
             "definition": "any of various fleshy fungi of the subdivision Basidiomycota consisting of a cap at the end of a stem arising from an underground mycelium",
-            "translation": "",
+            "translation": "真菌",
             "examples": []
           },
           {
             "id": "mushroom-noun-4",
             "definition": "mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)",
-            "translation": "",
+            "translation": "蕈类",
             "examples": []
           },
           {
             "id": "mushroom-noun-5",
             "definition": "common name for an edible agaric (contrasting with the inedible toadstool)",
-            "translation": "",
+            "translation": "食用蘑菇",
             "examples": []
           }
         ]
@@ -141187,22 +141187,22 @@
           {
             "id": "mushroom-verb-1",
             "definition": "grow and spread fast",
-            "translation": "",
+            "translation": "迅速增长",
             "examples": [
               {
                 "text": "The problem mushroomed",
-                "translation": ""
+                "translation": "问题迅速扩大了。"
               }
             ]
           },
           {
             "id": "mushroom-verb-2",
             "definition": "pick or gather mushrooms",
-            "translation": "",
+            "translation": "采蘑菇",
             "examples": [
               {
                 "text": "We went mushrooming in the Fall",
-                "translation": ""
+                "translation": "我们秋天去采蘑菇。"
               }
             ]
           }
@@ -141211,8 +141211,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -142932,19 +142932,19 @@
           {
             "id": "mustard-noun-1",
             "definition": "leaves eaten as cooked greens",
-            "translation": "",
+            "translation": "芥菜叶",
             "examples": []
           },
           {
             "id": "mustard-noun-2",
             "definition": "pungent powder or paste prepared from ground mustard seeds",
-            "translation": "",
+            "translation": "芥末",
             "examples": []
           },
           {
             "id": "mustard-noun-3",
             "definition": "any of several cruciferous plants of the genus Brassica",
-            "translation": "",
+            "translation": "芥菜",
             "examples": []
           }
         ]
@@ -142952,8 +142952,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

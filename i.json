@@ -24,7 +24,7 @@
           {
             "id": "i-adjective-1",
             "definition": "used of a single unit or thing",
-            "translation": "I",
+            "translation": "单个的；一个的",
             "examples": []
           }
         ]
@@ -43,7 +43,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -3584,35 +3584,35 @@
           {
             "id": "identification-noun-1",
             "definition": "the act of designating or identifying something",
-            "translation": "",
+            "translation": "识别；辨认",
             "examples": []
           },
           {
             "id": "identification-noun-2",
             "definition": "the attribution to yourself (consciously or unconsciously) of the characteristics of another person (or group of persons)",
-            "translation": "",
+            "translation": "认同；身份认同",
             "examples": []
           },
           {
             "id": "identification-noun-3",
             "definition": "the process of recognizing something or someone by remembering",
-            "translation": "",
+            "translation": "认出；识别",
             "examples": []
           },
           {
             "id": "identification-noun-4",
             "definition": "evidence of identity",
-            "translation": "",
+            "translation": "身份证明",
             "examples": []
           },
           {
             "id": "identification-noun-5",
             "definition": "the condition of having the identity established",
-            "translation": "",
+            "translation": "身份被确认的状态",
             "examples": [
               {
                 "text": "The thief's identification was followed quickly by their arrest.",
-                "translation": ""
+                "translation": "小偷的身份被确认后很快就逮捕了他们。"
               }
             ]
           }
@@ -3658,8 +3658,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -4562,28 +4562,28 @@
           {
             "id": "idiom-noun-1",
             "definition": "the style of a particular artist or school or movement",
-            "translation": "",
+            "translation": "风格；特色",
             "examples": [
               {
                 "text": "an imaginative orchestral idiom",
-                "translation": ""
+                "translation": "富有想象力的管弦乐风格"
               }
             ]
           },
           {
             "id": "idiom-noun-2",
             "definition": "a manner of speaking that is natural to native speakers of a language",
-            "translation": "",
+            "translation": "惯用语；语言习惯",
             "examples": []
           },
           {
             "id": "idiom-noun-3",
             "definition": "an expression whose meaning cannot be inferred from the meanings of the words that make it up",
-            "translation": "",
+            "translation": "成语；习语",
             "examples": [
               {
                 "text": "The English language is full of interesting idioms. ",
-                "translation": ""
+                "translation": "英语里有大量有趣的习语。"
               }
             ]
           },
@@ -4598,8 +4598,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29116,24 +29116,24 @@
           {
             "id": "in-adjective-1",
             "definition": "holding office",
-            "translation": "",
+            "translation": "在位的；当权的",
             "examples": []
           },
           {
             "id": "in-adjective-2",
             "definition": "currently fashionable",
-            "translation": "",
+            "translation": "流行的；时髦的",
             "examples": [
               {
                 "text": "the in thing to do",
-                "translation": ""
+                "translation": "流行的做法"
               }
             ]
           },
           {
             "id": "in-adjective-3",
             "definition": "directed or bound inward",
-            "translation": "",
+            "translation": "向内的",
             "examples": []
           }
         ]
@@ -29144,7 +29144,7 @@
           {
             "id": "in-adverb-1",
             "definition": "to or toward the inside of",
-            "translation": "",
+            "translation": "向里面；进入",
             "examples": []
           }
         ]
@@ -29155,7 +29155,7 @@
           {
             "id": "in-noun-1",
             "definition": "a unit of length equal to one twelfth of a foot",
-            "translation": "",
+            "translation": "英寸",
             "examples": []
           }
         ]
@@ -29260,8 +29260,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -40128,13 +40128,13 @@
           {
             "id": "incorrect-adjective-3",
             "definition": "(of a word or expression) not agreeing with grammatical principles",
-            "translation": "",
+            "translation": "不合语法的",
             "examples": []
           },
           {
             "id": "incorrect-adjective-4",
             "definition": "not in accord with established usage or procedure",
-            "translation": "",
+            "translation": "不符合惯例的",
             "examples": []
           }
         ]
@@ -40142,7 +40142,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -67201,13 +67201,13 @@
           {
             "id": "ink-noun-1",
             "definition": "dark protective fluid ejected into the water by cuttlefish and other cephalopods",
-            "translation": "",
+            "translation": "墨汁；墨",
             "examples": []
           },
           {
             "id": "ink-noun-2",
             "definition": "a liquid used for printing or writing or drawing",
-            "translation": "",
+            "translation": "墨水；油墨",
             "examples": []
           }
         ]
@@ -67218,33 +67218,33 @@
           {
             "id": "ink-verb-1",
             "definition": "fill with ink",
-            "translation": "",
+            "translation": "给…上墨",
             "examples": [
               {
                 "text": "ink a pen",
-                "translation": ""
+                "translation": "给钢笔上墨"
               }
             ]
           },
           {
             "id": "ink-verb-2",
             "definition": "mark, coat, cover, or stain with ink",
-            "translation": "",
+            "translation": "用墨水标记；涂墨",
             "examples": [
               {
                 "text": "They inked their finger.",
-                "translation": ""
+                "translation": "他们用墨水把手指染了。"
               }
             ]
           },
           {
             "id": "ink-verb-3",
             "definition": "append one's signature to",
-            "translation": "",
+            "translation": "签署；签字于",
             "examples": [
               {
                 "text": "They inked the contract",
-                "translation": ""
+                "translation": "他们在合同上签了字。"
               }
             ]
           }
@@ -67270,8 +67270,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -67685,7 +67685,7 @@
           {
             "id": "inland-adjective-1",
             "definition": "situated away from an area's coast or border",
-            "translation": "",
+            "translation": "内地的；内陆的",
             "examples": []
           }
         ]
@@ -67696,11 +67696,11 @@
           {
             "id": "inland-adverb-1",
             "definition": "towards or into the interior of a region",
-            "translation": "",
+            "translation": "向内地；向内陆",
             "examples": [
               {
                 "text": "the town is five miles inland",
-                "translation": ""
+                "translation": "那个镇在内陆五英里处。"
               }
             ]
           }
@@ -67709,8 +67709,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -67995,7 +67995,7 @@
           {
             "id": "inn-noun-1",
             "definition": "a hotel providing overnight lodging for travelers",
-            "translation": "",
+            "translation": "旅馆；客栈",
             "examples": []
           }
         ]
@@ -68003,8 +68003,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -91641,30 +91641,30 @@
           {
             "id": "interpreter-noun-1",
             "definition": "(computer science) a program that translates and executes source language statements one line at a time",
-            "translation": "",
+            "translation": "解释程序；直译器",
             "examples": []
           },
           {
             "id": "interpreter-noun-2",
             "definition": "someone who mediates between speakers of different languages",
-            "translation": "",
+            "translation": "口译员；翻译者",
             "examples": []
           },
           {
             "id": "interpreter-noun-3",
             "definition": "someone who uses art to represent something",
-            "translation": "",
+            "translation": "诠释者；演绎者",
             "examples": [
               {
                 "text": "The paintings show the artist to be a sensitive interpreter of nature.",
-                "translation": ""
+                "translation": "这些画显示出这位艺术家是位敏感的自然的诠释者。"
               }
             ]
           },
           {
             "id": "interpreter-noun-4",
             "definition": "an advocate who represents someone else's policy or purpose",
-            "translation": "",
+            "translation": "代言人；解释者",
             "examples": []
           }
         ]
@@ -91672,8 +91672,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -111638,18 +111638,18 @@
           {
             "id": "irrigate-verb-1",
             "definition": "supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting",
-            "translation": "",
+            "translation": "冲洗；灌注",
             "examples": [
               {
                 "text": "irrigate the wound",
-                "translation": ""
+                "translation": "冲洗伤口"
               }
             ]
           },
           {
             "id": "irrigate-verb-2",
             "definition": "supply with water, as with channels or ditches or streams",
-            "translation": "",
+            "translation": "灌溉",
             "examples": []
           }
         ]
@@ -111657,8 +111657,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -111686,13 +111686,13 @@
           {
             "id": "irrigation-noun-1",
             "definition": "(medicine) cleaning a wound or body organ by flushing or washing out with water or a medicated solution",
-            "translation": "",
+            "translation": "冲洗；灌洗",
             "examples": []
           },
           {
             "id": "irrigation-noun-2",
             "definition": "supplying dry land with water by means of ditches etc",
-            "translation": "",
+            "translation": "灌溉",
             "examples": []
           }
         ]
@@ -111757,8 +111757,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

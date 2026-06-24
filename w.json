@@ -873,13 +873,13 @@
           {
             "id": "wag-noun-1",
             "definition": "causing to move repeatedly from side to side",
-            "translation": "",
+            "translation": "摇摆；摇动",
             "examples": []
           },
           {
             "id": "wag-noun-2",
             "definition": "a witty amusing person who makes jokes",
-            "translation": "",
+            "translation": "诙谐的人；爱说笑的人",
             "examples": []
           }
         ]
@@ -890,11 +890,11 @@
           {
             "id": "wag-verb-1",
             "definition": "move from side to side",
-            "translation": "",
+            "translation": "摇摆",
             "examples": [
               {
                 "text": "The happy dog wagged its tail.",
-                "translation": ""
+                "translation": "那只快乐的狗摇着尾巴。"
               }
             ]
           }
@@ -908,8 +908,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -2726,7 +2726,7 @@
           {
             "id": "waitress-verb-1",
             "definition": "serve as a waiter or waitress in a restaurant",
-            "translation": "",
+            "translation": "当女服务员",
             "examples": []
           }
         ]
@@ -2734,7 +2734,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -4182,7 +4182,7 @@
           {
             "id": "walkman-noun-1",
             "definition": "(trademark) a pocket-sized stereo system with light weight earphones",
-            "translation": "",
+            "translation": "随身听",
             "examples": []
           }
         ]
@@ -4190,8 +4190,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -5175,19 +5175,19 @@
           {
             "id": "walnut-noun-1",
             "definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell",
-            "translation": "",
+            "translation": "核桃",
             "examples": []
           },
           {
             "id": "walnut-noun-2",
             "definition": "any of various trees of the genus Juglans",
-            "translation": "",
+            "translation": "核桃树",
             "examples": []
           },
           {
             "id": "walnut-noun-3",
             "definition": "hard dark-brown wood of any of various walnut trees",
-            "translation": "",
+            "translation": "核桃木",
             "examples": []
           }
         ]
@@ -5195,8 +5195,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -7731,7 +7731,7 @@
           {
             "id": "warehouse-noun-1",
             "definition": "a storehouse for goods and merchandise",
-            "translation": "",
+            "translation": "仓库",
             "examples": []
           }
         ]
@@ -7742,7 +7742,7 @@
           {
             "id": "warehouse-verb-1",
             "definition": "store in a warehouse",
-            "translation": "",
+            "translation": "把…存入仓库",
             "examples": []
           }
         ]
@@ -7759,8 +7759,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -11337,7 +11337,7 @@
           {
             "id": "washroom-noun-1",
             "definition": "a lavatory (particularly a lavatory in a public place)",
-            "translation": "",
+            "translation": "公共洗手间",
             "examples": []
           }
         ]
@@ -11345,8 +11345,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -14607,13 +14607,13 @@
           {
             "id": "watermelon-noun-1",
             "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp",
-            "translation": "",
+            "translation": "西瓜",
             "examples": []
           },
           {
             "id": "watermelon-noun-2",
             "definition": "an African melon",
-            "translation": "",
+            "translation": "西瓜植株",
             "examples": []
           }
         ]
@@ -14621,8 +14621,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -16478,7 +16478,7 @@
           {
             "id": "wax-noun-1",
             "definition": "any of various substances of either mineral origin or plant or animal origin",
-            "translation": "",
+            "translation": "蜡；蜡状物",
             "examples": []
           }
         ]
@@ -16489,28 +16489,28 @@
           {
             "id": "wax-verb-1",
             "definition": "go up or advance",
-            "translation": "",
+            "translation": "增加；变大",
             "examples": []
           },
           {
             "id": "wax-verb-2",
             "definition": "increase in phase",
-            "translation": "",
+            "translation": "渐增；渐圆（月相）",
             "examples": [
               {
                 "text": "the moon is waxing",
-                "translation": ""
+                "translation": "月亮正渐渐变圆。"
               }
             ]
           },
           {
             "id": "wax-verb-3",
             "definition": "cover with wax",
-            "translation": "",
+            "translation": "给…打蜡",
             "examples": [
               {
                 "text": "wax the car",
-                "translation": ""
+                "translation": "给汽车打蜡"
               }
             ]
           }
@@ -16519,8 +16519,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17046,7 +17046,7 @@
           {
             "id": "way-adverb-1",
             "definition": "to a great degree or by a great distance",
-            "translation": "",
+            "translation": "远远地；大大地",
             "examples": []
           }
         ]
@@ -17063,91 +17063,91 @@
           {
             "id": "way-noun-2",
             "definition": "a journey or passage",
-            "translation": "",
+            "translation": "旅程；行程",
             "examples": [
               {
                 "text": "they are on the way",
-                "translation": ""
+                "translation": "他们在路上。"
               }
             ]
           },
           {
             "id": "way-noun-3",
             "definition": "a course of conduct",
-            "translation": "",
+            "translation": "行为方式",
             "examples": []
           },
           {
             "id": "way-noun-4",
             "definition": "a road or path affording passage from one place to another",
-            "translation": "",
+            "translation": "道路；路径",
             "examples": [
               {
                 "text": "We were just looking for the way out.",
-                "translation": ""
+                "translation": "我们只是在找出口。"
               }
             ]
           },
           {
             "id": "way-noun-5",
             "definition": "how something is done or how it happens",
-            "translation": "",
+            "translation": "方式；方法",
             "examples": []
           },
           {
             "id": "way-noun-6",
             "definition": "the property of distance in general",
-            "translation": "",
+            "translation": "距离",
             "examples": [
               {
                 "text": "it's a long way to Moscow",
-                "translation": ""
+                "translation": "去莫斯科路很远。"
               }
             ]
           },
           {
             "id": "way-noun-7",
             "definition": "doing as one pleases or chooses",
-            "translation": "",
+            "translation": "随意；任意",
             "examples": [
               {
                 "text": "if I had my way",
-                "translation": ""
+                "translation": "如果照我的意思"
               }
             ]
           },
           {
             "id": "way-noun-8",
             "definition": "a general category of things",
-            "translation": "",
+            "translation": "种类；类别",
             "examples": [
               {
                 "text": "used in the expression `in the way of'",
-                "translation": ""
+                "translation": "用在'关于…的'这个短语中"
               }
             ]
           },
           {
             "id": "way-noun-9",
             "definition": "a line leading to a place or point",
-            "translation": "",
+            "translation": "通往某处的路",
             "examples": []
           },
           {
             "id": "way-noun-10",
             "definition": "a portion of something divided into shares",
-            "translation": "",
+            "translation": "份额",
             "examples": [
               {
                 "text": "they split the loot three ways",
-                "translation": ""
+                "translation": "他们把赃物分成三份。"
               }
             ]
           },
           {
             "id": "way-noun-11",
             "definition": "space for movement",
-            "translation": "",
+            "translation": "活动空间",
             "examples": []
           },
           {
@@ -17223,7 +17223,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -17447,11 +17447,11 @@
           {
             "id": "wayside-noun-1",
             "definition": "edge of a way or road or path",
-            "translation": "",
+            "translation": "路边",
             "examples": [
               {
                 "text": "The flowers along the wayside have bloomed with the recent rains.",
-                "translation": ""
+                "translation": "路边的花最近下了雨就开了。"
               }
             ]
           }
@@ -17469,8 +17469,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17530,22 +17530,22 @@
           {
             "id": "we-pronoun-1",
             "definition": "first person singular pronoun, for a monarch or person of high status",
-            "translation": "",
+            "translation": "朕；我（君主自称）",
             "examples": [
               {
                 "text": "We welcome you to the royal banquet, even though I'm just a singular Queen.",
-                "translation": ""
+                "translation": "朕欢迎您出席皇家宴会,虽然我只是一人之下万人之上的女王。"
               }
             ]
           },
           {
             "id": "we-pronoun-2",
             "definition": "first person plural, typically",
-            "translation": "",
+            "translation": "我们",
             "examples": [
               {
                 "text": "We are glad you are here, because there is more than one of us.",
-                "translation": ""
+                "translation": "我们很高兴您能来,因为我们不止一人。"
               }
             ]
           }
@@ -17557,11 +17557,11 @@
           {
             "id": "we-verb-1",
             "definition": "to be, plural; replaceable with 'we are' or 'we be'",
-            "translation": "",
+            "translation": "是（我们）",
             "examples": [
               {
                 "text": "We working.",
-                "translation": ""
+                "translation": "我们在干活了。"
               }
             ]
           }
@@ -17570,8 +17570,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -19883,7 +19883,7 @@
           {
             "id": "weatherman-noun-1",
             "definition": "predicts the weather",
-            "translation": "",
+            "translation": "气象员；天气预报员",
             "examples": []
           }
         ]
@@ -19891,8 +19891,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -20741,7 +20741,7 @@
           {
             "id": "website-noun-1",
             "definition": "a computer connected to the internet that maintains a series of web pages on the World Wide Web",
-            "translation": "",
+            "translation": "网站",
             "examples": []
           }
         ]
@@ -20749,8 +20749,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21724,7 +21724,7 @@
           {
             "id": "weekday-noun-1",
             "definition": "any day except Sunday (and sometimes except Saturday)",
-            "translation": "",
+            "translation": "工作日；平日",
             "examples": []
           }
         ]
@@ -21732,8 +21732,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -22136,7 +22136,7 @@
           {
             "id": "weep-verb-1",
             "definition": "shed tears because of sadness, rage, or pain",
-            "translation": "",
+            "translation": "哭泣",
             "examples": []
           }
         ]
@@ -22173,8 +22173,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -26206,7 +26206,7 @@
           {
             "id": "westerner-noun-1",
             "definition": "an inhabitant of a western area",
-            "translation": "",
+            "translation": "西方人",
             "examples": []
           }
         ]
@@ -26214,8 +26214,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -26562,7 +26562,7 @@
           {
             "id": "westwards-adverb-1",
             "definition": "toward the west",
-            "translation": "",
+            "translation": "向西",
             "examples": []
           }
         ]
@@ -26570,8 +26570,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -28154,19 +28154,19 @@
           {
             "id": "wheat-noun-1",
             "definition": "a variable yellow tint",
-            "translation": "",
+            "translation": "淡黄色",
             "examples": []
           },
           {
             "id": "wheat-noun-2",
             "definition": "grains of common wheat",
-            "translation": "",
+            "translation": "小麦粒",
             "examples": []
           },
           {
             "id": "wheat-noun-3",
             "definition": "annual or biennial grass having erect flower spikes and light brown grains",
-            "translation": "",
+            "translation": "小麦",
             "examples": []
           }
         ]
@@ -28174,8 +28174,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29577,7 +29577,7 @@
           {
             "id": "wherever-adverb-1",
             "definition": "where in the world",
-            "translation": "",
+            "translation": "无论哪里",
             "examples": []
           }
         ]
@@ -29585,8 +29585,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32871,36 +32871,36 @@
           {
             "id": "whistle-noun-1",
             "definition": "an inexpensive fipple flute",
-            "translation": "",
+            "translation": "哨子",
             "examples": []
           },
           {
             "id": "whistle-noun-2",
             "definition": "acoustic device that forces air or steam against an edge or into a cavity and so produces a loud shrill sound",
-            "translation": "",
+            "translation": "汽笛；鸣笛",
             "examples": []
           },
           {
             "id": "whistle-noun-3",
             "definition": "a small wind instrument that produces a whistling sound by blowing into it",
-            "translation": "",
+            "translation": "口哨",
             "examples": []
           },
           {
             "id": "whistle-noun-4",
             "definition": "the act of signalling or summoning by whistling or blowing a whistle",
-            "translation": "",
+            "translation": "哨声信号",
             "examples": [
               {
                 "text": "The whistle signalled the end of the game.",
-                "translation": ""
+                "translation": "哨声宣告了比赛的结束。"
               }
             ]
           },
           {
             "id": "whistle-noun-5",
             "definition": "the sound made by something moving rapidly or by steam coming out of a small aperture",
-            "translation": "",
+            "translation": "呼啸声",
             "examples": []
           }
         ]
@@ -32911,22 +32911,22 @@
           {
             "id": "whistle-verb-1",
             "definition": "utter or express by whistling",
-            "translation": "",
+            "translation": "用口哨吹出",
             "examples": [
               {
                 "text": "I whistled a melody.",
-                "translation": ""
+                "translation": "我用口哨吹了一段旋律。"
               }
             ]
           },
           {
             "id": "whistle-verb-2",
             "definition": "give a signal by whistling",
-            "translation": "",
+            "translation": "吹哨示意",
             "examples": [
               {
                 "text": "They whistled for their maid.",
-                "translation": ""
+                "translation": "他们吹口哨叫女仆。"
               }
             ]
           },
@@ -32939,22 +32939,22 @@
           {
             "id": "whistle-verb-4",
             "definition": "move with, or as with, a whistling sound",
-            "translation": "",
+            "translation": "呼啸而过",
             "examples": [
               {
                 "text": "The bullets whistled past him",
-                "translation": ""
+                "translation": "子弹从他身旁呼啸而过。"
               }
             ]
           },
           {
             "id": "whistle-verb-5",
             "definition": "to move, send, or bring as if by whistling",
-            "translation": "",
+            "translation": "如口哨般带过",
             "examples": [
               {
                 "text": "My optimism whistled away these worries.",
-                "translation": ""
+                "translation": "我的乐观把这些烦恼都带走了。"
               }
             ]
           },
@@ -33010,7 +33010,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -36331,7 +36331,7 @@
           {
             "id": "why-noun-1",
             "definition": "the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'",
-            "translation": "",
+            "translation": "原因；理由",
             "examples": []
           }
         ]
@@ -36344,8 +36344,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -39259,11 +39259,11 @@
           {
             "id": "wildlife-noun-1",
             "definition": "all living things (except people) that are undomesticated",
-            "translation": "",
+            "translation": "野生动物",
             "examples": [
               {
                 "text": "chemicals could kill all the wildlife",
-                "translation": ""
+                "translation": "化学品可能会杀死所有的野生动物。"
               }
             ]
           }
@@ -39272,8 +39272,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -41515,7 +41515,7 @@
           {
             "id": "windbreaker-noun-1",
             "definition": "a kind of heavy jacket (`windcheater' is a British term)",
-            "translation": "",
+            "translation": "防风夹克",
             "examples": []
           }
         ]
@@ -41523,8 +41523,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -42805,35 +42805,35 @@
           {
             "id": "windy-adjective-1",
             "definition": "abounding in or exposed to the wind or breezes",
-            "translation": "",
+            "translation": "多风的；有风的",
             "examples": []
           },
           {
             "id": "windy-adjective-2",
             "definition": "using or containing too many words",
-            "translation": "",
+            "translation": "冗长的；夸夸其谈的",
             "examples": [
               {
                 "text": "long-winded (or windy) speakers",
-                "translation": ""
+                "translation": "冗长(或夸夸其谈)的演讲者"
               }
             ]
           },
           {
             "id": "windy-adjective-3",
             "definition": "resembling the wind in speed, force, or variability",
-            "translation": "",
+            "translation": "如风一般快的",
             "examples": [
               {
                 "text": "a windy dash home",
-                "translation": ""
+                "translation": "一阵疾风跑回家"
               }
             ]
           },
           {
             "id": "windy-adjective-4",
             "definition": "not practical or realizable",
-            "translation": "",
+            "translation": "不切实际的",
             "examples": []
           }
         ]
@@ -42841,8 +42841,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51699,11 +51699,11 @@
           {
             "id": "woo-verb-2",
             "definition": "seek someone's favor",
-            "translation": "",
+            "translation": "争取；拉拢",
             "examples": [
               {
                 "text": "China is wooing Russia",
-                "translation": ""
+                "translation": "中国正在拉拢俄罗斯。"
               }
             ]
           }
@@ -51717,7 +51717,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -53706,7 +53706,7 @@
           {
             "id": "woollen-noun-1",
             "definition": "a fabric made from the hair of sheep",
-            "translation": "",
+            "translation": "毛织品；毛料",
             "examples": []
           }
         ]
@@ -53714,7 +53714,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -55725,13 +55725,13 @@
           {
             "id": "workday-noun-1",
             "definition": "the amount of time that a worker must work for an agreed daily wage",
-            "translation": "",
+            "translation": "工作日的工作量",
             "examples": []
           },
           {
             "id": "workday-noun-2",
             "definition": "a day on which work is done",
-            "translation": "",
+            "translation": "工作日",
             "examples": []
           }
         ]
@@ -55739,8 +55739,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57346,30 +57346,30 @@
           {
             "id": "worm-noun-1",
             "definition": "any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes",
-            "translation": "",
+            "translation": "蠕虫",
             "examples": []
           },
           {
             "id": "worm-noun-2",
             "definition": "screw thread on a gear with the teeth of a worm wheel or rack",
-            "translation": "",
+            "translation": "蜗杆；螺旋",
             "examples": []
           },
           {
             "id": "worm-noun-3",
             "definition": "a software program capable of reproducing itself that can spread from one computer to the next over a network",
-            "translation": "",
+            "translation": "蠕虫病毒",
             "examples": [
               {
                 "text": "worms take advantage of automatic file sending and receiving features found on many computers",
-                "translation": ""
+                "translation": "蠕虫病毒会利用许多电脑上的自动收发文件功能。"
               }
             ]
           },
           {
             "id": "worm-noun-4",
             "definition": "a person who has a nasty or unethical character undeserving of respect",
-            "translation": "",
+            "translation": "可鄙的人",
             "examples": []
           }
         ]
@@ -57380,11 +57380,11 @@
           {
             "id": "worm-verb-1",
             "definition": "to move in a twisting or contorted motion, especially when struggling",
-            "translation": "",
+            "translation": "蠕动；蜿蜒前进",
             "examples": [
               {
                 "text": "I wormed my way out of my attacker's grasp.",
-                "translation": ""
+                "translation": "我从袭击者手中挣脱出来。"
               }
             ]
           }
@@ -57426,8 +57426,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57672,18 +57672,18 @@
           {
             "id": "worn-adjective-1",
             "definition": "showing the wearing effects of overwork or care or suffering",
-            "translation": "",
+            "translation": "疲惫的；憔悴的",
             "examples": [
               {
                 "text": "Looking worn as they bent over the mending.",
-                "translation": ""
+                "translation": "弯着腰修补东西,看上去很憔悴。"
               }
             ]
           },
           {
             "id": "worn-adjective-2",
             "definition": "affected by wear",
-            "translation": "",
+            "translation": "用旧的；磨损的",
             "examples": []
           }
         ]
@@ -57736,8 +57736,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57774,7 +57774,7 @@
           {
             "id": "worried-adjective-2",
             "definition": "afflicted with or marked by anxious uneasiness or trouble or grief",
-            "translation": "",
+            "translation": "焦虑的；忧心忡忡的",
             "examples": []
           }
         ]
@@ -57787,8 +57787,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -58243,22 +58243,22 @@
           {
             "id": "worse-adjective-1",
             "definition": "comparative of 'bad,' inferior to another in quality or condition or desirability",
-            "translation": "",
+            "translation": "更差的；更坏的",
             "examples": [
               {
                 "text": "This road is bad, but the other one was much worse. ",
-                "translation": ""
+                "translation": "这条路很差,但另一条更糟。"
               }
             ]
           },
           {
             "id": "worse-adjective-2",
             "definition": "changed for the worse in health or fitness",
-            "translation": "",
+            "translation": "病情更重的",
             "examples": [
               {
                 "text": "I feel worse today",
-                "translation": ""
+                "translation": "我今天感觉更糟。"
               }
             ]
           }
@@ -58270,11 +58270,11 @@
           {
             "id": "worse-adverb-1",
             "definition": "in a less effective or successful or desirable manner",
-            "translation": "",
+            "translation": "更糟地",
             "examples": [
               {
                 "text": "They did worse on the second exam",
-                "translation": ""
+                "translation": "他们第二次考试考得更糟了。"
               }
             ]
           }
@@ -58286,11 +58286,11 @@
           {
             "id": "worse-noun-1",
             "definition": "something inferior in quality or condition or effect",
-            "translation": "",
+            "translation": "更坏的事物",
             "examples": [
               {
                 "text": "for better or for worse",
-                "translation": ""
+                "translation": "无论好歹"
               }
             ]
           }
@@ -58304,8 +58304,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -58734,11 +58734,11 @@
           {
             "id": "worst-adjective-1",
             "definition": "(superlative of `bad') most wanting in quality or value or condition",
-            "translation": "",
+            "translation": "最差的",
             "examples": [
               {
                 "text": "the worst player on the team",
-                "translation": ""
+                "translation": "队里最差的队员"
               }
             ]
           }
@@ -58750,11 +58750,11 @@
           {
             "id": "worst-adverb-1",
             "definition": "to the highest degree of inferiority or badness",
-            "translation": "",
+            "translation": "最差地",
             "examples": [
               {
                 "text": "They suffered worst of all.",
-                "translation": ""
+                "translation": "他们受苦最深。"
               }
             ]
           }
@@ -58766,33 +58766,33 @@
           {
             "id": "worst-noun-1",
             "definition": "the weakest effort or poorest achievement one is capable of",
-            "translation": "",
+            "translation": "最差的表现",
             "examples": [
               {
                 "text": "It was the worst they had ever done on a test.",
-                "translation": ""
+                "translation": "那是他们考过的最差的一次。"
               }
             ]
           },
           {
             "id": "worst-noun-2",
             "definition": "the greatest damage or wickedness of which one is capable",
-            "translation": "",
+            "translation": "最坏的一面",
             "examples": [
               {
                 "text": "the invaders did their worst",
-                "translation": ""
+                "translation": "侵略者使出了最狠的手段。"
               }
             ]
           },
           {
             "id": "worst-noun-3",
             "definition": "the least favorable outcome",
-            "translation": "",
+            "translation": "最坏的结果",
             "examples": [
               {
                 "text": "the worst that could happen",
-                "translation": ""
+                "translation": "可能发生的最坏情况"
               }
             ]
           }
@@ -58817,7 +58817,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -59105,17 +59105,17 @@
           {
             "id": "worthless-adjective-1",
             "definition": "morally reprehensible",
-            "translation": "",
+            "translation": "道德败坏的",
             "examples": []
           },
           {
             "id": "worthless-adjective-2",
             "definition": "lacking in usefulness or value",
-            "translation": "",
+            "translation": "无价值的；无用的",
             "examples": [
               {
                 "text": "a worthless idler",
-                "translation": ""
+                "translation": "无用的懒汉"
               }
             ]
           }
@@ -59124,8 +59124,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -61318,11 +61318,11 @@
           {
             "id": "wrestle-noun-1",
             "definition": "the act of engaging in close hand-to-hand combat",
-            "translation": "",
+            "translation": "摔跤；搏斗",
             "examples": [
               {
                 "text": "they had a fierce wrestle",
-                "translation": ""
+                "translation": "他们进行了一场激烈的搏斗。"
               }
             ]
           }
@@ -61334,40 +61334,40 @@
           {
             "id": "wrestle-verb-1",
             "definition": "engage in deep thought, consideration, or debate",
-            "translation": "",
+            "translation": "深思；斟酌",
             "examples": [
               {
                 "text": "I wrestled with this decision for years",
-                "translation": ""
+                "translation": "这个决定我斟酌了好几年。"
               }
             ]
           },
           {
             "id": "wrestle-verb-2",
             "definition": "combat to overcome an opposing tendency or force",
-            "translation": "",
+            "translation": "与…斗争",
             "examples": [
               {
                 "text": "I have wrestled all my life with my feeling of inferiority.",
-                "translation": ""
+                "translation": "我一辈子都在和自己的自卑感作斗争。"
               }
             ]
           },
           {
             "id": "wrestle-verb-3",
             "definition": "engage in a wrestling match",
-            "translation": "",
+            "translation": "摔跤",
             "examples": [
               {
                 "text": "The children wrestled in the garden",
-                "translation": ""
+                "translation": "孩子们在花园里摔跤。"
               }
             ]
           },
           {
             "id": "wrestle-verb-4",
             "definition": "to move in a twisting or contorted motion, (especially when struggling)",
-            "translation": "",
+            "translation": "扭动",
             "examples": []
           }
         ]
@@ -61408,8 +61408,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -62123,11 +62123,11 @@
           {
             "id": "wrinkle-noun-1",
             "definition": "a clever method of doing something, especially something new and different",
-            "translation": "",
+            "translation": "妙招；诀窍",
             "examples": [
               {
                 "text": "I was shown a wrinkle that saved me many hours of work.",
-                "translation": ""
+                "translation": "有人教我一个诀窍,帮我省了好几个小时。"
               }
             ]
           },
@@ -62145,7 +62145,7 @@
           {
             "id": "wrinkle-noun-3",
             "definition": "a slight depression in the smoothness of a surface",
-            "translation": "",
+            "translation": "皱纹",
             "examples": []
           }
         ]
@@ -62156,11 +62156,11 @@
           {
             "id": "wrinkle-verb-1",
             "definition": "become wrinkled or crumpled or creased",
-            "translation": "",
+            "translation": "起皱",
             "examples": [
               {
                 "text": "This fabric won't wrinkle",
-                "translation": ""
+                "translation": "这种布料不会起皱。"
               }
             ]
           },
@@ -62197,7 +62197,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -62383,7 +62383,7 @@
           {
             "id": "wrist-noun-1",
             "definition": "a joint between the distal end of the radius and the proximal row of carpal bones",
-            "translation": "",
+            "translation": "手腕",
             "examples": []
           }
         ]
@@ -62391,8 +62391,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

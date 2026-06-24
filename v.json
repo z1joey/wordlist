@@ -131,22 +131,22 @@
           {
             "id": "vacant-adjective-1",
             "definition": "without an occupant or incumbent",
-            "translation": "",
+            "translation": "空的；无人占用的",
             "examples": [
               {
                 "text": "The throne is never vacant.",
-                "translation": ""
+                "translation": "王位从未空悬。"
               }
             ]
           },
           {
             "id": "vacant-adjective-2",
             "definition": "void of thought or knowledge",
-            "translation": "",
+            "translation": "茫然的；空虚的",
             "examples": [
               {
                 "text": "The students had a vacant stare.",
-                "translation": ""
+                "translation": "学生们一脸茫然。"
               }
             ]
           }
@@ -155,8 +155,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -2216,7 +2216,7 @@
           {
             "id": "vain-adjective-1",
             "definition": "unproductive of success",
-            "translation": "",
+            "translation": "徒劳的；无成效的",
             "examples": []
           },
           {
@@ -2230,7 +2230,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -5856,22 +5856,22 @@
           {
             "id": "vanilla-adjective-1",
             "definition": "plain and without any extras or adornments",
-            "translation": "",
+            "translation": "普通的；无特色的",
             "examples": [
               {
                 "text": "the most common type of bond is the straight or plain vanilla bond",
-                "translation": ""
+                "translation": "最常见的债券类型就是直接型或普通型债券。"
               }
             ]
           },
           {
             "id": "vanilla-adjective-2",
             "definition": "flavored with vanilla extract",
-            "translation": "",
+            "translation": "香草味的",
             "examples": [
               {
                 "text": "The kid liked vanilla ice cream.",
-                "translation": ""
+                "translation": "那个孩子喜欢吃香草冰淇淋。"
               }
             ]
           }
@@ -5883,19 +5883,19 @@
           {
             "id": "vanilla-noun-1",
             "definition": "a distinctive fragrant flavor characteristic of vanilla beans",
-            "translation": "",
+            "translation": "香草味",
             "examples": []
           },
           {
             "id": "vanilla-noun-2",
             "definition": "a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)",
-            "translation": "",
+            "translation": "香草精；香草调味剂",
             "examples": []
           },
           {
             "id": "vanilla-noun-3",
             "definition": "any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers",
-            "translation": "",
+            "translation": "香子兰",
             "examples": []
           }
         ]
@@ -5903,8 +5903,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -10484,11 +10484,11 @@
           {
             "id": "vase-noun-1",
             "definition": "an open jar of glass or porcelain used as an ornament or to hold flowers",
-            "translation": "",
+            "translation": "花瓶",
             "examples": [
               {
                 "text": "I put the lily in a vase.",
-                "translation": ""
+                "translation": "我把百合花插到花瓶里。"
               }
             ]
           }
@@ -10530,8 +10530,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12262,7 +12262,7 @@
           {
             "id": "veal-noun-1",
             "definition": "meat from a calf",
-            "translation": "",
+            "translation": "小牛肉",
             "examples": []
           }
         ]
@@ -12270,8 +12270,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -22312,13 +22312,13 @@
           {
             "id": "very-adjective-1",
             "definition": "precisely as stated",
-            "translation": "",
+            "translation": "正是的；恰好的",
             "examples": []
           },
           {
             "id": "very-adjective-2",
             "definition": "being the exact same one",
-            "translation": "",
+            "translation": "同一个的",
             "examples": []
           }
         ]
@@ -22335,11 +22335,11 @@
           {
             "id": "very-adverb-2",
             "definition": "precisely so",
-            "translation": "",
+            "translation": "正是；恰好",
             "examples": [
               {
                 "text": "on the very next page",
-                "translation": ""
+                "translation": "就在下一页"
               }
             ]
           }
@@ -22348,8 +22348,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -23071,13 +23071,13 @@
           {
             "id": "vest-noun-1",
             "definition": "a collarless men's undergarment for the upper part of the body",
-            "translation": "",
+            "translation": "背心；汗衫",
             "examples": []
           },
           {
             "id": "vest-noun-2",
             "definition": "a man's sleeveless garment worn underneath a coat",
-            "translation": "",
+            "translation": "马甲",
             "examples": []
           }
         ]
@@ -23088,23 +23088,23 @@
           {
             "id": "vest-verb-1",
             "definition": "clothe formally",
-            "translation": "",
+            "translation": "授予；赋予",
             "examples": []
           },
           {
             "id": "vest-verb-2",
             "definition": "clothe oneself in ecclesiastical garments",
-            "translation": "",
+            "translation": "穿上法衣",
             "examples": []
           },
           {
             "id": "vest-verb-3",
             "definition": "become legally vested",
-            "translation": "",
+            "translation": "依法归属",
             "examples": [
               {
                 "text": "The property vests in the trustees",
-                "translation": ""
+                "translation": "财产依法归属受托人。"
               }
             ]
           },
@@ -23122,11 +23122,11 @@
           {
             "id": "vest-verb-5",
             "definition": "provide with power and authority",
-            "translation": "",
+            "translation": "授予权力",
             "examples": [
               {
                 "text": "They vested the council with special rights",
-                "translation": ""
+                "translation": "他们授予议会特殊的权利。"
               }
             ]
           }
@@ -23144,7 +23144,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -29736,7 +29736,7 @@
           {
             "id": "villager-noun-1",
             "definition": "one who has lived in a village most of their life or one who currently lives in a village",
-            "translation": "",
+            "translation": "村民",
             "examples": []
           }
         ]
@@ -29744,8 +29744,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -30698,13 +30698,13 @@
           {
             "id": "vinegar-noun-1",
             "definition": "sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food preservative",
-            "translation": "",
+            "translation": "醋",
             "examples": []
           },
           {
             "id": "vinegar-noun-2",
             "definition": "dilute acetic acid",
-            "translation": "",
+            "translation": "稀醋酸",
             "examples": []
           }
         ]
@@ -30712,8 +30712,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32021,7 +32021,7 @@
           {
             "id": "violin-noun-1",
             "definition": "bowed stringed instrument that is the highest member of the violin family",
-            "translation": "",
+            "translation": "小提琴",
             "examples": []
           }
         ]
@@ -32029,8 +32029,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32057,7 +32057,7 @@
           {
             "id": "violinist-noun-1",
             "definition": "a musician who plays the violin",
-            "translation": "",
+            "translation": "小提琴手",
             "examples": []
           }
         ]
@@ -32065,8 +32065,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34100,28 +34100,28 @@
           {
             "id": "virus-noun-1",
             "definition": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts",
-            "translation": "",
+            "translation": "病毒",
             "examples": []
           },
           {
             "id": "virus-noun-2",
             "definition": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
-            "translation": "",
+            "translation": "计算机病毒",
             "examples": [
               {
                 "text": "a true virus cannot spread to another computer without human assistance",
-                "translation": ""
+                "translation": "真正的病毒无法不借助人为操作就传播到另一台电脑。"
               }
             ]
           },
           {
             "id": "virus-noun-3",
             "definition": "a harmful or corrupting agency",
-            "translation": "",
+            "translation": "有害物；毒害",
             "examples": [
               {
                 "text": "bigotry is a virus that must not be allowed to spread",
-                "translation": ""
+                "translation": "偏见是一种毒害,我们不能让它扩散。"
               }
             ]
           }
@@ -34130,8 +34130,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34197,11 +34197,11 @@
           {
             "id": "visa-noun-1",
             "definition": "an endorsement made in a passport that allows the bearer to enter the country issuing it",
-            "translation": "",
+            "translation": "签证",
             "examples": [
               {
                 "text": "It took a while for me to get a Chinese visa.",
-                "translation": ""
+                "translation": "我花了点时间才办到中国签证。"
               }
             ]
           }
@@ -34213,22 +34213,22 @@
           {
             "id": "visa-verb-1",
             "definition": "to approve officially",
-            "translation": "",
+            "translation": "批准；认可",
             "examples": [
               {
                 "text": "The list of speakers must be visaed.",
-                "translation": ""
+                "translation": "演讲者的名单必须经核准。"
               }
             ]
           },
           {
             "id": "visa-verb-2",
             "definition": "to provide with a visa",
-            "translation": "",
+            "translation": "给…签证",
             "examples": [
               {
                 "text": "The United States visas thousands of students each year.",
-                "translation": ""
+                "translation": "美国每年给成千上万的学生发放签证。"
               }
             ]
           }
@@ -34237,8 +34237,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -41883,22 +41883,22 @@
           {
             "id": "volcano-noun-1",
             "definition": "a fissure in the crust of a planet or moon through which molten lava and gases erupt",
-            "translation": "",
+            "translation": "火山口",
             "examples": [
               {
                 "text": "I like to take pictures of lava near volcanos.",
-                "translation": ""
+                "translation": "我喜欢拍火山附近的熔岩。"
               }
             ]
           },
           {
             "id": "volcano-noun-2",
             "definition": "a mountain formed by volcanic material",
-            "translation": "",
+            "translation": "火山",
             "examples": [
               {
                 "text": "I climbed an active volcano while I was on vacation.",
-                "translation": ""
+                "translation": "我度假时爬过一座活火山。"
               }
             ]
           }
@@ -41907,8 +41907,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -42244,13 +42244,13 @@
           {
             "id": "volleyball-noun-1",
             "definition": "a game in which two teams hit an inflated ball over a high net using their hands",
-            "translation": "",
+            "translation": "排球运动",
             "examples": []
           },
           {
             "id": "volleyball-noun-2",
             "definition": "an inflated ball used in playing volleyball",
-            "translation": "",
+            "translation": "排球",
             "examples": []
           }
         ]
@@ -42258,8 +42258,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -45582,13 +45582,13 @@
           {
             "id": "voyage-noun-1",
             "definition": "a journey to some distant place",
-            "translation": "",
+            "translation": "旅行；航行",
             "examples": []
           },
           {
             "id": "voyage-noun-2",
             "definition": "an act of traveling by water",
-            "translation": "",
+            "translation": "航海；水上旅行",
             "examples": []
           }
         ]
@@ -45599,7 +45599,7 @@
           {
             "id": "voyage-verb-1",
             "definition": "travel on water propelled by wind or by other means",
-            "translation": "",
+            "translation": "航行；航海",
             "examples": []
           }
         ]
@@ -45612,8 +45612,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

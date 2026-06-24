@@ -5172,28 +5172,28 @@
           {
             "id": "jar-noun-1",
             "definition": "a vessel, usually cylindrical, with a wide mouth and without handles",
-            "translation": "",
+            "translation": "罐子；坛子",
             "examples": [
               {
                 "text": "I wish I had a jar of pickled cabbage.",
-                "translation": ""
+                "translation": "我真希望有一罐泡菜。"
               }
             ]
           },
           {
             "id": "jar-noun-2",
             "definition": "a sudden jarring impact",
-            "translation": "",
+            "translation": "震动；冲击",
             "examples": []
           },
           {
             "id": "jar-noun-3",
             "definition": "the quantity contained in a jar",
-            "translation": "",
+            "translation": "一罐之量",
             "examples": [
               {
                 "text": "I drank a jar of beer.",
-                "translation": ""
+                "translation": "我喝了一罐啤酒。"
               }
             ]
           }
@@ -5216,18 +5216,18 @@
           {
             "id": "jar-verb-2",
             "definition": "affect in a disagreeable way",
-            "translation": "",
+            "translation": "刺激；使不快",
             "examples": [
               {
                 "text": "This play jarred the audience",
-                "translation": ""
+                "translation": "这部剧让观众感到不快。"
               }
             ]
           },
           {
             "id": "jar-verb-3",
             "definition": "move or cause to move with a sudden jerky motion",
-            "translation": "",
+            "translation": "颠簸；震动",
             "examples": []
           },
           {
@@ -5239,7 +5239,7 @@
           {
             "id": "jar-verb-5",
             "definition": "be incompatible",
-            "translation": "",
+            "translation": "不一致；冲突",
             "examples": []
           }
         ]
@@ -5272,7 +5272,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -6153,19 +6153,19 @@
           {
             "id": "jaw-noun-1",
             "definition": "holding device consisting of one or both of the opposing parts of a tool that close to hold an object",
-            "translation": "",
+            "translation": "钳口；夹爪",
             "examples": []
           },
           {
             "id": "jaw-noun-2",
             "definition": "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
-            "translation": "",
+            "translation": "颌；下巴",
             "examples": []
           },
           {
             "id": "jaw-noun-3",
             "definition": "the bones of the skull that frame the mouth and serve to open it",
-            "translation": "",
+            "translation": "颌骨",
             "examples": []
           }
         ]
@@ -6176,25 +6176,25 @@
           {
             "id": "jaw-verb-1",
             "definition": "censure severely or angrily",
-            "translation": "",
+            "translation": "严厉训斥",
             "examples": []
           },
           {
             "id": "jaw-verb-2",
             "definition": "talk incessantly and tiresomely",
-            "translation": "",
+            "translation": "喋喋不休",
             "examples": []
           },
           {
             "id": "jaw-verb-3",
             "definition": "talk socially without exchanging too much information",
-            "translation": "",
+            "translation": "闲聊",
             "examples": []
           },
           {
             "id": "jaw-verb-4",
             "definition": "chew (food)",
-            "translation": "",
+            "translation": "咀嚼",
             "examples": []
           }
         ]
@@ -6211,8 +6211,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -6631,24 +6631,24 @@
           {
             "id": "jazz-noun-1",
             "definition": "a style of dance music popular in the 1920s",
-            "translation": "",
+            "translation": "爵士乐",
             "examples": [
               {
                 "text": "similar to New Orleans jazz but played by large bands",
-                "translation": ""
+                "translation": "类似于新奥尔良爵士乐,但由大型乐队演奏。"
               }
             ]
           },
           {
             "id": "jazz-noun-2",
             "definition": "a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles",
-            "translation": "",
+            "translation": "爵士音乐",
             "examples": []
           },
           {
             "id": "jazz-noun-3",
             "definition": "empty rhetoric or insincere or exaggerated talk",
-            "translation": "",
+            "translation": "空话；大话",
             "examples": []
           }
         ]
@@ -6659,13 +6659,13 @@
           {
             "id": "jazz-verb-1",
             "definition": "have sexual intercourse with",
-            "translation": "",
+            "translation": "与…性交",
             "examples": []
           },
           {
             "id": "jazz-verb-2",
             "definition": "play something in the style of jazz",
-            "translation": "",
+            "translation": "用爵士风格演奏",
             "examples": []
           }
         ]
@@ -6686,8 +6686,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -6981,7 +6981,7 @@
           {
             "id": "jeep-noun-1",
             "definition": "a car suitable for traveling over rough terrain",
-            "translation": "",
+            "translation": "吉普车",
             "examples": []
           }
         ]
@@ -6989,8 +6989,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13471,23 +13471,23 @@
           {
             "id": "jog-noun-1",
             "definition": "a slight push or shake",
-            "translation": "",
+            "translation": "轻推；轻撞",
             "examples": []
           },
           {
             "id": "jog-noun-2",
             "definition": "a slow pace of running",
-            "translation": "",
+            "translation": "慢跑",
             "examples": []
           },
           {
             "id": "jog-noun-3",
             "definition": "a sharp change in direction",
-            "translation": "",
+            "translation": "突然转向",
             "examples": [
               {
                 "text": "there was a jog in the road",
-                "translation": ""
+                "translation": "路上有个急转弯。"
               }
             ]
           }
@@ -13499,51 +13499,51 @@
           {
             "id": "jog-verb-1",
             "definition": "stimulate to remember",
-            "translation": "",
+            "translation": "唤起记忆",
             "examples": [
               {
                 "text": "jog my memory",
-                "translation": ""
+                "translation": "唤起我的记忆"
               }
             ]
           },
           {
             "id": "jog-verb-2",
             "definition": "give a slight push to",
-            "translation": "",
+            "translation": "轻推",
             "examples": []
           },
           {
             "id": "jog-verb-3",
             "definition": "run at a moderately swift pace",
-            "translation": "",
+            "translation": "慢跑",
             "examples": []
           },
           {
             "id": "jog-verb-4",
             "definition": "run for exercise",
-            "translation": "",
+            "translation": "为锻炼而慢跑",
             "examples": [
               {
                 "text": "jog along the canal",
-                "translation": ""
+                "translation": "沿运河慢跑"
               }
             ]
           },
           {
             "id": "jog-verb-5",
             "definition": "even up the edges of a stack of paper, in printing",
-            "translation": "",
+            "translation": "将纸张齐边",
             "examples": []
           },
           {
             "id": "jog-verb-6",
             "definition": "continue talking or writing in a desultory manner",
-            "translation": "",
+            "translation": "漫无边际地说或写",
             "examples": [
               {
                 "text": "This novel rambles on and jogs",
-                "translation": ""
+                "translation": "这部小说漫无边际地闲扯下去。"
               }
             ]
           }
@@ -13565,8 +13565,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -18020,43 +18020,43 @@
           {
             "id": "judgement-noun-1",
             "definition": "the act of judging or assessing a person or situation or event",
-            "translation": "",
+            "translation": "判断；评价",
             "examples": []
           },
           {
             "id": "judgement-noun-2",
             "definition": "(law) the determination by a court of competent jurisdiction on matters submitted to it",
-            "translation": "",
+            "translation": "判决；裁定",
             "examples": []
           },
           {
             "id": "judgement-noun-3",
             "definition": "the capacity to assess situations or circumstances shrewdly and to draw sound conclusions",
-            "translation": "",
+            "translation": "判断力",
             "examples": []
           },
           {
             "id": "judgement-noun-4",
             "definition": "the mental ability to understand and discriminate between relations",
-            "translation": "",
+            "translation": "理解力；辨别力",
             "examples": []
           },
           {
             "id": "judgement-noun-5",
             "definition": "the cognitive process of reaching a decision or drawing conclusions",
-            "translation": "",
+            "translation": "判断；决策过程",
             "examples": []
           },
           {
             "id": "judgement-noun-6",
             "definition": "an opinion formed by judging something",
-            "translation": "",
+            "translation": "意见；看法",
             "examples": []
           },
           {
             "id": "judgement-noun-7",
             "definition": "the legal document stating the reasons for a judicial decision",
-            "translation": "",
+            "translation": "判决书",
             "examples": []
           }
         ]
@@ -18097,8 +18097,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -19504,28 +19504,28 @@
           {
             "id": "juicy-adjective-2",
             "definition": "lucrative or potentially beneficial",
-            "translation": "",
+            "translation": "利润丰厚的",
             "examples": [
               {
                 "text": "The musician negotiated a juicy contract with the record company, since they were so popular.",
-                "translation": ""
+                "translation": "这个乐手和唱片公司谈下了一份利润丰厚的合同,因为他们太红了。"
               }
             ]
           },
           {
             "id": "juicy-adjective-3",
             "definition": "suggestive of sexual impropriety",
-            "translation": "",
+            "translation": "有性暗示的",
             "examples": []
           },
           {
             "id": "juicy-adjective-4",
             "definition": "having strong sexual appeal",
-            "translation": "",
+            "translation": "性感的；有魅力的",
             "examples": [
               {
                 "text": "The juicy bartenders caught many of the patron's eyes.",
-                "translation": ""
+                "translation": "那些性感的酒保吸引了不少顾客的目光。"
               }
             ]
           }
@@ -19534,7 +19534,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -21562,13 +21562,13 @@
           {
             "id": "junk-noun-1",
             "definition": "any of various Chinese boats with a high poop and lugsails",
-            "translation": "",
+            "translation": "中国式帆船",
             "examples": []
           },
           {
             "id": "junk-noun-2",
             "definition": "the remains of something that has been destroyed or broken up",
-            "translation": "",
+            "translation": "废旧物品；破烂货",
             "examples": []
           }
         ]
@@ -21579,7 +21579,7 @@
           {
             "id": "junk-verb-1",
             "definition": "dispose of (something useless or old)",
-            "translation": "",
+            "translation": "丢弃；废弃",
             "examples": []
           }
         ]
@@ -21587,8 +21587,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -22648,17 +22648,17 @@
           {
             "id": "just-adjective-3",
             "definition": "fair to all parties as dictated by reason and conscience",
-            "translation": "",
+            "translation": "公正的",
             "examples": []
           },
           {
             "id": "just-adjective-4",
             "definition": "used especially of what is legally or ethically right or proper or fitting",
-            "translation": "",
+            "translation": "正义的；合理的",
             "examples": [
               {
                 "text": "a just and lasting peace- A.Lincoln",
-                "translation": ""
+                "translation": "公正持久的和平——林肯"
               }
             ]
           }
@@ -22670,24 +22670,24 @@
           {
             "id": "just-adverb-1",
             "definition": "only a very short time before",
-            "translation": "",
+            "translation": "刚才；方才",
             "examples": []
           },
           {
             "id": "just-adverb-2",
             "definition": "exactly at this moment or the moment described",
-            "translation": "",
+            "translation": "正好；恰好",
             "examples": [
               {
                 "text": "we've just finished painting the walls, so don't touch them",
-                "translation": ""
+                "translation": "我们刚刚刷完墙,所以别碰。"
               }
             ]
           },
           {
             "id": "just-adverb-3",
             "definition": "and nothing more",
-            "translation": "",
+            "translation": "仅仅；只是",
             "examples": []
           },
           {
@@ -22704,7 +22704,7 @@
           {
             "id": "just-adverb-5",
             "definition": "indicating exactness or preciseness",
-            "translation": "",
+            "translation": "正好；恰恰",
             "examples": []
           },
           {
@@ -22776,7 +22776,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },

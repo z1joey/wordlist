@@ -13376,36 +13376,36 @@
           {
             "id": "offence-noun-1",
             "definition": "(criminal law) an act punishable by law",
-            "translation": "",
+            "translation": "犯罪行为；违法行为",
             "examples": []
           },
           {
             "id": "offence-noun-2",
             "definition": "the action of attacking an enemy",
-            "translation": "",
+            "translation": "进攻；攻击",
             "examples": []
           },
           {
             "id": "offence-noun-3",
             "definition": "a lack of politeness",
-            "translation": "",
+            "translation": "无礼；冒犯",
             "examples": []
           },
           {
             "id": "offence-noun-4",
             "definition": "a feeling of anger caused by being offended",
-            "translation": "",
+            "translation": "生气；不悦",
             "examples": [
               {
                 "text": "They took offence at my question.",
-                "translation": ""
+                "translation": "他们对我的问题感到生气。"
               }
             ]
           },
           {
             "id": "offence-noun-5",
             "definition": "the team that has the ball (or puck) and is trying to score",
-            "translation": "",
+            "translation": "进攻方",
             "examples": []
           }
         ]
@@ -13446,8 +13446,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -15877,22 +15877,22 @@
           {
             "id": "offshore-adjective-1",
             "definition": "(of winds) coming from the land",
-            "translation": "",
+            "translation": "从陆地吹来的",
             "examples": [
               {
                 "text": "offshore winds",
-                "translation": ""
+                "translation": "从陆地吹来的风"
               }
             ]
           },
           {
             "id": "offshore-adjective-2",
             "definition": "at some distance from the shore",
-            "translation": "",
+            "translation": "离岸的；近海的",
             "examples": [
               {
                 "text": "offshore oil reserves",
-                "translation": ""
+                "translation": "近海的石油储量"
               }
             ]
           }
@@ -15912,7 +15912,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -17118,7 +17118,7 @@
           {
             "id": "oilfield-noun-1",
             "definition": "a region rich in petroleum deposits (especially one with producing oil wells)",
-            "translation": "",
+            "translation": "油田",
             "examples": []
           }
         ]
@@ -17126,8 +17126,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17626,11 +17626,11 @@
           {
             "id": "ok-adjective-1",
             "definition": "being satisfactory or in satisfactory condition",
-            "translation": "",
+            "translation": "可以的；不错的",
             "examples": [
               {
                 "text": "The watch is ok.",
-                "translation": ""
+                "translation": "这块表没问题。"
               }
             ]
           }
@@ -17642,11 +17642,11 @@
           {
             "id": "ok-adverb-1",
             "definition": "in a satisfactory or adequate manner",
-            "translation": "",
+            "translation": "令人满意地",
             "examples": [
               {
                 "text": "They'll do okay on their own.",
-                "translation": ""
+                "translation": "他们自己应付得过去。"
               }
             ]
           }
@@ -17658,11 +17658,11 @@
           {
             "id": "ok-noun-1",
             "definition": "an endorsement",
-            "translation": "",
+            "translation": "认可；批准",
             "examples": [
               {
                 "text": "We got the ok from the president.",
-                "translation": ""
+                "translation": "我们获得了董事长的批准。"
               }
             ]
           }
@@ -17687,7 +17687,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -17718,7 +17718,7 @@
           {
             "id": "ok-adverb-1",
             "definition": "an expression of agreement normally occurring at the beginning of a sentence",
-            "translation": "",
+            "translation": "好；行",
             "examples": []
           }
         ]
@@ -17729,7 +17729,7 @@
           {
             "id": "ok-noun-1",
             "definition": "an endorsement",
-            "translation": "",
+            "translation": "认可",
             "examples": []
           }
         ]
@@ -17737,8 +17737,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -20477,7 +20477,7 @@
           {
             "id": "omelette-noun-1",
             "definition": "beaten eggs or an egg mixture cooked until just set",
-            "translation": "",
+            "translation": "煎蛋卷；炒蛋",
             "examples": []
           }
         ]
@@ -20485,8 +20485,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21615,11 +21615,11 @@
           {
             "id": "on-adjective-1",
             "definition": "in operation or operational",
-            "translation": "",
+            "translation": "开着的；运作中的",
             "examples": [
               {
                 "text": "left the oven on",
-                "translation": ""
+                "translation": "让烤箱一直开着"
               }
             ]
           },
@@ -21653,22 +21653,22 @@
           {
             "id": "on-adverb-2",
             "definition": "indicates continuity or persistence or concentration",
-            "translation": "",
+            "translation": "继续；持续",
             "examples": [
               {
                 "text": "The band's spirit lives on in the music they made.",
-                "translation": ""
+                "translation": "乐队的精神在他们谱写的乐曲中继续延续。"
               }
             ]
           },
           {
             "id": "on-adverb-3",
             "definition": "in a state required for something to function or be effective",
-            "translation": "",
+            "translation": "处于工作状态",
             "examples": [
               {
                 "text": "turn the lights on",
-                "translation": ""
+                "translation": "把灯打开"
               }
             ]
           }
@@ -21806,7 +21806,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -22392,19 +22392,19 @@
           {
             "id": "one-adjective-1",
             "definition": "eminent beyond or above comparison",
-            "translation": "",
+            "translation": "突出的；独一无二的",
             "examples": []
           },
           {
             "id": "one-adjective-2",
             "definition": "indefinite in time or position",
-            "translation": "",
+            "translation": "不确定的",
             "examples": []
           },
           {
             "id": "one-adjective-3",
             "definition": "used informally as an intensifier",
-            "translation": "",
+            "translation": "十足的；强烈的（口语）",
             "examples": []
           },
           {
@@ -22416,24 +22416,24 @@
           {
             "id": "one-adjective-5",
             "definition": "having the indivisible character of a unit",
-            "translation": "",
+            "translation": "不可分割的",
             "examples": []
           },
           {
             "id": "one-adjective-6",
             "definition": "being a single entity made by combining separate components",
-            "translation": "",
+            "translation": "合并而成的",
             "examples": [
               {
                 "text": "three chemicals combining into one solution",
-                "translation": ""
+                "translation": "三种化学物质合成一种溶液"
               }
             ]
           },
           {
             "id": "one-adjective-7",
             "definition": "used of a single unit or thing",
-            "translation": "",
+            "translation": "单一的",
             "examples": []
           }
         ]
@@ -22444,22 +22444,22 @@
           {
             "id": "one-noun-1",
             "definition": "a single person or thing",
-            "translation": "",
+            "translation": "一个人；一件事",
             "examples": [
               {
                 "text": "They are the best one.",
-                "translation": ""
+                "translation": "他们是最好的一位。"
               }
             ]
           },
           {
             "id": "one-noun-2",
             "definition": "the smallest whole number or a numeral representing this number",
-            "translation": "",
+            "translation": "一",
             "examples": [
               {
                 "text": "I have the one guitar but I need a second and a third to go with it.",
-                "translation": ""
+                "translation": "我有一把吉他,但我还需要第二把和第三把来搭配。"
               }
             ]
           }
@@ -22637,7 +22637,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -26313,24 +26313,24 @@
           {
             "id": "opener-noun-1",
             "definition": "a hand tool used for opening sealed containers (bottles or cans)",
-            "translation": "",
+            "translation": "开瓶器；开罐器",
             "examples": []
           },
           {
             "id": "opener-noun-2",
             "definition": "the first event in a series",
-            "translation": "",
+            "translation": "开场；首项",
             "examples": [
               {
                 "text": "They played an etude for their opener.",
-                "translation": ""
+                "translation": "他们演奏了一首练习曲作为开场。"
               }
             ]
           },
           {
             "id": "opener-noun-3",
             "definition": "a person who unfastens or unwraps or opens",
-            "translation": "",
+            "translation": "开启者",
             "examples": []
           }
         ]
@@ -26338,8 +26338,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31345,18 +31345,18 @@
           {
             "id": "optimistic-adjective-1",
             "definition": "expecting the best in this best of all possible worlds",
-            "translation": "",
+            "translation": "乐观的",
             "examples": [
               {
                 "text": "in an optimistic mood",
-                "translation": ""
+                "translation": "心情乐观"
               }
             ]
           },
           {
             "id": "optimistic-adjective-2",
             "definition": "expecting the best",
-            "translation": "",
+            "translation": "乐观的",
             "examples": []
           }
         ]
@@ -31364,8 +31364,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31968,7 +31968,7 @@
           {
             "id": "or-noun-1",
             "definition": "a room in a hospital equipped for the performance of surgical operations",
-            "translation": "",
+            "translation": "手术室",
             "examples": []
           }
         ]
@@ -31981,8 +31981,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32224,7 +32224,7 @@
           {
             "id": "oral-adjective-1",
             "definition": "a stage in psychosexual development when the child's interest is concentrated in the mouth",
-            "translation": "",
+            "translation": "口欲期的",
             "examples": []
           },
           {
@@ -32241,11 +32241,11 @@
           {
             "id": "oral-adjective-3",
             "definition": "using speech rather than writing",
-            "translation": "",
+            "translation": "口头的",
             "examples": [
               {
                 "text": "an oral tradition",
-                "translation": ""
+                "translation": "口述传统"
               }
             ]
           },
@@ -32268,7 +32268,7 @@
           {
             "id": "oral-noun-1",
             "definition": "an examination conducted by spoken communication",
-            "translation": "",
+            "translation": "口试",
             "examples": []
           }
         ]
@@ -32276,7 +32276,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -36002,25 +36002,25 @@
           {
             "id": "organise-verb-1",
             "definition": "bring order and organization to",
-            "translation": "",
+            "translation": "使有条理",
             "examples": []
           },
           {
             "id": "organise-verb-2",
             "definition": "plan and direct (a complex undertaking)",
-            "translation": "",
+            "translation": "组织；筹划",
             "examples": []
           },
           {
             "id": "organise-verb-3",
             "definition": "arrange by systematic planning and united effort",
-            "translation": "",
+            "translation": "系统安排",
             "examples": []
           },
           {
             "id": "organise-verb-4",
             "definition": "cause to be structured or ordered or operating according to some principle or idea",
-            "translation": "",
+            "translation": "使有序；组织",
             "examples": []
           },
           {
@@ -36040,7 +36040,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -36102,19 +36102,19 @@
           {
             "id": "organiser-noun-1",
             "definition": "a lightweight consumer electronic device that looks like a hand-held computer but instead performs specific tasks",
-            "translation": "",
+            "translation": "掌上电脑；PDA",
             "examples": []
           },
           {
             "id": "organiser-noun-2",
             "definition": "a person who brings order and organization to an enterprise",
-            "translation": "",
+            "translation": "组织者",
             "examples": []
           },
           {
             "id": "organiser-noun-3",
             "definition": "someone who enlists workers to join a union",
-            "translation": "",
+            "translation": "工会组织者",
             "examples": []
           }
         ]
@@ -36122,8 +36122,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -45922,71 +45922,71 @@
           {
             "id": "out-adjective-1",
             "definition": "outer or outlying",
-            "translation": "",
+            "translation": "外围的；远离中心的",
             "examples": [
               {
                 "text": "the out islands",
-                "translation": ""
+                "translation": "外围的岛屿"
               }
             ]
           },
           {
             "id": "out-adjective-2",
             "definition": "no longer fashionable",
-            "translation": "",
+            "translation": "过时的",
             "examples": [
               {
                 "text": "that style is out these days",
-                "translation": ""
+                "translation": "那种风格如今已经过时了。"
               }
             ]
           },
           {
             "id": "out-adjective-3",
             "definition": "being out or having grown cold",
-            "translation": "",
+            "translation": "熄灭的",
             "examples": []
           },
           {
             "id": "out-adjective-4",
             "definition": "knocked unconscious by a heavy blow",
-            "translation": "",
+            "translation": "被击昏的",
             "examples": []
           },
           {
             "id": "out-adjective-5",
             "definition": "excluded from use or mention",
-            "translation": "",
+            "translation": "被排除的",
             "examples": []
           },
           {
             "id": "out-adjective-6",
             "definition": "not worth considering as a possibility",
-            "translation": "",
+            "translation": "不可能的；不予以考虑的",
             "examples": []
           },
           {
             "id": "out-adjective-7",
             "definition": "not allowed to continue to bat or run",
-            "translation": "",
+            "translation": "出局的",
             "examples": []
           },
           {
             "id": "out-adjective-8",
             "definition": "outside or external",
-            "translation": "",
+            "translation": "外面的；外部的",
             "examples": []
           },
           {
             "id": "out-adjective-9",
             "definition": "directed outward or serving to direct something outward",
-            "translation": "",
+            "translation": "向外的",
             "examples": []
           },
           {
             "id": "out-adjective-10",
             "definition": "out of power",
-            "translation": "",
+            "translation": "下台的；失势的",
             "examples": []
           }
         ]
@@ -46019,11 +46019,11 @@
           {
             "id": "out-adverb-3",
             "definition": "moving or appearing to move away from a place, especially one that is enclosed or hidden",
-            "translation": "",
+            "translation": "向外；露出",
             "examples": [
               {
                 "text": "the cat came out from under the bed",
-                "translation": ""
+                "translation": "猫从床底下走了出来。"
               }
             ]
           }
@@ -46035,11 +46035,11 @@
           {
             "id": "out-noun-1",
             "definition": "(baseball) a failure by a batter or runner to reach a base safely in baseball",
-            "translation": "",
+            "translation": "出局",
             "examples": [
               {
                 "text": "you only get 3 outs per inning",
-                "translation": ""
+                "translation": "你每局只能出局三次。"
               }
             ]
           }
@@ -46051,17 +46051,17 @@
           {
             "id": "out-verb-1",
             "definition": "be made known",
-            "translation": "",
+            "translation": "被揭露；公开",
             "examples": []
           },
           {
             "id": "out-verb-2",
             "definition": "reveal (something) about somebody's identity or lifestyle",
-            "translation": "",
+            "translation": "揭露身份",
             "examples": [
               {
                 "text": "The gay actor was outed last week",
-                "translation": ""
+                "translation": "那位同性恋演员上周身份被公开了。"
               }
             ]
           },
@@ -46230,7 +46230,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -48329,29 +48329,29 @@
           {
             "id": "outgoing-adjective-1",
             "definition": "retiring from a position or office",
-            "translation": "",
+            "translation": "即将卸任的",
             "examples": [
               {
                 "text": "the outgoing president",
-                "translation": ""
+                "translation": "即将卸任的主席"
               }
             ]
           },
           {
             "id": "outgoing-adjective-2",
             "definition": "leaving a place or a position",
-            "translation": "",
+            "translation": "离去的；出发的",
             "examples": [
               {
                 "text": "an outgoing steamship",
-                "translation": ""
+                "translation": "一艘出航的轮船"
               }
             ]
           },
           {
             "id": "outgoing-adjective-3",
             "definition": "at ease in talking to others",
-            "translation": "",
+            "translation": "外向的；爱交际的",
             "examples": []
           }
         ]
@@ -48359,8 +48359,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48560,13 +48560,13 @@
           {
             "id": "outing-noun-1",
             "definition": "a journey taken for pleasure",
-            "translation": "",
+            "translation": "远足；外出游玩",
             "examples": []
           },
           {
             "id": "outing-noun-2",
             "definition": "a day devoted to an outdoor social gathering",
-            "translation": "",
+            "translation": "户外社交聚会",
             "examples": []
           }
         ]
@@ -48574,8 +48574,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51682,11 +51682,11 @@
           {
             "id": "outspoken-adjective-1",
             "definition": "given to expressing yourself freely or insistently",
-            "translation": "",
+            "translation": "坦率的；直言不讳的",
             "examples": [
               {
                 "text": "outspoken in their opposition to segregation",
-                "translation": ""
+                "translation": "他们直言不讳地反对种族隔离。"
               }
             ]
           },
@@ -51701,7 +51701,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -52401,7 +52401,7 @@
           {
             "id": "outward-adjective-2",
             "definition": "that is going out or leaving",
-            "translation": "",
+            "translation": "向外的；外出的",
             "examples": []
           }
         ]
@@ -52412,11 +52412,11 @@
           {
             "id": "outward-adverb-1",
             "definition": "toward the outside",
-            "translation": "",
+            "translation": "向外",
             "examples": [
               {
                 "text": "move the needle further outward!",
-                "translation": ""
+                "translation": "把指针再往外推一点!"
               }
             ]
           }
@@ -52425,7 +52425,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -52854,7 +52854,7 @@
           {
             "id": "oval-adjective-1",
             "definition": "rounded like an egg",
-            "translation": "",
+            "translation": "椭圆形的",
             "examples": []
           }
         ]
@@ -52865,7 +52865,7 @@
           {
             "id": "oval-noun-1",
             "definition": "a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it",
-            "translation": "",
+            "translation": "椭圆形",
             "examples": []
           }
         ]
@@ -52886,8 +52886,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -53308,7 +53308,7 @@
           {
             "id": "over-adjective-1",
             "definition": "having come or been brought to a conclusion",
-            "translation": "",
+            "translation": "结束的；完成的",
             "examples": []
           }
         ]
@@ -53319,51 +53319,51 @@
           {
             "id": "over-adverb-1",
             "definition": "over the entire area",
-            "translation": "",
+            "translation": "遍及；到处",
             "examples": [
               {
                 "text": "the wallpaper was covered all over with flowers",
-                "translation": ""
+                "translation": "整面墙纸都布满了花朵。"
               }
             ]
           },
           {
             "id": "over-adverb-2",
             "definition": "throughout a period of time",
-            "translation": "",
+            "translation": "贯穿（一段时间）",
             "examples": [
               {
                 "text": "stay over the weekend",
-                "translation": ""
+                "translation": "留下来过周末吧"
               }
             ]
           },
           {
             "id": "over-adverb-3",
             "definition": "at or to a point across intervening space etc.",
-            "translation": "",
+            "translation": "过来；到这边",
             "examples": [
               {
                 "text": "come over and see us some time",
-                "translation": ""
+                "translation": "有空过来看看我们"
               }
             ]
           },
           {
             "id": "over-adverb-4",
             "definition": "throughout an area",
-            "translation": "",
+            "translation": "遍及",
             "examples": [
               {
                 "text": "We are known the world over.",
-                "translation": ""
+                "translation": "我们举世闻名。"
               }
             ]
           },
           {
             "id": "over-adverb-5",
             "definition": "beyond the top or upper surface or edge",
-            "translation": "",
+            "translation": "从上方",
             "examples": []
           }
         ]
@@ -53374,7 +53374,7 @@
           {
             "id": "over-noun-1",
             "definition": "(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch",
-            "translation": "",
+            "translation": "一局（板球六球）",
             "examples": []
           }
         ]
@@ -53411,8 +53411,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -55420,13 +55420,13 @@
           {
             "id": "overcoat-noun-1",
             "definition": "a heavy coat worn over clothes in winter",
-            "translation": "",
+            "translation": "大衣",
             "examples": []
           },
           {
             "id": "overcoat-noun-2",
             "definition": "an additional protective coating (as of paint or varnish)",
-            "translation": "",
+            "translation": "外涂层",
             "examples": []
           }
         ]
@@ -55434,8 +55434,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -58431,11 +58431,11 @@
           {
             "id": "overhead-adjective-1",
             "definition": "located or originating from above",
-            "translation": "",
+            "translation": "在头顶的；架空的",
             "examples": [
               {
                 "text": "an overhead crossing",
-                "translation": ""
+                "translation": "一座高架天桥"
               }
             ]
           }
@@ -58447,13 +58447,13 @@
           {
             "id": "overhead-adverb-1",
             "definition": "above the head",
-            "translation": "",
+            "translation": "在头顶上",
             "examples": []
           },
           {
             "id": "overhead-adverb-2",
             "definition": "above your head",
-            "translation": "",
+            "translation": "在头顶上",
             "examples": []
           }
         ]
@@ -58464,42 +58464,42 @@
           {
             "id": "overhead-noun-1",
             "definition": "a hard return hitting the tennis ball above your head",
-            "translation": "",
+            "translation": "头顶扣球",
             "examples": []
           },
           {
             "id": "overhead-noun-2",
             "definition": "(nautical) the top surface of an enclosed space on a ship",
-            "translation": "",
+            "translation": "船舱顶面",
             "examples": []
           },
           {
             "id": "overhead-noun-3",
             "definition": "a transparency for use with an overhead projector",
-            "translation": "",
+            "translation": "投影胶片",
             "examples": []
           },
           {
             "id": "overhead-noun-4",
             "definition": "(computer science) the disk space required for information that is not data but is used for location and timing",
-            "translation": "",
+            "translation": "开销（磁盘占用）",
             "examples": []
           },
           {
             "id": "overhead-noun-5",
             "definition": "the expense of maintaining property, e.g., property taxes, utilities and insurance",
-            "translation": "",
+            "translation": "管理费用；维护费",
             "examples": [
               {
                 "text": "They could no longer afford the overhead on the family farm.",
-                "translation": ""
+                "translation": "他们再也负担不起这个家庭农场的管理费用了。"
               }
             ]
           },
           {
             "id": "overhead-noun-6",
             "definition": "(computer science) the processing time required by a device prior to the execution of a command",
-            "translation": "",
+            "translation": "前置时间（计算机）",
             "examples": []
           }
         ]
@@ -58507,8 +58507,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -64560,7 +64560,7 @@
           {
             "id": "overweight-adjective-1",
             "definition": "usually describes a large person who is fat but has a large frame to carry it",
-            "translation": "",
+            "translation": "超重的；肥胖的",
             "examples": []
           }
         ]
@@ -64571,7 +64571,7 @@
           {
             "id": "overweight-noun-1",
             "definition": "the property of excessive fatness",
-            "translation": "",
+            "translation": "超重；肥胖",
             "examples": []
           }
         ]
@@ -64579,8 +64579,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -66144,13 +66144,13 @@
           {
             "id": "ox-noun-1",
             "definition": "any of various wild bovines especially of the genera Bos or closely related Bibos",
-            "translation": "",
+            "translation": "野牛",
             "examples": []
           },
           {
             "id": "ox-noun-2",
             "definition": "an adult castrated bull of the genus Bos",
-            "translation": "",
+            "translation": "阉牛",
             "examples": []
           }
         ]
@@ -66158,8 +66158,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

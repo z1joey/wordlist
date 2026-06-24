@@ -303,30 +303,30 @@
           {
             "id": "eagle-noun-1",
             "definition": "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight",
-            "translation": "",
+            "translation": "鹰",
             "examples": []
           },
           {
             "id": "eagle-noun-2",
             "definition": "an emblem representing power",
-            "translation": "",
+            "translation": "鹰徽；权力标志",
             "examples": [
               {
                 "text": "the Roman eagle",
-                "translation": ""
+                "translation": "罗马鹰徽"
               }
             ]
           },
           {
             "id": "eagle-noun-3",
             "definition": "a former gold coin in the United States worth 10 dollars",
-            "translation": "",
+            "translation": "十美元金币（旧）",
             "examples": []
           },
           {
             "id": "eagle-noun-4",
             "definition": "(golf) a score of two strokes under par on a hole",
-            "translation": "",
+            "translation": "老鹰球（高尔夫低于标准杆两杆）",
             "examples": []
           }
         ]
@@ -337,17 +337,17 @@
           {
             "id": "eagle-verb-1",
             "definition": "shoot in two strokes under par",
-            "translation": "",
+            "translation": "以低于标准杆两杆的成绩打入",
             "examples": []
           },
           {
             "id": "eagle-verb-2",
             "definition": "shoot two strokes under par",
-            "translation": "",
+            "translation": "以低于标准杆两杆的成绩完成",
             "examples": [
               {
                 "text": "The professional golfer eagled the hole.",
-                "translation": ""
+                "translation": "那位职业高尔夫球员以低于标准杆两杆打进了该洞。"
               }
             ]
           }
@@ -356,8 +356,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -3219,7 +3219,7 @@
           {
             "id": "easily-adverb-1",
             "definition": "indicating high probability",
-            "translation": "",
+            "translation": "很可能",
             "examples": []
           },
           {
@@ -3236,11 +3236,11 @@
           {
             "id": "easily-adverb-3",
             "definition": "to do with ease",
-            "translation": "",
+            "translation": "容易地；轻易地",
             "examples": [
               {
                 "text": "They were easily excited.",
-                "translation": ""
+                "translation": "他们很容易激动。"
               }
             ]
           }
@@ -3249,7 +3249,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -3532,7 +3532,7 @@
           {
             "id": "easter-noun-1",
             "definition": "a wind from the east",
-            "translation": "",
+            "translation": "东风",
             "examples": []
           }
         ]
@@ -3540,8 +3540,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -3907,7 +3907,7 @@
           {
             "id": "eastwards-adverb-1",
             "definition": "toward the east",
-            "translation": "",
+            "translation": "向东",
             "examples": []
           }
         ]
@@ -3915,8 +3915,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -7787,17 +7787,17 @@
           {
             "id": "ecology-noun-1",
             "definition": "the branch of biology concerned with the relations between organisms and their environment",
-            "translation": "",
+            "translation": "生态学",
             "examples": []
           },
           {
             "id": "ecology-noun-2",
             "definition": "the environment as it relates to living organisms",
-            "translation": "",
+            "translation": "生态环境",
             "examples": [
               {
                 "text": "it changed the ecology of the island",
-                "translation": ""
+                "translation": "它改变了岛屿的生态环境。"
               }
             ]
           }
@@ -7806,8 +7806,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12201,7 +12201,7 @@
           {
             "id": "educator-noun-1",
             "definition": "someone who educates young people",
-            "translation": "",
+            "translation": "教育家",
             "examples": []
           }
         ]
@@ -12209,8 +12209,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -16008,13 +16008,13 @@
           {
             "id": "eggplant-noun-1",
             "definition": "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow",
-            "translation": "",
+            "translation": "茄子",
             "examples": []
           },
           {
             "id": "eggplant-noun-2",
             "definition": "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable",
-            "translation": "",
+            "translation": "茄子植株",
             "examples": []
           }
         ]
@@ -16022,8 +16022,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17034,11 +17034,11 @@
           {
             "id": "egyptian-noun-1",
             "definition": "a person from Egypt or of Egyptian descent",
-            "translation": "",
+            "translation": "埃及人",
             "examples": [
               {
                 "text": "The Egyptian recorded the people marching in the streets.",
-                "translation": ""
+                "translation": "那个埃及人记录下了人们在街上行进的情景。"
               }
             ]
           }
@@ -17047,7 +17047,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -17254,7 +17254,7 @@
           {
             "id": "eight-adjective-1",
             "definition": "being one more than seven",
-            "translation": "",
+            "translation": "八的",
             "examples": []
           }
         ]
@@ -17265,13 +17265,13 @@
           {
             "id": "eight-noun-1",
             "definition": "one of four playing cards in a deck with eight pips on the face",
-            "translation": "",
+            "translation": "八点的牌",
             "examples": []
           },
           {
             "id": "eight-noun-2",
             "definition": "the cardinal number that is the sum of seven and one",
-            "translation": "",
+            "translation": "八",
             "examples": []
           }
         ]
@@ -17296,8 +17296,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17327,7 +17327,7 @@
           {
             "id": "eighteen-adjective-1",
             "definition": "being one more than seventeen",
-            "translation": "",
+            "translation": "十八的",
             "examples": []
           }
         ]
@@ -17338,7 +17338,7 @@
           {
             "id": "eighteen-noun-1",
             "definition": "the cardinal number that is the sum of seventeen and one",
-            "translation": "",
+            "translation": "十八",
             "examples": []
           }
         ]
@@ -17346,8 +17346,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17484,7 +17484,7 @@
           {
             "id": "eighth-adjective-1",
             "definition": "coming next after the seventh and just before the ninth in position",
-            "translation": "",
+            "translation": "第八的",
             "examples": []
           }
         ]
@@ -17495,13 +17495,13 @@
           {
             "id": "eighth-noun-1",
             "definition": "one part in eight equal parts",
-            "translation": "",
+            "translation": "八分之一",
             "examples": []
           },
           {
             "id": "eighth-noun-2",
             "definition": "position eight in a countable series of things",
-            "translation": "",
+            "translation": "第八",
             "examples": []
           }
         ]
@@ -17509,8 +17509,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17769,7 +17769,7 @@
           {
             "id": "eighty-adjective-1",
             "definition": "being ten more than seventy",
-            "translation": "",
+            "translation": "八十的",
             "examples": []
           }
         ]
@@ -17780,7 +17780,7 @@
           {
             "id": "eighty-noun-1",
             "definition": "the cardinal number that is the product of ten and eight",
-            "translation": "",
+            "translation": "八十",
             "examples": []
           }
         ]
@@ -17788,8 +17788,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -19747,7 +19747,7 @@
           {
             "id": "elder-adjective-1",
             "definition": "used of the older of two persons of the same name especially used to distinguish a father from his son",
-            "translation": "",
+            "translation": "年长的",
             "examples": []
           }
         ]
@@ -19758,7 +19758,7 @@
           {
             "id": "elder-noun-1",
             "definition": "a person who is older than you are",
-            "translation": "",
+            "translation": "长者；长辈",
             "examples": []
           },
           {
@@ -19770,7 +19770,7 @@
           {
             "id": "elder-noun-3",
             "definition": "any of numerous shrubs or small trees of temperate and subtropical northern hemisphere having white flowers and berrylike fruit",
-            "translation": "",
+            "translation": "接骨木",
             "examples": []
           }
         ]
@@ -19778,7 +19778,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -20638,7 +20638,7 @@
           {
             "id": "electrical-adjective-2",
             "definition": "using or providing or producing or transmitting or operated by electricity",
-            "translation": "",
+            "translation": "电的；用电的",
             "examples": []
           }
         ]
@@ -20651,7 +20651,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -24079,7 +24079,7 @@
           {
             "id": "eleven-adjective-1",
             "definition": "being one more than ten",
-            "translation": "",
+            "translation": "十一的",
             "examples": []
           }
         ]
@@ -24090,13 +24090,13 @@
           {
             "id": "eleven-noun-1",
             "definition": "a team that plays football",
-            "translation": "",
+            "translation": "十一人足球队",
             "examples": []
           },
           {
             "id": "eleven-noun-2",
             "definition": "the cardinal number that is the sum of ten and one",
-            "translation": "",
+            "translation": "十一",
             "examples": []
           }
         ]
@@ -24104,8 +24104,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -28089,13 +28089,13 @@
           {
             "id": "embarrass-verb-1",
             "definition": "cause to be embarrassed",
-            "translation": "",
+            "translation": "使尴尬",
             "examples": []
           },
           {
             "id": "embarrass-verb-2",
             "definition": "hinder or prevent the progress or accomplishment of",
-            "translation": "",
+            "translation": "妨碍；阻碍",
             "examples": []
           }
         ]
@@ -28112,8 +28112,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -28378,13 +28378,13 @@
           {
             "id": "embassy-noun-1",
             "definition": "a diplomatic building where ambassadors live or work",
-            "translation": "",
+            "translation": "大使馆",
             "examples": []
           },
           {
             "id": "embassy-noun-2",
             "definition": "an ambassador and his entourage collectively",
-            "translation": "",
+            "translation": "大使馆全体人员",
             "examples": []
           }
         ]
@@ -28392,8 +28392,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -33274,25 +33274,25 @@
           {
             "id": "emperor-noun-1",
             "definition": "large richly colored butterfly",
-            "translation": "",
+            "translation": "帝王蝶",
             "examples": []
           },
           {
             "id": "emperor-noun-2",
             "definition": "large moth of temperate forests of Eurasia having heavily scaled transparent wings",
-            "translation": "",
+            "translation": "大蚕蛾",
             "examples": []
           },
           {
             "id": "emperor-noun-3",
             "definition": "red table grape of California",
-            "translation": "",
+            "translation": "红葡萄（品种）",
             "examples": []
           },
           {
             "id": "emperor-noun-4",
             "definition": "the male ruler of an empire",
-            "translation": "",
+            "translation": "皇帝",
             "examples": []
           }
         ]
@@ -33300,8 +33300,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -41356,35 +41356,35 @@
           {
             "id": "endless-adjective-1",
             "definition": "having the ends united so as to form a continuous whole",
-            "translation": "",
+            "translation": "无端的；环形的",
             "examples": [
               {
                 "text": "an endless chain",
-                "translation": ""
+                "translation": "一条无端的链条"
               }
             ]
           },
           {
             "id": "endless-adjective-2",
             "definition": "having no known beginning and presumably no end",
-            "translation": "",
+            "translation": "无穷无尽的",
             "examples": []
           },
           {
             "id": "endless-adjective-3",
             "definition": "infinitely great in number",
-            "translation": "",
+            "translation": "无数的",
             "examples": [
               {
                 "text": "endless waves",
-                "translation": ""
+                "translation": "无穷的波浪"
               }
             ]
           },
           {
             "id": "endless-adjective-4",
             "definition": "tiresomely long",
-            "translation": "",
+            "translation": "冗长乏味的",
             "examples": []
           }
         ]
@@ -41397,8 +41397,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -44476,18 +44476,18 @@
           {
             "id": "energetic-adjective-1",
             "definition": "possessing or exerting or displaying energy",
-            "translation": "",
+            "translation": "精力充沛的",
             "examples": [
               {
                 "text": "an energetic fund raiser for the college",
-                "translation": ""
+                "translation": "学院里一位精力充沛的募捐者"
               }
             ]
           },
           {
             "id": "energetic-adjective-2",
             "definition": "working hard to promote an enterprise",
-            "translation": "",
+            "translation": "积极进取的",
             "examples": []
           }
         ]
@@ -44495,8 +44495,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -46749,7 +46749,7 @@
           {
             "id": "english-noun-1",
             "definition": "(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist",
-            "translation": "",
+            "translation": "旋转（球侧旋）",
             "examples": []
           }
         ]
@@ -46766,7 +46766,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -48533,7 +48533,7 @@
           {
             "id": "enlarge-verb-2",
             "definition": "become larger or bigger",
-            "translation": "",
+            "translation": "扩大；变大",
             "examples": []
           },
           {
@@ -48545,7 +48545,7 @@
           {
             "id": "enlarge-verb-4",
             "definition": "add details, as to an account or idea",
-            "translation": "",
+            "translation": "详述；增补细节",
             "examples": []
           }
         ]
@@ -48566,7 +48566,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -50376,19 +50376,19 @@
           {
             "id": "enquiry-noun-1",
             "definition": "a systematic investigation of a matter of public interest",
-            "translation": "",
+            "translation": "调查；查询",
             "examples": []
           },
           {
             "id": "enquiry-noun-2",
             "definition": "a search for knowledge",
-            "translation": "",
+            "translation": "探究；求知",
             "examples": []
           },
           {
             "id": "enquiry-noun-3",
             "definition": "an instance of questioning",
-            "translation": "",
+            "translation": "询问；提问",
             "examples": []
           }
         ]
@@ -50396,8 +50396,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57510,47 +57510,47 @@
           {
             "id": "envelope-noun-1",
             "definition": "any wrapper or covering",
-            "translation": "",
+            "translation": "包裹物；封皮",
             "examples": []
           },
           {
             "id": "envelope-noun-2",
             "definition": "a flat (usually rectangular) container for a letter, thin package, etc.",
-            "translation": "",
+            "translation": "信封",
             "examples": []
           },
           {
             "id": "envelope-noun-3",
             "definition": "the bag containing the gas in a balloon",
-            "translation": "",
+            "translation": "气囊",
             "examples": []
           },
           {
             "id": "envelope-noun-4",
             "definition": "the maximum operating capability of a system (especially an aircraft)",
-            "translation": "",
+            "translation": "极限范围",
             "examples": [
               {
                 "text": "test pilots try to push the envelope",
-                "translation": ""
+                "translation": "试飞员总是想把极限再推一推。"
               }
             ]
           },
           {
             "id": "envelope-noun-5",
             "definition": "a natural covering made out of liquid or gas",
-            "translation": "",
+            "translation": "气体包层",
             "examples": [
               {
                 "text": "The spacecraft detected an envelope of gas around the comet.",
-                "translation": ""
+                "translation": "航天器在彗星周围探测到一层气体包层。"
               }
             ]
           },
           {
             "id": "envelope-noun-6",
             "definition": "a curve that is tangent to each of a family of curves",
-            "translation": "",
+            "translation": "包络线",
             "examples": []
           }
         ]
@@ -57571,8 +57571,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -58444,13 +58444,13 @@
           {
             "id": "envy-noun-1",
             "definition": "spite and resentment at seeing the success of another (personified as one of the deadly sins)",
-            "translation": "",
+            "translation": "妒忌；嫉妒（七宗罪之一）",
             "examples": []
           },
           {
             "id": "envy-noun-2",
             "definition": "a feeling of grudging admiration and desire to have something that is possessed by another",
-            "translation": "",
+            "translation": "羡慕",
             "examples": []
           }
         ]
@@ -58461,13 +58461,13 @@
           {
             "id": "envy-verb-1",
             "definition": "be envious of",
-            "translation": "",
+            "translation": "妒忌",
             "examples": []
           },
           {
             "id": "envy-verb-2",
             "definition": "feel envious towards",
-            "translation": "",
+            "translation": "羡慕",
             "examples": []
           }
         ]
@@ -58480,8 +58480,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -67854,7 +67854,7 @@
           {
             "id": "eraser-noun-1",
             "definition": "an implement used to erase something",
-            "translation": "",
+            "translation": "橡皮擦",
             "examples": []
           }
         ]
@@ -67862,8 +67862,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -71336,45 +71336,45 @@
           {
             "id": "erupt-verb-1",
             "definition": "become active and spew forth lava and rocks",
-            "translation": "",
+            "translation": "喷发",
             "examples": [
               {
                 "text": "Vesuvius erupts once in a while",
-                "translation": ""
+                "translation": "维苏威火山偶尔喷发。"
               }
             ]
           },
           {
             "id": "erupt-verb-2",
             "definition": "erupt or intensify suddenly",
-            "translation": "",
+            "translation": "突然爆发",
             "examples": [
               {
                 "text": "Unrest erupted in the country",
-                "translation": ""
+                "translation": "国内突然爆发了动乱。"
               }
             ]
           },
           {
             "id": "erupt-verb-3",
             "definition": "become raw or open",
-            "translation": "",
+            "translation": "裂开",
             "examples": []
           },
           {
             "id": "erupt-verb-4",
             "definition": "start abruptly",
-            "translation": "",
+            "translation": "突然开始",
             "examples": []
           },
           {
             "id": "erupt-verb-5",
             "definition": "appear on the skin",
-            "translation": "",
+            "translation": "冒出；显现",
             "examples": [
               {
                 "text": "A rash erupted on my arms after I touched the exotic plant.",
-                "translation": ""
+                "translation": "我摸了那种奇异的植物后,胳膊上突然起了疹子。"
               }
             ]
           },
@@ -71398,7 +71398,7 @@
           {
             "id": "erupt-verb-8",
             "definition": "start to burn or burst into flames",
-            "translation": "",
+            "translation": "燃烧；起火",
             "examples": []
           }
         ]
@@ -71415,7 +71415,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -86442,28 +86442,28 @@
           {
             "id": "everyday-adjective-1",
             "definition": "commonplace and ordinary",
-            "translation": "",
+            "translation": "日常的；平凡的",
             "examples": [
               {
                 "text": "the familiar everyday world",
-                "translation": ""
+                "translation": "熟悉的日常生活世界"
               }
             ]
           },
           {
             "id": "everyday-adjective-2",
             "definition": "appropriate for ordinary or routine occasions",
-            "translation": "",
+            "translation": "适合日常场合的",
             "examples": []
           },
           {
             "id": "everyday-adjective-3",
             "definition": "found in the ordinary course of events",
-            "translation": "",
+            "translation": "日常发生的",
             "examples": [
               {
                 "text": "a placid everyday scene",
-                "translation": ""
+                "translation": "一片宁静的日常景象"
               }
             ]
           }
@@ -86472,8 +86472,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -86601,11 +86601,11 @@
           {
             "id": "everywhere-adverb-1",
             "definition": "to or in any or all places",
-            "translation": "",
+            "translation": "到处；处处",
             "examples": [
               {
                 "text": "You find fast food stores everywhere",
-                "translation": ""
+                "translation": "你到处都能找到快餐店。"
               }
             ]
           }
@@ -86614,8 +86614,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -104373,13 +104373,13 @@
           {
             "id": "explicit-adjective-1",
             "definition": "precisely and clearly expressed or readily observable",
-            "translation": "",
+            "translation": "清楚的；明确的",
             "examples": []
           },
           {
             "id": "explicit-adjective-2",
             "definition": "in accordance with fact or the primary meaning of a term",
-            "translation": "",
+            "translation": "直接的；不含糊的",
             "examples": []
           }
         ]
@@ -104400,8 +104400,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -116108,7 +116108,7 @@
           {
             "id": "eyesight-noun-1",
             "definition": "normal use of the faculty of vision",
-            "translation": "",
+            "translation": "视力",
             "examples": []
           }
         ]
@@ -116116,8 +116116,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -116314,7 +116314,7 @@
           {
             "id": "eyewitness-noun-1",
             "definition": "a spectator who can describe what happened",
-            "translation": "",
+            "translation": "目击者",
             "examples": []
           }
         ]
@@ -116325,7 +116325,7 @@
           {
             "id": "eyewitness-verb-1",
             "definition": "be present at an event and see it with one's own eyes",
-            "translation": "",
+            "translation": "目击",
             "examples": []
           }
         ]
@@ -116333,8 +116333,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

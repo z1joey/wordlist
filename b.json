@@ -1918,13 +1918,13 @@
           {
             "id": "bachelor-noun-1",
             "definition": "a man who has never been married",
-            "translation": "",
+            "translation": "单身男子；未婚男人",
             "examples": []
           },
           {
             "id": "bachelor-noun-2",
             "definition": "a knight of the lowest order",
-            "translation": "",
+            "translation": "（骑士等级中最低的）学士骑士",
             "examples": []
           }
         ]
@@ -1932,8 +1932,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -2868,7 +2868,7 @@
           {
             "id": "backache-noun-1",
             "definition": "an ache localized in the back",
-            "translation": "",
+            "translation": "背痛",
             "examples": []
           }
         ]
@@ -2881,8 +2881,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -6511,7 +6511,7 @@
           {
             "id": "bacon-noun-1",
             "definition": "back and sides of a hog salted and dried or smoked",
-            "translation": "",
+            "translation": "腌猪肉；熏猪肉",
             "examples": []
           }
         ]
@@ -6519,8 +6519,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -7441,7 +7441,7 @@
           {
             "id": "bacterium-noun-1",
             "definition": "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission",
-            "translation": "",
+            "translation": "细菌",
             "examples": []
           }
         ]
@@ -7449,8 +7449,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8400,7 +8400,7 @@
           {
             "id": "badminton-noun-1",
             "definition": "a game played on a court with light long-handled rackets used to volley a shuttlecock over a net",
-            "translation": "",
+            "translation": "羽毛球（运动）",
             "examples": []
           }
         ]
@@ -8408,8 +8408,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9275,19 +9275,19 @@
           {
             "id": "baggage-noun-1",
             "definition": "cases used to carry belongings when traveling",
-            "translation": "",
+            "translation": "行李",
             "examples": []
           },
           {
             "id": "baggage-noun-2",
             "definition": "the portable equipment and supplies of an army",
-            "translation": "",
+            "translation": "辎重",
             "examples": []
           },
           {
             "id": "baggage-noun-3",
             "definition": "a worthless or immoral woman",
-            "translation": "",
+            "translation": "（贬义）不检点的女人",
             "examples": []
           }
         ]
@@ -9295,8 +9295,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -10548,22 +10548,22 @@
           {
             "id": "bake-verb-1",
             "definition": "to prepare with dry heat in an oven",
-            "translation": "",
+            "translation": "烘；烤",
             "examples": [
               {
                 "text": "I baked a cake for my partner's birthday.",
-                "translation": ""
+                "translation": "我为伴侣的生日烤了一个蛋糕。"
               }
             ]
           },
           {
             "id": "bake-verb-2",
             "definition": "to be very hot, due to hot weather or exposure to the sun",
-            "translation": "",
+            "translation": "晒得热极了",
             "examples": [
               {
                 "text": "I baked while at the beach.",
-                "translation": ""
+                "translation": "我在海滩上晒得热极了。"
               }
             ]
           }
@@ -10589,8 +10589,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -10774,7 +10774,7 @@
           {
             "id": "bakery-noun-1",
             "definition": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
-            "translation": "",
+            "translation": "面包店；糕点店",
             "examples": []
           }
         ]
@@ -10782,8 +10782,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -11842,13 +11842,13 @@
           {
             "id": "balcony-noun-1",
             "definition": "a platform projecting from the wall of a building and surrounded by a balustrade or railing or parapet",
-            "translation": "",
+            "translation": "阳台",
             "examples": []
           },
           {
             "id": "balcony-noun-2",
             "definition": "an upper floor projecting from the rear over the main floor in an auditorium",
-            "translation": "",
+            "translation": "（剧场的）楼厅；包厢",
             "examples": []
           }
         ]
@@ -11856,8 +11856,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13462,13 +13462,13 @@
           {
             "id": "ballet-noun-1",
             "definition": "a theatrical representation of a story that is performed to music by trained dancers",
-            "translation": "",
+            "translation": "芭蕾舞剧",
             "examples": []
           },
           {
             "id": "ballet-noun-2",
             "definition": "music written for a ballet",
-            "translation": "",
+            "translation": "芭蕾舞曲",
             "examples": []
           }
         ]
@@ -13476,8 +13476,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13868,13 +13868,13 @@
           {
             "id": "balloon-noun-1",
             "definition": "large tough nonrigid bag filled with gas or heated air",
-            "translation": "",
+            "translation": "气球",
             "examples": []
           },
           {
             "id": "balloon-noun-2",
             "definition": "small thin inflatable rubber bag with narrow neck",
-            "translation": "",
+            "translation": "（橡胶）小气球",
             "examples": []
           }
         ]
@@ -13885,22 +13885,22 @@
           {
             "id": "balloon-verb-1",
             "definition": "to become inflated",
-            "translation": "",
+            "translation": "膨胀；鼓起",
             "examples": [
               {
                 "text": "The sails ballooned.",
-                "translation": ""
+                "translation": "船帆鼓起来了。"
               }
             ]
           },
           {
             "id": "balloon-verb-2",
             "definition": "to ride in a hot-air balloon",
-            "translation": "",
+            "translation": "乘热气球飞行",
             "examples": [
               {
                 "text": "I tried to balloon around the earth but storms forced me to land after less than one hour.",
-                "translation": ""
+                "translation": "我曾想乘热气球环游地球，但不到一小时就被暴风雨迫降了。"
               }
             ]
           }
@@ -13909,8 +13909,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -14291,7 +14291,7 @@
           {
             "id": "ballpoint-noun-1",
             "definition": "a pen that has a small metal ball as the point of transfer of ink to paper",
-            "translation": "",
+            "translation": "圆珠笔",
             "examples": []
           }
         ]
@@ -14299,8 +14299,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -15210,13 +15210,13 @@
           {
             "id": "bamboo-noun-1",
             "definition": "woody tropical grass having hollow woody stems",
-            "translation": "",
+            "translation": "竹子",
             "examples": []
           },
           {
             "id": "bamboo-noun-2",
             "definition": "the hard woody stems of bamboo plants",
-            "translation": "",
+            "translation": "竹竿；竹材",
             "examples": []
           }
         ]
@@ -15229,8 +15229,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -15517,13 +15517,13 @@
           {
             "id": "banana-noun-1",
             "definition": "elongated crescent-shaped yellow fruit with soft sweet flesh",
-            "translation": "",
+            "translation": "香蕉",
             "examples": []
           },
           {
             "id": "banana-noun-2",
             "definition": "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits",
-            "translation": "",
+            "translation": "芭蕉；香蕉树",
             "examples": []
           }
         ]
@@ -15531,8 +15531,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -15796,7 +15796,7 @@
           {
             "id": "bandage-noun-1",
             "definition": "a piece of soft material that covers and protects an injured part of the body",
-            "translation": "",
+            "translation": "绷带",
             "examples": []
           }
         ]
@@ -15807,22 +15807,22 @@
           {
             "id": "bandage-verb-1",
             "definition": "to dress by covering or binding",
-            "translation": "",
+            "translation": "用绷带包扎",
             "examples": [
               {
                 "text": "The nurse bandaged a sprained ankle.",
-                "translation": ""
+                "translation": "护士用绷带包扎了扭伤的脚踝。"
               }
             ]
           },
           {
             "id": "bandage-verb-2",
             "definition": "to wrap around with something so as to cover or enclose",
-            "translation": "",
+            "translation": "用…包住；围住",
             "examples": [
               {
                 "text": "The boxer bandages their hands before the fight.",
-                "translation": ""
+                "translation": "拳击手比赛前会用绷带缠手。"
               }
             ]
           }
@@ -15836,8 +15836,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17150,11 +17150,11 @@
           {
             "id": "bang-adverb-1",
             "definition": "directly on target",
-            "translation": "",
+            "translation": "砰地；正对着",
             "examples": [
               {
                 "text": "The child wasn't looking and ran bang into the pole.",
-                "translation": ""
+                "translation": "那孩子没看路，砰地撞上了电线杆。"
               }
             ]
           }
@@ -17166,13 +17166,13 @@
           {
             "id": "bang-noun-1",
             "definition": "a conspicuous success",
-            "translation": "",
+            "translation": "巨大的成功",
             "examples": []
           },
           {
             "id": "bang-noun-2",
             "definition": "a border of hair that is cut short and hangs across the forehead",
-            "translation": "",
+            "translation": "刘海",
             "examples": []
           },
           {
@@ -17184,17 +17184,17 @@
           {
             "id": "bang-noun-4",
             "definition": "a vigorous blow",
-            "translation": "",
+            "translation": "猛击；重击",
             "examples": []
           },
           {
             "id": "bang-noun-5",
             "definition": "the swift release of a store of affective force",
-            "translation": "",
+            "translation": "（情感的）迸发",
             "examples": [
               {
                 "text": "they got a great bang out of it",
-                "translation": ""
+                "translation": "他们从中得到了巨大的乐趣。"
               }
             ]
           }
@@ -17228,22 +17228,22 @@
           {
             "id": "bang-verb-3",
             "definition": "to have sexual intercourse with",
-            "translation": "",
+            "translation": "（粗俗）与…性交",
             "examples": [
               {
                 "text": "I wanted to bang them after dinner.",
-                "translation": ""
+                "translation": "晚饭后我特想和他们亲热一下。"
               }
             ]
           },
           {
             "id": "bang-verb-4",
             "definition": "to move noisily",
-            "translation": "",
+            "translation": "砰地关上；砰地移动",
             "examples": [
               {
                 "text": "The window banged shut.",
-                "translation": ""
+                "translation": "窗户砰地关上了。"
               }
             ]
           },
@@ -17336,7 +17336,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -20931,19 +20931,19 @@
           {
             "id": "barbecue-noun-1",
             "definition": "a rack to hold meat for cooking over hot charcoal usually out of doors",
-            "translation": "",
+            "translation": "（户外烧烤用的）烤架",
             "examples": []
           },
           {
             "id": "barbecue-noun-2",
             "definition": "a cookout in which food is cooked over an open fire",
-            "translation": "",
+            "translation": "烧烤野餐",
             "examples": []
           },
           {
             "id": "barbecue-noun-3",
             "definition": "meat that has been barbecued or grilled in a highly seasoned sauce",
-            "translation": "",
+            "translation": "烧烤食物",
             "examples": []
           }
         ]
@@ -20954,11 +20954,11 @@
           {
             "id": "barbecue-verb-1",
             "definition": "to cook outdoors on a grill",
-            "translation": "",
+            "translation": "烧烤；炙烤",
             "examples": [
               {
                 "text": "We barbecued the steaks.",
-                "translation": ""
+                "translation": "我们烤了牛排。"
               }
             ]
           }
@@ -20967,8 +20967,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21278,7 +21278,7 @@
           {
             "id": "barber-noun-1",
             "definition": "a hairdresser who cuts hair and shaves beards as a trade",
-            "translation": "",
+            "translation": "（为男子理发修面的）理发师",
             "examples": []
           }
         ]
@@ -21289,11 +21289,11 @@
           {
             "id": "barber-verb-1",
             "definition": "to perform the services of a barber: cut the hair and/or beard of",
-            "translation": "",
+            "translation": "为…理发修面",
             "examples": [
               {
                 "text": "I asked my roommate to barber my hair.",
-                "translation": ""
+                "translation": "我让室友帮我理发。"
               }
             ]
           }
@@ -21302,8 +21302,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21360,7 +21360,7 @@
           {
             "id": "barbershop-noun-1",
             "definition": "a shop where men can get their hair cut",
-            "translation": "",
+            "translation": "（男子的）理发店",
             "examples": []
           }
         ]
@@ -21368,8 +21368,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21902,86 +21902,86 @@
           {
             "id": "bare-adjective-1",
             "definition": "lacking embellishment or ornamentation",
-            "translation": "",
+            "translation": "无装饰的；朴素的",
             "examples": []
           },
           {
             "id": "bare-adjective-2",
             "definition": "completely unclothed",
-            "translation": "",
+            "translation": "赤裸的；光秃的",
             "examples": [
               {
                 "text": "bare bodies",
-                "translation": ""
+                "translation": "裸体"
               }
             ]
           },
           {
             "id": "bare-adjective-3",
             "definition": "having everything extraneous removed including contents",
-            "translation": "",
+            "translation": "空的；无内容的",
             "examples": [
               {
                 "text": "the bare walls",
-                "translation": ""
+                "translation": "光秃的墙壁"
               }
             ]
           },
           {
             "id": "bare-adjective-4",
             "definition": "providing no shelter or sustenance",
-            "translation": "",
+            "translation": "无遮蔽的；荒凉的",
             "examples": [
               {
                 "text": "bare rocky hills",
-                "translation": ""
+                "translation": "光秃秃的岩石山丘"
               }
             ]
           },
           {
             "id": "bare-adjective-5",
             "definition": "lacking its natural or customary covering",
-            "translation": "",
+            "translation": "无遮盖的",
             "examples": [
               {
                 "text": "a bare hill",
-                "translation": ""
+                "translation": "光秃的小山"
               }
             ]
           },
           {
             "id": "bare-adjective-6",
             "definition": "lacking a surface finish such as paint",
-            "translation": "",
+            "translation": "无（涂漆等）表面处理的",
             "examples": [
               {
                 "text": "bare wood",
-                "translation": ""
+                "translation": "未上漆的木头"
               }
             ]
           },
           {
             "id": "bare-adjective-7",
             "definition": "not having a protective covering",
-            "translation": "",
+            "translation": "无保护层的",
             "examples": []
           },
           {
             "id": "bare-adjective-8",
             "definition": "lacking in amplitude or quantity",
-            "translation": "",
+            "translation": "不足的；勉强的",
             "examples": []
           },
           {
             "id": "bare-adjective-9",
             "definition": "apart from anything else",
-            "translation": "",
+            "translation": "仅；只不过",
             "examples": []
           },
           {
             "id": "bare-adjective-10",
             "definition": "just barely adequate or within a lower limit",
-            "translation": "",
+            "translation": "仅仅够的；刚够的",
             "examples": []
           }
         ]
@@ -22003,11 +22003,11 @@
           {
             "id": "bare-verb-2",
             "definition": "to lay bare",
-            "translation": "",
+            "translation": "使暴露；揭露",
             "examples": [
               {
                 "text": "The streaker bared it all.",
-                "translation": ""
+                "translation": "那个裸奔者把一切都暴露了。"
               }
             ]
           }
@@ -22021,8 +22021,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -22738,22 +22738,22 @@
           {
             "id": "bargain-noun-1",
             "definition": "an agreement between parties, usually arrived at after discussion, fixing obligations of each",
-            "translation": "",
+            "translation": "协议；契约",
             "examples": [
               {
                 "text": "We made a bargain with our supplier.",
-                "translation": ""
+                "translation": "我们与供应商达成了一项协议。"
               }
             ]
           },
           {
             "id": "bargain-noun-2",
             "definition": "an advantageous purchase",
-            "translation": "",
+            "translation": "便宜货；特价品",
             "examples": [
               {
                 "text": "I got a bargain at the auction.",
-                "translation": ""
+                "translation": "我在拍卖会上买到了一件便宜货。"
               }
             ]
           }
@@ -22765,22 +22765,22 @@
           {
             "id": "bargain-verb-1",
             "definition": "to come to terms",
-            "translation": "",
+            "translation": "达成协议",
             "examples": [
               {
                 "text": "We bargained with the victors.",
-                "translation": ""
+                "translation": "我们与胜利者达成了协议。"
               }
             ]
           },
           {
             "id": "bargain-verb-2",
             "definition": "to negotiate the terms of an exchange",
-            "translation": "",
+            "translation": "讨价还价；洽谈",
             "examples": [
               {
                 "text": "We bargained for a beautiful rug in the bazaar.",
-                "translation": ""
+                "translation": "我们在集市上为一块漂亮的地毯讨价还价。"
               }
             ]
           }
@@ -22830,8 +22830,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -23413,25 +23413,25 @@
           {
             "id": "bark-noun-1",
             "definition": "a sailing ship with 3 (or more) masts",
-            "translation": "",
+            "translation": "三桅（或多桅）帆船",
             "examples": []
           },
           {
             "id": "bark-noun-2",
             "definition": "the sound made by a dog",
-            "translation": "",
+            "translation": "狗吠声",
             "examples": []
           },
           {
             "id": "bark-noun-3",
             "definition": "a noise resembling the bark of a dog",
-            "translation": "",
+            "translation": "类似犬吠的声响",
             "examples": []
           },
           {
             "id": "bark-noun-4",
             "definition": "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "translation": "",
+            "translation": "树皮",
             "examples": []
           }
         ]
@@ -23442,44 +23442,44 @@
           {
             "id": "bark-verb-1",
             "definition": "to tan a skin with bark tannins",
-            "translation": "",
+            "translation": "用树鞣料鞣制",
             "examples": [
               {
                 "text": "I learned how to bark a deer hide the traditional way.",
-                "translation": ""
+                "translation": "我学会了用传统方法鞣制鹿皮。"
               }
             ]
           },
           {
             "id": "bark-verb-2",
             "definition": "to speak in an unfriendly tone",
-            "translation": "",
+            "translation": "厉声说；咆哮",
             "examples": [
               {
                 "text": "They barked into the dictaphone.",
-                "translation": ""
+                "translation": "他们冲着录音机吼叫。"
               }
             ]
           },
           {
             "id": "bark-verb-3",
             "definition": "to make barking sounds",
-            "translation": "",
+            "translation": "（狗）吠叫",
             "examples": [
               {
                 "text": "The dogs barked at the stranger.",
-                "translation": ""
+                "translation": "狗对着陌生人吠叫。"
               }
             ]
           },
           {
             "id": "bark-verb-4",
             "definition": "to remove the bark of a tree",
-            "translation": "",
+            "translation": "剥去树皮",
             "examples": [
               {
                 "text": "We were barking for hours and I have a sore back.",
-                "translation": ""
+                "translation": "我们剥了好几个小时的树皮，我腰都酸了。"
               }
             ]
           }
@@ -23513,8 +23513,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -27655,13 +27655,13 @@
           {
             "id": "baseball-noun-1",
             "definition": "a ball game played with a bat and ball between two teams of nine players",
-            "translation": "",
+            "translation": "棒球（运动）",
             "examples": []
           },
           {
             "id": "baseball-noun-2",
             "definition": "a ball used in playing baseball",
-            "translation": "",
+            "translation": "棒球",
             "examples": []
           }
         ]
@@ -27669,8 +27669,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -27981,13 +27981,13 @@
           {
             "id": "basement-noun-1",
             "definition": "the lowermost portion of a structure partly or wholly below ground level",
-            "translation": "",
+            "translation": "地下室",
             "examples": []
           },
           {
             "id": "basement-noun-2",
             "definition": "the ground floor facade or interior in Renaissance architecture",
-            "translation": "",
+            "translation": "（文艺复兴建筑的）底层",
             "examples": []
           }
         ]
@@ -27995,8 +27995,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29068,40 +29068,40 @@
           {
             "id": "basin-noun-1",
             "definition": "a bowl-shaped vessel",
-            "translation": "",
+            "translation": "盆",
             "examples": []
           },
           {
             "id": "basin-noun-2",
             "definition": "a bathroom sink that is permanently installed and connected to a water supply and drainpipe",
-            "translation": "",
+            "translation": "（浴室的）洗脸盆",
             "examples": []
           },
           {
             "id": "basin-noun-3",
             "definition": "the entire geographical area drained by a river and its tributaries",
-            "translation": "",
+            "translation": "流域",
             "examples": []
           },
           {
             "id": "basin-noun-4",
             "definition": "a natural depression in the surface of the land often with a lake at the bottom of it",
-            "translation": "",
+            "translation": "（地表）凹地；盆地",
             "examples": [
               {
                 "text": "the basin of the Great Salt Lake",
-                "translation": ""
+                "translation": "大盐湖的盆地。"
               }
             ]
           },
           {
             "id": "basin-noun-5",
             "definition": "the quantity that a basin will hold",
-            "translation": "",
+            "translation": "一盆之量",
             "examples": [
               {
                 "text": "a basinful of water",
-                "translation": ""
+                "translation": "一盆水。"
               }
             ]
           }
@@ -29115,8 +29115,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29553,13 +29553,13 @@
           {
             "id": "basketball-noun-1",
             "definition": "a game played on a court by two opposing teams of 5 players",
-            "translation": "",
+            "translation": "篮球（运动）",
             "examples": []
           },
           {
             "id": "basketball-noun-2",
             "definition": "an inflated ball used in playing basketball",
-            "translation": "",
+            "translation": "篮球",
             "examples": []
           }
         ]
@@ -29572,8 +29572,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31271,41 +31271,41 @@
           {
             "id": "bat-noun-1",
             "definition": "in baseball, a turn trying to get a hit",
-            "translation": "",
+            "translation": "（棒球的）击球机会",
             "examples": [
               {
                 "text": "I was at bat when it happened.",
-                "translation": ""
+                "translation": "事情发生时我正在击球。"
               }
             ]
           },
           {
             "id": "bat-noun-2",
             "definition": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
-            "translation": "",
+            "translation": "蝙蝠",
             "examples": []
           },
           {
             "id": "bat-noun-3",
             "definition": "a club used for hitting a ball in various games",
-            "translation": "",
+            "translation": "（球类运动的）球棒；球拍",
             "examples": []
           },
           {
             "id": "bat-noun-4",
             "definition": "the club used in playing cricket",
-            "translation": "",
+            "translation": "（板球的）球板",
             "examples": [
               {
                 "text": "a cricket bat has a narrow handle and a broad flat end for hitting",
-                "translation": ""
+                "translation": "板球棒手柄细长、末端宽扁用于击球。"
               }
             ]
           },
           {
             "id": "bat-noun-5",
             "definition": "a small racket with a long handle used for playing squash",
-            "translation": "",
+            "translation": "（壁球等的）球拍",
             "examples": []
           }
         ]
@@ -31316,44 +31316,44 @@
           {
             "id": "bat-verb-1",
             "definition": "to wink briefly",
-            "translation": "",
+            "translation": "眨眼",
             "examples": [
               {
                 "text": "They batted their eyelashes at me.",
-                "translation": ""
+                "translation": "她们朝我眨眼。"
               }
             ]
           },
           {
             "id": "bat-verb-2",
             "definition": "to strike with, or as if with a baseball bat",
-            "translation": "",
+            "translation": "用球棒击打",
             "examples": [
               {
                 "text": "I bat the ball.",
-                "translation": ""
+                "translation": "我击了一下球。"
               }
             ]
           },
           {
             "id": "bat-verb-3",
             "definition": "to use a bat",
-            "translation": "",
+            "translation": "用球棒击球",
             "examples": [
               {
                 "text": "Who's batting?",
-                "translation": ""
+                "translation": "谁在击球？"
               }
             ]
           },
           {
             "id": "bat-verb-4",
             "definition": "to have a turn at bat",
-            "translation": "",
+            "translation": "轮到击球",
             "examples": [
               {
                 "text": "Jones bats first, followed by Martinez.",
-                "translation": ""
+                "translation": "琼斯先上场击球，马丁内斯紧随其后。"
               }
             ]
           }
@@ -31395,8 +31395,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31704,55 +31704,55 @@
           {
             "id": "bath-noun-1",
             "definition": "the process of soaking and washing one's body in a bathtub",
-            "translation": "",
+            "translation": "洗澡；沐浴",
             "examples": [
               {
                 "text": "I have a long bath every Sunday evening.",
-                "translation": ""
+                "translation": "我每个星期天晚上都洗个长长的澡。"
               }
             ]
           },
           {
             "id": "bath-noun-2",
             "definition": "a vessel containing liquid into which something is immersed, as to process it, to maintain it at a constant temperature, or to lubricate it",
-            "translation": "",
+            "translation": "（浸物件用的）液体容器",
             "examples": [
               {
                 "text": "I soaked the etching in an acid bath to preserve it.",
-                "translation": ""
+                "translation": "我把蚀刻画泡在酸液里以防腐。"
               }
             ]
           },
           {
             "id": "bath-noun-3",
             "definition": "a room containing a bathtub or shower and usually a washbasin and toilet",
-            "translation": "",
+            "translation": "浴室",
             "examples": [
               {
                 "text": "My housemates didn't like the fact that I spent over an hour in the bath every morning.",
-                "translation": ""
+                "translation": "我的室友们不喜欢我每天早上在浴室里待一个多小时。"
               }
             ]
           },
           {
             "id": "bath-noun-4",
             "definition": "a relatively large open container that you fill with water and use to wash the body",
-            "translation": "",
+            "translation": "浴缸；浴盆",
             "examples": [
               {
                 "text": "As part of the renovations, I installed a new ceramic bath.",
-                "translation": ""
+                "translation": "作为装修的一部分，我装了一个新的陶瓷浴缸。"
               }
             ]
           },
           {
             "id": "bath-noun-5",
             "definition": "an ancient Hebrew liquid measure equal to about 10 gallons",
-            "translation": "",
+            "translation": "（古希伯来）液量单位（约10加仑）",
             "examples": [
               {
                 "text": "A bath is composed of six hin.",
-                "translation": ""
+                "translation": "一巴特有六欣。"
               }
             ]
           }
@@ -31764,11 +31764,11 @@
           {
             "id": "bath-verb-1",
             "definition": "to clean one's body by immersion into water",
-            "translation": "",
+            "translation": "洗澡；沐浴",
             "examples": [
               {
                 "text": "Children should bath every day.",
-                "translation": ""
+                "translation": "孩子应该每天洗澡。"
               }
             ]
           }
@@ -31777,8 +31777,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31814,11 +31814,11 @@
           {
             "id": "bathe-noun-1",
             "definition": "the act of swimming",
-            "translation": "",
+            "translation": "游泳",
             "examples": [
               {
                 "text": "I had a good bathe in the river.",
-                "translation": ""
+                "translation": "我在河里畅快地游了个泳。"
               }
             ]
           }
@@ -31830,22 +31830,22 @@
           {
             "id": "bathe-verb-1",
             "definition": "to clean one's body by immersion into water",
-            "translation": "",
+            "translation": "洗澡；沐浴",
             "examples": [
               {
                 "text": "The child should bathe every day.",
-                "translation": ""
+                "translation": "孩子应该每天洗澡。"
               }
             ]
           },
           {
             "id": "bathe-verb-2",
             "definition": "to suffuse with or as if with light",
-            "translation": "",
+            "translation": "（光线）洒满；笼罩",
             "examples": [
               {
                 "text": "The room was bathed in sunlight.",
-                "translation": ""
+                "translation": "房间里洒满了阳光。"
               }
             ]
           }
@@ -31867,8 +31867,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32284,7 +32284,7 @@
           {
             "id": "bathrobe-noun-1",
             "definition": "a loose-fitting robe of towelling",
-            "translation": "",
+            "translation": "浴衣",
             "examples": []
           }
         ]
@@ -32292,8 +32292,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32325,18 +32325,18 @@
           {
             "id": "bathroom-noun-1",
             "definition": "a room containing a bathtub or shower and usually a washbasin and toilet",
-            "translation": "",
+            "translation": "浴室",
             "examples": [
               {
                 "text": "We're looking for a house with at least two bathrooms.",
-                "translation": ""
+                "translation": "我们正在找一栋至少有两个卫生间的房子。"
               }
             ]
           },
           {
             "id": "bathroom-noun-2",
             "definition": "a room or building equipped with one or more toilets",
-            "translation": "",
+            "translation": "厕所；洗手间",
             "examples": []
           }
         ]
@@ -32344,8 +32344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32372,7 +32372,7 @@
           {
             "id": "bathtub-noun-1",
             "definition": "a relatively large open container that you fill with water and use to wash the body",
-            "translation": "",
+            "translation": "浴缸；浴盆",
             "examples": []
           }
         ]
@@ -32380,8 +32380,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -33469,31 +33469,31 @@
           {
             "id": "battery-noun-1",
             "definition": "an assault in which the assailant makes physical contact",
-            "translation": "",
+            "translation": "殴打；人身侵犯",
             "examples": []
           },
           {
             "id": "battery-noun-2",
             "definition": "the heavy fire of artillery to saturate an area rather than hit a specific target",
-            "translation": "",
+            "translation": "炮兵连火力",
             "examples": []
           },
           {
             "id": "battery-noun-3",
             "definition": "a device that produces electricity",
-            "translation": "",
+            "translation": "电池",
             "examples": []
           },
           {
             "id": "battery-noun-4",
             "definition": "a series of stamps operated in one mortar for crushing ores",
-            "translation": "",
+            "translation": "（捣矿用的）一组捣锤",
             "examples": []
           },
           {
             "id": "battery-noun-5",
             "definition": "a collection of related things intended for use together",
-            "translation": "",
+            "translation": "一套；一组相关的东西",
             "examples": [
               {
                 "text": "took a battery of achievement tests",
@@ -33504,7 +33504,7 @@
           {
             "id": "battery-noun-6",
             "definition": "a unit composed of the pitcher and catcher",
-            "translation": "",
+            "translation": "（棒球）投手和接手的组合",
             "examples": []
           },
           {
@@ -33535,7 +33535,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -33891,7 +33891,7 @@
           {
             "id": "battleground-noun-1",
             "definition": "a region where a battle is being (or has been) fought",
-            "translation": "",
+            "translation": "战场",
             "examples": []
           }
         ]
@@ -33899,8 +33899,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34982,11 +34982,11 @@
           {
             "id": "bay-adjective-1",
             "definition": "used of animals especially a horse, of a moderate reddish-brown color",
-            "translation": "",
+            "translation": "（马）栗色的；红棕色的",
             "examples": [
               {
                 "text": "Your new horse has a beautiful bay coat. ",
-                "translation": ""
+                "translation": "你的新马长着一身漂亮的栗色毛。"
               }
             ]
           }
@@ -34998,7 +34998,7 @@
           {
             "id": "bay-noun-1",
             "definition": "a horse of a moderate reddish-brown color",
-            "translation": "",
+            "translation": "栗色马",
             "examples": []
           },
           {
@@ -35010,36 +35010,36 @@
           {
             "id": "bay-noun-3",
             "definition": "a compartment in an aircraft used for some specific purpose",
-            "translation": "",
+            "translation": "（飞机的）舱",
             "examples": [
               {
                 "text": "One of the crew opened the bomb bay.",
-                "translation": ""
+                "translation": "机组人员之一打开了炸弹舱。"
               }
             ]
           },
           {
             "id": "bay-noun-4",
             "definition": "a compartment on a ship between decks",
-            "translation": "",
+            "translation": "（船的）舱间",
             "examples": []
           },
           {
             "id": "bay-noun-5",
             "definition": "the sound of a hound on the scent",
-            "translation": "",
+            "translation": "猎犬的吠声",
             "examples": []
           },
           {
             "id": "bay-noun-6",
             "definition": "an indentation of a shoreline larger than a cove but smaller than a gulf",
-            "translation": "",
+            "translation": "海湾",
             "examples": []
           },
           {
             "id": "bay-noun-7",
             "definition": "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking",
-            "translation": "",
+            "translation": "月桂树",
             "examples": []
           }
         ]
@@ -35050,22 +35050,22 @@
           {
             "id": "bay-verb-1",
             "definition": "to bark with prolonged noises, of dogs",
-            "translation": "",
+            "translation": "（狗）连续吠叫",
             "examples": [
               {
                 "text": "Fluffy bayed all night.",
-                "translation": ""
+                "translation": "那毛茸茸的小狗吠了一夜。"
               }
             ]
           },
           {
             "id": "bay-verb-2",
             "definition": "to utter in deep prolonged tones",
-            "translation": "",
+            "translation": "低沉地长嚎",
             "examples": [
               {
                 "text": "I bayed at the moon.",
-                "translation": ""
+                "translation": "我对着月亮长嗥。"
               }
             ]
           }
@@ -35087,8 +35087,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -35644,66 +35644,66 @@
           {
             "id": "be-verb-2",
             "definition": "to work in a specific place, with a specific subject, or in a specific function",
-            "translation": "",
+            "translation": "在（某地或某职位）工作；担任",
             "examples": [
               {
                 "text": "I am a technician.",
-                "translation": ""
+                "translation": "我是一名技术员。"
               }
             ]
           },
           {
             "id": "be-verb-3",
             "definition": "to have an existence, be extant",
-            "translation": "",
+            "translation": "存在；生存",
             "examples": [
               {
                 "text": "I questioned whether Hamlet should be.",
-                "translation": ""
+                "translation": "我质疑哈姆雷特是否该存在。"
               }
             ]
           },
           {
             "id": "be-verb-4",
             "definition": "to be identical to",
-            "translation": "",
+            "translation": "等同；就是",
             "examples": [
               {
                 "text": "They are football fans.",
-                "translation": ""
+                "translation": "他们是足球迷。"
               }
             ]
           },
           {
             "id": "be-verb-5",
             "definition": "to represent, as of a character on stage",
-            "translation": "",
+            "translation": "扮演；担任",
             "examples": [
               {
                 "text": "I'll be the cop if you are the robber.",
-                "translation": ""
+                "translation": "我演警察，你演强盗。"
               }
             ]
           },
           {
             "id": "be-verb-6",
             "definition": "to be priced at",
-            "translation": "",
+            "translation": "（价格）值为；标价",
             "examples": [
               {
                 "text": "That is $10.00.",
-                "translation": ""
+                "translation": "那件标价10美元。"
               }
             ]
           },
           {
             "id": "be-verb-7",
             "definition": "to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form",
-            "translation": "",
+            "translation": "保持原状；不受打扰",
             "examples": [
               {
                 "text": "I wish you'd just let me be.",
-                "translation": ""
+                "translation": "希望你让我清静一会儿。"
               }
             ]
           }
@@ -39841,7 +39841,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -40913,13 +40913,13 @@
           {
             "id": "beam-noun-1",
             "definition": "a gymnastic apparatus used by women gymnasts",
-            "translation": "",
+            "translation": "（女子体操的）平衡木",
             "examples": []
           },
           {
             "id": "beam-noun-2",
             "definition": "long thick piece of wood or metal or concrete, etc., used in construction",
-            "translation": "",
+            "translation": "梁；横梁",
             "examples": []
           },
           {
@@ -40936,25 +40936,25 @@
           {
             "id": "beam-noun-4",
             "definition": "(nautical) breadth amidships",
-            "translation": "",
+            "translation": "船宽",
             "examples": []
           },
           {
             "id": "beam-noun-5",
             "definition": "a signal transmitted along a narrow path",
-            "translation": "",
+            "translation": "定向信号",
             "examples": []
           },
           {
             "id": "beam-noun-6",
             "definition": "a column of light (as from a beacon)",
-            "translation": "",
+            "translation": "光柱；光束",
             "examples": []
           },
           {
             "id": "beam-noun-7",
             "definition": "a group of nearly parallel lines of electromagnetic radiation",
-            "translation": "",
+            "translation": "（电磁辐射的）束",
             "examples": []
           }
         ]
@@ -40965,11 +40965,11 @@
           {
             "id": "beam-verb-1",
             "definition": "to smile radiantly",
-            "translation": "",
+            "translation": "喜形于色；微笑",
             "examples": [
               {
                 "text": "I beamed after winning the lottery.",
-                "translation": ""
+                "translation": "我中彩票后喜笑颜开。"
               }
             ]
           },
@@ -40987,44 +40987,44 @@
           {
             "id": "beam-verb-3",
             "definition": "to express with a cheerful face or smile",
-            "translation": "",
+            "translation": "（脸上）洋溢着；表达",
             "examples": [
               {
                 "text": "I beamed with approval.",
-                "translation": ""
+                "translation": "我面带赞同的微笑。"
               }
             ]
           },
           {
             "id": "beam-verb-4",
             "definition": "to experience a feeling of well-being or happiness, as from good health or an intense emotion",
-            "translation": "",
+            "translation": "感到愉快；高兴",
             "examples": [
               {
                 "text": "I was beaming with joy.",
-                "translation": ""
+                "translation": "我喜气洋洋。"
               }
             ]
           },
           {
             "id": "beam-verb-5",
             "definition": "to have a complexion with a strong bright color, such as red or pink",
-            "translation": "",
+            "translation": "（面色）红润；发亮",
             "examples": [
               {
                 "text": "You're really beaming.",
-                "translation": ""
+                "translation": "你满面红光。"
               }
             ]
           },
           {
             "id": "beam-verb-6",
             "definition": "to emit light",
-            "translation": "",
+            "translation": "发光；照耀",
             "examples": [
               {
                 "text": "The flashlight beamed with great intensity.",
-                "translation": ""
+                "translation": "手电筒发出强烈的光。"
               }
             ]
           }
@@ -41130,7 +41130,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -41312,25 +41312,25 @@
           {
             "id": "bean-noun-1",
             "definition": "informal terms for a human head",
-            "translation": "",
+            "translation": "（俚语）脑袋",
             "examples": []
           },
           {
             "id": "bean-noun-2",
             "definition": "any of various edible seeds of plants of the family Leguminosae used for food",
-            "translation": "",
+            "translation": "豆；豆科种子",
             "examples": []
           },
           {
             "id": "bean-noun-3",
             "definition": "any of various leguminous plants grown for their edible seeds and pods",
-            "translation": "",
+            "translation": "豆科植物",
             "examples": []
           },
           {
             "id": "bean-noun-4",
             "definition": "any of various seeds or fruits that are beans or resemble beans",
-            "translation": "",
+            "translation": "豆状果实",
             "examples": []
           }
         ]
@@ -41341,11 +41341,11 @@
           {
             "id": "bean-verb-1",
             "definition": "to hit on the head, especially with a pitched baseball",
-            "translation": "",
+            "translation": "（用球）击中…的头部",
             "examples": [
               {
                 "text": "The expert pitcher beaned the rookie with a fast pitch.",
-                "translation": ""
+                "translation": "那位经验丰富的投手用一个快速球砸中了新手的头。"
               }
             ]
           }
@@ -41354,8 +41354,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -42128,31 +42128,31 @@
           {
             "id": "beard-noun-1",
             "definition": "tuft of strong filaments by which e.g. a mussel makes itself fast to a fixed surface",
-            "translation": "",
+            "translation": "（贻贝等的）足丝",
             "examples": []
           },
           {
             "id": "beard-noun-2",
             "definition": "hairy growth on or near the face of certain mammals",
-            "translation": "",
+            "translation": "（哺乳动物的）须",
             "examples": []
           },
           {
             "id": "beard-noun-3",
             "definition": "the hair growing on the lower part of a man's face",
-            "translation": "",
+            "translation": "（下巴上的）胡须；络腮胡",
             "examples": []
           },
           {
             "id": "beard-noun-4",
             "definition": "a person who diverts suspicion from someone (especially a woman who accompanies a male homosexual in order to conceal his homosexuality)",
-            "translation": "",
+            "translation": "掩护者；伪装者",
             "examples": []
           },
           {
             "id": "beard-noun-5",
             "definition": "a tuft or growth of hairs or bristles on certain plants such as iris or grasses",
-            "translation": "",
+            "translation": "（植物的）芒；鬚毛",
             "examples": []
           }
         ]
@@ -42163,11 +42163,11 @@
           {
             "id": "beard-verb-1",
             "definition": "to go along the rim, like a beard around the chin",
-            "translation": "",
+            "translation": "沿着…边缘；环绕",
             "examples": [
               {
                 "text": "Houses bearded the top of the heights.",
-                "translation": ""
+                "translation": "山顶上房屋环列。"
               }
             ]
           }
@@ -42176,8 +42176,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -42753,7 +42753,7 @@
           {
             "id": "beast-noun-2",
             "definition": "a cruelly rapacious person",
-            "translation": "",
+            "translation": "凶残的人；禽兽",
             "examples": []
           }
         ]
@@ -42766,8 +42766,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -45718,7 +45718,7 @@
           {
             "id": "bedclothes-noun-1",
             "definition": "coverings that are used on a bed",
-            "translation": "",
+            "translation": "床上用品；铺盖",
             "examples": []
           }
         ]
@@ -45726,8 +45726,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -47057,7 +47057,7 @@
           {
             "id": "bedroom-noun-1",
             "definition": "a room used primarily for sleeping",
-            "translation": "",
+            "translation": "卧室",
             "examples": []
           }
         ]
@@ -47065,8 +47065,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48061,25 +48061,25 @@
           {
             "id": "beehive-noun-1",
             "definition": "a man-made receptacle that houses a swarm of bees",
-            "translation": "",
+            "translation": "蜂箱；蜂窝",
             "examples": []
           },
           {
             "id": "beehive-noun-2",
             "definition": "any workplace where people are very busy",
-            "translation": "",
+            "translation": "繁忙的工作场所",
             "examples": []
           },
           {
             "id": "beehive-noun-3",
             "definition": "a hairdo resembling a beehive",
-            "translation": "",
+            "translation": "蜂窝式发型",
             "examples": []
           },
           {
             "id": "beehive-noun-4",
             "definition": "a structure that provides a natural habitation for bees",
-            "translation": "",
+            "translation": "蜂巢",
             "examples": []
           }
         ]
@@ -48092,8 +48092,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48317,7 +48317,7 @@
           {
             "id": "beer-noun-1",
             "definition": "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
-            "translation": "",
+            "translation": "啤酒",
             "examples": []
           }
         ]
@@ -48338,8 +48338,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -49500,7 +49500,7 @@
           {
             "id": "beg-verb-1",
             "definition": "to call upon in supplication",
-            "translation": "",
+            "translation": "恳求；乞求",
             "examples": [
               {
                 "text": "They beg us for help since they are desperate.",
@@ -49511,7 +49511,7 @@
           {
             "id": "beg-verb-2",
             "definition": "to dodge, avoid answering, or take for granted",
-            "translation": "",
+            "translation": "回避；避而不答",
             "examples": [
               {
                 "text": "You beg the question.",
@@ -49522,7 +49522,7 @@
           {
             "id": "beg-verb-3",
             "definition": "to ask to obtain free",
-            "translation": "",
+            "translation": "乞讨；讨要",
             "examples": [
               {
                 "text": "I begged for money and food.",
@@ -49548,8 +49548,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51221,29 +51221,29 @@
           {
             "id": "behaviour-noun-1",
             "definition": "manner of acting or controlling yourself",
-            "translation": "",
+            "translation": "行为；举止",
             "examples": []
           },
           {
             "id": "behaviour-noun-2",
             "definition": "in psychology, the aggregate of the responses or reactions or movements made by an organism in any situation",
-            "translation": "",
+            "translation": "（心理学）行为",
             "examples": []
           },
           {
             "id": "behaviour-noun-3",
             "definition": "the way a person behaves toward other people",
-            "translation": "",
+            "translation": "为人处世的态度",
             "examples": []
           },
           {
             "id": "behaviour-noun-4",
             "definition": "the action or reaction of something, such as a machine or substance, under specified circumstances",
-            "translation": "",
+            "translation": "（机器等的）性能；表现",
             "examples": [
               {
                 "text": "The behavior of small particles can be studied in experiments.",
-                "translation": ""
+                "translation": "小粒子的行为可以在实验中研究。"
               }
             ]
           }
@@ -51261,8 +51261,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -54850,40 +54850,40 @@
           {
             "id": "belly-noun-1",
             "definition": "the underpart of the body of certain vertebrates such as snakes or fish",
-            "translation": "",
+            "translation": "（鱼类等的）腹部；下腹",
             "examples": []
           },
           {
             "id": "belly-noun-2",
             "definition": "a protruding abdomen",
-            "translation": "",
+            "translation": "（鼓起的）大肚子",
             "examples": []
           },
           {
             "id": "belly-noun-3",
             "definition": "the region of the body of a vertebrate between the thorax and the pelvis",
-            "translation": "",
+            "translation": "肚子；腹部",
             "examples": []
           },
           {
             "id": "belly-noun-4",
             "definition": "the hollow inside of something",
-            "translation": "",
+            "translation": "（物体的）内部；腹腔",
             "examples": [
               {
                 "text": "in the belly of the ship",
-                "translation": ""
+                "translation": "在船的腹腔里。"
               }
             ]
           },
           {
             "id": "belly-noun-5",
             "definition": "a part that bulges deeply",
-            "translation": "",
+            "translation": "鼓起部分",
             "examples": [
               {
                 "text": "the belly of a sail",
-                "translation": ""
+                "translation": "帆的鼓起部分。"
               }
             ]
           }
@@ -54895,11 +54895,11 @@
           {
             "id": "belly-verb-1",
             "definition": "to swell out or bulge out",
-            "translation": "",
+            "translation": "鼓起；涨满",
             "examples": [
               {
                 "text": "The balloon bellied out really quickly.",
-                "translation": ""
+                "translation": "气球很快就鼓了起来。"
               }
             ]
           }
@@ -54929,8 +54929,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -55682,53 +55682,53 @@
           {
             "id": "belt-noun-1",
             "definition": "the act of hitting vigorously",
-            "translation": "",
+            "translation": "（用力）鞭打",
             "examples": []
           },
           {
             "id": "belt-noun-2",
             "definition": "a band to tie or buckle around the body usually at the waist",
-            "translation": "",
+            "translation": "腰带；皮带",
             "examples": [
               {
                 "text": "My trousers don't stay up without a belt.",
-                "translation": ""
+                "translation": "我的裤子不系腰带就提不住。"
               }
             ]
           },
           {
             "id": "belt-noun-3",
             "definition": "endless loop of flexible material between two rotating shafts or pulleys",
-            "translation": "",
+            "translation": "（机器的）传动带",
             "examples": []
           },
           {
             "id": "belt-noun-4",
             "definition": "ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
-            "translation": "",
+            "translation": "（机枪的）弹链",
             "examples": []
           },
           {
             "id": "belt-noun-5",
             "definition": "a vigorous blow",
-            "translation": "",
+            "translation": "猛击",
             "examples": []
           },
           {
             "id": "belt-noun-6",
             "definition": "an elongated region where a specific condition or characteristic is found",
-            "translation": "",
+            "translation": "（狭长的）地带；区域",
             "examples": [
               {
                 "text": "a belt of high pressure",
-                "translation": ""
+                "translation": "高压带。"
               }
             ]
           },
           {
             "id": "belt-noun-7",
             "definition": "a path or strip (as cut by one course of mowing)",
-            "translation": "",
+            "translation": "（草地等的）一条；一长条",
             "examples": []
           }
         ]
@@ -55739,33 +55739,33 @@
           {
             "id": "belt-verb-1",
             "definition": "to fasten with a belt",
-            "translation": "",
+            "translation": "用带子系住",
             "examples": [
               {
                 "text": "I made sure to belt my trousers before leaving the bathroom.",
-                "translation": ""
+                "translation": "出浴室前我一定系好裤子。"
               }
             ]
           },
           {
             "id": "belt-verb-2",
             "definition": "to deliver a blow to",
-            "translation": "",
+            "translation": "重击；狠打",
             "examples": [
               {
                 "text": "The cat belted its toy with remarkable vigor.",
-                "translation": ""
+                "translation": "那只猫猛地扑向玩具。"
               }
             ]
           },
           {
             "id": "belt-verb-3",
             "definition": "to sing loudly and forcefully",
-            "translation": "",
+            "translation": "高声唱；引吭高歌",
             "examples": [
               {
                 "text": "I belted the song during karaoke night.",
-                "translation": ""
+                "translation": "我在卡拉OK之夜高歌一曲。"
               }
             ]
           }
@@ -55803,8 +55803,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56445,42 +56445,42 @@
           {
             "id": "bench-noun-1",
             "definition": "a long seat for more than one person",
-            "translation": "",
+            "translation": "长凳；长椅",
             "examples": []
           },
           {
             "id": "bench-noun-2",
             "definition": "(law) the seat for judges in a courtroom",
-            "translation": "",
+            "translation": "法官席",
             "examples": []
           },
           {
             "id": "bench-noun-3",
             "definition": "a strong worktable for a carpenter or mechanic",
-            "translation": "",
+            "translation": "（木工或机修的）工作台",
             "examples": []
           },
           {
             "id": "bench-noun-4",
             "definition": "persons who administer justice",
-            "translation": "",
+            "translation": "法官们",
             "examples": []
           },
           {
             "id": "bench-noun-5",
             "definition": "the reserve players on a team",
-            "translation": "",
+            "translation": "替补队员",
             "examples": [
               {
                 "text": "our team has a strong bench",
-                "translation": ""
+                "translation": "我队替补阵容实力很强。"
               }
             ]
           },
           {
             "id": "bench-noun-6",
             "definition": "a level shelf of land interrupting a declivity (with steep slopes above and below)",
-            "translation": "",
+            "translation": "（地质）阶地",
             "examples": []
           }
         ]
@@ -56491,11 +56491,11 @@
           {
             "id": "bench-verb-1",
             "definition": "to exhibit on a bench or table",
-            "translation": "",
+            "translation": "（尤指宠物犬）展示在展台上",
             "examples": [
               {
                 "text": "The poodles at the dog show were benched for the judges to see.",
-                "translation": ""
+                "translation": "狗展上的贵宾犬被陈列在展台上供裁判评判。"
               }
             ]
           },
@@ -56515,7 +56515,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -56600,36 +56600,36 @@
           {
             "id": "bend-noun-1",
             "definition": "curved segment (of a road or river or railroad track etc.)",
-            "translation": "",
+            "translation": "（路、河流等的）弯道；拐弯处",
             "examples": []
           },
           {
             "id": "bend-noun-2",
             "definition": "diagonal line traversing a shield from the upper right corner to the lower left",
-            "translation": "",
+            "translation": "（纹章学）斜对角线条",
             "examples": []
           },
           {
             "id": "bend-noun-3",
             "definition": "movement that causes the formation of a curve",
-            "translation": "",
+            "translation": "弯曲；转弯",
             "examples": []
           },
           {
             "id": "bend-noun-4",
             "definition": "a circular segment of a curve",
-            "translation": "",
+            "translation": "（曲线的）弧段",
             "examples": [
               {
                 "text": "a bend in the road",
-                "translation": ""
+                "translation": "路上的一个拐弯。"
               }
             ]
           },
           {
             "id": "bend-noun-5",
             "definition": "an angular or rounded shape made by folding",
-            "translation": "",
+            "translation": "折角；折弯",
             "examples": []
           }
         ]
@@ -56651,11 +56651,11 @@
           {
             "id": "bend-verb-2",
             "definition": "to form a curve or angle",
-            "translation": "",
+            "translation": "弯曲；转向",
             "examples": [
               {
                 "text": "The stick does not bend.",
-                "translation": ""
+                "translation": "这根棍子不会弯。"
               }
             ]
           }
@@ -56753,7 +56753,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -58896,17 +58896,17 @@
           {
             "id": "bent-adjective-2",
             "definition": "used of the back and knees",
-            "translation": "",
+            "translation": "（背与膝）弯曲的",
             "examples": []
           },
           {
             "id": "bent-adjective-3",
             "definition": "fixed in your purpose",
-            "translation": "",
+            "translation": "下定决心的；决意的",
             "examples": [
               {
                 "text": "bent on going to the theater",
-                "translation": ""
+                "translation": "一心要去看戏。"
               }
             ]
           }
@@ -58918,30 +58918,30 @@
           {
             "id": "bent-noun-1",
             "definition": "a special way of doing something",
-            "translation": "",
+            "translation": "专长；天赋",
             "examples": [
               {
                 "text": "The team had a special bent when playing a game.",
-                "translation": ""
+                "translation": "这支球队比赛时有一套独特的打法。"
               }
             ]
           },
           {
             "id": "bent-noun-2",
             "definition": "a relatively permanent inclination to react in a particular way",
-            "translation": "",
+            "translation": "倾向；爱好",
             "examples": []
           },
           {
             "id": "bent-noun-3",
             "definition": "an area of grassland unbounded by fences or hedges",
-            "translation": "",
+            "translation": "（无围栏的）草地",
             "examples": []
           },
           {
             "id": "bent-noun-4",
             "definition": "grass for pastures and lawns especially bowling and putting greens",
-            "translation": "",
+            "translation": "（草地）草",
             "examples": []
           }
         ]
@@ -58974,7 +58974,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -68271,11 +68271,11 @@
           {
             "id": "bicycle-verb-1",
             "definition": "to ride a bicycle",
-            "translation": "",
+            "translation": "骑自行车",
             "examples": [
               {
                 "text": "I plan to bicycle across the country.",
-                "translation": ""
+                "translation": "我打算骑自行车横穿全国。"
               }
             ]
           }
@@ -68284,7 +68284,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -68496,19 +68496,19 @@
           {
             "id": "bid-noun-1",
             "definition": "an attempt to get something",
-            "translation": "",
+            "translation": "尝试；企图",
             "examples": []
           },
           {
             "id": "bid-noun-2",
             "definition": "(bridge) the number of tricks a bridge player is willing to contract to make",
-            "translation": "",
+            "translation": "（桥牌）叫牌",
             "examples": []
           },
           {
             "id": "bid-noun-3",
             "definition": "a formal proposal to buy at a specified price",
-            "translation": "",
+            "translation": "（正式）出价；投标",
             "examples": []
           },
           {
@@ -68536,11 +68536,11 @@
           {
             "id": "bid-verb-2",
             "definition": "to make a serious effort to attain something",
-            "translation": "",
+            "translation": "努力争取",
             "examples": [
               {
                 "text": "The candidate's protracted bid for the attention of the poor population was central to their success.",
-                "translation": ""
+                "translation": "那位候选人长期努力争取贫困人群的关注是他们成功的关键。"
               }
             ]
           },
@@ -68558,11 +68558,11 @@
           {
             "id": "bid-verb-4",
             "definition": "to make a demand, as for a card or a suit or a show of hands",
-            "translation": "",
+            "translation": "（牌戏中）叫牌；要求",
             "examples": [
               {
                 "text": "I bid, show me the cards.",
-                "translation": ""
+                "translation": "我出价，给我看牌。"
               }
             ]
           }
@@ -68612,7 +68612,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -75270,7 +75270,7 @@
           {
             "id": "bingo-noun-1",
             "definition": "a game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards",
-            "translation": "",
+            "translation": "宾果游戏",
             "examples": []
           }
         ]
@@ -75278,8 +75278,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -75921,7 +75921,7 @@
           {
             "id": "biochemistry-noun-1",
             "definition": "the organic chemistry of compounds and processes occurring in organisms",
-            "translation": "",
+            "translation": "生物化学",
             "examples": []
           }
         ]
@@ -75929,8 +75929,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -76801,7 +76801,7 @@
           {
             "id": "biography-noun-1",
             "definition": "an account of the series of events making up a person's life",
-            "translation": "",
+            "translation": "传记",
             "examples": []
           }
         ]
@@ -76809,8 +76809,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -79598,7 +79598,7 @@
           {
             "id": "birdcage-noun-1",
             "definition": "a cage in which a bird can be kept",
-            "translation": "",
+            "translation": "鸟笼",
             "examples": []
           }
         ]
@@ -79606,8 +79606,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -80711,17 +80711,17 @@
           {
             "id": "birthplace-noun-1",
             "definition": "the place where someone was born",
-            "translation": "",
+            "translation": "出生地；故乡",
             "examples": []
           },
           {
             "id": "birthplace-noun-2",
             "definition": "where something originated or was nurtured in its early existence",
-            "translation": "",
+            "translation": "发源地；发祥地",
             "examples": [
               {
                 "text": "the birthplace of civilization",
-                "translation": ""
+                "translation": "文明的发祥地。"
               }
             ]
           }
@@ -80730,8 +80730,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -80944,13 +80944,13 @@
           {
             "id": "biscuit-noun-1",
             "definition": "any of various small flat sweet cakes (`biscuit' is the British term)",
-            "translation": "",
+            "translation": "（美）软饼；小甜饼",
             "examples": []
           },
           {
             "id": "biscuit-noun-2",
             "definition": "small round bread leavened with baking-powder or soda",
-            "translation": "",
+            "translation": "（英）饼干",
             "examples": []
           }
         ]
@@ -80958,8 +80958,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -81246,24 +81246,24 @@
           {
             "id": "bishop-noun-1",
             "definition": "a chess piece that can be moved diagonally over unoccupied squares of the same color",
-            "translation": "",
+            "translation": "（国际象棋的）象",
             "examples": [
               {
                 "text": "I moved my bishop across the board, putting my opponent in check.",
-                "translation": ""
+                "translation": "我移动象穿过棋盘，把对手将了军。"
               }
             ]
           },
           {
             "id": "bishop-noun-2",
             "definition": "port wine mulled with oranges and cloves",
-            "translation": "",
+            "translation": "（加香料的）主教甜酒",
             "examples": []
           },
           {
             "id": "bishop-noun-3",
             "definition": "a senior member of the Christian clergy having spiritual and administrative authority",
-            "translation": "",
+            "translation": "（基督教的）主教",
             "examples": []
           }
         ]
@@ -81271,8 +81271,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -85161,7 +85161,7 @@
           {
             "id": "blackboard-noun-1",
             "definition": "sheet of slate",
-            "translation": "",
+            "translation": "黑板",
             "examples": []
           }
         ]
@@ -85169,8 +85169,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -88249,33 +88249,33 @@
           {
             "id": "blank-adjective-1",
             "definition": "void of expression",
-            "translation": "",
+            "translation": "面无表情的；茫然的",
             "examples": [
               {
                 "text": "a blank stare",
-                "translation": ""
+                "translation": "茫然的眼神。"
               }
             ]
           },
           {
             "id": "blank-adjective-2",
             "definition": "(of a surface) not written or printed on",
-            "translation": "",
+            "translation": "空白的；未填写过的",
             "examples": [
               {
                 "text": "blank pages",
-                "translation": ""
+                "translation": "空白页。"
               }
             ]
           },
           {
             "id": "blank-adjective-3",
             "definition": "not charged with a bullet",
-            "translation": "",
+            "translation": "（弹药）空弹的；无弹头的",
             "examples": [
               {
                 "text": "a blank cartridge",
-                "translation": ""
+                "translation": "空包弹。"
               }
             ]
           }
@@ -88287,25 +88287,25 @@
           {
             "id": "blank-noun-1",
             "definition": "a cartridge containing an explosive charge but no bullet",
-            "translation": "",
+            "translation": "空弹；空包弹",
             "examples": []
           },
           {
             "id": "blank-noun-2",
             "definition": "a piece of material ready to be made into something",
-            "translation": "",
+            "translation": "（可加工的）毛坯；原料",
             "examples": []
           },
           {
             "id": "blank-noun-3",
             "definition": "a blank gap or missing part",
-            "translation": "",
+            "translation": "空白；空缺",
             "examples": []
           },
           {
             "id": "blank-noun-4",
             "definition": "a blank character used to separate successive words in writing or printing",
-            "translation": "",
+            "translation": "（文字间的）空白符；空格",
             "examples": []
           }
         ]
@@ -88316,11 +88316,11 @@
           {
             "id": "blank-verb-1",
             "definition": "to keep the opposing baseball team from winning",
-            "translation": "",
+            "translation": "（棒球）使对方得零分；完封",
             "examples": [
               {
                 "text": "We blanked them three times in a row.",
-                "translation": ""
+                "translation": "我们连胜三场让对方一分未得。"
               }
             ]
           }
@@ -88362,8 +88362,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -88400,7 +88400,7 @@
           {
             "id": "blanket-adjective-1",
             "definition": "broad in scope or content",
-            "translation": "",
+            "translation": "总括的；全面的",
             "examples": []
           }
         ]
@@ -88411,23 +88411,23 @@
           {
             "id": "blanket-noun-1",
             "definition": "bedding that keeps a person warm in bed",
-            "translation": "",
+            "translation": "毛毯；毯子",
             "examples": []
           },
           {
             "id": "blanket-noun-2",
             "definition": "a layer of lead surrounding the highly reactive core of a nuclear reactor",
-            "translation": "",
+            "translation": "（核反应堆的）包覆层",
             "examples": []
           },
           {
             "id": "blanket-noun-3",
             "definition": "anything that covers",
-            "translation": "",
+            "translation": "覆盖物",
             "examples": [
               {
                 "text": "there was a blanket of snow",
-                "translation": ""
+                "translation": "一层白雪。"
               }
             ]
           }
@@ -88439,11 +88439,11 @@
           {
             "id": "blanket-verb-1",
             "definition": "to form a blanket-like cover over",
-            "translation": "",
+            "translation": "（像毯子一样）覆盖",
             "examples": [
               {
                 "text": "I blanketed the lawn with towels.",
-                "translation": ""
+                "translation": "我把草坪上铺满了毛巾。"
               }
             ]
           }
@@ -88473,8 +88473,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -91908,11 +91908,11 @@
           {
             "id": "bleed-verb-1",
             "definition": "to lose blood from one's body",
-            "translation": "",
+            "translation": "流血；出血",
             "examples": [
               {
                 "text": "I am bleeding.",
-                "translation": ""
+                "translation": "我在流血。"
               }
             ]
           },
@@ -91930,33 +91930,33 @@
           {
             "id": "bleed-verb-3",
             "definition": "to drain off liquid or steam",
-            "translation": "",
+            "translation": "放出（液体或蒸汽）",
             "examples": [
               {
                 "text": "We should bleed the radiators.",
-                "translation": ""
+                "translation": "我们应当给暖气放水。"
               }
             ]
           },
           {
             "id": "bleed-verb-4",
             "definition": "to be diffused",
-            "translation": "",
+            "translation": "渗开；扩散",
             "examples": [
               {
                 "text": "The color bled through on the whites.",
-                "translation": ""
+                "translation": "白色衣服上染了色。"
               }
             ]
           },
           {
             "id": "bleed-verb-5",
             "definition": "to get or extort money or other possessions from someone",
-            "translation": "",
+            "translation": "敲诈；勒索",
             "examples": [
               {
                 "text": "The ungrateful children bled their parents for pocket money.",
-                "translation": ""
+                "translation": "那些忘恩负义的孩子向父母讨要零花钱。"
               }
             ]
           }
@@ -91994,7 +91994,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -98927,7 +98927,7 @@
           {
             "id": "blouse-noun-1",
             "definition": "a top worn by women",
-            "translation": "",
+            "translation": "女衬衫；宽松上衣",
             "examples": []
           }
         ]
@@ -98935,8 +98935,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -113196,13 +113196,13 @@
           {
             "id": "bonus-noun-1",
             "definition": "anything that tends to arouse",
-            "translation": "",
+            "translation": "令人振奋的东西；额外的好处",
             "examples": []
           },
           {
             "id": "bonus-noun-2",
             "definition": "an additional payment (or other remuneration) to employees as a means of increasing output",
-            "translation": "",
+            "translation": "奖金；红利",
             "examples": []
           }
         ]
@@ -113231,8 +113231,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -114197,7 +114197,7 @@
           {
             "id": "bookcase-noun-1",
             "definition": "a piece of furniture with shelves for storing books",
-            "translation": "",
+            "translation": "书柜；书橱",
             "examples": []
           }
         ]
@@ -114205,8 +114205,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -114900,7 +114900,7 @@
           {
             "id": "bookmark-noun-1",
             "definition": "a marker (a piece of paper or ribbon) placed between the pages of a book to mark the reader's place",
-            "translation": "",
+            "translation": "书签",
             "examples": []
           }
         ]
@@ -114908,8 +114908,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -115065,7 +115065,7 @@
           {
             "id": "bookshelf-noun-1",
             "definition": "a shelf on which to keep books",
-            "translation": "",
+            "translation": "书架",
             "examples": []
           }
         ]
@@ -115073,8 +115073,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -115103,7 +115103,7 @@
           {
             "id": "bookshop-noun-1",
             "definition": "a shop where books are sold",
-            "translation": "",
+            "translation": "书店",
             "examples": []
           }
         ]
@@ -115111,8 +115111,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -115173,7 +115173,7 @@
           {
             "id": "bookstore-noun-1",
             "definition": "a shop where books are sold",
-            "translation": "",
+            "translation": "书店",
             "examples": []
           }
         ]
@@ -115181,8 +115181,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -115299,36 +115299,36 @@
           {
             "id": "boom-noun-1",
             "definition": "any of various more-or-less horizontal spars or poles used to extend the foot of a sail or for handling cargo or in mooring",
-            "translation": "",
+            "translation": "（船的）帆桁；吊杆",
             "examples": []
           },
           {
             "id": "boom-noun-2",
             "definition": "a pole carrying an overhead microphone projected over a film or tv set",
-            "translation": "",
+            "translation": "（电视等用的）吊杆话筒",
             "examples": []
           },
           {
             "id": "boom-noun-3",
             "definition": "a deep prolonged loud noise",
-            "translation": "",
+            "translation": "隆隆声；轰响",
             "examples": []
           },
           {
             "id": "boom-noun-4",
             "definition": "a sudden happening that brings good fortune, as a sudden opportunity to make money",
-            "translation": "",
+            "translation": "（经济）繁荣；景气",
             "examples": [
               {
                 "text": "The demand for testing has created a boom.",
-                "translation": ""
+                "translation": "检测需求带来了繁荣。"
               }
             ]
           },
           {
             "id": "boom-noun-5",
             "definition": "a state of economic prosperity",
-            "translation": "",
+            "translation": "（经济）繁荣期；景气期",
             "examples": []
           }
         ]
@@ -115339,11 +115339,11 @@
           {
             "id": "boom-verb-1",
             "definition": "to grow vigorously",
-            "translation": "",
+            "translation": "蓬勃发展；兴旺",
             "examples": [
               {
                 "text": "Our field is booming.",
-                "translation": ""
+                "translation": "我们的领域正蓬勃发展。"
               }
             ]
           },
@@ -115361,22 +115361,22 @@
           {
             "id": "boom-verb-3",
             "definition": "to make a deep hollow sound",
-            "translation": "",
+            "translation": "发出低沉浑厚的声音",
             "examples": [
               {
                 "text": "Their voice booms out the words of the song.",
-                "translation": ""
+                "translation": "他们的声音像歌中字句一样低沉。"
               }
             ]
           },
           {
             "id": "boom-verb-4",
             "definition": "to make a resonant sound, like thunder, fireworks, or artillery",
-            "translation": "",
+            "translation": "轰鸣；发出回响",
             "examples": [
               {
                 "text": "The thunder boomed in the background.",
-                "translation": ""
+                "translation": "雷声在背景中轰隆作响。"
               }
             ]
           }
@@ -115418,7 +115418,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -116342,19 +116342,19 @@
           {
             "id": "booth-noun-1",
             "definition": "small area set off by walls for special use",
-            "translation": "",
+            "translation": "（隔开的小）房间；亭",
             "examples": []
           },
           {
             "id": "booth-noun-2",
             "definition": "a small shop at a fair",
-            "translation": "",
+            "translation": "集市货摊",
             "examples": []
           },
           {
             "id": "booth-noun-3",
             "definition": "a table (in a restaurant or bar) surrounded by two high-backed benches",
-            "translation": "",
+            "translation": "（餐馆的）卡座",
             "examples": []
           }
         ]
@@ -116362,8 +116362,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -119966,7 +119966,7 @@
           {
             "id": "botanical-noun-1",
             "definition": "a drug made from part of a plant (as the bark or root or leaves)",
-            "translation": "",
+            "translation": "植物性药物",
             "examples": []
           }
         ]
@@ -119974,7 +119974,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -120117,13 +120117,13 @@
           {
             "id": "botany-noun-1",
             "definition": "the branch of biology that studies plants",
-            "translation": "",
+            "translation": "植物学",
             "examples": []
           },
           {
             "id": "botany-noun-2",
             "definition": "all the plant life in a particular region or period",
-            "translation": "",
+            "translation": "（某地区或时期的）植物群",
             "examples": []
           }
         ]
@@ -120131,8 +120131,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -126323,18 +126323,18 @@
           {
             "id": "box-noun-1",
             "definition": "a blow with the hand, usually on the ear",
-            "translation": "",
+            "translation": "（用手）打一记（耳光）",
             "examples": [
               {
                 "text": "I gave them a good box on the ear.",
-                "translation": ""
+                "translation": "我重重地给了他们一记耳光。"
               }
             ]
           },
           {
             "id": "box-noun-2",
             "definition": "a (usually rectangular) container",
-            "translation": "",
+            "translation": "（通常为矩形的）盒子；箱子",
             "examples": []
           },
           {
@@ -126351,68 +126351,68 @@
           {
             "id": "box-noun-4",
             "definition": "private area in a theater or grandstand where a small group can watch the performance",
-            "translation": "",
+            "translation": "（剧场的）包厢",
             "examples": [
               {
                 "text": "the royal box was empty",
-                "translation": ""
+                "translation": "皇家包厢空无一人。"
               }
             ]
           },
           {
             "id": "box-noun-5",
             "definition": "the driver's seat on a coach",
-            "translation": "",
+            "translation": "（马车）驭者座",
             "examples": [
               {
                 "text": "an armed guard sat in the box with the driver",
-                "translation": ""
+                "translation": "一名带枪的警卫坐在与司机相邻的驭者座上。"
               }
             ]
           },
           {
             "id": "box-noun-6",
             "definition": "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
-            "translation": "",
+            "translation": "（球场的）区；区域",
             "examples": [
               {
                 "text": "the umpire warned the batter to stay in the batter's box",
-                "translation": ""
+                "translation": "裁判警告击球手要待在击球区内。"
               }
             ]
           },
           {
             "id": "box-noun-7",
             "definition": "evergreen shrubs or small trees",
-            "translation": "",
+            "translation": "黄杨；黄杨木",
             "examples": []
           },
           {
             "id": "box-noun-8",
             "definition": "the quantity contained in a box",
-            "translation": "",
+            "translation": "一盒之量",
             "examples": [
               {
                 "text": "I gave my friend a box of chocolates.",
-                "translation": ""
+                "translation": "我送给朋友一盒巧克力。"
               }
             ]
           },
           {
             "id": "box-noun-9",
             "definition": "a rectangular drawing",
-            "translation": "",
+            "translation": "（矩形）框；方框",
             "examples": [
               {
                 "text": "the flowchart contained many boxes",
-                "translation": ""
+                "translation": "流程图里有很多方框。"
               }
             ]
           },
           {
             "id": "box-noun-10",
             "definition": "a predicament from which a skillful or graceful escape is impossible",
-            "translation": "",
+            "translation": "困境；绝境",
             "examples": []
           }
         ]
@@ -126434,22 +126434,22 @@
           {
             "id": "box-verb-2",
             "definition": "to engage in a boxing match",
-            "translation": "",
+            "translation": "参加拳击比赛",
             "examples": [
               {
                 "text": "I went to the arena to box.",
-                "translation": ""
+                "translation": "我去拳击场打拳。"
               }
             ]
           },
           {
             "id": "box-verb-3",
             "definition": "to hit with the fist",
-            "translation": "",
+            "translation": "拳击；用拳打",
             "examples": [
               {
                 "text": "I'll box your ears if you don't stop it right now!",
-                "translation": ""
+                "translation": "你再不停下我就揍你一巴掌！"
               }
             ]
           }
@@ -126495,7 +126495,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -126883,13 +126883,13 @@
           {
             "id": "boxing-noun-1",
             "definition": "the enclosure of something in a package or box",
-            "translation": "",
+            "translation": "装箱；装盒",
             "examples": []
           },
           {
             "id": "boxing-noun-2",
             "definition": "fighting with the fists",
-            "translation": "",
+            "translation": "拳击（运动）",
             "examples": []
           }
         ]
@@ -126910,8 +126910,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -127084,40 +127084,40 @@
           {
             "id": "boy-noun-1",
             "definition": "(ethnic slur) offensive and disparaging term for Black man",
-            "translation": "",
+            "translation": "（贬义）黑鬼",
             "examples": [
               {
                 "text": "get out of my way, boy",
-                "translation": ""
+                "translation": "滚开，黑鬼。"
               }
             ]
           },
           {
             "id": "boy-noun-2",
             "definition": "a friendly informal reference to a grown man",
-            "translation": "",
+            "translation": "（非正式）家伙；小伙子",
             "examples": [
               {
                 "text": "My boss likes to play golf with the boys.",
-                "translation": ""
+                "translation": "我老板喜欢和那帮小伙子一起打高尔夫。"
               }
             ]
           },
           {
             "id": "boy-noun-3",
             "definition": "a youthful male person",
-            "translation": "",
+            "translation": "男孩；少年",
             "examples": [
               {
                 "text": "the baby was a boy",
-                "translation": ""
+                "translation": "这孩子是个男孩。"
               }
             ]
           },
           {
             "id": "boy-noun-4",
             "definition": "a male human offspring",
-            "translation": "",
+            "translation": "儿子；男性子嗣",
             "examples": []
           }
         ]
@@ -127130,8 +127130,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -127165,7 +127165,7 @@
           {
             "id": "boycott-noun-1",
             "definition": "a group's refusal to have commercial dealings with some organization in protest against its policies",
-            "translation": "",
+            "translation": "（对某机构的）抵制；拒绝交易",
             "examples": []
           }
         ]
@@ -127189,7 +127189,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -131026,36 +131026,36 @@
           {
             "id": "brake-noun-1",
             "definition": "a restraint used to slow or stop a vehicle",
-            "translation": "",
+            "translation": "刹车；制动器",
             "examples": []
           },
           {
             "id": "brake-noun-2",
             "definition": "anything that slows or hinders a process",
-            "translation": "",
+            "translation": "阻碍；约束",
             "examples": [
               {
                 "text": "They were not ready to put the brakes on their marriage with a delay to their wedding.",
-                "translation": ""
+                "translation": "他们不打算用拖延婚期来给婚姻踩刹车。"
               }
             ]
           },
           {
             "id": "brake-noun-3",
             "definition": "an area thickly overgrown usually with one kind of plant",
-            "translation": "",
+            "translation": "灌木丛；杂草丛",
             "examples": []
           },
           {
             "id": "brake-noun-4",
             "definition": "large coarse fern often several feet high",
-            "translation": "",
+            "translation": "大蕨类植物",
             "examples": []
           },
           {
             "id": "brake-noun-5",
             "definition": "any of various ferns of the genus Pteris having pinnately compound leaves and including several popular houseplants",
-            "translation": "",
+            "translation": "凤尾蕨",
             "examples": []
           }
         ]
@@ -131066,22 +131066,22 @@
           {
             "id": "brake-verb-1",
             "definition": "to cause to stop by applying the brakes",
-            "translation": "",
+            "translation": "刹住；用闸减速",
             "examples": [
               {
                 "text": "You should brake the car before you go into a curve.",
-                "translation": ""
+                "translation": "进弯道前你该踩刹车。"
               }
             ]
           },
           {
             "id": "brake-verb-2",
             "definition": "to stop travelling by applying a brake",
-            "translation": "",
+            "translation": "（行车时）刹车",
             "examples": [
               {
                 "text": "We had to brake suddenly when a chicken crossed the road.",
-                "translation": ""
+                "translation": "有只鸡横穿马路，我们只好急刹车。"
               }
             ]
           }
@@ -131115,8 +131115,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -133603,13 +133603,13 @@
           {
             "id": "bravery-noun-1",
             "definition": "a quality of spirit that enables you to face danger or pain without showing fear",
-            "translation": "",
+            "translation": "勇敢；英勇",
             "examples": []
           },
           {
             "id": "bravery-noun-2",
             "definition": "feeling no fear",
-            "translation": "",
+            "translation": "无所畏惧",
             "examples": []
           }
         ]
@@ -133617,8 +133617,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -137021,13 +137021,13 @@
           {
             "id": "breakthrough-noun-1",
             "definition": "making an important discovery",
-            "translation": "",
+            "translation": "突破；重大发现",
             "examples": []
           },
           {
             "id": "breakthrough-noun-2",
             "definition": "a penetration of a barrier such as an enemy's defense",
-            "translation": "",
+            "translation": "（对敌方防线的）突破",
             "examples": []
           },
           {
@@ -137046,7 +137046,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -138248,28 +138248,28 @@
           {
             "id": "breathless-adjective-1",
             "definition": "appearing dead",
-            "translation": "",
+            "translation": "（看起来）气绝的；死一般静寂的",
             "examples": []
           },
           {
             "id": "breathless-adjective-2",
             "definition": "not breathing or able to breathe except with difficulty",
-            "translation": "",
+            "translation": "喘不过气来的；呼吸困难的",
             "examples": [
               {
                 "text": "breathless at thought of what I had done",
-                "translation": ""
+                "translation": "想到自己做的事上气不接下气。"
               }
             ]
           },
           {
             "id": "breathless-adjective-3",
             "definition": "tending to cause suspension of regular breathing",
-            "translation": "",
+            "translation": "令人屏息的；紧张的",
             "examples": [
               {
                 "text": "a breathless flight",
-                "translation": ""
+                "translation": "令人屏息的飞行。"
               }
             ]
           }
@@ -138278,8 +138278,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -139683,7 +139683,7 @@
           {
             "id": "brewery-noun-1",
             "definition": "a plant where beer is brewed by fermentation",
-            "translation": "",
+            "translation": "啤酒厂；酿造厂",
             "examples": []
           }
         ]
@@ -139691,8 +139691,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -140624,13 +140624,13 @@
           {
             "id": "bride-noun-1",
             "definition": "a woman who has recently been married",
-            "translation": "",
+            "translation": "新娘",
             "examples": []
           },
           {
             "id": "bride-noun-2",
             "definition": "a woman participant in her own marriage ceremony",
-            "translation": "",
+            "translation": "婚礼上的女方当事人",
             "examples": []
           }
         ]
@@ -140638,8 +140638,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -140699,13 +140699,13 @@
           {
             "id": "bridegroom-noun-1",
             "definition": "a man who has recently been married",
-            "translation": "",
+            "translation": "新郎",
             "examples": []
           },
           {
             "id": "bridegroom-noun-2",
             "definition": "a man participant in his own marriage ceremony",
-            "translation": "",
+            "translation": "婚礼上的男方当事人",
             "examples": []
           }
         ]
@@ -140713,8 +140713,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -146912,7 +146912,7 @@
           {
             "id": "brochure-noun-1",
             "definition": "a small book usually having a paper cover",
-            "translation": "",
+            "translation": "小册子",
             "examples": []
           }
         ]
@@ -146920,8 +146920,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -149609,19 +149609,19 @@
           {
             "id": "broom-noun-1",
             "definition": "a cleaning implement for sweeping",
-            "translation": "",
+            "translation": "扫帚",
             "examples": []
           },
           {
             "id": "broom-noun-2",
             "definition": "common Old World heath represented by many varieties",
-            "translation": "",
+            "translation": "金雀花",
             "examples": []
           },
           {
             "id": "broom-noun-3",
             "definition": "any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers",
-            "translation": "",
+            "translation": "金雀花属灌木",
             "examples": []
           }
         ]
@@ -149632,22 +149632,22 @@
           {
             "id": "broom-verb-1",
             "definition": "to finish a surface, like concrete, with a broom",
-            "translation": "",
+            "translation": "用扫帚清扫（地面）",
             "examples": [
               {
                 "text": "We have to broom this surface and then we're finished for the day.",
-                "translation": ""
+                "translation": "我们得把这地面扫一遍，今天的活就收工了。"
               }
             ]
           },
           {
             "id": "broom-verb-2",
             "definition": "to sweep with a broom or as if with a broom",
-            "translation": "",
+            "translation": "扫；扫除",
             "examples": [
               {
                 "text": "I broomed the floor to get rid of some dirt.",
-                "translation": ""
+                "translation": "我扫地以去除一些灰尘。"
               }
             ]
           }
@@ -149656,8 +149656,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -150017,25 +150017,25 @@
           {
             "id": "brotherhood-noun-1",
             "definition": "the feeling that men should treat one another like brothers",
-            "translation": "",
+            "translation": "兄弟情谊",
             "examples": []
           },
           {
             "id": "brotherhood-noun-2",
             "definition": "people engaged in a particular occupation",
-            "translation": "",
+            "translation": "同业会；同行",
             "examples": []
           },
           {
             "id": "brotherhood-noun-3",
             "definition": "an organization of employees formed to bargain with the employer",
-            "translation": "",
+            "translation": "工会；同业公会",
             "examples": []
           },
           {
             "id": "brotherhood-noun-4",
             "definition": "the kinship relation between a male offspring and the siblings",
-            "translation": "",
+            "translation": "（男子与同胞手足的）兄弟关系",
             "examples": []
           }
         ]
@@ -150043,8 +150043,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -151462,7 +151462,7 @@
           {
             "id": "brunch-noun-1",
             "definition": "combination breakfast and lunch",
-            "translation": "",
+            "translation": "早午餐",
             "examples": []
           }
         ]
@@ -151473,11 +151473,11 @@
           {
             "id": "brunch-verb-1",
             "definition": "to eat a meal in the late morning",
-            "translation": "",
+            "translation": "吃早午餐",
             "examples": [
               {
                 "text": "We brunch with our friends every weekend.",
-                "translation": ""
+                "translation": "我们每个周末都和朋友一起吃早午餐。"
               }
             ]
           }
@@ -151486,8 +151486,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -154141,13 +154141,13 @@
           {
             "id": "bucket-noun-1",
             "definition": "a roughly cylindrical vessel that is open at the top",
-            "translation": "",
+            "translation": "水桶",
             "examples": []
           },
           {
             "id": "bucket-noun-2",
             "definition": "the quantity contained in a bucket",
-            "translation": "",
+            "translation": "一桶之量",
             "examples": []
           }
         ]
@@ -154158,11 +154158,11 @@
           {
             "id": "bucket-verb-1",
             "definition": "to carry in a bucket",
-            "translation": "",
+            "translation": "用桶装；用桶运",
             "examples": [
               {
                 "text": "I bucketed the frogs.",
-                "translation": ""
+                "translation": "我用桶装青蛙。"
               }
             ]
           },
@@ -154195,7 +154195,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -155954,19 +155954,19 @@
           {
             "id": "buffet-noun-1",
             "definition": "a piece of furniture that stands at the side of a dining room",
-            "translation": "",
+            "translation": "（餐室一端的）餐具柜",
             "examples": []
           },
           {
             "id": "buffet-noun-2",
             "definition": "usually inexpensive bar",
-            "translation": "",
+            "translation": "（车站等处的）快餐柜台；小餐馆",
             "examples": []
           },
           {
             "id": "buffet-noun-3",
             "definition": "a meal set out on a buffet at which guests help themselves",
-            "translation": "",
+            "translation": "自助餐",
             "examples": []
           }
         ]
@@ -155977,22 +155977,22 @@
           {
             "id": "buffet-verb-1",
             "definition": "to strike, beat repeatedly",
-            "translation": "",
+            "translation": "（反复地）打；击",
             "examples": [
               {
                 "text": "The wind buffeted them.",
-                "translation": ""
+                "translation": "狂风不停地抽打着他们。"
               }
             ]
           },
           {
             "id": "buffet-verb-2",
             "definition": "to strike against forcefully",
-            "translation": "",
+            "translation": "（风浪）猛打；冲击",
             "examples": [
               {
                 "text": "Winds buffeted the tent.",
-                "translation": ""
+                "translation": "风吹打着帐篷。"
               }
             ]
           }
@@ -156010,8 +156010,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -161821,7 +161821,7 @@
           {
             "id": "bun-noun-1",
             "definition": "small rounded bread either plain or sweet",
-            "translation": "",
+            "translation": "小圆面包",
             "examples": []
           }
         ]
@@ -161834,8 +161834,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -162570,7 +162570,7 @@
           {
             "id": "bungalow-noun-1",
             "definition": "a small house with a single story",
-            "translation": "",
+            "translation": "平房；单层小屋",
             "examples": []
           }
         ]
@@ -162578,8 +162578,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -164918,7 +164918,7 @@
           {
             "id": "burglar-noun-1",
             "definition": "a thief who enters a building with intent to steal",
-            "translation": "",
+            "translation": "入室窃贼；夜盗",
             "examples": []
           }
         ]
@@ -164926,8 +164926,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -165373,13 +165373,13 @@
           {
             "id": "burial-noun-1",
             "definition": "concealing something under the ground",
-            "translation": "",
+            "translation": "掩埋；安葬",
             "examples": []
           },
           {
             "id": "burial-noun-2",
             "definition": "the ritual placing of a corpse in a grave",
-            "translation": "",
+            "translation": "葬礼；下葬",
             "examples": []
           }
         ]
@@ -165392,8 +165392,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -168572,7 +168572,7 @@
           {
             "id": "bush-adjective-1",
             "definition": "not of the highest quality or sophistication",
-            "translation": "",
+            "translation": "不高级的；粗糙的",
             "examples": []
           }
         ]
@@ -168583,25 +168583,25 @@
           {
             "id": "bush-noun-1",
             "definition": "hair growing in the pubic area",
-            "translation": "",
+            "translation": "（人体）阴毛",
             "examples": []
           },
           {
             "id": "bush-noun-2",
             "definition": "dense vegetation consisting of stunted trees or bushes",
-            "translation": "",
+            "translation": "灌木丛",
             "examples": []
           },
           {
             "id": "bush-noun-3",
             "definition": "a large wilderness area",
-            "translation": "",
+            "translation": "荒野；未开发地区",
             "examples": []
           },
           {
             "id": "bush-noun-4",
             "definition": "a low woody perennial plant usually having several major stems",
-            "translation": "",
+            "translation": "灌木；矮树丛",
             "examples": []
           }
         ]
@@ -168612,11 +168612,11 @@
           {
             "id": "bush-verb-1",
             "definition": "to provide with a bushing",
-            "translation": "",
+            "translation": "加衬套（金属轴瓦）于",
             "examples": [
               {
                 "text": "We bushed it.",
-                "translation": ""
+                "translation": "我们给它加了衬套。"
               }
             ]
           }
@@ -168625,8 +168625,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -169382,7 +169382,7 @@
           {
             "id": "businessman-noun-1",
             "definition": "a person engaged in commercial or industrial business (especially an owner or executive)",
-            "translation": "",
+            "translation": "商人；实业家",
             "examples": []
           }
         ]
@@ -169390,8 +169390,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -169514,7 +169514,7 @@
           {
             "id": "businesswoman-noun-1",
             "definition": "a female businessperson",
-            "translation": "",
+            "translation": "女商人；女实业家",
             "examples": []
           }
         ]
@@ -169522,8 +169522,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -170615,7 +170615,7 @@
           {
             "id": "but-adverb-1",
             "definition": "and nothing more",
-            "translation": "",
+            "translation": "仅；只；才",
             "examples": []
           }
         ]
@@ -170623,8 +170623,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -170914,25 +170914,25 @@
           {
             "id": "butcher-noun-1",
             "definition": "someone who makes mistakes because of incompetence",
-            "translation": "",
+            "translation": "（因无能而）常犯错的人",
             "examples": []
           },
           {
             "id": "butcher-noun-2",
             "definition": "a person who slaughters or dresses meat for market",
-            "translation": "",
+            "translation": "屠宰商；肉商",
             "examples": []
           },
           {
             "id": "butcher-noun-3",
             "definition": "a brutal indiscriminate murderer",
-            "translation": "",
+            "translation": "残杀者；刽子手",
             "examples": []
           },
           {
             "id": "butcher-noun-4",
             "definition": "a retailer of meat",
-            "translation": "",
+            "translation": "肉贩；肉类零售商",
             "examples": []
           }
         ]
@@ -170943,11 +170943,11 @@
           {
             "id": "butcher-verb-1",
             "definition": "to kill animals, usually for food consumption",
-            "translation": "",
+            "translation": "屠宰（牲畜）",
             "examples": [
               {
                 "text": "I butchered the elk after we returned from our hunting trip.",
-                "translation": ""
+                "translation": "狩猎归来后我宰了那只麋鹿。"
               }
             ]
           }
@@ -170956,8 +170956,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -174100,7 +174100,7 @@
           {
             "id": "by-adverb-2",
             "definition": "so as to pass a given point",
-            "translation": "",
+            "translation": "经过；通过",
             "examples": []
           }
         ]
@@ -174108,8 +174108,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -174213,22 +174213,22 @@
           {
             "id": "bye-noun-1",
             "definition": "a farewell remark",
-            "translation": "",
+            "translation": "告别；告辞",
             "examples": [
               {
                 "text": "they said their good-byes",
-                "translation": ""
+                "translation": "他们道了别。"
               }
             ]
           },
           {
             "id": "bye-noun-2",
             "definition": "advancement to the next round in a tournament without playing an opponent",
-            "translation": "",
+            "translation": "（比赛中）轮空；不战而胜",
             "examples": [
               {
                 "text": "We had a bye in the first round.",
-                "translation": ""
+                "translation": "我们在第一轮轮空。"
               }
             ]
           }
@@ -174237,8 +174237,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

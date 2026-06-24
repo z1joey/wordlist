@@ -1066,11 +1066,11 @@
           {
             "id": "zebra-noun-1",
             "definition": "any of several fleet black-and-white striped African equines",
-            "translation": "",
+            "translation": "斑马",
             "examples": [
               {
                 "text": "I saw some zebras at the zoo.",
-                "translation": ""
+                "translation": "我在动物园看到了一些斑马。"
               }
             ]
           }
@@ -1079,8 +1079,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -2822,19 +2822,19 @@
           {
             "id": "zip-noun-1",
             "definition": "a fastener for locking together two toothed edges by means of a sliding tab",
-            "translation": "",
+            "translation": "拉链",
             "examples": []
           },
           {
             "id": "zip-noun-2",
             "definition": "forceful exertion",
-            "translation": "",
+            "translation": "活力；精力",
             "examples": []
           },
           {
             "id": "zip-noun-3",
             "definition": "a quantity of no importance",
-            "translation": "",
+            "translation": "零；无",
             "examples": []
           }
         ]
@@ -2845,17 +2845,17 @@
           {
             "id": "zip-verb-1",
             "definition": "close with a zipper",
-            "translation": "",
+            "translation": "拉上拉链",
             "examples": []
           },
           {
             "id": "zip-verb-2",
             "definition": "move very fast",
-            "translation": "",
+            "translation": "快速移动；疾驰",
             "examples": [
               {
                 "text": "The runner zipped past us at breakneck speed",
-                "translation": ""
+                "translation": "那位赛跑者以惊人的速度从我们身边飞驰而过。"
               }
             ]
           }
@@ -2905,8 +2905,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -2936,11 +2936,11 @@
           {
             "id": "zip-noun-1",
             "definition": "a code of letters and digits added to a postal address to aid in the sorting of mail",
-            "translation": "",
+            "translation": "邮政编码",
             "examples": [
               {
                 "text": "I'll need your ZIP so I can mail you the package.",
-                "translation": ""
+                "translation": "我需要你的邮政编码才能把包裹寄给你。"
               }
             ]
           }
@@ -2990,8 +2990,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -3018,11 +3018,11 @@
           {
             "id": "zipper-noun-1",
             "definition": "a fastener for locking together two toothed edges by means of a sliding tab",
-            "translation": "",
+            "translation": "拉链",
             "examples": [
               {
                 "text": "My zipper is broken.",
-                "translation": ""
+                "translation": "我的拉链坏了。"
               }
             ]
           }
@@ -3034,11 +3034,11 @@
           {
             "id": "zipper-verb-1",
             "definition": "to close with a zipper",
-            "translation": "",
+            "translation": "拉上拉链",
             "examples": [
               {
                 "text": "Zipper your coat.",
-                "translation": ""
+                "translation": "把你外套的拉链拉上。"
               }
             ]
           }
@@ -3047,8 +3047,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -4605,7 +4605,7 @@
           {
             "id": "zoom-noun-1",
             "definition": "the act of rising upward into the air",
-            "translation": "",
+            "translation": "急速上升；陡升",
             "examples": []
           },
           {
@@ -4628,13 +4628,13 @@
           {
             "id": "zoom-verb-2",
             "definition": "move along very quickly",
-            "translation": "",
+            "translation": "快速移动；疾行",
             "examples": []
           },
           {
             "id": "zoom-verb-3",
             "definition": "move with a low humming noise",
-            "translation": "",
+            "translation": "嗡嗡地移动",
             "examples": []
           }
         ]
@@ -4679,7 +4679,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },

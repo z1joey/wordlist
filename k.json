@@ -1713,7 +1713,7 @@
           {
             "id": "kangaroo-noun-1",
             "definition": "any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail",
-            "translation": "",
+            "translation": "袋鼠",
             "examples": []
           }
         ]
@@ -1721,8 +1721,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -5076,33 +5076,33 @@
           {
             "id": "keeper-noun-1",
             "definition": "something that should be kept",
-            "translation": "",
+            "translation": "值得保留的东西",
             "examples": [
               {
                 "text": "That puppy is a keeper!",
-                "translation": ""
+                "translation": "那只小狗真值得留下来！"
               }
             ]
           },
           {
             "id": "keeper-noun-2",
             "definition": "a person having charge of buildings or grounds or animals",
-            "translation": "",
+            "translation": "看护人；饲养员",
             "examples": [
               {
                 "text": "The keepers of the estate kept the grounds maintained.",
-                "translation": ""
+                "translation": "庄园的看护人把场地维护得很好。"
               }
             ]
           },
           {
             "id": "keeper-noun-3",
             "definition": "a person in charge of other people",
-            "translation": "",
+            "translation": "负责人；管理者",
             "examples": [
               {
                 "text": "Am I my brother's keeper?",
-                "translation": ""
+                "translation": "我是我兄弟的监护人吗？"
               }
             ]
           }
@@ -5111,8 +5111,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8210,25 +8210,25 @@
           {
             "id": "kettle-noun-1",
             "definition": "a metal pot for stewing or boiling",
-            "translation": "",
+            "translation": "水壶；锅",
             "examples": []
           },
           {
             "id": "kettle-noun-2",
             "definition": "a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it",
-            "translation": "",
+            "translation": "定音鼓",
             "examples": []
           },
           {
             "id": "kettle-noun-3",
             "definition": "(geology) a hollow (typically filled by a lake) that results from the melting of a mass of ice trapped in glacial deposits",
-            "translation": "",
+            "translation": "锅穴；冰碛湖",
             "examples": []
           },
           {
             "id": "kettle-noun-4",
             "definition": "the quantity a kettle will hold",
-            "translation": "",
+            "translation": "一壶之量",
             "examples": []
           }
         ]
@@ -8236,8 +8236,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -8722,22 +8722,22 @@
           {
             "id": "keyboard-noun-1",
             "definition": "a holder consisting of an arrangement of hooks on which keys or locks can be hung",
-            "translation": "",
+            "translation": "钥匙挂板",
             "examples": [
               {
                 "text": "I put my house keys on a keyboard so I don't lose them.",
-                "translation": ""
+                "translation": "我把家里的钥匙挂在钥匙挂板上,这样就不会丢了。"
               }
             ]
           },
           {
             "id": "keyboard-noun-2",
             "definition": "a device consisting of a set of keys on a piano, organ, typewriter, typesetting machine, computer or the like",
-            "translation": "",
+            "translation": "键盘",
             "examples": [
               {
                 "text": "I bought a new ergonomic keyboard.",
-                "translation": ""
+                "translation": "我买了一个新的人体工学键盘。"
               }
             ]
           }
@@ -8755,8 +8755,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12623,7 +12623,7 @@
           {
             "id": "kilo-noun-1",
             "definition": "one thousand grams",
-            "translation": "",
+            "translation": "千克；公斤",
             "examples": []
           }
         ]
@@ -12631,8 +12631,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13697,11 +13697,11 @@
           {
             "id": "kindergarten-noun-1",
             "definition": "a school or class, typically for children age four to six, designed to prepare them for primary school",
-            "translation": "",
+            "translation": "幼儿园",
             "examples": [
               {
                 "text": "Kindergarten students learn the basics of spelling and reading.",
-                "translation": ""
+                "translation": "幼儿园的孩子们学习拼写和阅读的基础知识。"
               }
             ]
           }
@@ -13710,8 +13710,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -14114,19 +14114,19 @@
           {
             "id": "kindness-noun-1",
             "definition": "a kind act",
-            "translation": "",
+            "translation": "善举；友好行为",
             "examples": []
           },
           {
             "id": "kindness-noun-2",
             "definition": "tendency to be kind and forgiving",
-            "translation": "",
+            "translation": "仁慈；宽厚",
             "examples": []
           },
           {
             "id": "kindness-noun-3",
             "definition": "the quality of being warmhearted and considerate and humane and sympathetic",
-            "translation": "",
+            "translation": "善良；体贴",
             "examples": []
           }
         ]
@@ -14134,8 +14134,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17102,30 +17102,30 @@
           {
             "id": "kite-noun-1",
             "definition": "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals",
-            "translation": "",
+            "translation": "鸢；鹞",
             "examples": []
           },
           {
             "id": "kite-noun-2",
             "definition": "a plaything consisting of a light frame covered with tissue paper",
-            "translation": "",
+            "translation": "风筝",
             "examples": [
               {
                 "text": "The child flew a kite.",
-                "translation": ""
+                "translation": "那个孩子放了一只风筝。"
               }
             ]
           },
           {
             "id": "kite-noun-3",
             "definition": "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
-            "translation": "",
+            "translation": "空头支票",
             "examples": []
           },
           {
             "id": "kite-noun-4",
             "definition": "a bank check that has been fraudulently altered to increase its face value",
-            "translation": "",
+            "translation": "伪造支票",
             "examples": []
           }
         ]
@@ -17136,44 +17136,44 @@
           {
             "id": "kite-verb-1",
             "definition": "to fly a kite",
-            "translation": "",
+            "translation": "放风筝",
             "examples": [
               {
                 "text": "I like to kite when the wind is right.",
-                "translation": ""
+                "translation": "风合适的时候我喜欢放风筝。"
               }
             ]
           },
           {
             "id": "kite-verb-2",
             "definition": "to soar or fly like a kite",
-            "translation": "",
+            "translation": "飞翔；翱翔",
             "examples": [
               {
                 "text": "The pilot kited for a long time over the mountains.",
-                "translation": ""
+                "translation": "飞行员在山岭上空翱翔了很长时间。"
               }
             ]
           },
           {
             "id": "kite-verb-3",
             "definition": "to get credit or money by using a bad check",
-            "translation": "",
+            "translation": "开空头支票",
             "examples": [
               {
                 "text": "The businessman kited millions of dollars before they were caught.",
-                "translation": ""
+                "translation": "那个商人开空头支票骗了数百万美元才被抓到。"
               }
             ]
           },
           {
             "id": "kite-verb-4",
             "definition": "to increase the amount of a check fraudulently",
-            "translation": "",
+            "translation": "涂改支票",
             "examples": [
               {
                 "text": "They kited many checks.",
-                "translation": ""
+                "translation": "他们涂改了许多支票。"
               }
             ]
           }
@@ -17182,8 +17182,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

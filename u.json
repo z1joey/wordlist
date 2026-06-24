@@ -10654,13 +10654,13 @@
           {
             "id": "unbelievable-adjective-1",
             "definition": "beyond belief or understanding",
-            "translation": "",
+            "translation": "难以置信的",
             "examples": []
           },
           {
             "id": "unbelievable-adjective-2",
             "definition": "having a probability too low to inspire belief",
-            "translation": "",
+            "translation": "不可信的",
             "examples": []
           }
         ]
@@ -10668,8 +10668,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -18240,24 +18240,24 @@
           {
             "id": "unconditional-adjective-1",
             "definition": "not conditional",
-            "translation": "",
+            "translation": "无条件的",
             "examples": [
               {
                 "text": "unconditional surrender",
-                "translation": ""
+                "translation": "无条件投降"
               }
             ]
           },
           {
             "id": "unconditional-adjective-2",
             "definition": "not contingent",
-            "translation": "",
+            "translation": "无条件的",
             "examples": []
           },
           {
             "id": "unconditional-adjective-3",
             "definition": "not modified or restricted by reservations",
-            "translation": "",
+            "translation": "无保留的",
             "examples": []
           }
         ]
@@ -18265,8 +18265,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -31899,39 +31899,39 @@
           {
             "id": "undivided-adjective-1",
             "definition": "not separated into parts or shares",
-            "translation": "",
+            "translation": "完整的；未分开的",
             "examples": [
               {
                 "text": "constituting an undivided unit",
-                "translation": ""
+                "translation": "构成一个完整的单位"
               }
             ]
           },
           {
             "id": "undivided-adjective-2",
             "definition": "not divided among or brought to bear on more than one object or objective",
-            "translation": "",
+            "translation": "专一的",
             "examples": []
           },
           {
             "id": "undivided-adjective-3",
             "definition": "not shared by or among others",
-            "translation": "",
+            "translation": "专心的",
             "examples": [
               {
                 "text": "undivided responsibility",
-                "translation": ""
+                "translation": "全部的责任"
               }
             ]
           },
           {
             "id": "undivided-adjective-4",
             "definition": "not parted by conflict of opinion",
-            "translation": "",
+            "translation": "一致的",
             "examples": [
               {
                 "text": "presented an undivided front",
-                "translation": ""
+                "translation": "呈现出一致团结的姿态"
               }
             ]
           }
@@ -31940,8 +31940,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -39657,24 +39657,24 @@
           {
             "id": "unfit-adjective-1",
             "definition": "not in good physical or mental condition",
-            "translation": "",
+            "translation": "身体不佳的",
             "examples": []
           },
           {
             "id": "unfit-adjective-2",
             "definition": "below the required standards for a purpose",
-            "translation": "",
+            "translation": "不合格的；不胜任的",
             "examples": [
               {
                 "text": "an unfit parent",
-                "translation": ""
+                "translation": "不合格的父母"
               }
             ]
           },
           {
             "id": "unfit-adjective-3",
             "definition": "physically unsound or diseased",
-            "translation": "",
+            "translation": "有病的；不健康的",
             "examples": []
           }
         ]
@@ -39698,7 +39698,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -44597,29 +44597,29 @@
           {
             "id": "unhealthy-adjective-1",
             "definition": "not conducive to good health",
-            "translation": "",
+            "translation": "不健康的",
             "examples": [
               {
                 "text": "an unhealthy diet of fast foods",
-                "translation": ""
+                "translation": "不健康的快餐饮食"
               }
             ]
           },
           {
             "id": "unhealthy-adjective-2",
             "definition": "not in or exhibiting good health in body or mind",
-            "translation": "",
+            "translation": "体弱多病的",
             "examples": [
               {
                 "text": "unhealthy ulcers",
-                "translation": ""
+                "translation": "不健康的溃疡"
               }
             ]
           },
           {
             "id": "unhealthy-adjective-3",
             "definition": "detrimental to health",
-            "translation": "",
+            "translation": "有害健康的",
             "examples": []
           }
         ]
@@ -44627,8 +44627,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -47588,7 +47588,7 @@
           {
             "id": "unimportant-adjective-2",
             "definition": "devoid of importance, meaning, or force",
-            "translation": "",
+            "translation": "无关紧要的",
             "examples": []
           }
         ]
@@ -47596,7 +47596,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -56518,11 +56518,11 @@
           {
             "id": "unmarried-adjective-1",
             "definition": "not married or related to the unmarried state",
-            "translation": "",
+            "translation": "未婚的；独身的",
             "examples": [
               {
                 "text": "unmarried men and women",
-                "translation": ""
+                "translation": "未婚男女"
               }
             ]
           }
@@ -56531,8 +56531,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -70909,7 +70909,7 @@
           {
             "id": "unrest-noun-1",
             "definition": "a feeling of restless agitation",
-            "translation": "",
+            "translation": "不安；骚动",
             "examples": []
           },
           {
@@ -70923,8 +70923,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -72365,13 +72365,13 @@
           {
             "id": "unsafe-adjective-1",
             "definition": "involving or causing danger or risk",
-            "translation": "",
+            "translation": "不安全的；危险的",
             "examples": []
           },
           {
             "id": "unsafe-adjective-2",
             "definition": "lacking in security or safety",
-            "translation": "",
+            "translation": "不安全的",
             "examples": []
           },
           {
@@ -72385,7 +72385,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -80599,7 +80599,7 @@
           {
             "id": "unsuccessful-adjective-1",
             "definition": "failing to accomplish an intended result",
-            "translation": "",
+            "translation": "不成功的；失败的",
             "examples": []
           },
           {
@@ -80613,7 +80613,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -85587,34 +85587,34 @@
           {
             "id": "untrue-adjective-1",
             "definition": "(used especially of persons) not dependable in devotion or affection",
-            "translation": "",
+            "translation": "不忠实的",
             "examples": []
           },
           {
             "id": "untrue-adjective-2",
             "definition": "not accurately fitted",
-            "translation": "",
+            "translation": "不精确的",
             "examples": []
           },
           {
             "id": "untrue-adjective-3",
             "definition": "not true to an obligation or trust",
-            "translation": "",
+            "translation": "不忠实的",
             "examples": [
               {
                 "text": "They were untrue to their oath of membership.",
-                "translation": ""
+                "translation": "他们违背了自己的成员誓言。"
               }
             ]
           },
           {
             "id": "untrue-adjective-4",
             "definition": "not according with the facts",
-            "translation": "",
+            "translation": "不真实的；假的",
             "examples": [
               {
                 "text": "unfortunately the statement was simply untrue",
-                "translation": ""
+                "translation": "可惜那番话根本就是不真实的。"
               }
             ]
           }
@@ -85623,8 +85623,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

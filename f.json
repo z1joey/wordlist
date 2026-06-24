@@ -1534,13 +1534,13 @@
           {
             "id": "facial-noun-1",
             "definition": "care for the face that usually involves cleansing and massage and the application of cosmetic creams",
-            "translation": "",
+            "translation": "面部护理",
             "examples": []
           },
           {
             "id": "facial-noun-2",
             "definition": "cranial nerve that supplies facial muscles",
-            "translation": "",
+            "translation": "面神经",
             "examples": []
           }
         ]
@@ -1548,7 +1548,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -5862,30 +5862,30 @@
           {
             "id": "fairness-noun-1",
             "definition": "the quality of being good looking and attractive",
-            "translation": "",
+            "translation": "美貌",
             "examples": []
           },
           {
             "id": "fairness-noun-2",
             "definition": "conformity with rules or standards",
-            "translation": "",
+            "translation": "公正；公平",
             "examples": [
               {
                 "text": "the judge recognized the fairness of my claim",
-                "translation": ""
+                "translation": "法官认可了我主张的公正性。"
               }
             ]
           },
           {
             "id": "fairness-noun-3",
             "definition": "the property of having a naturally light complexion",
-            "translation": "",
+            "translation": "白皮肤",
             "examples": []
           },
           {
             "id": "fairness-noun-4",
             "definition": "ability to make judgments free from discrimination or dishonesty",
-            "translation": "",
+            "translation": "公正判断力",
             "examples": []
           }
         ]
@@ -5898,8 +5898,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -20890,25 +20890,25 @@
           {
             "id": "favour-noun-1",
             "definition": "an act of gracious kindness",
-            "translation": "",
+            "translation": "恩惠；善意的行为",
             "examples": []
           },
           {
             "id": "favour-noun-2",
             "definition": "souvenir consisting of a small gift given to a guest at a party",
-            "translation": "",
+            "translation": "小纪念品；小赠品",
             "examples": []
           },
           {
             "id": "favour-noun-3",
             "definition": "an advantage to the benefit of someone or something",
-            "translation": "",
+            "translation": "好处；利益",
             "examples": []
           },
           {
             "id": "favour-noun-4",
             "definition": "an inclination to approve",
-            "translation": "",
+            "translation": "赞同；偏爱",
             "examples": []
           },
           {
@@ -20925,25 +20925,25 @@
           {
             "id": "favour-verb-1",
             "definition": "consider as the favorite",
-            "translation": "",
+            "translation": "偏爱；支持",
             "examples": []
           },
           {
             "id": "favour-verb-2",
             "definition": "promote over another",
-            "translation": "",
+            "translation": "支持；偏袒",
             "examples": []
           },
           {
             "id": "favour-verb-3",
             "definition": "bestow a privilege upon",
-            "translation": "",
+            "translation": "赐予",
             "examples": []
           },
           {
             "id": "favour-verb-4",
             "definition": "treat gently or carefully",
-            "translation": "",
+            "translation": "特别照顾",
             "examples": []
           }
         ]
@@ -20956,7 +20956,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -21129,22 +21129,22 @@
           {
             "id": "favourite-adjective-1",
             "definition": "preferred above all others and treated with partiality",
-            "translation": "",
+            "translation": "最喜爱的",
             "examples": [
               {
                 "text": "This is my favorite coffee.",
-                "translation": ""
+                "translation": "这是我最喜欢的咖啡。"
               }
             ]
           },
           {
             "id": "favourite-adjective-2",
             "definition": "appealing to the general public",
-            "translation": "",
+            "translation": "受欢迎的",
             "examples": [
               {
                 "text": "This statue is a favorite tourist attraction.",
-                "translation": ""
+                "translation": "这座雕像是颇受欢迎的旅游景点。"
               }
             ]
           }
@@ -21156,18 +21156,18 @@
           {
             "id": "favourite-noun-1",
             "definition": "something regarded with special favor or liking",
-            "translation": "",
+            "translation": "特别喜爱的人或物",
             "examples": [
               {
                 "text": "That book is one of my favorites.",
-                "translation": ""
+                "translation": "那本书是我的最爱之一。"
               }
             ]
           },
           {
             "id": "favourite-noun-2",
             "definition": "a competitor thought likely to win",
-            "translation": "",
+            "translation": "热门选手；夺标热门",
             "examples": []
           }
         ]
@@ -21178,11 +21178,11 @@
           {
             "id": "favourite-verb-1",
             "definition": "to add something to your collection on the Internet",
-            "translation": "",
+            "translation": "收藏（网络内容）",
             "examples": [
               {
                 "text": "I favorited that post.",
-                "translation": ""
+                "translation": "我收藏了那篇帖子。"
               }
             ]
           }
@@ -21191,8 +21191,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -21478,7 +21478,7 @@
           {
             "id": "fax-noun-1",
             "definition": "duplicator that transmits the copy by wire or radio",
-            "translation": "",
+            "translation": "传真机",
             "examples": []
           }
         ]
@@ -21489,11 +21489,11 @@
           {
             "id": "fax-verb-1",
             "definition": "send something via a facsimile machine",
-            "translation": "",
+            "translation": "发传真",
             "examples": [
               {
                 "text": "Can you fax me the report right away?",
-                "translation": ""
+                "translation": "你能马上把报告传真给我吗?"
               }
             ]
           }
@@ -21511,8 +21511,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -30859,13 +30859,13 @@
           {
             "id": "ferry-noun-1",
             "definition": "transport by boat or aircraft",
-            "translation": "",
+            "translation": "渡运",
             "examples": []
           },
           {
             "id": "ferry-noun-2",
             "definition": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
-            "translation": "",
+            "translation": "渡船",
             "examples": []
           }
         ]
@@ -30876,19 +30876,19 @@
           {
             "id": "ferry-verb-1",
             "definition": "travel by ferry",
-            "translation": "",
+            "translation": "乘渡船",
             "examples": []
           },
           {
             "id": "ferry-verb-2",
             "definition": "transport by ferry",
-            "translation": "",
+            "translation": "渡运",
             "examples": []
           },
           {
             "id": "ferry-verb-3",
             "definition": "transport from one place to another",
-            "translation": "",
+            "translation": "运送",
             "examples": []
           }
         ]
@@ -30901,8 +30901,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -35064,25 +35064,25 @@
           {
             "id": "fibre-noun-1",
             "definition": "a leatherlike material made by compressing layers of paper or cloth",
-            "translation": "",
+            "translation": "纤维板",
             "examples": []
           },
           {
             "id": "fibre-noun-2",
             "definition": "the inherent complex of attributes that determines a persons moral and ethical actions and reactions",
-            "translation": "",
+            "translation": "品格；品质",
             "examples": []
           },
           {
             "id": "fibre-noun-3",
             "definition": "any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)",
-            "translation": "",
+            "translation": "纤维",
             "examples": []
           },
           {
             "id": "fibre-noun-4",
             "definition": "a slender and greatly elongated substance capable of being spun into yarn",
-            "translation": "",
+            "translation": "纤维丝",
             "examples": []
           }
         ]
@@ -35095,8 +35095,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -38455,7 +38455,7 @@
           {
             "id": "fifteen-adjective-1",
             "definition": "being one more than fourteen",
-            "translation": "",
+            "translation": "十五的",
             "examples": []
           }
         ]
@@ -38466,7 +38466,7 @@
           {
             "id": "fifteen-noun-1",
             "definition": "the cardinal number that is the sum of fourteen and one",
-            "translation": "",
+            "translation": "十五",
             "examples": []
           }
         ]
@@ -38474,8 +38474,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -38545,7 +38545,7 @@
           {
             "id": "fifth-adjective-1",
             "definition": "coming next after the fourth and just before the sixth in position",
-            "translation": "",
+            "translation": "第五的",
             "examples": []
           }
         ]
@@ -38556,29 +38556,29 @@
           {
             "id": "fifth-noun-1",
             "definition": "the musical interval between one note and another five notes away from it",
-            "translation": "",
+            "translation": "五度音程",
             "examples": []
           },
           {
             "id": "fifth-noun-2",
             "definition": "a quantity of liquor equal to one fifth of a United States gallon",
-            "translation": "",
+            "translation": "五分之一加仑",
             "examples": []
           },
           {
             "id": "fifth-noun-3",
             "definition": "one part in five equal parts",
-            "translation": "",
+            "translation": "五分之一",
             "examples": []
           },
           {
             "id": "fifth-noun-4",
             "definition": "position five in a countable series of things",
-            "translation": "",
+            "translation": "第五",
             "examples": [
               {
                 "text": "Their team came in fifth out of several hundred entries.",
-                "translation": ""
+                "translation": "他们队在几百支队伍中获得了第五名。"
               }
             ]
           }
@@ -38587,8 +38587,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -38734,7 +38734,7 @@
           {
             "id": "fifty-adjective-1",
             "definition": "being ten more than forty",
-            "translation": "",
+            "translation": "五十的",
             "examples": []
           }
         ]
@@ -38745,13 +38745,13 @@
           {
             "id": "fifty-noun-1",
             "definition": "a United States bill worth 50 dollars",
-            "translation": "",
+            "translation": "五十美元钞票",
             "examples": []
           },
           {
             "id": "fifty-noun-2",
             "definition": "the cardinal number that is the product of ten and five",
-            "translation": "",
+            "translation": "五十",
             "examples": []
           }
         ]
@@ -38759,8 +38759,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -39145,19 +39145,19 @@
           {
             "id": "fighter-noun-1",
             "definition": "a high-speed military or naval airplane designed to destroy enemy aircraft in the air",
-            "translation": "",
+            "translation": "战斗机",
             "examples": []
           },
           {
             "id": "fighter-noun-2",
             "definition": "someone who fights for a cause",
-            "translation": "",
+            "translation": "斗士",
             "examples": []
           },
           {
             "id": "fighter-noun-3",
             "definition": "someone who fights (or is fighting)",
-            "translation": "",
+            "translation": "战士；拳击手",
             "examples": []
           }
         ]
@@ -39165,8 +39165,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -45315,7 +45315,7 @@
           {
             "id": "fingernail-noun-1",
             "definition": "the nail at the end of a finger",
-            "translation": "",
+            "translation": "指甲",
             "examples": []
           }
         ]
@@ -45323,8 +45323,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -47846,7 +47846,7 @@
           {
             "id": "firefighter-noun-1",
             "definition": "a member of a fire department who tries to extinguish fires",
-            "translation": "",
+            "translation": "消防员",
             "examples": []
           }
         ]
@@ -47854,8 +47854,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48157,11 +48157,11 @@
           {
             "id": "fireplace-noun-1",
             "definition": "an open recess in a wall at the base of a chimney where a fire can be built",
-            "translation": "",
+            "translation": "壁炉",
             "examples": [
               {
                 "text": "the fireplace was so large you could walk inside it",
-                "translation": ""
+                "translation": "这个壁炉很大,大到能让人走进去。"
               }
             ]
           }
@@ -48170,8 +48170,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48658,11 +48658,11 @@
           {
             "id": "firewood-noun-1",
             "definition": "wood used for fuel",
-            "translation": "",
+            "translation": "柴火",
             "examples": [
               {
                 "text": "they collected and cut their own firewood",
-                "translation": ""
+                "translation": "他们自己收集并劈柴。"
               }
             ]
           }
@@ -48671,8 +48671,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48700,7 +48700,7 @@
           {
             "id": "firework-noun-1",
             "definition": "(usually plural) a device with an explosive that burns at a low rate and with colored flames",
-            "translation": "",
+            "translation": "烟火",
             "examples": []
           }
         ]
@@ -48708,8 +48708,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51118,22 +51118,22 @@
           {
             "id": "fist-noun-1",
             "definition": "the signature style of a Morse code operator",
-            "translation": "",
+            "translation": "莫尔斯电键指法",
             "examples": [
               {
                 "text": "The enemy was able to identify the ship by the radio operator's distinct fist.",
-                "translation": ""
+                "translation": "敌方通过无线电操作员独特的按键节奏识别出这艘船。"
               }
             ]
           },
           {
             "id": "fist-noun-2",
             "definition": "a hand with the fingers clenched in the palm, as for hitting",
-            "translation": "",
+            "translation": "拳头",
             "examples": [
               {
                 "text": "Before punching, the fighter made a fist.",
-                "translation": ""
+                "translation": "出拳前,拳击手握紧了拳头。"
               }
             ]
           }
@@ -51142,8 +51142,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -52388,7 +52388,7 @@
           {
             "id": "five-adjective-1",
             "definition": "being one more than four",
-            "translation": "",
+            "translation": "五的",
             "examples": []
           }
         ]
@@ -52399,19 +52399,19 @@
           {
             "id": "five-noun-1",
             "definition": "a playing card or a domino or a die whose upward face shows five pips",
-            "translation": "",
+            "translation": "五点的牌/骰子",
             "examples": []
           },
           {
             "id": "five-noun-2",
             "definition": "a team that plays basketball",
-            "translation": "",
+            "translation": "篮球队",
             "examples": []
           },
           {
             "id": "five-noun-3",
             "definition": "the cardinal number that is the sum of four and one",
-            "translation": "",
+            "translation": "五",
             "examples": []
           }
         ]
@@ -52424,8 +52424,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -57924,7 +57924,7 @@
           {
             "id": "flashlight-noun-1",
             "definition": "a small portable battery-powered electric lamp",
-            "translation": "",
+            "translation": "手电筒",
             "examples": []
           }
         ]
@@ -57932,8 +57932,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -68337,7 +68337,7 @@
           {
             "id": "flour-noun-1",
             "definition": "fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain",
-            "translation": "",
+            "translation": "面粉",
             "examples": []
           }
         ]
@@ -68348,17 +68348,17 @@
           {
             "id": "flour-verb-1",
             "definition": "convert grain into flour",
-            "translation": "",
+            "translation": "把谷物磨成粉",
             "examples": []
           },
           {
             "id": "flour-verb-2",
             "definition": "cover with flour",
-            "translation": "",
+            "translation": "撒面粉于",
             "examples": [
               {
                 "text": "flour fish or meat before frying it",
-                "translation": ""
+                "translation": "煎之前在鱼或肉上撒面粉。"
               }
             ]
           }
@@ -68367,8 +68367,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -69537,7 +69537,7 @@
           {
             "id": "flu-noun-1",
             "definition": "an acute febrile highly contagious viral disease",
-            "translation": "",
+            "translation": "流感",
             "examples": []
           }
         ]
@@ -69545,8 +69545,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -69905,19 +69905,19 @@
           {
             "id": "fluency-noun-1",
             "definition": "the quality of being facile in speech and writing",
-            "translation": "",
+            "translation": "流利",
             "examples": []
           },
           {
             "id": "fluency-noun-2",
             "definition": "skillfulness in speaking or writing",
-            "translation": "",
+            "translation": "熟练",
             "examples": []
           },
           {
             "id": "fluency-noun-3",
             "definition": "powerful and effective language",
-            "translation": "",
+            "translation": "雄辩；有力的表达",
             "examples": []
           }
         ]
@@ -69930,8 +69930,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -75887,19 +75887,19 @@
           {
             "id": "fog-noun-1",
             "definition": "confusion characterized by lack of clarity",
-            "translation": "",
+            "translation": "困惑；迷茫",
             "examples": []
           },
           {
             "id": "fog-noun-2",
             "definition": "droplets of water vapor suspended in the air near the ground",
-            "translation": "",
+            "translation": "雾",
             "examples": []
           },
           {
             "id": "fog-noun-3",
             "definition": "an atmosphere in which visibility is reduced because of a cloud of some substance",
-            "translation": "",
+            "translation": "烟雾；迷蒙",
             "examples": []
           }
         ]
@@ -75923,7 +75923,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -76145,25 +76145,25 @@
           {
             "id": "foggy-adjective-1",
             "definition": "obscured by fog",
-            "translation": "",
+            "translation": "雾蒙蒙的",
             "examples": []
           },
           {
             "id": "foggy-adjective-2",
             "definition": "filled or abounding with fog or mist",
-            "translation": "",
+            "translation": "多雾的",
             "examples": []
           },
           {
             "id": "foggy-adjective-3",
             "definition": "indistinct or hazy in outline",
-            "translation": "",
+            "translation": "模糊的",
             "examples": []
           },
           {
             "id": "foggy-adjective-4",
             "definition": "stunned or confused and slow to react (as from blows or drunkenness or exhaustion)",
-            "translation": "",
+            "translation": "晕眩的；迟钝的",
             "examples": []
           }
         ]
@@ -76171,8 +76171,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -80597,13 +80597,13 @@
           {
             "id": "football-noun-1",
             "definition": "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal",
-            "translation": "",
+            "translation": "足球运动；橄榄球运动",
             "examples": []
           },
           {
             "id": "football-noun-2",
             "definition": "the inflated oblong ball used in playing American football",
-            "translation": "",
+            "translation": "橄榄球",
             "examples": []
           }
         ]
@@ -80616,8 +80616,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -86349,19 +86349,19 @@
           {
             "id": "foresee-verb-1",
             "definition": "realize beforehand",
-            "translation": "",
+            "translation": "预知",
             "examples": []
           },
           {
             "id": "foresee-verb-2",
             "definition": "picture to oneself",
-            "translation": "",
+            "translation": "想象",
             "examples": []
           },
           {
             "id": "foresee-verb-3",
             "definition": "act in advance of",
-            "translation": "",
+            "translation": "先于…行动",
             "examples": []
           }
         ]
@@ -86369,8 +86369,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -88512,24 +88512,24 @@
           {
             "id": "forgetful-adjective-1",
             "definition": "failing to keep in mind",
-            "translation": "",
+            "translation": "健忘的",
             "examples": [
               {
                 "text": "They were never forgetful of their responsibilities.",
-                "translation": ""
+                "translation": "他们从不会忘记自己的责任。"
               }
             ]
           },
           {
             "id": "forgetful-adjective-2",
             "definition": "not mindful or attentive",
-            "translation": "",
+            "translation": "不留神的；疏忽的",
             "examples": []
           },
           {
             "id": "forgetful-adjective-3",
             "definition": "(of memory) deficient in retentiveness or range",
-            "translation": "",
+            "translation": "记忆力差的",
             "examples": []
           }
         ]
@@ -88537,8 +88537,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -93194,11 +93194,11 @@
           {
             "id": "fortnight-noun-1",
             "definition": "a period of fourteen consecutive days",
-            "translation": "",
+            "translation": "两周；十四天",
             "examples": [
               {
                 "text": "most major tennis tournaments last a fortnight",
-                "translation": ""
+                "translation": "大多数大型网球锦标赛要持续两周。"
               }
             ]
           }
@@ -93207,8 +93207,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -93720,7 +93720,7 @@
           {
             "id": "forty-adjective-1",
             "definition": "being ten more than thirty",
-            "translation": "",
+            "translation": "四十的",
             "examples": []
           }
         ]
@@ -93731,7 +93731,7 @@
           {
             "id": "forty-noun-1",
             "definition": "the cardinal number that is the product of ten and four",
-            "translation": "",
+            "translation": "四十",
             "examples": []
           }
         ]
@@ -93744,8 +93744,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -96051,7 +96051,7 @@
           {
             "id": "four-adjective-1",
             "definition": "being one more than three",
-            "translation": "",
+            "translation": "四的",
             "examples": []
           }
         ]
@@ -96062,13 +96062,13 @@
           {
             "id": "four-noun-1",
             "definition": "a playing card or domino or die whose upward face shows four pips",
-            "translation": "",
+            "translation": "四点牌/骰子",
             "examples": []
           },
           {
             "id": "four-noun-2",
             "definition": "the cardinal number that is the sum of three and one",
-            "translation": "",
+            "translation": "四",
             "examples": []
           }
         ]
@@ -96097,8 +96097,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -96482,7 +96482,7 @@
           {
             "id": "fourteen-adjective-1",
             "definition": "being one more than thirteen",
-            "translation": "",
+            "translation": "十四的",
             "examples": []
           }
         ]
@@ -96493,7 +96493,7 @@
           {
             "id": "fourteen-noun-1",
             "definition": "the cardinal number that is the sum of thirteen and one",
-            "translation": "",
+            "translation": "十四",
             "examples": []
           }
         ]
@@ -96501,8 +96501,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -96575,7 +96575,7 @@
           {
             "id": "fourth-adjective-1",
             "definition": "coming next after the third and just before the fifth in position or time or degree or magnitude",
-            "translation": "",
+            "translation": "第四的",
             "examples": []
           }
         ]
@@ -96586,11 +96586,11 @@
           {
             "id": "fourth-adverb-1",
             "definition": "in the fourth place",
-            "translation": "",
+            "translation": "第四",
             "examples": [
               {
                 "text": "fourthly, you must pay the rent on the first of the month",
-                "translation": ""
+                "translation": "第四,你必须在每月一日付房租。"
               }
             ]
           }
@@ -96602,19 +96602,19 @@
           {
             "id": "fourth-noun-1",
             "definition": "the musical interval between one note and another four notes away from it",
-            "translation": "",
+            "translation": "四度音程",
             "examples": []
           },
           {
             "id": "fourth-noun-2",
             "definition": "one of four equal parts",
-            "translation": "",
+            "translation": "四分之一",
             "examples": []
           },
           {
             "id": "fourth-noun-3",
             "definition": "following the third position",
-            "translation": "",
+            "translation": "第四位",
             "examples": []
           }
         ]
@@ -96635,8 +96635,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -97950,24 +97950,24 @@
           {
             "id": "fragile-adjective-1",
             "definition": "vulnerably delicate",
-            "translation": "",
+            "translation": "脆弱的；易受伤的",
             "examples": [
               {
                 "text": "They have the fragile beauty of youth.",
-                "translation": ""
+                "translation": "他们拥有青年脆弱的美。"
               }
             ]
           },
           {
             "id": "fragile-adjective-2",
             "definition": "easily broken or damaged or destroyed",
-            "translation": "",
+            "translation": "易碎的",
             "examples": []
           },
           {
             "id": "fragile-adjective-3",
             "definition": "lacking substance or significance",
-            "translation": "",
+            "translation": "无实质内容的；无意义的",
             "examples": []
           }
         ]
@@ -97975,8 +97975,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -98457,7 +98457,7 @@
           {
             "id": "fragrant-adjective-1",
             "definition": "pleasant-smelling",
-            "translation": "",
+            "translation": "芳香的",
             "examples": []
           }
         ]
@@ -98465,8 +98465,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -99184,7 +99184,7 @@
           {
             "id": "franc-noun-1",
             "definition": "the basic monetary unit in many countries",
-            "translation": "",
+            "translation": "法郎",
             "examples": []
           }
         ]
@@ -99192,8 +99192,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -102921,7 +102921,7 @@
           {
             "id": "freeway-noun-1",
             "definition": "a broad highway designed for high-speed traffic",
-            "translation": "",
+            "translation": "高速公路",
             "examples": []
           }
         ]
@@ -102929,8 +102929,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -105704,13 +105704,13 @@
           {
             "id": "friction-noun-1",
             "definition": "effort expended in moving one object over another with pressure",
-            "translation": "",
+            "translation": "摩擦力",
             "examples": []
           },
           {
             "id": "friction-noun-2",
             "definition": "the resistance encountered when one body is moved in contact with another",
-            "translation": "",
+            "translation": "摩擦",
             "examples": []
           },
           {
@@ -105737,7 +105737,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -105880,7 +105880,7 @@
           {
             "id": "fried-adjective-1",
             "definition": "cooked by frying in fat",
-            "translation": "",
+            "translation": "油炸的",
             "examples": []
           }
         ]
@@ -105893,8 +105893,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -106392,7 +106392,7 @@
           {
             "id": "fright-noun-1",
             "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
-            "translation": "",
+            "translation": "惊吓；恐惧",
             "examples": []
           }
         ]
@@ -106403,11 +106403,11 @@
           {
             "id": "fright-verb-1",
             "definition": "cause fear in",
-            "translation": "",
+            "translation": "使惊恐",
             "examples": [
               {
                 "text": "The stranger who hangs around the building frightens me",
-                "translation": ""
+                "translation": "在大楼附近徘徊的陌生人让我感到害怕。"
               }
             ]
           }
@@ -106421,8 +106421,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

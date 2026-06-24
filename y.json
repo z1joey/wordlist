@@ -1964,7 +1964,7 @@
           {
             "id": "yawn-noun-1",
             "definition": "an involuntary intake of breath through a wide open mouth",
-            "translation": "",
+            "translation": "哈欠",
             "examples": []
           }
         ]
@@ -1975,18 +1975,18 @@
           {
             "id": "yawn-verb-1",
             "definition": "utter a yawn, as from lack of oxygen or when one is tired",
-            "translation": "",
+            "translation": "打哈欠",
             "examples": [
               {
                 "text": "The child yawned during the long performance",
-                "translation": ""
+                "translation": "这个孩子在漫长的演出中打哈欠。"
               }
             ]
           },
           {
             "id": "yawn-verb-2",
             "definition": "be wide open",
-            "translation": "",
+            "translation": "豁开；裂开",
             "examples": []
           }
         ]
@@ -1994,8 +1994,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -5539,11 +5539,11 @@
           {
             "id": "yoghurt-noun-1",
             "definition": "a custard-like food made from curdled milk",
-            "translation": "",
+            "translation": "酸奶",
             "examples": [
               {
                 "text": "I mixed granola with my morning yogurt.",
-                "translation": ""
+                "translation": "我把燕麦和我早上的酸奶混在一起。"
               }
             ]
           }
@@ -5552,8 +5552,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -7155,11 +7155,11 @@
           {
             "id": "yummy-adjective-1",
             "definition": "extremely pleasing to the sense of taste",
-            "translation": "",
+            "translation": "美味的",
             "examples": [
               {
                 "text": "These seared scallops are yummy.",
-                "translation": ""
+                "translation": "这些煎扇贝真好吃。"
               }
             ]
           }
@@ -7168,8 +7168,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

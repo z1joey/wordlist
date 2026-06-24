@@ -5517,13 +5517,13 @@
           {
             "id": "haircut-noun-1",
             "definition": "the act of cutting the hair",
-            "translation": "",
+            "translation": "理发",
             "examples": []
           },
           {
             "id": "haircut-noun-2",
             "definition": "the style in which hair has been cut",
-            "translation": "",
+            "translation": "发型",
             "examples": []
           }
         ]
@@ -5531,8 +5531,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9517,19 +9517,19 @@
           {
             "id": "ham-noun-1",
             "definition": "meat cut from the thigh of a hog (usually smoked)",
-            "translation": "",
+            "translation": "火腿",
             "examples": []
           },
           {
             "id": "ham-noun-2",
             "definition": "an unskilled actor who overacts",
-            "translation": "",
+            "translation": "表演夸张的演员",
             "examples": []
           },
           {
             "id": "ham-noun-3",
             "definition": "a licensed amateur radio operator",
-            "translation": "",
+            "translation": "业余无线电爱好者",
             "examples": []
           }
         ]
@@ -9540,7 +9540,7 @@
           {
             "id": "ham-verb-1",
             "definition": "exaggerate one's acting",
-            "translation": "",
+            "translation": "表演得过于夸张",
             "examples": []
           }
         ]
@@ -9548,8 +9548,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9721,13 +9721,13 @@
           {
             "id": "hamburger-noun-1",
             "definition": "beef that has been ground",
-            "translation": "",
+            "translation": "牛肉糜",
             "examples": []
           },
           {
             "id": "hamburger-noun-2",
             "definition": "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
-            "translation": "",
+            "translation": "汉堡包",
             "examples": []
           }
         ]
@@ -9735,8 +9735,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9885,59 +9885,59 @@
           {
             "id": "hammer-noun-1",
             "definition": "the act of pounding, particularly delivering repeated heavy blows",
-            "translation": "",
+            "translation": "锤击",
             "examples": [
               {
                 "text": "The sudden hammer of fists caught them off guard.",
-                "translation": ""
+                "translation": "突然的重拳把他们打得措手不及。"
               }
             ]
           },
           {
             "id": "hammer-noun-2",
             "definition": "a hand tool with a heavy rigid head and a handle",
-            "translation": "",
+            "translation": "锤子",
             "examples": []
           },
           {
             "id": "hammer-noun-3",
             "definition": "a power tool for drilling rocks",
-            "translation": "",
+            "translation": "凿岩机",
             "examples": []
           },
           {
             "id": "hammer-noun-4",
             "definition": "a striker that is covered in felt and that causes the piano strings to vibrate",
-            "translation": "",
+            "translation": "琴槌",
             "examples": []
           },
           {
             "id": "hammer-noun-5",
             "definition": "the part of a gunlock that strikes the percussion cap when the trigger is pulled",
-            "translation": "",
+            "translation": "击锤",
             "examples": []
           },
           {
             "id": "hammer-noun-6",
             "definition": "a heavy metal sphere attached to a flexible wire",
-            "translation": "",
+            "translation": "链球",
             "examples": [
               {
                 "text": "used in the hammer throw",
-                "translation": ""
+                "translation": "用于链球比赛"
               }
             ]
           },
           {
             "id": "hammer-noun-7",
             "definition": "a light drumstick with a rounded head that is used to strike such percussion instruments as chimes, kettledrums, marimbas, glockenspiels, etc.",
-            "translation": "",
+            "translation": "鼓槌",
             "examples": []
           },
           {
             "id": "hammer-noun-8",
             "definition": "the ossicle attached to the eardrum",
-            "translation": "",
+            "translation": "锤骨",
             "examples": []
           }
         ]
@@ -10021,7 +10021,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -10935,7 +10935,7 @@
           {
             "id": "handbag-noun-1",
             "definition": "a container used for carrying money and small personal items or accessories (especially by women)",
-            "translation": "",
+            "translation": "手提包",
             "examples": []
           }
         ]
@@ -10943,8 +10943,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -11773,17 +11773,17 @@
           {
             "id": "handful-noun-1",
             "definition": "the quantity that can be held in the hand",
-            "translation": "",
+            "translation": "一把",
             "examples": []
           },
           {
             "id": "handful-noun-2",
             "definition": "a small number or amount",
-            "translation": "",
+            "translation": "少数；少量",
             "examples": [
               {
                 "text": "only a handful of responses were received",
-                "translation": ""
+                "translation": "只收到了少数回复。"
               }
             ]
           }
@@ -11792,8 +11792,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12288,7 +12288,7 @@
           {
             "id": "handkerchief-noun-1",
             "definition": "a square piece of cloth used for wiping the eyes or nose or as a costume accessory",
-            "translation": "",
+            "translation": "手帕",
             "examples": []
           }
         ]
@@ -12296,8 +12296,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -14011,22 +14011,22 @@
           {
             "id": "handwriting-noun-1",
             "definition": "the activity of writing by hand",
-            "translation": "",
+            "translation": "手写",
             "examples": [
               {
                 "text": "handwriting can be slow and painful for one with arthritis",
-                "translation": ""
+                "translation": "对关节炎患者来说手写可能很慢很痛苦。"
               }
             ]
           },
           {
             "id": "handwriting-noun-2",
             "definition": "something written by hand",
-            "translation": "",
+            "translation": "手写的东西；笔迹",
             "examples": [
               {
                 "text": "They recognized the handwriting.",
-                "translation": ""
+                "translation": "他们认出了那个笔迹。"
               }
             ]
           }
@@ -14040,8 +14040,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -14103,33 +14103,33 @@
           {
             "id": "handy-adjective-1",
             "definition": "easy to reach",
-            "translation": "",
+            "translation": "手边的；便利的",
             "examples": [
               {
                 "text": "I found a handy spot for the can opener.",
-                "translation": ""
+                "translation": "我找到了一个放开罐器的便利位置。"
               }
             ]
           },
           {
             "id": "handy-adjective-2",
             "definition": "skillful with the hands",
-            "translation": "",
+            "translation": "手巧的",
             "examples": [
               {
                 "text": "I am handy with a needle and thread.",
-                "translation": ""
+                "translation": "我针线活很手巧。"
               }
             ]
           },
           {
             "id": "handy-adjective-3",
             "definition": "easy to use",
-            "translation": "",
+            "translation": "便于使用的",
             "examples": [
               {
                 "text": "The new blender was handy gadget.",
-                "translation": ""
+                "translation": "这个新搅拌机用起来很方便。"
               }
             ]
           }
@@ -14143,8 +14143,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -16169,22 +16169,22 @@
           {
             "id": "happily-adverb-1",
             "definition": "in an unexpectedly lucky way",
-            "translation": "",
+            "translation": "幸运地",
             "examples": [
               {
                 "text": "Happily, we were not injured.",
-                "translation": ""
+                "translation": "幸运的是,我们没有受伤。"
               }
             ]
           },
           {
             "id": "happily-adverb-2",
             "definition": "in a joyous manner",
-            "translation": "",
+            "translation": "高兴地",
             "examples": [
               {
                 "text": "they shouted happily",
-                "translation": ""
+                "translation": "他们高兴地叫了起来。"
               }
             ]
           }
@@ -16193,8 +16193,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -16222,13 +16222,13 @@
           {
             "id": "happiness-noun-1",
             "definition": "emotions experienced when in a state of well-being",
-            "translation": "",
+            "translation": "幸福感",
             "examples": []
           },
           {
             "id": "happiness-noun-2",
             "definition": "state of well-being characterized by emotions ranging from contentment to intense joy",
-            "translation": "",
+            "translation": "幸福",
             "examples": []
           }
         ]
@@ -16236,8 +16236,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -16934,13 +16934,13 @@
           {
             "id": "harbour-noun-1",
             "definition": "a place of refuge and comfort and security",
-            "translation": "",
+            "translation": "避难所",
             "examples": []
           },
           {
             "id": "harbour-noun-2",
             "definition": "a sheltered port where ships can take on or discharge cargo",
-            "translation": "",
+            "translation": "港口",
             "examples": []
           }
         ]
@@ -16951,25 +16951,25 @@
           {
             "id": "harbour-verb-1",
             "definition": "maintain (a theory, thoughts, or feelings)",
-            "translation": "",
+            "translation": "怀有（想法、情感）",
             "examples": []
           },
           {
             "id": "harbour-verb-2",
             "definition": "hold back a thought or feeling about",
-            "translation": "",
+            "translation": "抑制（情感）",
             "examples": []
           },
           {
             "id": "harbour-verb-3",
             "definition": "keep in one's possession",
-            "translation": "",
+            "translation": "持有",
             "examples": []
           },
           {
             "id": "harbour-verb-4",
             "definition": "secretly shelter (as of fugitives or criminals)",
-            "translation": "",
+            "translation": "窝藏；包庇",
             "examples": []
           }
         ]
@@ -16977,8 +16977,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -19741,11 +19741,11 @@
           {
             "id": "harmless-adjective-1",
             "definition": "not causing or capable of causing harm",
-            "translation": "",
+            "translation": "无害的",
             "examples": [
               {
                 "text": "harmless bacteria",
-                "translation": ""
+                "translation": "无害的细菌"
               }
             ]
           }
@@ -19754,8 +19754,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -23094,19 +23094,19 @@
           {
             "id": "hatch-noun-1",
             "definition": "a movable barrier covering a hatchway",
-            "translation": "",
+            "translation": "舱口",
             "examples": []
           },
           {
             "id": "hatch-noun-2",
             "definition": "shading consisting of multiple crossing lines",
-            "translation": "",
+            "translation": "影线",
             "examples": []
           },
           {
             "id": "hatch-noun-3",
             "definition": "the production of young from an egg",
-            "translation": "",
+            "translation": "孵化",
             "examples": []
           }
         ]
@@ -23117,46 +23117,46 @@
           {
             "id": "hatch-verb-1",
             "definition": "sit on eggs",
-            "translation": "",
+            "translation": "孵蛋",
             "examples": [
               {
                 "text": "The chickens hatched their nests.",
-                "translation": ""
+                "translation": "母鸡孵出了它们的蛋。"
               }
             ]
           },
           {
             "id": "hatch-verb-2",
             "definition": "emerge from the eggs",
-            "translation": "",
+            "translation": "孵化出",
             "examples": [
               {
                 "text": "young birds, fish, and reptiles hatch",
-                "translation": ""
+                "translation": "幼鸟、幼鱼和幼爬行动物孵化了。"
               }
             ]
           },
           {
             "id": "hatch-verb-3",
             "definition": "draw, cut, or engrave lines, usually parallel, on metal, wood, or paper",
-            "translation": "",
+            "translation": "画阴影线",
             "examples": [
               {
                 "text": "hatch the sheet",
-                "translation": ""
+                "translation": "给金属板刻画阴影线"
               }
             ]
           },
           {
             "id": "hatch-verb-4",
             "definition": "devise or invent",
-            "translation": "",
+            "translation": "策划；谋划",
             "examples": []
           },
           {
             "id": "hatch-verb-5",
             "definition": "inlay with narrow strips or lines of a different substance such as gold or silver, for the purpose of decorating",
-            "translation": "",
+            "translation": "镶嵌装饰",
             "examples": []
           }
         ]
@@ -23173,8 +23173,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -25759,19 +25759,19 @@
           {
             "id": "hawk-noun-1",
             "definition": "diurnal bird of prey typically having short rounded wings and a long tail",
-            "translation": "",
+            "translation": "鹰",
             "examples": []
           },
           {
             "id": "hawk-noun-2",
             "definition": "a square board with a handle underneath",
-            "translation": "",
+            "translation": "灰泥板",
             "examples": []
           },
           {
             "id": "hawk-noun-3",
             "definition": "an advocate of an aggressive policy on foreign relations",
-            "translation": "",
+            "translation": "鹰派人物",
             "examples": []
           }
         ]
@@ -25782,24 +25782,24 @@
           {
             "id": "hawk-verb-1",
             "definition": "clear mucus or food from one's throat",
-            "translation": "",
+            "translation": "清嗓子",
             "examples": []
           },
           {
             "id": "hawk-verb-2",
             "definition": "hunt with hawks",
-            "translation": "",
+            "translation": "用鹰狩猎",
             "examples": [
               {
                 "text": "the tribes like to hawk in the desert",
-                "translation": ""
+                "translation": "那些部落喜欢在沙漠里用鹰狩猎。"
               }
             ]
           },
           {
             "id": "hawk-verb-3",
             "definition": "sell or offer for sale from place to place",
-            "translation": "",
+            "translation": "沿街叫卖",
             "examples": []
           }
         ]
@@ -25812,8 +25812,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -27598,11 +27598,11 @@
           {
             "id": "he-pronoun-1",
             "definition": "the nominative singular masculine pronoun",
-            "translation": "",
+            "translation": "他",
             "examples": [
               {
                 "text": "He took a look in the mirror.",
-                "translation": ""
+                "translation": "他朝镜子里看了一眼。"
               }
             ]
           }
@@ -27611,7 +27611,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -28231,13 +28231,13 @@
           {
             "id": "headache-noun-1",
             "definition": "something or someone that causes anxiety",
-            "translation": "",
+            "translation": "令人头痛的事",
             "examples": []
           },
           {
             "id": "headache-noun-2",
             "definition": "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs",
-            "translation": "",
+            "translation": "头痛",
             "examples": []
           }
         ]
@@ -28245,8 +28245,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29459,7 +29459,7 @@
           {
             "id": "headmaster-noun-1",
             "definition": "presiding officer of a school",
-            "translation": "",
+            "translation": "校长",
             "examples": []
           }
         ]
@@ -29467,8 +29467,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29525,7 +29525,7 @@
           {
             "id": "headmistress-noun-1",
             "definition": "a woman headmaster",
-            "translation": "",
+            "translation": "女校长",
             "examples": []
           }
         ]
@@ -29533,8 +29533,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -34799,72 +34799,72 @@
           {
             "id": "heavily-adverb-1",
             "definition": "to a considerable degree",
-            "translation": "",
+            "translation": "在很大程度上",
             "examples": [
               {
                 "text": "The researchers relied heavily on others' data.",
-                "translation": ""
+                "translation": "研究人员严重依赖他人的数据。"
               }
             ]
           },
           {
             "id": "heavily-adverb-2",
             "definition": "indulging excessively",
-            "translation": "",
+            "translation": "过度地",
             "examples": [
               {
                 "text": "They drank heavily at the party.",
-                "translation": ""
+                "translation": "他们在派对上喝得烂醉。"
               }
             ]
           },
           {
             "id": "heavily-adverb-3",
             "definition": "in a labored manner",
-            "translation": "",
+            "translation": "吃力地",
             "examples": [
               {
                 "text": "I breathed heavily after the workout.",
-                "translation": ""
+                "translation": "锻炼后我喘得很重。"
               }
             ]
           },
           {
             "id": "heavily-adverb-4",
             "definition": "slowly as if burdened by much weight",
-            "translation": "",
+            "translation": "缓慢地",
             "examples": []
           },
           {
             "id": "heavily-adverb-5",
             "definition": "in a manner designed for heavy duty",
-            "translation": "",
+            "translation": "加固地",
             "examples": [
               {
                 "text": "a heavily constructed car",
-                "translation": ""
+                "translation": "一辆加固制造的车"
               }
             ]
           },
           {
             "id": "heavily-adverb-6",
             "definition": "in a heavy-footed manner",
-            "translation": "",
+            "translation": "步履沉重地",
             "examples": [
               {
                 "text": "They walked heavily up the three flights to the room.",
-                "translation": ""
+                "translation": "他们沉重地走上三段楼梯到了房间。"
               }
             ]
           },
           {
             "id": "heavily-adverb-7",
             "definition": "with great force",
-            "translation": "",
+            "translation": "重重地；猛烈地",
             "examples": [
               {
                 "text": "They hit their arm heavily against the wall.",
-                "translation": ""
+                "translation": "他们重重地把胳膊撞在墙上。"
               }
             ]
           }
@@ -34873,8 +34873,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -37463,37 +37463,37 @@
           {
             "id": "heel-noun-1",
             "definition": "the bottom of a shoe or boot",
-            "translation": "",
+            "translation": "鞋跟",
             "examples": []
           },
           {
             "id": "heel-noun-2",
             "definition": "(golf) the part of the clubhead where it joins the shaft",
-            "translation": "",
+            "translation": "球杆颈",
             "examples": []
           },
           {
             "id": "heel-noun-3",
             "definition": "the lower end of a ship's mast",
-            "translation": "",
+            "translation": "桅杆底端",
             "examples": []
           },
           {
             "id": "heel-noun-4",
             "definition": "the back part of the human foot",
-            "translation": "",
+            "translation": "脚后跟",
             "examples": []
           },
           {
             "id": "heel-noun-5",
             "definition": "one of the crusty ends of a loaf of bread",
-            "translation": "",
+            "translation": "面包头",
             "examples": []
           },
           {
             "id": "heel-noun-6",
             "definition": "someone who is morally reprehensible",
-            "translation": "",
+            "translation": "卑鄙的人",
             "examples": []
           }
         ]
@@ -37504,28 +37504,28 @@
           {
             "id": "heel-verb-1",
             "definition": "follow at the heels of a person",
-            "translation": "",
+            "translation": "紧跟",
             "examples": []
           },
           {
             "id": "heel-verb-2",
             "definition": "tilt to one side",
-            "translation": "",
+            "translation": "倾斜",
             "examples": [
               {
                 "text": "The balloon heeled over",
-                "translation": ""
+                "translation": "气球倾斜过来。"
               }
             ]
           },
           {
             "id": "heel-verb-3",
             "definition": "put a new heel on",
-            "translation": "",
+            "translation": "给…换鞋跟",
             "examples": [
               {
                 "text": "heel shoes",
-                "translation": ""
+                "translation": "给鞋子换新鞋跟"
               }
             ]
           },
@@ -37543,11 +37543,11 @@
           {
             "id": "heel-verb-5",
             "definition": "perform with the heels",
-            "translation": "",
+            "translation": "用脚跟表演",
             "examples": [
               {
                 "text": "heel that dance",
-                "translation": ""
+                "translation": "用脚跟跳出那段舞"
               }
             ]
           }
@@ -37569,7 +37569,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -40291,11 +40291,11 @@
           {
             "id": "hello-noun-1",
             "definition": "an expression of greeting",
-            "translation": "",
+            "translation": "问候",
             "examples": [
               {
                 "text": "Every morning they exchanged polite hellos.",
-                "translation": ""
+                "translation": "每天早上他们互致礼貌的问候。"
               }
             ]
           }
@@ -40304,8 +40304,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -45038,25 +45038,25 @@
           {
             "id": "hen-noun-1",
             "definition": "female of certain aquatic animals e.g. octopus or lobster",
-            "translation": "",
+            "translation": "雌性水生动物",
             "examples": []
           },
           {
             "id": "hen-noun-2",
             "definition": "adult female bird",
-            "translation": "",
+            "translation": "雌鸟",
             "examples": []
           },
           {
             "id": "hen-noun-3",
             "definition": "adult female chicken",
-            "translation": "",
+            "translation": "母鸡",
             "examples": []
           },
           {
             "id": "hen-noun-4",
             "definition": "flesh of an older chicken suitable for stewing",
-            "translation": "",
+            "translation": "适合炖汤的老母鸡肉",
             "examples": []
           }
         ]
@@ -45064,8 +45064,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -46098,11 +46098,11 @@
           {
             "id": "her-pronoun-1",
             "definition": "oblique (object) feminine singular pronoun",
-            "translation": "",
+            "translation": "她（宾格）",
             "examples": [
               {
                 "text": "I thought about her",
-                "translation": ""
+                "translation": "我想到了她。"
               }
             ]
           }
@@ -46111,8 +46111,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -46953,7 +46953,7 @@
           {
             "id": "here-adjective-1",
             "definition": "being here now",
-            "translation": "",
+            "translation": "此处的",
             "examples": []
           }
         ]
@@ -46964,33 +46964,33 @@
           {
             "id": "here-adverb-1",
             "definition": "in or at this place",
-            "translation": "",
+            "translation": "在这里",
             "examples": [
               {
                 "text": "where the speaker or writer is",
-                "translation": ""
+                "translation": "说话人或作者所在之处"
               }
             ]
           },
           {
             "id": "here-adverb-2",
             "definition": "to this place (especially toward the speaker)",
-            "translation": "",
+            "translation": "到这里",
             "examples": [
               {
                 "text": "come here, please",
-                "translation": ""
+                "translation": "请过来"
               }
             ]
           },
           {
             "id": "here-adverb-3",
             "definition": "in this circumstance or respect or on this point or detail",
-            "translation": "",
+            "translation": "在这一点上",
             "examples": [
               {
                 "text": "what do we have here?",
-                "translation": ""
+                "translation": "我们这儿是什么?"
               }
             ]
           },
@@ -47008,7 +47008,7 @@
           {
             "id": "here-noun-1",
             "definition": "the present location",
-            "translation": "",
+            "translation": "此处；现在",
             "examples": []
           }
         ]
@@ -47037,8 +47037,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -48878,13 +48878,13 @@
           {
             "id": "heroine-noun-1",
             "definition": "the main good female character in a work of fiction",
-            "translation": "",
+            "translation": "女主人公",
             "examples": []
           },
           {
             "id": "heroine-noun-2",
             "definition": "a woman possessing heroic qualities or a woman who has performed heroic deeds",
-            "translation": "",
+            "translation": "女英雄",
             "examples": []
           }
         ]
@@ -48892,8 +48892,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -49331,11 +49331,11 @@
           {
             "id": "hers-pronoun-1",
             "definition": "singular feminine possessive pronoun",
-            "translation": "",
+            "translation": "她的（名词性物主代词）",
             "examples": [
               {
                 "text": "That book is hers",
-                "translation": ""
+                "translation": "那本书是她的。"
               }
             ]
           }
@@ -49344,8 +49344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -49371,11 +49371,11 @@
           {
             "id": "herself-pronoun-1",
             "definition": "singular feminine reflexive pronoun",
-            "translation": "",
+            "translation": "她自己",
             "examples": [
               {
                 "text": "Julia said that herself!",
-                "translation": ""
+                "translation": "朱莉娅自己这么说的!"
               }
             ]
           }
@@ -49384,8 +49384,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -52366,7 +52366,7 @@
           {
             "id": "hi-noun-1",
             "definition": "an expression of greeting",
-            "translation": "",
+            "translation": "问候",
             "examples": []
           }
         ]
@@ -52379,8 +52379,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -52617,24 +52617,24 @@
           {
             "id": "hibernation-noun-1",
             "definition": "the act of retiring into inactivity",
-            "translation": "",
+            "translation": "蛰伏",
             "examples": [
               {
                 "text": "The bear emerged from hibernation to make its first appearance in several years.",
-                "translation": ""
+                "translation": "那只熊从冬眠中苏醒过来,这是它几年来的首次露面。"
               }
             ]
           },
           {
             "id": "hibernation-noun-2",
             "definition": "cessation from or slowing of activity during the winter",
-            "translation": "",
+            "translation": "冬眠",
             "examples": []
           },
           {
             "id": "hibernation-noun-3",
             "definition": "the torpid or resting state in which some animals pass the winter",
-            "translation": "",
+            "translation": "蛰伏状态",
             "examples": []
           }
         ]
@@ -52642,8 +52642,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56596,7 +56596,7 @@
           {
             "id": "hillside-noun-1",
             "definition": "the side or slope of a hill",
-            "translation": "",
+            "translation": "山坡",
             "examples": []
           }
         ]
@@ -56604,8 +56604,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56667,11 +56667,11 @@
           {
             "id": "hilly-adjective-1",
             "definition": "having hills and crags",
-            "translation": "",
+            "translation": "多小山的",
             "examples": [
               {
                 "text": "hilly terrain",
-                "translation": ""
+                "translation": "丘陵地形"
               }
             ]
           }
@@ -56680,8 +56680,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56830,11 +56830,11 @@
           {
             "id": "him-pronoun-1",
             "definition": "oblique singular masculine object pronoun",
-            "translation": "",
+            "translation": "他（宾格）",
             "examples": [
               {
                 "text": "I thought of him fondly.",
-                "translation": ""
+                "translation": "我深切地想起了他。"
               }
             ]
           }
@@ -56843,8 +56843,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -56907,11 +56907,11 @@
           {
             "id": "himself-pronoun-1",
             "definition": "singular masculine reflexive pronoun",
-            "translation": "",
+            "translation": "他自己",
             "examples": [
               {
                 "text": "John thinks too fondly of himself",
-                "translation": ""
+                "translation": "约翰太看重自己了。"
               }
             ]
           }
@@ -56920,8 +56920,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -59105,11 +59105,11 @@
           {
             "id": "his-pronoun-1",
             "definition": "singular masculine possessive pronoun",
-            "translation": "",
+            "translation": "他的",
             "examples": [
               {
                 "text": "The book was his",
-                "translation": ""
+                "translation": "这本书是他的。"
               }
             ]
           }
@@ -59118,8 +59118,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -61483,19 +61483,19 @@
           {
             "id": "hive-noun-1",
             "definition": "a man-made receptacle that houses a swarm of bees",
-            "translation": "",
+            "translation": "蜂箱",
             "examples": []
           },
           {
             "id": "hive-noun-2",
             "definition": "a teeming multitude",
-            "translation": "",
+            "translation": "忙碌的人群",
             "examples": []
           },
           {
             "id": "hive-noun-3",
             "definition": "a structure that provides a natural habitation for bees",
-            "translation": "",
+            "translation": "蜂巢",
             "examples": []
           }
         ]
@@ -61506,28 +61506,28 @@
           {
             "id": "hive-verb-1",
             "definition": "gather into a hive",
-            "translation": "",
+            "translation": "使入蜂箱",
             "examples": [
               {
                 "text": "The beekeeper hived the swarm",
-                "translation": ""
+                "translation": "养蜂人把蜂群收进蜂箱。"
               }
             ]
           },
           {
             "id": "hive-verb-2",
             "definition": "move together in a hive or as if in a hive",
-            "translation": "",
+            "translation": "群居",
             "examples": []
           },
           {
             "id": "hive-verb-3",
             "definition": "store, like bees",
-            "translation": "",
+            "translation": "贮藏",
             "examples": [
               {
                 "text": "bees hive honey and pollen",
-                "translation": ""
+                "translation": "蜜蜂贮藏蜂蜜和花粉。"
               }
             ]
           }
@@ -61545,8 +61545,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -68110,7 +68110,7 @@
           {
             "id": "homeland-noun-1",
             "definition": "the country where you were born",
-            "translation": "",
+            "translation": "祖国",
             "examples": []
           }
         ]
@@ -68118,8 +68118,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -69273,11 +69273,11 @@
           {
             "id": "hometown-noun-1",
             "definition": "the town or city where a person grew up or has their principal residence",
-            "translation": "",
+            "translation": "故乡",
             "examples": [
               {
                 "text": "They never went back to their hometown again.",
-                "translation": ""
+                "translation": "他们再也没有回过故乡。"
               }
             ]
           }
@@ -69286,8 +69286,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -69405,7 +69405,7 @@
           {
             "id": "homework-noun-1",
             "definition": "preparatory school work done outside school (especially at home)",
-            "translation": "",
+            "translation": "家庭作业",
             "examples": []
           }
         ]
@@ -69413,8 +69413,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -74139,13 +74139,13 @@
           {
             "id": "honour-noun-1",
             "definition": "a woman's virtue or chastity",
-            "translation": "",
+            "translation": "贞操",
             "examples": []
           },
           {
             "id": "honour-noun-2",
             "definition": "the quality of being honorable and having a good name",
-            "translation": "",
+            "translation": "荣誉",
             "examples": []
           },
           {
@@ -74180,7 +74180,7 @@
           {
             "id": "honour-verb-3",
             "definition": "bestow honor or rewards upon",
-            "translation": "",
+            "translation": "授予荣誉",
             "examples": []
           }
         ]
@@ -74188,7 +74188,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -81849,7 +81849,7 @@
           {
             "id": "hostess-noun-1",
             "definition": "a woman innkeeper",
-            "translation": "",
+            "translation": "女店主",
             "examples": []
           },
           {
@@ -81861,7 +81861,7 @@
           {
             "id": "hostess-noun-3",
             "definition": "a woman steward on an airplane",
-            "translation": "",
+            "translation": "空姐",
             "examples": []
           }
         ]
@@ -81869,7 +81869,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -83499,22 +83499,22 @@
           {
             "id": "hour-noun-1",
             "definition": "distance measured by the time taken to cover it",
-            "translation": "",
+            "translation": "小时距离",
             "examples": [
               {
                 "text": "we live an hour from the airport",
-                "translation": ""
+                "translation": "我们住在离机场一小时的地方。"
               }
             ]
           },
           {
             "id": "hour-noun-2",
             "definition": "a period of time equal to 1/24th of a day",
-            "translation": "",
+            "translation": "小时",
             "examples": [
               {
                 "text": "the job will take more than an hour",
-                "translation": ""
+                "translation": "这项工作要花一个多小时。"
               }
             ]
           },
@@ -83532,11 +83532,11 @@
           {
             "id": "hour-noun-4",
             "definition": "a special and memorable period",
-            "translation": "",
+            "translation": "特殊时刻",
             "examples": [
               {
                 "text": "it was their finest hour",
-                "translation": ""
+                "translation": "那是他们最辉煌的时刻。"
               }
             ]
           }
@@ -83554,7 +83554,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -85270,7 +85270,7 @@
           {
             "id": "housework-noun-1",
             "definition": "the work of cleaning and running a house",
-            "translation": "",
+            "translation": "家务",
             "examples": []
           }
         ]
@@ -85278,8 +85278,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -85673,40 +85673,40 @@
           {
             "id": "however-adverb-1",
             "definition": "despite anything to the contrary (usually following a concession)",
-            "translation": "",
+            "translation": "然而",
             "examples": [
               {
                 "text": "although I'm a little afraid, however I'd like to try it",
-                "translation": ""
+                "translation": "虽然我有点害怕,但不管怎样还是想试试。"
               }
             ]
           },
           {
             "id": "however-adverb-2",
             "definition": "in whatever way or manner",
-            "translation": "",
+            "translation": "无论以何种方式",
             "examples": [
               {
                 "text": "Victory, however it was brought about, was sweet",
-                "translation": ""
+                "translation": "胜利,无论怎样取得的,都是甜蜜的。"
               }
             ]
           },
           {
             "id": "however-adverb-3",
             "definition": "to whatever degree or extent",
-            "translation": "",
+            "translation": "无论如何",
             "examples": [
               {
                 "text": "The results, however general, are important",
-                "translation": ""
+                "translation": "这些结果,不管多么笼统,都很重要。"
               }
             ]
           },
           {
             "id": "however-adverb-4",
             "definition": "by contrast",
-            "translation": "",
+            "translation": "相比之下",
             "examples": []
           }
         ]
@@ -85714,8 +85714,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -85788,29 +85788,29 @@
           {
             "id": "howl-noun-1",
             "definition": "a long loud emotional utterance",
-            "translation": "",
+            "translation": "长嚎",
             "examples": [
               {
                 "text": "The dog let out a howl of pain.",
-                "translation": ""
+                "translation": "那只狗发出一声痛苦的嚎叫。"
               }
             ]
           },
           {
             "id": "howl-noun-2",
             "definition": "a loud sustained noise resembling the cry of a hound",
-            "translation": "",
+            "translation": "持续的高声",
             "examples": [
               {
                 "text": "The howl of the wind made the old house seem haunted.",
-                "translation": ""
+                "translation": "风的呼啸让这所老房子像闹鬼一样。"
               }
             ]
           },
           {
             "id": "howl-noun-3",
             "definition": "the long plaintive cry of a hound or a wolf",
-            "translation": "",
+            "translation": "狼嚎",
             "examples": []
           }
         ]
@@ -85821,7 +85821,7 @@
           {
             "id": "howl-verb-1",
             "definition": "laugh unrestrainedly and heartily",
-            "translation": "",
+            "translation": "放声大笑",
             "examples": []
           },
           {
@@ -85838,17 +85838,17 @@
           {
             "id": "howl-verb-3",
             "definition": "emit long loud cries",
-            "translation": "",
+            "translation": "大声叫喊",
             "examples": []
           },
           {
             "id": "howl-verb-4",
             "definition": "cry loudly, as of animals",
-            "translation": "",
+            "translation": "号叫",
             "examples": [
               {
                 "text": "The coyotes were howling in the desert",
-                "translation": ""
+                "translation": "郊狼在沙漠里嚎叫。"
               }
             ]
           }
@@ -85874,7 +85874,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -87402,11 +87402,11 @@
           {
             "id": "hug-noun-1",
             "definition": "a tight or amorous embrace",
-            "translation": "",
+            "translation": "拥抱",
             "examples": [
               {
                 "text": "come here and give me a big hug",
-                "translation": ""
+                "translation": "过来给我一个大大的拥抱。"
               }
             ]
           }
@@ -87418,18 +87418,18 @@
           {
             "id": "hug-verb-1",
             "definition": "fit closely or tightly",
-            "translation": "",
+            "translation": "紧贴",
             "examples": [
               {
                 "text": "The dress hugged their hips.",
-                "translation": ""
+                "translation": "这条裙子紧贴着他们的臀部。"
               }
             ]
           },
           {
             "id": "hug-verb-2",
             "definition": "squeeze (someone) tightly in your arms, usually with fondness",
-            "translation": "",
+            "translation": "拥抱",
             "examples": []
           }
         ]
@@ -87437,8 +87437,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -90886,7 +90886,7 @@
           {
             "id": "humour-noun-1",
             "definition": "the trait of appreciating (and being able to express) the humorous",
-            "translation": "",
+            "translation": "幽默感",
             "examples": []
           },
           {
@@ -90898,30 +90898,30 @@
           {
             "id": "humour-noun-3",
             "definition": "the liquid parts of the body",
-            "translation": "",
+            "translation": "体液",
             "examples": []
           },
           {
             "id": "humour-noun-4",
             "definition": "one of the four fluids in the body whose balance was believed in the Middle Ages to determine your emotional and physical state",
-            "translation": "",
+            "translation": "气质（中世纪四体液说）",
             "examples": [
               {
                 "text": "The illness was attributed to an imbalance among the patient's humours.",
-                "translation": ""
+                "translation": "这种病被归因于病人体液的不平衡。"
               }
             ]
           },
           {
             "id": "humour-noun-5",
             "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
-            "translation": "",
+            "translation": "幽默",
             "examples": []
           },
           {
             "id": "humour-noun-6",
             "definition": "a characteristic (habitual or relatively temporary) state of feeling",
-            "translation": "",
+            "translation": "心情",
             "examples": []
           }
         ]
@@ -90932,7 +90932,7 @@
           {
             "id": "humour-verb-1",
             "definition": "put into a good mood",
-            "translation": "",
+            "translation": "使高兴",
             "examples": []
           }
         ]
@@ -90940,7 +90940,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -91581,7 +91581,7 @@
           {
             "id": "hundred-adjective-1",
             "definition": "being ten more than ninety",
-            "translation": "",
+            "translation": "一百的",
             "examples": []
           }
         ]
@@ -91592,7 +91592,7 @@
           {
             "id": "hundred-noun-1",
             "definition": "ten 10s",
-            "translation": "",
+            "translation": "一百",
             "examples": []
           }
         ]
@@ -91600,8 +91600,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -92396,23 +92396,23 @@
           {
             "id": "hunter-noun-1",
             "definition": "a watch with a hinged metal lid to protect the crystal",
-            "translation": "",
+            "translation": "怀表（带保护盖）",
             "examples": []
           },
           {
             "id": "hunter-noun-2",
             "definition": "someone who hunts game",
-            "translation": "",
+            "translation": "猎人",
             "examples": []
           },
           {
             "id": "hunter-noun-3",
             "definition": "a person who searches for something",
-            "translation": "",
+            "translation": "搜寻者",
             "examples": [
               {
                 "text": "a treasure hunter",
-                "translation": ""
+                "translation": "寻宝者"
               }
             ]
           }
@@ -92421,8 +92421,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

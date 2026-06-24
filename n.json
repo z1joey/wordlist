@@ -7445,11 +7445,11 @@
           {
             "id": "nationwide-adjective-1",
             "definition": "occurring or extending throughout a country or nation",
-            "translation": "",
+            "translation": "全国的",
             "examples": [
               {
                 "text": "the event aroused nationwide interest",
-                "translation": ""
+                "translation": "这件事引起了全国的兴趣。"
               }
             ]
           }
@@ -7461,7 +7461,7 @@
           {
             "id": "nationwide-adverb-1",
             "definition": "extending throughout an entire nation",
-            "translation": "",
+            "translation": "在全国范围内",
             "examples": []
           }
         ]
@@ -7469,8 +7469,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -12810,7 +12810,7 @@
           {
             "id": "necklace-noun-1",
             "definition": "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)",
-            "translation": "",
+            "translation": "项链",
             "examples": []
           }
         ]
@@ -12818,8 +12818,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13011,11 +13011,11 @@
           {
             "id": "necktie-noun-1",
             "definition": "neckwear consisting of a long narrow piece of material worn under a collar and tied in knot at the front",
-            "translation": "",
+            "translation": "领带",
             "examples": [
               {
                 "text": "I stood in front of the mirror tightening my necktie, pondering how I'd come to this point.",
-                "translation": ""
+                "translation": "我站在镜子前系紧领带,思索着我怎么走到了这一步。"
               }
             ]
           }
@@ -13024,8 +13024,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17132,13 +17132,13 @@
           {
             "id": "neighbour-noun-1",
             "definition": "a nearby object of the same kind",
-            "translation": "",
+            "translation": "邻近的同类事物",
             "examples": []
           },
           {
             "id": "neighbour-noun-2",
             "definition": "a person who lives (or is located) near another",
-            "translation": "",
+            "translation": "邻居；邻人",
             "examples": []
           }
         ]
@@ -17149,13 +17149,13 @@
           {
             "id": "neighbour-verb-1",
             "definition": "be located near or adjacent to",
-            "translation": "",
+            "translation": "邻近；毗邻",
             "examples": []
           },
           {
             "id": "neighbour-verb-2",
             "definition": "live or be located as a neighbor",
-            "translation": "",
+            "translation": "比邻而居",
             "examples": []
           }
         ]
@@ -17163,8 +17163,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -17193,13 +17193,13 @@
           {
             "id": "neighbourhood-noun-1",
             "definition": "people living near one another",
-            "translation": "",
+            "translation": "街坊；邻里",
             "examples": []
           },
           {
             "id": "neighbourhood-noun-2",
             "definition": "a surrounding or nearby region",
-            "translation": "",
+            "translation": "附近地区；周围地区",
             "examples": []
           }
         ]
@@ -17207,8 +17207,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -19159,7 +19159,7 @@
           {
             "id": "nephew-noun-1",
             "definition": "a son of your brother or sister",
-            "translation": "",
+            "translation": "侄子；外甥",
             "examples": []
           }
         ]
@@ -19167,8 +19167,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -29712,7 +29712,7 @@
           {
             "id": "niece-noun-1",
             "definition": "a daughter of your brother or sister",
-            "translation": "",
+            "translation": "侄女；外甥女",
             "examples": []
           }
         ]
@@ -29720,8 +29720,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32343,7 +32343,7 @@
           {
             "id": "nine-adjective-1",
             "definition": "denoting a quantity consisting of one more than eight and one less than ten",
-            "translation": "",
+            "translation": "九的",
             "examples": []
           }
         ]
@@ -32354,19 +32354,19 @@
           {
             "id": "nine-noun-1",
             "definition": "one of four playing cards in a deck with nine pips on the face",
-            "translation": "",
+            "translation": "九点的牌",
             "examples": []
           },
           {
             "id": "nine-noun-2",
             "definition": "a team of professional baseball players who play and travel together",
-            "translation": "",
+            "translation": "棒球队",
             "examples": []
           },
           {
             "id": "nine-noun-3",
             "definition": "the cardinal number that is the sum of eight and one",
-            "translation": "",
+            "translation": "九",
             "examples": []
           }
         ]
@@ -32387,8 +32387,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32636,7 +32636,7 @@
           {
             "id": "nineteen-adjective-1",
             "definition": "being one more than eighteen",
-            "translation": "",
+            "translation": "十九的",
             "examples": []
           }
         ]
@@ -32647,7 +32647,7 @@
           {
             "id": "nineteen-noun-1",
             "definition": "the cardinal number that is the sum of eighteen and one",
-            "translation": "",
+            "translation": "十九",
             "examples": []
           }
         ]
@@ -32660,8 +32660,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -32819,7 +32819,7 @@
           {
             "id": "ninety-adjective-1",
             "definition": "being ten more than eighty",
-            "translation": "",
+            "translation": "九十的",
             "examples": []
           }
         ]
@@ -32830,7 +32830,7 @@
           {
             "id": "ninety-noun-1",
             "definition": "the cardinal number that is the product of ten and nine",
-            "translation": "",
+            "translation": "九十",
             "examples": []
           }
         ]
@@ -32838,8 +32838,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -33058,7 +33058,7 @@
           {
             "id": "ninth-adjective-1",
             "definition": "coming next after the eighth and just before the tenth in position",
-            "translation": "",
+            "translation": "第九的",
             "examples": []
           }
         ]
@@ -33069,17 +33069,17 @@
           {
             "id": "ninth-noun-1",
             "definition": "one part in nine equal parts",
-            "translation": "",
+            "translation": "九分之一",
             "examples": []
           },
           {
             "id": "ninth-noun-2",
             "definition": "position nine in a countable series of things",
-            "translation": "",
+            "translation": "第九",
             "examples": [
               {
                 "text": "going into the ninth they were a run ahead",
-                "translation": ""
+                "translation": "进入第九局时他们领先了一分。"
               }
             ]
           }
@@ -33088,8 +33088,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -35403,33 +35403,33 @@
           {
             "id": "no-adverb-1",
             "definition": "used to express refusal or denial or disagreement etc or especially to emphasize a negative statement",
-            "translation": "",
+            "translation": "不；没有",
             "examples": [
               {
                 "text": "no, you are wrong",
-                "translation": ""
+                "translation": "不,你错了。"
               }
             ]
           },
           {
             "id": "no-adverb-2",
             "definition": "not in any degree or manner",
-            "translation": "",
+            "translation": "绝不；一点也不",
             "examples": [
               {
                 "text": "not at all",
-                "translation": ""
+                "translation": "一点也不"
               }
             ]
           },
           {
             "id": "no-adverb-3",
             "definition": "referring to the degree to which a certain quality is present",
-            "translation": "",
+            "translation": "并不；毫不",
             "examples": [
               {
                 "text": "I was no heavier than a child.",
-                "translation": ""
+                "translation": "我并不比一个小孩重。"
               }
             ]
           }
@@ -35475,7 +35475,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -35503,7 +35503,7 @@
           {
             "id": "no.-noun-1",
             "definition": "the number designating place in an ordered sequence",
-            "translation": "",
+            "translation": "编号；号",
             "examples": []
           }
         ]
@@ -35511,8 +35511,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -36022,7 +36022,7 @@
           {
             "id": "nobody-noun-1",
             "definition": "a person of no influence",
-            "translation": "",
+            "translation": "无足轻重的人",
             "examples": []
           }
         ]
@@ -36030,8 +36030,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -37522,11 +37522,11 @@
           {
             "id": "noisily-adverb-1",
             "definition": "with much noise or loud and unpleasant sound",
-            "translation": "",
+            "translation": "吵闹地；嘈杂地",
             "examples": [
               {
                 "text": "The child blew their nose noisily.",
-                "translation": ""
+                "translation": "那个孩子大声擤鼻涕。"
               }
             ]
           }
@@ -37535,8 +37535,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51574,13 +51574,13 @@
           {
             "id": "noodle-noun-1",
             "definition": "informal terms for a human head",
-            "translation": "",
+            "translation": "脑袋（俚语）",
             "examples": []
           },
           {
             "id": "noodle-noun-2",
             "definition": "a ribbonlike strip of pasta",
-            "translation": "",
+            "translation": "面条",
             "examples": []
           }
         ]
@@ -51588,8 +51588,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -51729,7 +51729,7 @@
           {
             "id": "noon-noun-1",
             "definition": "the middle of the day",
-            "translation": "",
+            "translation": "中午；正午",
             "examples": []
           }
         ]
@@ -51737,8 +51737,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -53253,22 +53253,22 @@
           {
             "id": "northeast-adjective-1",
             "definition": "situated in or oriented toward the northeast",
-            "translation": "",
+            "translation": "位于东北的",
             "examples": [
               {
                 "text": "the northeasterly part of the island",
-                "translation": ""
+                "translation": "岛屿的东北部"
               }
             ]
           },
           {
             "id": "northeast-adjective-2",
             "definition": "coming from the northeast",
-            "translation": "",
+            "translation": "来自东北的",
             "examples": [
               {
                 "text": "northeasterly winds",
-                "translation": ""
+                "translation": "东北风"
               }
             ]
           }
@@ -53280,7 +53280,7 @@
           {
             "id": "northeast-adverb-1",
             "definition": "to, toward, or in the northeast",
-            "translation": "",
+            "translation": "向东北",
             "examples": []
           }
         ]
@@ -53291,19 +53291,19 @@
           {
             "id": "northeast-noun-1",
             "definition": "a location in the northeastern part of a country, region, or city",
-            "translation": "",
+            "translation": "东北部",
             "examples": []
           },
           {
             "id": "northeast-noun-2",
             "definition": "the compass point midway between north and east",
-            "translation": "",
+            "translation": "东北方向",
             "examples": []
           },
           {
             "id": "northeast-noun-3",
             "definition": "the direction corresponding to the northeastward compass point",
-            "translation": "",
+            "translation": "东北方位",
             "examples": []
           }
         ]
@@ -53320,8 +53320,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -53964,7 +53964,7 @@
           {
             "id": "northwards-adverb-1",
             "definition": "in a northern direction",
-            "translation": "",
+            "translation": "向北",
             "examples": []
           }
         ]
@@ -53972,8 +53972,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -54005,17 +54005,17 @@
           {
             "id": "northwest-adjective-1",
             "definition": "situated in or oriented toward the northwest",
-            "translation": "",
+            "translation": "位于西北的",
             "examples": []
           },
           {
             "id": "northwest-adjective-2",
             "definition": "coming from the northwest",
-            "translation": "",
+            "translation": "来自西北的",
             "examples": [
               {
                 "text": "northwesterly winds",
-                "translation": ""
+                "translation": "西北风"
               }
             ]
           }
@@ -54027,7 +54027,7 @@
           {
             "id": "northwest-adverb-1",
             "definition": "to, toward, or in the northwest",
-            "translation": "",
+            "translation": "向西北",
             "examples": []
           }
         ]
@@ -54038,19 +54038,19 @@
           {
             "id": "northwest-noun-1",
             "definition": "a location in the northwestern part of a country, region, or city",
-            "translation": "",
+            "translation": "西北部",
             "examples": []
           },
           {
             "id": "northwest-noun-2",
             "definition": "the compass point midway between north and west",
-            "translation": "",
+            "translation": "西北方向",
             "examples": []
           },
           {
             "id": "northwest-noun-3",
             "definition": "the direction corresponding to the northwestward compass point",
-            "translation": "",
+            "translation": "西北方位",
             "examples": []
           }
         ]
@@ -54067,8 +54067,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -62003,24 +62003,24 @@
           {
             "id": "numb-adjective-1",
             "definition": "not showing human feeling or sensitivity, when followed by 'to'",
-            "translation": "",
+            "translation": "麻木的；无动于衷的",
             "examples": [
               {
                 "text": "I was numb to their pleas for mercy.",
-                "translation": ""
+                "translation": "我对他们的求饶无动于衷。"
               }
             ]
           },
           {
             "id": "numb-adjective-2",
             "definition": "so frightened as to be unable to move",
-            "translation": "",
+            "translation": "吓呆的；无法动弹的",
             "examples": []
           },
           {
             "id": "numb-adjective-3",
             "definition": "lacking sensation",
-            "translation": "",
+            "translation": "失去感觉的；麻木的",
             "examples": []
           }
         ]
@@ -62049,7 +62049,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -64082,13 +64082,13 @@
           {
             "id": "nursery-noun-1",
             "definition": "a building with glass walls and roof",
-            "translation": "",
+            "translation": "温室",
             "examples": []
           },
           {
             "id": "nursery-noun-2",
             "definition": "a child's room for a baby",
-            "translation": "",
+            "translation": "育儿室",
             "examples": []
           }
         ]
@@ -64096,8 +64096,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -65990,13 +65990,13 @@
           {
             "id": "nylon-noun-1",
             "definition": "a synthetic fabric",
-            "translation": "",
+            "translation": "尼龙织物",
             "examples": []
           },
           {
             "id": "nylon-noun-2",
             "definition": "a thermoplastic polyamide",
-            "translation": "",
+            "translation": "聚酰胺；尼龙",
             "examples": []
           }
         ]
@@ -66004,8 +66004,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {

@@ -2941,11 +2941,11 @@
           {
             "id": "quake-noun-1",
             "definition": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
-            "translation": "",
+            "translation": "地震",
             "examples": [
               {
                 "text": "The quake took down several houses in the neighborhood.",
-                "translation": ""
+                "translation": "这次地震让附近好几栋房子都倒了。"
               }
             ]
           }
@@ -2957,22 +2957,22 @@
           {
             "id": "quake-verb-1",
             "definition": "to shake with seismic vibrations",
-            "translation": "",
+            "translation": "震动；震颤",
             "examples": [
               {
                 "text": "The ground quaked.",
-                "translation": ""
+                "translation": "大地震颤起来。"
               }
             ]
           },
           {
             "id": "quake-verb-2",
             "definition": "to shake with fast, tremulous movements",
-            "translation": "",
+            "translation": "颤抖；发抖",
             "examples": [
               {
                 "text": "The fearful youth quaked before the bully.",
-                "translation": ""
+                "translation": "那个胆小的年轻人面对恶霸时吓得发抖。"
               }
             ]
           }
@@ -2986,8 +2986,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -3051,29 +3051,29 @@
           {
             "id": "qualification-noun-1",
             "definition": "the act of modifying or changing the strength of some idea",
-            "translation": "",
+            "translation": "限制；限定",
             "examples": [
               {
                 "text": "Your new position involves a qualification of your party's platform.",
-                "translation": ""
+                "translation": "你的新职位要求对你党纲领做出一定修正。"
               }
             ]
           },
           {
             "id": "qualification-noun-2",
             "definition": "an attribute that must be met or complied with and that fits a person for something",
-            "translation": "",
+            "translation": "资格；条件",
             "examples": [
               {
                 "text": "Their qualifications for the job are excellent.",
-                "translation": ""
+                "translation": "他们对这个职位来说资历非常好。"
               }
             ]
           },
           {
             "id": "qualification-noun-3",
             "definition": "a statement that limits or restricts some claim",
-            "translation": "",
+            "translation": "保留意见；附加条件",
             "examples": []
           }
         ]
@@ -3081,8 +3081,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -4688,22 +4688,22 @@
           {
             "id": "quarrel-noun-1",
             "definition": "an arrow that is shot from a crossbow",
-            "translation": "",
+            "translation": "箭矢；弩箭",
             "examples": [
               {
                 "text": "My quarrel is on target today!",
-                "translation": ""
+                "translation": "我今天的箭正中靶心！"
               }
             ]
           },
           {
             "id": "quarrel-noun-2",
             "definition": "an angry dispute",
-            "translation": "",
+            "translation": "争吵；吵架",
             "examples": [
               {
                 "text": "They had a quarrel in the mall.",
-                "translation": ""
+                "translation": "他们在商场里吵了一架。"
               }
             ]
           }
@@ -4715,11 +4715,11 @@
           {
             "id": "quarrel-verb-1",
             "definition": "to have a disagreement over something",
-            "translation": "",
+            "translation": "争吵；吵架",
             "examples": [
               {
                 "text": "We quarreled over the question as to who discovered America.",
-                "translation": ""
+                "translation": "我们就谁发现了美洲这一问题争吵了起来。"
               }
             ]
           }
@@ -4765,8 +4765,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9179,11 +9179,11 @@
           {
             "id": "questionnaire-noun-1",
             "definition": "a form containing a set of questions",
-            "translation": "",
+            "translation": "问卷；调查表",
             "examples": [
               {
                 "text": "This questionnaire has ten questions.",
-                "translation": ""
+                "translation": "这份问卷有十个问题。"
               }
             ]
           }
@@ -9192,8 +9192,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -9303,19 +9303,19 @@
           {
             "id": "queue-noun-1",
             "definition": "a braid of hair at the back of the head",
-            "translation": "",
+            "translation": "发辫；辫子",
             "examples": []
           },
           {
             "id": "queue-noun-2",
             "definition": "(information processing) an ordered list of tasks to be performed or messages to be transmitted",
-            "translation": "",
+            "translation": "队列；等待队列",
             "examples": []
           },
           {
             "id": "queue-noun-3",
             "definition": "a line of people or vehicles waiting for something",
-            "translation": "",
+            "translation": "队；一行人",
             "examples": []
           }
         ]
@@ -9351,7 +9351,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
@@ -11294,11 +11294,11 @@
           {
             "id": "quilt-noun-1",
             "definition": "bedding made of two layers of cloth filled with stuffing and stitched together",
-            "translation": "",
+            "translation": "被子；棉被",
             "examples": [
               {
                 "text": "My apartment is filled with eccentric quilts.",
-                "translation": ""
+                "translation": "我的公寓里到处铺满了各式各样的被子。"
               }
             ]
           }
@@ -11310,11 +11310,11 @@
           {
             "id": "quilt-verb-1",
             "definition": "to stitch or sew together",
-            "translation": "",
+            "translation": "缝；拼缝",
             "examples": [
               {
                 "text": "I like to quilt in my spare time.",
-                "translation": ""
+                "translation": "我喜欢在业余时间做拼布缝纫。"
               }
             ]
           }
@@ -11323,8 +11323,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
     }
   },
   {
@@ -13463,7 +13463,7 @@
           {
             "id": "quiz-noun-1",
             "definition": "an examination consisting of a few short questions",
-            "translation": "",
+            "translation": "测验；小测试",
             "examples": []
           }
         ]
@@ -13487,7 +13487,7 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
+      "provider": "MiniMax-M3",
       "updatedAt": "2026-06-24"
     }
   },
