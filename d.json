@@ -13850,7 +13850,7 @@
           {
             "id": "deal-noun-1",
             "definition": "the act of apportioning or distributing something",
-            "translation": "处理",
+            "translation": "分配",
             "examples": [
               {
                 "text": "the captain was entrusted with the deal of provisions",
@@ -13861,7 +13861,7 @@
           {
             "id": "deal-noun-2",
             "definition": "the act of distributing playing cards",
-            "translation": "处理",
+            "translation": "发牌",
             "examples": [
               {
                 "text": "the deal was passed around the table clockwise",
@@ -13872,7 +13872,7 @@
           {
             "id": "deal-noun-3",
             "definition": "a particular instance of buying or selling",
-            "translation": "处理",
+            "translation": "交易",
             "examples": [
               {
                 "text": "it was a package deal",
@@ -13883,13 +13883,13 @@
           {
             "id": "deal-noun-4",
             "definition": "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
-            "translation": "处理",
+            "translation": "协议",
             "examples": []
           },
           {
             "id": "deal-noun-5",
             "definition": "the type of treatment received, especially as the result of an agreement",
-            "translation": "处理",
+            "translation": "待遇",
             "examples": [
               {
                 "text": "They got a good deal on their car.",
@@ -13900,25 +13900,25 @@
           {
             "id": "deal-noun-6",
             "definition": "the cards held in a card game by a given player at any given time",
-            "translation": "处理",
+            "translation": "手中牌",
             "examples": []
           },
           {
             "id": "deal-noun-7",
             "definition": "(often followed by `of') a large number or amount or extent",
-            "translation": "处理",
+            "translation": "大量",
             "examples": []
           },
           {
             "id": "deal-noun-8",
             "definition": "wood that is easy to saw (from conifers such as pine or fir)",
-            "translation": "处理",
+            "translation": "松木",
             "examples": []
           },
           {
             "id": "deal-noun-9",
             "definition": "a plank of softwood (fir or pine board)",
-            "translation": "处理",
+            "translation": "松木板",
             "examples": []
           }
         ]
@@ -13929,13 +13929,13 @@
           {
             "id": "deal-verb-1",
             "definition": "take into consideration for exemplifying purposes",
-            "translation": "拿",
+            "translation": "考虑",
             "examples": []
           },
           {
             "id": "deal-verb-2",
             "definition": "act on verbally or in some form of artistic expression",
-            "translation": "处理",
+            "translation": "论述",
             "examples": [
               {
                 "text": "This book deals with incest",
@@ -13946,7 +13946,7 @@
           {
             "id": "deal-verb-3",
             "definition": "do business",
-            "translation": "处理",
+            "translation": "做买卖",
             "examples": []
           },
           {
@@ -13963,7 +13963,7 @@
           {
             "id": "deal-verb-5",
             "definition": "distribute cards to the players in a game",
-            "translation": "处理",
+            "translation": "发牌",
             "examples": [
               {
                 "text": "Who's dealing?",
@@ -13974,7 +13974,7 @@
           {
             "id": "deal-verb-6",
             "definition": "to give a specific card to a player",
-            "translation": "处理",
+            "translation": "发特定牌",
             "examples": [
               {
                 "text": "They dealt me the Queen of Spades.",
@@ -13985,19 +13985,19 @@
           {
             "id": "deal-verb-7",
             "definition": "give out as one's portion or share",
-            "translation": "处理",
+            "translation": "分配",
             "examples": []
           },
           {
             "id": "deal-verb-8",
             "definition": "administer or bestow, as in small portions",
-            "translation": "处理",
+            "translation": "施与",
             "examples": []
           },
           {
             "id": "deal-verb-9",
             "definition": "take action with respect to (someone or something)",
-            "translation": "拿",
+            "translation": "对待",
             "examples": [
               {
                 "text": "How are we going to deal with this problem?",
@@ -14008,7 +14008,7 @@
           {
             "id": "deal-verb-10",
             "definition": "behave in a certain way towards others",
-            "translation": "处理",
+            "translation": "对待(人)",
             "examples": [
               {
                 "text": "The manager deals fairly with the employees.",
@@ -14030,13 +14030,13 @@
           {
             "id": "deal-verb-12",
             "definition": "direct the course of",
-            "translation": "处理",
+            "translation": "指导",
             "examples": []
           },
           {
             "id": "deal-verb-13",
             "definition": "come to terms with",
-            "translation": "处理",
+            "translation": "妥协",
             "examples": []
           }
         ]
@@ -14105,8 +14105,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60968,7 +60968,7 @@
           {
             "id": "design-noun-1",
             "definition": "the act of working out the form of something, as by making a sketch or outline or plan",
-            "translation": "设计",
+            "translation": "构思",
             "examples": [
               {
                 "text": "We contributed to the design of a new instrument.",
@@ -60979,7 +60979,7 @@
           {
             "id": "design-noun-2",
             "definition": "a decorative or artistic work",
-            "translation": "设计",
+            "translation": "图案",
             "examples": [
               {
                 "text": "the coach had a design on the doors",
@@ -60990,7 +60990,7 @@
           {
             "id": "design-noun-3",
             "definition": "a preliminary sketch indicating the plan for something",
-            "translation": "设计",
+            "translation": "草图",
             "examples": [
               {
                 "text": "the design of a building",
@@ -61001,13 +61001,13 @@
           {
             "id": "design-noun-4",
             "definition": "the creation of something in the mind",
-            "translation": "设计",
+            "translation": "构想",
             "examples": []
           },
           {
             "id": "design-noun-5",
             "definition": "an arrangement scheme",
-            "translation": "设计",
+            "translation": "方案",
             "examples": [
               {
                 "text": "the awkward design of the keyboard made operation difficult",
@@ -61018,13 +61018,13 @@
           {
             "id": "design-noun-6",
             "definition": "something intended as a guide for making something else",
-            "translation": "设计",
+            "translation": "设计图",
             "examples": []
           },
           {
             "id": "design-noun-7",
             "definition": "an anticipated outcome that is intended or that guides your planned actions",
-            "translation": "预期的结果，旨在指导您的计划行动",
+            "translation": "意图",
             "examples": []
           }
         ]
@@ -61035,7 +61035,7 @@
           {
             "id": "design-verb-1",
             "definition": "intend or have as a purpose",
-            "translation": "设计",
+            "translation": "打算",
             "examples": [
               {
                 "text": "They designed to go far in the world of business.",
@@ -61057,31 +61057,31 @@
           {
             "id": "design-verb-3",
             "definition": "conceive or fashion in the mind",
-            "translation": "设计",
+            "translation": "构思",
             "examples": []
           },
           {
             "id": "design-verb-4",
             "definition": "make or work out a plan for",
-            "translation": "制造",
+            "translation": "规划",
             "examples": []
           },
           {
             "id": "design-verb-5",
             "definition": "make a design of",
-            "translation": "制造",
+            "translation": "绘制",
             "examples": []
           },
           {
             "id": "design-verb-6",
             "definition": "create the design for",
-            "translation": "创造",
+            "translation": "设计",
             "examples": []
           },
           {
             "id": "design-verb-7",
             "definition": "create designs",
-            "translation": "通过设计创造",
+            "translation": "从事设计",
             "examples": [
               {
                 "text": "Dupont designs for the house of Chanel",
@@ -61147,8 +61147,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -120692,7 +120692,7 @@
           {
             "id": "dissolve-noun-1",
             "definition": "(film) a gradual transition from one scene to the next",
-            "translation": "溶解",
+            "translation": "溶入",
             "examples": []
           }
         ]
@@ -120703,7 +120703,7 @@
           {
             "id": "dissolve-verb-1",
             "definition": "declare void",
-            "translation": "溶解",
+            "translation": "宣布无效",
             "examples": [
               {
                 "text": "The President dissolved the parliament and called for new elections",
@@ -120714,7 +120714,7 @@
           {
             "id": "dissolve-verb-2",
             "definition": "come to an end",
-            "translation": "溶解",
+            "translation": "结束",
             "examples": [
               {
                 "text": "Their marriage dissolved",
@@ -120725,7 +120725,7 @@
           {
             "id": "dissolve-verb-3",
             "definition": "bring the association of to an end or cause to break up",
-            "translation": "分裂",
+            "translation": "解散",
             "examples": [
               {
                 "text": "The decree officially dissolved the marriage",
@@ -120736,7 +120736,7 @@
           {
             "id": "dissolve-verb-4",
             "definition": "become or cause to become soft or liquid",
-            "translation": "溶解",
+            "translation": "软化",
             "examples": []
           },
           {
@@ -120753,7 +120753,7 @@
           {
             "id": "dissolve-verb-6",
             "definition": "cause to go into a solution",
-            "translation": "进入",
+            "translation": "溶入",
             "examples": [
               {
                 "text": "The recipe says that we should dissolve a cup of sugar in two cups of water",
@@ -120764,13 +120764,13 @@
           {
             "id": "dissolve-verb-7",
             "definition": "become weaker",
-            "translation": "溶解",
+            "translation": "减弱",
             "examples": []
           },
           {
             "id": "dissolve-verb-8",
             "definition": "cause to fade away",
-            "translation": "溶解",
+            "translation": "消散",
             "examples": [
               {
                 "text": "dissolve a shot or a picture",
@@ -120781,7 +120781,7 @@
           {
             "id": "dissolve-verb-9",
             "definition": "lose control emotionally",
-            "translation": "溶解",
+            "translation": "失态",
             "examples": [
               {
                 "text": "I dissolved into tears when i heard that my friend had lost all their savings in a pyramid scheme.",
@@ -120792,7 +120792,7 @@
           {
             "id": "dissolve-verb-10",
             "definition": "cause to lose control emotionally",
-            "translation": "溶解",
+            "translation": "使失控",
             "examples": [
               {
                 "text": "The news dissolved them into tears.",
@@ -120803,7 +120803,7 @@
           {
             "id": "dissolve-verb-11",
             "definition": "stop functioning or cohering as a unit",
-            "translation": "溶解",
+            "translation": "解体",
             "examples": [
               {
                 "text": "The political wing of the party dissolved after much internal fighting",
@@ -120833,8 +120833,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -159009,7 +159009,7 @@
           {
             "id": "drop-noun-1",
             "definition": "a central depository where things can be left or picked up",
-            "translation": "滴",
+            "translation": "存放点",
             "examples": [
               {
                 "text": "Leave the load at the normal drop.",
@@ -159020,7 +159020,7 @@
           {
             "id": "drop-noun-2",
             "definition": "a curtain that can be lowered and raised onto a stage from the flies",
-            "translation": "滴",
+            "translation": "降幕",
             "examples": [
               {
                 "text": "Someone should iron the drop.",
@@ -159031,7 +159031,7 @@
           {
             "id": "drop-noun-3",
             "definition": "a sudden sharp decrease in some quantity",
-            "translation": "滴",
+            "translation": "骤降",
             "examples": [
               {
                 "text": "There was a drop of 57 points on the Dow Jones index.",
@@ -159042,7 +159042,7 @@
           {
             "id": "drop-noun-4",
             "definition": "a free and rapid descent by the force of gravity",
-            "translation": "滴",
+            "translation": "下落",
             "examples": [
               {
                 "text": "It was a miracle that they survived the drop from that height.",
@@ -159053,7 +159053,7 @@
           {
             "id": "drop-noun-5",
             "definition": "a predetermined hiding place for the deposit and distribution of illicit goods, such as drugs or stolen property",
-            "translation": "滴",
+            "translation": "藏匿点",
             "examples": [
               {
                 "text": "They gave me the location and time for the drop.",
@@ -159064,7 +159064,7 @@
           {
             "id": "drop-noun-6",
             "definition": "a steep high face of rock",
-            "translation": "滴",
+            "translation": "陡崖",
             "examples": [
               {
                 "text": "There is a huge drop over there.",
@@ -159075,7 +159075,7 @@
           {
             "id": "drop-noun-7",
             "definition": "a small indefinite quantity, especially of a liquid",
-            "translation": "滴",
+            "translation": "少量",
             "examples": [
               {
                 "text": "I added a drop of milk to my tea.",
@@ -159086,7 +159086,7 @@
           {
             "id": "drop-noun-8",
             "definition": "a shape that is spherical and small",
-            "translation": "滴",
+            "translation": "小球",
             "examples": [
               {
                 "text": "I studied the shapes of low-viscosity drops.",
@@ -159097,7 +159097,7 @@
           {
             "id": "drop-noun-9",
             "definition": "the act of dropping something",
-            "translation": "滴",
+            "translation": "掉落",
             "examples": [
               {
                 "text": "They expected the drop would be successful.",
@@ -159113,7 +159113,7 @@
           {
             "id": "drop-verb-1",
             "definition": "to give birth",
-            "translation": "滴",
+            "translation": "生产",
             "examples": [
               {
                 "text": "The mother dropped a lamb.",
@@ -159124,7 +159124,7 @@
           {
             "id": "drop-verb-2",
             "definition": "to grow worse",
-            "translation": "滴",
+            "translation": "恶化",
             "examples": [
               {
                 "text": "The quality is dropping.",
@@ -159135,7 +159135,7 @@
           {
             "id": "drop-verb-3",
             "definition": "to fall or sink into a state of exhaustion or death",
-            "translation": "陈述；说明",
+            "translation": "倒下",
             "examples": [
               {
                 "text": "Shop until you drop.",
@@ -159146,7 +159146,7 @@
           {
             "id": "drop-verb-4",
             "definition": "to stop pursuing or acting",
-            "translation": "滴",
+            "translation": "停止",
             "examples": [
               {
                 "text": "You better drop that lawsuit or I am going to have to counter sue.",
@@ -159157,7 +159157,7 @@
           {
             "id": "drop-verb-5",
             "definition": "to lower the pitch of musical notes",
-            "translation": "滴",
+            "translation": "降调",
             "examples": [
               {
                 "text": "We should drop this section a whole step.",
@@ -159168,7 +159168,7 @@
           {
             "id": "drop-verb-6",
             "definition": "to go down in value",
-            "translation": "下降",
+            "translation": "降价",
             "examples": [
               {
                 "text": "Stock prices dropped.",
@@ -159179,7 +159179,7 @@
           {
             "id": "drop-verb-7",
             "definition": "to leave undone or leave out",
-            "translation": "滴",
+            "translation": "省略",
             "examples": [
               {
                 "text": "We dropped some tasks to finish the most important things on time.",
@@ -159190,7 +159190,7 @@
           {
             "id": "drop-verb-8",
             "definition": "to omit a letter or syllable in speaking or writing",
-            "translation": "滴",
+            "translation": "略读",
             "examples": [
               {
                 "text": "New Englanders drop their post-vocalic r's.",
@@ -159201,7 +159201,7 @@
           {
             "id": "drop-verb-9",
             "definition": "to utter with seeming casualness",
-            "translation": "滴",
+            "translation": "随口说",
             "examples": [
               {
                 "text": "I tried to drop a hint, but they didn't get it.",
@@ -159212,7 +159212,7 @@
           {
             "id": "drop-verb-10",
             "definition": "to lose a game",
-            "translation": "失去一个游戏",
+            "translation": "输掉比赛",
             "examples": [
               {
                 "text": "The Giants dropped 11 of their first 13.",
@@ -159223,7 +159223,7 @@
           {
             "id": "drop-verb-11",
             "definition": "to take a drug, especially LSD, by mouth",
-            "translation": "滴",
+            "translation": "服用",
             "examples": [
               {
                 "text": "I dropped acid when I was a teenager.",
@@ -159234,7 +159234,7 @@
           {
             "id": "drop-verb-12",
             "definition": "to cause to fall by or as if by delivering a blow",
-            "translation": "滴",
+            "translation": "击落",
             "examples": [
               {
                 "text": "I dropped my opponent in one punch.",
@@ -159245,7 +159245,7 @@
           {
             "id": "drop-verb-13",
             "definition": "to leave or unload",
-            "translation": "滴",
+            "translation": "卸下",
             "examples": [
               {
                 "text": "I dropped off the load at the depo.",
@@ -159256,7 +159256,7 @@
           {
             "id": "drop-verb-14",
             "definition": "to get rid of, remove",
-            "translation": "滴",
+            "translation": "摆脱",
             "examples": [
               {
                 "text": "We had to drop them.",
@@ -159267,7 +159267,7 @@
           {
             "id": "drop-verb-15",
             "definition": "to let or cause to fall in drops",
-            "translation": "滴",
+            "translation": "滴下",
             "examples": [
               {
                 "text": "I dropped the medicine on the patient's eye.",
@@ -159278,7 +159278,7 @@
           {
             "id": "drop-verb-16",
             "definition": "to fall vertically",
-            "translation": "滴",
+            "translation": "垂直落下",
             "examples": [
               {
                 "text": "The bombs are dropping on enemy targets.",
@@ -159289,7 +159289,7 @@
           {
             "id": "drop-verb-17",
             "definition": "to let something fall uncontrolled to the ground, typically impacting the ground",
-            "translation": "滴",
+            "translation": "掉落地上",
             "examples": [
               {
                 "text": "Don't drop the dishes.",
@@ -159300,7 +159300,7 @@
           {
             "id": "drop-verb-18",
             "definition": "to fall or descend to a lower place or level without impact",
-            "translation": "滴",
+            "translation": "下降",
             "examples": [
               {
                 "text": "We dropped down 100 feet.",
@@ -159311,7 +159311,7 @@
           {
             "id": "drop-verb-19",
             "definition": "to pay out, or spend",
-            "translation": "滴",
+            "translation": "支付",
             "examples": [
               {
                 "text": "We dropped a lot of money last weekend.",
@@ -159322,7 +159322,7 @@
           {
             "id": "drop-verb-20",
             "definition": "to terminate an association with",
-            "translation": "滴",
+            "translation": "终止关系",
             "examples": [
               {
                 "text": "Drop them from the Republican ticket.",
@@ -159333,7 +159333,7 @@
           {
             "id": "drop-verb-21",
             "definition": "to hang freely",
-            "translation": "滴",
+            "translation": "悬挂",
             "examples": [
               {
                 "text": "The bucket dropped from the wire.",
@@ -159595,8 +159595,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

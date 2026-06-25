@@ -38362,13 +38362,13 @@
           {
             "id": "heir-noun-1",
             "definition": "a person who is entitled by law or by the terms of a will to inherit the estate of another",
-            "translation": "",
+            "translation": "继承人",
             "examples": []
           },
           {
             "id": "heir-noun-2",
             "definition": "a person who inherits some title or office",
-            "translation": "继承一些标题或办公室的人",
+            "translation": "继任者",
             "examples": []
           }
         ]
@@ -38409,8 +38409,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60503,7 +60503,7 @@
           {
             "id": "hit-noun-1",
             "definition": "a successful swing in a baseball game",
-            "translation": "打",
+            "translation": "击中",
             "examples": [
               {
                 "text": "The base runner came all the way home on Williams' hit.",
@@ -60514,7 +60514,7 @@
           {
             "id": "hit-noun-2",
             "definition": "a conspicuous success",
-            "translation": "打",
+            "translation": "成功之作",
             "examples": [
               {
                 "text": "That song was my first hit and marked the beginning of my career as a singer.",
@@ -60525,7 +60525,7 @@
           {
             "id": "hit-noun-3",
             "definition": "the act of forcefully contacting one thing with another",
-            "translation": "打",
+            "translation": "撞击",
             "examples": [
               {
                 "text": "repeated hitting raised a large bruise",
@@ -60536,7 +60536,7 @@
           {
             "id": "hit-noun-4",
             "definition": "a counting term for an internet user viewing a web page",
-            "translation": "打",
+            "translation": "点击量",
             "examples": [
               {
                 "text": "Yesterday our website got over 500 hits!",
@@ -60547,7 +60547,7 @@
           {
             "id": "hit-noun-5",
             "definition": "a murder carried out by an underworld syndicate",
-            "translation": "打",
+            "translation": "暗杀",
             "examples": [
               {
                 "text": "it has all the earmarks of a Mafia hit",
@@ -60558,7 +60558,7 @@
           {
             "id": "hit-noun-6",
             "definition": "a dose of an illicit drug",
-            "translation": "打",
+            "translation": "一剂毒品",
             "examples": [
               {
                 "text": "it's not a good idea to take your first hit of heroin",
@@ -60574,7 +60574,7 @@
           {
             "id": "hit-verb-1",
             "definition": "to pay unsolicited and usually unwanted sexual attention to",
-            "translation": "打",
+            "translation": "调戏",
             "examples": [
               {
                 "text": "They tried to hit on patrons of the bar.",
@@ -60585,25 +60585,25 @@
           {
             "id": "hit-verb-2",
             "definition": "gain points in a game",
-            "translation": "打",
+            "translation": "得分",
             "examples": []
           },
           {
             "id": "hit-verb-3",
             "definition": "make a strategic, offensive, assault against an enemy, opponent, or a target",
-            "translation": "制造",
+            "translation": "袭击",
             "examples": []
           },
           {
             "id": "hit-verb-4",
             "definition": "hit with a missile from a weapon",
-            "translation": "打",
+            "translation": "射击",
             "examples": []
           },
           {
             "id": "hit-verb-5",
             "definition": "to strike the intended target or goal",
-            "translation": "打",
+            "translation": "命中",
             "examples": [
               {
                 "text": "I hit the goal!",
@@ -60614,7 +60614,7 @@
           {
             "id": "hit-verb-6",
             "definition": "consume to excess",
-            "translation": "打",
+            "translation": "暴食",
             "examples": [
               {
                 "text": "hit the bottle",
@@ -60625,7 +60625,7 @@
           {
             "id": "hit-verb-7",
             "definition": "affect or afflict suddenly, usually adversely",
-            "translation": "打",
+            "translation": "打击",
             "examples": [
               {
                 "text": "We were hit by really bad weather",
@@ -60636,19 +60636,19 @@
           {
             "id": "hit-verb-8",
             "definition": "produce by manipulating keys or strings of musical instruments, also metaphorically",
-            "translation": "产生；实现",
+            "translation": "演奏",
             "examples": []
           },
           {
             "id": "hit-verb-9",
             "definition": "hit against",
-            "translation": "通过反对打",
+            "translation": "碰撞",
             "examples": []
           },
           {
             "id": "hit-verb-10",
             "definition": "deal a blow to, either with the hand or with an instrument",
-            "translation": "打",
+            "translation": "击打",
             "examples": [
               {
                 "text": "I hit you hard in the face.",
@@ -60659,7 +60659,7 @@
           {
             "id": "hit-verb-11",
             "definition": "to cause to move by striking, moving it into a new location, either intended or not",
-            "translation": "使移动",
+            "translation": "推动",
             "examples": [
               {
                 "text": "I hit a ball into the backyard.",
@@ -60670,7 +60670,7 @@
           {
             "id": "hit-verb-12",
             "definition": "reach a point in time, or a certain state or level",
-            "translation": "陈述；说明",
+            "translation": "达到",
             "examples": [
               {
                 "text": "The thermometer hit 100 degrees",
@@ -60681,7 +60681,7 @@
           {
             "id": "hit-verb-13",
             "definition": "reach a destination, either real or abstract",
-            "translation": "打",
+            "translation": "到达",
             "examples": [
               {
                 "text": "We hit Detroit by noon",
@@ -60692,7 +60692,7 @@
           {
             "id": "hit-verb-14",
             "definition": "to drive something violently into a location",
-            "translation": "打",
+            "translation": "猛撞",
             "examples": [
               {
                 "text": "I hit my fist on the table to get the room's attention.",
@@ -60703,19 +60703,19 @@
           {
             "id": "hit-verb-15",
             "definition": "cause to experience suddenly",
-            "translation": "打",
+            "translation": "使突然经历",
             "examples": []
           },
           {
             "id": "hit-verb-16",
             "definition": "encounter by chance",
-            "translation": "打",
+            "translation": "偶然遇见",
             "examples": []
           },
           {
             "id": "hit-verb-17",
             "definition": "kill intentionally and with premeditation",
-            "translation": "打",
+            "translation": "谋杀",
             "examples": []
           }
         ]
@@ -60848,8 +60848,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -46976,7 +46976,7 @@
           {
             "id": "indignant-adjective-1",
             "definition": "angered at something unjust or wrong",
-            "translation": "",
+            "translation": "愤慨的",
             "examples": [
               {
                 "text": "an indignant denial",
@@ -46989,8 +46989,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94854,7 +94854,7 @@
           {
             "id": "intimidate-verb-1",
             "definition": "make timid or fearful",
-            "translation": "制造",
+            "translation": "吓唬",
             "examples": [
               {
                 "text": "My boss intimidates me.",
@@ -94865,7 +94865,7 @@
           {
             "id": "intimidate-verb-2",
             "definition": "to compel or deter by or as if by threats",
-            "translation": "",
+            "translation": "胁迫",
             "examples": []
           }
         ]
@@ -94878,8 +94878,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -115848,7 +115848,7 @@
           {
             "id": "issue-noun-1",
             "definition": "the act of providing an item for general use or for official purposes (usually in quantity)",
-            "translation": "议题",
+            "translation": "签发",
             "examples": [
               {
                 "text": "a new issue of stamps",
@@ -115859,25 +115859,25 @@
           {
             "id": "issue-noun-2",
             "definition": "the act of issuing printed materials",
-            "translation": "议题",
+            "translation": "发行",
             "examples": []
           },
           {
             "id": "issue-noun-3",
             "definition": "an opening that permits escape or release",
-            "translation": "议题",
+            "translation": "出口",
             "examples": []
           },
           {
             "id": "issue-noun-4",
             "definition": "some situation or event that is thought about",
-            "translation": "议题",
+            "translation": "问题",
             "examples": []
           },
           {
             "id": "issue-noun-5",
             "definition": "an important question that is in dispute and must be settled",
-            "translation": "议题",
+            "translation": "争议",
             "examples": [
               {
                 "text": "the issue could be settled by requiring public education for everyone",
@@ -115888,7 +115888,7 @@
           {
             "id": "issue-noun-6",
             "definition": "one of a series published periodically",
-            "translation": "议题",
+            "translation": "期",
             "examples": [
               {
                 "text": "They found an old issue of the magazine in their dentist's waiting room.",
@@ -115899,31 +115899,31 @@
           {
             "id": "issue-noun-7",
             "definition": "the becoming visible",
-            "translation": "议题",
+            "translation": "出现",
             "examples": []
           },
           {
             "id": "issue-noun-8",
             "definition": "the immediate descendants of a person",
-            "translation": "议题",
+            "translation": "子女",
             "examples": []
           },
           {
             "id": "issue-noun-9",
             "definition": "a phenomenon that follows and is caused by some previous phenomenon",
-            "translation": "议题",
+            "translation": "后果",
             "examples": []
           },
           {
             "id": "issue-noun-10",
             "definition": "the income or profit arising from such transactions as the sale of land or other property",
-            "translation": "议题",
+            "translation": "收益",
             "examples": []
           },
           {
             "id": "issue-noun-11",
             "definition": "supplies (as food or clothing or ammunition) issued by the government",
-            "translation": "议题",
+            "translation": "配给品",
             "examples": []
           }
         ]
@@ -115934,7 +115934,7 @@
           {
             "id": "issue-verb-1",
             "definition": "come out of",
-            "translation": "议题",
+            "translation": "流出",
             "examples": [
               {
                 "text": "Water issued from the hole in the wall",
@@ -115945,25 +115945,25 @@
           {
             "id": "issue-verb-2",
             "definition": "prepare and issue for public distribution or sale",
-            "translation": "议题",
+            "translation": "出版",
             "examples": []
           },
           {
             "id": "issue-verb-3",
             "definition": "bring out an official document (such as a warrant)",
-            "translation": "议题",
+            "translation": "颁布",
             "examples": []
           },
           {
             "id": "issue-verb-4",
             "definition": "make out and issue",
-            "translation": "制造",
+            "translation": "开具",
             "examples": []
           },
           {
             "id": "issue-verb-5",
             "definition": "circulate or distribute or equip with",
-            "translation": "议题",
+            "translation": "分发",
             "examples": [
               {
                 "text": "issue a new uniform to the children",
@@ -116025,8 +116025,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

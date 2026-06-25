@@ -94037,19 +94037,19 @@
           {
             "id": "upset-adjective-1",
             "definition": "used of an unexpected defeat of a team favored to win",
-            "translation": "心烦的",
+            "translation": "爆冷的",
             "examples": []
           },
           {
             "id": "upset-adjective-2",
             "definition": "thrown into a state of disarray or confusion",
-            "translation": "心烦的",
+            "translation": "混乱的",
             "examples": []
           },
           {
             "id": "upset-adjective-3",
             "definition": "afflicted with or marked by anxious uneasiness or trouble or grief",
-            "translation": "心烦的",
+            "translation": "焦虑不安的",
             "examples": [
               {
                 "text": "too upset to say anything",
@@ -94060,13 +94060,13 @@
           {
             "id": "upset-adjective-4",
             "definition": "having been turned so that the bottom is no longer the bottom",
-            "translation": "心烦的",
+            "translation": "翻转的",
             "examples": []
           },
           {
             "id": "upset-adjective-5",
             "definition": "mildly physically distressed",
-            "translation": "心烦的",
+            "translation": "不适的",
             "examples": [
               {
                 "text": "an upset stomach",
@@ -94082,7 +94082,7 @@
           {
             "id": "upset-noun-1",
             "definition": "an improbable and unexpected victory",
-            "translation": "心烦的",
+            "translation": "爆冷",
             "examples": [
               {
                 "text": "the biggest upset since David beat Goliath",
@@ -94093,7 +94093,7 @@
           {
             "id": "upset-noun-2",
             "definition": "the act of upsetting something",
-            "translation": "心烦的",
+            "translation": "搅乱",
             "examples": [
               {
                 "text": "I was badly bruised by the upset of my sled at a high speed.",
@@ -94104,7 +94104,7 @@
           {
             "id": "upset-noun-3",
             "definition": "the act of disturbing the mind or body",
-            "translation": "心烦的",
+            "translation": "心神不宁",
             "examples": [
               {
                 "text": "Their carelessness could have caused an ecological upset.",
@@ -94115,19 +94115,19 @@
           {
             "id": "upset-noun-4",
             "definition": "a tool used to thicken or spread metal (the end of a bar or a rivet etc.) by forging or hammering or swaging",
-            "translation": "心烦的",
+            "translation": "镦粗工具",
             "examples": []
           },
           {
             "id": "upset-noun-5",
             "definition": "a physical condition in which there is a disturbance of normal functioning",
-            "translation": "心烦的",
+            "translation": "身体不适",
             "examples": []
           },
           {
             "id": "upset-noun-6",
             "definition": "an unhappy and worried mental state",
-            "translation": "心烦的",
+            "translation": "忧心忡忡",
             "examples": []
           }
         ]
@@ -94138,7 +94138,7 @@
           {
             "id": "upset-verb-1",
             "definition": "disturb the balance or stability of",
-            "translation": "心烦的",
+            "translation": "打乱",
             "examples": [
               {
                 "text": "The hostile talks upset the peaceful relations between the two countries",
@@ -94149,7 +94149,7 @@
           {
             "id": "upset-verb-2",
             "definition": "defeat suddenly and unexpectedly",
-            "translation": "心烦的",
+            "translation": "爆冷击败",
             "examples": [
               {
                 "text": "The foreign team upset the local team",
@@ -94160,13 +94160,13 @@
           {
             "id": "upset-verb-3",
             "definition": "form metals with a swage",
-            "translation": "形式",
+            "translation": "镦锻",
             "examples": []
           },
           {
             "id": "upset-verb-4",
             "definition": "move deeply",
-            "translation": "心烦的",
+            "translation": "深深打动",
             "examples": [
               {
                 "text": "This book upset me",
@@ -94177,13 +94177,13 @@
           {
             "id": "upset-verb-5",
             "definition": "cause to lose one's composure",
-            "translation": "心烦的",
+            "translation": "使心烦意乱",
             "examples": []
           },
           {
             "id": "upset-verb-6",
             "definition": "cause to overturn from an upright or normal position",
-            "translation": "心烦的",
+            "translation": "推翻；弄翻",
             "examples": []
           }
         ]
@@ -94204,8 +94204,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

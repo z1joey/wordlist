@@ -43231,13 +43231,13 @@
           {
             "id": "wing-noun-2",
             "definition": "an addition that extends a main building",
-            "translation": "延伸主楼的附加部分",
+            "translation": "侧楼",
             "examples": []
           },
           {
             "id": "wing-noun-3",
             "definition": "a barrier that surrounds the wheels of a vehicle to block splashing water or mud",
-            "translation": "翅膀",
+            "translation": "挡泥板",
             "examples": [
               {
                 "text": "in Britain they call a fender a wing",
@@ -43248,19 +43248,19 @@
           {
             "id": "wing-noun-4",
             "definition": "one of the horizontal airfoils on either side of the fuselage of an airplane",
-            "translation": "翅膀",
+            "translation": "机翼",
             "examples": []
           },
           {
             "id": "wing-noun-5",
             "definition": "a stage area out of sight of the audience",
-            "translation": "翅膀",
+            "translation": "舞台侧面",
             "examples": []
           },
           {
             "id": "wing-noun-6",
             "definition": "the wing of a fowl",
-            "translation": "翅膀",
+            "translation": "禽翅",
             "examples": [
               {
                 "text": "They preferred the drumsticks to the wings.",
@@ -43271,19 +43271,19 @@
           {
             "id": "wing-noun-7",
             "definition": "a unit of military aircraft",
-            "translation": "翅膀",
+            "translation": "飞行联队",
             "examples": []
           },
           {
             "id": "wing-noun-8",
             "definition": "the side of military or naval formation",
-            "translation": "翅膀",
+            "translation": "侧翼",
             "examples": []
           },
           {
             "id": "wing-noun-9",
             "definition": "a group within a political party or legislature or other organization that holds distinct views or has a particular function",
-            "translation": "翅膀",
+            "translation": "派别",
             "examples": [
               {
                 "text": "they are the progressive wing of the Republican Party",
@@ -43294,13 +43294,13 @@
           {
             "id": "wing-noun-10",
             "definition": "(in flight formation) a position to the side and just to the rear of another aircraft",
-            "translation": "翅膀",
+            "translation": "僚机位置",
             "examples": []
           },
           {
             "id": "wing-noun-11",
             "definition": "a hockey player stationed in a forward position on either side",
-            "translation": "翅膀",
+            "translation": "边锋",
             "examples": []
           }
         ]
@@ -43311,7 +43311,7 @@
           {
             "id": "wing-verb-1",
             "definition": "travel through the air",
-            "translation": "翅膀",
+            "translation": "飞翔",
             "examples": []
           }
         ]
@@ -43344,8 +43344,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

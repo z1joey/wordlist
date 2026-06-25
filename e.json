@@ -91341,7 +91341,7 @@
           {
             "id": "exchange-noun-1",
             "definition": "(chess) the capture by both players (usually on consecutive moves) of pieces of equal value",
-            "translation": "交换",
+            "translation": "双方互吃",
             "examples": [
               {
                 "text": "the endgame began after the exchange of queens",
@@ -91352,7 +91352,7 @@
           {
             "id": "exchange-noun-2",
             "definition": "(chess) gaining (or losing) a rook in return for a knight or bishop",
-            "translation": "交换",
+            "translation": "换车",
             "examples": [
               {
                 "text": "black lost the exchange",
@@ -91363,19 +91363,19 @@
           {
             "id": "exchange-noun-3",
             "definition": "the act of putting one thing or person in the place of another: 'he sent Smith in for Jones but the substitution came too late to help'",
-            "translation": "交换",
+            "translation": "替换",
             "examples": []
           },
           {
             "id": "exchange-noun-4",
             "definition": "reciprocal transfer of equivalent sums of money (especially the currencies of different countries)",
-            "translation": "交换",
+            "translation": "兑换",
             "examples": []
           },
           {
             "id": "exchange-noun-5",
             "definition": "the act of giving something in return for something received",
-            "translation": "交换",
+            "translation": "互换",
             "examples": [
               {
                 "text": "deductible losses on sales or exchanges of property are allowable",
@@ -91386,7 +91386,7 @@
           {
             "id": "exchange-noun-6",
             "definition": "the act of changing one thing for another thing",
-            "translation": "交换",
+            "translation": "调换",
             "examples": [
               {
                 "text": "They were promised immortality in exchange for their disobedience.",
@@ -91397,25 +91397,25 @@
           {
             "id": "exchange-noun-7",
             "definition": "(sports) an unbroken sequence of several successive strokes",
-            "translation": "交换",
+            "translation": "连续击球",
             "examples": []
           },
           {
             "id": "exchange-noun-8",
             "definition": "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication",
-            "translation": "交换",
+            "translation": "电话局",
             "examples": []
           },
           {
             "id": "exchange-noun-9",
             "definition": "a workplace for buying and selling",
-            "translation": "交换",
+            "translation": "交易所",
             "examples": []
           },
           {
             "id": "exchange-noun-10",
             "definition": "a mutual expression of views (especially an unpleasant one)",
-            "translation": "交换",
+            "translation": "交锋",
             "examples": [
               {
                 "text": "they had a bitter exchange",
@@ -91426,7 +91426,7 @@
           {
             "id": "exchange-noun-11",
             "definition": "chemical process in which one atom or ion or group changes places with another",
-            "translation": "化学的",
+            "translation": "原子交换",
             "examples": []
           }
         ]
@@ -91437,37 +91437,37 @@
           {
             "id": "exchange-verb-1",
             "definition": "change over, change around, as to a new order or sequence",
-            "translation": "交换",
+            "translation": "调换顺序",
             "examples": []
           },
           {
             "id": "exchange-verb-2",
             "definition": "exchange or replace with another, usually of the same kind or category",
-            "translation": "交换",
+            "translation": "调换",
             "examples": []
           },
           {
             "id": "exchange-verb-3",
             "definition": "exchange a penalty for a less severe one",
-            "translation": "交换",
+            "translation": "减轻处罚",
             "examples": []
           },
           {
             "id": "exchange-verb-4",
             "definition": "give to, and receive from, one another",
-            "translation": "交换",
+            "translation": "互换",
             "examples": []
           },
           {
             "id": "exchange-verb-5",
             "definition": "put in the place of another",
-            "translation": "交换",
+            "translation": "替代",
             "examples": []
           },
           {
             "id": "exchange-verb-6",
             "definition": "hand over one and receive another, approximately equivalent",
-            "translation": "交换",
+            "translation": "换",
             "examples": [
               {
                 "text": "exchange prisoners",
@@ -91549,8 +91549,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -108567,37 +108567,37 @@
           {
             "id": "extend-verb-1",
             "definition": "extend one's limbs or muscles, or the entire body",
-            "translation": "延伸",
+            "translation": "伸展身体",
             "examples": []
           },
           {
             "id": "extend-verb-2",
             "definition": "thrust or extend out",
-            "translation": "延伸",
+            "translation": "伸出",
             "examples": []
           },
           {
             "id": "extend-verb-3",
             "definition": "increase in quantity or bulk by adding a cheaper substance",
-            "translation": "延伸",
+            "translation": "掺入",
             "examples": []
           },
           {
             "id": "extend-verb-4",
             "definition": "continue or extend",
-            "translation": "延伸",
+            "translation": "延续",
             "examples": []
           },
           {
             "id": "extend-verb-5",
             "definition": "lengthen in time",
-            "translation": "延伸",
+            "translation": "延长",
             "examples": []
           },
           {
             "id": "extend-verb-6",
             "definition": "prolong the time allowed for payment of",
-            "translation": "延伸",
+            "translation": "延期",
             "examples": [
               {
                 "text": "extend the loan",
@@ -108608,7 +108608,7 @@
           {
             "id": "extend-verb-7",
             "definition": "extend in scope or range or area",
-            "translation": "延伸",
+            "translation": "扩大",
             "examples": [
               {
                 "text": "The law was extended to all citizens",
@@ -108619,7 +108619,7 @@
           {
             "id": "extend-verb-8",
             "definition": "expand the influence of",
-            "translation": "延伸",
+            "translation": "扩大影响",
             "examples": [
               {
                 "text": "The monarch extended their rule to the shores of the continent.",
@@ -108630,31 +108630,31 @@
           {
             "id": "extend-verb-9",
             "definition": "use to the utmost",
-            "translation": "延伸",
+            "translation": "竭尽",
             "examples": []
           },
           {
             "id": "extend-verb-10",
             "definition": "open or straighten out",
-            "translation": "延伸",
+            "translation": "展开",
             "examples": []
           },
           {
             "id": "extend-verb-11",
             "definition": "cause to move at full gallop",
-            "translation": "延伸",
+            "translation": "全速奔跑",
             "examples": []
           },
           {
             "id": "extend-verb-12",
             "definition": "extend or stretch out to a greater or the full length",
-            "translation": "延伸",
+            "translation": "伸展到全长",
             "examples": []
           },
           {
             "id": "extend-verb-13",
             "definition": "offer verbally",
-            "translation": "延伸",
+            "translation": "口头提出",
             "examples": [
               {
                 "text": "extend my greetings",
@@ -108665,7 +108665,7 @@
           {
             "id": "extend-verb-14",
             "definition": "make available",
-            "translation": "通过可用的制造",
+            "translation": "提供",
             "examples": []
           },
           {
@@ -108682,7 +108682,7 @@
           {
             "id": "extend-verb-16",
             "definition": "span an interval of distance, space or time",
-            "translation": "延伸",
+            "translation": "跨越",
             "examples": [
               {
                 "text": "The war extended over five years",
@@ -108693,7 +108693,7 @@
           {
             "id": "extend-verb-17",
             "definition": "reach outward in space",
-            "translation": "延伸",
+            "translation": "向外延伸",
             "examples": [
               {
                 "text": "The awning extends several feet over the sidewalk",
@@ -108755,8 +108755,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -109010,43 +109010,43 @@
           {
             "id": "extension-noun-1",
             "definition": "act of expanding in scope",
-            "translation": "扩展",
+            "translation": "扩大",
             "examples": []
           },
           {
             "id": "extension-noun-2",
             "definition": "act of stretching or straightening out a flexed limb",
-            "translation": "扩展",
+            "translation": "伸展",
             "examples": []
           },
           {
             "id": "extension-noun-3",
             "definition": "an educational opportunity provided by colleges and universities to people who are not enrolled as regular students",
-            "translation": "扩展",
+            "translation": "继续教育",
             "examples": []
           },
           {
             "id": "extension-noun-4",
             "definition": "an addition that extends a main building",
-            "translation": "延伸主楼的附加部分",
+            "translation": "扩建部分",
             "examples": []
           },
           {
             "id": "extension-noun-5",
             "definition": "an addition to the length of something",
-            "translation": "扩展",
+            "translation": "延长",
             "examples": []
           },
           {
             "id": "extension-noun-6",
             "definition": "an additional telephone set that is connected to the same telephone line",
-            "translation": "扩展",
+            "translation": "分机",
             "examples": []
           },
           {
             "id": "extension-noun-7",
             "definition": "amount or degree or range to which something extends",
-            "translation": "扩展",
+            "translation": "延伸范围",
             "examples": [
               {
                 "text": "the wire has an extension of 50 feet",
@@ -109057,7 +109057,7 @@
           {
             "id": "extension-noun-8",
             "definition": "the ability to raise the working leg high in the air",
-            "translation": "扩展",
+            "translation": "高抬腿",
             "examples": [
               {
                 "text": "The dancers were praised for their uncanny extension.",
@@ -109068,25 +109068,25 @@
           {
             "id": "extension-noun-9",
             "definition": "the most direct or specific meaning of a word or expression",
-            "translation": "扩展",
+            "translation": "字面意义",
             "examples": []
           },
           {
             "id": "extension-noun-10",
             "definition": "the spreading of something (a belief or practice) into new regions",
-            "translation": "扩展",
+            "translation": "传播",
             "examples": []
           },
           {
             "id": "extension-noun-11",
             "definition": "a string of characters beginning with a period and followed by one or more letters",
-            "translation": "扩展",
+            "translation": "扩展名",
             "examples": []
           },
           {
             "id": "extension-noun-12",
             "definition": "a mutually agreed delay in the date set for the completion of a job or payment of a debt",
-            "translation": "扩展",
+            "translation": "延期",
             "examples": [
               {
                 "text": "they applied for an extension of the loan",
@@ -109116,8 +109116,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -13898,43 +13898,43 @@
           {
             "id": "tap-noun-2",
             "definition": "the act of tapping a telephone or telegraph line to get information",
-            "translation": "轻拍",
+            "translation": "窃听",
             "examples": []
           },
           {
             "id": "tap-noun-3",
             "definition": "a plug for a bunghole in a cask",
-            "translation": "轻拍",
+            "translation": "塞子",
             "examples": []
           },
           {
             "id": "tap-noun-4",
             "definition": "a tool for cutting female (internal) screw threads",
-            "translation": "轻拍",
+            "translation": "丝锥",
             "examples": []
           },
           {
             "id": "tap-noun-5",
             "definition": "a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)",
-            "translation": "轻拍",
+            "translation": "踢踏鞋金属片",
             "examples": []
           },
           {
             "id": "tap-noun-6",
             "definition": "a faucet for drawing water from a pipe or cask",
-            "translation": "轻拍",
+            "translation": "水龙头",
             "examples": []
           },
           {
             "id": "tap-noun-7",
             "definition": "the sound made by a gentle blow",
-            "translation": "轻拍",
+            "translation": "轻拍声",
             "examples": []
           },
           {
             "id": "tap-noun-8",
             "definition": "a gentle blow",
-            "translation": "轻拍",
+            "translation": "轻打",
             "examples": []
           }
         ]
@@ -13945,19 +13945,19 @@
           {
             "id": "tap-verb-1",
             "definition": "make a solicitation or entreaty for something",
-            "translation": "制造",
+            "translation": "恳请",
             "examples": []
           },
           {
             "id": "tap-verb-2",
             "definition": "draw from",
-            "translation": "通过从画",
+            "translation": "汲取",
             "examples": []
           },
           {
             "id": "tap-verb-3",
             "definition": "strike lightly",
-            "translation": "通过光地罢工",
+            "translation": "轻击",
             "examples": [
               {
                 "text": "They tapped me on the shoulder.",
@@ -13968,13 +13968,13 @@
           {
             "id": "tap-verb-4",
             "definition": "cut a female screw thread with a tap",
-            "translation": "切",
+            "translation": "攻丝",
             "examples": []
           },
           {
             "id": "tap-verb-5",
             "definition": "pierce in order to draw a liquid from",
-            "translation": "轻拍",
+            "translation": "刺穿抽液",
             "examples": [
               {
                 "text": "tap a maple tree for its syrup",
@@ -13985,7 +13985,7 @@
           {
             "id": "tap-verb-6",
             "definition": "draw (liquor) from a tap",
-            "translation": "画",
+            "translation": "放出",
             "examples": [
               {
                 "text": "tap beer in a bar",
@@ -13996,7 +13996,7 @@
           {
             "id": "tap-verb-7",
             "definition": "dance and make rhythmic clicking sounds by means of metal plates nailed to the sole of the dance shoes",
-            "translation": "轻拍",
+            "translation": "跳踢踏舞",
             "examples": [
               {
                 "text": "Glover tapdances better than anybody",
@@ -14007,13 +14007,13 @@
           {
             "id": "tap-verb-8",
             "definition": "walk with a tapping sound",
-            "translation": "轻拍",
+            "translation": "踏步行走",
             "examples": []
           },
           {
             "id": "tap-verb-9",
             "definition": "make light, repeated strikes on a surface",
-            "translation": "制造",
+            "translation": "轻敲",
             "examples": [
               {
                 "text": "I was tapping my fingers on the table impatiently.",
@@ -14024,7 +14024,7 @@
           {
             "id": "tap-verb-10",
             "definition": "tap a telephone or telegraph wire to get information",
-            "translation": "轻拍",
+            "translation": "窃听",
             "examples": [
               {
                 "text": "The FBI was tapping the phone line of the suspected spy",
@@ -14035,7 +14035,7 @@
           {
             "id": "tap-verb-11",
             "definition": "draw from or dip into to get something",
-            "translation": "画",
+            "translation": "取用",
             "examples": [
               {
                 "text": "tap one's memory",
@@ -14046,7 +14046,7 @@
           {
             "id": "tap-verb-12",
             "definition": "furnish with a tap or spout, so as to be able to draw liquid from it",
-            "translation": "能够",
+            "translation": "配龙头",
             "examples": [
               {
                 "text": "tap a cask of wine",
@@ -14100,8 +14100,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -33552,7 +33552,7 @@
           {
             "id": "tender-adjective-1",
             "definition": "(of plants) not hardy",
-            "translation": "温柔的",
+            "translation": "娇嫩的",
             "examples": []
           },
           {
@@ -33564,7 +33564,7 @@
           {
             "id": "tender-adjective-3",
             "definition": "young and immature",
-            "translation": "温柔的",
+            "translation": "稚嫩的",
             "examples": [
               {
                 "text": "at a tender age",
@@ -33575,7 +33575,7 @@
           {
             "id": "tender-adjective-4",
             "definition": "mildly painful",
-            "translation": "温柔的",
+            "translation": "微痛的",
             "examples": [
               {
                 "text": "After getting my flu shot, I had a tender spot on my arm.",
@@ -33586,13 +33586,13 @@
           {
             "id": "tender-adjective-5",
             "definition": "(used of boats) inclined to heel over easily under sail",
-            "translation": "温柔的",
+            "translation": "易倾的",
             "examples": []
           },
           {
             "id": "tender-adjective-6",
             "definition": "easy to cut or chew",
-            "translation": "温柔的",
+            "translation": "嫩的",
             "examples": [
               {
                 "text": "tender beef",
@@ -33603,7 +33603,7 @@
           {
             "id": "tender-adjective-7",
             "definition": "physically untoughened",
-            "translation": "温柔的",
+            "translation": "柔弱的",
             "examples": [
               {
                 "text": "tender feet",
@@ -33614,7 +33614,7 @@
           {
             "id": "tender-adjective-8",
             "definition": "given to sympathy or gentleness or sentimentality",
-            "translation": "温柔的",
+            "translation": "心软的",
             "examples": [
               {
                 "text": "a tender heart",
@@ -33630,37 +33630,37 @@
           {
             "id": "tender-noun-1",
             "definition": "ship that usually provides supplies to other ships",
-            "translation": "温柔的",
+            "translation": "补给船",
             "examples": []
           },
           {
             "id": "tender-noun-2",
             "definition": "a boat for communication between ship and shore",
-            "translation": "温柔的",
+            "translation": "交通艇",
             "examples": []
           },
           {
             "id": "tender-noun-3",
             "definition": "car attached to a locomotive to carry fuel and water",
-            "translation": "温柔的",
+            "translation": "煤水车",
             "examples": []
           },
           {
             "id": "tender-noun-4",
             "definition": "a formal proposal to buy at a specified price",
-            "translation": "温柔的",
+            "translation": "投标",
             "examples": []
           },
           {
             "id": "tender-noun-5",
             "definition": "someone who waits on or tends to or attends to the needs of another",
-            "translation": "温柔的",
+            "translation": "照料者",
             "examples": []
           },
           {
             "id": "tender-noun-6",
             "definition": "something that can be used as an official medium of payment",
-            "translation": "温柔的",
+            "translation": "法定货币",
             "examples": []
           }
         ]
@@ -33671,7 +33671,7 @@
           {
             "id": "tender-verb-1",
             "definition": "make tender or more tender as by marinating, pounding, or applying a tenderizer",
-            "translation": "制造",
+            "translation": "使变嫩",
             "examples": [
               {
                 "text": "tenderize meat",
@@ -33682,19 +33682,19 @@
           {
             "id": "tender-verb-2",
             "definition": "make a tender of",
-            "translation": "制造",
+            "translation": "投标",
             "examples": []
           },
           {
             "id": "tender-verb-3",
             "definition": "offer or present for acceptance",
-            "translation": "温柔的",
+            "translation": "提出",
             "examples": []
           },
           {
             "id": "tender-verb-4",
             "definition": "propose a payment",
-            "translation": "温柔的",
+            "translation": "提议付款",
             "examples": []
           }
         ]
@@ -33711,8 +33711,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60407,13 +60407,13 @@
           {
             "id": "thrive-verb-1",
             "definition": "grow vigorously",
-            "translation": "",
+            "translation": "茁壮成长",
             "examples": []
           },
           {
             "id": "thrive-verb-2",
             "definition": "make steady progress",
-            "translation": "通过稳定的进步制造",
+            "translation": "繁荣发展",
             "examples": []
           }
         ]
@@ -60430,8 +60430,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -85845,7 +85845,7 @@
           {
             "id": "top-adjective-1",
             "definition": "situated at the top or highest position",
-            "translation": "顶部",
+            "translation": "顶端的",
             "examples": []
           }
         ]
@@ -85856,13 +85856,13 @@
           {
             "id": "top-noun-1",
             "definition": "a canvas tent to house the audience at a circus performance",
-            "translation": "顶部",
+            "translation": "马戏团帐篷",
             "examples": []
           },
           {
             "id": "top-noun-2",
             "definition": "a garment, especially for women, that extends from the shoulders to the waist or hips",
-            "translation": "顶部",
+            "translation": "上衣",
             "examples": [
               {
                 "text": "I buttoned my top.",
@@ -85873,7 +85873,7 @@
           {
             "id": "top-noun-3",
             "definition": "covering for a hole, especially a hole in the top of a container",
-            "translation": "顶部",
+            "translation": "盖子",
             "examples": [
               {
                 "text": "We removed the top of the carton.",
@@ -85884,7 +85884,7 @@
           {
             "id": "top-noun-4",
             "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
-            "translation": "顶部",
+            "translation": "陀螺",
             "examples": [
               {
                 "text": "They got a bright red top and string to play with for their birthday.",
@@ -85895,13 +85895,13 @@
           {
             "id": "top-noun-5",
             "definition": "platform surrounding the head of a lower mast",
-            "translation": "顶部",
+            "translation": "桅顶平台",
             "examples": []
           },
           {
             "id": "top-noun-6",
             "definition": "the greatest possible intensity",
-            "translation": "顶部",
+            "translation": "最高强度",
             "examples": [
               {
                 "text": "I screamed at the top of my lungs.",
@@ -85912,7 +85912,7 @@
           {
             "id": "top-noun-7",
             "definition": "the top or extreme point of something, usually a mountain or hill",
-            "translation": "顶部",
+            "translation": "山顶",
             "examples": [
               {
                 "text": "After hiking all day, we were rewarded with the view from the top.",
@@ -85923,7 +85923,7 @@
           {
             "id": "top-noun-8",
             "definition": "the highest or uppermost side of anything",
-            "translation": "顶部",
+            "translation": "最高面",
             "examples": [
               {
                 "text": "put your books on top of the desk",
@@ -85934,7 +85934,7 @@
           {
             "id": "top-noun-9",
             "definition": "the upper part of anything",
-            "translation": "顶部",
+            "translation": "上部",
             "examples": [
               {
                 "text": "the mower cuts off the tops of the grass",
@@ -85945,13 +85945,13 @@
           {
             "id": "top-noun-10",
             "definition": "the highest level or degree attainable",
-            "translation": "可达到的最高水平或程度",
+            "translation": "最高水平",
             "examples": []
           },
           {
             "id": "top-noun-11",
             "definition": "the first half of an inning",
-            "translation": "顶部",
+            "translation": "前半局",
             "examples": []
           }
         ]
@@ -85962,7 +85962,7 @@
           {
             "id": "top-verb-1",
             "definition": "finish up or conclude",
-            "translation": "顶部",
+            "translation": "结束",
             "examples": [
               {
                 "text": "They topped off their dinner with a cognac",
@@ -85973,13 +85973,13 @@
           {
             "id": "top-verb-2",
             "definition": "be the culminating event",
-            "translation": "顶部",
+            "translation": "达到高潮",
             "examples": []
           },
           {
             "id": "top-verb-3",
             "definition": "cut the top off",
-            "translation": "切",
+            "translation": "切顶",
             "examples": [
               {
                 "text": "top trees and bushes",
@@ -85990,13 +85990,13 @@
           {
             "id": "top-verb-4",
             "definition": "strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin",
-            "translation": "分离；分开",
+            "translation": "击上端",
             "examples": []
           },
           {
             "id": "top-verb-5",
             "definition": "reach or ascend the top of",
-            "translation": "顶部",
+            "translation": "到达顶部",
             "examples": [
               {
                 "text": "The hikers topped the mountain just before noon",
@@ -86007,7 +86007,7 @@
           {
             "id": "top-verb-6",
             "definition": "pass by, over, or under without making contact",
-            "translation": "顶部",
+            "translation": "通过不接触",
             "examples": [
               {
                 "text": "the balloon cleared the tree tops",
@@ -86018,7 +86018,7 @@
           {
             "id": "top-verb-7",
             "definition": "provide with a top or finish the top (of a structure)",
-            "translation": "顶部",
+            "translation": "加顶",
             "examples": [
               {
                 "text": "the towers were topped with conical roofs",
@@ -86029,19 +86029,19 @@
           {
             "id": "top-verb-8",
             "definition": "be superior or better than some standard",
-            "translation": "顶部",
+            "translation": "超过",
             "examples": []
           },
           {
             "id": "top-verb-9",
             "definition": "be ahead of others",
-            "translation": "顶部",
+            "translation": "领先",
             "examples": []
           },
           {
             "id": "top-verb-10",
             "definition": "be at the top of or constitute the top or highest point",
-            "translation": "顶部",
+            "translation": "处于最高点",
             "examples": [
               {
                 "text": "A star tops the Christmas Tree",
@@ -86099,8 +86099,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92390,7 +92390,7 @@
           {
             "id": "touch-noun-1",
             "definition": "the act of putting two things together with no space between them",
-            "translation": "触摸",
+            "translation": "贴合",
             "examples": [
               {
                 "text": "The touch of the wires filled the room with light.",
@@ -92401,7 +92401,7 @@
           {
             "id": "touch-noun-2",
             "definition": "a distinguishing style",
-            "translation": "触摸",
+            "translation": "风格",
             "examples": [
               {
                 "text": "this room needs a woman's touch",
@@ -92412,7 +92412,7 @@
           {
             "id": "touch-noun-3",
             "definition": "the feel of mechanical action",
-            "translation": "触摸",
+            "translation": "手感",
             "examples": [
               {
                 "text": "this piano has a wonderful touch",
@@ -92423,7 +92423,7 @@
           {
             "id": "touch-noun-4",
             "definition": "deftness in handling matters",
-            "translation": "触摸",
+            "translation": "手法",
             "examples": [
               {
                 "text": "I have a master's touch.",
@@ -92434,7 +92434,7 @@
           {
             "id": "touch-noun-5",
             "definition": "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)",
-            "translation": "触摸",
+            "translation": "触觉",
             "examples": [
               {
                 "text": "only sight and touch enable us to locate objects in the space around us",
@@ -92445,7 +92445,7 @@
           {
             "id": "touch-noun-6",
             "definition": "the sensation produced by pressure receptors in the skin",
-            "translation": "触摸",
+            "translation": "触感",
             "examples": [
               {
                 "text": "I like the touch of silk on my skin.",
@@ -92456,7 +92456,7 @@
           {
             "id": "touch-noun-7",
             "definition": "a suggestion of some quality",
-            "translation": "触摸",
+            "translation": "韵味",
             "examples": [
               {
                 "text": "There was a touch of sarcasm in their tone.",
@@ -92467,7 +92467,7 @@
           {
             "id": "touch-noun-8",
             "definition": "the act of soliciting money as a gift or loan",
-            "translation": "触摸",
+            "translation": "募捐",
             "examples": [
               {
                 "text": "I watched the beggar trying to make a touch.",
@@ -92478,13 +92478,13 @@
           {
             "id": "touch-noun-9",
             "definition": "a communicative interaction",
-            "translation": "触摸",
+            "translation": "联系",
             "examples": []
           },
           {
             "id": "touch-noun-10",
             "definition": "the event of something coming in contact with the body",
-            "translation": "触摸",
+            "translation": "接触",
             "examples": [
               {
                 "text": "I longed for the touch of your hand.",
@@ -92495,7 +92495,7 @@
           {
             "id": "touch-noun-11",
             "definition": "a slight but appreciable amount",
-            "translation": "触摸",
+            "translation": "少量",
             "examples": [
               {
                 "text": "this dish could use a touch of garlic",
@@ -92506,7 +92506,7 @@
           {
             "id": "touch-noun-12",
             "definition": "a slight attack of illness",
-            "translation": "触摸",
+            "translation": "小病",
             "examples": [
               {
                 "text": "I have a touch of rheumatism.",
@@ -92522,19 +92522,19 @@
           {
             "id": "touch-verb-1",
             "definition": "have an effect upon",
-            "translation": "触摸",
+            "translation": "影响",
             "examples": []
           },
           {
             "id": "touch-verb-2",
             "definition": "color lightly",
-            "translation": "触摸",
+            "translation": "轻染",
             "examples": []
           },
           {
             "id": "touch-verb-3",
             "definition": "comprehend",
-            "translation": "触摸",
+            "translation": "理解",
             "examples": [
               {
                 "text": "They could not touch the meaning of the poem.",
@@ -92545,13 +92545,13 @@
           {
             "id": "touch-verb-4",
             "definition": "make a more or less disguised reference to",
-            "translation": "制造",
+            "translation": "暗指",
             "examples": []
           },
           {
             "id": "touch-verb-5",
             "definition": "consume, eat",
-            "translation": "触摸",
+            "translation": "吃",
             "examples": [
               {
                 "text": "I didn't touch my food all night.",
@@ -92562,19 +92562,19 @@
           {
             "id": "touch-verb-6",
             "definition": "be in direct physical contact with",
-            "translation": "触摸",
+            "translation": "接触",
             "examples": []
           },
           {
             "id": "touch-verb-7",
             "definition": "make physical contact with, come in contact with",
-            "translation": "制造",
+            "translation": "碰到",
             "examples": []
           },
           {
             "id": "touch-verb-8",
             "definition": "cause to be in brief contact with",
-            "translation": "触摸",
+            "translation": "短暂接触",
             "examples": [
               {
                 "text": "I touched my toes to the horse's flanks.",
@@ -92585,7 +92585,7 @@
           {
             "id": "touch-verb-9",
             "definition": "tamper with",
-            "translation": "触摸",
+            "translation": "动手脚",
             "examples": [
               {
                 "text": "Don't touch my CDs!",
@@ -92596,13 +92596,13 @@
           {
             "id": "touch-verb-10",
             "definition": "affect emotionally",
-            "translation": "触摸",
+            "translation": "感动",
             "examples": []
           },
           {
             "id": "touch-verb-11",
             "definition": "perceive via the tactile sense",
-            "translation": "触摸",
+            "translation": "摸到",
             "examples": [
               {
                 "text": "Helen Keller felt the physical world by touching people and objects around her",
@@ -92613,25 +92613,25 @@
           {
             "id": "touch-verb-12",
             "definition": "deal with",
-            "translation": "触摸",
+            "translation": "处理",
             "examples": []
           },
           {
             "id": "touch-verb-13",
             "definition": "be equal to in quality or ability",
-            "translation": "触摸",
+            "translation": "比得上",
             "examples": []
           },
           {
             "id": "touch-verb-14",
             "definition": "be relevant to",
-            "translation": "触摸",
+            "translation": "与…有关",
             "examples": []
           },
           {
             "id": "touch-verb-15",
             "definition": "to extend as far as",
-            "translation": "延伸一个远的一个",
+            "translation": "延伸至",
             "examples": []
           }
         ]
@@ -92720,8 +92720,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -138708,7 +138708,7 @@
           {
             "id": "turbulent-adjective-1",
             "definition": "agitated vigorously",
-            "translation": "",
+            "translation": "湍流的",
             "examples": [
               {
                 "text": "The turbulent seas capsized the ship.",
@@ -138719,7 +138719,7 @@
           {
             "id": "turbulent-adjective-2",
             "definition": "characterized by unrest or disorder or insubordination",
-            "translation": "以…为特征",
+            "translation": "动荡的",
             "examples": []
           }
         ]
@@ -138727,8 +138727,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -145584,19 +145584,19 @@
           {
             "id": "twist-noun-1",
             "definition": "any clever maneuver",
-            "translation": "扭",
+            "translation": "花招",
             "examples": []
           },
           {
             "id": "twist-noun-2",
             "definition": "the act of rotating rapidly",
-            "translation": "扭",
+            "translation": "快速旋转",
             "examples": []
           },
           {
             "id": "twist-noun-3",
             "definition": "turning or twisting around, in place",
-            "translation": "扭",
+            "translation": "盘旋",
             "examples": [
               {
                 "text": "They surveyed the room with a quick twist of their head.",
@@ -145607,61 +145607,61 @@
           {
             "id": "twist-noun-4",
             "definition": "the act of winding or twisting",
-            "translation": "扭",
+            "translation": "缠绕",
             "examples": []
           },
           {
             "id": "twist-noun-5",
             "definition": "social dancing in which couples vigorously twist their hips and arms in time to the music",
-            "translation": "扭",
+            "translation": "扭摆舞",
             "examples": []
           },
           {
             "id": "twist-noun-6",
             "definition": "a hairdo formed by braiding or twisting the hair",
-            "translation": "扭",
+            "translation": "辫发",
             "examples": []
           },
           {
             "id": "twist-noun-7",
             "definition": "an interpretation of a text or action",
-            "translation": "扭",
+            "translation": "曲解",
             "examples": []
           },
           {
             "id": "twist-noun-8",
             "definition": "a jerky pulling movement",
-            "translation": "扭",
+            "translation": "猛扭",
             "examples": []
           },
           {
             "id": "twist-noun-9",
             "definition": "an unforeseen development",
-            "translation": "扭",
+            "translation": "意外发展",
             "examples": []
           },
           {
             "id": "twist-noun-10",
             "definition": "a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself",
-            "translation": "扭",
+            "translation": "小漩涡",
             "examples": []
           },
           {
             "id": "twist-noun-11",
             "definition": "a circular segment of a curve",
-            "translation": "扭",
+            "translation": "弧段",
             "examples": []
           },
           {
             "id": "twist-noun-12",
             "definition": "a sharp bend in a line produced when a line having a loop is pulled tight",
-            "translation": "扭",
+            "translation": "急弯",
             "examples": []
           },
           {
             "id": "twist-noun-13",
             "definition": "a sharp strain on muscles or ligaments",
-            "translation": "扭",
+            "translation": "扭伤",
             "examples": []
           }
         ]
@@ -145672,25 +145672,25 @@
           {
             "id": "twist-verb-1",
             "definition": "twist suddenly so as to sprain",
-            "translation": "扭",
+            "translation": "扭伤",
             "examples": []
           },
           {
             "id": "twist-verb-2",
             "definition": "form into twists",
-            "translation": "形式",
+            "translation": "搓成",
             "examples": []
           },
           {
             "id": "twist-verb-3",
             "definition": "practice sophistry",
-            "translation": "实践",
+            "translation": "诡辩",
             "examples": []
           },
           {
             "id": "twist-verb-4",
             "definition": "turn in the opposite direction",
-            "translation": "扭",
+            "translation": "反向",
             "examples": [
               {
                 "text": "twist one's head",
@@ -145701,7 +145701,7 @@
           {
             "id": "twist-verb-5",
             "definition": "form into a spiral shape",
-            "translation": "形式",
+            "translation": "盘旋",
             "examples": [
               {
                 "text": "The cord is all twisted",
@@ -145712,31 +145712,31 @@
           {
             "id": "twist-verb-6",
             "definition": "cause (a plastic object) to assume a crooked or angular form",
-            "translation": "扭",
+            "translation": "扭曲",
             "examples": []
           },
           {
             "id": "twist-verb-7",
             "definition": "twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates",
-            "translation": "扭",
+            "translation": "猛扭",
             "examples": []
           },
           {
             "id": "twist-verb-8",
             "definition": "to move in a twisting or contorted motion, (especially when struggling)",
-            "translation": "扭",
+            "translation": "扭动",
             "examples": []
           },
           {
             "id": "twist-verb-9",
             "definition": "do the twist",
-            "translation": "扭",
+            "translation": "跳扭摆舞",
             "examples": []
           },
           {
             "id": "twist-verb-10",
             "definition": "extend in curves and turns",
-            "translation": "扭",
+            "translation": "蜿蜒",
             "examples": []
           }
         ]
@@ -145789,8 +145789,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -147614,7 +147614,7 @@
           {
             "id": "typhoon-noun-1",
             "definition": "a tropical cyclone occurring in the western Pacific or Indian oceans",
-            "translation": "",
+            "translation": "台风",
             "examples": [
               {
                 "text": "When we heard that a typhoon was coming, we headed for safety.",
@@ -147627,8 +147627,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -29144,7 +29144,7 @@
           {
             "id": "vigorous-adjective-1",
             "definition": "characterized by forceful and energetic action or activity",
-            "translation": "以…为特征",
+            "translation": "强有力的",
             "examples": [
               {
                 "text": "A vigorous hiker can reach the summit in four hours.",
@@ -29155,7 +29155,7 @@
           {
             "id": "vigorous-adjective-2",
             "definition": "strong and active physically or mentally",
-            "translation": "",
+            "translation": "精力充沛的",
             "examples": [
               {
                 "text": "They were a vigorous athlete despite their advanced age.",
@@ -29168,8 +29168,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -51026,7 +51026,7 @@
           {
             "id": "outset-noun-1",
             "definition": "the time at which something is supposed to begin",
-            "translation": "",
+            "translation": "开端",
             "examples": []
           }
         ]
@@ -51034,8 +51034,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

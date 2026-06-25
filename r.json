@@ -12831,7 +12831,7 @@
           {
             "id": "range-noun-1",
             "definition": "a place for shooting (firing or driving) projectiles of various kinds",
-            "translation": "范围",
+            "translation": "射击场",
             "examples": [
               {
                 "text": "the army maintains a missile range in the desert",
@@ -12842,13 +12842,13 @@
           {
             "id": "range-noun-2",
             "definition": "a kitchen appliance used for cooking food",
-            "translation": "范围",
+            "translation": "炉灶",
             "examples": []
           },
           {
             "id": "range-noun-3",
             "definition": "an area in which something acts or operates or has power or control: 'the range of a supersonic jet'",
-            "translation": "范围",
+            "translation": "作用范围",
             "examples": [
               {
                 "text": "a piano has a greater range than the human voice",
@@ -12859,19 +12859,19 @@
           {
             "id": "range-noun-4",
             "definition": "the limit of capability",
-            "translation": "能力的限制",
+            "translation": "极限",
             "examples": []
           },
           {
             "id": "range-noun-5",
             "definition": "(mathematics) the set of values of the dependent variable for which a function is defined",
-            "translation": "范围",
+            "translation": "值域",
             "examples": []
           },
           {
             "id": "range-noun-6",
             "definition": "a variety of different things or activities",
-            "translation": "范围",
+            "translation": "种类",
             "examples": [
               {
                 "text": "The speaker answered a range of questions.",
@@ -12882,7 +12882,7 @@
           {
             "id": "range-noun-7",
             "definition": "the limits within which something can be effective",
-            "translation": "范围",
+            "translation": "有效范围",
             "examples": [
               {
                 "text": "range of motion",
@@ -12893,7 +12893,7 @@
           {
             "id": "range-noun-8",
             "definition": "a large tract of grassy open land on which livestock can graze",
-            "translation": "范围",
+            "translation": "牧场",
             "examples": [
               {
                 "text": "they used to drive the cattle across the open range every spring",
@@ -12904,7 +12904,7 @@
           {
             "id": "range-noun-9",
             "definition": "a series of hills or mountains",
-            "translation": "范围",
+            "translation": "山脉",
             "examples": [
               {
                 "text": "the valley was between two ranges of hills",
@@ -12920,13 +12920,13 @@
           {
             "id": "range-verb-1",
             "definition": "assign a rank or rating to",
-            "translation": "范围",
+            "translation": "评定",
             "examples": []
           },
           {
             "id": "range-verb-2",
             "definition": "let eat",
-            "translation": "范围",
+            "translation": "放牧",
             "examples": [
               {
                 "text": "range the animals in the prairie",
@@ -12937,31 +12937,31 @@
           {
             "id": "range-verb-3",
             "definition": "lay out orderly or logically in a line or as if in a line",
-            "translation": "范围",
+            "translation": "排列",
             "examples": []
           },
           {
             "id": "range-verb-4",
             "definition": "feed as in a meadow or pasture",
-            "translation": "范围",
+            "translation": "放牧",
             "examples": []
           },
           {
             "id": "range-verb-5",
             "definition": "move about aimlessly or without any destination, often in search of food or employment",
-            "translation": "范围",
+            "translation": "漫游",
             "examples": []
           },
           {
             "id": "range-verb-6",
             "definition": "range or extend over",
-            "translation": "范围",
+            "translation": "延伸",
             "examples": []
           },
           {
             "id": "range-verb-7",
             "definition": "change or be different within limits",
-            "translation": "范围",
+            "translation": "变动",
             "examples": [
               {
                 "text": "Estimates for the losses in the earthquake range as high as $2 billion",
@@ -12972,7 +12972,7 @@
           {
             "id": "range-verb-8",
             "definition": "have a range",
-            "translation": "范围",
+            "translation": "涉及",
             "examples": []
           }
         ]
@@ -13037,8 +13037,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -13403,7 +13403,7 @@
           {
             "id": "rank-adjective-1",
             "definition": "growing profusely",
-            "translation": "排名",
+            "translation": "繁茂的",
             "examples": [
               {
                 "text": "rank jungle vegetation",
@@ -13414,19 +13414,19 @@
           {
             "id": "rank-adjective-2",
             "definition": "conspicuously and outrageously bad or reprehensible",
-            "translation": "排名",
+            "translation": "令人震惊的差",
             "examples": []
           },
           {
             "id": "rank-adjective-3",
             "definition": "very fertile",
-            "translation": "排名",
+            "translation": "肥沃的",
             "examples": []
           },
           {
             "id": "rank-adjective-4",
             "definition": "very offensive in smell or taste",
-            "translation": "排名",
+            "translation": "腥臭的",
             "examples": [
               {
                 "text": "a rank cigar",
@@ -13437,7 +13437,7 @@
           {
             "id": "rank-adjective-5",
             "definition": "complete and without restriction or qualification",
-            "translation": "完整且无限制或条件的",
+            "translation": "彻底的",
             "examples": []
           }
         ]
@@ -13448,7 +13448,7 @@
           {
             "id": "rank-noun-1",
             "definition": "the ordinary members of an organization (such as the enlisted soldiers of an army)",
-            "translation": "排名",
+            "translation": "普通士兵",
             "examples": [
               {
                 "text": "the strike was supported by the union rank and file",
@@ -13459,13 +13459,13 @@
           {
             "id": "rank-noun-2",
             "definition": "the body of members of an organization or group",
-            "translation": "排名",
+            "translation": "成员",
             "examples": []
           },
           {
             "id": "rank-noun-3",
             "definition": "a row or line of people, especially soldiers or police, standing abreast of one another",
-            "translation": "排名",
+            "translation": "队列",
             "examples": [
               {
                 "text": "The entrance was guarded by ranks of police. ",
@@ -13476,13 +13476,13 @@
           {
             "id": "rank-noun-4",
             "definition": "position in a social hierarchy",
-            "translation": "排名",
+            "translation": "地位",
             "examples": []
           },
           {
             "id": "rank-noun-5",
             "definition": "relative status",
-            "translation": "排名",
+            "translation": "等级",
             "examples": [
               {
                 "text": "Their salary was determined by rank and seniority.",
@@ -13498,7 +13498,7 @@
           {
             "id": "rank-verb-1",
             "definition": "assign a rank or rating to",
-            "translation": "排名",
+            "translation": "评定",
             "examples": [
               {
                 "text": "how would you rank these students?",
@@ -13509,7 +13509,7 @@
           {
             "id": "rank-verb-2",
             "definition": "take or have a position relative to others",
-            "translation": "拿",
+            "translation": "排名",
             "examples": [
               {
                 "text": "This painting ranks among the best in the Western World",
@@ -13520,7 +13520,7 @@
           {
             "id": "rank-verb-3",
             "definition": "take precedence or surpass others in rank",
-            "translation": "拿",
+            "translation": "超越",
             "examples": []
           }
         ]
@@ -13545,8 +13545,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -21579,7 +21579,7 @@
           {
             "id": "raw-adjective-1",
             "definition": "not processed or subjected to analysis",
-            "translation": "生的",
+            "translation": "原始数据",
             "examples": [
               {
                 "text": "raw data",
@@ -21590,7 +21590,7 @@
           {
             "id": "raw-adjective-2",
             "definition": "completely unclothed",
-            "translation": "生的",
+            "translation": "赤裸的",
             "examples": [
               {
                 "text": "The artist sketched the model's raw form.",
@@ -21601,19 +21601,19 @@
           {
             "id": "raw-adjective-3",
             "definition": "not treated with heat to prepare it for eating",
-            "translation": "生的",
+            "translation": "未煮的",
             "examples": []
           },
           {
             "id": "raw-adjective-4",
             "definition": "lacking training or experience",
-            "translation": "生的",
+            "translation": "缺乏经验的",
             "examples": []
           },
           {
             "id": "raw-adjective-5",
             "definition": "brutally unfair or harsh",
-            "translation": "生的",
+            "translation": "残酷的",
             "examples": [
               {
                 "text": "They received raw treatment from their friends.",
@@ -21624,13 +21624,13 @@
           {
             "id": "raw-adjective-6",
             "definition": "unpleasantly cold and damp",
-            "translation": "生的",
+            "translation": "阴冷的",
             "examples": []
           },
           {
             "id": "raw-adjective-7",
             "definition": "having the surface exposed and painful",
-            "translation": "生的",
+            "translation": "裸露疼痛的",
             "examples": [
               {
                 "text": "a raw wound",
@@ -21641,19 +21641,19 @@
           {
             "id": "raw-adjective-8",
             "definition": "devoid of elaboration or diminution or concealment",
-            "translation": "生的",
+            "translation": "未经修饰的",
             "examples": []
           },
           {
             "id": "raw-adjective-9",
             "definition": "hurting",
-            "translation": "生的",
+            "translation": "刺痛的",
             "examples": []
           },
           {
             "id": "raw-adjective-10",
             "definition": "untempered and unrefined",
-            "translation": "生的",
+            "translation": "未调和的",
             "examples": [
               {
                 "text": "raw talent",
@@ -21664,7 +21664,7 @@
           {
             "id": "raw-adjective-11",
             "definition": "not processed or refined",
-            "translation": "生的",
+            "translation": "未经加工的",
             "examples": [
               {
                 "text": "raw sewage",
@@ -21675,13 +21675,13 @@
           {
             "id": "raw-adjective-12",
             "definition": "used of wood and furniture",
-            "translation": "生的",
+            "translation": "原木制的",
             "examples": []
           },
           {
             "id": "raw-adjective-13",
             "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes",
-            "translation": "生的",
+            "translation": "原材料的",
             "examples": []
           }
         ]
@@ -21692,7 +21692,7 @@
           {
             "id": "raw-noun-1",
             "definition": "informal terms for nakedness",
-            "translation": "裸体的非正式说法",
+            "translation": "赤裸",
             "examples": [
               {
                 "text": "in the raw",
@@ -21705,8 +21705,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24304,13 +24304,13 @@
           {
             "id": "readily-adverb-1",
             "definition": "in a punctual manner",
-            "translation": "",
+            "translation": "迅速地",
             "examples": []
           },
           {
             "id": "readily-adverb-2",
             "definition": "without much difficulty",
-            "translation": "没有许多困难",
+            "translation": "容易地",
             "examples": [
               {
                 "text": "these snakes can be identified readily",
@@ -24323,8 +24323,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -37403,7 +37403,7 @@
           {
             "id": "record-noun-1",
             "definition": "a document that can serve as legal evidence of a transaction",
-            "translation": "记录",
+            "translation": "档案",
             "examples": [
               {
                 "text": "they could find no record of the purchase",
@@ -37414,7 +37414,7 @@
           {
             "id": "record-noun-2",
             "definition": "the number of wins versus losses and ties a team has had",
-            "translation": "记录",
+            "translation": "战绩",
             "examples": [
               {
                 "text": "at 9-0 they have the best record in their league",
@@ -37425,7 +37425,7 @@
           {
             "id": "record-noun-3",
             "definition": "the sum of recognized accomplishments",
-            "translation": "记录",
+            "translation": "成就",
             "examples": [
               {
                 "text": "the lawyer has a good record",
@@ -37436,19 +37436,19 @@
           {
             "id": "record-noun-4",
             "definition": "an extreme attainment",
-            "translation": "记录",
+            "translation": "最高纪录",
             "examples": []
           },
           {
             "id": "record-noun-5",
             "definition": "sound recording consisting of a disk with a continuous groove",
-            "translation": "记录",
+            "translation": "唱片",
             "examples": []
           },
           {
             "id": "record-noun-6",
             "definition": "a list of crimes for which an accused person has been previously convicted",
-            "translation": "记录",
+            "translation": "前科",
             "examples": [
               {
                 "text": "They ruled that the criminal record of the defendant could not be disclosed to the court.",
@@ -37459,7 +37459,7 @@
           {
             "id": "record-noun-7",
             "definition": "a compilation of the known facts regarding something or someone",
-            "translation": "记录",
+            "translation": "事实汇编",
             "examples": [
               {
                 "text": "Al Smith used to say, `Let's look at the record'",
@@ -37470,7 +37470,7 @@
           {
             "id": "record-noun-8",
             "definition": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
-            "translation": "记录",
+            "translation": "凭证",
             "examples": [
               {
                 "text": "the film provided a valuable record of stage techniques",
@@ -37486,19 +37486,19 @@
           {
             "id": "record-verb-1",
             "definition": "be or provide a memorial to a person or an event",
-            "translation": "记录",
+            "translation": "纪念",
             "examples": []
           },
           {
             "id": "record-verb-2",
             "definition": "indicate a certain reading",
-            "translation": "通过一个确定的阅读表明",
+            "translation": "读数为",
             "examples": []
           },
           {
             "id": "record-verb-3",
             "definition": "register electronically",
-            "translation": "注册",
+            "translation": "录制",
             "examples": [
               {
                 "text": "They recorded our singing.",
@@ -37509,13 +37509,13 @@
           {
             "id": "record-verb-4",
             "definition": "make a record of",
-            "translation": "制造",
+            "translation": "记载",
             "examples": []
           },
           {
             "id": "record-verb-5",
             "definition": "be aware of",
-            "translation": "记录",
+            "translation": "意识到",
             "examples": []
           }
         ]
@@ -37552,8 +37552,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -53927,43 +53927,43 @@
           {
             "id": "register-noun-1",
             "definition": "a cashbox with an adding machine to register transactions",
-            "translation": "注册",
+            "translation": "收银机",
             "examples": []
           },
           {
             "id": "register-noun-2",
             "definition": "a regulator (as a sliding plate) for regulating the flow of air into a furnace or other heating device",
-            "translation": "注册",
+            "translation": "调节器",
             "examples": []
           },
           {
             "id": "register-noun-3",
             "definition": "an air passage (usually in the floor or a wall of a room) for admitting or excluding heated air from the room",
-            "translation": "注册",
+            "translation": "通风口",
             "examples": []
           },
           {
             "id": "register-noun-4",
             "definition": "(computer science) memory device that is the part of computer memory that has a specific address and that is used to hold information of a specific kind",
-            "translation": "注册",
+            "translation": "寄存器",
             "examples": []
           },
           {
             "id": "register-noun-5",
             "definition": "(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments",
-            "translation": "注册",
+            "translation": "音区",
             "examples": []
           },
           {
             "id": "register-noun-6",
             "definition": "an official written record of names or events or transactions",
-            "translation": "注册",
+            "translation": "登记簿",
             "examples": []
           },
           {
             "id": "register-noun-7",
             "definition": "a book in which names and transactions are listed",
-            "translation": "注册",
+            "translation": "名册",
             "examples": []
           }
         ]
@@ -53974,7 +53974,7 @@
           {
             "id": "register-verb-1",
             "definition": "enter into someone's consciousness",
-            "translation": "注册",
+            "translation": "被意识到",
             "examples": [
               {
                 "text": "Did this event register in your parents' minds?",
@@ -53985,19 +53985,19 @@
           {
             "id": "register-verb-2",
             "definition": "indicate a certain reading",
-            "translation": "通过一个确定的阅读表明",
+            "translation": "显示读数",
             "examples": []
           },
           {
             "id": "register-verb-3",
             "definition": "record in a public office or in a court of law",
-            "translation": "记录",
+            "translation": "登记备案",
             "examples": []
           },
           {
             "id": "register-verb-4",
             "definition": "send by registered mail",
-            "translation": "注册",
+            "translation": "挂号邮寄",
             "examples": [
               {
                 "text": "I'd like to register this letter",
@@ -54008,13 +54008,13 @@
           {
             "id": "register-verb-5",
             "definition": "manipulate the registers of an organ",
-            "translation": "注册",
+            "translation": "调音栓",
             "examples": []
           },
           {
             "id": "register-verb-6",
             "definition": "be aware of",
-            "translation": "注册",
+            "translation": "意识到",
             "examples": [
               {
                 "text": "Did you register any change when I pressed the button?",
@@ -54025,7 +54025,7 @@
           {
             "id": "register-verb-7",
             "definition": "show in one's face",
-            "translation": "展示",
+            "translation": "流露",
             "examples": [
               {
                 "text": "Their surprise did not register.",
@@ -54036,7 +54036,7 @@
           {
             "id": "register-verb-8",
             "definition": "enroll to vote",
-            "translation": "注册",
+            "translation": "登记投票",
             "examples": [
               {
                 "text": "register for an election",
@@ -54053,7 +54053,7 @@
           {
             "id": "register-verb-10",
             "definition": "have one's name listed as a candidate for several parties",
-            "translation": "注册",
+            "translation": "登记为候选人",
             "examples": []
           }
         ]
@@ -54082,8 +54082,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -55032,13 +55032,13 @@
           {
             "id": "regular-adjective-1",
             "definition": "often used as intensifiers",
-            "translation": "规则的",
+            "translation": "十足的",
             "examples": []
           },
           {
             "id": "regular-adjective-2",
             "definition": "in accord with regular practice or procedure",
-            "translation": "规则的",
+            "translation": "常规的",
             "examples": [
               {
                 "text": "I took my regular morning walk earlier today.",
@@ -55049,13 +55049,13 @@
           {
             "id": "regular-adjective-3",
             "definition": "not constipated",
-            "translation": "规则的",
+            "translation": "正常的",
             "examples": []
           },
           {
             "id": "regular-adjective-4",
             "definition": "relating to a person who does something regularly",
-            "translation": "规则的地的",
+            "translation": "经常的",
             "examples": [
               {
                 "text": "a regular customer",
@@ -55066,7 +55066,7 @@
           {
             "id": "regular-adjective-5",
             "definition": "officially full-time",
-            "translation": "规则的",
+            "translation": "全职的",
             "examples": [
               {
                 "text": "regular students",
@@ -55077,7 +55077,7 @@
           {
             "id": "regular-adjective-6",
             "definition": "not deviating from what is normal",
-            "translation": "规则的",
+            "translation": "正规的",
             "examples": [
               {
                 "text": "The went to sleep every night at their regular bedtime.",
@@ -55088,7 +55088,7 @@
           {
             "id": "regular-adjective-7",
             "definition": "in accordance with fixed order or procedure or principle",
-            "translation": "规则的",
+            "translation": "规范的",
             "examples": [
               {
                 "text": "My regular calls on customers paid off in the end.",
@@ -55099,13 +55099,13 @@
           {
             "id": "regular-adjective-8",
             "definition": "(of solids) having clear dimensions that can be measured",
-            "translation": "规则的",
+            "translation": "等边的",
             "examples": []
           },
           {
             "id": "regular-adjective-9",
             "definition": "(used of the military) belonging to or engaged in by legitimate army forces",
-            "translation": "规则的",
+            "translation": "正规军的",
             "examples": [
               {
                 "text": "the regular army",
@@ -55116,7 +55116,7 @@
           {
             "id": "regular-adjective-10",
             "definition": "conforming to a standard or pattern",
-            "translation": "规则的",
+            "translation": "标准的",
             "examples": [
               {
                 "text": "following the regular procedure of the legislature",
@@ -55127,7 +55127,7 @@
           {
             "id": "regular-adjective-11",
             "definition": "occurring at fixed intervals",
-            "translation": "规则的",
+            "translation": "定时的",
             "examples": [
               {
                 "text": "a regular beat",
@@ -55138,7 +55138,7 @@
           {
             "id": "regular-adjective-12",
             "definition": "regularly scheduled for fixed times",
-            "translation": "规则的",
+            "translation": "定期的",
             "examples": [
               {
                 "text": "at a regular meeting of the PTA",
@@ -55149,7 +55149,7 @@
           {
             "id": "regular-adjective-13",
             "definition": "symmetrically arranged",
-            "translation": "规则的",
+            "translation": "对称的",
             "examples": []
           }
         ]
@@ -55160,7 +55160,7 @@
           {
             "id": "regular-noun-1",
             "definition": "a dependable follower, especially in party politics",
-            "translation": "规则的",
+            "translation": "常客",
             "examples": [
               {
                 "text": "They were one of the party regulars.",
@@ -55171,19 +55171,19 @@
           {
             "id": "regular-noun-2",
             "definition": "a soldier in the regular army",
-            "translation": "规则的",
+            "translation": "正规军士兵",
             "examples": []
           },
           {
             "id": "regular-noun-3",
             "definition": "a garment size for persons of average height and weight",
-            "translation": "规则的",
+            "translation": "标准尺码",
             "examples": []
           },
           {
             "id": "regular-noun-4",
             "definition": "a regular patron",
-            "translation": "规则的",
+            "translation": "老主顾",
             "examples": []
           }
         ]
@@ -55191,8 +55191,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60727,43 +60727,43 @@
           {
             "id": "release-noun-1",
             "definition": "the act of liberating someone or something",
-            "translation": "释放",
+            "translation": "解放",
             "examples": []
           },
           {
             "id": "release-noun-2",
             "definition": "(music) the act or manner of terminating a musical phrase or tone",
-            "translation": "释放",
+            "translation": "终止",
             "examples": []
           },
           {
             "id": "release-noun-3",
             "definition": "a formal written statement of relinquishment",
-            "translation": "释放",
+            "translation": "放弃声明",
             "examples": []
           },
           {
             "id": "release-noun-4",
             "definition": "the termination of someone's employment (leaving them free to depart)",
-            "translation": "释放",
+            "translation": "解雇",
             "examples": []
           },
           {
             "id": "release-noun-5",
             "definition": "the act of allowing a fluid to escape",
-            "translation": "释放",
+            "translation": "释放液",
             "examples": []
           },
           {
             "id": "release-noun-6",
             "definition": "activity that frees or expresses creative energy or emotion",
-            "translation": "释放",
+            "translation": "宣泄",
             "examples": []
           },
           {
             "id": "release-noun-7",
             "definition": "merchandise issued for sale or public showing (especially a record or film)",
-            "translation": "释放",
+            "translation": "发行物",
             "examples": [
               {
                 "text": "a new release from the London Symphony Orchestra",
@@ -60774,31 +60774,31 @@
           {
             "id": "release-noun-8",
             "definition": "a device that when pressed will release part of a mechanism",
-            "translation": "释放",
+            "translation": "释放装置",
             "examples": []
           },
           {
             "id": "release-noun-9",
             "definition": "a legal document evidencing the discharge of a debt or obligation",
-            "translation": "法律文件",
+            "translation": "免责书",
             "examples": []
           },
           {
             "id": "release-noun-10",
             "definition": "an announcement distributed to members of the press in order to supplement or replace an oral presentation",
-            "translation": "释放",
+            "translation": "新闻稿",
             "examples": []
           },
           {
             "id": "release-noun-11",
             "definition": "euphemistic expressions for death",
-            "translation": "释放",
+            "translation": "去世",
             "examples": []
           },
           {
             "id": "release-noun-12",
             "definition": "a process that liberates or discharges something",
-            "translation": "释放",
+            "translation": "释放过程",
             "examples": [
               {
                 "text": "there was a sudden release of oxygen",
@@ -60814,19 +60814,19 @@
           {
             "id": "release-verb-1",
             "definition": "generate and separate from cells or bodily fluids",
-            "translation": "产生",
+            "translation": "分泌",
             "examples": []
           },
           {
             "id": "release-verb-2",
             "definition": "eliminate (a substance)",
-            "translation": "释放",
+            "translation": "排出",
             "examples": []
           },
           {
             "id": "release-verb-3",
             "definition": "make (assets) available",
-            "translation": "制造",
+            "translation": "调拨",
             "examples": [
               {
                 "text": "release the holdings in the dictator's bank account",
@@ -60837,31 +60837,31 @@
           {
             "id": "release-verb-4",
             "definition": "prepare and issue for public distribution or sale",
-            "translation": "释放",
+            "translation": "发行",
             "examples": []
           },
           {
             "id": "release-verb-5",
             "definition": "let (something) fall or spill from a container",
-            "translation": "释放",
+            "translation": "倾倒",
             "examples": []
           },
           {
             "id": "release-verb-6",
             "definition": "release, as from one's grip",
-            "translation": "释放",
+            "translation": "松手",
             "examples": []
           },
           {
             "id": "release-verb-7",
             "definition": "release (gas or energy) as a result of a chemical reaction or physical decomposition",
-            "translation": "释放",
+            "translation": "释放能量",
             "examples": []
           },
           {
             "id": "release-verb-8",
             "definition": "part with a possession or right",
-            "translation": "分离；分开",
+            "translation": "放弃",
             "examples": []
           },
           {
@@ -60873,7 +60873,7 @@
           {
             "id": "release-verb-10",
             "definition": "make (information) available for publication",
-            "translation": "制造",
+            "translation": "公开",
             "examples": [
               {
                 "text": "release the list with the names of the prisoners",
@@ -60927,8 +60927,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -67479,7 +67479,7 @@
           {
             "id": "render-noun-1",
             "definition": "a substance similar to stucco but exclusively applied to masonry walls",
-            "translation": "使得",
+            "translation": "灰泥",
             "examples": []
           }
         ]
@@ -67490,7 +67490,7 @@
           {
             "id": "render-verb-1",
             "definition": "cause to become",
-            "translation": "使得",
+            "translation": "使变成",
             "examples": [
               {
                 "text": "The shot rendered them immobile.",
@@ -67501,25 +67501,25 @@
           {
             "id": "render-verb-2",
             "definition": "melt (fat or lard) in order to separate out impurities",
-            "translation": "使得",
+            "translation": "炼脂",
             "examples": []
           },
           {
             "id": "render-verb-3",
             "definition": "restate (words) from one language into another language",
-            "translation": "使得",
+            "translation": "翻译",
             "examples": []
           },
           {
             "id": "render-verb-4",
             "definition": "bestow",
-            "translation": "使得",
+            "translation": "给予",
             "examples": []
           },
           {
             "id": "render-verb-5",
             "definition": "pass down",
-            "translation": "使得",
+            "translation": "传承",
             "examples": [
               {
                 "text": "render a verdict",
@@ -67530,7 +67530,7 @@
           {
             "id": "render-verb-6",
             "definition": "coat with plastic or cement",
-            "translation": "使得",
+            "translation": "涂抹灰泥",
             "examples": [
               {
                 "text": "render the brick walls in the den",
@@ -67541,19 +67541,19 @@
           {
             "id": "render-verb-7",
             "definition": "give or supply",
-            "translation": "使得",
+            "translation": "提供",
             "examples": []
           },
           {
             "id": "render-verb-8",
             "definition": "show in, or as in, a picture",
-            "translation": "展示",
+            "translation": "描绘",
             "examples": []
           },
           {
             "id": "render-verb-9",
             "definition": "give an interpretation or rendition of",
-            "translation": "使得",
+            "translation": "演绎",
             "examples": [
               {
                 "text": "The pianist rendered the Beethoven sonata beautifully",
@@ -67564,13 +67564,13 @@
           {
             "id": "render-verb-10",
             "definition": "to surrender someone or something to another",
-            "translation": "使得",
+            "translation": "交出",
             "examples": []
           },
           {
             "id": "render-verb-11",
             "definition": "give back",
-            "translation": "使得",
+            "translation": "归还",
             "examples": [
               {
                 "text": "render money",
@@ -67581,7 +67581,7 @@
           {
             "id": "render-verb-12",
             "definition": "make over as a return",
-            "translation": "制造",
+            "translation": "回报",
             "examples": [
               {
                 "text": "They had to render the estate",
@@ -67592,7 +67592,7 @@
           {
             "id": "render-verb-13",
             "definition": "give something useful or necessary to",
-            "translation": "使得",
+            "translation": "提供",
             "examples": []
           }
         ]
@@ -67617,8 +67617,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -74446,19 +74446,19 @@
           {
             "id": "represent-verb-1",
             "definition": "to establish a mapping (of mathematical elements or sets)",
-            "translation": "代表",
+            "translation": "映射",
             "examples": []
           },
           {
             "id": "represent-verb-2",
             "definition": "bring forward and present to the mind",
-            "translation": "代表",
+            "translation": "呈现",
             "examples": []
           },
           {
             "id": "represent-verb-3",
             "definition": "point out or draw attention to in protest or remonstrance",
-            "translation": "代表",
+            "translation": "指出",
             "examples": [
               {
                 "text": "our parents represented to us the need for more caution",
@@ -74469,13 +74469,13 @@
           {
             "id": "represent-verb-4",
             "definition": "express indirectly by an image, form, or model",
-            "translation": "代表",
+            "translation": "象征",
             "examples": []
           },
           {
             "id": "represent-verb-5",
             "definition": "describe or present, usually with respect to a particular quality",
-            "translation": "描述",
+            "translation": "描绘",
             "examples": [
               {
                 "text": "They represented this book as an example of the Russian 19th century novel.",
@@ -74486,7 +74486,7 @@
           {
             "id": "represent-verb-6",
             "definition": "serve as a means of expressing something",
-            "translation": "代表",
+            "translation": "表达",
             "examples": [
               {
                 "text": "The flower represents a young girl",
@@ -74497,7 +74497,7 @@
           {
             "id": "represent-verb-7",
             "definition": "create an image or likeness of",
-            "translation": "创造",
+            "translation": "塑造",
             "examples": [
               {
                 "text": "The painter represented their spouse as a youth.",
@@ -74508,19 +74508,19 @@
           {
             "id": "represent-verb-8",
             "definition": "perform (a play), especially on a stage",
-            "translation": "代表",
+            "translation": "上演",
             "examples": []
           },
           {
             "id": "represent-verb-9",
             "definition": "play a role or part",
-            "translation": "分离；分开",
+            "translation": "扮演",
             "examples": []
           },
           {
             "id": "represent-verb-10",
             "definition": "be a delegate or spokesperson for",
-            "translation": "代表",
+            "translation": "代言",
             "examples": [
               {
                 "text": "represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute",
@@ -74542,7 +74542,7 @@
           {
             "id": "represent-verb-12",
             "definition": "be the defense counsel for someone in a trial",
-            "translation": "代表",
+            "translation": "为…辩护",
             "examples": [
               {
                 "text": "Ms. Smith will represent the defendant",
@@ -74553,19 +74553,19 @@
           {
             "id": "represent-verb-13",
             "definition": "form or compose",
-            "translation": "形式",
+            "translation": "组成",
             "examples": []
           },
           {
             "id": "represent-verb-14",
             "definition": "take the place of or be parallel or equivalent to",
-            "translation": "拿",
+            "translation": "相当于",
             "examples": []
           },
           {
             "id": "represent-verb-15",
             "definition": "be characteristic of",
-            "translation": "代表",
+            "translation": "体现",
             "examples": []
           }
         ]
@@ -74578,8 +74578,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -97516,19 +97516,19 @@
           {
             "id": "reverse-adjective-1",
             "definition": "reversed (turned backward) in order or nature or effect",
-            "translation": "反转的",
+            "translation": "反向的",
             "examples": []
           },
           {
             "id": "reverse-adjective-2",
             "definition": "directed or moving toward the rear",
-            "translation": "反转的",
+            "translation": "向后的",
             "examples": []
           },
           {
             "id": "reverse-adjective-3",
             "definition": "of the transmission gear causing backward movement in a motor vehicle",
-            "translation": "车辆的",
+            "translation": "倒挡的",
             "examples": [
               {
                 "text": "in reverse gear",
@@ -97544,37 +97544,37 @@
           {
             "id": "reverse-noun-1",
             "definition": "turning in the opposite direction",
-            "translation": "反转的",
+            "translation": "反向",
             "examples": []
           },
           {
             "id": "reverse-noun-2",
             "definition": "(American football) a running play in which a back running in one direction hands the ball to a back running in the opposite direction",
-            "translation": "反转的",
+            "translation": "反向进攻",
             "examples": []
           },
           {
             "id": "reverse-noun-3",
             "definition": "the gears by which the motion of a machine can be reversed",
-            "translation": "反转的",
+            "translation": "倒车挡",
             "examples": []
           },
           {
             "id": "reverse-noun-4",
             "definition": "the side of a coin or medal that does not bear the principal design",
-            "translation": "反转的",
+            "translation": "硬币背面",
             "examples": []
           },
           {
             "id": "reverse-noun-5",
             "definition": "an unfortunate happening that hinders or impedes",
-            "translation": "反转的",
+            "translation": "挫折",
             "examples": []
           },
           {
             "id": "reverse-noun-6",
             "definition": "a relation of direct opposition",
-            "translation": "反转的",
+            "translation": "对立",
             "examples": [
               {
                 "text": "we thought Sue was older than Bill but just the reverse was true",
@@ -97590,7 +97590,7 @@
           {
             "id": "reverse-verb-1",
             "definition": "change to the contrary",
-            "translation": "反转的",
+            "translation": "颠倒",
             "examples": [
               {
                 "text": "The trend was reversed",
@@ -97601,25 +97601,25 @@
           {
             "id": "reverse-verb-2",
             "definition": "turn inside out or upside down",
-            "translation": "反转的",
+            "translation": "翻过来",
             "examples": []
           },
           {
             "id": "reverse-verb-3",
             "definition": "reverse the position, order, relation, or condition of",
-            "translation": "反转的",
+            "translation": "调换",
             "examples": []
           },
           {
             "id": "reverse-verb-4",
             "definition": "rule against",
-            "translation": "反转的",
+            "translation": "否决",
             "examples": []
           },
           {
             "id": "reverse-verb-5",
             "definition": "cancel officially",
-            "translation": "反转的",
+            "translation": "撤销",
             "examples": []
           }
         ]
@@ -97640,8 +97640,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -121610,43 +121610,43 @@
           {
             "id": "roll-noun-1",
             "definition": "the act of rolling something (as the ball in bowling)",
-            "translation": "滚动",
+            "translation": "滚球",
             "examples": []
           },
           {
             "id": "roll-noun-2",
             "definition": "a flight maneuver",
-            "translation": "滚动",
+            "translation": "翻滚",
             "examples": []
           },
           {
             "id": "roll-noun-3",
             "definition": "walking with a swaying gait",
-            "translation": "滚动",
+            "translation": "蹒跚步态",
             "examples": []
           },
           {
             "id": "roll-noun-4",
             "definition": "the act of throwing dice",
-            "translation": "滚动",
+            "translation": "掷骰子",
             "examples": []
           },
           {
             "id": "roll-noun-5",
             "definition": "anything rolled up in cylindrical form",
-            "translation": "滚动",
+            "translation": "卷状物",
             "examples": []
           },
           {
             "id": "roll-noun-6",
             "definition": "photographic film rolled up inside a container to protect it from light",
-            "translation": "滚动",
+            "translation": "胶卷",
             "examples": []
           },
           {
             "id": "roll-noun-7",
             "definition": "a document that can be rolled up for storage",
-            "translation": "滚动",
+            "translation": "卷轴",
             "examples": [
               {
                 "text": "I put the roll into its cannister.",
@@ -121657,7 +121657,7 @@
           {
             "id": "roll-noun-8",
             "definition": "a list of names",
-            "translation": "滚动",
+            "translation": "名单",
             "examples": [
               {
                 "text": "Your name was struck off the rolls.",
@@ -121668,37 +121668,37 @@
           {
             "id": "roll-noun-9",
             "definition": "a long heavy sea wave as it advances towards the shore",
-            "translation": "滚动",
+            "translation": "巨浪",
             "examples": []
           },
           {
             "id": "roll-noun-10",
             "definition": "the sound of a drum (especially a snare drum) beaten rapidly and continuously",
-            "translation": "滚动",
+            "translation": "鼓点声",
             "examples": []
           },
           {
             "id": "roll-noun-11",
             "definition": "a deep prolonged sound (as of thunder or large bells)",
-            "translation": "滚动",
+            "translation": "隆隆声",
             "examples": []
           },
           {
             "id": "roll-noun-12",
             "definition": "rotary motion of an object around its own axis",
-            "translation": "滚动",
+            "translation": "自转",
             "examples": []
           },
           {
             "id": "roll-noun-13",
             "definition": "small rounded bread either plain or sweet",
-            "translation": "滚动",
+            "translation": "小圆面包",
             "examples": []
           },
           {
             "id": "roll-noun-14",
             "definition": "a roll of currency notes, often taken as the resources of a person or business ",
-            "translation": "滚动",
+            "translation": "一卷钞票",
             "examples": [
               {
                 "text": "I shot my roll on a bob-tailed nag.",
@@ -121709,7 +121709,7 @@
           {
             "id": "roll-noun-15",
             "definition": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
-            "translation": "滚动",
+            "translation": "环形",
             "examples": []
           }
         ]
@@ -121731,7 +121731,7 @@
           {
             "id": "roll-verb-2",
             "definition": "move, rock, or sway from side to side",
-            "translation": "滚动",
+            "translation": "摇晃",
             "examples": [
               {
                 "text": "The ship rolled on the heavy seas",
@@ -121742,13 +121742,13 @@
           {
             "id": "roll-verb-3",
             "definition": "move about aimlessly or without any destination, often in search of food or employment",
-            "translation": "滚动",
+            "translation": "流浪",
             "examples": []
           },
           {
             "id": "roll-verb-4",
             "definition": "move along on or as if on wheels or a wheeled vehicle",
-            "translation": "滚动",
+            "translation": "行驶",
             "examples": [
               {
                 "text": "The President's convoy rolled past the crowds",
@@ -121759,13 +121759,13 @@
           {
             "id": "roll-verb-5",
             "definition": "move in a wavy pattern or with a rising and falling motion",
-            "translation": "滚动",
+            "translation": "起伏",
             "examples": []
           },
           {
             "id": "roll-verb-6",
             "definition": "emit, produce, or utter with a deep prolonged reverberating sound",
-            "translation": "产生；实现",
+            "translation": "发出隆隆声",
             "examples": [
               {
                 "text": "The thunder rolled",
@@ -121776,13 +121776,13 @@
           {
             "id": "roll-verb-7",
             "definition": "sell something to or obtain something from by energetic and especially underhanded activity",
-            "translation": "滚动",
+            "translation": "抢劫",
             "examples": []
           },
           {
             "id": "roll-verb-8",
             "definition": "occur in soft rounded shapes",
-            "translation": "滚动",
+            "translation": "成卷状",
             "examples": [
               {
                 "text": "The hills rolled past",
@@ -121793,7 +121793,7 @@
           {
             "id": "roll-verb-9",
             "definition": "execute a roll, in tumbling",
-            "translation": "滚动",
+            "translation": "翻滚",
             "examples": [
               {
                 "text": "The gymnasts rolled and jumped",
@@ -121804,7 +121804,7 @@
           {
             "id": "roll-verb-10",
             "definition": "show certain properties when being rolled",
-            "translation": "展示",
+            "translation": "展开",
             "examples": [
               {
                 "text": "The carpet rolls unevenly",
@@ -121815,7 +121815,7 @@
           {
             "id": "roll-verb-11",
             "definition": "take the shape of a roll or cylinder",
-            "translation": "拿",
+            "translation": "卷成筒状",
             "examples": [
               {
                 "text": "the carpet rolled out",
@@ -121826,7 +121826,7 @@
           {
             "id": "roll-verb-12",
             "definition": "shape by rolling",
-            "translation": "形状",
+            "translation": "卷制",
             "examples": [
               {
                 "text": "roll a cigarette",
@@ -121837,13 +121837,13 @@
           {
             "id": "roll-verb-13",
             "definition": "boil vigorously",
-            "translation": "滚动",
+            "translation": "沸腾",
             "examples": []
           },
           {
             "id": "roll-verb-14",
             "definition": "pronounce with a roll, of the phoneme /r/",
-            "translation": "滚动",
+            "translation": "发颤音",
             "examples": [
               {
                 "text": "They rolls their r's.",
@@ -121854,7 +121854,7 @@
           {
             "id": "roll-verb-15",
             "definition": "flatten or spread with a roller",
-            "translation": "滚动",
+            "translation": "碾平",
             "examples": [
               {
                 "text": "roll out the paper",
@@ -121865,7 +121865,7 @@
           {
             "id": "roll-verb-16",
             "definition": "arrange or or coil around",
-            "translation": "滚动",
+            "translation": "卷绕",
             "examples": [
               {
                 "text": "roll your hair around your finger",
@@ -121876,7 +121876,7 @@
           {
             "id": "roll-verb-17",
             "definition": "begin operating or running",
-            "translation": "滚动",
+            "translation": "开始运作",
             "examples": [
               {
                 "text": "The cameras were rolling",
@@ -121887,7 +121887,7 @@
           {
             "id": "roll-verb-18",
             "definition": "move by turning over or rotating",
-            "translation": "滚动",
+            "translation": "翻转",
             "examples": [
               {
                 "text": "The child rolled down the hill",
@@ -122209,8 +122209,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -129672,55 +129672,55 @@
           {
             "id": "rough-adjective-1",
             "definition": "ready and able to resort to force or violence",
-            "translation": "粗糙的",
+            "translation": "粗暴的",
             "examples": []
           },
           {
             "id": "rough-adjective-2",
             "definition": "unpleasantly harsh or grating in sound",
-            "translation": "粗糙的",
+            "translation": "刺耳的",
             "examples": []
           },
           {
             "id": "rough-adjective-3",
             "definition": "violently agitated and turbulent",
-            "translation": "粗糙的",
+            "translation": "汹涌的",
             "examples": []
           },
           {
             "id": "rough-adjective-4",
             "definition": "not shaped by cutting or trimming",
-            "translation": "粗糙的",
+            "translation": "粗加工的",
             "examples": []
           },
           {
             "id": "rough-adjective-5",
             "definition": "full of hardship or trials",
-            "translation": "充满",
+            "translation": "艰难的",
             "examples": []
           },
           {
             "id": "rough-adjective-6",
             "definition": "not quite exact or correct",
-            "translation": "不完全准确或正确",
+            "translation": "粗略的",
             "examples": []
           },
           {
             "id": "rough-adjective-7",
             "definition": "unkind or cruel or uncivil",
-            "translation": "粗糙的",
+            "translation": "粗鲁的",
             "examples": []
           },
           {
             "id": "rough-adjective-8",
             "definition": "unpleasantly stern",
-            "translation": "粗糙的",
+            "translation": "严厉的",
             "examples": []
           },
           {
             "id": "rough-adjective-9",
             "definition": "not perfected",
-            "translation": "粗糙的",
+            "translation": "未完成的",
             "examples": [
               {
                 "text": "a rough draft",
@@ -129731,7 +129731,7 @@
           {
             "id": "rough-adjective-10",
             "definition": "lacking refinement or finesse, of persons or behavior",
-            "translation": "粗糙的",
+            "translation": "粗俗的",
             "examples": [
               {
                 "text": "The rough child didn't know how to use cutlery properly.",
@@ -129748,7 +129748,7 @@
           {
             "id": "rough-adjective-12",
             "definition": "having or caused by an irregular surface",
-            "translation": "粗糙的",
+            "translation": "凹凸不平的",
             "examples": [
               {
                 "text": "trees with rough bark",
@@ -129759,7 +129759,7 @@
           {
             "id": "rough-adjective-13",
             "definition": "causing or characterized by jolts and irregular movements",
-            "translation": "以…为特征",
+            "translation": "颠簸的",
             "examples": [
               {
                 "text": "a rough ride",
@@ -129770,7 +129770,7 @@
           {
             "id": "rough-adjective-14",
             "definition": "of the margin of a leaf shape",
-            "translation": "形状的",
+            "translation": "锯齿状的",
             "examples": []
           }
         ]
@@ -129781,7 +129781,7 @@
           {
             "id": "rough-adverb-1",
             "definition": "with rough motion as over a rough surface",
-            "translation": "粗糙的",
+            "translation": "颠簸地",
             "examples": [
               {
                 "text": "ride rough",
@@ -129792,7 +129792,7 @@
           {
             "id": "rough-adverb-2",
             "definition": "with roughness or violence - informal variant for 'roughly'",
-            "translation": "粗糙的",
+            "translation": "粗暴地",
             "examples": [
               {
                 "text": "I was pushed roughly aside.",
@@ -129808,7 +129808,7 @@
           {
             "id": "rough-noun-1",
             "definition": "the part of a golf course bordering the fairway where the grass is not cut short",
-            "translation": "粗糙的",
+            "translation": "球道边缘长草区",
             "examples": []
           }
         ]
@@ -129819,7 +129819,7 @@
           {
             "id": "rough-verb-1",
             "definition": "prepare in preliminary or sketchy form",
-            "translation": "粗糙的",
+            "translation": "草拟",
             "examples": []
           }
         ]
@@ -129844,8 +129844,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -142307,13 +142307,13 @@
           {
             "id": "rush-adjective-1",
             "definition": "not accepting reservations",
-            "translation": "匆忙",
+            "translation": "免预约的",
             "examples": []
           },
           {
             "id": "rush-adjective-2",
             "definition": "done under pressure",
-            "translation": "匆忙",
+            "translation": "仓促的",
             "examples": []
           }
         ]
@@ -142324,13 +142324,13 @@
           {
             "id": "rush-noun-1",
             "definition": "the act of moving hurriedly and in a careless manner",
-            "translation": "匆忙",
+            "translation": "仓促行动",
             "examples": []
           },
           {
             "id": "rush-noun-2",
             "definition": "in American football, an attempt to advance the ball by running into the line",
-            "translation": "匆忙",
+            "translation": "冲球",
             "examples": [
               {
                 "text": "The linebackers were excellent at stopping the rush.",
@@ -142341,7 +142341,7 @@
           {
             "id": "rush-noun-3",
             "definition": "a sudden burst of activity",
-            "translation": "匆忙",
+            "translation": "一阵忙碌",
             "examples": [
               {
                 "text": "come back after the rush",
@@ -142352,19 +142352,19 @@
           {
             "id": "rush-noun-4",
             "definition": "a sudden forceful flow",
-            "translation": "匆忙",
+            "translation": "奔涌",
             "examples": []
           },
           {
             "id": "rush-noun-5",
             "definition": "the swift release of a store of affective force",
-            "translation": "匆忙",
+            "translation": "情感迸发",
             "examples": []
           },
           {
             "id": "rush-noun-6",
             "definition": "grasslike plants growing in wet places and having cylindrical often hollow stems",
-            "translation": "匆忙",
+            "translation": "灯心草",
             "examples": []
           }
         ]
@@ -142375,7 +142375,7 @@
           {
             "id": "rush-verb-1",
             "definition": "urge to an unnatural speed",
-            "translation": "匆忙",
+            "translation": "催促",
             "examples": [
               {
                 "text": "Don't rush me, please!",
@@ -142386,7 +142386,7 @@
           {
             "id": "rush-verb-2",
             "definition": "act or move at high speed",
-            "translation": "匆忙",
+            "translation": "迅速行动",
             "examples": [
               {
                 "text": "We have to rush!",
@@ -142397,19 +142397,19 @@
           {
             "id": "rush-verb-3",
             "definition": "attack suddenly",
-            "translation": "匆忙",
+            "translation": "突袭",
             "examples": []
           },
           {
             "id": "rush-verb-4",
             "definition": "cause to occur rapidly",
-            "translation": "匆忙",
+            "translation": "使迅速发生",
             "examples": []
           },
           {
             "id": "rush-verb-5",
             "definition": "to move fast",
-            "translation": "移动快的",
+            "translation": "快速移动",
             "examples": [
               {
                 "text": "I rushed down the hall to receive my guests.",
@@ -142420,13 +142420,13 @@
           {
             "id": "rush-verb-6",
             "definition": "cause to move fast or to rush or race",
-            "translation": "匆忙",
+            "translation": "使冲",
             "examples": []
           },
           {
             "id": "rush-verb-7",
             "definition": "run with the ball, in football",
-            "translation": "匆忙",
+            "translation": "带球跑",
             "examples": []
           }
         ]
@@ -142531,8 +142531,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

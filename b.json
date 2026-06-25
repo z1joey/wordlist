@@ -19932,7 +19932,7 @@
           {
             "id": "bar-noun-1",
             "definition": "a horizontal rod that serves as a support for gymnasts as they perform exercises",
-            "translation": "酒吧",
+            "translation": "横杆",
             "examples": []
           },
           {
@@ -19949,7 +19949,7 @@
           {
             "id": "bar-noun-3",
             "definition": "a block of solid substance (such as soap or wax)",
-            "translation": "酒吧",
+            "translation": "条块",
             "examples": [
               {
                 "text": "a bar of chocolate",
@@ -19960,7 +19960,7 @@
           {
             "id": "bar-noun-4",
             "definition": "a narrow marking of a different color or texture from the background",
-            "translation": "酒吧",
+            "translation": "条纹",
             "examples": [
               {
                 "text": "a green toad with small black stripes or bars",
@@ -19971,7 +19971,7 @@
           {
             "id": "bar-noun-5",
             "definition": "musical notation for a repeating pattern of musical beats",
-            "translation": "酒吧",
+            "translation": "小节线",
             "examples": [
               {
                 "text": "the orchestra omitted the last twelve bars of the song",
@@ -19982,7 +19982,7 @@
           {
             "id": "bar-noun-6",
             "definition": "the body of individuals qualified to practice law in a particular jurisdiction",
-            "translation": "酒吧",
+            "translation": "律师界",
             "examples": [
               {
                 "text": "I was admitted to the bar in New Jersey.",
@@ -19993,7 +19993,7 @@
           {
             "id": "bar-noun-7",
             "definition": "a submerged (or partly submerged) ridge in a river or along a shore",
-            "translation": "酒吧",
+            "translation": "沙洲",
             "examples": [
               {
                 "text": "the boat ran aground on a submerged bar in the river",
@@ -20004,7 +20004,7 @@
           {
             "id": "bar-noun-8",
             "definition": "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
-            "translation": "酒吧",
+            "translation": "巴(气压单位)",
             "examples": [
               {
                 "text": "unfortunately some writers have used bar for one dyne per square centimeter",
@@ -20015,7 +20015,7 @@
           {
             "id": "bar-noun-9",
             "definition": "the act of preventing",
-            "translation": "防止的行为",
+            "translation": "阻止",
             "examples": [
               {
                 "text": "there was no bar against leaving",
@@ -20026,13 +20026,13 @@
           {
             "id": "bar-noun-10",
             "definition": "a rigid piece of metal or wood",
-            "translation": "酒吧",
+            "translation": "金属条",
             "examples": []
           },
           {
             "id": "bar-noun-11",
             "definition": "an obstruction placed at the top of a goal",
-            "translation": "酒吧",
+            "translation": "球门横梁",
             "examples": [
               {
                 "text": "It was an excellent kick but the ball hit the bar.",
@@ -20043,7 +20043,7 @@
           {
             "id": "bar-noun-12",
             "definition": "a counter where you can obtain food or drink",
-            "translation": "酒吧",
+            "translation": "吧台",
             "examples": [
               {
                 "text": "I bought a hot dog and a coke at the bar.",
@@ -20054,7 +20054,7 @@
           {
             "id": "bar-noun-13",
             "definition": "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried",
-            "translation": "酒吧",
+            "translation": "法庭围栏",
             "examples": [
               {
                 "text": "spectators were not allowed past the bar",
@@ -20065,7 +20065,7 @@
           {
             "id": "bar-noun-14",
             "definition": "a heating element in an electric fire",
-            "translation": "酒吧",
+            "translation": "电热元件",
             "examples": [
               {
                 "text": "an electric fire with three bars",
@@ -20081,7 +20081,7 @@
           {
             "id": "bar-verb-1",
             "definition": "to prevent from entering",
-            "translation": "防止",
+            "translation": "阻止",
             "examples": [
               {
                 "text": "We'll have to bar you from school until next week.",
@@ -20092,7 +20092,7 @@
           {
             "id": "bar-verb-2",
             "definition": "to secure with, or as if with, bars",
-            "translation": "酒吧",
+            "translation": "闩住",
             "examples": [
               {
                 "text": "I barred the door.",
@@ -20103,7 +20103,7 @@
           {
             "id": "bar-verb-3",
             "definition": "to render unsuitable for passage",
-            "translation": "酒吧",
+            "translation": "封锁",
             "examples": [
               {
                 "text": "The construction work barred the hallway, so we went around it.",
@@ -20114,7 +20114,7 @@
           {
             "id": "bar-verb-4",
             "definition": "to expel, as if by official decree",
-            "translation": "酒吧",
+            "translation": "驱逐",
             "examples": [
               {
                 "text": "I barred them from entering the restaurant permanently.",
@@ -20172,8 +20172,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -72129,19 +72129,19 @@
           {
             "id": "bill-noun-1",
             "definition": "the entertainment offered at a public presentation",
-            "translation": "账单",
+            "translation": "节目单",
             "examples": []
           },
           {
             "id": "bill-noun-2",
             "definition": "horny projecting mouth of a bird",
-            "translation": "账单",
+            "translation": "鸟嘴",
             "examples": []
           },
           {
             "id": "bill-noun-3",
             "definition": "a brim that projects to the front to shade the eyes",
-            "translation": "账单",
+            "translation": "帽檐",
             "examples": [
               {
                 "text": "They pulled down the bill of their cap and trudged ahead.",
@@ -72152,7 +72152,7 @@
           {
             "id": "bill-noun-4",
             "definition": "a long-handled saw with a curved blade",
-            "translation": "账单",
+            "translation": "弯刀锯",
             "examples": [
               {
                 "text": "The gardener used a bill to prune branches off of the tree.",
@@ -72163,13 +72163,13 @@
           {
             "id": "bill-noun-5",
             "definition": "a list of particulars (as a playbill or bill of fare)",
-            "translation": "账单",
+            "translation": "节目表",
             "examples": []
           },
           {
             "id": "bill-noun-6",
             "definition": "an itemized statement of money owed for goods shipped or services rendered",
-            "translation": "所欠货物或服务费用的详细清单",
+            "translation": "费用清单",
             "examples": [
               {
                 "text": "I paid my bill at the restaurant.",
@@ -72180,7 +72180,7 @@
           {
             "id": "bill-noun-7",
             "definition": "a statute in draft before it becomes law",
-            "translation": "账单",
+            "translation": "法案草案",
             "examples": [
               {
                 "text": "they held a public hearing on the bill",
@@ -72191,19 +72191,19 @@
           {
             "id": "bill-noun-8",
             "definition": "a sign posted in a public place as an advertisement",
-            "translation": "账单",
+            "translation": "海报",
             "examples": []
           },
           {
             "id": "bill-noun-9",
             "definition": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
-            "translation": "账单",
+            "translation": "广告单",
             "examples": []
           },
           {
             "id": "bill-noun-10",
             "definition": "a piece of paper money (especially one issued by a central bank)",
-            "translation": "账单",
+            "translation": "纸币",
             "examples": []
           }
         ]
@@ -72214,7 +72214,7 @@
           {
             "id": "bill-verb-1",
             "definition": "to advertise especially by posters or placards",
-            "translation": "账单",
+            "translation": "张贴广告",
             "examples": [
               {
                 "text": "They were billed as the greatest tenor since Caruso.",
@@ -72225,7 +72225,7 @@
           {
             "id": "bill-verb-2",
             "definition": "to publicize or announce by placards",
-            "translation": "账单",
+            "translation": "公告",
             "examples": [
               {
                 "text": "We need to bill this show all over town.",
@@ -72236,7 +72236,7 @@
           {
             "id": "bill-verb-3",
             "definition": "to demand payment",
-            "translation": "需求付款",
+            "translation": "要求付款",
             "examples": [
               {
                 "text": "They billed us for their services.",
@@ -72370,8 +72370,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -82886,13 +82886,13 @@
           {
             "id": "bitter-adjective-1",
             "definition": "marked by strong resentment or cynicism",
-            "translation": "苦的",
+            "translation": "愤恨的",
             "examples": []
           },
           {
             "id": "bitter-adjective-2",
             "definition": "proceeding from or exhibiting great hostility or animosity",
-            "translation": "苦的",
+            "translation": "敌意的",
             "examples": [
               {
                 "text": "a bitter struggle",
@@ -82903,7 +82903,7 @@
           {
             "id": "bitter-adjective-3",
             "definition": "expressive of severe grief or regret",
-            "translation": "苦的",
+            "translation": "悲痛欲绝的",
             "examples": [
               {
                 "text": "shed bitter tears",
@@ -82914,19 +82914,19 @@
           {
             "id": "bitter-adjective-4",
             "definition": "causing a sharply painful or stinging sensation",
-            "translation": "苦的",
+            "translation": "刺痛的",
             "examples": []
           },
           {
             "id": "bitter-adjective-5",
             "definition": "harsh or corrosive in tone",
-            "translation": "语气严厉或刻薄",
+            "translation": "尖刻的",
             "examples": []
           },
           {
             "id": "bitter-adjective-6",
             "definition": "causing a sharp and acrid taste experience",
-            "translation": "苦的",
+            "translation": "苦味的",
             "examples": [
               {
                 "text": "quinine is bitter",
@@ -82937,7 +82937,7 @@
           {
             "id": "bitter-adjective-7",
             "definition": "very difficult to accept or bear",
-            "translation": "苦的",
+            "translation": "难以承受的",
             "examples": [
               {
                 "text": "the bitter truth",
@@ -82953,7 +82953,7 @@
           {
             "id": "bitter-adverb-1",
             "definition": "extremely and sharply",
-            "translation": "苦的",
+            "translation": "极其",
             "examples": [
               {
                 "text": "it was bitterly cold",
@@ -82969,19 +82969,19 @@
           {
             "id": "bitter-noun-1",
             "definition": "the property of having a harsh unpleasant taste",
-            "translation": "苦的",
+            "translation": "苦涩",
             "examples": []
           },
           {
             "id": "bitter-noun-2",
             "definition": "the taste experience when quinine or coffee is taken into the mouth",
-            "translation": "苦的",
+            "translation": "苦味",
             "examples": []
           },
           {
             "id": "bitter-noun-3",
             "definition": "English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)",
-            "translation": "苦的",
+            "translation": "苦啤酒",
             "examples": []
           }
         ]
@@ -82992,7 +82992,7 @@
           {
             "id": "bitter-verb-1",
             "definition": "to make bitter",
-            "translation": "制造苦的",
+            "translation": "使变苦",
             "examples": [
               {
                 "text": "The burnt grounds bittered the coffee.",
@@ -83014,8 +83014,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -111259,19 +111259,19 @@
           {
             "id": "bond-noun-1",
             "definition": "a connection that fastens things together",
-            "translation": "纽带",
+            "translation": "连接物",
             "examples": []
           },
           {
             "id": "bond-noun-2",
             "definition": "a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner)",
-            "translation": "纽带",
+            "translation": "束缚",
             "examples": []
           },
           {
             "id": "bond-noun-3",
             "definition": "the property of sticking together, as of glue and wood, or the joining of surfaces of different composition",
-            "translation": "纽带",
+            "translation": "粘合力",
             "examples": [
               {
                 "text": "We should bond these pieces together.",
@@ -111282,19 +111282,19 @@
           {
             "id": "bond-noun-4",
             "definition": "an electrical force linking atoms",
-            "translation": "纽带",
+            "translation": "化学键",
             "examples": []
           },
           {
             "id": "bond-noun-5",
             "definition": "(criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial",
-            "translation": "纽带",
+            "translation": "保释金",
             "examples": []
           },
           {
             "id": "bond-noun-6",
             "definition": "a certificate of debt, usually interest-bearing or discounted, that is issued by a government or corporation in order to raise money",
-            "translation": "纽带",
+            "translation": "债券",
             "examples": [
               {
                 "text": "Our advisor felt that bonds were a safe investment.",
@@ -111305,7 +111305,7 @@
           {
             "id": "bond-noun-7",
             "definition": "a connection based on kinship or marriage or common interest",
-            "translation": "基于血缘、婚姻或共同利益的联系",
+            "translation": "亲属关系",
             "examples": []
           },
           {
@@ -111385,8 +111385,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

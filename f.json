@@ -5453,13 +5453,13 @@
           {
             "id": "fair-adjective-1",
             "definition": "very pleasing to the eye",
-            "translation": "公平的",
+            "translation": "美丽的",
             "examples": []
           },
           {
             "id": "fair-adjective-2",
             "definition": "of hair or skin, pale or light-colored",
-            "translation": "苍白的的",
+            "translation": "白皙的",
             "examples": [
               {
                 "text": "The child had a fair complexion.",
@@ -5470,7 +5470,7 @@
           {
             "id": "fair-adjective-3",
             "definition": "free of clouds or rain",
-            "translation": "公平的",
+            "translation": "晴朗的",
             "examples": [
               {
                 "text": "today will be fair and warm",
@@ -5481,7 +5481,7 @@
           {
             "id": "fair-adjective-4",
             "definition": "in baseball, hit between the foul lines",
-            "translation": "公平的",
+            "translation": "界内球的",
             "examples": [
               {
                 "text": "I hit a fair ball over the third base bag.",
@@ -5492,19 +5492,19 @@
           {
             "id": "fair-adjective-5",
             "definition": "free from favoritism or self-interest or bias or deception",
-            "translation": "免于",
+            "translation": "公正的",
             "examples": []
           },
           {
             "id": "fair-adjective-6",
             "definition": "gained or earned without cheating or stealing",
-            "translation": "公平的",
+            "translation": "正当获得的",
             "examples": []
           },
           {
             "id": "fair-adjective-7",
             "definition": "a manuscript with few alterations or corrections",
-            "translation": "公平的",
+            "translation": "整洁的",
             "examples": [
               {
                 "text": "They incorporated the editor's suggestions and produced a fair copy.",
@@ -5515,7 +5515,7 @@
           {
             "id": "fair-adjective-8",
             "definition": "not excessive or extreme",
-            "translation": "公平的",
+            "translation": "适度的",
             "examples": [
               {
                 "text": "a fairish income",
@@ -5526,13 +5526,13 @@
           {
             "id": "fair-adjective-9",
             "definition": "lacking exceptional quality or ability",
-            "translation": "缺乏特殊品质或能力的",
+            "translation": "一般的",
             "examples": []
           },
           {
             "id": "fair-adjective-10",
             "definition": "attractively feminine",
-            "translation": "公平的",
+            "translation": "娇美的",
             "examples": []
           }
         ]
@@ -5543,7 +5543,7 @@
           {
             "id": "fair-adverb-1",
             "definition": "without favoring one party, in a fair evenhanded manner",
-            "translation": "公平的",
+            "translation": "公正地",
             "examples": [
               {
                 "text": "deal fairly with one another",
@@ -5554,7 +5554,7 @@
           {
             "id": "fair-adverb-2",
             "definition": "in conformity with the rules or laws and without fraud or cheating",
-            "translation": "公平的",
+            "translation": "按规则地",
             "examples": [
               {
                 "text": "they played fairly",
@@ -5570,19 +5570,19 @@
           {
             "id": "fair-noun-1",
             "definition": "a traveling show",
-            "translation": "公平的",
+            "translation": "游乐场",
             "examples": []
           },
           {
             "id": "fair-noun-2",
             "definition": "a sale of miscellany",
-            "translation": "公平的",
+            "translation": "义卖会",
             "examples": []
           },
           {
             "id": "fair-noun-3",
             "definition": "a competitive exhibition of farm products",
-            "translation": "公平的",
+            "translation": "农产品展览",
             "examples": [
               {
                 "text": "I won a blue ribbon for my baking at the county fair.",
@@ -5593,7 +5593,7 @@
           {
             "id": "fair-noun-4",
             "definition": "gathering of producers to promote business",
-            "translation": "公平的",
+            "translation": "博览会",
             "examples": [
               {
                 "text": "world fair",
@@ -5609,7 +5609,7 @@
           {
             "id": "fair-verb-1",
             "definition": "join so that the external surfaces blend smoothly",
-            "translation": "公平的",
+            "translation": "接合",
             "examples": []
           }
         ]
@@ -5646,8 +5646,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24980,7 +24980,7 @@
           {
             "id": "feed-noun-1",
             "definition": "food for domestic livestock",
-            "translation": "喂养",
+            "translation": "饲料",
             "examples": []
           }
         ]
@@ -24991,7 +24991,7 @@
           {
             "id": "feed-verb-1",
             "definition": "introduce continuously",
-            "translation": "喂养",
+            "translation": "持续输入",
             "examples": [
               {
                 "text": "feed carrots into a food processor",
@@ -25002,7 +25002,7 @@
           {
             "id": "feed-verb-2",
             "definition": "provide with fertilizers or add nutrients to",
-            "translation": "喂养",
+            "translation": "施肥",
             "examples": []
           },
           {
@@ -25014,31 +25014,31 @@
           {
             "id": "feed-verb-4",
             "definition": "take in food",
-            "translation": "拿",
+            "translation": "进食",
             "examples": []
           },
           {
             "id": "feed-verb-5",
             "definition": "serve as food for",
-            "translation": "喂养",
+            "translation": "供食给",
             "examples": []
           },
           {
             "id": "feed-verb-6",
             "definition": "feed into",
-            "translation": "喂养",
+            "translation": "流入",
             "examples": []
           },
           {
             "id": "feed-verb-7",
             "definition": "provide as food",
-            "translation": "喂养",
+            "translation": "作为食物提供",
             "examples": []
           },
           {
             "id": "feed-verb-8",
             "definition": "gratify",
-            "translation": "喂养",
+            "translation": "满足",
             "examples": [
               {
                 "text": "feed one's eyes on a gorgeous view",
@@ -25049,7 +25049,7 @@
           {
             "id": "feed-verb-9",
             "definition": "profit from in an exploitatory manner",
-            "translation": "喂养",
+            "translation": "剥削",
             "examples": [
               {
                 "text": "They feed on your insecurity.",
@@ -25060,13 +25060,13 @@
           {
             "id": "feed-verb-10",
             "definition": "move along, of liquids",
-            "translation": "喂养",
+            "translation": "流动",
             "examples": []
           },
           {
             "id": "feed-verb-11",
             "definition": "support or promote",
-            "translation": "喂养",
+            "translation": "支持",
             "examples": []
           }
         ]
@@ -25271,8 +25271,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -39488,7 +39488,7 @@
           {
             "id": "figure-noun-1",
             "definition": "a predetermined set of movements in dancing or skating",
-            "translation": "数字",
+            "translation": "舞步",
             "examples": [
               {
                 "text": "I made the best score on compulsory figures.",
@@ -39499,13 +39499,13 @@
           {
             "id": "figure-noun-2",
             "definition": "a decorative or artistic work",
-            "translation": "数字",
+            "translation": "装饰图案",
             "examples": []
           },
           {
             "id": "figure-noun-3",
             "definition": "a model of a bodily form, especially of a person",
-            "translation": "数字",
+            "translation": "体形",
             "examples": [
               {
                 "text": "I made a figure of my favorite footballer.",
@@ -39516,7 +39516,7 @@
           {
             "id": "figure-noun-4",
             "definition": "the impression produced by a person",
-            "translation": "数字",
+            "translation": "印象",
             "examples": [
               {
                 "text": "Their figure was striking against the new fallen snow.",
@@ -39527,43 +39527,43 @@
           {
             "id": "figure-noun-5",
             "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals",
-            "translation": "数字",
+            "translation": "数量",
             "examples": []
           },
           {
             "id": "figure-noun-6",
             "definition": "alternative names for the body of a human being",
-            "translation": "对人体的替代称呼",
+            "translation": "身材",
             "examples": []
           },
           {
             "id": "figure-noun-7",
             "definition": "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground",
-            "translation": "数字",
+            "translation": "图形",
             "examples": []
           },
           {
             "id": "figure-noun-8",
             "definition": "a diagram or picture illustrating textual material",
-            "translation": "数字",
+            "translation": "插图",
             "examples": []
           },
           {
             "id": "figure-noun-9",
             "definition": "language used in a figurative or nonliteral sense",
-            "translation": "数字",
+            "translation": "比喻",
             "examples": []
           },
           {
             "id": "figure-noun-10",
             "definition": "a well-known or notable person",
-            "translation": "数字",
+            "translation": "名人",
             "examples": []
           },
           {
             "id": "figure-noun-11",
             "definition": "an amount of money expressed numerically",
-            "translation": "数字",
+            "translation": "金额",
             "examples": [
               {
                 "text": "a figure of $17 was suggested",
@@ -39580,7 +39580,7 @@
           {
             "id": "figure-noun-13",
             "definition": "a combination of points and lines and planes that form a visible palpable shape",
-            "translation": "数字",
+            "translation": "形状",
             "examples": []
           }
         ]
@@ -39591,7 +39591,7 @@
           {
             "id": "figure-verb-1",
             "definition": "understand",
-            "translation": "数字",
+            "translation": "理解",
             "examples": [
               {
                 "text": "We didn't figure them.",
@@ -39602,25 +39602,25 @@
           {
             "id": "figure-verb-2",
             "definition": "make a mathematical calculation or computation",
-            "translation": "制造",
+            "translation": "计算",
             "examples": []
           },
           {
             "id": "figure-verb-3",
             "definition": "judge to be probable",
-            "translation": "数字",
+            "translation": "估计",
             "examples": []
           },
           {
             "id": "figure-verb-4",
             "definition": "imagine",
-            "translation": "数字",
+            "translation": "想象",
             "examples": []
           },
           {
             "id": "figure-verb-5",
             "definition": "be or play a part of or in",
-            "translation": "分离；分开",
+            "translation": "参与",
             "examples": [
               {
                 "text": "Elections figure prominently in every government program",
@@ -39682,8 +39682,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -48876,7 +48876,7 @@
           {
             "id": "firm-adjective-1",
             "definition": "strong and sure",
-            "translation": "坚定的",
+            "translation": "牢固的",
             "examples": [
               {
                 "text": "a firm grasp",
@@ -48887,7 +48887,7 @@
           {
             "id": "firm-adjective-2",
             "definition": "unwavering in devotion to friend or vow or cause",
-            "translation": "坚定的",
+            "translation": "忠贞的",
             "examples": [
               {
                 "text": "a firm ally",
@@ -48898,7 +48898,7 @@
           {
             "id": "firm-adjective-3",
             "definition": "securely fixed in place",
-            "translation": "坚定的",
+            "translation": "稳固的",
             "examples": [
               {
                 "text": "the post was still firm after being hit by the car",
@@ -48909,7 +48909,7 @@
           {
             "id": "firm-adjective-4",
             "definition": "not soft or yielding to pressure",
-            "translation": "坚定的",
+            "translation": "坚硬的",
             "examples": [
               {
                 "text": "a firm mattress",
@@ -48920,7 +48920,7 @@
           {
             "id": "firm-adjective-5",
             "definition": "possessing the tone and resiliency of healthy tissue",
-            "translation": "坚定的",
+            "translation": "结实的",
             "examples": [
               {
                 "text": "firm muscles",
@@ -48931,13 +48931,13 @@
           {
             "id": "firm-adjective-6",
             "definition": "marked by firm determination or resolution",
-            "translation": "坚定的",
+            "translation": "坚决的",
             "examples": []
           },
           {
             "id": "firm-adjective-7",
             "definition": "securely established",
-            "translation": "坚定的",
+            "translation": "坚实的",
             "examples": [
               {
                 "text": "holds a firm position as the country's leading poet",
@@ -48948,7 +48948,7 @@
           {
             "id": "firm-adjective-8",
             "definition": "not subject to revision or change",
-            "translation": "坚定的",
+            "translation": "不可更改的",
             "examples": [
               {
                 "text": "a firm contract",
@@ -48959,7 +48959,7 @@
           {
             "id": "firm-adjective-9",
             "definition": "not liable to fluctuate or especially to fall",
-            "translation": "坚定的",
+            "translation": "稳定的",
             "examples": [
               {
                 "text": "stocks are still firm",
@@ -48970,7 +48970,7 @@
           {
             "id": "firm-adjective-10",
             "definition": "of especially a person's physical features, not shaking or trembling",
-            "translation": "摇动的",
+            "translation": "不颤抖的",
             "examples": [
               {
                 "text": "My voice is firm and confident.",
@@ -48986,7 +48986,7 @@
           {
             "id": "firm-adverb-1",
             "definition": "with resolute determination",
-            "translation": "坚定的",
+            "translation": "坚决地",
             "examples": [
               {
                 "text": "we firmly believed it",
@@ -49002,7 +49002,7 @@
           {
             "id": "firm-noun-1",
             "definition": "the members of a business organization that owns or operates one or more establishments",
-            "translation": "坚定的",
+            "translation": "公司",
             "examples": []
           }
         ]
@@ -49013,13 +49013,13 @@
           {
             "id": "firm-verb-1",
             "definition": "make taut or tauter",
-            "translation": "制造",
+            "translation": "拉紧",
             "examples": []
           },
           {
             "id": "firm-verb-2",
             "definition": "become taut or tauter",
-            "translation": "坚定的",
+            "translation": "变紧",
             "examples": [
               {
                 "text": "Your muscles will firm when you exercise regularly",
@@ -49049,8 +49049,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -57184,7 +57184,7 @@
           {
             "id": "flash-adjective-1",
             "definition": "tastelessly showy",
-            "translation": "闪光",
+            "translation": "俗丽的",
             "examples": [
               {
                 "text": "a flash car",
@@ -57200,13 +57200,13 @@
           {
             "id": "flash-noun-1",
             "definition": "a lamp for providing momentary light to take a photograph",
-            "translation": "闪光",
+            "translation": "闪光灯",
             "examples": []
           },
           {
             "id": "flash-noun-2",
             "definition": "a bright patch of color used for decoration or identification",
-            "translation": "闪光",
+            "translation": "亮色斑",
             "examples": [
               {
                 "text": "red flashes adorned the airplane",
@@ -57223,7 +57223,7 @@
           {
             "id": "flash-noun-4",
             "definition": "a sudden brilliant understanding",
-            "translation": "闪光",
+            "translation": "顿悟",
             "examples": [
               {
                 "text": "We had a flash of intuition when we finally realized how electricity flows from two terminal ends.",
@@ -57234,25 +57234,25 @@
           {
             "id": "flash-noun-5",
             "definition": "a short news announcement concerning some on-going news story",
-            "translation": "闪光",
+            "translation": "快讯",
             "examples": []
           },
           {
             "id": "flash-noun-6",
             "definition": "a burst of light used to communicate or illuminate",
-            "translation": "闪光",
+            "translation": "闪光信号",
             "examples": []
           },
           {
             "id": "flash-noun-7",
             "definition": "a gaudy outward display",
-            "translation": "闪光",
+            "translation": "炫耀",
             "examples": []
           },
           {
             "id": "flash-noun-8",
             "definition": "a short vivid experience",
-            "translation": "闪光",
+            "translation": "瞬间体验",
             "examples": [
               {
                 "text": "a flash of emotion swept over him",
@@ -57263,13 +57263,13 @@
           {
             "id": "flash-noun-9",
             "definition": "a sudden intense burst of radiant energy",
-            "translation": "闪光",
+            "translation": "辐射爆发",
             "examples": []
           },
           {
             "id": "flash-noun-10",
             "definition": "a very short time (as the time it takes the eye to blink or the heart to beat)",
-            "translation": "闪光",
+            "translation": "瞬间",
             "examples": [
               {
                 "text": "if I had the chance I'd do it in a flash",
@@ -57285,7 +57285,7 @@
           {
             "id": "flash-verb-1",
             "definition": "appear briefly",
-            "translation": "闪光",
+            "translation": "闪现",
             "examples": [
               {
                 "text": "The headlines flashed on the screen",
@@ -57296,7 +57296,7 @@
           {
             "id": "flash-verb-2",
             "definition": "emit a brief burst of light",
-            "translation": "闪光",
+            "translation": "闪出光",
             "examples": [
               {
                 "text": "A shooting star flashed and was gone",
@@ -57307,7 +57307,7 @@
           {
             "id": "flash-verb-3",
             "definition": "make known or cause to appear with great speed",
-            "translation": "制造",
+            "translation": "快速展示",
             "examples": [
               {
                 "text": "The latest intelligence is flashed to all command posts",
@@ -57318,7 +57318,7 @@
           {
             "id": "flash-verb-4",
             "definition": "protect by covering with a thin sheet of metal",
-            "translation": "闪光",
+            "translation": "金属薄片覆盖",
             "examples": [
               {
                 "text": "flash the roof",
@@ -57329,13 +57329,13 @@
           {
             "id": "flash-verb-5",
             "definition": "run or move very quickly or hastily",
-            "translation": "闪光",
+            "translation": "飞奔",
             "examples": []
           },
           {
             "id": "flash-verb-6",
             "definition": "expose or show briefly",
-            "translation": "闪光",
+            "translation": "短暂露出",
             "examples": [
               {
                 "text": "They flashed some money and started receiving useful answers.",
@@ -57346,13 +57346,13 @@
           {
             "id": "flash-verb-7",
             "definition": "display proudly",
-            "translation": "通过骄傲的地展示",
+            "translation": "炫耀地展示",
             "examples": []
           },
           {
             "id": "flash-verb-8",
             "definition": "gleam or glow intermittently",
-            "translation": "闪光",
+            "translation": "闪烁",
             "examples": [
               {
                 "text": "The lights were flashing",
@@ -57474,8 +57474,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -65227,43 +65227,43 @@
           {
             "id": "float-noun-1",
             "definition": "an air-filled sac near the spinal column in many fishes that helps maintain buoyancy",
-            "translation": "漂浮",
+            "translation": "鱼鳔",
             "examples": []
           },
           {
             "id": "float-noun-2",
             "definition": "something that floats on the surface of water",
-            "translation": "漂浮",
+            "translation": "漂浮物",
             "examples": []
           },
           {
             "id": "float-noun-3",
             "definition": "a hand tool with a flat face used for smoothing and finishing the surface of plaster or cement or stucco",
-            "translation": "漂浮",
+            "translation": "抹刀",
             "examples": []
           },
           {
             "id": "float-noun-4",
             "definition": "an elaborate display mounted on a platform carried by a truck (or pulled by a truck) in a procession or parade",
-            "translation": "漂浮",
+            "translation": "花车",
             "examples": []
           },
           {
             "id": "float-noun-5",
             "definition": "a drink with ice cream floating in it",
-            "translation": "漂浮",
+            "translation": "冰淇淋饮料",
             "examples": []
           },
           {
             "id": "float-noun-6",
             "definition": "the number of shares outstanding and available for trading by the public",
-            "translation": "漂浮",
+            "translation": "流通股数",
             "examples": []
           },
           {
             "id": "float-noun-7",
             "definition": "the time interval between the deposit of a check in a bank and its payment",
-            "translation": "漂浮",
+            "translation": "支票兑现期",
             "examples": []
           }
         ]
@@ -65274,7 +65274,7 @@
           {
             "id": "float-verb-1",
             "definition": "convert from a fixed point notation to a floating point notation",
-            "translation": "漂浮",
+            "translation": "转浮点",
             "examples": [
               {
                 "text": "float data",
@@ -65285,7 +65285,7 @@
           {
             "id": "float-verb-2",
             "definition": "allow (currencies) to fluctuate",
-            "translation": "漂浮",
+            "translation": "允许波动",
             "examples": [
               {
                 "text": "The government floated the ruble for a few months",
@@ -65296,7 +65296,7 @@
           {
             "id": "float-verb-3",
             "definition": "make the surface of level or smooth",
-            "translation": "制造",
+            "translation": "抹平",
             "examples": [
               {
                 "text": "float the plaster",
@@ -65307,7 +65307,7 @@
           {
             "id": "float-verb-4",
             "definition": "put into the water",
-            "translation": "漂浮",
+            "translation": "放入水中",
             "examples": [
               {
                 "text": "float a ship",
@@ -65318,7 +65318,7 @@
           {
             "id": "float-verb-5",
             "definition": "move lightly, as if suspended",
-            "translation": "漂浮",
+            "translation": "轻轻移动",
             "examples": [
               {
                 "text": "The dancer floated across the stage",
@@ -65329,7 +65329,7 @@
           {
             "id": "float-verb-6",
             "definition": "set afloat",
-            "translation": "漂浮",
+            "translation": "使浮起",
             "examples": [
               {
                 "text": "The sawyers floated the logs down the river to the mill.",
@@ -65340,7 +65340,7 @@
           {
             "id": "float-verb-7",
             "definition": "be in motion due to some air or water current",
-            "translation": "漂浮",
+            "translation": "漂流",
             "examples": []
           },
           {
@@ -65352,7 +65352,7 @@
           {
             "id": "float-verb-9",
             "definition": "circulate or discuss tentatively",
-            "translation": "漂浮",
+            "translation": "试探性讨论",
             "examples": []
           }
         ]
@@ -65409,8 +65409,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -76779,7 +76779,7 @@
           {
             "id": "fold-noun-1",
             "definition": "the act of folding",
-            "translation": "折叠的行为",
+            "translation": "折叠",
             "examples": [
               {
                 "text": "I gave the napkins a double fold.",
@@ -76790,37 +76790,37 @@
           {
             "id": "fold-noun-2",
             "definition": "a pen for sheep",
-            "translation": "折叠",
+            "translation": "羊圈",
             "examples": []
           },
           {
             "id": "fold-noun-3",
             "definition": "a folded part (as in skin or muscle)",
-            "translation": "折叠",
+            "translation": "褶皱",
             "examples": []
           },
           {
             "id": "fold-noun-4",
             "definition": "a group of sheep or goats",
-            "translation": "折叠",
+            "translation": "羊群",
             "examples": []
           },
           {
             "id": "fold-noun-5",
             "definition": "a group of people who adhere to a common faith and habitually attend a given church",
-            "translation": "折叠",
+            "translation": "教派",
             "examples": []
           },
           {
             "id": "fold-noun-6",
             "definition": "a geological process that causes a bend in a stratum of rock",
-            "translation": "折叠",
+            "translation": "地质褶皱",
             "examples": []
           },
           {
             "id": "fold-noun-7",
             "definition": "an angular or rounded shape made by folding",
-            "translation": "折叠",
+            "translation": "折角",
             "examples": [
               {
                 "text": "a fold in the napkin",
@@ -76836,13 +76836,13 @@
           {
             "id": "fold-verb-1",
             "definition": "incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating",
-            "translation": "折叠",
+            "translation": "拌入",
             "examples": []
           },
           {
             "id": "fold-verb-2",
             "definition": "become folded or folded up",
-            "translation": "折叠",
+            "translation": "折起",
             "examples": [
               {
                 "text": "The bed folds in a jiffy",
@@ -76853,7 +76853,7 @@
           {
             "id": "fold-verb-3",
             "definition": "bend or lay so that one part covers the other",
-            "translation": "分离；分开",
+            "translation": "对折",
             "examples": [
               {
                 "text": "fold up the newspaper",
@@ -76864,13 +76864,13 @@
           {
             "id": "fold-verb-4",
             "definition": "confine in a fold, like sheep",
-            "translation": "折叠",
+            "translation": "圈养",
             "examples": []
           },
           {
             "id": "fold-verb-5",
             "definition": "cease to operate or cause to cease operating",
-            "translation": "折叠",
+            "translation": "倒闭",
             "examples": []
           }
         ]
@@ -76927,8 +76927,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
