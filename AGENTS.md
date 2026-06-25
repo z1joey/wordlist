@@ -7,18 +7,55 @@
 
 ## 1. 仓库结构
 
+> **根目录只放字典数据 + agent 合同文件。所有工作产物都进对应的子目录。**
+> 维护这条规则是 2026-06-25 的硬约束；后续 agent 看到根目录冒出非 `a-z.json`
+> 的杂文件，默认应该把它移回对应的子目录。
+
 ```
-wordlist/
-├── a.json ~ z.json          # 主数据（按首字母拆分，**唯一**的字典数据源）
-├── scripts/                  # 数据处理脚本（独立维护）
-├── .reasonix/                # 第三方工具数据（**不修改**、不参与字典）
-├── .trae/                    # IDE 配置（**不修改**）
-├── *.py, *.md, *.txt         # 审计/翻译/报告产物（中间文件，可 .gitignore）
-└── u.json.bak                # u.json 修复前的备份（仅 u.json 有此文件）
+wordlist/                              # 根：仅数据 + 合同
+├── a.json ~ z.json                    # 主数据（**唯一**字典数据源）—— 这就是根目录该有的全部 *.json
+├── AGENTS.md                          # 本文件：agent 协作合同
+├── PLAN.md                            # 公开计划（任何 agent 都能读）
+├── progress.json                      # 实时状态（机器可读）
+│
+├── scripts/                           # 脚本目录（只放 git-tracked 的契约脚本）
+│   └── next_batch.py                  # 唯一被 git 追踪的脚本
+│
+├── backups/                           # *.bak 备份（gitignored）
+├── reports/                           # 批次报告：batch-*.json / batch-*.md（gitignored）
+├── archive/                           # 历史/私有工具脚本：add_provider / audit / check / translate_empty（gitignored）
+├── assets/                            # 图片、媒体等非数据资产（gitignored）
+│
+├── .git/  .gitignore                  # git 必须留在根
+├── .worktrees/                        # git worktree（批次工作区，gitignored，**不要手动改**）
+├── .mavis/                            # Mavis 内部计划/会话日志（gitignored）
+├── .reasonix/                         # 第三方工具数据（**不修改**、不参与字典）
+└── .trae/                             # IDE 配置（**不修改**）
 ```
 
 **只允许修改 `a.json` ~ `z.json` 这 26 个文件的数据内容。**
 **其它文件/文件夹一律只读。** （即便用户明确要求，也请先确认是否真的会破坏工具链。）
+
+### 1.1 根目录卫生（2026-06-25 新增）
+
+任何 agent 启动时都要做一次 `ls wordlist/`，发现以下情况**当场修复**：
+
+- 根目录有非 `a-z.json` 的 `*.json`、`*.bak`、`*.png`、`*.py` 等 → 移到对应子目录
+  （见下表）。如果是新类型的文件，先在 AGENTS.md §1 加一行约定再移动。
+- 根目录的子目录越界（出现非约定内容）→ 调整回约定位置
+- `.worktrees/` / `.mavis/` / `.reasonix/` / `.trae/` 不属于"根目录卫生"范围
+  —— 它们是工具目录，**不要碰**
+
+| 根目录里冒出来的文件类型 | 应该移动到 |
+|---|---|
+| `*.json`（不是 `a-z` 之一） | `reports/`（如果是批次产物）或 `archive/`（如果是历史数据） |
+| `*.bak` | `backups/` |
+| `*.png` / `*.jpg` / `*.mp4` / `*.gif` | `assets/` |
+| `*.py`（不是 `scripts/next_batch.py`） | `archive/` |
+| `*.md`（不是 `AGENTS.md` / `PLAN.md`） | `reports/` |
+| `*.txt` | `reports/`（除非是 `next_batch.py` 的输入清单，那放 `scripts/`） |
+| `batch-*.json` / `batch-*.md` | `reports/` |
+| `fix_*_report.md` / `audit_*.md` | `reports/` |
 
 ---
 

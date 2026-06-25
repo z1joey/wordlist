@@ -5,14 +5,9 @@
 !PLAN.md
 !progress.json
 
-# But allow the a-z dictionary JSON files
+# But allow the a-z dictionary JSON files (the ONLY data files in the repo)
 ![a-z].json
 ![b].json
-# Whitelist the plan's pickup helper script (not the whole scripts/ dir).
-# Other scripts under scripts/ remain gitignored as the user-private tooling
-# pool described in AGENTS.md §7.
-!scripts/
-!scripts/next_batch.py
 ![c].json
 ![d].json
 ![e].json
@@ -37,3 +32,9 @@
 ![x].json
 ![y].json
 ![z].json
+
+# Allow scripts/ as a directory, but only the tracked helper is whitelisted
+!scripts/
+!scripts/next_batch.py
+
+# Everything else under scripts/ is user-private tooling (archived elsewhere)
