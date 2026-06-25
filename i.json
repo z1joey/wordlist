@@ -16745,19 +16745,19 @@
           {
             "id": "impact-noun-2",
             "definition": "the violent interaction of individuals or groups entering into combat",
-            "translation": "影响",
+            "translation": "冲突",
             "examples": []
           },
           {
             "id": "impact-noun-3",
             "definition": "the striking of one body against another",
-            "translation": "影响",
+            "translation": "撞击",
             "examples": []
           },
           {
             "id": "impact-noun-4",
             "definition": "a forceful consequence",
-            "translation": "影响",
+            "translation": "冲击",
             "examples": []
           }
         ]
@@ -16774,7 +16774,7 @@
           {
             "id": "impact-verb-2",
             "definition": "press or wedge together",
-            "translation": "按",
+            "translation": "压紧",
             "examples": []
           }
         ]
@@ -16811,8 +16811,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23660,31 +23660,31 @@
           {
             "id": "import-noun-1",
             "definition": "commodities (goods or services) bought from a foreign country",
-            "translation": "进口",
+            "translation": "进口商品",
             "examples": []
           },
           {
             "id": "import-noun-2",
             "definition": "having important effects or influence",
-            "translation": "进口",
+            "translation": "重要性",
             "examples": []
           },
           {
             "id": "import-noun-3",
             "definition": "a meaning that is not expressly stated but can be inferred",
-            "translation": "进口",
+            "translation": "含义",
             "examples": []
           },
           {
             "id": "import-noun-4",
             "definition": "the message that is intended or expressed or signified",
-            "translation": "进口",
+            "translation": "意思",
             "examples": []
           },
           {
             "id": "import-noun-5",
             "definition": "an imported person brought from a foreign country",
-            "translation": "进口",
+            "translation": "移民",
             "examples": [
               {
                 "text": "the lead role was played by an import from Sweden",
@@ -23700,13 +23700,13 @@
           {
             "id": "import-verb-1",
             "definition": "indicate or signify",
-            "translation": "表明",
+            "translation": "意味着",
             "examples": []
           },
           {
             "id": "import-verb-2",
             "definition": "transfer electronic data into a database or document",
-            "translation": "进口",
+            "translation": "导入",
             "examples": [
               {
                 "text": "In order to update the website, we had to import all of the old data into the new system.",
@@ -23730,8 +23730,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -59903,13 +59903,13 @@
           {
             "id": "influence-noun-1",
             "definition": "causing something without any direct or apparent effort",
-            "translation": "影响",
+            "translation": "潜移默化",
             "examples": []
           },
           {
             "id": "influence-noun-2",
             "definition": "a power to affect persons or events especially power based on prestige etc",
-            "translation": "影响",
+            "translation": "影响力",
             "examples": [
               {
                 "text": "They used their parents' influence to get the job.",
@@ -59920,7 +59920,7 @@
           {
             "id": "influence-noun-3",
             "definition": "a cognitive factor that tends to have an effect on what you do",
-            "translation": "影响",
+            "translation": "影响因素",
             "examples": [
               {
                 "text": "My wishes had a great influence on my thinking.",
@@ -59931,7 +59931,7 @@
           {
             "id": "influence-noun-4",
             "definition": "one having power to affect or change the opinion and viewpoint of another",
-            "translation": "影响",
+            "translation": "有影响的人",
             "examples": [
               {
                 "text": "My friends are the most important influence in my life.",
@@ -59942,7 +59942,7 @@
           {
             "id": "influence-noun-5",
             "definition": "the effect of one thing (or person) on another",
-            "translation": "影响",
+            "translation": "作用",
             "examples": [
               {
                 "text": "the influence of mechanical action",
@@ -59958,13 +59958,13 @@
           {
             "id": "influence-verb-1",
             "definition": "shape or influence",
-            "translation": "形状",
+            "translation": "塑造",
             "examples": []
           },
           {
             "id": "influence-verb-2",
             "definition": "induce into action by using one's charm",
-            "translation": "影响",
+            "translation": "说服",
             "examples": []
           },
           {
@@ -59996,8 +59996,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -68684,7 +68684,7 @@
           {
             "id": "innocent-adjective-1",
             "definition": "(used of things) lacking sense or awareness",
-            "translation": "无辜的",
+            "translation": "无知的",
             "examples": [
               {
                 "text": "fine innocent weather",
@@ -68695,13 +68695,13 @@
           {
             "id": "innocent-adjective-2",
             "definition": "completely wanting or lacking",
-            "translation": "无辜的",
+            "translation": "完全缺乏的",
             "examples": []
           },
           {
             "id": "innocent-adjective-3",
             "definition": "lacking intent or capacity to injure",
-            "translation": "无辜的",
+            "translation": "无恶意的",
             "examples": [
               {
                 "text": "an innocent prank",
@@ -68712,7 +68712,7 @@
           {
             "id": "innocent-adjective-4",
             "definition": "free from evil or guilt",
-            "translation": "免于",
+            "translation": "无罪的",
             "examples": [
               {
                 "text": "an innocent child",
@@ -68723,7 +68723,7 @@
           {
             "id": "innocent-adjective-5",
             "definition": "lacking in sophistication or worldliness",
-            "translation": "无辜的",
+            "translation": "天真的",
             "examples": [
               {
                 "text": "a child's innocent stare",
@@ -68734,13 +68734,13 @@
           {
             "id": "innocent-adjective-6",
             "definition": "free from sin",
-            "translation": "免于",
+            "translation": "纯洁的",
             "examples": []
           },
           {
             "id": "innocent-adjective-7",
             "definition": "not knowledgeable about something specified",
-            "translation": "无辜的",
+            "translation": "不懂的",
             "examples": []
           }
         ]
@@ -68751,7 +68751,7 @@
           {
             "id": "innocent-noun-1",
             "definition": "a person who lacks knowledge of evil",
-            "translation": "无辜的",
+            "translation": "无辜者",
             "examples": []
           }
         ]
@@ -68759,8 +68759,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -76120,25 +76120,25 @@
           {
             "id": "inspire-verb-1",
             "definition": "draw in (air)",
-            "translation": "画",
+            "translation": "吸气",
             "examples": []
           },
           {
             "id": "inspire-verb-2",
             "definition": "fill with revolutionary ideas",
-            "translation": "启发",
+            "translation": "灌输思想",
             "examples": []
           },
           {
             "id": "inspire-verb-3",
             "definition": "serve as the inciting cause of",
-            "translation": "启发",
+            "translation": "激发",
             "examples": []
           },
           {
             "id": "inspire-verb-4",
             "definition": "spur on or encourage especially by cheers and shouts",
-            "translation": "启发",
+            "translation": "激励",
             "examples": []
           },
           {
@@ -76155,7 +76155,7 @@
           {
             "id": "inspire-verb-6",
             "definition": "heighten or intensify",
-            "translation": "启发",
+            "translation": "增强",
             "examples": []
           }
         ]
@@ -76172,8 +76172,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -79078,7 +79078,7 @@
           {
             "id": "instrument-noun-1",
             "definition": "the means whereby some act is accomplished",
-            "translation": "仪器",
+            "translation": "手段",
             "examples": [
               {
                 "text": "my greed was the instrument of my destruction",
@@ -79089,25 +79089,25 @@
           {
             "id": "instrument-noun-2",
             "definition": "a device that requires skill for proper use",
-            "translation": "仪器",
+            "translation": "器具",
             "examples": []
           },
           {
             "id": "instrument-noun-3",
             "definition": "any of various devices or contrivances that can be used to produce musical tones or sounds",
-            "translation": "仪器",
+            "translation": "乐器",
             "examples": []
           },
           {
             "id": "instrument-noun-4",
             "definition": "the semantic role of the entity (usually inanimate) that the agent uses to perform an action or start a process",
-            "translation": "仪器",
+            "translation": "工具角色",
             "examples": []
           },
           {
             "id": "instrument-noun-5",
             "definition": "a document that states some contractual relationship or grants some right",
-            "translation": "仪器",
+            "translation": "法律文件",
             "examples": [
               {
                 "text": "The lawyer was known for writing crafty instruments.",
@@ -79118,7 +79118,7 @@
           {
             "id": "instrument-noun-6",
             "definition": "a person used by another to gain an end",
-            "translation": "仪器",
+            "translation": "工具人",
             "examples": []
           }
         ]
@@ -79129,19 +79129,19 @@
           {
             "id": "instrument-verb-1",
             "definition": "address a legal document to",
-            "translation": "仪器",
+            "translation": "签发",
             "examples": []
           },
           {
             "id": "instrument-verb-2",
             "definition": "write an instrumental score for",
-            "translation": "写",
+            "translation": "为…配器",
             "examples": []
           },
           {
             "id": "instrument-verb-3",
             "definition": "equip with instruments for measuring, recording, or controlling",
-            "translation": "仪器",
+            "translation": "装配仪表",
             "examples": []
           }
         ]
@@ -79186,8 +79186,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

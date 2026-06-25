@@ -12950,13 +12950,13 @@
           {
             "id": "effect-noun-1",
             "definition": "an outward appearance",
-            "translation": "效果",
+            "translation": "外观",
             "examples": []
           },
           {
             "id": "effect-noun-2",
             "definition": "(of a law) having legal validity",
-            "translation": "效果",
+            "translation": "法律效力",
             "examples": [
               {
                 "text": "the law is still in effect",
@@ -12967,7 +12967,7 @@
           {
             "id": "effect-noun-3",
             "definition": "an impression, especially one that is artificial or contrived",
-            "translation": "效果",
+            "translation": "假象",
             "examples": [
               {
                 "text": "They just did it for effect.",
@@ -12978,13 +12978,13 @@
           {
             "id": "effect-noun-4",
             "definition": "the central meaning or theme of a speech or literary work",
-            "translation": "效果",
+            "translation": "主旨",
             "examples": []
           },
           {
             "id": "effect-noun-5",
             "definition": "a phenomenon that follows and is caused by some previous phenomenon",
-            "translation": "效果",
+            "translation": "后果",
             "examples": [
               {
                 "text": "the magnetic effect was greater when the rod was lengthwise",
@@ -12995,7 +12995,7 @@
           {
             "id": "effect-noun-6",
             "definition": "a symptom caused by an illness or a drug",
-            "translation": "效果",
+            "translation": "副作用",
             "examples": [
               {
                 "text": "the effects of sleep loss",
@@ -13011,13 +13011,13 @@
           {
             "id": "effect-verb-1",
             "definition": "produce",
-            "translation": "造成；实现；使发生",
+            "translation": "实现",
             "examples": []
           },
           {
             "id": "effect-verb-2",
             "definition": "act so as to bring into existence",
-            "translation": "效果",
+            "translation": "引起",
             "examples": [
               {
                 "text": "effect a change",
@@ -13067,8 +13067,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24660,13 +24660,13 @@
           {
             "id": "eliminate-verb-1",
             "definition": "eliminate from the body",
-            "translation": "消除",
+            "translation": "排出",
             "examples": []
           },
           {
             "id": "eliminate-verb-2",
             "definition": "kill in large numbers",
-            "translation": "消除",
+            "translation": "大量杀戮",
             "examples": []
           },
           {
@@ -24683,19 +24683,19 @@
           {
             "id": "eliminate-verb-4",
             "definition": "remove (an unknown variable) from two or more equations",
-            "translation": "移除",
+            "translation": "消元",
             "examples": []
           },
           {
             "id": "eliminate-verb-5",
             "definition": "dismiss from consideration or a contest",
-            "translation": "消除",
+            "translation": "淘汰",
             "examples": []
           },
           {
             "id": "eliminate-verb-6",
             "definition": "remove from a contest or race",
-            "translation": "移除",
+            "translation": "淘汰出局",
             "examples": [
               {
                 "text": "The cyclist has eliminated all the competitors in the race",
@@ -24706,7 +24706,7 @@
           {
             "id": "eliminate-verb-7",
             "definition": "do away with",
-            "translation": "消除",
+            "translation": "根除",
             "examples": []
           }
         ]
@@ -24714,8 +24714,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -64897,7 +64897,7 @@
           {
             "id": "equal-adjective-1",
             "definition": "having the requisite qualities or resources to meet a task",
-            "translation": "具备完成任务所需的品质或资源",
+            "translation": "胜任的",
             "examples": [
               {
                 "text": "I was an equal challenger in the match.",
@@ -64908,7 +64908,7 @@
           {
             "id": "equal-adjective-2",
             "definition": "having the same quantity, value, or measure as another",
-            "translation": "平等的",
+            "translation": "相等的",
             "examples": [
               {
                 "text": "The two bowls of flour were equal.",
@@ -64924,7 +64924,7 @@
           {
             "id": "equal-noun-1",
             "definition": "a person who is of equal standing with another in a group",
-            "translation": "平等的",
+            "translation": "同等者",
             "examples": [
               {
                 "text": "I am an equal in this group, and I should get a fair say.",
@@ -64940,7 +64940,7 @@
           {
             "id": "equal-verb-1",
             "definition": "to make equal, uniform, corresponding, or matching",
-            "translation": "平等的",
+            "translation": "使相等",
             "examples": [
               {
                 "text": "Let's equal the duties among all employees in this office.",
@@ -64951,7 +64951,7 @@
           {
             "id": "equal-verb-2",
             "definition": "to be identical or equivalent to",
-            "translation": "平等的",
+            "translation": "等同于",
             "examples": [
               {
                 "text": "One dollar equals 1,000 rubles these days.",
@@ -64962,7 +64962,7 @@
           {
             "id": "equal-verb-3",
             "definition": "to be equal to in quality or ability",
-            "translation": "平等的",
+            "translation": "比得上",
             "examples": [
               {
                 "text": "I equal my peers in reading ability.",
@@ -65000,8 +65000,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -74896,13 +74896,13 @@
           {
             "id": "essential-adjective-1",
             "definition": "defining rights and duties as opposed to giving the rules by which rights and duties are established",
-            "translation": "本质的",
+            "translation": "实体性的",
             "examples": []
           },
           {
             "id": "essential-adjective-2",
             "definition": "basic and fundamental",
-            "translation": "本质的",
+            "translation": "基本的",
             "examples": [
               {
                 "text": "the essential feature",
@@ -74913,19 +74913,19 @@
           {
             "id": "essential-adjective-3",
             "definition": "of the greatest importance",
-            "translation": "重要性的",
+            "translation": "至关重要的",
             "examples": []
           },
           {
             "id": "essential-adjective-4",
             "definition": "absolutely necessary",
-            "translation": "本质的",
+            "translation": "必需的",
             "examples": []
           },
           {
             "id": "essential-adjective-5",
             "definition": "being or relating to or containing the essence of a plant etc",
-            "translation": "本质的",
+            "translation": "精油的",
             "examples": [
               {
                 "text": "essential oil",
@@ -74941,7 +74941,7 @@
           {
             "id": "essential-noun-1",
             "definition": "anything indispensable",
-            "translation": "本质的",
+            "translation": "必需品",
             "examples": []
           }
         ]
@@ -74954,8 +74954,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92229,13 +92229,13 @@
           {
             "id": "excite-verb-1",
             "definition": "act as a stimulant",
-            "translation": "使兴奋",
+            "translation": "刺激",
             "examples": []
           },
           {
             "id": "excite-verb-2",
             "definition": "produce a magnetic field in",
-            "translation": "产生；实现",
+            "translation": "激发磁场",
             "examples": [
               {
                 "text": "excite the neurons",
@@ -92246,7 +92246,7 @@
           {
             "id": "excite-verb-3",
             "definition": "raise to a higher energy level",
-            "translation": "使兴奋",
+            "translation": "激发到高能级",
             "examples": [
               {
                 "text": "excite the atoms",
@@ -92257,31 +92257,31 @@
           {
             "id": "excite-verb-4",
             "definition": "stir the feelings, emotions, or peace of",
-            "translation": "使兴奋",
+            "translation": "激起情绪",
             "examples": []
           },
           {
             "id": "excite-verb-5",
             "definition": "stimulate sexually",
-            "translation": "使兴奋",
+            "translation": "性刺激",
             "examples": []
           },
           {
             "id": "excite-verb-6",
             "definition": "cause to be agitated, excited, or roused",
-            "translation": "使兴奋",
+            "translation": "使激动",
             "examples": []
           },
           {
             "id": "excite-verb-7",
             "definition": "arouse or elicit a feeling",
-            "translation": "使兴奋",
+            "translation": "唤起",
             "examples": []
           },
           {
             "id": "excite-verb-8",
             "definition": "stir feelings in",
-            "translation": "使兴奋",
+            "translation": "激发感情",
             "examples": []
           }
         ]
@@ -92294,8 +92294,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94792,7 +94792,7 @@
           {
             "id": "execute-verb-1",
             "definition": "sign in the presence of witnesses",
-            "translation": "标志",
+            "translation": "签字见证",
             "examples": [
               {
                 "text": "The President executed the treaty",
@@ -94803,7 +94803,7 @@
           {
             "id": "execute-verb-2",
             "definition": "put in effect",
-            "translation": "执行",
+            "translation": "实施",
             "examples": []
           },
           {
@@ -94815,7 +94815,7 @@
           {
             "id": "execute-verb-4",
             "definition": "kill as a means of socially sanctioned punishment",
-            "translation": "执行",
+            "translation": "处决",
             "examples": [
               {
                 "text": "In some states, criminals are executed",
@@ -94826,7 +94826,7 @@
           {
             "id": "execute-verb-5",
             "definition": "murder in a planned fashion",
-            "translation": "执行",
+            "translation": "谋杀",
             "examples": [
               {
                 "text": "The Mafioso who collaborated with the police was executed",
@@ -94837,13 +94837,13 @@
           {
             "id": "execute-verb-6",
             "definition": "carry out a process or program, as on a computer or a machine",
-            "translation": "执行",
+            "translation": "运行程序",
             "examples": []
           },
           {
             "id": "execute-verb-7",
             "definition": "carry out the legalities of",
-            "translation": "执行",
+            "translation": "办理法律手续",
             "examples": [
               {
                 "text": "execute a will or a deed",
@@ -94873,8 +94873,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -102662,7 +102662,7 @@
           {
             "id": "experience-noun-2",
             "definition": "the content of direct observation or participation in an event",
-            "translation": "经验",
+            "translation": "亲身经历",
             "examples": [
               {
                 "text": "The tax collector had a religious experience.",
@@ -102673,7 +102673,7 @@
           {
             "id": "experience-noun-3",
             "definition": "an event as apprehended",
-            "translation": "经验",
+            "translation": "感受",
             "examples": [
               {
                 "text": "a surprising experience",
@@ -102689,31 +102689,31 @@
           {
             "id": "experience-verb-1",
             "definition": "undergo",
-            "translation": "经验",
+            "translation": "经历",
             "examples": []
           },
           {
             "id": "experience-verb-2",
             "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
-            "translation": "经验",
+            "translation": "亲身体验",
             "examples": []
           },
           {
             "id": "experience-verb-3",
             "definition": "undergo an emotional sensation or be in a particular state of mind",
-            "translation": "陈述；说明",
+            "translation": "感受",
             "examples": []
           },
           {
             "id": "experience-verb-4",
             "definition": "go through (mental or physical states or experiences)",
-            "translation": "经验",
+            "translation": "经历状态",
             "examples": []
           },
           {
             "id": "experience-verb-5",
             "definition": "go or live through",
-            "translation": "经验",
+            "translation": "度过",
             "examples": []
           }
         ]
@@ -102734,8 +102734,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -104507,13 +104507,13 @@
           {
             "id": "explode-verb-1",
             "definition": "increase rapidly and in an uncontrolled manner",
-            "translation": "爆炸",
+            "translation": "激增",
             "examples": []
           },
           {
             "id": "explode-verb-2",
             "definition": "burst outward, usually with noise",
-            "translation": "爆炸",
+            "translation": "爆裂",
             "examples": [
               {
                 "text": "The champagne bottle exploded",
@@ -104530,13 +104530,13 @@
           {
             "id": "explode-verb-4",
             "definition": "be unleashed",
-            "translation": "爆炸",
+            "translation": "爆发",
             "examples": []
           },
           {
             "id": "explode-verb-5",
             "definition": "cause to burst with a violent release of energy",
-            "translation": "爆炸",
+            "translation": "引爆",
             "examples": [
               {
                 "text": "We exploded the nuclear bomb",
@@ -104547,13 +104547,13 @@
           {
             "id": "explode-verb-6",
             "definition": "show (a theory or claim) to be baseless, or refute and make obsolete",
-            "translation": "展示",
+            "translation": "推翻",
             "examples": []
           },
           {
             "id": "explode-verb-7",
             "definition": "show a violent emotional reaction",
-            "translation": "通过一个暴力的情感的反应展示",
+            "translation": "情绪爆发",
             "examples": [
               {
                 "text": "The boss exploded when they heard of yet another employee's resignation.",
@@ -104564,19 +104564,19 @@
           {
             "id": "explode-verb-8",
             "definition": "drive from the stage by noisy disapproval",
-            "translation": "开车",
+            "translation": "轰下台",
             "examples": []
           },
           {
             "id": "explode-verb-9",
             "definition": "cause to burst as a result of air pressure",
-            "translation": "爆炸",
+            "translation": "胀破",
             "examples": []
           },
           {
             "id": "explode-verb-10",
             "definition": "destroy by exploding",
-            "translation": "爆炸",
+            "translation": "炸毁",
             "examples": [
               {
                 "text": "The enemy exploded the bridge",
@@ -104614,8 +104614,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -105950,7 +105950,7 @@
           {
             "id": "expose-noun-1",
             "definition": "the exposure of an impostor or a fraud",
-            "translation": "暴露",
+            "translation": "揭露",
             "examples": [
               {
                 "text": "I published an expose of the graft and corruption in city government.",
@@ -105966,7 +105966,7 @@
           {
             "id": "expose-verb-1",
             "definition": "abandon by leaving out in the open air",
-            "translation": "暴露",
+            "translation": "抛弃",
             "examples": [
               {
                 "text": "The infant was exposed by the teenage mother",
@@ -105977,49 +105977,49 @@
           {
             "id": "expose-verb-2",
             "definition": "expose while ridiculing",
-            "translation": "暴露",
+            "translation": "揭穿",
             "examples": []
           },
           {
             "id": "expose-verb-3",
             "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
-            "translation": "制造",
+            "translation": "揭露",
             "examples": []
           },
           {
             "id": "expose-verb-4",
             "definition": "put in a dangerous, disadvantageous, or difficult position",
-            "translation": "暴露",
+            "translation": "使处于危险",
             "examples": []
           },
           {
             "id": "expose-verb-5",
             "definition": "remove all or part of one's clothes to show one's body",
-            "translation": "分离；分开",
+            "translation": "脱衣",
             "examples": []
           },
           {
             "id": "expose-verb-6",
             "definition": "expose or make accessible to some action or influence",
-            "translation": "暴露",
+            "translation": "暴露于",
             "examples": []
           },
           {
             "id": "expose-verb-7",
             "definition": "expose to light, of photographic film",
-            "translation": "暴露",
+            "translation": "曝光",
             "examples": []
           },
           {
             "id": "expose-verb-8",
             "definition": "disclose to view as by removing a cover",
-            "translation": "暴露",
+            "translation": "揭下",
             "examples": []
           },
           {
             "id": "expose-verb-9",
             "definition": "to show, make visible or apparent",
-            "translation": "暴露",
+            "translation": "显示",
             "examples": []
           }
         ]
@@ -106040,8 +106040,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

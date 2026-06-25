@@ -12341,7 +12341,7 @@
           {
             "id": "handle-noun-1",
             "definition": "the appendage to an object that is designed to be held in order to use or move it",
-            "translation": "处理",
+            "translation": "把手",
             "examples": [
               {
                 "text": "I grabbed the hammer by the handle and pounded some nails.",
@@ -12363,7 +12363,7 @@
           {
             "id": "handle-verb-2",
             "definition": "touch, lift, or hold with the hands",
-            "translation": "处理",
+            "translation": "触摸",
             "examples": [
               {
                 "text": "Don't handle the merchandise",
@@ -12374,7 +12374,7 @@
           {
             "id": "handle-verb-3",
             "definition": "handle effectively",
-            "translation": "处理",
+            "translation": "应对",
             "examples": []
           },
           {
@@ -12391,13 +12391,13 @@
           {
             "id": "handle-verb-5",
             "definition": "be in charge of, act on, or dispose of",
-            "translation": "处理",
+            "translation": "负责",
             "examples": []
           },
           {
             "id": "handle-verb-6",
             "definition": "interact in a certain way",
-            "translation": "处理",
+            "translation": "互动",
             "examples": []
           }
         ]
@@ -12426,8 +12426,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26979,19 +26979,19 @@
           {
             "id": "hazard-noun-1",
             "definition": "an obstacle on a golf course",
-            "translation": "危险",
+            "translation": "障碍",
             "examples": []
           },
           {
             "id": "hazard-noun-2",
             "definition": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
-            "translation": "危险",
+            "translation": "意外",
             "examples": []
           },
           {
             "id": "hazard-noun-3",
             "definition": "a source of danger",
-            "translation": "危险",
+            "translation": "危险源",
             "examples": []
           }
         ]
@@ -27002,19 +27002,19 @@
           {
             "id": "hazard-verb-1",
             "definition": "put forward, of a guess, in spite of possible refutation",
-            "translation": "危险",
+            "translation": "大胆猜测",
             "examples": []
           },
           {
             "id": "hazard-verb-2",
             "definition": "take a risk in the hope of a favorable outcome",
-            "translation": "拿",
+            "translation": "冒险一试",
             "examples": []
           },
           {
             "id": "hazard-verb-3",
             "definition": "put at risk",
-            "translation": "危险",
+            "translation": "使遭危险",
             "examples": []
           }
         ]
@@ -27039,8 +27039,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -81903,7 +81903,7 @@
           {
             "id": "hostile-adjective-1",
             "definition": "unsolicited and resisted by the management of the target company ( used of attempts to buy or take control of a business)",
-            "translation": "敌意的",
+            "translation": "敌意收购的",
             "examples": [
               {
                 "text": "hostile takeover",
@@ -81914,7 +81914,7 @@
           {
             "id": "hostile-adjective-2",
             "definition": "not belonging to your own country's forces or those of an ally",
-            "translation": "敌意的",
+            "translation": "敌国的",
             "examples": [
               {
                 "text": "hostile naval and air forces",
@@ -81925,7 +81925,7 @@
           {
             "id": "hostile-adjective-3",
             "definition": "very unfavorable to life or growth",
-            "translation": "敌意的",
+            "translation": "不利的",
             "examples": [
               {
                 "text": "a hostile climate",
@@ -81936,7 +81936,7 @@
           {
             "id": "hostile-adjective-4",
             "definition": "characterized by enmity or ill will",
-            "translation": "以…为特征",
+            "translation": "敌对的",
             "examples": [
               {
                 "text": "a hostile nation",
@@ -81947,7 +81947,7 @@
           {
             "id": "hostile-adjective-5",
             "definition": "impossible to bring into friendly accord",
-            "translation": "敌意的",
+            "translation": "格格不入的",
             "examples": [
               {
                 "text": "hostile factions",
@@ -81963,7 +81963,7 @@
           {
             "id": "hostile-noun-1",
             "definition": "troops belonging to the enemy's military forces",
-            "translation": "敌意的",
+            "translation": "敌军",
             "examples": [
               {
                 "text": "the platoon ran into a pack of hostiles",
@@ -81981,8 +81981,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -89118,25 +89118,25 @@
           {
             "id": "humble-adjective-1",
             "definition": "of low birth or station (`base' is archaic in this sense)",
-            "translation": "感觉的",
+            "translation": "卑微的",
             "examples": []
           },
           {
             "id": "humble-adjective-2",
             "definition": "marked by meekness or modesty",
-            "translation": "谦虚的",
+            "translation": "谦逊的",
             "examples": []
           },
           {
             "id": "humble-adjective-3",
             "definition": "used of unskilled work (especially domestic work)",
-            "translation": "谦虚的",
+            "translation": "粗陋的",
             "examples": []
           },
           {
             "id": "humble-adjective-4",
             "definition": "low or inferior in station or quality",
-            "translation": "谦虚的",
+            "translation": "低下的",
             "examples": [
               {
                 "text": "a humble cottage",
@@ -89152,13 +89152,13 @@
           {
             "id": "humble-verb-1",
             "definition": "cause to feel shame",
-            "translation": "谦虚的",
+            "translation": "使羞愧",
             "examples": []
           },
           {
             "id": "humble-verb-2",
             "definition": "cause to be unpretentious",
-            "translation": "谦虚的",
+            "translation": "使谦逊",
             "examples": [
               {
                 "text": "This experience will humble him",
@@ -89171,8 +89171,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

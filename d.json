@@ -16115,7 +16115,7 @@
           {
             "id": "debate-noun-1",
             "definition": "a discussion in which reasons are advanced for and against some proposition or proposal",
-            "translation": "为支持和反对某个命题或提议提出理由的讨论",
+            "translation": "讨论",
             "examples": []
           },
           {
@@ -16132,7 +16132,7 @@
           {
             "id": "debate-verb-1",
             "definition": "argue with one another",
-            "translation": "辩论",
+            "translation": "争论",
             "examples": [
               {
                 "text": "We debated the question of abortion",
@@ -16143,19 +16143,19 @@
           {
             "id": "debate-verb-2",
             "definition": "have an argument about something",
-            "translation": "辩论",
+            "translation": "争辩",
             "examples": []
           },
           {
             "id": "debate-verb-3",
             "definition": "discuss the pros and cons of an issue",
-            "translation": "辩论",
+            "translation": "讨论利弊",
             "examples": []
           },
           {
             "id": "debate-verb-4",
             "definition": "think about carefully",
-            "translation": "辩论",
+            "translation": "深思",
             "examples": []
           }
         ]
@@ -16208,8 +16208,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -22914,7 +22914,7 @@
           {
             "id": "declare-verb-1",
             "definition": "state firmly",
-            "translation": "陈述；说明",
+            "translation": "断言",
             "examples": [
               {
                 "text": "We declared that we were innocent.",
@@ -22925,7 +22925,7 @@
           {
             "id": "declare-verb-2",
             "definition": "proclaimed or stated to be",
-            "translation": "宣布",
+            "translation": "宣称",
             "examples": [
               {
                 "text": "Because they were no longer able to take care of their own affairs, they were declared incompetent.",
@@ -22936,7 +22936,7 @@
           {
             "id": "declare-verb-3",
             "definition": "announce publicly or officially",
-            "translation": "宣布",
+            "translation": "公布",
             "examples": [
               {
                 "text": "The President declared war",
@@ -22947,7 +22947,7 @@
           {
             "id": "declare-verb-4",
             "definition": "proclaim one's support, sympathy, or opinion for or against",
-            "translation": "宣布",
+            "translation": "表明",
             "examples": [
               {
                 "text": "I declared at once for moving back to the United States.",
@@ -22958,7 +22958,7 @@
           {
             "id": "declare-verb-5",
             "definition": "state emphatically and authoritatively",
-            "translation": "陈述；说明",
+            "translation": "郑重陈述",
             "examples": [
               {
                 "text": "They declared that they needed more money to carry out the task.",
@@ -22969,7 +22969,7 @@
           {
             "id": "declare-verb-6",
             "definition": "make a declaration of dutiable goods to a customs official",
-            "translation": "制造",
+            "translation": "申报",
             "examples": [
               {
                 "text": "Do you have anything to declare?",
@@ -22980,13 +22980,13 @@
           {
             "id": "declare-verb-7",
             "definition": "designate (a trump suit or no-trump) with the final bid of a hand",
-            "translation": "宣布",
+            "translation": "定王牌",
             "examples": []
           },
           {
             "id": "declare-verb-8",
             "definition": "authorize payments of",
-            "translation": "宣布",
+            "translation": "批准支付",
             "examples": [
               {
                 "text": "declare dividends",
@@ -23032,8 +23032,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26133,13 +26133,13 @@
           {
             "id": "decrease-noun-2",
             "definition": "the amount by which something decreases",
-            "translation": "减少",
+            "translation": "减少量",
             "examples": []
           },
           {
             "id": "decrease-noun-3",
             "definition": "a change downward",
-            "translation": "减少",
+            "translation": "下降",
             "examples": [
               {
                 "text": "There was a decrease in my temperature as the fever subsided.",
@@ -26150,7 +26150,7 @@
           {
             "id": "decrease-noun-4",
             "definition": "a process of becoming smaller or shorter",
-            "translation": "减少",
+            "translation": "缩小过程",
             "examples": []
           }
         ]
@@ -26161,7 +26161,7 @@
           {
             "id": "decrease-verb-1",
             "definition": "decrease in size, extent, or range",
-            "translation": "减少",
+            "translation": "缩减",
             "examples": [
               {
                 "text": "The amount of homework decreased towards the end of the semester",
@@ -26172,7 +26172,7 @@
           {
             "id": "decrease-verb-2",
             "definition": "make smaller",
-            "translation": "制造",
+            "translation": "缩小",
             "examples": [
               {
                 "text": "I decreased the staff due to budget issues.",
@@ -26222,8 +26222,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -37400,13 +37400,13 @@
           {
             "id": "delay-noun-1",
             "definition": "the act of delaying",
-            "translation": "延迟的行为",
+            "translation": "延迟",
             "examples": []
           },
           {
             "id": "delay-noun-2",
             "definition": "time during which some action is awaited",
-            "translation": "延迟",
+            "translation": "等候时间",
             "examples": [
               {
                 "text": "instant replay caused too long a delay",
@@ -37422,13 +37422,13 @@
           {
             "id": "delay-verb-1",
             "definition": "slow the growth or development of",
-            "translation": "延迟",
+            "translation": "拖延",
             "examples": []
           },
           {
             "id": "delay-verb-2",
             "definition": "cause to be slowed down or delayed",
-            "translation": "延迟",
+            "translation": "使延迟",
             "examples": [
               {
                 "text": "Traffic was delayed by the bad weather",
@@ -37439,13 +37439,13 @@
           {
             "id": "delay-verb-3",
             "definition": "stop or halt",
-            "translation": "延迟",
+            "translation": "中止",
             "examples": []
           },
           {
             "id": "delay-verb-4",
             "definition": "act later than planned, scheduled, or required",
-            "translation": "延迟",
+            "translation": "迟到",
             "examples": [
               {
                 "text": "Don't delay your application to graduate school or else it won't be considered",
@@ -37531,8 +37531,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -85398,13 +85398,13 @@
           {
             "id": "digest-noun-1",
             "definition": "something that is compiled (as into a single book or file)",
-            "translation": "消化",
+            "translation": "文摘",
             "examples": []
           },
           {
             "id": "digest-noun-2",
             "definition": "a periodical that summarizes the news",
-            "translation": "消化",
+            "translation": "摘要期刊",
             "examples": []
           }
         ]
@@ -85415,25 +85415,25 @@
           {
             "id": "digest-verb-1",
             "definition": "soften or disintegrate by means of chemical action, heat, or moisture",
-            "translation": "消化",
+            "translation": "分解",
             "examples": []
           },
           {
             "id": "digest-verb-2",
             "definition": "make more concise",
-            "translation": "制造",
+            "translation": "精简",
             "examples": []
           },
           {
             "id": "digest-verb-3",
             "definition": "soften or disintegrate, as by undergoing exposure to heat or moisture",
-            "translation": "消化",
+            "translation": "浸软",
             "examples": []
           },
           {
             "id": "digest-verb-4",
             "definition": "systematize, as by classifying and summarizing",
-            "translation": "消化",
+            "translation": "整理",
             "examples": [
               {
                 "text": "the government digested the entire law into a code",
@@ -85444,7 +85444,7 @@
           {
             "id": "digest-verb-5",
             "definition": "become assimilated into the body",
-            "translation": "消化",
+            "translation": "被吸收",
             "examples": [
               {
                 "text": "Protein digests in a few hours",
@@ -85455,7 +85455,7 @@
           {
             "id": "digest-verb-6",
             "definition": "arrange and integrate in the mind",
-            "translation": "消化",
+            "translation": "理解",
             "examples": [
               {
                 "text": "I cannot digest all this information",
@@ -85466,13 +85466,13 @@
           {
             "id": "digest-verb-7",
             "definition": "put up with something or somebody unpleasant",
-            "translation": "消化",
+            "translation": "忍受",
             "examples": []
           },
           {
             "id": "digest-verb-8",
             "definition": "convert food into absorbable substances",
-            "translation": "消化",
+            "translation": "消化食物",
             "examples": [
               {
                 "text": "I cannot digest milk products",
@@ -85485,8 +85485,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -100103,13 +100103,13 @@
           {
             "id": "discipline-noun-1",
             "definition": "training to improve strength or self-control",
-            "translation": "纪律",
+            "translation": "训练",
             "examples": []
           },
           {
             "id": "discipline-noun-2",
             "definition": "the act of punishing",
-            "translation": "惩罚的行为",
+            "translation": "惩罚",
             "examples": [
               {
                 "text": "the offenders deserved the harsh discipline they received",
@@ -100120,7 +100120,7 @@
           {
             "id": "discipline-noun-3",
             "definition": "the trait of being well behaved",
-            "translation": "纪律",
+            "translation": "规矩",
             "examples": [
               {
                 "text": "I insisted on discipline among the troops.",
@@ -100131,7 +100131,7 @@
           {
             "id": "discipline-noun-4",
             "definition": "a system of rules of conduct or method of practice",
-            "translation": "纪律",
+            "translation": "规章制度",
             "examples": [
               {
                 "text": "They quickly learned the discipline of prison routine.",
@@ -100142,7 +100142,7 @@
           {
             "id": "discipline-noun-5",
             "definition": "a branch of knowledge",
-            "translation": "纪律",
+            "translation": "学科",
             "examples": [
               {
                 "text": "In what discipline is your doctorate?",
@@ -100158,7 +100158,7 @@
           {
             "id": "discipline-verb-1",
             "definition": "punish in order to gain control or enforce obedience",
-            "translation": "纪律",
+            "translation": "惩戒",
             "examples": [
               {
                 "text": "The teacher disciplined the pupils rather frequently",
@@ -100169,7 +100169,7 @@
           {
             "id": "discipline-verb-2",
             "definition": "develop (children's) behavior by instruction and practice",
-            "translation": "发展",
+            "translation": "培养",
             "examples": []
           }
         ]
@@ -100177,8 +100177,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -132136,19 +132136,19 @@
           {
             "id": "document-noun-1",
             "definition": "anything serving as a representation of a person's thinking by means of symbolic marks",
-            "translation": "文件",
+            "translation": "文献",
             "examples": []
           },
           {
             "id": "document-noun-2",
             "definition": "writing that provides information (especially information of an official nature)",
-            "translation": "文件",
+            "translation": "公文",
             "examples": []
           },
           {
             "id": "document-noun-3",
             "definition": "a computer file that contains text using seven-bit ASCII characters",
-            "translation": "文件",
+            "translation": "文本文档",
             "examples": [
               {
                 "text": "I had too many documents on my hard drive.",
@@ -132159,7 +132159,7 @@
           {
             "id": "document-noun-4",
             "definition": "a written account of ownership or obligation",
-            "translation": "文件",
+            "translation": "凭证",
             "examples": []
           }
         ]
@@ -132170,7 +132170,7 @@
           {
             "id": "document-verb-1",
             "definition": "support or supply with references",
-            "translation": "文件",
+            "translation": "为…提供证明",
             "examples": [
               {
                 "text": "Can you document your claims?",
@@ -132181,7 +132181,7 @@
           {
             "id": "document-verb-2",
             "definition": "record in detail",
-            "translation": "记录",
+            "translation": "详细记录",
             "examples": [
               {
                 "text": "The parents documented every step of their child's development",
@@ -132255,8 +132255,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -164778,7 +164778,7 @@
           {
             "id": "due-adjective-1",
             "definition": "owed and payable immediately or on demand",
-            "translation": "到期的",
+            "translation": "应付的",
             "examples": [
               {
                 "text": "payment is due",
@@ -164789,7 +164789,7 @@
           {
             "id": "due-adjective-2",
             "definition": "suitable to or expected in the circumstances",
-            "translation": "到期的",
+            "translation": "适当的",
             "examples": [
               {
                 "text": "all due respect",
@@ -164800,13 +164800,13 @@
           {
             "id": "due-adjective-3",
             "definition": "capable of being assigned or credited to",
-            "translation": "能够被",
+            "translation": "应得的",
             "examples": []
           },
           {
             "id": "due-adjective-4",
             "definition": "scheduled to arrive",
-            "translation": "到期的",
+            "translation": "预定到达的",
             "examples": []
           }
         ]
@@ -164817,7 +164817,7 @@
           {
             "id": "due-adverb-1",
             "definition": "directly or exactly",
-            "translation": "到期的",
+            "translation": "正对着",
             "examples": []
           }
         ]
@@ -164828,7 +164828,7 @@
           {
             "id": "due-noun-1",
             "definition": "that which is deserved or owed",
-            "translation": "到期的",
+            "translation": "应得之物",
             "examples": [
               {
                 "text": "Give me your financial dues.",
@@ -164839,7 +164839,7 @@
           {
             "id": "due-noun-2",
             "definition": "a payment that is due, such as the price of membership",
-            "translation": "到期的",
+            "translation": "应付费用",
             "examples": [
               {
                 "text": "The society dropped me for non-payment of dues.",
@@ -164917,8 +164917,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
