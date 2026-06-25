@@ -110,13 +110,38 @@ for entry in data:
 
 ---
 
-## 4. 当前在役的 Provider 标识
+## 4. Provider 标识 — 自由形式（2026-06-25 更新）
 
-| Provider | 含义 | 维护方 |
-|---|---|---|
-| `MiniMax-M3` | MiniMax M3 模型（含 LLM 翻译初稿 + 人工校对流程） | Mavis |
+`metadata.provider` 是一个**自由形式的字符串**，用来记录"是谁实际翻译/修改了
+这条 `translation`"。它**不**是固定的身份标识；不同 agent、不同时间、不同模型
+可以使用任意字符串。
 
-**新 agent 加入时**：在第 4 节追加自己的 provider 行，标明 model identifier 和流水线类型。
+**铁律**（不变）：只有当你实际修改了 `sense.translation` / `example.translation` /
+`phrase.translation` 时，才能在 `metadata` 里写 `provider` + `updatedAt`。
+详见 §3 "改了再标，不动不标"。
+
+### 4.1 推荐写法
+
+- 用模型/agent 的可识别标识：`MiniMax-M3`、`deepseek-v4-flash`、`claude-opus`、
+  `gpt-5-mini`、`MiniMax-M3-2026-06-25` 等等。
+- 也允许人类/混合流程的标签：`human-curated`、`MiniMax-M3+human`、
+  `deepseek-v4-flash-pass1+human-proofread`。
+- 不允许：留空但写了 `updatedAt`、或者 `provider` 写了但没改过翻译。
+
+### 4.2 实际数据中的现存 provider（截至 2026-06-25，仅供参考）
+
+| Provider | 出现次数 | 说明 |
+|---|---:|---|
+| `MiniMax-M3` | 846 | 2026-06-23 起的 MiniMax M3 翻译 |
+| `deepseek-v4-flash` | 14,587 | 2026-06-24 起的 deepseek-v4-flash 翻译 |
+| `""`（空） | 49,434 | 尚未翻译的词条 — 正常状态 |
+
+**不要**因为某个 provider 字符串没出现在历史里就把它的词标为 "stale"。
+只要该词确实有过 `translation` 改动（§3 校验通过），任何 provider 字符串都合法。
+
+### 4.3 新 agent 加入时
+
+无需注册 provider 列表。直接用你想用的字符串即可。
 
 ---
 
@@ -145,6 +170,17 @@ for entry in data:
 **未翻译最严重**：`u.json` 82.7% 空、`z.json` 81% 空、`k.json` 78.3% 空。
 
 **已完成**：`u.json` Top 100 高频词（按学段 tag 权重 + sense 数加权排序）100% 翻译完成（101 word, 130 sense 修复）。修复报告见 `fix_top100_report.md`。
+
+### 5.1 2026-06-25 重测
+
+- 词条总数 **64,867 word / 115,954 sense**（基本不变）
+- 缺翻 sense: **75,348 / 115,954 = 65.0%**（与 2026-06-23 基线一致）
+- **Tagged 词缺翻 38.6%**、**Untagged 词缺翻 84.3%**（priority 切分见 `.mavis/plans/dictionary-review-plan.md`）
+- **重复翻译问题**：**3,959 个 word** 至少有两个 sense 用了完全相同的中文
+  （其中 3,158 个是 tagged 词）。例：`abode` 两个 sense 都是 `住所`、`adjust`
+  四个 adj sense 都是 `调整`。
+- **总磁盘影响**：即便把全部 75,348 个空翻译都补上，整个 dict 也只多 ~1.6 MB
+  （58.9 MB → 60.5 MB）。瓶颈是质量，不是容量。
 
 ---
 
