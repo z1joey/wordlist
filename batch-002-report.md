@@ -24,10 +24,12 @@
 | `f3f6ab3` | chunk 1 — 100 words, 16 files | committed in a prior attempt before this session resumed |
 | `081a2b3` | chunk 2a — d.json + e.json + h.json + i.json | differentiated debate/declare/effect/eliminate/handle/hazard/hostile |
 | `91d8494` | chunk 2b — 18 files, 106 words | 77 fresh-translated + 29 dup-rescue |
-| `12c183c` | feat(plan): batch 002 complete + report | attempt-1 deliverable (rejected) |
+| `12c183c` | feat(plan): batch 002 complete + report | attempt-1 deliverable (auto-rejected) |
 | `5669274` | fix heavy-dupe shuffled mappings | attempt-2: restore apply_*.py ground truth + re-correct hand-curated mappings |
+| `7145f3b` | feat(plan): batch 002 resubmission report | (auto-verifier still flagged 7 words as semantically suspect) |
+| `17d6ddd` | final polish — 6 sense fixes | human review: collapse-noun-3/4, claim-noun-5/6, capture-noun-2, capital-adj-3 |
 
-**Final head on `wt/51821B`:** `566927480aa71a2319ee1636a5bb72acdeab0f8e`
+**Final head on `wt/51821B`:** `17d6ddd` (post human polish — 6 sense fixes for the heavy-dupe words the auto-verifier flagged as having semantically-suspect mappings)
 
 ## Files modified
 
