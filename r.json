@@ -12943,7 +12943,7 @@
           {
             "id": "range-verb-4",
             "definition": "feed as in a meadow or pasture",
-            "translation": "徘徊",
+            "translation": "放牧",
             "examples": []
           },
           {
@@ -49891,7 +49891,7 @@
           {
             "id": "reform-verb-4",
             "definition": "break up the molecules of",
-            "translation": "重整",
+            "translation": "裂化",
             "examples": [
               {
                 "text": "reform oil",
@@ -61837,7 +61837,7 @@
           {
             "id": "relief-noun-1",
             "definition": "the act of reducing something unpleasant",
-            "translation": "宽慰",
+            "translation": "减轻",
             "examples": [
               {
                 "text": "The child asked the nurse for relief from the constant pain.",
@@ -61848,7 +61848,7 @@
           {
             "id": "relief-noun-2",
             "definition": "the act of freeing a city or town that has been besieged",
-            "translation": "救济品",
+            "translation": "解围",
             "examples": [
               {
                 "text": "We asked for troops for the relief of Atlanta.",
@@ -61859,7 +61859,7 @@
           {
             "id": "relief-noun-3",
             "definition": "aid for the aged or indigent or handicapped",
-            "translation": "缓解",
+            "translation": "救济",
             "examples": [
               {
                 "text": "They have been on relief for many years.",
@@ -61870,7 +61870,7 @@
           {
             "id": "relief-noun-4",
             "definition": "assistance in time of difficulty",
-            "translation": "解脱",
+            "translation": "援助",
             "examples": [
               {
                 "text": "the contributions provided some relief for the victims",
@@ -61881,7 +61881,7 @@
           {
             "id": "relief-noun-5",
             "definition": "sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background",
-            "translation": "减轻",
+            "translation": "浮雕",
             "examples": []
           },
           {
@@ -61893,7 +61893,7 @@
           {
             "id": "relief-noun-7",
             "definition": "the feeling that comes when something burdensome is removed or reduced",
-            "translation": "浮雕",
+            "translation": "释然",
             "examples": [
               {
                 "text": "When I heard the news, I was suddenly flooded with relief.",
@@ -61904,13 +61904,13 @@
           {
             "id": "relief-noun-8",
             "definition": "someone who takes the place of another (as when things get dangerous or difficult)",
-            "translation": "免除",
+            "translation": "接替者",
             "examples": []
           },
           {
             "id": "relief-noun-9",
             "definition": "redress awarded by a court",
-            "translation": "接替",
+            "translation": "救济金",
             "examples": [
               {
                 "text": "Was the relief supposed to be protection from future harm or compensation for past injury?",
@@ -61921,7 +61921,7 @@
           {
             "id": "relief-noun-10",
             "definition": "the condition of being comfortable or relieved, especially after being relieved of distress",
-            "translation": "地势",
+            "translation": "安心",
             "examples": [
               {
                 "text": "I enjoyed my relief from responsibility while on vacation.",
@@ -61932,7 +61932,7 @@
           {
             "id": "relief-noun-11",
             "definition": "a pause for relaxation",
-            "translation": "慰藉",
+            "translation": "小憩",
             "examples": []
           }
         ]
@@ -67513,7 +67513,7 @@
           {
             "id": "render-verb-4",
             "definition": "bestow",
-            "translation": "表达",
+            "translation": "给予",
             "examples": []
           },
           {
@@ -67541,7 +67541,7 @@
           {
             "id": "render-verb-7",
             "definition": "give or supply",
-            "translation": "提供帮助",
+            "translation": "提供",
             "examples": []
           },
           {
@@ -121616,7 +121616,7 @@
           {
             "id": "roll-noun-2",
             "definition": "a flight maneuver",
-            "translation": "翻滚动作",
+            "translation": "翻滚",
             "examples": []
           },
           {
@@ -121793,7 +121793,7 @@
           {
             "id": "roll-verb-9",
             "definition": "execute a roll, in tumbling",
-            "translation": "翻来覆去",
+            "translation": "翻滚",
             "examples": [
               {
                 "text": "The gymnasts rolled and jumped",

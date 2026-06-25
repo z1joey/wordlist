@@ -13898,7 +13898,7 @@
           {
             "id": "tap-noun-2",
             "definition": "the act of tapping a telephone or telegraph line to get information",
-            "translation": "搭线窃听",
+            "translation": "窃听",
             "examples": []
           },
           {
@@ -14024,7 +14024,7 @@
           {
             "id": "tap-verb-10",
             "definition": "tap a telephone or telegraph wire to get information",
-            "translation": "搭线监听",
+            "translation": "窃听",
             "examples": [
               {
                 "text": "The FBI was tapping the phone line of the suspected spy",
@@ -33648,7 +33648,7 @@
           {
             "id": "tender-noun-4",
             "definition": "a formal proposal to buy at a specified price",
-            "translation": "投标书",
+            "translation": "投标",
             "examples": []
           },
           {
@@ -77239,7 +77239,7 @@
           {
             "id": "title-verb-1",
             "definition": "designate by an identifying term",
-            "translation": "称呼",
+            "translation": "加标题",
             "examples": []
           },
           {
@@ -92484,7 +92484,7 @@
           {
             "id": "touch-noun-10",
             "definition": "the event of something coming in contact with the body",
-            "translation": "触碰感",
+            "translation": "接触",
             "examples": [
               {
                 "text": "I longed for the touch of your hand.",
@@ -92562,7 +92562,7 @@
           {
             "id": "touch-verb-6",
             "definition": "be in direct physical contact with",
-            "translation": "碰触",
+            "translation": "接触",
             "examples": []
           },
           {
@@ -98232,7 +98232,7 @@
           {
             "id": "trade-noun-7",
             "definition": "steady winds blowing from east to west above and below the equator",
-            "translation": "信风",
+            "translation": "信风带",
             "examples": [
               {
                 "text": "they rode the trade winds going west",
@@ -145596,7 +145596,7 @@
           {
             "id": "twist-noun-3",
             "definition": "turning or twisting around, in place",
-            "translation": "螺旋形",
+            "translation": "盘旋",
             "examples": [
               {
                 "text": "They surveyed the room with a quick twist of their head.",
@@ -145631,7 +145631,7 @@
           {
             "id": "twist-noun-8",
             "definition": "a jerky pulling movement",
-            "translation": "急转",
+            "translation": "猛扭",
             "examples": []
           },
           {
@@ -145661,7 +145661,7 @@
           {
             "id": "twist-noun-13",
             "definition": "a sharp strain on muscles or ligaments",
-            "translation": "扭伤处",
+            "translation": "扭伤",
             "examples": []
           }
         ]
@@ -145718,7 +145718,7 @@
           {
             "id": "twist-verb-7",
             "definition": "twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates",
-            "translation": "急扭",
+            "translation": "猛扭",
             "examples": []
           },
           {
