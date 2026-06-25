@@ -14,15 +14,15 @@
   "notes": {
     "created": "2026-06-25 — initial plan + tracking scaffold, no batches run yet",
     "pickup_instructions": "Read PLAN.md §6 + §8. The first batch to run is `next_batch_id` (=1). The next-batch picker must exclude any (file, index) pair already listed under a committed batch's `word_indices`.",
-    "convention": "word_indices keys are file basenames ('a.json' etc.). Values are integer indices into that file's top-level array."
+    "convention": "word_indices keys are file basenames ('a.json' etc.). Values are integer indices into that file's top-level array.",
+    "integrator_commit_note": "batch 1 ff-merged into feature/add-translations on 2026-06-25. wt/99AE79 was rebased onto feature tip (sha 6720a95, the root-hygiene docs commit landed after the worktree was created) before ff-merge, so the SHAs in commits[] reflect post-rebase history. Field names normalized to integrator schema: senses_newly_filled→senses_filled, senses_fixed_duplicate kept, examples/phrases filled preserved."
   },
   "batches": [
     {
-      "batch_id": 1,
       "phase": "A",
       "size": 500,
       "picked_at": "2026-06-25T16:58:00",
-      "committed_at": "2026-06-25T17:55:00",
+      "committed_at": "2026-06-25",
       "word_indices": {
         "s.json": [
           4685,
@@ -569,46 +569,74 @@
           160
         ]
       },
-      "words_stamped": 453,
-      "words_already_good_skipped": 47,
-      "senses_filled": 3055,
-      "examples_filled": 0,
-      "phrases_filled": 474,
-      "duplicates_fixed": 3055,
       "provider": "agent-c78a7fc7d35b-MiniMax-M3",
       "commits": [
         {
-          "sha": "172f37ceee6fbc83e9f4af222a762708fc2da004",
+          "sha": "c28eb36",
           "scope": "s.json (75w) + a.json (4w)",
           "note": "prior attempt partial"
         },
         {
-          "sha": "81f5941c4f453e6fd1e8f4f0b3c3255cec2b8b58",
+          "sha": "611fc97",
           "scope": "c.json (76w)"
         },
         {
-          "sha": "5468584db570865adfdc20452f8d9d893d2a611c",
+          "sha": "2e3edc9",
           "scope": "d.json (42w) + p.json (41w)"
         },
         {
-          "sha": "58b68d8e8067723d7e062228bf682f8c7c072c37",
+          "sha": "8f73bf8",
           "scope": "t.json (38w) + r.json (27w) + e.json (24w)"
         },
         {
-          "sha": "62a13e57248f13464cd6e7a644a074ca0cf8ec1e",
+          "sha": "8bf490e",
           "scope": "g.json (19w) + b.json (18w) + f.json (15w)"
         },
         {
-          "sha": "4792b6d2e13bfd652f7c1f54cefa09c26d937cef",
+          "sha": "80ea779",
           "scope": "o.json (13w) + l.json (11w) + m.json (10w) + v.json (10w) + i.json (9w) + w.json (8w) + h.json (8w) + n.json (6w) + u.json (3w) + q.json (1w) + y.json (1w)"
         }
       ],
       "validation": "All 500 batch words pass: 0 empty, 0 non-cjk, 0 within-word duplicate translations (3 noun/verb-pair dups in t/r/e are semantically valid — same word's noun and verb share Chinese).",
       "worktree": ".worktrees/wt-99AE79",
       "branch": "wt/99AE79",
-      "senses_newly_filled": 876,
-      "senses_fixed_duplicate": 2179,
-      "senses_total_covered": 3055
+      "id": 1,
+      "stats": {
+        "senses_filled": 876,
+        "senses_fixed_duplicate": 2179,
+        "examples_filled": 0,
+        "phrases_filled": 474,
+        "words_stamped": 453,
+        "words_already_good_skipped": 47,
+        "senses_total_covered": 3055
+      },
+      "status": "committed",
+      "started_at": "2026-06-25",
+      "commit_sha": "0a8c10b31667634e34399e8dc04bccd79bad9eb1",
+      "files": [
+        "a.json",
+        "b.json",
+        "c.json",
+        "d.json",
+        "e.json",
+        "f.json",
+        "g.json",
+        "h.json",
+        "i.json",
+        "l.json",
+        "m.json",
+        "n.json",
+        "o.json",
+        "p.json",
+        "q.json",
+        "r.json",
+        "s.json",
+        "t.json",
+        "u.json",
+        "v.json",
+        "w.json",
+        "y.json"
+      ]
     }
   ]
 }
