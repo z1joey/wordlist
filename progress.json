@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-06-25",
+  "next_batch_id": 1,
+  "totals": {
+    "tagged_words_done": 0,
+    "untagged_words_done": 0,
+    "senses_filled": 0,
+    "senses_fixed_duplicate": 0,
+    "examples_filled": 0,
+    "phrases_filled": 0
+  },
+  "notes": {
+    "created": "2026-06-25 — initial plan + tracking scaffold, no batches run yet",
+    "pickup_instructions": "Read PLAN.md §6 + §8. The first batch to run is `next_batch_id` (=1). The next-batch picker must exclude any (file, index) pair already listed under a committed batch's `word_indices`.",
+    "convention": "word_indices keys are file basenames ('a.json' etc.). Values are integer indices into that file's top-level array."
+  },
+  "batches": []
+}
