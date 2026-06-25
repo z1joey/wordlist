@@ -3363,13 +3363,13 @@
           {
             "id": "fade-noun-1",
             "definition": "gradually ceasing to be visible",
-            "translation": "褪色",
+            "translation": "渐渐消失",
             "examples": []
           },
           {
             "id": "fade-noun-2",
             "definition": "a golf shot that curves to the right for a right-handed golfer",
-            "translation": "褪色",
+            "translation": "（高尔夫）右曲球",
             "examples": []
           }
         ]
@@ -3380,25 +3380,25 @@
           {
             "id": "fade-verb-1",
             "definition": "become feeble",
-            "translation": "褪色",
+            "translation": "变得虚弱",
             "examples": []
           },
           {
             "id": "fade-verb-2",
             "definition": "become less clearly visible or distinguishable",
-            "translation": "褪色",
+            "translation": "变得模糊不清",
             "examples": []
           },
           {
             "id": "fade-verb-3",
             "definition": "disappear gradually",
-            "translation": "褪色",
+            "translation": "逐渐消失",
             "examples": []
           },
           {
             "id": "fade-verb-4",
             "definition": "lose freshness, vigor, or vitality",
-            "translation": "褪色",
+            "translation": "失去新鲜/活力",
             "examples": []
           }
         ]
@@ -3463,8 +3463,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24740,13 +24740,13 @@
           {
             "id": "feeble-adjective-1",
             "definition": "lacking strength",
-            "translation": "",
+            "translation": "虚弱的",
             "examples": []
           },
           {
             "id": "feeble-adjective-2",
             "definition": "lacking bodily or muscular strength or vitality",
-            "translation": "",
+            "translation": "无力的；无活力的",
             "examples": [
               {
                 "text": "a feeble old woman",
@@ -24757,13 +24757,13 @@
           {
             "id": "feeble-adjective-3",
             "definition": "lacking strength or vigor",
-            "translation": "",
+            "translation": "软弱无力的",
             "examples": []
           },
           {
             "id": "feeble-adjective-4",
             "definition": "pathetically lacking in force or effectiveness",
-            "translation": "",
+            "translation": "无效的；徒劳的",
             "examples": [
               {
                 "text": "a feeble excuse",
@@ -24776,8 +24776,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -32135,7 +32135,7 @@
           {
             "id": "festival-noun-1",
             "definition": "an organized series of acts and performances (usually in one place)",
-            "translation": "节日",
+            "translation": "系列庆祝活动",
             "examples": [
               {
                 "text": "a drama festival",
@@ -32146,7 +32146,7 @@
           {
             "id": "festival-noun-2",
             "definition": "a day or period of time set aside for feasting and celebration",
-            "translation": "节日",
+            "translation": "节日；庆典",
             "examples": []
           }
         ]
@@ -32154,8 +32154,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -54284,37 +54284,37 @@
           {
             "id": "flag-noun-2",
             "definition": "stratified stone that splits into pieces suitable as paving stones",
-            "translation": "旗帜",
+            "translation": "（铺路用的）板层石",
             "examples": []
           },
           {
             "id": "flag-noun-3",
             "definition": "flagpole used to mark the position of the hole on a golf green",
-            "translation": "旗帜",
+            "translation": "（高尔夫球洞）旗杆",
             "examples": []
           },
           {
             "id": "flag-noun-4",
             "definition": "a listing printed in all issues of a newspaper or magazine (usually on the editorial page) that gives the name of the publication and the names of the editorial staff, etc.",
-            "translation": "旗帜",
+            "translation": "（报刊的）报头栏",
             "examples": []
           },
           {
             "id": "flag-noun-5",
             "definition": "a rectangular piece of fabric used as a signalling device",
-            "translation": "旗帜",
+            "translation": "信号旗",
             "examples": []
           },
           {
             "id": "flag-noun-6",
             "definition": "plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals",
-            "translation": "旗帜",
+            "translation": "鸢尾；菖蒲",
             "examples": []
           },
           {
             "id": "flag-noun-7",
             "definition": "a conspicuously marked or shaped tail",
-            "translation": "旗帜",
+            "translation": "（动物的）显著尾巴",
             "examples": []
           }
         ]
@@ -54325,25 +54325,25 @@
           {
             "id": "flag-verb-1",
             "definition": "become less intense",
-            "translation": "旗帜",
+            "translation": "减弱；衰退",
             "examples": []
           },
           {
             "id": "flag-verb-2",
             "definition": "provide with a flag",
-            "translation": "旗帜",
+            "translation": "给…挂旗",
             "examples": []
           },
           {
             "id": "flag-verb-3",
             "definition": "communicate or signal with a flag",
-            "translation": "旗帜",
+            "translation": "用旗示意",
             "examples": []
           },
           {
             "id": "flag-verb-4",
             "definition": "decorate with flags",
-            "translation": "旗帜",
+            "translation": "用旗装饰",
             "examples": [
               {
                 "text": "the building was flagged for the holiday",
@@ -54354,7 +54354,7 @@
           {
             "id": "flag-verb-5",
             "definition": "droop, sink, or settle from or as if from pressure or loss of tautness",
-            "translation": "旗帜",
+            "translation": "下垂；松垂",
             "examples": []
           }
         ]
@@ -54383,8 +54383,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -56923,7 +56923,7 @@
           {
             "id": "flare-noun-1",
             "definition": "in baseball, a fly ball hit a short distance into the outfield",
-            "translation": "",
+            "translation": "（棒球）高飞球",
             "examples": [
               {
                 "text": "The flare went right over my head.",
@@ -56934,7 +56934,7 @@
           {
             "id": "flare-noun-2",
             "definition": "a short forward pass to a back who is running toward the sidelines",
-            "translation": "",
+            "translation": "短传",
             "examples": [
               {
                 "text": "I threw a flare to the fullback who was tackled for a loss.",
@@ -56945,19 +56945,19 @@
           {
             "id": "flare-noun-3",
             "definition": "a device that produces a bright light for warning or illumination or identification",
-            "translation": "",
+            "translation": "信号弹；照明弹",
             "examples": []
           },
           {
             "id": "flare-noun-4",
             "definition": "a burst of light used to communicate or illuminate",
-            "translation": "",
+            "translation": "闪光",
             "examples": []
           },
           {
             "id": "flare-noun-5",
             "definition": "a sudden outburst of emotion",
-            "translation": "",
+            "translation": "情感的突然爆发",
             "examples": [
               {
                 "text": "I felt a flare of delight.",
@@ -56968,25 +56968,25 @@
           {
             "id": "flare-noun-6",
             "definition": "am unwanted reflection in an optical system (or the fogging of an image that is caused by such a reflection)",
-            "translation": "",
+            "translation": "（光学）眩光",
             "examples": []
           },
           {
             "id": "flare-noun-7",
             "definition": "a sudden eruption of intense high-energy radiation from the sun's surface",
-            "translation": "",
+            "translation": "（太阳）耀斑",
             "examples": []
           },
           {
             "id": "flare-noun-8",
             "definition": "a sudden burst of flame",
-            "translation": "",
+            "translation": "突然的火焰",
             "examples": []
           },
           {
             "id": "flare-noun-9",
             "definition": "a shape that spreads outward",
-            "translation": "",
+            "translation": "喇叭形展开",
             "examples": [
               {
                 "text": "the skirt had a wide flare",
@@ -56997,7 +56997,7 @@
           {
             "id": "flare-noun-10",
             "definition": "a sudden recurrence or worsening of symptoms",
-            "translation": "",
+            "translation": "症状复发或加重",
             "examples": [
               {
                 "text": "a colitis flare",
@@ -57008,7 +57008,7 @@
           {
             "id": "flare-noun-11",
             "definition": "reddening of the skin spreading outward from a focus of infection or irritation",
-            "translation": "",
+            "translation": "（皮肤）发红扩散",
             "examples": []
           }
         ]
@@ -57019,7 +57019,7 @@
           {
             "id": "flare-verb-1",
             "definition": "become flared and widen, usually at one end",
-            "translation": "",
+            "translation": "（一端）张开；扩大",
             "examples": [
               {
                 "text": "The bellbottom pants flare out",
@@ -57030,13 +57030,13 @@
           {
             "id": "flare-verb-2",
             "definition": "erupt or intensify suddenly",
-            "translation": "",
+            "translation": "突然爆发或加剧",
             "examples": []
           },
           {
             "id": "flare-verb-3",
             "definition": "burn brightly",
-            "translation": "",
+            "translation": "闪耀；燃烧",
             "examples": [
               {
                 "text": "Every star seemed to flare with new intensity",
@@ -57047,7 +57047,7 @@
           {
             "id": "flare-verb-4",
             "definition": "shine with a sudden light",
-            "translation": "",
+            "translation": "闪光；突然发光",
             "examples": [
               {
                 "text": "The night sky flared with the massive bombardment",
@@ -57085,8 +57085,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -58203,19 +58203,19 @@
           {
             "id": "flat-adjective-1",
             "definition": "lacking taste or flavor or tang",
-            "translation": "平的",
+            "translation": "（味道）淡的；无味的",
             "examples": []
           },
           {
             "id": "flat-adjective-2",
             "definition": "flattened laterally along the whole length (e.g., certain leafstalks or flatfishes)",
-            "translation": "平的",
+            "translation": "（生物）扁平的",
             "examples": []
           },
           {
             "id": "flat-adjective-3",
             "definition": "commercially inactive",
-            "translation": "平的",
+            "translation": "（商业）萧条的",
             "examples": [
               {
                 "text": "flat sales for the month",
@@ -58226,13 +58226,13 @@
           {
             "id": "flat-adjective-4",
             "definition": "not reflecting light",
-            "translation": "平的",
+            "translation": "不反光的；哑光的",
             "examples": []
           },
           {
             "id": "flat-adjective-5",
             "definition": "having a relatively broad surface in relation to depth or thickness",
-            "translation": "平的",
+            "translation": "扁平的；浅的",
             "examples": [
               {
                 "text": "flat computer monitors",
@@ -58243,13 +58243,13 @@
           {
             "id": "flat-adjective-6",
             "definition": "lacking the expected range or depth",
-            "translation": "平的",
+            "translation": "缺乏深度或层次的",
             "examples": []
           },
           {
             "id": "flat-adjective-7",
             "definition": "having a surface without slope, tilt in which no part is higher or lower than another",
-            "translation": "平的",
+            "translation": "水平的；平坦的",
             "examples": [
               {
                 "text": "a flat desk",
@@ -58260,13 +58260,13 @@
           {
             "id": "flat-adjective-8",
             "definition": "lacking contrast or shading between tones",
-            "translation": "平的",
+            "translation": "（色彩）平淡的",
             "examples": []
           },
           {
             "id": "flat-adjective-9",
             "definition": "horizontally level",
-            "translation": "平的",
+            "translation": "水平的；齐平的",
             "examples": [
               {
                 "text": "a flat roof",
@@ -58277,7 +58277,7 @@
           {
             "id": "flat-adjective-10",
             "definition": "stretched out and lying at full length along the ground",
-            "translation": "平的",
+            "translation": "平躺的",
             "examples": [
               {
                 "text": "found himself lying flat on the floor",
@@ -58288,25 +58288,25 @@
           {
             "id": "flat-adjective-11",
             "definition": "sounded or spoken in a tone unvarying in pitch",
-            "translation": "平的",
+            "translation": "（声音）单调的",
             "examples": []
           },
           {
             "id": "flat-adjective-12",
             "definition": "(of a musical note) lowered in pitch by one chromatic semitone",
-            "translation": "平的",
+            "translation": "（音乐）降半音的",
             "examples": []
           },
           {
             "id": "flat-adjective-13",
             "definition": "not modified or restricted by reservations",
-            "translation": "平的",
+            "translation": "无保留的；绝对的",
             "examples": []
           },
           {
             "id": "flat-adjective-14",
             "definition": "having lost effervescence",
-            "translation": "平的",
+            "translation": "（饮料）走了气的",
             "examples": [
               {
                 "text": "flat beer",
@@ -58317,7 +58317,7 @@
           {
             "id": "flat-adjective-15",
             "definition": "lacking stimulating characteristics",
-            "translation": "平的",
+            "translation": "无趣的；不刺激的",
             "examples": []
           }
         ]
@@ -58328,13 +58328,13 @@
           {
             "id": "flat-adverb-1",
             "definition": "in a forthright manner",
-            "translation": "平的",
+            "translation": "直截了当地；断然",
             "examples": []
           },
           {
             "id": "flat-adverb-2",
             "definition": "with flat sails",
-            "translation": "平的",
+            "translation": "（航海）满帆",
             "examples": [
               {
                 "text": "sail flat against the wind",
@@ -58350,43 +58350,43 @@
           {
             "id": "flat-noun-1",
             "definition": "a suite of rooms usually on one floor of an apartment house",
-            "translation": "通常在公寓一层的一套房间",
+            "translation": "（公寓的）一层套房",
             "examples": []
           },
           {
             "id": "flat-noun-2",
             "definition": "scenery consisting of a wooden frame covered with painted canvas",
-            "translation": "平的",
+            "translation": "舞台布景片",
             "examples": []
           },
           {
             "id": "flat-noun-3",
             "definition": "a deflated pneumatic tire",
-            "translation": "平的",
+            "translation": "瘪掉的轮胎",
             "examples": []
           },
           {
             "id": "flat-noun-4",
             "definition": "a shallow box in which seedlings are started",
-            "translation": "平的",
+            "translation": "育苗浅盘",
             "examples": []
           },
           {
             "id": "flat-noun-5",
             "definition": "freight car without permanent sides or roof",
-            "translation": "平的",
+            "translation": "平板货车",
             "examples": []
           },
           {
             "id": "flat-noun-6",
             "definition": "a musical notation indicating one half step lower than the note named",
-            "translation": "平的",
+            "translation": "（音乐）降半音符号",
             "examples": []
           },
           {
             "id": "flat-noun-7",
             "definition": "a level tract of land",
-            "translation": "平的",
+            "translation": "平地",
             "examples": [
               {
                 "text": "the salt flats of Utah",
@@ -58440,8 +58440,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -62597,19 +62597,19 @@
           {
             "id": "flexible-adjective-1",
             "definition": "bending and snapping back readily without breaking",
-            "translation": "灵活的",
+            "translation": "柔韧的；可弯曲的",
             "examples": []
           },
           {
             "id": "flexible-adjective-2",
             "definition": "able to flex",
-            "translation": "灵活的",
+            "translation": "能弯曲的",
             "examples": []
           },
           {
             "id": "flexible-adjective-3",
             "definition": "capable of being changed",
-            "translation": "能够被",
+            "translation": "可变动的；可改的",
             "examples": [
               {
                 "text": "flexible schedules",
@@ -62620,13 +62620,13 @@
           {
             "id": "flexible-adjective-4",
             "definition": "making or willing to make concessions",
-            "translation": "灵活的",
+            "translation": "愿意妥协的",
             "examples": []
           },
           {
             "id": "flexible-adjective-5",
             "definition": "able to adjust readily to different conditions",
-            "translation": "灵活的",
+            "translation": "适应性强的",
             "examples": []
           }
         ]
@@ -62639,8 +62639,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -65975,31 +65975,31 @@
           {
             "id": "flock-noun-1",
             "definition": "a group of birds",
-            "translation": "",
+            "translation": "鸟群",
             "examples": []
           },
           {
             "id": "flock-noun-2",
             "definition": "a group of sheep or goats",
-            "translation": "",
+            "translation": "羊群；山羊群",
             "examples": []
           },
           {
             "id": "flock-noun-3",
             "definition": "a church congregation guided by a pastor",
-            "translation": "",
+            "translation": "（牧师领导的）教众",
             "examples": []
           },
           {
             "id": "flock-noun-4",
             "definition": "an orderly crowd",
-            "translation": "",
+            "translation": "人群",
             "examples": []
           },
           {
             "id": "flock-noun-5",
             "definition": "(often followed by `of') a large number or amount or extent",
-            "translation": "",
+            "translation": "大量；许多",
             "examples": []
           }
         ]
@@ -66010,13 +66010,13 @@
           {
             "id": "flock-verb-1",
             "definition": "come together as in a cluster or flock",
-            "translation": "",
+            "translation": "成群聚集",
             "examples": []
           },
           {
             "id": "flock-verb-2",
             "definition": "move as a crowd or in a group",
-            "translation": "",
+            "translation": "成群行动",
             "examples": [
               {
                 "text": "Tourists flocked to the shrine where the statue was said to have shed tears",
@@ -66066,8 +66066,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -72125,13 +72125,13 @@
           {
             "id": "flush-adjective-1",
             "definition": "having an abundant supply of money or possessions of value",
-            "translation": "",
+            "translation": "富裕的；有钱的",
             "examples": []
           },
           {
             "id": "flush-adjective-2",
             "definition": "of a surface exactly even with an adjoining one, forming the same plane",
-            "translation": "飞机的",
+            "translation": "齐平的；同一平面的",
             "examples": []
           }
         ]
@@ -72142,7 +72142,7 @@
           {
             "id": "flush-adverb-1",
             "definition": "squarely or solidly",
-            "translation": "",
+            "translation": "正中地；牢牢地",
             "examples": [
               {
                 "text": "I hit the jerk flush in the face.",
@@ -72153,7 +72153,7 @@
           {
             "id": "flush-adverb-2",
             "definition": "in the same plane",
-            "translation": "",
+            "translation": "在同一平面上",
             "examples": [
               {
                 "text": "set it flush with the top of the table",
@@ -72169,13 +72169,13 @@
           {
             "id": "flush-noun-1",
             "definition": "sudden reddening of the face (as from embarrassment or guilt or shame or modesty)",
-            "translation": "",
+            "translation": "脸红",
             "examples": []
           },
           {
             "id": "flush-noun-2",
             "definition": "a sudden rapid flow, as of water",
-            "translation": "",
+            "translation": "（水的）涌流",
             "examples": [
               {
                 "text": "I heard the flush of a toilet.",
@@ -72186,31 +72186,31 @@
           {
             "id": "flush-noun-3",
             "definition": "the swift release of a store of affective force",
-            "translation": "",
+            "translation": "情绪的强烈释放",
             "examples": []
           },
           {
             "id": "flush-noun-4",
             "definition": "a poker hand with all 5 cards in the same suit",
-            "translation": "",
+            "translation": "（扑克）同花",
             "examples": []
           },
           {
             "id": "flush-noun-5",
             "definition": "a rosy color (especially in the cheeks) taken as a sign of good health",
-            "translation": "",
+            "translation": "（红润的）好气色",
             "examples": []
           },
           {
             "id": "flush-noun-6",
             "definition": "sudden brief sensation of heat (associated with menopause and some mental disorders)",
-            "translation": "",
+            "translation": "一阵热感（更年期相关）",
             "examples": []
           },
           {
             "id": "flush-noun-7",
             "definition": "the period of greatest prosperity or productivity",
-            "translation": "",
+            "translation": "旺盛期；繁荣期",
             "examples": []
           }
         ]
@@ -72221,7 +72221,7 @@
           {
             "id": "flush-verb-1",
             "definition": "rinse, clean, or empty with a liquid",
-            "translation": "",
+            "translation": "冲洗；冲掉",
             "examples": [
               {
                 "text": "flush the wound with antibiotics",
@@ -72232,13 +72232,13 @@
           {
             "id": "flush-verb-2",
             "definition": "make level or straight",
-            "translation": "制造",
+            "translation": "使齐平",
             "examples": []
           },
           {
             "id": "flush-verb-3",
             "definition": "glow or cause to glow with warm color or light",
-            "translation": "",
+            "translation": "发光；泛红",
             "examples": [
               {
                 "text": "the sky flushed with rosy splendor",
@@ -72249,13 +72249,13 @@
           {
             "id": "flush-verb-4",
             "definition": "turn red, as if in embarrassment or shame",
-            "translation": "",
+            "translation": "（因窘迫）脸红",
             "examples": []
           },
           {
             "id": "flush-verb-5",
             "definition": "cause to flow or flood with or as if with water",
-            "translation": "",
+            "translation": "使涌流；淹没",
             "examples": [
               {
                 "text": "flush the meadows",
@@ -72266,7 +72266,7 @@
           {
             "id": "flush-verb-6",
             "definition": "flow freely",
-            "translation": "",
+            "translation": "自由流动",
             "examples": [
               {
                 "text": "The garbage flushed down the river",
@@ -72277,7 +72277,7 @@
           {
             "id": "flush-verb-7",
             "definition": "irrigate with water from a sluice",
-            "translation": "",
+            "translation": "（用闸水）灌溉",
             "examples": []
           }
         ]
@@ -72338,8 +72338,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -84151,7 +84151,7 @@
           {
             "id": "forecast-noun-1",
             "definition": "a prediction about how something (as the weather) will develop",
-            "translation": "预测",
+            "translation": "预测；预报",
             "examples": []
           }
         ]
@@ -84162,13 +84162,13 @@
           {
             "id": "forecast-verb-1",
             "definition": "judge to be probable",
-            "translation": "预测",
+            "translation": "预言；可能发生",
             "examples": []
           },
           {
             "id": "forecast-verb-2",
             "definition": "indicate by signs",
-            "translation": "表明",
+            "translation": "预示；表明",
             "examples": []
           },
           {
@@ -84187,8 +84187,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -104158,7 +104158,7 @@
           {
             "id": "frequent-adjective-1",
             "definition": "frequently encountered",
-            "translation": "频繁的",
+            "translation": "常见的；频繁的",
             "examples": [
               {
                 "text": "a frequent (or common) error is using the transitive verb `lay' for the intransitive `lie'",
@@ -104169,7 +104169,7 @@
           {
             "id": "frequent-adjective-2",
             "definition": "coming at short intervals or habitually",
-            "translation": "频繁的",
+            "translation": "经常的；频繁的",
             "examples": [
               {
                 "text": "a frequent guest",
@@ -104185,13 +104185,13 @@
           {
             "id": "frequent-verb-1",
             "definition": "be a regular or frequent visitor to a certain place",
-            "translation": "频繁的",
+            "translation": "常去；时常出入",
             "examples": []
           },
           {
             "id": "frequent-verb-2",
             "definition": "do one's shopping at",
-            "translation": "频繁的",
+            "translation": "常去购物",
             "examples": []
           }
         ]
@@ -104199,8 +104199,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -105716,7 +105716,7 @@
           {
             "id": "friction-noun-3",
             "definition": "a state of conflict between persons",
-            "translation": "对冲突在...之间人的状态",
+            "translation": "（人际）不和；冲突",
             "examples": []
           }
         ]
@@ -105737,8 +105737,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -116738,13 +116738,13 @@
           {
             "id": "fundamental-adjective-1",
             "definition": "serving as an essential component",
-            "translation": "基本的",
+            "translation": "基本的；根本的",
             "examples": []
           },
           {
             "id": "fundamental-adjective-2",
             "definition": "being or involving basic facts or principles",
-            "translation": "基本的",
+            "translation": "基础的；基于事实的",
             "examples": [
               {
                 "text": "the fundamental laws of the universe",
@@ -116755,7 +116755,7 @@
           {
             "id": "fundamental-adjective-3",
             "definition": "far-reaching and thoroughgoing in effect especially on the nature of something",
-            "translation": "基本的",
+            "translation": "深远彻底的",
             "examples": [
               {
                 "text": "the fundamental revolution in human values that has occurred",
@@ -116771,13 +116771,13 @@
           {
             "id": "fundamental-noun-1",
             "definition": "the lowest tone of a harmonic series",
-            "translation": "基本的",
+            "translation": "基音；根音",
             "examples": []
           },
           {
             "id": "fundamental-noun-2",
             "definition": "any factor that could be considered important to the understanding of a particular business",
-            "translation": "基本的",
+            "translation": "基本要素",
             "examples": [
               {
                 "text": "fundamentals include a company's growth, revenues, earnings, management, and capital structure",
@@ -116795,8 +116795,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -119104,7 +119104,7 @@
           {
             "id": "furnace-noun-1",
             "definition": "an enclosed chamber in which heat is produced to heat buildings, destroy refuse, smelt or refine ores, etc.",
-            "translation": "",
+            "translation": "熔炉；炉子",
             "examples": []
           }
         ]
@@ -119121,8 +119121,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -119315,7 +119315,7 @@
           {
             "id": "furniture-noun-1",
             "definition": "furnishings that make a room or other area ready for occupancy",
-            "translation": "使房间或其他区域准备好占用的家具",
+            "translation": "家具",
             "examples": [
               {
                 "text": "they had too much furniture for the small apartment",
@@ -119328,8 +119328,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

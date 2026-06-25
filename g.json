@@ -9697,7 +9697,7 @@
           {
             "id": "garment-noun-1",
             "definition": "an article of clothing",
-            "translation": "",
+            "translation": "衣服；服装",
             "examples": [
               {
                 "text": "garments of the finest silk",
@@ -9713,7 +9713,7 @@
           {
             "id": "garment-verb-1",
             "definition": "provide with clothes or put clothes on",
-            "translation": "",
+            "translation": "给…穿衣",
             "examples": []
           }
         ]
@@ -9721,8 +9721,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -13897,7 +13897,7 @@
           {
             "id": "gauge-noun-1",
             "definition": "a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain, etc",
-            "translation": "",
+            "translation": "测量仪；量规",
             "examples": [
               {
                 "text": "We placed the gauge out in the lawn.",
@@ -13908,7 +13908,7 @@
           {
             "id": "gauge-noun-2",
             "definition": "diameter of a tube or gun barrel",
-            "translation": "",
+            "translation": "（管子或枪管的）口径",
             "examples": [
               {
                 "text": "We shot a 22 gauge gun.",
@@ -13919,7 +13919,7 @@
           {
             "id": "gauge-noun-3",
             "definition": "the thickness of wire",
-            "translation": "",
+            "translation": "（金属线的）直径",
             "examples": [
               {
                 "text": "I'm not sure if the gauge of the wire is thick enough.",
@@ -13930,7 +13930,7 @@
           {
             "id": "gauge-noun-4",
             "definition": "the distance between the rails of a railway or between the wheels of a train",
-            "translation": "",
+            "translation": "（铁路的）轨距",
             "examples": [
               {
                 "text": "The gauge of the rail lines was non-standard.",
@@ -13941,7 +13941,7 @@
           {
             "id": "gauge-noun-5",
             "definition": "accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared",
-            "translation": "",
+            "translation": "（判断的）标准；规格",
             "examples": []
           }
         ]
@@ -13952,7 +13952,7 @@
           {
             "id": "gauge-verb-1",
             "definition": "to mix in specific proportions",
-            "translation": "",
+            "translation": "按比例混合",
             "examples": [
               {
                 "text": "Make sure to gauge the plaster.",
@@ -13963,7 +13963,7 @@
           {
             "id": "gauge-verb-2",
             "definition": "to adapt to a specified measurement",
-            "translation": "",
+            "translation": "调整（尺寸）",
             "examples": [
               {
                 "text": "We gauged the instruments before we began.",
@@ -13974,7 +13974,7 @@
           {
             "id": "gauge-verb-3",
             "definition": "to measure precisely and against a standard",
-            "translation": "",
+            "translation": "精确测量",
             "examples": [
               {
                 "text": "The wire is gauged for that usage.",
@@ -13985,13 +13985,13 @@
           {
             "id": "gauge-verb-4",
             "definition": "to judge tentatively or form an estimate of quantities or time",
-            "translation": "初步判断或估计数量或时间",
+            "translation": "初步判断；估计",
             "examples": []
           },
           {
             "id": "gauge-verb-5",
             "definition": "to determine the capacity, volume, or contents of by measurement and calculation",
-            "translation": "",
+            "translation": "测算容量或体积",
             "examples": [
               {
                 "text": "We gauged the wine barrels as holding 900 liters.",
@@ -14002,7 +14002,7 @@
           {
             "id": "gauge-verb-6",
             "definition": "to rub to a uniform size",
-            "translation": "",
+            "translation": "磨成均匀尺寸",
             "examples": [
               {
                 "text": "We should gauge the bricks.",
@@ -14015,8 +14015,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -17996,7 +17996,7 @@
           {
             "id": "general-adjective-1",
             "definition": "prevailing among and common to the general public",
-            "translation": "一般的",
+            "translation": "普遍的；大众的",
             "examples": [
               {
                 "text": "the general discontent",
@@ -18007,13 +18007,13 @@
           {
             "id": "general-adjective-2",
             "definition": "of worldwide scope or applicability",
-            "translation": "范围的",
+            "translation": "全球范围的；广泛的",
             "examples": []
           },
           {
             "id": "general-adjective-3",
             "definition": "not specialized or limited to one class of things",
-            "translation": "一般的",
+            "translation": "一般的；通用的",
             "examples": [
               {
                 "text": "general studies",
@@ -18024,7 +18024,7 @@
           {
             "id": "general-adjective-4",
             "definition": "applying to all or most members of a category or group",
-            "translation": "一般的",
+            "translation": "总体的；普遍的",
             "examples": [
               {
                 "text": "the general public",
@@ -18035,7 +18035,7 @@
           {
             "id": "general-adjective-5",
             "definition": "affecting the entire body",
-            "translation": "一般的",
+            "translation": "全身的",
             "examples": [
               {
                 "text": "a general anesthetic",
@@ -18046,7 +18046,7 @@
           {
             "id": "general-adjective-6",
             "definition": "somewhat indefinite",
-            "translation": "一般的",
+            "translation": "模糊的；不确定的",
             "examples": [
               {
                 "text": "bearing a general resemblance to the original",
@@ -18062,7 +18062,7 @@
           {
             "id": "general-noun-1",
             "definition": "a fact about the whole, as opposed to particular",
-            "translation": "一般的",
+            "translation": "总体；通则",
             "examples": [
               {
                 "text": "You discussed the general, but neglected the particular.",
@@ -18073,13 +18073,13 @@
           {
             "id": "general-noun-2",
             "definition": "a general officer of the highest rank",
-            "translation": "一般的",
+            "translation": "（最高级别）将军",
             "examples": []
           },
           {
             "id": "general-noun-3",
             "definition": "the head of a religious order or congregation",
-            "translation": "一般的",
+            "translation": "（宗教）总会长",
             "examples": []
           }
         ]
@@ -18090,7 +18090,7 @@
           {
             "id": "general-verb-1",
             "definition": "command as a general",
-            "translation": "一般的",
+            "translation": "统率；任将军指挥",
             "examples": [
               {
                 "text": "We are generaled by an incompetent!",
@@ -18112,8 +18112,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -21237,19 +21237,19 @@
           {
             "id": "gentle-adjective-1",
             "definition": "marked by moderate steepness",
-            "translation": "温柔的",
+            "translation": "（坡度）平缓的",
             "examples": []
           },
           {
             "id": "gentle-adjective-2",
             "definition": "having little impact",
-            "translation": "温柔的",
+            "translation": "轻微的；影响小的",
             "examples": []
           },
           {
             "id": "gentle-adjective-3",
             "definition": "having or showing a kindly or tender nature",
-            "translation": "温柔的",
+            "translation": "和蔼的；温和的",
             "examples": [
               {
                 "text": "The gentle touch of a hand made everything OK.",
@@ -21260,7 +21260,7 @@
           {
             "id": "gentle-adjective-4",
             "definition": "quiet and soothing",
-            "translation": "温柔的",
+            "translation": "安静的；舒缓的",
             "examples": [
               {
                 "text": "a gentle voice",
@@ -21271,19 +21271,19 @@
           {
             "id": "gentle-adjective-5",
             "definition": "soft and mild",
-            "translation": "温柔的",
+            "translation": "柔和的；不刺激的",
             "examples": []
           },
           {
             "id": "gentle-adjective-6",
             "definition": "belonging to or characteristic of the nobility or aristocracy",
-            "translation": "温柔的",
+            "translation": "贵族的；有身份的",
             "examples": []
           },
           {
             "id": "gentle-adjective-7",
             "definition": "easily handled or managed",
-            "translation": "温柔的",
+            "translation": "温顺的；易驾驭的",
             "examples": [
               {
                 "text": "a gentle old horse, docile and obedient",
@@ -21299,19 +21299,19 @@
           {
             "id": "gentle-verb-1",
             "definition": "stroke soothingly",
-            "translation": "温柔的",
+            "translation": "轻抚",
             "examples": []
           },
           {
             "id": "gentle-verb-2",
             "definition": "cause to be more favorably inclined",
-            "translation": "温柔的",
+            "translation": "使温和；使更友善",
             "examples": []
           },
           {
             "id": "gentle-verb-3",
             "definition": "give a title to someone",
-            "translation": "温柔的",
+            "translation": "授以头衔",
             "examples": []
           }
         ]
@@ -21319,8 +21319,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23113,7 +23113,7 @@
           {
             "id": "geometry-noun-1",
             "definition": "the pure mathematics of points and lines and curves and surfaces",
-            "translation": "",
+            "translation": "几何学",
             "examples": []
           }
         ]
@@ -23134,8 +23134,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24344,19 +24344,19 @@
           {
             "id": "germ-noun-1",
             "definition": "a minute life form (especially a disease-causing bacterium)",
-            "translation": "",
+            "translation": "细菌；病菌",
             "examples": []
           },
           {
             "id": "germ-noun-2",
             "definition": "a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism",
-            "translation": "",
+            "translation": "胚芽；胚胎",
             "examples": []
           },
           {
             "id": "germ-noun-3",
             "definition": "anything that provides inspiration for later work",
-            "translation": "",
+            "translation": "起源；萌芽",
             "examples": []
           }
         ]
@@ -24364,8 +24364,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -25615,13 +25615,13 @@
           {
             "id": "gesture-noun-1",
             "definition": "motion of hands or body to emphasize or help to express a thought or feeling",
-            "translation": "手势",
+            "translation": "手势；姿势",
             "examples": []
           },
           {
             "id": "gesture-noun-2",
             "definition": "something done as an indication of intention",
-            "translation": "手势",
+            "translation": "示意动作",
             "examples": [
               {
                 "text": "a political gesture",
@@ -25632,7 +25632,7 @@
           {
             "id": "gesture-noun-3",
             "definition": "the use of movements (especially of the hands) to communicate familiar or prearranged signals",
-            "translation": "手势",
+            "translation": "手势（语言）",
             "examples": []
           }
         ]
@@ -25643,7 +25643,7 @@
           {
             "id": "gesture-verb-1",
             "definition": "show, express or direct through movement",
-            "translation": "手势",
+            "translation": "用姿势示意",
             "examples": [
               {
                 "text": "They gestured their desire to leave.",
@@ -25661,8 +25661,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -36728,13 +36728,13 @@
           {
             "id": "glare-noun-1",
             "definition": "an angry stare",
-            "translation": "",
+            "translation": "怒视；瞪眼",
             "examples": []
           },
           {
             "id": "glare-noun-2",
             "definition": "a light within the field of vision that is brighter than the brightness to which the eyes are adapted",
-            "translation": "",
+            "translation": "刺眼的强光",
             "examples": [
               {
                 "text": "a glare of sunlight",
@@ -36745,7 +36745,7 @@
           {
             "id": "glare-noun-3",
             "definition": "a focus of public attention",
-            "translation": "",
+            "translation": "（公众关注的）焦点",
             "examples": []
           }
         ]
@@ -36756,7 +36756,7 @@
           {
             "id": "glare-verb-1",
             "definition": "look at with a fixed gaze",
-            "translation": "看",
+            "translation": "怒目而视",
             "examples": [
               {
                 "text": "The bartender glared at anyone who tried to harass their favorite patron.",
@@ -36767,7 +36767,7 @@
           {
             "id": "glare-verb-2",
             "definition": "shine intensely",
-            "translation": "",
+            "translation": "发出刺眼的光",
             "examples": [
               {
                 "text": "The sun glared down on us",
@@ -36778,7 +36778,7 @@
           {
             "id": "glare-verb-3",
             "definition": "be sharply reflected",
-            "translation": "",
+            "translation": "闪耀；反射",
             "examples": [
               {
                 "text": "The moon glared back at itself from the lake's surface",
@@ -36804,8 +36804,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38745,19 +38745,19 @@
           {
             "id": "glide-noun-1",
             "definition": "the activity of flying a glider",
-            "translation": "",
+            "translation": "滑翔",
             "examples": []
           },
           {
             "id": "glide-noun-2",
             "definition": "the act of moving smoothly along a surface while remaining in contact with it",
-            "translation": "",
+            "translation": "滑行",
             "examples": []
           },
           {
             "id": "glide-noun-3",
             "definition": "a vowellike sound that serves as a consonant",
-            "translation": "",
+            "translation": "（语音）滑音",
             "examples": []
           }
         ]
@@ -38768,19 +38768,19 @@
           {
             "id": "glide-verb-1",
             "definition": "move smoothly and effortlessly",
-            "translation": "",
+            "translation": "滑行；流畅地移动",
             "examples": []
           },
           {
             "id": "glide-verb-2",
             "definition": "cause to move or pass silently, smoothly, or imperceptibly",
-            "translation": "",
+            "translation": "使悄悄移动",
             "examples": []
           },
           {
             "id": "glide-verb-3",
             "definition": "fly in or as if in a glider plane",
-            "translation": "",
+            "translation": "滑翔飞行",
             "examples": []
           }
         ]
@@ -38797,8 +38797,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -39036,13 +39036,13 @@
           {
             "id": "glimpse-noun-1",
             "definition": "a quick look",
-            "translation": "一个快的看",
+            "translation": "一瞥；匆匆一看",
             "examples": []
           },
           {
             "id": "glimpse-noun-2",
             "definition": "a brief or incomplete view",
-            "translation": "",
+            "translation": "短暂或不完整的景象",
             "examples": [
               {
                 "text": "From the window I could catch a glimpse of the lake.",
@@ -39053,7 +39053,7 @@
           {
             "id": "glimpse-noun-3",
             "definition": "a vague indication",
-            "translation": "一个模糊的指示",
+            "translation": "模糊的暗示",
             "examples": [
               {
                 "text": "I caught only a glimpse of the professor's meaning.",
@@ -39069,7 +39069,7 @@
           {
             "id": "glimpse-verb-1",
             "definition": "catch a glimpse of or see briefly",
-            "translation": "",
+            "translation": "瞥见；短暂地看",
             "examples": [
               {
                 "text": "We glimpsed the monarch as they got into their limousine.",
@@ -39087,8 +39087,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -41269,7 +41269,7 @@
           {
             "id": "gloomy-adjective-1",
             "definition": "depressingly dark",
-            "translation": "",
+            "translation": "阴暗的；幽暗的",
             "examples": [
               {
                 "text": "the gloomy forest",
@@ -41280,13 +41280,13 @@
           {
             "id": "gloomy-adjective-2",
             "definition": "causing dejection",
-            "translation": "",
+            "translation": "令人沮丧的",
             "examples": []
           },
           {
             "id": "gloomy-adjective-3",
             "definition": "filled with melancholy and despondency",
-            "translation": "",
+            "translation": "忧郁的；悲观的",
             "examples": [
               {
                 "text": "I was gloomy at the thought of what we have to face.",
@@ -41299,8 +41299,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -43354,7 +43354,7 @@
           {
             "id": "glue-noun-1",
             "definition": "cement consisting of a sticky substance that is used as an adhesive",
-            "translation": "",
+            "translation": "胶；胶水",
             "examples": []
           }
         ]
@@ -43365,7 +43365,7 @@
           {
             "id": "glue-verb-1",
             "definition": "be fixed as if by glue",
-            "translation": "",
+            "translation": "紧附；粘住",
             "examples": [
               {
                 "text": "Our eyes were glued on them.",
@@ -43376,7 +43376,7 @@
           {
             "id": "glue-verb-2",
             "definition": "join or attach with or as if with glue",
-            "translation": "",
+            "translation": "用胶粘；粘贴",
             "examples": []
           }
         ]
@@ -43413,8 +43413,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60059,7 +60059,7 @@
           {
             "id": "gracious-adjective-1",
             "definition": "disposed to bestow favors",
-            "translation": "",
+            "translation": "仁慈的；宽厚的",
             "examples": [
               {
                 "text": "thanks to the gracious gods",
@@ -60070,13 +60070,13 @@
           {
             "id": "gracious-adjective-2",
             "definition": "exhibiting courtesy and politeness",
-            "translation": "",
+            "translation": "彬彬有礼的",
             "examples": []
           },
           {
             "id": "gracious-adjective-3",
             "definition": "characterized by charm, good taste, and generosity of spirit",
-            "translation": "以…为特征",
+            "translation": "优雅迷人的",
             "examples": [
               {
                 "text": "gracious even to unexpected visitors",
@@ -60087,7 +60087,7 @@
           {
             "id": "gracious-adjective-4",
             "definition": "characterized by kindness and warm courtesy especially of a king to his subjects",
-            "translation": "以…为特征",
+            "translation": "（君王般）亲切仁慈的",
             "examples": []
           }
         ]
@@ -60095,8 +60095,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -61628,13 +61628,13 @@
           {
             "id": "grain-noun-1",
             "definition": "the physical composition of something (especially with respect to the size and shape of the small constituents of a substance)",
-            "translation": "谷物",
+            "translation": "（物质的）纹理；构造",
             "examples": []
           },
           {
             "id": "grain-noun-2",
             "definition": "the direction, texture, or pattern of fibers found in wood or leather or stone or in a woven fabric",
-            "translation": "谷物",
+            "translation": "（木、石等的）纹理方向",
             "examples": [
               {
                 "text": "saw the board across the grain",
@@ -61645,7 +61645,7 @@
           {
             "id": "grain-noun-3",
             "definition": "the smallest possible unit of anything",
-            "translation": "谷物",
+            "translation": "最小单位；微粒",
             "examples": [
               {
                 "text": "There was a grain of truth in what I said.",
@@ -61656,13 +61656,13 @@
           {
             "id": "grain-noun-4",
             "definition": "foodstuff prepared from the starchy grains of cereal grasses",
-            "translation": "谷物",
+            "translation": "谷物食品",
             "examples": []
           },
           {
             "id": "grain-noun-5",
             "definition": "a relatively small granular particle of a substance",
-            "translation": "谷物",
+            "translation": "颗粒；细粒",
             "examples": [
               {
                 "text": "a grain of sand",
@@ -61673,7 +61673,7 @@
           {
             "id": "grain-noun-6",
             "definition": "a cereal grass",
-            "translation": "谷物",
+            "translation": "谷类植物",
             "examples": [
               {
                 "text": "wheat is a grain that is grown in Kansas",
@@ -61684,13 +61684,13 @@
           {
             "id": "grain-noun-7",
             "definition": "dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn",
-            "translation": "谷物",
+            "translation": "谷粒",
             "examples": []
           },
           {
             "id": "grain-noun-8",
             "definition": "1/7000 pound",
-            "translation": "谷物",
+            "translation": "格令（1/7000磅）",
             "examples": [
               {
                 "text": "equals a troy grain or 64.799 milligrams",
@@ -61701,7 +61701,7 @@
           {
             "id": "grain-noun-9",
             "definition": "1/60 dram",
-            "translation": "谷物",
+            "translation": "格令（1/60打兰）",
             "examples": [
               {
                 "text": "equals an avoirdupois grain or 64.799 milligrams",
@@ -61712,13 +61712,13 @@
           {
             "id": "grain-noun-10",
             "definition": "a weight unit used for pearls or diamonds: 50 mg or 1/4 carat",
-            "translation": "谷物",
+            "translation": "格令（珍珠钻石的重量单位）",
             "examples": []
           },
           {
             "id": "grain-noun-11",
             "definition": "the side of leather from which the hair has been removed",
-            "translation": "谷物",
+            "translation": "（皮革的）粒面",
             "examples": []
           }
         ]
@@ -61729,25 +61729,25 @@
           {
             "id": "grain-verb-1",
             "definition": "become granular",
-            "translation": "谷物",
+            "translation": "成粒状",
             "examples": []
           },
           {
             "id": "grain-verb-2",
             "definition": "form into grains",
-            "translation": "形式",
+            "translation": "形成颗粒",
             "examples": []
           },
           {
             "id": "grain-verb-3",
             "definition": "paint (a surface) to make it look like stone or wood",
-            "translation": "油漆",
+            "translation": "绘制木纹或石纹",
             "examples": []
           },
           {
             "id": "grain-verb-4",
             "definition": "thoroughly work in",
-            "translation": "谷物",
+            "translation": "彻底渗入；渗透",
             "examples": [
               {
                 "text": "Their hands were grained with dirt.",
@@ -61777,8 +61777,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -67271,7 +67271,7 @@
           {
             "id": "gratitude-noun-1",
             "definition": "a feeling of thankfulness and appreciation",
-            "translation": "",
+            "translation": "感激；感谢",
             "examples": [
               {
                 "text": "I was overwhelmed with gratitude for their help.",
@@ -67284,8 +67284,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -68663,19 +68663,19 @@
           {
             "id": "gravity-noun-1",
             "definition": "a manner that is serious and solemn",
-            "translation": "重力",
+            "translation": "庄严；严肃",
             "examples": []
           },
           {
             "id": "gravity-noun-2",
             "definition": "a solemn and dignified feeling",
-            "translation": "重力",
+            "translation": "庄重的感情",
             "examples": []
           },
           {
             "id": "gravity-noun-3",
             "definition": "(physics) the force of attraction between all masses in the universe",
-            "translation": "重力",
+            "translation": "（物理）重力；引力",
             "examples": []
           }
         ]
@@ -68683,8 +68683,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -70410,7 +70410,7 @@
           {
             "id": "greedy-adjective-1",
             "definition": "wanting to eat or drink more than one can reasonably consume",
-            "translation": "",
+            "translation": "贪吃的",
             "examples": [
               {
                 "text": "don't be greedy with the cookies",
@@ -70421,13 +70421,13 @@
           {
             "id": "greedy-adjective-2",
             "definition": "immoderately desirous of acquiring e.g. wealth",
-            "translation": "对获取（如财富）过度渴望的",
+            "translation": "贪得无厌的；贪婪的",
             "examples": []
           },
           {
             "id": "greedy-adjective-3",
             "definition": "(often followed by `for') ardently or excessively desirous",
-            "translation": "（常后跟for）热切或过度渴望的",
+            "translation": "渴望的；贪求的",
             "examples": []
           }
         ]
@@ -70435,8 +70435,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -73487,7 +73487,7 @@
           {
             "id": "grieve-verb-1",
             "definition": "cause to feel sorrow",
-            "translation": "",
+            "translation": "使悲伤；使伤心",
             "examples": [
               {
                 "text": "Their behavior grieves their mother.",
@@ -73498,7 +73498,7 @@
           {
             "id": "grieve-verb-2",
             "definition": "feel grief",
-            "translation": "感觉悲伤",
+            "translation": "感到悲痛；伤心",
             "examples": []
           }
         ]
@@ -73519,8 +73519,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -83090,13 +83090,13 @@
           {
             "id": "guarantee-noun-1",
             "definition": "a written assurance that some product or service will be provided or will meet certain specifications",
-            "translation": "保证",
+            "translation": "（书面）保证书；保修单",
             "examples": []
           },
           {
             "id": "guarantee-noun-2",
             "definition": "an unconditional commitment that something will happen or that something is true",
-            "translation": "保证",
+            "translation": "（无条件）保证",
             "examples": [
               {
                 "text": "there is no guarantee that they are not lying",
@@ -83107,7 +83107,7 @@
           {
             "id": "guarantee-noun-3",
             "definition": "a collateral agreement to answer for the debt of another in case that person defaults",
-            "translation": "保证",
+            "translation": "担保；抵押担保",
             "examples": []
           }
         ]
@@ -83118,7 +83118,7 @@
           {
             "id": "guarantee-verb-1",
             "definition": "promise to do or accomplish",
-            "translation": "保证",
+            "translation": "承诺；保证",
             "examples": [
               {
                 "text": "guarantee to free the prisoners",
@@ -83129,19 +83129,19 @@
           {
             "id": "guarantee-verb-2",
             "definition": "give surety or assume responsibility",
-            "translation": "保证",
+            "translation": "担保；作保",
             "examples": []
           },
           {
             "id": "guarantee-verb-3",
             "definition": "make certain of",
-            "translation": "制造",
+            "translation": "确保；使确定",
             "examples": []
           },
           {
             "id": "guarantee-verb-4",
             "definition": "stand behind and guarantee the quality, accuracy, or condition of",
-            "translation": "保证",
+            "translation": "为…的质量背书",
             "examples": []
           }
         ]
@@ -83198,8 +83198,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

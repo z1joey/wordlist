@@ -13868,7 +13868,7 @@
           {
             "id": "balloon-noun-1",
             "definition": "large tough nonrigid bag filled with gas or heated air",
-            "translation": "气球",
+            "translation": "大气球；热气球",
             "examples": []
           },
           {
@@ -13909,8 +13909,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -15327,25 +15327,25 @@
           {
             "id": "ban-noun-1",
             "definition": "a decree that prohibits something",
-            "translation": "禁止",
+            "translation": "禁令",
             "examples": []
           },
           {
             "id": "ban-noun-2",
             "definition": "an official prohibition or edict against something",
-            "translation": "禁止",
+            "translation": "（官方）禁止；取缔",
             "examples": []
           },
           {
             "id": "ban-noun-3",
             "definition": "100 bani equal 1 leu in Romania",
-            "translation": "禁止",
+            "translation": "巴尼（罗马尼亚货币，100巴尼=1列伊）",
             "examples": []
           },
           {
             "id": "ban-noun-4",
             "definition": "100 bani equal 1 leu in Moldova",
-            "translation": "禁止",
+            "translation": "巴尼（摩尔多瓦货币）",
             "examples": []
           }
         ]
@@ -15356,7 +15356,7 @@
           {
             "id": "ban-verb-1",
             "definition": "to prohibit especially by legal means or social pressure",
-            "translation": "禁止",
+            "translation": "禁止；取缔",
             "examples": [
               {
                 "text": "This referendum will ban smoking inside all government buildings.",
@@ -15367,7 +15367,7 @@
           {
             "id": "ban-verb-2",
             "definition": "to forbid the public distribution of media",
-            "translation": "禁止",
+            "translation": "禁止（媒体）公开发行",
             "examples": [
               {
                 "text": "The government is temporarily banning books with inappropriate themes.",
@@ -15378,7 +15378,7 @@
           {
             "id": "ban-verb-3",
             "definition": "to expel from a community or group",
-            "translation": "禁止",
+            "translation": "驱逐；逐出",
             "examples": [
               {
                 "text": "The sect banned them for not following the rules.",
@@ -15389,7 +15389,7 @@
           {
             "id": "ban-verb-4",
             "definition": "to banish from a place of residence, as for punishment",
-            "translation": "禁止",
+            "translation": "流放；放逐",
             "examples": [
               {
                 "text": "We banned them because of their behavior.",
@@ -15415,8 +15415,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23442,7 +23442,7 @@
           {
             "id": "bark-verb-1",
             "definition": "to tan a skin with bark tannins",
-            "translation": "用树鞣料鞣制",
+            "translation": "用树皮鞣制（皮革）",
             "examples": [
               {
                 "text": "I learned how to bark a deer hide the traditional way.",
@@ -23513,8 +23513,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23946,13 +23946,13 @@
           {
             "id": "barn-noun-1",
             "definition": "an outlying farm building for storing grain or animal feed and housing farm animals",
-            "translation": "",
+            "translation": "谷仓；牲口棚",
             "examples": []
           },
           {
             "id": "barn-noun-2",
             "definition": "(physics) a unit of nuclear cross section",
-            "translation": "",
+            "translation": "靶（恩）（核截面单位）",
             "examples": []
           }
         ]
@@ -23960,8 +23960,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26325,13 +26325,13 @@
           {
             "id": "barrier-noun-1",
             "definition": "a structure or object that impedes free movement",
-            "translation": "障碍",
+            "translation": "障碍物；屏障",
             "examples": []
           },
           {
             "id": "barrier-noun-2",
             "definition": "any condition that makes it difficult to make progress or to achieve an objective",
-            "translation": "障碍",
+            "translation": "（抽象）障碍；壁垒",
             "examples": [
               {
                 "text": "intolerance is a barrier to understanding",
@@ -26342,7 +26342,7 @@
           {
             "id": "barrier-noun-3",
             "definition": "anything serving to maintain separation by obstructing vision or access",
-            "translation": "障碍",
+            "translation": "隔断；屏障",
             "examples": []
           }
         ]
@@ -26371,8 +26371,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -40913,7 +40913,7 @@
           {
             "id": "beam-noun-1",
             "definition": "a gymnastic apparatus used by women gymnasts",
-            "translation": "（女子体操的）平衡木",
+            "translation": "（女子体操）平衡木",
             "examples": []
           },
           {
@@ -40925,7 +40925,7 @@
           {
             "id": "beam-noun-3",
             "definition": "the broad side of a ship",
-            "translation": "一个船的广阔的边",
+            "translation": "船舷；船宽侧",
             "examples": [
               {
                 "text": "they sighted land on the port beam",
@@ -40954,7 +40954,7 @@
           {
             "id": "beam-noun-7",
             "definition": "a group of nearly parallel lines of electromagnetic radiation",
-            "translation": "（电磁辐射的）束",
+            "translation": "（电磁辐射的）射线束",
             "examples": []
           }
         ]
@@ -40965,7 +40965,7 @@
           {
             "id": "beam-verb-1",
             "definition": "to smile radiantly",
-            "translation": "喜形于色；微笑",
+            "translation": "眉开眼笑；微笑",
             "examples": [
               {
                 "text": "I beamed after winning the lottery.",
@@ -40976,7 +40976,7 @@
           {
             "id": "beam-verb-2",
             "definition": "to broadcast over the airwaves, as in radio or television",
-            "translation": "通过无线电波广播，如广播或电视",
+            "translation": "广播；播送",
             "examples": [
               {
                 "text": "We beamed the program all over the world.",
@@ -40987,7 +40987,7 @@
           {
             "id": "beam-verb-3",
             "definition": "to express with a cheerful face or smile",
-            "translation": "（脸上）洋溢着；表达",
+            "translation": "面露喜色",
             "examples": [
               {
                 "text": "I beamed with approval.",
@@ -40998,7 +40998,7 @@
           {
             "id": "beam-verb-4",
             "definition": "to experience a feeling of well-being or happiness, as from good health or an intense emotion",
-            "translation": "感到愉快；高兴",
+            "translation": "感到愉快",
             "examples": [
               {
                 "text": "I was beaming with joy.",
@@ -41009,7 +41009,7 @@
           {
             "id": "beam-verb-5",
             "definition": "to have a complexion with a strong bright color, such as red or pink",
-            "translation": "（面色）红润；发亮",
+            "translation": "（面色）红润",
             "examples": [
               {
                 "text": "You're really beaming.",
@@ -41130,8 +41130,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -56600,13 +56600,13 @@
           {
             "id": "bend-noun-1",
             "definition": "curved segment (of a road or river or railroad track etc.)",
-            "translation": "（路、河流等的）弯道；拐弯处",
+            "translation": "（道路、河流的）弯道；拐弯处",
             "examples": []
           },
           {
             "id": "bend-noun-2",
             "definition": "diagonal line traversing a shield from the upper right corner to the lower left",
-            "translation": "（纹章学）斜对角线条",
+            "translation": "（纹章）斜对角线条",
             "examples": []
           },
           {
@@ -56618,7 +56618,7 @@
           {
             "id": "bend-noun-4",
             "definition": "a circular segment of a curve",
-            "translation": "（曲线的）弧段",
+            "translation": "（曲线）弧段",
             "examples": [
               {
                 "text": "a bend in the road",
@@ -56753,8 +56753,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -63648,7 +63648,7 @@
           {
             "id": "betray-verb-1",
             "definition": "to give away information about somebody",
-            "translation": "背叛",
+            "translation": "出卖；告密",
             "examples": [
               {
                 "text": "I betrayed my friend's job search to their current employer.",
@@ -63659,7 +63659,7 @@
           {
             "id": "betray-verb-2",
             "definition": "to cause someone to believe an untruth",
-            "translation": "背叛",
+            "translation": "误导；使相信假象",
             "examples": [
               {
                 "text": "The ideologue betrayed their followers.",
@@ -63670,7 +63670,7 @@
           {
             "id": "betray-verb-3",
             "definition": "to reveal unintentionally",
-            "translation": "背叛",
+            "translation": "（无意中）泄露",
             "examples": [
               {
                 "text": "Your smile betrayed your true feelings.",
@@ -63681,7 +63681,7 @@
           {
             "id": "betray-verb-4",
             "definition": "to disappoint, prove undependable to",
-            "translation": "背叛",
+            "translation": "辜负；使失望",
             "examples": [
               {
                 "text": "You betrayed me again.",
@@ -63692,7 +63692,7 @@
           {
             "id": "betray-verb-5",
             "definition": "to deliver to an enemy by treachery",
-            "translation": "背叛",
+            "translation": "背叛；投敌",
             "examples": [
               {
                 "text": "They betrayed us by leaking secrets to the other team.",
@@ -63703,7 +63703,7 @@
           {
             "id": "betray-verb-6",
             "definition": "to be sexually unfaithful to one's partner in marriage",
-            "translation": "背叛",
+            "translation": "对配偶不忠",
             "examples": [
               {
                 "text": "They betrayed their partner publicly.",
@@ -63725,8 +63725,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -89137,19 +89137,19 @@
           {
             "id": "blast-noun-1",
             "definition": "a very long fly ball",
-            "translation": "",
+            "translation": "（棒球）高远飞球",
             "examples": []
           },
           {
             "id": "blast-noun-2",
             "definition": "intense adverse criticism",
-            "translation": "",
+            "translation": "猛烈抨击；痛斥",
             "examples": []
           },
           {
             "id": "blast-noun-3",
             "definition": "a highly pleasurable or exciting experience",
-            "translation": "",
+            "translation": "（俚）极愉快的经历",
             "examples": []
           },
           {
@@ -89161,13 +89161,13 @@
           {
             "id": "blast-noun-5",
             "definition": "an explosion (as of dynamite)",
-            "translation": "",
+            "translation": "爆炸",
             "examples": []
           },
           {
             "id": "blast-noun-6",
             "definition": "a strong current of air",
-            "translation": "",
+            "translation": "强气流",
             "examples": []
           }
         ]
@@ -89178,7 +89178,7 @@
           {
             "id": "blast-verb-1",
             "definition": "to shrivel, wither or mature imperfectly",
-            "translation": "",
+            "translation": "使枯萎；使发育不良",
             "examples": [
               {
                 "text": "The plant blasted.",
@@ -89189,7 +89189,7 @@
           {
             "id": "blast-verb-2",
             "definition": "to shatter as if by explosion",
-            "translation": "",
+            "translation": "炸裂；炸碎",
             "examples": [
               {
                 "text": "We blasted the mountain clean away, to teach it a lesson.",
@@ -89200,7 +89200,7 @@
           {
             "id": "blast-verb-3",
             "definition": "to criticize harshly or violently",
-            "translation": "",
+            "translation": "严厉批评",
             "examples": [
               {
                 "text": "I blasted them for their cruel statements.",
@@ -89211,7 +89211,7 @@
           {
             "id": "blast-verb-4",
             "definition": "to fire a shot",
-            "translation": "火一个射击",
+            "translation": "开炮；射击",
             "examples": [
               {
                 "text": "The gunman blasted away.",
@@ -89222,7 +89222,7 @@
           {
             "id": "blast-verb-5",
             "definition": "to use explosives on",
-            "translation": "",
+            "translation": "爆破",
             "examples": [
               {
                 "text": "I blasted the pile of old computers with joy.",
@@ -89233,7 +89233,7 @@
           {
             "id": "blast-verb-6",
             "definition": "to hit hard",
-            "translation": "打努力的",
+            "translation": "重击；猛打",
             "examples": [
               {
                 "text": "The cops blasted the protestors with a water cannon.",
@@ -89244,7 +89244,7 @@
           {
             "id": "blast-verb-7",
             "definition": "to create by using explosives",
-            "translation": "",
+            "translation": "炸出；炸成",
             "examples": [
               {
                 "text": "We should blast a passage through the mountain.",
@@ -89255,7 +89255,7 @@
           {
             "id": "blast-verb-8",
             "definition": "to apply a draft or strong wind to",
-            "translation": "",
+            "translation": "向…吹风",
             "examples": [
               {
                 "text": "The air conditioning was blasting cold air at us.",
@@ -89266,7 +89266,7 @@
           {
             "id": "blast-verb-9",
             "definition": "to make a strident sound",
-            "translation": "",
+            "translation": "发出尖锐声响",
             "examples": [
               {
                 "text": "They tended to blast when speaking into a microphone.",
@@ -89304,8 +89304,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -98494,13 +98494,13 @@
           {
             "id": "blossom-noun-1",
             "definition": "reproductive organ of angiosperm plants especially one having showy or colorful parts",
-            "translation": "",
+            "translation": "花朵",
             "examples": []
           },
           {
             "id": "blossom-noun-2",
             "definition": "the period of greatest prosperity or productivity",
-            "translation": "",
+            "translation": "全盛期；兴旺期",
             "examples": []
           }
         ]
@@ -98511,7 +98511,7 @@
           {
             "id": "blossom-verb-1",
             "definition": "to develop or come to a promising stage",
-            "translation": "",
+            "translation": "成长；发展",
             "examples": [
               {
                 "text": "Youth blossomed into maturity.",
@@ -98522,7 +98522,7 @@
           {
             "id": "blossom-verb-2",
             "definition": "to produce or yield flowers",
-            "translation": "产生；实现",
+            "translation": "开花",
             "examples": [
               {
                 "text": "The flowers blossom in the spring.",
@@ -98548,8 +98548,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -103794,7 +103794,7 @@
           {
             "id": "board-noun-1",
             "definition": "a flat piece of material designed for a special purpose",
-            "translation": "木板",
+            "translation": "板；薄板",
             "examples": [
               {
                 "text": "They nailed boards across the windows to prepare for the storm.",
@@ -103805,7 +103805,7 @@
           {
             "id": "board-noun-2",
             "definition": "a flat portable surface, usually rectangular, designed for board games",
-            "translation": "木板",
+            "translation": "棋盘",
             "examples": [
               {
                 "text": "They got out the board and set up the pieces.",
@@ -103816,37 +103816,37 @@
           {
             "id": "board-noun-3",
             "definition": "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities",
-            "translation": "木板",
+            "translation": "（计算机）电路板",
             "examples": []
           },
           {
             "id": "board-noun-4",
             "definition": "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices",
-            "translation": "木板",
+            "translation": "配电板；仪表板",
             "examples": []
           },
           {
             "id": "board-noun-5",
             "definition": "a table at which meals are served",
-            "translation": "木板",
+            "translation": "餐桌",
             "examples": []
           },
           {
             "id": "board-noun-6",
             "definition": "a vertical surface on which information can be displayed to public view",
-            "translation": "木板",
+            "translation": "布告板",
             "examples": []
           },
           {
             "id": "board-noun-7",
             "definition": "food or meals in general",
-            "translation": "木板",
+            "translation": "膳食；伙食",
             "examples": []
           },
           {
             "id": "board-noun-8",
             "definition": "a committee having supervisory powers",
-            "translation": "木板",
+            "translation": "委员会；董事会",
             "examples": [
               {
                 "text": "the board has seven members",
@@ -103857,7 +103857,7 @@
           {
             "id": "board-noun-9",
             "definition": "a stout length of sawn timber",
-            "translation": "木板",
+            "translation": "（建筑用）厚木板",
             "examples": []
           }
         ]
@@ -103868,7 +103868,7 @@
           {
             "id": "board-verb-1",
             "definition": "to provide food and lodging for",
-            "translation": "木板",
+            "translation": "提供食宿",
             "examples": [
               {
                 "text": "We are boarding three people right now.",
@@ -103879,7 +103879,7 @@
           {
             "id": "board-verb-2",
             "definition": "to lodge and take meals at",
-            "translation": "木板",
+            "translation": "寄宿；搭伙",
             "examples": [
               {
                 "text": "I board with a family in town during the semester.",
@@ -103890,7 +103890,7 @@
           {
             "id": "board-verb-3",
             "definition": "to get on board of trains, buses, ships, aircraft, etc.",
-            "translation": "上车",
+            "translation": "上（车、船、飞机等）",
             "examples": [
               {
                 "text": "We should hurry up and board the ship.",
@@ -103901,7 +103901,7 @@
           {
             "id": "board-verb-4",
             "definition": "to live and take one's meals at or in",
-            "translation": "木板",
+            "translation": "住在（某处）并在那儿吃饭",
             "examples": [
               {
                 "text": "I board in the university dorms.",
@@ -103963,8 +103963,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -115896,13 +115896,13 @@
           {
             "id": "boost-noun-1",
             "definition": "the act of giving hope or support to someone",
-            "translation": "",
+            "translation": "鼓舞；激励",
             "examples": []
           },
           {
             "id": "boost-noun-2",
             "definition": "the act of giving a push",
-            "translation": "",
+            "translation": "推动；推举",
             "examples": [
               {
                 "text": "You gave them a boost over the fence.",
@@ -115913,7 +115913,7 @@
           {
             "id": "boost-noun-3",
             "definition": "an increase in cost",
-            "translation": "",
+            "translation": "涨价；增加",
             "examples": []
           }
         ]
@@ -115924,7 +115924,7 @@
           {
             "id": "boost-verb-1",
             "definition": "to increase or raise",
-            "translation": "增加或提高",
+            "translation": "提高；增加",
             "examples": [
               {
                 "text": "Should they boost the voltage in the electrical circuit?",
@@ -115935,7 +115935,7 @@
           {
             "id": "boost-verb-2",
             "definition": "to push or shove upward, as if from below or behind",
-            "translation": "",
+            "translation": "从后面向上推",
             "examples": [
               {
                 "text": "The singer had to be boosted onto the stage by a special contraption.",
@@ -115957,7 +115957,7 @@
           {
             "id": "boost-verb-4",
             "definition": "to contribute to the progress or growth of",
-            "translation": "促进...的进步或成长",
+            "translation": "促进；推动",
             "examples": [
               {
                 "text": "I think spending my time will boost your efforts.",
@@ -115987,8 +115987,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -144360,7 +144360,7 @@
           {
             "id": "brisk-adjective-1",
             "definition": "very active",
-            "translation": "",
+            "translation": "活跃的；兴旺的",
             "examples": [
               {
                 "text": "doing a brisk business",
@@ -144371,7 +144371,7 @@
           {
             "id": "brisk-adjective-2",
             "definition": "quick and energetic",
-            "translation": "快速而充满活力",
+            "translation": "轻快有力的",
             "examples": [
               {
                 "text": "a brisk walk in the park",
@@ -144382,7 +144382,7 @@
           {
             "id": "brisk-adjective-3",
             "definition": "imparting vitality and energy",
-            "translation": "",
+            "translation": "爽快的；清新的",
             "examples": []
           }
         ]
@@ -144393,7 +144393,7 @@
           {
             "id": "brisk-verb-1",
             "definition": "to increase in pace or rate",
-            "translation": "",
+            "translation": "加快步伐",
             "examples": [
               {
                 "text": "Recently, business has brisked up.",
@@ -144415,8 +144415,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -145243,19 +145243,19 @@
           {
             "id": "brittle-adjective-1",
             "definition": "having little elasticity",
-            "translation": "",
+            "translation": "易碎的；脆的",
             "examples": []
           },
           {
             "id": "brittle-adjective-2",
             "definition": "(of metal or glass) not annealed and consequently easily cracked or fractured",
-            "translation": "",
+            "translation": "（金属或玻璃）未退火的",
             "examples": []
           },
           {
             "id": "brittle-adjective-3",
             "definition": "lacking warmth and generosity of spirit",
-            "translation": "",
+            "translation": "冷淡的；尖刻的",
             "examples": [
               {
                 "text": "a brittle and calculating woman",
@@ -145271,7 +145271,7 @@
           {
             "id": "brittle-noun-1",
             "definition": "caramelized sugar cooled in thin sheets",
-            "translation": "",
+            "translation": "脆皮糖；脆糖片",
             "examples": []
           }
         ]
@@ -145279,8 +145279,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -151131,7 +151131,7 @@
           {
             "id": "bruise-noun-1",
             "definition": "an injury that doesn't break the skin but results in some discoloration",
-            "translation": "",
+            "translation": "瘀伤；青肿",
             "examples": []
           }
         ]
@@ -151142,7 +151142,7 @@
           {
             "id": "bruise-verb-1",
             "definition": "to damage by abrasion or pressure, such as plant tissue",
-            "translation": "",
+            "translation": "碰伤；擦伤",
             "examples": [
               {
                 "text": "The customer bruised the strawberries by squeezing them.",
@@ -151153,7 +151153,7 @@
           {
             "id": "bruise-verb-2",
             "definition": "to break up into small pieces for food preparation",
-            "translation": "分裂",
+            "translation": "捣碎（食物）",
             "examples": [
               {
                 "text": "They told me to bruise the berries with a wooden spoon and strain them.",
@@ -151164,7 +151164,7 @@
           {
             "id": "bruise-verb-3",
             "definition": "to injure the underlying soft tissue or bone of",
-            "translation": "",
+            "translation": "使（软组织或骨）受伤",
             "examples": [
               {
                 "text": "I bruised my knee when I fell down.",
@@ -151175,7 +151175,7 @@
           {
             "id": "bruise-verb-4",
             "definition": "to hurt the feelings of",
-            "translation": "",
+            "translation": "伤害感情",
             "examples": [
               {
                 "text": "I felt bad for bruising you with my harsh comments.",
@@ -151193,8 +151193,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -154980,13 +154980,13 @@
           {
             "id": "bud-noun-1",
             "definition": "a partially opened flower",
-            "translation": "",
+            "translation": "半开的花；花蕾",
             "examples": []
           },
           {
             "id": "bud-noun-2",
             "definition": "a swelling on a plant stem consisting of overlapping immature leaves or petals",
-            "translation": "",
+            "translation": "芽；苞",
             "examples": []
           }
         ]
@@ -154997,7 +154997,7 @@
           {
             "id": "bud-verb-1",
             "definition": "to start to grow or develop",
-            "translation": "开始",
+            "translation": "开始生长；萌芽",
             "examples": [
               {
                 "text": "The tree is budding.",
@@ -155008,7 +155008,7 @@
           {
             "id": "bud-verb-2",
             "definition": "to develop buds",
-            "translation": "",
+            "translation": "发芽；含苞",
             "examples": [
               {
                 "text": "The hibiscus is budding!",
@@ -155046,8 +155046,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -155460,7 +155460,7 @@
           {
             "id": "budget-noun-1",
             "definition": "a summary of intended expenditures along with proposals for how to meet them",
-            "translation": "预算",
+            "translation": "预算；预算案",
             "examples": [
               {
                 "text": "the president submitted the annual budget to Congress",
@@ -155471,7 +155471,7 @@
           {
             "id": "budget-noun-2",
             "definition": "a sum of money allocated for a particular purpose",
-            "translation": "预算",
+            "translation": "预算金额",
             "examples": [
               {
                 "text": "the laboratory runs on a budget of a million a year",
@@ -155487,7 +155487,7 @@
           {
             "id": "budget-verb-1",
             "definition": "to make a budget",
-            "translation": "制造一个预算",
+            "translation": "编制预算",
             "examples": [
               {
                 "text": "I budgeted my finances.",
@@ -155509,8 +155509,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -158104,7 +158104,7 @@
           {
             "id": "bulb-noun-1",
             "definition": "a rounded part of a cylindrical instrument (usually at one end)",
-            "translation": "",
+            "translation": "（圆柱形物的）球形端",
             "examples": [
               {
                 "text": "the bulb of a syringe",
@@ -158115,31 +158115,31 @@
           {
             "id": "bulb-noun-2",
             "definition": "electric lamp consisting of a transparent or translucent glass housing containing a wire filament (usually tungsten) that emits light when heated by electricity",
-            "translation": "",
+            "translation": "电灯泡",
             "examples": []
           },
           {
             "id": "bulb-noun-3",
             "definition": "a rounded dilation or expansion in a canal or vessel or organ",
-            "translation": "",
+            "translation": "（管、血管的）球状膨大",
             "examples": []
           },
           {
             "id": "bulb-noun-4",
             "definition": "lower or hindmost part of the brain",
-            "translation": "",
+            "translation": "延髓",
             "examples": []
           },
           {
             "id": "bulb-noun-5",
             "definition": "a modified bud consisting of a thickened globular underground stem serving as a reproductive structure",
-            "translation": "",
+            "translation": "（植物的）鳞茎",
             "examples": []
           },
           {
             "id": "bulb-noun-6",
             "definition": "anything with a round shape resembling a teardrop",
-            "translation": "",
+            "translation": "球状物；灯泡状物",
             "examples": []
           }
         ]
@@ -158164,8 +158164,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
