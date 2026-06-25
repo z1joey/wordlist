@@ -2836,19 +2836,19 @@
           {
             "id": "dam-noun-1",
             "definition": "female parent of an animal especially domestic livestock",
-            "translation": "",
+            "translation": "（动物）母畜；母兽",
             "examples": []
           },
           {
             "id": "dam-noun-2",
             "definition": "a barrier constructed to contain the flow of water or to keep out the sea",
-            "translation": "",
+            "translation": "水坝；堰堤",
             "examples": []
           },
           {
             "id": "dam-noun-3",
             "definition": "a metric unit of length equal to ten meters",
-            "translation": "",
+            "translation": "十米（长度单位）",
             "examples": []
           }
         ]
@@ -2859,7 +2859,7 @@
           {
             "id": "dam-verb-1",
             "definition": "obstruct with, or as if with, a dam",
-            "translation": "",
+            "translation": "筑坝拦挡；堵住",
             "examples": [
               {
                 "text": "dam the gorges of the Yangtse River",
@@ -2885,8 +2885,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -4192,7 +4192,7 @@
           {
             "id": "damp-adjective-1",
             "definition": "slightly wet",
-            "translation": "轻微地湿的",
+            "translation": "潮湿的；微湿的",
             "examples": [
               {
                 "text": "clothes damp with perspiration",
@@ -4208,7 +4208,7 @@
           {
             "id": "damp-noun-1",
             "definition": "a slight wetness",
-            "translation": "",
+            "translation": "潮气；湿气",
             "examples": []
           }
         ]
@@ -4219,19 +4219,19 @@
           {
             "id": "damp-verb-1",
             "definition": "lessen in force or effect",
-            "translation": "",
+            "translation": "减弱；降低",
             "examples": []
           },
           {
             "id": "damp-verb-2",
             "definition": "make vague or obscure or make (an image) less visible",
-            "translation": "制造",
+            "translation": "使模糊；使变淡",
             "examples": []
           },
           {
             "id": "damp-verb-3",
             "definition": "restrain or discourage",
-            "translation": "",
+            "translation": "抑制；使泄气",
             "examples": [
               {
                 "text": "the sudden bad news damped the joyous atmosphere",
@@ -4242,7 +4242,7 @@
           {
             "id": "damp-verb-4",
             "definition": "deaden a sound or noise, especially by wrapping",
-            "translation": "",
+            "translation": "消音；使（声音）变低",
             "examples": [
               {
                 "text": "We need to dampen that amplifier.",
@@ -4268,8 +4268,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -20021,7 +20021,7 @@
           {
             "id": "decent-adjective-1",
             "definition": "conforming to conventions of sexual behavior",
-            "translation": "",
+            "translation": "正派的；合乎道德的",
             "examples": [
               {
                 "text": "speech in this circle, if not always decent, never became lewd- George Santayana",
@@ -20032,13 +20032,13 @@
           {
             "id": "decent-adjective-2",
             "definition": "observing conventional sexual mores in speech or behavior or dress",
-            "translation": "",
+            "translation": "得体的；端庄的",
             "examples": []
           },
           {
             "id": "decent-adjective-3",
             "definition": "decently clothed",
-            "translation": "",
+            "translation": "穿着合适的；体面地穿好衣服的",
             "examples": [
               {
                 "text": "are you decent?",
@@ -20049,19 +20049,19 @@
           {
             "id": "decent-adjective-4",
             "definition": "according with custom or propriety",
-            "translation": "",
+            "translation": "合乎礼仪的；适当的",
             "examples": []
           },
           {
             "id": "decent-adjective-5",
             "definition": "socially or conventionally correct",
-            "translation": "",
+            "translation": "合乎社会规范的；规矩的",
             "examples": []
           },
           {
             "id": "decent-adjective-6",
             "definition": "sufficient for the purpose",
-            "translation": "足以达到目的",
+            "translation": "尚可的；过得去的",
             "examples": []
           }
         ]
@@ -20072,7 +20072,7 @@
           {
             "id": "decent-adverb-1",
             "definition": "in the right manner",
-            "translation": "",
+            "translation": "得体地；合适地",
             "examples": []
           }
         ]
@@ -20080,8 +20080,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23422,25 +23422,25 @@
           {
             "id": "decline-noun-1",
             "definition": "a downward slope or bend",
-            "translation": "向下倾斜或弯曲",
+            "translation": "下倾；下斜",
             "examples": []
           },
           {
             "id": "decline-noun-2",
             "definition": "a gradual decrease",
-            "translation": "下降",
+            "translation": "下降；减少",
             "examples": []
           },
           {
             "id": "decline-noun-3",
             "definition": "change toward something smaller or lower",
-            "translation": "下降",
+            "translation": "变小；变低",
             "examples": []
           },
           {
             "id": "decline-noun-4",
             "definition": "a condition inferior to an earlier condition",
-            "translation": "下降",
+            "translation": "衰落；衰退",
             "examples": []
           }
         ]
@@ -23451,19 +23451,19 @@
           {
             "id": "decline-verb-1",
             "definition": "grow worse",
-            "translation": "下降",
+            "translation": "变差；恶化",
             "examples": []
           },
           {
             "id": "decline-verb-2",
             "definition": "grow smaller",
-            "translation": "下降",
+            "translation": "变小；减少",
             "examples": []
           },
           {
             "id": "decline-verb-3",
             "definition": "show unwillingness towards",
-            "translation": "展示",
+            "translation": "表示不愿；婉拒",
             "examples": [
               {
                 "text": "I declined to join the group on a hike.",
@@ -23474,19 +23474,19 @@
           {
             "id": "decline-verb-4",
             "definition": "inflect for number, gender, case, etc., 'in many languages, speakers decline nouns, pronouns, and adjectives'",
-            "translation": "下降",
+            "translation": "（语法）使词形变化；变格",
             "examples": []
           },
           {
             "id": "decline-verb-5",
             "definition": "go down in value",
-            "translation": "下降",
+            "translation": "贬值；跌价",
             "examples": []
           },
           {
             "id": "decline-verb-6",
             "definition": "go down",
-            "translation": "下降",
+            "translation": "下降；下沉",
             "examples": [
               {
                 "text": "The roof declines here",
@@ -23497,7 +23497,7 @@
           {
             "id": "decline-verb-7",
             "definition": "refuse to accept",
-            "translation": "下降",
+            "translation": "拒绝；婉拒",
             "examples": []
           }
         ]
@@ -23550,8 +23550,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -25408,19 +25408,19 @@
           {
             "id": "decorate-verb-1",
             "definition": "provide with decoration",
-            "translation": "装饰",
+            "translation": "装饰；修饰",
             "examples": []
           },
           {
             "id": "decorate-verb-2",
             "definition": "make more attractive by adding ornament, colour, etc.",
-            "translation": "制造",
+            "translation": "美化；点缀",
             "examples": []
           },
           {
             "id": "decorate-verb-3",
             "definition": "award a mark of honor, such as a medal, to",
-            "translation": "装饰",
+            "translation": "授勋；授予荣誉",
             "examples": [
               {
                 "text": "They were decorated for their services in the military.",
@@ -25431,7 +25431,7 @@
           {
             "id": "decorate-verb-4",
             "definition": "be beautiful to look at",
-            "translation": "装饰",
+            "translation": "装饰；点缀（看起来漂亮）",
             "examples": []
           }
         ]
@@ -25444,8 +25444,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -29653,13 +29653,13 @@
           {
             "id": "defect-noun-1",
             "definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
-            "translation": "",
+            "translation": "（身体上的）缺陷；瑕疵",
             "examples": []
           },
           {
             "id": "defect-noun-2",
             "definition": "a failing or deficiency",
-            "translation": "",
+            "translation": "缺点；不足",
             "examples": [
               {
                 "text": "that interpretation is an unfortunate defect of our lack of information",
@@ -29670,7 +29670,7 @@
           {
             "id": "defect-noun-3",
             "definition": "an imperfection in a bodily system",
-            "translation": "",
+            "translation": "（身体系统的）缺陷；毛病",
             "examples": [
               {
                 "text": "visual defects",
@@ -29681,7 +29681,7 @@
           {
             "id": "defect-noun-4",
             "definition": "an imperfection in an object or machine",
-            "translation": "",
+            "translation": "（物体或机器的）缺陷；故障",
             "examples": []
           }
         ]
@@ -29692,7 +29692,7 @@
           {
             "id": "defect-verb-1",
             "definition": "desert (a cause, a country or an army), often in order to join the opposing cause, country, or army",
-            "translation": "",
+            "translation": "叛逃；投敌",
             "examples": []
           }
         ]
@@ -29745,8 +29745,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -37822,7 +37822,7 @@
           {
             "id": "delegate-noun-1",
             "definition": "a person appointed or elected to represent others",
-            "translation": "",
+            "translation": "代表；代理人",
             "examples": []
           }
         ]
@@ -37833,13 +37833,13 @@
           {
             "id": "delegate-verb-1",
             "definition": "give an assignment to (a person) to a post, or assign a task to (a person)",
-            "translation": "",
+            "translation": "委派；指派",
             "examples": []
           },
           {
             "id": "delegate-verb-2",
             "definition": "transfer power to someone",
-            "translation": "",
+            "translation": "授权；移交权力",
             "examples": []
           }
         ]
@@ -37852,8 +37852,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38669,13 +38669,13 @@
           {
             "id": "delicate-adjective-1",
             "definition": "exquisitely fine and subtle and pleasing",
-            "translation": "精致的",
+            "translation": "精美的；雅致的",
             "examples": []
           },
           {
             "id": "delicate-adjective-2",
             "definition": "easily broken or damaged or destroyed",
-            "translation": "精致的",
+            "translation": "易碎的；脆弱的",
             "examples": [
               {
                 "text": "a kite too delicate to fly safely",
@@ -38686,25 +38686,25 @@
           {
             "id": "delicate-adjective-3",
             "definition": "difficult to handle",
-            "translation": "精致的",
+            "translation": "棘手的；难处理的",
             "examples": []
           },
           {
             "id": "delicate-adjective-4",
             "definition": "developed with extreme delicacy and subtlety",
-            "translation": "精致的",
+            "translation": "精巧的；细致的",
             "examples": []
           },
           {
             "id": "delicate-adjective-5",
             "definition": "of an instrument or device",
-            "translation": "设备的",
+            "translation": "精密的（仪器）",
             "examples": []
           },
           {
             "id": "delicate-adjective-6",
             "definition": "marked by great skill especially in meticulous technique",
-            "translation": "精致的",
+            "translation": "技艺精湛的；手法细腻的",
             "examples": [
               {
                 "text": "a surgeon's delicate touch",
@@ -38715,7 +38715,7 @@
           {
             "id": "delicate-adjective-7",
             "definition": "easily hurt",
-            "translation": "精致的",
+            "translation": "易受伤的；娇弱的",
             "examples": []
           }
         ]
@@ -38723,8 +38723,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -49639,7 +49639,7 @@
           {
             "id": "dentist-noun-1",
             "definition": "a person qualified to practice dentistry",
-            "translation": "",
+            "translation": "牙医",
             "examples": []
           }
         ]
@@ -49647,8 +49647,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -53474,37 +53474,37 @@
           {
             "id": "deposit-noun-1",
             "definition": "the act of putting something somewhere",
-            "translation": "存款",
+            "translation": "存放；放置",
             "examples": []
           },
           {
             "id": "deposit-noun-2",
             "definition": "a facility where things can be deposited for storage or safekeeping",
-            "translation": "存款",
+            "translation": "寄存处；保管处",
             "examples": []
           },
           {
             "id": "deposit-noun-3",
             "definition": "a payment given as a guarantee that an obligation will be met",
-            "translation": "存款",
+            "translation": "保证金；押金",
             "examples": []
           },
           {
             "id": "deposit-noun-4",
             "definition": "matter that has been deposited by some natural process",
-            "translation": "存款",
+            "translation": "沉淀物；沉积物",
             "examples": []
           },
           {
             "id": "deposit-noun-5",
             "definition": "the phenomenon of sediment or gravel accumulating",
-            "translation": "存款",
+            "translation": "沉积；淤积",
             "examples": []
           },
           {
             "id": "deposit-noun-6",
             "definition": "money given as security for an article acquired for temporary use",
-            "translation": "存款",
+            "translation": "押金；抵押金",
             "examples": [
               {
                 "text": "My deposit was refunded when I returned the car.",
@@ -53515,19 +53515,19 @@
           {
             "id": "deposit-noun-7",
             "definition": "a partial payment made at the time of purchase",
-            "translation": "存款",
+            "translation": "预付款；定金",
             "examples": []
           },
           {
             "id": "deposit-noun-8",
             "definition": "money deposited in a bank or some similar institution",
-            "translation": "存款",
+            "translation": "银行存款",
             "examples": []
           },
           {
             "id": "deposit-noun-9",
             "definition": "the natural process of laying down a deposit of something",
-            "translation": "存款",
+            "translation": "沉积（过程）",
             "examples": []
           }
         ]
@@ -53538,19 +53538,19 @@
           {
             "id": "deposit-verb-1",
             "definition": "put, fix, force, or implant",
-            "translation": "存款",
+            "translation": "安置；植入",
             "examples": []
           },
           {
             "id": "deposit-verb-2",
             "definition": "put (something somewhere) firmly",
-            "translation": "存款",
+            "translation": "稳固地放置",
             "examples": []
           },
           {
             "id": "deposit-verb-3",
             "definition": "put into a bank account",
-            "translation": "存款",
+            "translation": "存入（银行账户）",
             "examples": [
               {
                 "text": "I deposit my paycheck every month.",
@@ -53688,8 +53688,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -55743,25 +55743,25 @@
           {
             "id": "deputy-noun-1",
             "definition": "an assistant with power to act when his superior is absent",
-            "translation": "",
+            "translation": "副手；代理人",
             "examples": []
           },
           {
             "id": "deputy-noun-2",
             "definition": "someone authorized to exercise the powers of sheriff in emergencies",
-            "translation": "",
+            "translation": "副警长",
             "examples": []
           },
           {
             "id": "deputy-noun-3",
             "definition": "a person appointed to represent or act on behalf of others",
-            "translation": "",
+            "translation": "代表；代理人",
             "examples": []
           },
           {
             "id": "deputy-noun-4",
             "definition": "a member of the lower chamber of a legislative assembly (such as in France)",
-            "translation": "",
+            "translation": "（法国等）下议院议员",
             "examples": []
           }
         ]
@@ -55769,8 +55769,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -58717,25 +58717,25 @@
           {
             "id": "descend-verb-1",
             "definition": "come as if by falling",
-            "translation": "",
+            "translation": "落下；降临",
             "examples": []
           },
           {
             "id": "descend-verb-2",
             "definition": "move downward and lower, but not necessarily all the way",
-            "translation": "",
+            "translation": "下降；下行",
             "examples": []
           },
           {
             "id": "descend-verb-3",
             "definition": "do something that one considers to be below one's dignity",
-            "translation": "",
+            "translation": "屈尊；降低身份做",
             "examples": []
           },
           {
             "id": "descend-verb-4",
             "definition": "come from",
-            "translation": "来从",
+            "translation": "源自；来自",
             "examples": []
           }
         ]
@@ -58784,8 +58784,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60114,13 +60114,13 @@
           {
             "id": "desert-verb-1",
             "definition": "leave someone who needs or counts on you",
-            "translation": "沙漠",
+            "translation": "抛弃；遗弃",
             "examples": []
           },
           {
             "id": "desert-verb-2",
             "definition": "leave behind",
-            "translation": "沙漠",
+            "translation": "舍弃；离开",
             "examples": [
               {
                 "text": "the students deserted the campus after the end of exam period",
@@ -60131,7 +60131,7 @@
           {
             "id": "desert-verb-3",
             "definition": "desert (a cause, a country or an army), often in order to join the opposing cause, country, or army",
-            "translation": "沙漠",
+            "translation": "叛逃；投敌",
             "examples": [
               {
                 "text": "If soldiers deserted Hitler's army, they were shot",
@@ -60149,8 +60149,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -61659,7 +61659,7 @@
           {
             "id": "desirable-adjective-1",
             "definition": "worth having or seeking or achieving",
-            "translation": "",
+            "translation": "值得想望的；合意的",
             "examples": [
               {
                 "text": "a desirable job",
@@ -61670,7 +61670,7 @@
           {
             "id": "desirable-adjective-2",
             "definition": "worthy of being chosen especially as a spouse",
-            "translation": "",
+            "translation": "（作为配偶）有魅力的；迷人的",
             "examples": []
           }
         ]
@@ -61678,8 +61678,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -62662,19 +62662,19 @@
           {
             "id": "desperate-adjective-1",
             "definition": "arising from or marked by despair or loss of hope",
-            "translation": "绝望的",
+            "translation": "绝望的；无望的",
             "examples": []
           },
           {
             "id": "desperate-adjective-2",
             "definition": "desperately determined",
-            "translation": "绝望的",
+            "translation": "不顾一切的；拼命的",
             "examples": []
           },
           {
             "id": "desperate-adjective-3",
             "definition": "(of persons) dangerously reckless or violent as from urgency or despair",
-            "translation": "绝望的",
+            "translation": "铤而走险的；孤注一掷的",
             "examples": [
               {
                 "text": "a desperate criminal",
@@ -62685,19 +62685,19 @@
           {
             "id": "desperate-adjective-4",
             "definition": "showing extreme courage",
-            "translation": "绝望的",
+            "translation": "英勇无畏的",
             "examples": []
           },
           {
             "id": "desperate-adjective-5",
             "definition": "fraught with extreme danger",
-            "translation": "绝望的",
+            "translation": "危急的；充满危险的",
             "examples": []
           },
           {
             "id": "desperate-adjective-6",
             "definition": "showing extreme urgency or intensity especially because of great need or desire",
-            "translation": "绝望的",
+            "translation": "极度渴望的；急切的",
             "examples": [
               {
                 "text": "felt a desperate urge to confess",
@@ -62713,7 +62713,7 @@
           {
             "id": "desperate-noun-1",
             "definition": "a person who is frightened and in need of help",
-            "translation": "绝望的",
+            "translation": "绝望的人；求助者",
             "examples": [
               {
                 "text": "they prey on the hopes of the desperate",
@@ -62726,8 +62726,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -67320,7 +67320,7 @@
           {
             "id": "determination-noun-1",
             "definition": "the act of determining the properties of something, usually by research or calculation",
-            "translation": "",
+            "translation": "测定；鉴定",
             "examples": [
               {
                 "text": "the determination of molecular structures",
@@ -67331,19 +67331,19 @@
           {
             "id": "determination-noun-2",
             "definition": "the act of making up your mind about something",
-            "translation": "制造行为",
+            "translation": "决定；下定决心",
             "examples": []
           },
           {
             "id": "determination-noun-3",
             "definition": "the quality of being determined to do or achieve something",
-            "translation": "",
+            "translation": "决心；毅力",
             "examples": []
           },
           {
             "id": "determination-noun-4",
             "definition": "deciding or controlling something's outcome or nature",
-            "translation": "",
+            "translation": "决定；控制",
             "examples": [
               {
                 "text": "the determination of grammatical inflections",
@@ -67354,7 +67354,7 @@
           {
             "id": "determination-noun-5",
             "definition": "a position or opinion or judgment reached after consideration",
-            "translation": "",
+            "translation": "结论；判定",
             "examples": []
           }
         ]
@@ -67367,8 +67367,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -71909,13 +71909,13 @@
           {
             "id": "devise-noun-1",
             "definition": "(law) a gift of real property by will",
-            "translation": "",
+            "translation": "（法律）遗嘱中不动产遗赠",
             "examples": []
           },
           {
             "id": "devise-noun-2",
             "definition": "a will disposing of real property",
-            "translation": "",
+            "translation": "遗嘱（处分不动产部分）",
             "examples": []
           }
         ]
@@ -71926,19 +71926,19 @@
           {
             "id": "devise-verb-1",
             "definition": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
-            "translation": "",
+            "translation": "想出；设计（计划、方案等）",
             "examples": []
           },
           {
             "id": "devise-verb-2",
             "definition": "arrange by systematic planning and united effort",
-            "translation": "",
+            "translation": "策划；精心安排",
             "examples": []
           },
           {
             "id": "devise-verb-3",
             "definition": "give by will, especially real property",
-            "translation": "",
+            "translation": "遗赠（不动产）",
             "examples": []
           }
         ]
@@ -71946,8 +71946,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -75663,7 +75663,7 @@
           {
             "id": "diagram-noun-1",
             "definition": "a drawing intended to explain how something works",
-            "translation": "图表",
+            "translation": "图表；示意图",
             "examples": []
           }
         ]
@@ -75674,7 +75674,7 @@
           {
             "id": "diagram-verb-1",
             "definition": "make a schematic or technical drawing of that shows interactions among variables or how something is constructed",
-            "translation": "制造",
+            "translation": "绘制示意图",
             "examples": []
           }
         ]
@@ -75699,8 +75699,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -76826,13 +76826,13 @@
           {
             "id": "diameter-noun-1",
             "definition": "a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)",
-            "translation": "",
+            "translation": "直径",
             "examples": []
           },
           {
             "id": "diameter-noun-2",
             "definition": "the length of a straight line passing through the center of a circle and connecting two points on the circumference",
-            "translation": "",
+            "translation": "直径长度",
             "examples": []
           }
         ]
@@ -76885,8 +76885,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -88776,13 +88776,13 @@
           {
             "id": "dim-adjective-1",
             "definition": "lacking in light",
-            "translation": "",
+            "translation": "昏暗的；暗淡的",
             "examples": []
           },
           {
             "id": "dim-adjective-2",
             "definition": "made dim or less bright",
-            "translation": "",
+            "translation": "变暗的；朦胧的",
             "examples": [
               {
                 "text": "the dimmed houselights brought a hush of anticipation",
@@ -88793,13 +88793,13 @@
           {
             "id": "dim-adjective-3",
             "definition": "slow to learn or understand",
-            "translation": "",
+            "translation": "迟钝的；愚笨的",
             "examples": []
           },
           {
             "id": "dim-adjective-4",
             "definition": "lacking clarity or distinctness",
-            "translation": "",
+            "translation": "模糊的；不清晰的",
             "examples": [
               {
                 "text": "a dim figure in the distance",
@@ -88810,7 +88810,7 @@
           {
             "id": "dim-adjective-5",
             "definition": "offering little or no hope",
-            "translation": "",
+            "translation": "渺茫的；无希望的",
             "examples": []
           }
         ]
@@ -88821,19 +88821,19 @@
           {
             "id": "dim-verb-1",
             "definition": "become vague or indistinct",
-            "translation": "",
+            "translation": "变模糊；变得不清",
             "examples": []
           },
           {
             "id": "dim-verb-2",
             "definition": "make dim by comparison or conceal",
-            "translation": "制造",
+            "translation": "使相形见绌；使暗淡",
             "examples": []
           },
           {
             "id": "dim-verb-3",
             "definition": "make dim or lusterless",
-            "translation": "制造",
+            "translation": "使暗淡无光",
             "examples": [
               {
                 "text": "Time had dimmed the silver",
@@ -88844,7 +88844,7 @@
           {
             "id": "dim-verb-4",
             "definition": "become dim or lusterless",
-            "translation": "",
+            "translation": "变得无光泽",
             "examples": [
               {
                 "text": "the lights dimmed and the curtain rose",
@@ -88855,7 +88855,7 @@
           {
             "id": "dim-verb-5",
             "definition": "switch (a car's headlights) from a higher to a lower beam",
-            "translation": "",
+            "translation": "把（车灯）调为近光",
             "examples": []
           }
         ]
@@ -88876,8 +88876,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -88996,25 +88996,25 @@
           {
             "id": "dimension-noun-1",
             "definition": "magnitude or extent",
-            "translation": "维度",
+            "translation": "规模；程度",
             "examples": []
           },
           {
             "id": "dimension-noun-2",
             "definition": "the magnitude of something in a particular direction (especially length or width or height)",
-            "translation": "维度",
+            "translation": "维度（长宽高）",
             "examples": []
           },
           {
             "id": "dimension-noun-3",
             "definition": "a construct whereby objects or individuals can be distinguished",
-            "translation": "维度",
+            "translation": "（区分的）维度；方面",
             "examples": []
           },
           {
             "id": "dimension-noun-4",
             "definition": "one of three Cartesian coordinates that determine a position in space",
-            "translation": "维度",
+            "translation": "（空间的）维度",
             "examples": []
           }
         ]
@@ -89025,13 +89025,13 @@
           {
             "id": "dimension-verb-1",
             "definition": "shape or form to required dimensions",
-            "translation": "形状",
+            "translation": "按尺寸定形",
             "examples": []
           },
           {
             "id": "dimension-verb-2",
             "definition": "indicate the dimensions on",
-            "translation": "表明",
+            "translation": "标注尺寸",
             "examples": [
               {
                 "text": "These techniques permit us to dimension the human heart",
@@ -89044,8 +89044,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -93653,19 +93653,19 @@
           {
             "id": "direct-adjective-1",
             "definition": "lacking compromising or mitigating elements",
-            "translation": "直接的",
+            "translation": "直截了当的；坦率的",
             "examples": []
           },
           {
             "id": "direct-adjective-2",
             "definition": "direct in spatial dimensions",
-            "translation": "直接的",
+            "translation": "笔直的；径直的",
             "examples": []
           },
           {
             "id": "direct-adjective-3",
             "definition": "(of a current) flowing in one direction only",
-            "translation": "直接的",
+            "translation": "单向的（电流）",
             "examples": [
               {
                 "text": "direct current",
@@ -93676,7 +93676,7 @@
           {
             "id": "direct-adjective-4",
             "definition": "straightforward in means or manner or behavior or language or action",
-            "translation": "直接的",
+            "translation": "直率的；直接的",
             "examples": [
               {
                 "text": "a direct question",
@@ -93687,7 +93687,7 @@
           {
             "id": "direct-adjective-5",
             "definition": "similar in nature or effect or relation to another quantity",
-            "translation": "直接的",
+            "translation": "（数）正比例的",
             "examples": [
               {
                 "text": "a term is in direct proportion to another term if it increases (or decreases) as the other increases (or decreases)",
@@ -93698,7 +93698,7 @@
           {
             "id": "direct-adjective-6",
             "definition": "moving from west to east on the celestial sphere",
-            "translation": "直接的",
+            "translation": "自西向东运行的（天体）",
             "examples": [
               {
                 "text": "or--for planets--around the sun in the same direction as the Earth",
@@ -93709,7 +93709,7 @@
           {
             "id": "direct-adjective-7",
             "definition": "having no intervening persons, agents, conditions",
-            "translation": "直接的",
+            "translation": "直接的；无中介的",
             "examples": [
               {
                 "text": "in direct sunlight",
@@ -93720,7 +93720,7 @@
           {
             "id": "direct-adjective-8",
             "definition": "in precisely the same words used by a writer or speaker",
-            "translation": "直接的",
+            "translation": "原话引用的；逐字的",
             "examples": [
               {
                 "text": "a direct quotation",
@@ -93731,13 +93731,13 @@
           {
             "id": "direct-adjective-9",
             "definition": "in a straight unbroken line of descent from parent to child",
-            "translation": "直接的",
+            "translation": "直系的（血统）",
             "examples": []
           },
           {
             "id": "direct-adjective-10",
             "definition": "being an immediate result or consequence",
-            "translation": "直接的",
+            "translation": "直接的；即时的",
             "examples": [
               {
                 "text": "a direct result of the accident",
@@ -93753,7 +93753,7 @@
           {
             "id": "direct-adverb-1",
             "definition": "without deviation",
-            "translation": "直接的",
+            "translation": "径直地；直接地",
             "examples": [
               {
                 "text": "the path leads directly to the lake",
@@ -93769,19 +93769,19 @@
           {
             "id": "direct-verb-1",
             "definition": "plan and direct (a complex undertaking)",
-            "translation": "直接的",
+            "translation": "指挥；指导",
             "examples": []
           },
           {
             "id": "direct-verb-2",
             "definition": "specifically design a product, event, or activity for a certain public",
-            "translation": "直接的",
+            "translation": "为（特定受众）设计",
             "examples": []
           },
           {
             "id": "direct-verb-3",
             "definition": "command with authority",
-            "translation": "直接的",
+            "translation": "命令；指示",
             "examples": [
               {
                 "text": "They directed the children to do their homework.",
@@ -93792,7 +93792,7 @@
           {
             "id": "direct-verb-4",
             "definition": "give directions to",
-            "translation": "直接的",
+            "translation": "给…指路",
             "examples": [
               {
                 "text": "point somebody into a certain direction",
@@ -93803,37 +93803,37 @@
           {
             "id": "direct-verb-5",
             "definition": "put an address on (an envelope)",
-            "translation": "直接的",
+            "translation": "在（信封上）写地址",
             "examples": []
           },
           {
             "id": "direct-verb-6",
             "definition": "intend (something) to move towards a certain goal",
-            "translation": "直接的",
+            "translation": "意图使；旨在",
             "examples": []
           },
           {
             "id": "direct-verb-7",
             "definition": "point or cause to go (blows, weapons, or objects such as photographic equipment) towards",
-            "translation": "直接的",
+            "translation": "把（武器、目光等）对准",
             "examples": []
           },
           {
             "id": "direct-verb-8",
             "definition": "guide the actors in (plays and films)",
-            "translation": "直接的",
+            "translation": "执导（戏剧或电影）",
             "examples": []
           },
           {
             "id": "direct-verb-9",
             "definition": "lead, as in the performance of a composition",
-            "translation": "直接的",
+            "translation": "指挥（演奏）",
             "examples": []
           },
           {
             "id": "direct-verb-10",
             "definition": "direct the course",
-            "translation": "直接的",
+            "translation": "指引方向",
             "examples": [
               {
                 "text": "determine the direction of travelling",
@@ -93844,19 +93844,19 @@
           {
             "id": "direct-verb-11",
             "definition": "cause to go somewhere",
-            "translation": "直接的",
+            "translation": "使去某处",
             "examples": []
           },
           {
             "id": "direct-verb-12",
             "definition": "take somebody somewhere",
-            "translation": "通过某人某处拿",
+            "translation": "带某人去某处",
             "examples": []
           },
           {
             "id": "direct-verb-13",
             "definition": "be in charge of",
-            "translation": "直接的",
+            "translation": "负责；主管",
             "examples": []
           }
         ]
@@ -93917,8 +93917,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -97968,19 +97968,19 @@
           {
             "id": "disaster-noun-1",
             "definition": "an act that has disastrous consequences",
-            "translation": "灾难",
+            "translation": "灾难性行为；祸根",
             "examples": []
           },
           {
             "id": "disaster-noun-2",
             "definition": "an event resulting in great loss and misfortune",
-            "translation": "造成重大损失的事件",
+            "translation": "重大损失事件；灾祸",
             "examples": []
           },
           {
             "id": "disaster-noun-3",
             "definition": "a state of extreme (usually irremediable) ruin and misfortune",
-            "translation": "灾难",
+            "translation": "彻底毁灭；不可挽回的灾祸",
             "examples": []
           }
         ]
@@ -97988,8 +97988,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -99545,49 +99545,49 @@
           {
             "id": "discharge-noun-1",
             "definition": "the act of discharging a gun",
-            "translation": "",
+            "translation": "（枪的）发射",
             "examples": []
           },
           {
             "id": "discharge-noun-2",
             "definition": "a formal written statement of relinquishment",
-            "translation": "",
+            "translation": "正式放弃声明",
             "examples": []
           },
           {
             "id": "discharge-noun-3",
             "definition": "the termination of someone's employment (leaving them free to depart)",
-            "translation": "",
+            "translation": "解雇；免职",
             "examples": []
           },
           {
             "id": "discharge-noun-4",
             "definition": "the act of venting",
-            "translation": "",
+            "translation": "排放；放出",
             "examples": []
           },
           {
             "id": "discharge-noun-5",
             "definition": "the sudden giving off of energy",
-            "translation": "",
+            "translation": "能量的突然释放",
             "examples": []
           },
           {
             "id": "discharge-noun-6",
             "definition": "the pouring forth of a fluid",
-            "translation": "",
+            "translation": "流体的涌出",
             "examples": []
           },
           {
             "id": "discharge-noun-7",
             "definition": "electrical conduction through a gas in an applied electric field",
-            "translation": "在施加电场中通过气体的电导",
+            "translation": "气体放电",
             "examples": []
           },
           {
             "id": "discharge-noun-8",
             "definition": "any of several bodily processes by which substances go out of the body",
-            "translation": "",
+            "translation": "（身体）排泄过程",
             "examples": [
               {
                 "text": "the discharge of pus",
@@ -99598,7 +99598,7 @@
           {
             "id": "discharge-noun-9",
             "definition": "a substance that is emitted or released",
-            "translation": "",
+            "translation": "排放物；释放物",
             "examples": []
           }
         ]
@@ -99609,43 +99609,43 @@
           {
             "id": "discharge-verb-1",
             "definition": "eliminate (a substance)",
-            "translation": "",
+            "translation": "排出；释放（物质）",
             "examples": []
           },
           {
             "id": "discharge-verb-2",
             "definition": "become empty or void of its content",
-            "translation": "",
+            "translation": "变空；排空",
             "examples": []
           },
           {
             "id": "discharge-verb-3",
             "definition": "pronounce not guilty of criminal charges",
-            "translation": "",
+            "translation": "宣判无罪",
             "examples": []
           },
           {
             "id": "discharge-verb-4",
             "definition": "release from military service",
-            "translation": "释放从军事的服务",
+            "translation": "退伍；解除军职",
             "examples": []
           },
           {
             "id": "discharge-verb-5",
             "definition": "cause to go off",
-            "translation": "离开",
+            "translation": "使走开；遣散",
             "examples": []
           },
           {
             "id": "discharge-verb-6",
             "definition": "go off or discharge",
-            "translation": "",
+            "translation": "走火；发射",
             "examples": []
           },
           {
             "id": "discharge-verb-7",
             "definition": "pour forth or release",
-            "translation": "",
+            "translation": "涌出；流出",
             "examples": [
               {
                 "text": "discharge liquids",
@@ -99656,25 +99656,25 @@
           {
             "id": "discharge-verb-8",
             "definition": "remove the charge from",
-            "translation": "移除",
+            "translation": "卸除（电荷）",
             "examples": []
           },
           {
             "id": "discharge-verb-9",
             "definition": "leave or unload",
-            "translation": "",
+            "translation": "离开；卸货",
             "examples": []
           },
           {
             "id": "discharge-verb-10",
             "definition": "free from obligations or duties",
-            "translation": "",
+            "translation": "解除（义务或职责）",
             "examples": []
           },
           {
             "id": "discharge-verb-11",
             "definition": "complete or carry out",
-            "translation": "",
+            "translation": "完成；履行",
             "examples": [
               {
                 "text": "discharge one's duties",
@@ -99756,8 +99756,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -102806,25 +102806,25 @@
           {
             "id": "discount-noun-1",
             "definition": "the act of reducing the selling price of merchandise",
-            "translation": "折扣",
+            "translation": "减价；打折",
             "examples": []
           },
           {
             "id": "discount-noun-2",
             "definition": "an amount or percentage deducted",
-            "translation": "折扣",
+            "translation": "折扣额",
             "examples": []
           },
           {
             "id": "discount-noun-3",
             "definition": "a refund of some fraction of the amount paid",
-            "translation": "折扣",
+            "translation": "退款（部分）",
             "examples": []
           },
           {
             "id": "discount-noun-4",
             "definition": "interest on an annual basis deducted in advance on a loan",
-            "translation": "折扣",
+            "translation": "贴现息（贷款预扣）",
             "examples": []
           }
         ]
@@ -102835,13 +102835,13 @@
           {
             "id": "discount-verb-1",
             "definition": "bar from attention or consideration",
-            "translation": "折扣",
+            "translation": "不考虑；漠视",
             "examples": []
           },
           {
             "id": "discount-verb-2",
             "definition": "give a reduction in price on",
-            "translation": "折扣",
+            "translation": "给…打折",
             "examples": [
               {
                 "text": "I never discount these books-they sell like hot cakes",
@@ -102983,8 +102983,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -112618,13 +112618,13 @@
           {
             "id": "dismiss-verb-1",
             "definition": "declare void",
-            "translation": "解雇",
+            "translation": "驳回；不予受理",
             "examples": []
           },
           {
             "id": "dismiss-verb-2",
             "definition": "rid of attention or consideration",
-            "translation": "解雇",
+            "translation": "不考虑；摒弃",
             "examples": [
               {
                 "text": "I dismissed their advances.",
@@ -112635,13 +112635,13 @@
           {
             "id": "dismiss-verb-3",
             "definition": "cease to consider",
-            "translation": "解雇",
+            "translation": "不再考虑",
             "examples": []
           },
           {
             "id": "dismiss-verb-4",
             "definition": "end one's encounter with somebody by causing or permitting the person to leave",
-            "translation": "解雇",
+            "translation": "遣散；让…离开",
             "examples": [
               {
                 "text": "I was dismissed after I gave my report",
@@ -112652,13 +112652,13 @@
           {
             "id": "dismiss-verb-5",
             "definition": "terminate the employment of",
-            "translation": "解雇",
+            "translation": "解雇；免职",
             "examples": []
           },
           {
             "id": "dismiss-verb-6",
             "definition": "stop associating with",
-            "translation": "解雇",
+            "translation": "停止往来；不再往来",
             "examples": []
           }
         ]
@@ -112666,8 +112666,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -116108,25 +116108,25 @@
           {
             "id": "disposal-noun-1",
             "definition": "the act or means of getting rid of something",
-            "translation": "",
+            "translation": "处置；处理",
             "examples": []
           },
           {
             "id": "disposal-noun-2",
             "definition": "a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)",
-            "translation": "管理某群体事务（尤其是商业事务）的方法",
+            "translation": "管理方法（尤指商业事务）",
             "examples": []
           },
           {
             "id": "disposal-noun-3",
             "definition": "a kitchen appliance for disposing of garbage",
-            "translation": "",
+            "translation": "厨房垃圾处理器",
             "examples": []
           },
           {
             "id": "disposal-noun-4",
             "definition": "the power to use something or someone",
-            "translation": "",
+            "translation": "使用权；自由支配权",
             "examples": [
               {
                 "text": "I used all the resources at my disposal to make it right.",
@@ -116160,8 +116160,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -121894,7 +121894,7 @@
           {
             "id": "distant-adjective-2",
             "definition": "separate or apart in time",
-            "translation": "分开的",
+            "translation": "时间隔得远的",
             "examples": [
               {
                 "text": "distant events",
@@ -121905,7 +121905,7 @@
           {
             "id": "distant-adjective-3",
             "definition": "separated in space or coming from or going to a distance",
-            "translation": "遥远的",
+            "translation": "远距离的",
             "examples": [
               {
                 "text": "distant villages",
@@ -121916,7 +121916,7 @@
           {
             "id": "distant-adjective-4",
             "definition": "far apart in relevance or relationship or kinship",
-            "translation": "遥远的",
+            "translation": "关系疏远的",
             "examples": [
               {
                 "text": "a distant cousin",
@@ -121927,7 +121927,7 @@
           {
             "id": "distant-adjective-5",
             "definition": "remote in manner",
-            "translation": "态度疏远",
+            "translation": "态度冷漠的",
             "examples": []
           }
         ]
@@ -121940,8 +121940,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -122918,7 +122918,7 @@
           {
             "id": "distinction-noun-1",
             "definition": "a distinguishing difference",
-            "translation": "区别",
+            "translation": "差异；不同",
             "examples": [
               {
                 "text": "We learned the distinction between gold and lead.",
@@ -122929,7 +122929,7 @@
           {
             "id": "distinction-noun-2",
             "definition": "a distinguishing quality",
-            "translation": "区别",
+            "translation": "特征；特质",
             "examples": [
               {
                 "text": "It has the distinction of being the cheapest restaurant in town.",
@@ -122940,7 +122940,7 @@
           {
             "id": "distinction-noun-3",
             "definition": "a discrimination between things as different and distinct",
-            "translation": "区别",
+            "translation": "辨别；区分",
             "examples": [
               {
                 "text": "It is necessary to make a distinction between love and infatuation.",
@@ -122951,7 +122951,7 @@
           {
             "id": "distinction-noun-4",
             "definition": "high status importance owing to marked superiority",
-            "translation": "区别",
+            "translation": "卓越；显赫地位",
             "examples": [
               {
                 "text": "They are a violinist of distinction.",
@@ -122964,8 +122964,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -124123,7 +124123,7 @@
           {
             "id": "distress-noun-1",
             "definition": "the seizure and holding of property as security for payment of a debt or satisfaction of a claim",
-            "translation": "",
+            "translation": "扣押（财产抵债）",
             "examples": [
               {
                 "text": "Originally distress was a landlord's remedy against a tenant for unpaid rents or property damage but now the landlord is given a landlord's lien",
@@ -124134,7 +124134,7 @@
           {
             "id": "distress-noun-2",
             "definition": "psychological suffering",
-            "translation": "心理的痛苦",
+            "translation": "心理痛苦；苦恼",
             "examples": [
               {
                 "text": "The death of their sibling caused them great distress.",
@@ -124145,7 +124145,7 @@
           {
             "id": "distress-noun-3",
             "definition": "extreme physical pain",
-            "translation": "极端的身体的疼痛",
+            "translation": "剧烈的身体疼痛",
             "examples": [
               {
                 "text": "The patient appeared to be in distress.",
@@ -124156,7 +124156,7 @@
           {
             "id": "distress-noun-4",
             "definition": "a state of adversity (danger or affliction or need)",
-            "translation": "",
+            "translation": "困境；逆境",
             "examples": [
               {
                 "text": "a ship in distress",
@@ -124172,7 +124172,7 @@
           {
             "id": "distress-verb-1",
             "definition": "cause mental pain to",
-            "translation": "",
+            "translation": "使痛苦；使苦恼",
             "examples": [
               {
                 "text": "I was distressed by the news of my grandparent's illness.",
@@ -124183,7 +124183,7 @@
           {
             "id": "distress-verb-2",
             "definition": "bring into difficulties or distress, especially financial hardship",
-            "translation": "",
+            "translation": "使陷入困境（尤指财政困难）",
             "examples": []
           }
         ]
@@ -124191,8 +124191,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -124549,43 +124549,43 @@
           {
             "id": "distribute-verb-1",
             "definition": "cause to become widely known",
-            "translation": "分配",
+            "translation": "散布；使广为人知",
             "examples": []
           },
           {
             "id": "distribute-verb-2",
             "definition": "distribute or disperse widely",
-            "translation": "分配",
+            "translation": "散布；分散",
             "examples": []
           },
           {
             "id": "distribute-verb-3",
             "definition": "to arrange in a systematic order",
-            "translation": "分配",
+            "translation": "分类排列",
             "examples": []
           },
           {
             "id": "distribute-verb-4",
             "definition": "cause be distributed",
-            "translation": "分配",
+            "translation": "分发；分配",
             "examples": []
           },
           {
             "id": "distribute-verb-5",
             "definition": "give to several people",
-            "translation": "分配",
+            "translation": "分发给多人",
             "examples": []
           },
           {
             "id": "distribute-verb-6",
             "definition": "administer or bestow, as in small portions",
-            "translation": "分配",
+            "translation": "分配；分发（少量）",
             "examples": []
           },
           {
             "id": "distribute-verb-7",
             "definition": "make available",
-            "translation": "通过可用的制造",
+            "translation": "供应；提供",
             "examples": [
               {
                 "text": "The publisher wants to distribute the book in Asia",
@@ -124596,13 +124596,13 @@
           {
             "id": "distribute-verb-8",
             "definition": "be mathematically distributive",
-            "translation": "分配",
+            "translation": "（数学上）可分配",
             "examples": []
           },
           {
             "id": "distribute-verb-9",
             "definition": "be distributed or spread, as in statistical analyses",
-            "translation": "分配",
+            "translation": "（统计上）分布",
             "examples": [
               {
                 "text": "Values distribute",
@@ -124613,7 +124613,7 @@
           {
             "id": "distribute-verb-10",
             "definition": "spread throughout a given area",
-            "translation": "分配",
+            "translation": "分布于（某区域）",
             "examples": [
               {
                 "text": "the function distributes the values evenly",
@@ -124655,8 +124655,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -125320,7 +125320,7 @@
           {
             "id": "disturb-verb-1",
             "definition": "damage as if by shaking or jarring",
-            "translation": "打扰",
+            "translation": "震动；摇动损坏",
             "examples": [
               {
                 "text": "Don't disturb the patient's wounds by moving them too rapidly!",
@@ -125331,25 +125331,25 @@
           {
             "id": "disturb-verb-2",
             "definition": "destroy the peace or tranquility of",
-            "translation": "打扰",
+            "translation": "扰乱；打破平静",
             "examples": []
           },
           {
             "id": "disturb-verb-3",
             "definition": "tamper with",
-            "translation": "打扰",
+            "translation": "擅自改动；乱动",
             "examples": []
           },
           {
             "id": "disturb-verb-4",
             "definition": "change the arrangement or position of",
-            "translation": "打扰",
+            "translation": "打乱（安排或位置）",
             "examples": []
           },
           {
             "id": "disturb-verb-5",
             "definition": "move deeply",
-            "translation": "打扰",
+            "translation": "使深感不安",
             "examples": []
           }
         ]
@@ -125374,8 +125374,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -126070,13 +126070,13 @@
           {
             "id": "ditch-noun-1",
             "definition": "a long narrow excavation in the earth",
-            "translation": "",
+            "translation": "沟渠；壕沟",
             "examples": []
           },
           {
             "id": "ditch-noun-2",
             "definition": "any small natural waterway",
-            "translation": "",
+            "translation": "小溪；小水道",
             "examples": []
           }
         ]
@@ -126087,7 +126087,7 @@
           {
             "id": "ditch-verb-1",
             "definition": "cut a trench in, as for drainage",
-            "translation": "切",
+            "translation": "开沟；挖沟",
             "examples": [
               {
                 "text": "ditch the land to drain it",
@@ -126098,7 +126098,7 @@
           {
             "id": "ditch-verb-2",
             "definition": "crash or crash-land",
-            "translation": "",
+            "translation": "（飞机）迫降",
             "examples": [
               {
                 "text": "ditch a car",
@@ -126109,25 +126109,25 @@
           {
             "id": "ditch-verb-3",
             "definition": "make an emergency landing on water",
-            "translation": "制造",
+            "translation": "水上迫降",
             "examples": []
           },
           {
             "id": "ditch-verb-4",
             "definition": "sever all ties with, usually unceremoniously or irresponsibly",
-            "translation": "",
+            "translation": "断绝关系；抛弃",
             "examples": []
           },
           {
             "id": "ditch-verb-5",
             "definition": "throw away",
-            "translation": "扔离开",
+            "translation": "扔掉；丢弃",
             "examples": []
           },
           {
             "id": "ditch-verb-6",
             "definition": "forsake",
-            "translation": "",
+            "translation": "遗弃；放弃",
             "examples": [
               {
                 "text": "ditch a lover",
@@ -126145,8 +126145,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -127407,7 +127407,7 @@
           {
             "id": "diverse-adjective-1",
             "definition": "distinctly dissimilar or unlike",
-            "translation": "多样的",
+            "translation": "不同的；迥异的",
             "examples": [
               {
                 "text": "celebrities as diverse as Bob Hope and Bob Dylan",
@@ -127418,7 +127418,7 @@
           {
             "id": "diverse-adjective-2",
             "definition": "many and different",
-            "translation": "多样的",
+            "translation": "多种多样的",
             "examples": []
           }
         ]
@@ -127426,8 +127426,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -148321,25 +148321,25 @@
           {
             "id": "draft-noun-1",
             "definition": "the act of moving a load by drawing or pulling",
-            "translation": "",
+            "translation": "拖；拉",
             "examples": []
           },
           {
             "id": "draft-noun-2",
             "definition": "a large and hurried swallow",
-            "translation": "",
+            "translation": "一大口（饮料）",
             "examples": []
           },
           {
             "id": "draft-noun-3",
             "definition": "compulsory military service",
-            "translation": "",
+            "translation": "征兵；服兵役",
             "examples": []
           },
           {
             "id": "draft-noun-4",
             "definition": "a dose of liquid medicine",
-            "translation": "",
+            "translation": "一服药",
             "examples": [
               {
                 "text": "I had to take a sleeping draft.",
@@ -148350,25 +148350,25 @@
           {
             "id": "draft-noun-5",
             "definition": "a preliminary sketch of a design or picture",
-            "translation": "",
+            "translation": "草稿；草图",
             "examples": []
           },
           {
             "id": "draft-noun-6",
             "definition": "a regulator for controlling the flow of air in a fireplace",
-            "translation": "",
+            "translation": "（壁炉的）通气调节装置",
             "examples": []
           },
           {
             "id": "draft-noun-7",
             "definition": "the depth of a vessel's keel below the surface (especially when loaded)",
-            "translation": "",
+            "translation": "（船的）吃水",
             "examples": []
           },
           {
             "id": "draft-noun-8",
             "definition": "any of the various versions in the development of a written work",
-            "translation": "",
+            "translation": "草稿；版本",
             "examples": [
               {
                 "text": "a preliminary draft",
@@ -148379,7 +148379,7 @@
           {
             "id": "draft-noun-9",
             "definition": "a serving of drink (usually alcoholic) drawn from a keg",
-            "translation": "",
+            "translation": "（从桶中）汲取的一份啤酒",
             "examples": [
               {
                 "text": "they served beer on draft",
@@ -148390,13 +148390,13 @@
           {
             "id": "draft-noun-10",
             "definition": "a current of air (usually coming into a chimney or room or vehicle)",
-            "translation": "",
+            "translation": "（烟囱、房间的）气流；穿堂风",
             "examples": []
           },
           {
             "id": "draft-noun-11",
             "definition": "a document ordering the payment of money",
-            "translation": "",
+            "translation": "汇票；付款通知单",
             "examples": []
           }
         ]
@@ -148407,19 +148407,19 @@
           {
             "id": "draft-verb-1",
             "definition": "engage somebody to enter the army",
-            "translation": "",
+            "translation": "征召入伍",
             "examples": []
           },
           {
             "id": "draft-verb-2",
             "definition": "make a blueprint of",
-            "translation": "制造",
+            "translation": "绘制草图",
             "examples": []
           },
           {
             "id": "draft-verb-3",
             "definition": "draw up an outline or sketch for something",
-            "translation": "画",
+            "translation": "起草；拟稿",
             "examples": [
               {
                 "text": "draft a speech",
@@ -148473,8 +148473,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -149693,13 +149693,13 @@
           {
             "id": "drain-noun-1",
             "definition": "emptying something accomplished by allowing liquid to run out of it",
-            "translation": "",
+            "translation": "排水；放水",
             "examples": []
           },
           {
             "id": "drain-noun-2",
             "definition": "a gradual depletion of energy or resources",
-            "translation": "",
+            "translation": "能量或资源的逐渐消耗",
             "examples": [
               {
                 "text": "a drain on resources",
@@ -149710,13 +149710,13 @@
           {
             "id": "drain-noun-3",
             "definition": "a pipe through which liquid is carried away",
-            "translation": "",
+            "translation": "排水管",
             "examples": []
           },
           {
             "id": "drain-noun-4",
             "definition": "tube inserted into a body cavity to remove unwanted material, as during surgery",
-            "translation": "",
+            "translation": "引流管",
             "examples": [
               {
                 "text": "The doctor used a drain to remove excess fluid during the procedure.",
@@ -149732,7 +149732,7 @@
           {
             "id": "drain-verb-1",
             "definition": "make weak",
-            "translation": "通过弱的制造",
+            "translation": "使虚弱；使无力",
             "examples": [
               {
                 "text": "Life in the camp drained him",
@@ -149743,7 +149743,7 @@
           {
             "id": "drain-verb-2",
             "definition": "empty of liquid",
-            "translation": "",
+            "translation": "排空；倒干",
             "examples": [
               {
                 "text": "drain the liquid from",
@@ -149754,7 +149754,7 @@
           {
             "id": "drain-verb-3",
             "definition": "deplete of resources",
-            "translation": "",
+            "translation": "耗尽资源",
             "examples": [
               {
                 "text": "The exercise class drains me of energy",
@@ -149765,7 +149765,7 @@
           {
             "id": "drain-verb-4",
             "definition": "flow off gradually",
-            "translation": "流动离开逐渐地",
+            "translation": "逐渐流出",
             "examples": [
               {
                 "text": "The rain water drains into this big vat",
@@ -149831,8 +149831,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -152238,13 +152238,13 @@
           {
             "id": "drawer-noun-2",
             "definition": "an artist skilled at drawing",
-            "translation": "抽屉",
+            "translation": "画家；绘图者",
             "examples": []
           },
           {
             "id": "drawer-noun-3",
             "definition": "the person who writes a check or draft instructing the drawee to pay someone else",
-            "translation": "抽屉",
+            "translation": "出票人；开票人",
             "examples": []
           }
         ]
@@ -152257,8 +152257,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -156025,25 +156025,25 @@
           {
             "id": "drill-noun-1",
             "definition": "(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms",
-            "translation": "",
+            "translation": "（军事）操练；队列训练",
             "examples": []
           },
           {
             "id": "drill-noun-2",
             "definition": "systematic training by multiple repetitions",
-            "translation": "",
+            "translation": "反复训练；操练",
             "examples": []
           },
           {
             "id": "drill-noun-3",
             "definition": "similar to the mandrill but smaller and less brightly colored",
-            "translation": "",
+            "translation": "狒狒（西非产）",
             "examples": []
           },
           {
             "id": "drill-noun-4",
             "definition": "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
-            "translation": "",
+            "translation": "钻；钻头；钻机",
             "examples": []
           }
         ]
@@ -156054,19 +156054,19 @@
           {
             "id": "drill-verb-1",
             "definition": "train in the military, e.g., in the use of weapons",
-            "translation": "",
+            "translation": "进行军事训练",
             "examples": []
           },
           {
             "id": "drill-verb-2",
             "definition": "undergo military training or do military exercises",
-            "translation": "",
+            "translation": "受训；操练",
             "examples": []
           },
           {
             "id": "drill-verb-3",
             "definition": "learn by repetition",
-            "translation": "学习",
+            "translation": "通过重复学习",
             "examples": [
               {
                 "text": "We drilled French verbs every day",
@@ -156077,13 +156077,13 @@
           {
             "id": "drill-verb-4",
             "definition": "teach by repetition",
-            "translation": "",
+            "translation": "反复教导",
             "examples": []
           },
           {
             "id": "drill-verb-5",
             "definition": "make a hole, especially with a pointed power or hand tool",
-            "translation": "制造",
+            "translation": "钻孔；打洞",
             "examples": [
               {
                 "text": "don't drill here, there's a gas pipe",
@@ -156129,8 +156129,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -160313,7 +160313,7 @@
           {
             "id": "drought-noun-1",
             "definition": "a shortage of rainfall",
-            "translation": "",
+            "translation": "干旱；旱灾",
             "examples": [
               {
                 "text": "farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season",
@@ -160324,7 +160324,7 @@
           {
             "id": "drought-noun-2",
             "definition": "a prolonged shortage",
-            "translation": "",
+            "translation": "长期短缺；匮乏",
             "examples": [
               {
                 "text": "when England defeated Pakistan it ended a ten-year drought",
@@ -160337,8 +160337,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -165898,7 +165898,7 @@
           {
             "id": "dull-adjective-1",
             "definition": "(of business) not active or brisk",
-            "translation": "",
+            "translation": "（生意）清淡的；不景气的",
             "examples": [
               {
                 "text": "business is dull (or slow)",
@@ -165909,7 +165909,7 @@
           {
             "id": "dull-adjective-2",
             "definition": "emitting or reflecting very little light",
-            "translation": "",
+            "translation": "暗淡的；不发光的",
             "examples": [
               {
                 "text": "a dull glow",
@@ -165920,25 +165920,25 @@
           {
             "id": "dull-adjective-3",
             "definition": "(of color) very low in saturation",
-            "translation": "",
+            "translation": "（色彩）不饱和的；灰暗的",
             "examples": []
           },
           {
             "id": "dull-adjective-4",
             "definition": "slow to learn or understand",
-            "translation": "",
+            "translation": "迟钝的；愚笨的",
             "examples": []
           },
           {
             "id": "dull-adjective-5",
             "definition": "darkened with overcast",
-            "translation": "",
+            "translation": "阴沉的；多云的",
             "examples": []
           },
           {
             "id": "dull-adjective-6",
             "definition": "not having a sharp edge or point",
-            "translation": "",
+            "translation": "钝的；不锋利的",
             "examples": [
               {
                 "text": "the knife was too dull to be of any use",
@@ -165949,7 +165949,7 @@
           {
             "id": "dull-adjective-7",
             "definition": "not keenly felt",
-            "translation": "",
+            "translation": "（感觉）不敏锐的",
             "examples": [
               {
                 "text": "a dull throbbing",
@@ -165960,7 +165960,7 @@
           {
             "id": "dull-adjective-8",
             "definition": "lacking in liveliness or animation",
-            "translation": "",
+            "translation": "无生气的；沉闷的",
             "examples": [
               {
                 "text": "They were so dull at parties.",
@@ -165971,13 +165971,13 @@
           {
             "id": "dull-adjective-9",
             "definition": "so lacking in interest as to cause mental weariness",
-            "translation": "",
+            "translation": "乏味的；令人厌倦的",
             "examples": []
           },
           {
             "id": "dull-adjective-10",
             "definition": "being or made softer or less loud or clear",
-            "translation": "",
+            "translation": "（声音）柔和的；不响亮的",
             "examples": [
               {
                 "text": "the dull boom of distant breaking waves",
@@ -165988,13 +165988,13 @@
           {
             "id": "dull-adjective-11",
             "definition": "not clear and resonant",
-            "translation": "",
+            "translation": "不清亮的；沉闷的",
             "examples": []
           },
           {
             "id": "dull-adjective-12",
             "definition": "blunted in responsiveness or sensibility",
-            "translation": "",
+            "translation": "感觉迟钝的",
             "examples": [
               {
                 "text": "a dull gaze",
@@ -166010,7 +166010,7 @@
           {
             "id": "dull-verb-1",
             "definition": "make less lively or vigorous",
-            "translation": "制造",
+            "translation": "使不活泼；减弱",
             "examples": [
               {
                 "text": "Middle age dulled my appetite for travel.",
@@ -166021,19 +166021,19 @@
           {
             "id": "dull-verb-2",
             "definition": "become dull or lusterless in appearance",
-            "translation": "",
+            "translation": "变暗淡；失光泽",
             "examples": []
           },
           {
             "id": "dull-verb-3",
             "definition": "become less interesting or attractive",
-            "translation": "",
+            "translation": "变得不那么有趣",
             "examples": []
           },
           {
             "id": "dull-verb-4",
             "definition": "make dull in appearance",
-            "translation": "制造",
+            "translation": "使外观暗淡",
             "examples": [
               {
                 "text": "Age had dulled the surface",
@@ -166044,7 +166044,7 @@
           {
             "id": "dull-verb-5",
             "definition": "make dull or blunt",
-            "translation": "制造",
+            "translation": "使钝；变钝",
             "examples": [
               {
                 "text": "Too much cutting dulls the knife's edge",
@@ -166055,13 +166055,13 @@
           {
             "id": "dull-verb-6",
             "definition": "make numb or insensitive",
-            "translation": "制造",
+            "translation": "使麻木；使无感觉",
             "examples": []
           },
           {
             "id": "dull-verb-7",
             "definition": "deaden (a sound or noise), especially by wrapping",
-            "translation": "",
+            "translation": "消音；减弱声音",
             "examples": []
           }
         ]
@@ -166086,8 +166086,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -169403,7 +169403,7 @@
           {
             "id": "duration-noun-1",
             "definition": "continuance in time",
-            "translation": "",
+            "translation": "持续时间",
             "examples": [
               {
                 "text": "the ceremony was of short duration",
@@ -169414,13 +169414,13 @@
           {
             "id": "duration-noun-2",
             "definition": "the property of enduring or continuing in time",
-            "translation": "",
+            "translation": "持续性；持久性",
             "examples": []
           },
           {
             "id": "duration-noun-3",
             "definition": "the period of time during which something continues",
-            "translation": "",
+            "translation": "（某事的）持续期间",
             "examples": []
           }
         ]
@@ -169433,8 +169433,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -172038,13 +172038,13 @@
           {
             "id": "dynamic-adjective-1",
             "definition": "(used of verbs (e.g. `to run') and participial adjectives (e.g. `running' in `running water')) expressing action rather than a state of being",
-            "translation": "（用于动词如`to run'和分词形容词如`running water'中的`running'）表示动作而非状态",
+            "translation": "（语法）动态的（表示动作而非状态）",
             "examples": []
           },
           {
             "id": "dynamic-adjective-2",
             "definition": "characterized by action or forcefulness or force of personality",
-            "translation": "以…为特征",
+            "translation": "充满活力的；有魄力的",
             "examples": [
               {
                 "text": "a dynamic market",
@@ -172055,7 +172055,7 @@
           {
             "id": "dynamic-adjective-3",
             "definition": "of or relating to dynamics",
-            "translation": "动态的的",
+            "translation": "动力学的；动态的",
             "examples": []
           }
         ]
@@ -172066,7 +172066,7 @@
           {
             "id": "dynamic-noun-1",
             "definition": "an efficient incentive",
-            "translation": "动态的",
+            "translation": "动力；推动力",
             "examples": [
               {
                 "text": "they hoped it would act as a spiritual dynamic on all churches",
@@ -172079,8 +172079,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
