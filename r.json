@@ -5649,25 +5649,25 @@
           {
             "id": "radius-noun-1",
             "definition": "support consisting of a radial member of a wheel joining the hub to the rim",
-            "translation": "",
+            "translation": "（车轮的）辐条",
             "examples": []
           },
           {
             "id": "radius-noun-2",
             "definition": "the length of a line segment between the center and circumference of a circle or sphere",
-            "translation": "",
+            "translation": "半径",
             "examples": []
           },
           {
             "id": "radius-noun-3",
             "definition": "the outer and slightly shorter of the two bones of the human forearm",
-            "translation": "",
+            "translation": "桡骨",
             "examples": []
           },
           {
             "id": "radius-noun-4",
             "definition": "a circular region whose area is indicated by the length of its radius",
-            "translation": "",
+            "translation": "半径范围内",
             "examples": [
               {
                 "text": "they located it within a radius of 2 miles",
@@ -5678,7 +5678,7 @@
           {
             "id": "radius-noun-5",
             "definition": "a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)",
-            "translation": "",
+            "translation": "（圆或球的）半径",
             "examples": []
           }
         ]
@@ -5711,8 +5711,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -7495,19 +7495,19 @@
           {
             "id": "rail-noun-1",
             "definition": "any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud",
-            "translation": "铁轨",
+            "translation": "秧鸡",
             "examples": []
           },
           {
             "id": "rail-noun-2",
             "definition": "a horizontal bar (usually of wood or metal)",
-            "translation": "铁轨",
+            "translation": "横杆；栏杆",
             "examples": []
           },
           {
             "id": "rail-noun-3",
             "definition": "short for railway",
-            "translation": "铁轨",
+            "translation": "铁路（简写）",
             "examples": [
               {
                 "text": "We traveled by rail.",
@@ -7518,7 +7518,7 @@
           {
             "id": "rail-noun-4",
             "definition": "a barrier consisting of a horizontal bar and supports",
-            "translation": "铁轨",
+            "translation": "（由横杆和支柱组成的）围栏",
             "examples": []
           },
           {
@@ -7535,25 +7535,25 @@
           {
             "id": "rail-verb-1",
             "definition": "criticize severely",
-            "translation": "铁轨",
+            "translation": "严厉批评",
             "examples": []
           },
           {
             "id": "rail-verb-2",
             "definition": "spread negative information about",
-            "translation": "铁轨",
+            "translation": "散布负面信息",
             "examples": []
           },
           {
             "id": "rail-verb-3",
             "definition": "complain bitterly",
-            "translation": "铁轨",
+            "translation": "强烈抱怨",
             "examples": []
           },
           {
             "id": "rail-verb-4",
             "definition": "fish with a handline over the rails of a boat",
-            "translation": "鱼",
+            "translation": "（站在船舷边）垂钓",
             "examples": [
               {
                 "text": "They are railing for fresh fish",
@@ -7564,7 +7564,7 @@
           {
             "id": "rail-verb-5",
             "definition": "lay with rails",
-            "translation": "铁轨",
+            "translation": "铺设铁轨",
             "examples": [
               {
                 "text": "hundreds of miles were railed out here",
@@ -7575,7 +7575,7 @@
           {
             "id": "rail-verb-6",
             "definition": "travel by rail or train",
-            "translation": "铁轨",
+            "translation": "乘火车旅行",
             "examples": [
               {
                 "text": "They railed from Rome to Venice",
@@ -7586,7 +7586,7 @@
           {
             "id": "rail-verb-7",
             "definition": "convey (goods etc.) by rails",
-            "translation": "铁轨",
+            "translation": "用铁路运输",
             "examples": [
               {
                 "text": "fresh fruit are railed from Italy to Belgium",
@@ -7597,7 +7597,7 @@
           {
             "id": "rail-verb-8",
             "definition": "separate with a railing",
-            "translation": "分开的",
+            "translation": "用栏杆隔开",
             "examples": [
               {
                 "text": "rail off the crowds from the Presidential palace",
@@ -7608,7 +7608,7 @@
           {
             "id": "rail-verb-9",
             "definition": "provide with rails",
-            "translation": "铁轨",
+            "translation": "给…装栏杆",
             "examples": [
               {
                 "text": "The yard was railed",
@@ -7619,7 +7619,7 @@
           {
             "id": "rail-verb-10",
             "definition": "enclose with rails",
-            "translation": "铁轨",
+            "translation": "用栏杆围住",
             "examples": [
               {
                 "text": "rail in the old graves",
@@ -7665,8 +7665,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -16952,25 +16952,25 @@
           {
             "id": "rat-noun-2",
             "definition": "a pad (usually made of hair) worn as part of a woman's coiffure",
-            "translation": "老鼠",
+            "translation": "（假发中的）垫发",
             "examples": []
           },
           {
             "id": "rat-noun-3",
             "definition": "one who reveals confidential information in return for money",
-            "translation": "老鼠",
+            "translation": "告密者",
             "examples": []
           },
           {
             "id": "rat-noun-4",
             "definition": "a person who is deemed to be despicable or contemptible",
-            "translation": "老鼠",
+            "translation": "卑鄙的人；可鄙者",
             "examples": []
           },
           {
             "id": "rat-noun-5",
             "definition": "someone who works (or provides workers) during a strike",
-            "translation": "老鼠",
+            "translation": "罢工期间顶替上班者；工贼",
             "examples": []
           }
         ]
@@ -16981,37 +16981,37 @@
           {
             "id": "rat-verb-1",
             "definition": "give away information about somebody",
-            "translation": "老鼠",
+            "translation": "告密；出卖",
             "examples": []
           },
           {
             "id": "rat-verb-2",
             "definition": "catch rats, especially with dogs",
-            "translation": "老鼠",
+            "translation": "捕鼠（尤指用狗）",
             "examples": []
           },
           {
             "id": "rat-verb-3",
             "definition": "give (hair) the appearance of being fuller by using a rat",
-            "translation": "老鼠",
+            "translation": "用垫发使（头发）显得蓬松",
             "examples": []
           },
           {
             "id": "rat-verb-4",
             "definition": "take the place of work of someone on strike",
-            "translation": "拿",
+            "translation": "顶替罢工者的工作",
             "examples": []
           },
           {
             "id": "rat-verb-5",
             "definition": "employ scabs or strike breakers in",
-            "translation": "老鼠",
+            "translation": "雇用工贼",
             "examples": []
           },
           {
             "id": "rat-verb-6",
             "definition": "desert one's party or group of friends, for example, for one's personal advantage",
-            "translation": "老鼠",
+            "translation": "背叛；变节",
             "examples": []
           }
         ]
@@ -17040,8 +17040,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26408,7 +26408,7 @@
           {
             "id": "realm-noun-1",
             "definition": "a knowledge domain that you are interested in or are communicating about",
-            "translation": "",
+            "translation": "（知识）领域",
             "examples": [
               {
                 "text": "it was a limited realm of discourse",
@@ -26419,13 +26419,13 @@
           {
             "id": "realm-noun-2",
             "definition": "the domain ruled by a king or queen",
-            "translation": "",
+            "translation": "王国",
             "examples": []
           },
           {
             "id": "realm-noun-3",
             "definition": "a domain in which something is dominant",
-            "translation": "",
+            "translation": "（某事物占主导的）领域",
             "examples": []
           }
         ]
@@ -26433,8 +26433,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26798,13 +26798,13 @@
           {
             "id": "reap-verb-1",
             "definition": "gather, as of natural products",
-            "translation": "",
+            "translation": "收割；收获",
             "examples": []
           },
           {
             "id": "reap-verb-2",
             "definition": "get or derive",
-            "translation": "",
+            "translation": "获得；得到",
             "examples": []
           }
         ]
@@ -26812,8 +26812,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -30474,13 +30474,13 @@
           {
             "id": "recall-noun-1",
             "definition": "the act of removing an official by petition",
-            "translation": "",
+            "translation": "罢免",
             "examples": []
           },
           {
             "id": "recall-noun-2",
             "definition": "the process of remembering, especially the process of recovering information by mental effort",
-            "translation": "",
+            "translation": "回忆；记忆",
             "examples": [
               {
                 "text": "I have total recall of the episode.",
@@ -30491,13 +30491,13 @@
           {
             "id": "recall-noun-3",
             "definition": "a bugle call that signals troops to return",
-            "translation": "",
+            "translation": "（军号）召回号",
             "examples": []
           },
           {
             "id": "recall-noun-4",
             "definition": "a call to return",
-            "translation": "",
+            "translation": "召回；唤回",
             "examples": [
               {
                 "text": "the recall of our ambassador",
@@ -30508,7 +30508,7 @@
           {
             "id": "recall-noun-5",
             "definition": "a request by the manufacturer of a defective product to return the product (as for replacement or repair)",
-            "translation": "",
+            "translation": "（厂家）召回（产品）",
             "examples": []
           }
         ]
@@ -30519,13 +30519,13 @@
           {
             "id": "recall-verb-1",
             "definition": "recall knowledge from memory",
-            "translation": "",
+            "translation": "记起；想起",
             "examples": []
           },
           {
             "id": "recall-verb-2",
             "definition": "cause one's, or someone else's, thoughts or attention to return from a reverie or digression",
-            "translation": "",
+            "translation": "使回过神来；使不再走神",
             "examples": [
               {
                 "text": "I was recalled by a loud laugh.",
@@ -30536,7 +30536,7 @@
           {
             "id": "recall-verb-3",
             "definition": "summon to return",
-            "translation": "",
+            "translation": "召回",
             "examples": [
               {
                 "text": "The ambassador was recalled to their country.",
@@ -30547,13 +30547,13 @@
           {
             "id": "recall-verb-4",
             "definition": "go back to something earlier",
-            "translation": "",
+            "translation": "回溯；回到",
             "examples": []
           },
           {
             "id": "recall-verb-5",
             "definition": "cause to be returned",
-            "translation": "",
+            "translation": "使归还",
             "examples": [
               {
                 "text": "recall the defective auto tires",
@@ -30564,13 +30564,13 @@
           {
             "id": "recall-verb-6",
             "definition": "make unavailable",
-            "translation": "制造",
+            "translation": "撤下；使不可用",
             "examples": []
           },
           {
             "id": "recall-verb-7",
             "definition": "call to mind",
-            "translation": "",
+            "translation": "记起",
             "examples": []
           }
         ]
@@ -30599,8 +30599,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -46004,37 +46004,37 @@
           {
             "id": "reel-noun-1",
             "definition": "an American country dance which starts with the couples facing each other in two lines",
-            "translation": "",
+            "translation": "里尔舞（美国乡村舞）",
             "examples": []
           },
           {
             "id": "reel-noun-2",
             "definition": "a lively dance of Scottish Highlanders",
-            "translation": "",
+            "translation": "里尔舞（苏格兰高地舞）",
             "examples": []
           },
           {
             "id": "reel-noun-3",
             "definition": "a winder around which thread or tape or film or other flexible materials can be wound",
-            "translation": "",
+            "translation": "卷轴；卷筒",
             "examples": []
           },
           {
             "id": "reel-noun-4",
             "definition": "winder consisting of a revolving spool with a handle",
-            "translation": "",
+            "translation": "（带柄的）卷线器",
             "examples": []
           },
           {
             "id": "reel-noun-5",
             "definition": "a roll of photographic film holding a series of frames to be projected by a movie projector",
-            "translation": "",
+            "translation": "（影片的）一卷",
             "examples": []
           },
           {
             "id": "reel-noun-6",
             "definition": "music composed for dancing a reel",
-            "translation": "",
+            "translation": "里尔舞曲",
             "examples": []
           }
         ]
@@ -46045,19 +46045,19 @@
           {
             "id": "reel-verb-1",
             "definition": "wind onto or off a reel",
-            "translation": "",
+            "translation": "卷；绕",
             "examples": []
           },
           {
             "id": "reel-verb-2",
             "definition": "walk as if unable to control one's movements",
-            "translation": "",
+            "translation": "踉跄；摇晃着走",
             "examples": []
           },
           {
             "id": "reel-verb-3",
             "definition": "revolve quickly and repeatedly around one's own axis",
-            "translation": "",
+            "translation": "（绕轴）快速旋转",
             "examples": []
           }
         ]
@@ -46090,8 +46090,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -56776,13 +56776,13 @@
           {
             "id": "reign-noun-1",
             "definition": "royal authority",
-            "translation": "王室的权威",
+            "translation": "王权；君权",
             "examples": []
           },
           {
             "id": "reign-noun-2",
             "definition": "the period during which a monarch is sovereign",
-            "translation": "",
+            "translation": "君主统治时期",
             "examples": [
               {
                 "text": "during the reign of Henry VIII",
@@ -56793,7 +56793,7 @@
           {
             "id": "reign-noun-3",
             "definition": "a period during which something or somebody is dominant or powerful",
-            "translation": "",
+            "translation": "（某事物占主导的）时期",
             "examples": [
               {
                 "text": "We were helpless under the reign of our egotism.",
@@ -56809,7 +56809,7 @@
           {
             "id": "reign-verb-1",
             "definition": "have sovereign power",
-            "translation": "",
+            "translation": "统治；称王",
             "examples": [
               {
                 "text": "Henry VIII reigned for a long time",
@@ -56820,7 +56820,7 @@
           {
             "id": "reign-verb-2",
             "definition": "be larger in number, quantity, power, status or importance",
-            "translation": "",
+            "translation": "占主导地位",
             "examples": [
               {
                 "text": "Money reigns supreme here",
@@ -56833,8 +56833,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -62256,13 +62256,13 @@
           {
             "id": "religion-noun-1",
             "definition": "a strong belief in a supernatural power or powers that control human destiny",
-            "translation": "宗教",
+            "translation": "宗教信仰",
             "examples": []
           },
           {
             "id": "religion-noun-2",
             "definition": "an institution to express belief in a divine power",
-            "translation": "宗教",
+            "translation": "宗教（机构）",
             "examples": [
               {
                 "text": "I was raised in the Baptist religion.",
@@ -62275,8 +62275,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -68919,25 +68919,25 @@
           {
             "id": "rent-noun-1",
             "definition": "the act of rending or ripping or splitting something",
-            "translation": "租",
+            "translation": "撕裂；扯裂",
             "examples": []
           },
           {
             "id": "rent-noun-2",
             "definition": "an opening made forcibly as by pulling apart",
-            "translation": "租",
+            "translation": "裂口；裂缝",
             "examples": []
           },
           {
             "id": "rent-noun-3",
             "definition": "a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service",
-            "translation": "租",
+            "translation": "租金",
             "examples": []
           },
           {
             "id": "rent-noun-4",
             "definition": "the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions",
-            "translation": "租",
+            "translation": "（土地的）地租",
             "examples": []
           }
         ]
@@ -68948,19 +68948,19 @@
           {
             "id": "rent-verb-1",
             "definition": "engage for service under a term of contract",
-            "translation": "收缩；缩小",
+            "translation": "租用；雇用",
             "examples": []
           },
           {
             "id": "rent-verb-2",
             "definition": "grant use or occupation of under a term of contract",
-            "translation": "收缩；缩小",
+            "translation": "出租",
             "examples": []
           },
           {
             "id": "rent-verb-3",
             "definition": "let for money",
-            "translation": "租",
+            "translation": "出租；收租",
             "examples": [
               {
                 "text": "We rented our apartment to friends while we were abroad",
@@ -68971,7 +68971,7 @@
           {
             "id": "rent-verb-4",
             "definition": "hold under a lease or rental agreement",
-            "translation": "租",
+            "translation": "租用；租赁",
             "examples": []
           }
         ]
@@ -69012,8 +69012,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -70096,19 +70096,19 @@
           {
             "id": "repair-noun-1",
             "definition": "the act of putting something in working order again",
-            "translation": "修理",
+            "translation": "修理；修补",
             "examples": []
           },
           {
             "id": "repair-noun-2",
             "definition": "a frequently visited place",
-            "translation": "修理",
+            "translation": "常去的地方",
             "examples": []
           },
           {
             "id": "repair-noun-3",
             "definition": "a formal way of referring to the condition of something",
-            "translation": "修理",
+            "translation": "（某物的）状况",
             "examples": [
               {
                 "text": "the building was in good repair",
@@ -70124,19 +70124,19 @@
           {
             "id": "repair-verb-1",
             "definition": "give new life or energy to",
-            "translation": "修理",
+            "translation": "使恢复活力；使焕然一新",
             "examples": []
           },
           {
             "id": "repair-verb-2",
             "definition": "set straight or right",
-            "translation": "修理",
+            "translation": "纠正；修正",
             "examples": []
           },
           {
             "id": "repair-verb-3",
             "definition": "restore by replacing a part or putting together what is torn or broken",
-            "translation": "分离；分开",
+            "translation": "修理；修补",
             "examples": [
               {
                 "text": "I repaired my TV set.",
@@ -70147,7 +70147,7 @@
           {
             "id": "repair-verb-4",
             "definition": "move, travel, or proceed toward some place",
-            "translation": "修理",
+            "translation": "前往；去",
             "examples": [
               {
                 "text": "They repaired to their cabin in the woods.",
@@ -70158,7 +70158,7 @@
           {
             "id": "repair-verb-5",
             "definition": "make amends for",
-            "translation": "制造",
+            "translation": "弥补；补偿",
             "examples": []
           }
         ]
@@ -70227,8 +70227,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -75584,7 +75584,7 @@
           {
             "id": "reproach-noun-1",
             "definition": "a mild rebuke or criticism",
-            "translation": "",
+            "translation": "责备；谴责",
             "examples": [
               {
                 "text": "words of reproach",
@@ -75595,7 +75595,7 @@
           {
             "id": "reproach-noun-2",
             "definition": "disgrace or shame",
-            "translation": "",
+            "translation": "耻辱；丢脸",
             "examples": [
               {
                 "text": "The clan brought reproach upon their tribe.",
@@ -75611,7 +75611,7 @@
           {
             "id": "reproach-verb-1",
             "definition": "express criticism towards",
-            "translation": "表达批评朝",
+            "translation": "责备；批评",
             "examples": [
               {
                 "text": "The president reproached the general for their irresponsible behavior.",
@@ -75624,8 +75624,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -77538,7 +77538,7 @@
           {
             "id": "reputation-noun-1",
             "definition": "the general estimation that the public has for a person",
-            "translation": "声誉",
+            "translation": "名声；声誉",
             "examples": [
               {
                 "text": "I acquired a reputation as an actor before I started writing.",
@@ -77549,13 +77549,13 @@
           {
             "id": "reputation-noun-2",
             "definition": "the state of being held in high esteem and honor",
-            "translation": "…的状态",
+            "translation": "（受尊敬的状态）声望",
             "examples": []
           },
           {
             "id": "reputation-noun-3",
             "definition": "notoriety for some particular characteristic",
-            "translation": "声誉",
+            "translation": "（某特征的）名望",
             "examples": [
               {
                 "text": "They had a reputation for promiscuity.",
@@ -77568,8 +77568,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -77694,13 +77694,13 @@
           {
             "id": "request-noun-1",
             "definition": "a formal message requesting something that is submitted to an authority",
-            "translation": "请求",
+            "translation": "（正式）请求书；申请书",
             "examples": []
           },
           {
             "id": "request-noun-2",
             "definition": "the verbal act of requesting",
-            "translation": "请求",
+            "translation": "口头请求",
             "examples": []
           }
         ]
@@ -77711,19 +77711,19 @@
           {
             "id": "request-verb-1",
             "definition": "express the need or desire for",
-            "translation": "请求",
+            "translation": "请求；要求",
             "examples": []
           },
           {
             "id": "request-verb-2",
             "definition": "ask (a person) to do something",
-            "translation": "请求",
+            "translation": "请（某人）做某事",
             "examples": []
           },
           {
             "id": "request-verb-3",
             "definition": "to inquire for something, usually information",
-            "translation": "请求",
+            "translation": "询问；查询",
             "examples": [
               {
                 "text": "I requested information from the secretary.",
@@ -77757,8 +77757,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -78825,7 +78825,7 @@
           {
             "id": "rescue-noun-1",
             "definition": "recovery or preservation from loss or danger",
-            "translation": "营救",
+            "translation": "营救；救援",
             "examples": []
           }
         ]
@@ -78836,7 +78836,7 @@
           {
             "id": "rescue-verb-1",
             "definition": "take forcibly from legal custody",
-            "translation": "拿",
+            "translation": "强行夺回；从监管下抢出",
             "examples": [
               {
                 "text": "rescue prisoners",
@@ -78847,7 +78847,7 @@
           {
             "id": "rescue-verb-2",
             "definition": "free from harm or evil",
-            "translation": "营救",
+            "translation": "营救；解救",
             "examples": []
           }
         ]
@@ -78860,8 +78860,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -79881,43 +79881,43 @@
           {
             "id": "reserve-noun-1",
             "definition": "the trait of being uncommunicative",
-            "translation": "保留",
+            "translation": "沉默寡言；内向",
             "examples": []
           },
           {
             "id": "reserve-noun-2",
             "definition": "formality and propriety of manner",
-            "translation": "保留",
+            "translation": "（态度）拘谨；有礼",
             "examples": []
           },
           {
             "id": "reserve-noun-3",
             "definition": "armed forces that are not on active duty but can be called in an emergency",
-            "translation": "保留",
+            "translation": "预备役部队",
             "examples": []
           },
           {
             "id": "reserve-noun-4",
             "definition": "a district that is reserved for particular purpose",
-            "translation": "保留",
+            "translation": "自然保护区；专用区",
             "examples": []
           },
           {
             "id": "reserve-noun-5",
             "definition": "an athlete who plays only when a starter on the team is replaced",
-            "translation": "保留",
+            "translation": "替补队员",
             "examples": []
           },
           {
             "id": "reserve-noun-6",
             "definition": "something kept back or saved for future use or a special purpose",
-            "translation": "保留",
+            "translation": "储备；储藏",
             "examples": []
           },
           {
             "id": "reserve-noun-7",
             "definition": "(medicine) potential capacity to respond in order to maintain vital functions",
-            "translation": "保留",
+            "translation": "（医）储备能力",
             "examples": []
           }
         ]
@@ -79928,13 +79928,13 @@
           {
             "id": "reserve-verb-1",
             "definition": "give or assign a resource to a particular person or cause",
-            "translation": "保留",
+            "translation": "把…拨给（某人或某用途）",
             "examples": []
           },
           {
             "id": "reserve-verb-2",
             "definition": "obtain or arrange in advance",
-            "translation": "保留",
+            "translation": "预约；预订",
             "examples": [
               {
                 "text": "We managed to reserve a table at Maxim's.",
@@ -79945,13 +79945,13 @@
           {
             "id": "reserve-verb-3",
             "definition": "hold back or set aside, especially for future use or contingency",
-            "translation": "保留",
+            "translation": "保留；留作",
             "examples": []
           },
           {
             "id": "reserve-verb-4",
             "definition": "arrange for and reserve (something for someone else) in advance",
-            "translation": "保留",
+            "translation": "为（他人）预订",
             "examples": [
               {
                 "text": "reserve me a seat on a flight",
@@ -80009,8 +80009,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -93491,13 +93491,13 @@
           {
             "id": "retrieve-verb-1",
             "definition": "recall knowledge from memory",
-            "translation": "",
+            "translation": "记起；回忆",
             "examples": []
           },
           {
             "id": "retrieve-verb-2",
             "definition": "run after, pick up, and bring to the master",
-            "translation": "",
+            "translation": "（猎犬）衔回",
             "examples": [
               {
                 "text": "train the dog to retrieve",
@@ -93508,7 +93508,7 @@
           {
             "id": "retrieve-verb-3",
             "definition": "go for and bring back",
-            "translation": "",
+            "translation": "去取回",
             "examples": [
               {
                 "text": "retrieve the car from the parking garage",
@@ -93519,7 +93519,7 @@
           {
             "id": "retrieve-verb-4",
             "definition": "get or find back",
-            "translation": "",
+            "translation": "取回；找回",
             "examples": []
           }
         ]
@@ -93527,8 +93527,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -98460,13 +98460,13 @@
           {
             "id": "review-noun-1",
             "definition": "a subsequent examination of a patient for the purpose of monitoring earlier treatment",
-            "translation": "审查",
+            "translation": "复查；复诊",
             "examples": []
           },
           {
             "id": "review-noun-2",
             "definition": "a formal or official examination",
-            "translation": "审查",
+            "translation": "正式检查；审查",
             "examples": [
               {
                 "text": "the platoon stood ready for review",
@@ -98477,49 +98477,49 @@
           {
             "id": "review-noun-3",
             "definition": "practice intended to polish performance or refresh the memory",
-            "translation": "实践",
+            "translation": "复习；温习",
             "examples": []
           },
           {
             "id": "review-noun-4",
             "definition": "(law) a judicial reexamination of the proceedings of a court (especially by an appellate court)",
-            "translation": "审查",
+            "translation": "（法律）上诉复审",
             "examples": []
           },
           {
             "id": "review-noun-5",
             "definition": "a new appraisal or evaluation",
-            "translation": "审查",
+            "translation": "重新评估",
             "examples": []
           },
           {
             "id": "review-noun-6",
             "definition": "an essay or article that gives a critical evaluation (as of a book or play)",
-            "translation": "审查",
+            "translation": "评论（文章）",
             "examples": []
           },
           {
             "id": "review-noun-7",
             "definition": "a summary at the end that repeats the substance of a longer discussion",
-            "translation": "审查",
+            "translation": "总结；概要",
             "examples": []
           },
           {
             "id": "review-noun-8",
             "definition": "a periodical that publishes critical essays on current affairs or literature or art",
-            "translation": "审查",
+            "translation": "评论杂志",
             "examples": []
           },
           {
             "id": "review-noun-9",
             "definition": "a variety show with topical sketches and songs and dancing and comedians",
-            "translation": "审查",
+            "translation": "（电视）综艺秀",
             "examples": []
           },
           {
             "id": "review-noun-10",
             "definition": "(accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data",
-            "translation": "审查",
+            "translation": "（会计）审阅",
             "examples": []
           }
         ]
@@ -98530,25 +98530,25 @@
           {
             "id": "review-verb-1",
             "definition": "look at again",
-            "translation": "看",
+            "translation": "再看；重新看",
             "examples": []
           },
           {
             "id": "review-verb-2",
             "definition": "look back upon (a period of time, sequence of events)",
-            "translation": "看",
+            "translation": "回顾",
             "examples": []
           },
           {
             "id": "review-verb-3",
             "definition": "hold a review (of troops)",
-            "translation": "审查",
+            "translation": "检阅（部队）",
             "examples": []
           },
           {
             "id": "review-verb-4",
             "definition": "refresh one's memory",
-            "translation": "审查",
+            "translation": "复习",
             "examples": [
               {
                 "text": "I reviewed the material before the test",
@@ -98559,7 +98559,7 @@
           {
             "id": "review-verb-5",
             "definition": "appraise critically",
-            "translation": "审查",
+            "translation": "评论",
             "examples": [
               {
                 "text": "They review books for the New York Times.",
@@ -98577,8 +98577,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -100015,7 +100015,7 @@
           {
             "id": "revolt-noun-1",
             "definition": "organized opposition to authority",
-            "translation": "",
+            "translation": "反抗；起义",
             "examples": []
           }
         ]
@@ -100026,19 +100026,19 @@
           {
             "id": "revolt-verb-1",
             "definition": "cause aversion in",
-            "translation": "",
+            "translation": "使厌恶",
             "examples": []
           },
           {
             "id": "revolt-verb-2",
             "definition": "fill with distaste",
-            "translation": "",
+            "translation": "使反感",
             "examples": []
           },
           {
             "id": "revolt-verb-3",
             "definition": "make revolution",
-            "translation": "通过革命制造",
+            "translation": "起义；造反",
             "examples": [
               {
                 "text": "The people revolted when bread prices tripled again",
@@ -100064,8 +100064,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -100730,31 +100730,31 @@
           {
             "id": "reward-noun-1",
             "definition": "an act performed to strengthen approved behavior",
-            "translation": "奖励",
+            "translation": "（强化行为的）奖赏",
             "examples": []
           },
           {
             "id": "reward-noun-2",
             "definition": "benefit resulting from some event or action",
-            "translation": "由某些事件或行动产生的好处",
+            "translation": "（事件的）回报；好处",
             "examples": []
           },
           {
             "id": "reward-noun-3",
             "definition": "the offer of money for helping to find a criminal or for returning lost property",
-            "translation": "奖励",
+            "translation": "（捉拿罪犯的）悬赏",
             "examples": []
           },
           {
             "id": "reward-noun-4",
             "definition": "a recompense for worthy acts or retribution for wrongdoing",
-            "translation": "奖励",
+            "translation": "（善行或恶行的）报偿",
             "examples": []
           },
           {
             "id": "reward-noun-5",
             "definition": "payment made in return for a service rendered",
-            "translation": "奖励",
+            "translation": "（服务的）报酬",
             "examples": []
           }
         ]
@@ -100765,19 +100765,19 @@
           {
             "id": "reward-verb-1",
             "definition": "strengthen and support with rewards",
-            "translation": "奖励",
+            "translation": "用奖励支持",
             "examples": []
           },
           {
             "id": "reward-verb-2",
             "definition": "act or give recompense in recognition of someone's behavior or actions",
-            "translation": "奖励",
+            "translation": "奖赏；回报",
             "examples": []
           },
           {
             "id": "reward-verb-3",
             "definition": "bestow honor or rewards upon",
-            "translation": "奖励",
+            "translation": "授予荣誉或奖励",
             "examples": []
           }
         ]
@@ -100785,8 +100785,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -107148,7 +107148,7 @@
           {
             "id": "riddle-noun-2",
             "definition": "a difficult problem",
-            "translation": "一个困难的问题",
+            "translation": "谜；谜语",
             "examples": []
           }
         ]
@@ -107159,7 +107159,7 @@
           {
             "id": "riddle-verb-1",
             "definition": "set a difficult problem or riddle",
-            "translation": "出谜",
+            "translation": "出谜；使困惑",
             "examples": [
               {
                 "text": "riddle me a riddle",
@@ -107170,7 +107170,7 @@
           {
             "id": "riddle-verb-2",
             "definition": "explain a riddle",
-            "translation": "解释",
+            "translation": "解谜；解答",
             "examples": []
           },
           {
@@ -107182,7 +107182,7 @@
           {
             "id": "riddle-verb-4",
             "definition": "spread or diffuse through",
-            "translation": "弥漫；散布",
+            "translation": "弥漫；渗透",
             "examples": []
           },
           {
@@ -107199,7 +107199,7 @@
           {
             "id": "riddle-verb-6",
             "definition": "separate with a riddle, as grain from chaff",
-            "translation": "分开的",
+            "translation": "筛；筛选",
             "examples": []
           }
         ]
@@ -107212,8 +107212,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -107686,37 +107686,37 @@
           {
             "id": "ridge-noun-1",
             "definition": "a beam laid along the edge where two sloping sides of a roof meet at the top",
-            "translation": "",
+            "translation": "（屋顶的）脊",
             "examples": []
           },
           {
             "id": "ridge-noun-2",
             "definition": "any long raised border or margin of a bone or tooth or membrane",
-            "translation": "",
+            "translation": "（骨、齿等的）脊",
             "examples": []
           },
           {
             "id": "ridge-noun-3",
             "definition": "a long narrow natural elevation or striation",
-            "translation": "",
+            "translation": "狭长的隆起",
             "examples": []
           },
           {
             "id": "ridge-noun-4",
             "definition": "a long narrow range of hills",
-            "translation": "",
+            "translation": "山脉",
             "examples": []
           },
           {
             "id": "ridge-noun-5",
             "definition": "a long narrow natural elevation on the floor of the ocean",
-            "translation": "",
+            "translation": "海底山脊",
             "examples": []
           },
           {
             "id": "ridge-noun-6",
             "definition": "any long raised strip",
-            "translation": "",
+            "translation": "狭长凸起",
             "examples": []
           }
         ]
@@ -107727,13 +107727,13 @@
           {
             "id": "ridge-verb-1",
             "definition": "form into a ridge",
-            "translation": "形式",
+            "translation": "成脊状",
             "examples": []
           },
           {
             "id": "ridge-verb-2",
             "definition": "spade into alternate ridges and troughs",
-            "translation": "",
+            "translation": "翻成垄和沟",
             "examples": [
               {
                 "text": "ridge the soil",
@@ -107744,7 +107744,7 @@
           {
             "id": "ridge-verb-3",
             "definition": "throw soil toward a crop row from both sides",
-            "translation": "扔土壤朝一个庄稼行从两者边",
+            "translation": "向作物行培土",
             "examples": [
               {
                 "text": "I ridged my corn.",
@@ -107755,13 +107755,13 @@
           {
             "id": "ridge-verb-4",
             "definition": "plough alternate strips by throwing the furrow onto an unploughed strip",
-            "translation": "",
+            "translation": "犁成垄",
             "examples": []
           },
           {
             "id": "ridge-verb-5",
             "definition": "extend in ridges",
-            "translation": "",
+            "translation": "延伸成脊",
             "examples": [
               {
                 "text": "The land ridges towards the South",
@@ -107779,8 +107779,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -110976,7 +110976,7 @@
           {
             "id": "rigid-adjective-1",
             "definition": "incapable of or resistant to bending",
-            "translation": "僵硬的",
+            "translation": "僵硬的；不易弯曲的",
             "examples": [
               {
                 "text": "a rigid strip of metal",
@@ -110987,13 +110987,13 @@
           {
             "id": "rigid-adjective-2",
             "definition": "designating an airship or dirigible having a form maintained by a stiff unyielding frame or structure",
-            "translation": "僵硬的",
+            "translation": "（飞艇）硬式的",
             "examples": []
           },
           {
             "id": "rigid-adjective-3",
             "definition": "incapable of adapting or changing to meet circumstances",
-            "translation": "僵硬的",
+            "translation": "僵化的；不能适应的",
             "examples": [
               {
                 "text": "a rigid disciplinarian",
@@ -111004,13 +111004,13 @@
           {
             "id": "rigid-adjective-4",
             "definition": "fixed and unmoving",
-            "translation": "僵硬的",
+            "translation": "固定的；不动的",
             "examples": []
           },
           {
             "id": "rigid-adjective-5",
             "definition": "incapable of compromise or flexibility",
-            "translation": "僵硬的",
+            "translation": "不妥协的；死板的",
             "examples": []
           }
         ]
@@ -111018,8 +111018,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -121444,13 +121444,13 @@
           {
             "id": "role-noun-1",
             "definition": "the actions and activities assigned to or required or expected of a person or group",
-            "translation": "角色",
+            "translation": "职责；任务",
             "examples": []
           },
           {
             "id": "role-noun-2",
             "definition": "normal or customary activity of a person in a particular social setting",
-            "translation": "角色",
+            "translation": "（在某场合的）作用",
             "examples": [
               {
                 "text": "what is your role on the team?",
@@ -121461,13 +121461,13 @@
           {
             "id": "role-noun-3",
             "definition": "what something is used for",
-            "translation": "角色",
+            "translation": "用途",
             "examples": []
           },
           {
             "id": "role-noun-4",
             "definition": "an actor's portrayal of someone in a play",
-            "translation": "角色",
+            "translation": "（戏剧中的）角色",
             "examples": []
           }
         ]
@@ -121480,8 +121480,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -128288,7 +128288,7 @@
           {
             "id": "rotate-verb-1",
             "definition": "plant or grow in a fixed cyclic order of succession",
-            "translation": "植物",
+            "translation": "轮作",
             "examples": [
               {
                 "text": "We rotate the crops so as to maximize the use of the soil",
@@ -128299,7 +128299,7 @@
           {
             "id": "rotate-verb-2",
             "definition": "perform a job or duty on a rotating basis",
-            "translation": "",
+            "translation": "轮岗；轮值",
             "examples": [
               {
                 "text": "Interns have to rotate for a few months",
@@ -128310,25 +128310,25 @@
           {
             "id": "rotate-verb-3",
             "definition": "turn on or around an axis or a center",
-            "translation": "",
+            "translation": "（绕轴）旋转",
             "examples": []
           },
           {
             "id": "rotate-verb-4",
             "definition": "turn outward",
-            "translation": "",
+            "translation": "向外转",
             "examples": []
           },
           {
             "id": "rotate-verb-5",
             "definition": "cause to turn on an axis or center",
-            "translation": "打开",
+            "translation": "使绕轴旋转",
             "examples": []
           },
           {
             "id": "rotate-verb-6",
             "definition": "exchange on a regular basis",
-            "translation": "",
+            "translation": "（定期）轮换",
             "examples": [
               {
                 "text": "We rotate the lead soprano every night",
@@ -128346,8 +128346,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -134212,13 +134212,13 @@
           {
             "id": "rubbish-noun-1",
             "definition": "nonsensical talk or writing",
-            "translation": "垃圾",
+            "translation": "胡说八道",
             "examples": []
           },
           {
             "id": "rubbish-noun-2",
             "definition": "worthless material that is to be disposed of",
-            "translation": "垃圾",
+            "translation": "垃圾；废物",
             "examples": [
               {
                 "text": "After we were done, we discarded all the rubbish.",
@@ -134234,7 +134234,7 @@
           {
             "id": "rubbish-verb-1",
             "definition": "attack strongly",
-            "translation": "垃圾",
+            "translation": "强烈抨击",
             "examples": []
           }
         ]
@@ -134242,8 +134242,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -137474,19 +137474,19 @@
           {
             "id": "rule-noun-1",
             "definition": "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths",
-            "translation": "规则",
+            "translation": "直尺",
             "examples": []
           },
           {
             "id": "rule-noun-2",
             "definition": "something regarded as a normative example",
-            "translation": "规则",
+            "translation": "典范；范例",
             "examples": []
           },
           {
             "id": "rule-noun-3",
             "definition": "a principle or condition that customarily governs behavior",
-            "translation": "规则",
+            "translation": "惯例；行为准则",
             "examples": [
               {
                 "text": "It was their rule to take a walk before breakfast.",
@@ -137497,7 +137497,7 @@
           {
             "id": "rule-noun-4",
             "definition": "a standard procedure for solving a class of mathematical problems",
-            "translation": "规则",
+            "translation": "（数学）运算法则",
             "examples": [
               {
                 "text": "The student determined the upper bound with Descartes' rule of signs.",
@@ -137508,19 +137508,19 @@
           {
             "id": "rule-noun-5",
             "definition": "a rule or law concerning a natural phenomenon or the function of a complex system",
-            "translation": "规则",
+            "translation": "（自然）定律",
             "examples": []
           },
           {
             "id": "rule-noun-6",
             "definition": "a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct",
-            "translation": "规则",
+            "translation": "通则；基本原理",
             "examples": []
           },
           {
             "id": "rule-noun-7",
             "definition": "any one of a systematic body of regulations defining the way of life of members of a religious order",
-            "translation": "规则",
+            "translation": "（宗教）教规",
             "examples": [
               {
                 "text": "the rule of St. Dominic",
@@ -137531,13 +137531,13 @@
           {
             "id": "rule-noun-8",
             "definition": "prescribed guide for conduct or action",
-            "translation": "规则",
+            "translation": "行为指南",
             "examples": []
           },
           {
             "id": "rule-noun-9",
             "definition": "directions that define the way a game or sport is to be conducted",
-            "translation": "规则",
+            "translation": "（比赛）规则",
             "examples": [
               {
                 "text": "I know the rules of chess.",
@@ -137548,19 +137548,19 @@
           {
             "id": "rule-noun-10",
             "definition": "(linguistics) a rule describing (or prescribing) a linguistic practice",
-            "translation": "规则",
+            "translation": "（语言学）规则",
             "examples": []
           },
           {
             "id": "rule-noun-11",
             "definition": "dominance or power through legal authority",
-            "translation": "规则",
+            "translation": "（合法）统治",
             "examples": []
           },
           {
             "id": "rule-noun-12",
             "definition": "the duration of a monarch's or government's power",
-            "translation": "规则",
+            "translation": "（君主的）统治期",
             "examples": [
               {
                 "text": "during the rule of Elizabeth",
@@ -137576,7 +137576,7 @@
           {
             "id": "rule-verb-1",
             "definition": "keep in check",
-            "translation": "规则",
+            "translation": "约束；控制",
             "examples": [
               {
                 "text": "rule one's temper",
@@ -137587,19 +137587,19 @@
           {
             "id": "rule-verb-2",
             "definition": "decide with authority",
-            "translation": "规则",
+            "translation": "裁决；裁定",
             "examples": []
           },
           {
             "id": "rule-verb-3",
             "definition": "decide on and make a declaration about",
-            "translation": "规则",
+            "translation": "宣布；声明",
             "examples": []
           },
           {
             "id": "rule-verb-4",
             "definition": "mark or draw with a ruler",
-            "translation": "标记",
+            "translation": "用直尺画",
             "examples": [
               {
                 "text": "rule the margins",
@@ -137610,19 +137610,19 @@
           {
             "id": "rule-verb-5",
             "definition": "exercise authority over",
-            "translation": "规则",
+            "translation": "统治；管辖",
             "examples": []
           },
           {
             "id": "rule-verb-6",
             "definition": "be larger in number, quantity, power, status or importance",
-            "translation": "规则",
+            "translation": "占主导地位",
             "examples": []
           },
           {
             "id": "rule-verb-7",
             "definition": "have an affinity with",
-            "translation": "规则",
+            "translation": "与…相合",
             "examples": []
           }
         ]
@@ -137723,8 +137723,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

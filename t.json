@@ -3611,31 +3611,31 @@
           {
             "id": "tag-noun-1",
             "definition": "(sports) the act of touching a player in a game (which changes their status in the game)",
-            "translation": "",
+            "translation": "（运动中的）触人；触杀",
             "examples": []
           },
           {
             "id": "tag-noun-2",
             "definition": "a game in which one child chases the others",
-            "translation": "",
+            "translation": "捉人游戏",
             "examples": []
           },
           {
             "id": "tag-noun-3",
             "definition": "a small piece of cloth or paper",
-            "translation": "",
+            "translation": "（小块）布条或纸片",
             "examples": []
           },
           {
             "id": "tag-noun-4",
             "definition": "a label written or printed on paper, cardboard, or plastic that is attached to something to indicate its owner, nature, price, etc.",
-            "translation": "",
+            "translation": "标签",
             "examples": []
           },
           {
             "id": "tag-noun-5",
             "definition": "a label associated with something for the purpose of identification",
-            "translation": "",
+            "translation": "（识别用的）标记；标识",
             "examples": [
               {
                 "text": "semantic tags were attached in order to identify different meanings of the word",
@@ -3651,31 +3651,31 @@
           {
             "id": "tag-verb-1",
             "definition": "provide with a name or nickname",
-            "translation": "",
+            "translation": "给…起绰号",
             "examples": []
           },
           {
             "id": "tag-verb-2",
             "definition": "attach a tag or label to",
-            "translation": "",
+            "translation": "贴标签于",
             "examples": []
           },
           {
             "id": "tag-verb-3",
             "definition": "touch a player while he is holding the ball",
-            "translation": "",
+            "translation": "（运动中）触杀（持球者）",
             "examples": []
           },
           {
             "id": "tag-verb-4",
             "definition": "supply (blank verse or prose) with rhymes",
-            "translation": "",
+            "translation": "给（无韵诗或散文）加韵脚",
             "examples": []
           },
           {
             "id": "tag-verb-5",
             "definition": "go after with the intent to catch",
-            "translation": "",
+            "translation": "追踪；追赶",
             "examples": []
           }
         ]
@@ -3716,8 +3716,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -10565,13 +10565,13 @@
           {
             "id": "tame-adjective-1",
             "definition": "flat and uninspiring",
-            "translation": "",
+            "translation": "平淡的；乏味的",
             "examples": []
           },
           {
             "id": "tame-adjective-2",
             "definition": "very docile",
-            "translation": "",
+            "translation": "温顺的；驯服的",
             "examples": [
               {
                 "text": "tame obedience",
@@ -10582,7 +10582,7 @@
           {
             "id": "tame-adjective-3",
             "definition": "brought from wildness into a domesticated state",
-            "translation": "",
+            "translation": "被驯化的",
             "examples": [
               {
                 "text": "tame animals",
@@ -10593,7 +10593,7 @@
           {
             "id": "tame-adjective-4",
             "definition": "very restrained or quiet",
-            "translation": "",
+            "translation": "克制的；安静的",
             "examples": [
               {
                 "text": "a tame Christmas party",
@@ -10609,31 +10609,31 @@
           {
             "id": "tame-verb-1",
             "definition": "correct by punishment or discipline",
-            "translation": "",
+            "translation": "管教；训诫",
             "examples": []
           },
           {
             "id": "tame-verb-2",
             "definition": "make fit for cultivation, domestic life, and service to humans",
-            "translation": "制造",
+            "translation": "驯化；使适合栽培或家养",
             "examples": []
           },
           {
             "id": "tame-verb-3",
             "definition": "overcome the wildness of",
-            "translation": "",
+            "translation": "制服；使驯服",
             "examples": []
           },
           {
             "id": "tame-verb-4",
             "definition": "adapt (a wild plant or unclaimed land) to the environment",
-            "translation": "",
+            "translation": "使（野生植物或荒地）适应环境",
             "examples": []
           },
           {
             "id": "tame-verb-5",
             "definition": "make less strong or intense",
-            "translation": "制造",
+            "translation": "减弱；使变淡",
             "examples": []
           }
         ]
@@ -10641,8 +10641,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -14220,13 +14220,13 @@
           {
             "id": "tape-noun-1",
             "definition": "memory device consisting of a long thin plastic strip coated with iron oxide",
-            "translation": "胶带",
+            "translation": "磁带",
             "examples": []
           },
           {
             "id": "tape-noun-2",
             "definition": "a long thin piece of cloth or paper as used for binding or fastening",
-            "translation": "胶带",
+            "translation": "布条；纸条",
             "examples": [
               {
                 "text": "I used a piece of tape for a belt.",
@@ -14237,7 +14237,7 @@
           {
             "id": "tape-noun-3",
             "definition": "a recording made on magnetic tape",
-            "translation": "胶带",
+            "translation": "磁带录音",
             "examples": [
               {
                 "text": "the several recordings were combined on a master tape",
@@ -14248,7 +14248,7 @@
           {
             "id": "tape-noun-4",
             "definition": "measuring instrument consisting of a narrow strip of cloth or metal marked in inches or centimeters and used for measuring lengths",
-            "translation": "胶带",
+            "translation": "卷尺",
             "examples": [
               {
                 "text": "The carpenter should have used a tape measure.",
@@ -14259,7 +14259,7 @@
           {
             "id": "tape-noun-5",
             "definition": "the finishing line for a foot race",
-            "translation": "胶带",
+            "translation": "终点线",
             "examples": [
               {
                 "text": "The runner broke the tape in record time.",
@@ -14275,19 +14275,19 @@
           {
             "id": "tape-verb-1",
             "definition": "register electronically",
-            "translation": "注册",
+            "translation": "（电子方式）录制",
             "examples": []
           },
           {
             "id": "tape-verb-2",
             "definition": "record on videotape",
-            "translation": "记录",
+            "translation": "用录像带录制",
             "examples": []
           },
           {
             "id": "tape-verb-3",
             "definition": "fasten or attach with tape",
-            "translation": "胶带",
+            "translation": "用胶带粘；用带子系",
             "examples": [
               {
                 "text": "tape the shipping label to the box",
@@ -14325,8 +14325,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -22356,7 +22356,7 @@
           {
             "id": "team-noun-1",
             "definition": "two or more draft animals that work together to pull something",
-            "translation": "团队",
+            "translation": "（一起干活的）一组役畜",
             "examples": [
               {
                 "text": "The team of oxen pulled the plough.",
@@ -22367,7 +22367,7 @@
           {
             "id": "team-noun-2",
             "definition": "a cooperative unit, especially in sports",
-            "translation": "团队",
+            "translation": "团队；小队",
             "examples": [
               {
                 "text": "The rugby team had eleven players.",
@@ -22383,7 +22383,7 @@
           {
             "id": "team-verb-1",
             "definition": "to form a cooperative unit",
-            "translation": "团队",
+            "translation": "组成团队；协作",
             "examples": [
               {
                 "text": "We teamed together for this new project.",
@@ -22413,8 +22413,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -22610,7 +22610,7 @@
           {
             "id": "tear-noun-1",
             "definition": "the act of tearing",
-            "translation": "眼泪的行为",
+            "translation": "撕裂；扯破",
             "examples": [
               {
                 "text": "They took the manuscript in both hands and gave it a mighty tear.",
@@ -22621,13 +22621,13 @@
           {
             "id": "tear-noun-2",
             "definition": "an occasion for excessive eating or drinking",
-            "translation": "眼泪",
+            "translation": "（非正式）狂饮作乐；放纵",
             "examples": []
           },
           {
             "id": "tear-noun-3",
             "definition": "a drop of the clear salty saline solution secreted by the lacrimal glands",
-            "translation": "眼泪",
+            "translation": "泪滴；泪水",
             "examples": [
               {
                 "text": "The story brought tears to their eyes.",
@@ -22638,7 +22638,7 @@
           {
             "id": "tear-noun-4",
             "definition": "an opening made forcibly as by pulling apart",
-            "translation": "眼泪",
+            "translation": "裂缝；裂口",
             "examples": []
           }
         ]
@@ -22649,7 +22649,7 @@
           {
             "id": "tear-verb-1",
             "definition": "fill with tears or shed tears",
-            "translation": "眼泪",
+            "translation": "含泪；流泪",
             "examples": [
               {
                 "text": "My eyes were tearing after the movie.",
@@ -22660,25 +22660,25 @@
           {
             "id": "tear-verb-2",
             "definition": "strip of feathers",
-            "translation": "眼泪",
+            "translation": "撕下羽毛",
             "examples": []
           },
           {
             "id": "tear-verb-3",
             "definition": "to separate or be separated by force",
-            "translation": "眼泪",
+            "translation": "撕开；扯开",
             "examples": []
           },
           {
             "id": "tear-verb-4",
             "definition": "separate or cause to separate abruptly",
-            "translation": "分开的",
+            "translation": "（使）突然分开",
             "examples": []
           },
           {
             "id": "tear-verb-5",
             "definition": "move quickly and violently",
-            "translation": "眼泪",
+            "translation": "猛冲；狂奔",
             "examples": []
           }
         ]
@@ -22819,8 +22819,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23400,7 +23400,7 @@
           {
             "id": "tease-noun-1",
             "definition": "the act of harassing someone playfully or maliciously",
-            "translation": "",
+            "translation": "戏弄；逗弄",
             "examples": [
               {
                 "text": "The child continued to guess if the tease was ridicule or flirtation.",
@@ -23411,13 +23411,13 @@
           {
             "id": "tease-noun-2",
             "definition": "a seductive woman who uses her sex appeal to exploit men",
-            "translation": "",
+            "translation": "（以色相勾引的）狐媚女子",
             "examples": []
           },
           {
             "id": "tease-noun-3",
             "definition": "someone given to teasing (as by mocking or stirring curiosity)",
-            "translation": "",
+            "translation": "爱戏弄人的人",
             "examples": []
           }
         ]
@@ -23428,13 +23428,13 @@
           {
             "id": "tease-verb-1",
             "definition": "ruffle (one's hair) by combing the ends towards the scalp, for a full effect",
-            "translation": "",
+            "translation": "倒梳（头发）使其蓬松",
             "examples": []
           },
           {
             "id": "tease-verb-2",
             "definition": "harass with persistent criticism or carping",
-            "translation": "",
+            "translation": "纠缠；烦扰",
             "examples": [
               {
                 "text": "The children teased the new teacher",
@@ -23445,7 +23445,7 @@
           {
             "id": "tease-verb-3",
             "definition": "mock or make fun of playfully",
-            "translation": "",
+            "translation": "取笑；打趣",
             "examples": [
               {
                 "text": "Our coworkers teased us for wearing sweats to the office.",
@@ -23456,7 +23456,7 @@
           {
             "id": "tease-verb-4",
             "definition": "separate the fibers of",
-            "translation": "分开的",
+            "translation": "梳理（纤维）使其松散",
             "examples": [
               {
                 "text": "tease wool",
@@ -23467,7 +23467,7 @@
           {
             "id": "tease-verb-5",
             "definition": "disentangle and raise the fibers of",
-            "translation": "",
+            "translation": "使（纤维）松散；挑出",
             "examples": [
               {
                 "text": "tease wool",
@@ -23478,13 +23478,13 @@
           {
             "id": "tease-verb-6",
             "definition": "raise the nap of (fabrics)",
-            "translation": "",
+            "translation": "使（织物）起毛",
             "examples": []
           },
           {
             "id": "tease-verb-7",
             "definition": "tear into pieces",
-            "translation": "",
+            "translation": "撕成碎片",
             "examples": [
               {
                 "text": "tease tissue for microscopic examinations",
@@ -23495,7 +23495,7 @@
           {
             "id": "tease-verb-8",
             "definition": "annoy persistently",
-            "translation": "",
+            "translation": "不断烦扰",
             "examples": [
               {
                 "text": "The children teased their classmate for having a stammer.",
@@ -23506,7 +23506,7 @@
           {
             "id": "tease-verb-9",
             "definition": "to arouse hope, desire, or curiosity without satisfying them",
-            "translation": "",
+            "translation": "吊胃口；撩拨",
             "examples": [
               {
                 "text": "The advertisement is intended to tease the customers",
@@ -23532,8 +23532,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -25240,13 +25240,13 @@
           {
             "id": "tedious-adjective-1",
             "definition": "using or containing too many words",
-            "translation": "",
+            "translation": "冗长的；啰嗦的",
             "examples": []
           },
           {
             "id": "tedious-adjective-2",
             "definition": "so lacking in interest as to cause mental weariness",
-            "translation": "",
+            "translation": "乏味的；令人厌倦的",
             "examples": []
           }
         ]
@@ -25254,8 +25254,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -31155,7 +31155,7 @@
           {
             "id": "temperature-noun-2",
             "definition": "the somatic sensation of cold or heat",
-            "translation": "温度",
+            "translation": "（体感）冷热感觉",
             "examples": []
           }
         ]
@@ -31184,8 +31184,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -32312,19 +32312,19 @@
           {
             "id": "temptation-noun-1",
             "definition": "the act of influencing by exciting hope or desire",
-            "translation": "",
+            "translation": "诱惑（行为）",
             "examples": []
           },
           {
             "id": "temptation-noun-2",
             "definition": "something that seduces or has the quality to seduce",
-            "translation": "",
+            "translation": "诱惑物",
             "examples": []
           },
           {
             "id": "temptation-noun-3",
             "definition": "the desire to have or do something that you know you should avoid",
-            "translation": "",
+            "translation": "（明知不该的）欲望；冲动",
             "examples": [
               {
                 "text": "I felt the temptation and my will power weakened.",
@@ -32337,8 +32337,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -36261,13 +36261,13 @@
           {
             "id": "tentative-adjective-1",
             "definition": "under terms not final or fully worked out or agreed upon",
-            "translation": "",
+            "translation": "暂定的；初步的",
             "examples": []
           },
           {
             "id": "tentative-adjective-2",
             "definition": "unsettled in mind or opinion",
-            "translation": "",
+            "translation": "犹豫的；不确定的",
             "examples": [
               {
                 "text": "drew a few tentative conclusions",
@@ -36280,8 +36280,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38030,13 +38030,13 @@
           {
             "id": "term-noun-1",
             "definition": "(architecture) a statue or a human bust or an animal carved out of the top of a square pillar",
-            "translation": "术语",
+            "translation": "（建筑）胸像柱",
             "examples": []
           },
           {
             "id": "term-noun-2",
             "definition": "any distinct quantity contained in a polynomial",
-            "translation": "术语",
+            "translation": "（数学）项",
             "examples": [
               {
                 "text": "the general term of an algebraic equation of the n-th degree",
@@ -38047,7 +38047,7 @@
           {
             "id": "term-noun-3",
             "definition": "a word or expression used for some particular thing",
-            "translation": "术语",
+            "translation": "术语；专门用语",
             "examples": [
               {
                 "text": "I learned many medical terms.",
@@ -38058,7 +38058,7 @@
           {
             "id": "term-noun-4",
             "definition": "one of the substantive phrases in a logical proposition",
-            "translation": "术语",
+            "translation": "（逻辑）项；主目词",
             "examples": [
               {
                 "text": "the major term of a syllogism must occur twice",
@@ -38069,13 +38069,13 @@
           {
             "id": "term-noun-5",
             "definition": "(usually plural) a statement of what is required as part of an agreement",
-            "translation": "术语",
+            "translation": "（协议中的）条款",
             "examples": []
           },
           {
             "id": "term-noun-6",
             "definition": "a limited period of time",
-            "translation": "术语",
+            "translation": "期限；任期",
             "examples": [
               {
                 "text": "a prison term",
@@ -38086,7 +38086,7 @@
           {
             "id": "term-noun-7",
             "definition": "the end of gestation or point at which birth is imminent",
-            "translation": "术语",
+            "translation": "足月；预产期",
             "examples": [
               {
                 "text": "a healthy baby born at full term",
@@ -38102,7 +38102,7 @@
           {
             "id": "term-verb-1",
             "definition": "name formally or designate with a term",
-            "translation": "术语",
+            "translation": "把…称为；命名",
             "examples": []
           }
         ]
@@ -38127,8 +38127,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38276,7 +38276,7 @@
           {
             "id": "terminal-adjective-1",
             "definition": "causing or ending in or approaching death",
-            "translation": "终端",
+            "translation": "末期的；晚期的",
             "examples": [
               {
                 "text": "a terminal patient",
@@ -38287,19 +38287,19 @@
           {
             "id": "terminal-adjective-2",
             "definition": "occurring at or forming an end or termination",
-            "translation": "终端",
+            "translation": "结尾的；终结的",
             "examples": []
           },
           {
             "id": "terminal-adjective-3",
             "definition": "being or situated at an end",
-            "translation": "终端",
+            "translation": "末端的；终点的",
             "examples": []
           },
           {
             "id": "terminal-adjective-4",
             "definition": "relating to or occurring in a term or fixed period of time",
-            "translation": "时间的",
+            "translation": "定期的；学期的",
             "examples": [
               {
                 "text": "terminal examinations",
@@ -38310,7 +38310,7 @@
           {
             "id": "terminal-adjective-5",
             "definition": "of or relating to or situated at the ends of a delivery route",
-            "translation": "路线的",
+            "translation": "（运输路线）终点的",
             "examples": [
               {
                 "text": "freight pickup is a terminal service",
@@ -38326,25 +38326,25 @@
           {
             "id": "terminal-noun-1",
             "definition": "station where transport vehicles load or unload passengers or goods",
-            "translation": "终端",
+            "translation": "（运输）终点站",
             "examples": []
           },
           {
             "id": "terminal-noun-2",
             "definition": "a contact on an electrical device (such as a battery) at which electric current enters or leaves",
-            "translation": "终端",
+            "translation": "（电路）端子；接线端",
             "examples": []
           },
           {
             "id": "terminal-noun-3",
             "definition": "electronic equipment consisting of a device providing access to a computer",
-            "translation": "终端",
+            "translation": "（计算机）终端",
             "examples": []
           },
           {
             "id": "terminal-noun-4",
             "definition": "either extremity of something that has length",
-            "translation": "终端",
+            "translation": "末端；终端",
             "examples": []
           }
         ]
@@ -38357,8 +38357,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -48299,7 +48299,7 @@
           {
             "id": "theoretical-adjective-1",
             "definition": "concerned primarily with theories or hypotheses rather than practical considerations",
-            "translation": "理论的",
+            "translation": "理论上的；纯理论的",
             "examples": [
               {
                 "text": "theoretical science",
@@ -48310,7 +48310,7 @@
           {
             "id": "theoretical-adjective-2",
             "definition": "concerned with theories rather than their practical applications",
-            "translation": "理论的",
+            "translation": "理论的（关于理论而非实践）",
             "examples": [
               {
                 "text": "theoretical physics",
@@ -48323,8 +48323,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -56749,7 +56749,7 @@
           {
             "id": "thorn-noun-1",
             "definition": "something that causes irritation and annoyance",
-            "translation": "",
+            "translation": "令人烦恼的事；刺",
             "examples": [
               {
                 "text": "he's a thorn in my flesh",
@@ -56760,13 +56760,13 @@
           {
             "id": "thorn-noun-2",
             "definition": "a Germanic character of runic origin",
-            "translation": "",
+            "translation": "（古英语）þ 字母（卢恩文字）",
             "examples": []
           },
           {
             "id": "thorn-noun-3",
             "definition": "a small sharp-pointed tip resembling a spike on a stem or leaf",
-            "translation": "",
+            "translation": "（植物的）刺；棘",
             "examples": []
           }
         ]
@@ -56774,8 +56774,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -57373,25 +57373,25 @@
           {
             "id": "thought-noun-1",
             "definition": "the process of using your mind to consider something carefully",
-            "translation": "想法",
+            "translation": "思考；思维过程",
             "examples": []
           },
           {
             "id": "thought-noun-2",
             "definition": "the content of cognition",
-            "translation": "想法",
+            "translation": "思想；想法",
             "examples": []
           },
           {
             "id": "thought-noun-3",
             "definition": "a personal belief or judgment that is not founded on proof or certainty",
-            "translation": "想法",
+            "translation": "看法；意见",
             "examples": []
           },
           {
             "id": "thought-noun-4",
             "definition": "the organized beliefs of a period or group or individual",
-            "translation": "想法",
+            "translation": "（一个时代或群体的）思潮；思想",
             "examples": [
               {
                 "text": "19th century thought",
@@ -57441,8 +57441,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -58327,25 +58327,25 @@
           {
             "id": "thread-noun-1",
             "definition": "the raised helical rib going around a screw",
-            "translation": "",
+            "translation": "螺纹",
             "examples": []
           },
           {
             "id": "thread-noun-2",
             "definition": "a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving",
-            "translation": "",
+            "translation": "线；纱线",
             "examples": []
           },
           {
             "id": "thread-noun-3",
             "definition": "the connections that link the various parts of an event or argument together",
-            "translation": "",
+            "translation": "（事件的）脉络；主线",
             "examples": []
           },
           {
             "id": "thread-noun-4",
             "definition": "any long object resembling a thin line",
-            "translation": "",
+            "translation": "细长物",
             "examples": []
           }
         ]
@@ -58356,13 +58356,13 @@
           {
             "id": "thread-verb-1",
             "definition": "thread on or as if on a string",
-            "translation": "",
+            "translation": "用线穿",
             "examples": []
           },
           {
             "id": "thread-verb-2",
             "definition": "pass through or into",
-            "translation": "",
+            "translation": "穿过；穿入",
             "examples": [
               {
                 "text": "thread tape",
@@ -58373,7 +58373,7 @@
           {
             "id": "thread-verb-3",
             "definition": "remove facial hair by tying a fine string around it and pulling at the string",
-            "translation": "移除",
+            "translation": "（用细线）拔除（汗毛）",
             "examples": [
               {
                 "text": "Can you tell I had my eyebrows threaded yesterday?",
@@ -58384,7 +58384,7 @@
           {
             "id": "thread-verb-4",
             "definition": "pass a thread through",
-            "translation": "",
+            "translation": "穿针引线",
             "examples": [
               {
                 "text": "thread a needle",
@@ -58395,7 +58395,7 @@
           {
             "id": "thread-verb-5",
             "definition": "to move or cause to move in a sinuous, spiral, or circular course",
-            "translation": "",
+            "translation": "蜿蜒；盘旋移动",
             "examples": []
           }
         ]
@@ -58436,8 +58436,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -63265,25 +63265,25 @@
           {
             "id": "thrust-noun-1",
             "definition": "the act of applying force to propel something",
-            "translation": "",
+            "translation": "推力；推进",
             "examples": []
           },
           {
             "id": "thrust-noun-2",
             "definition": "a sharp hand gesture (resembling a blow)",
-            "translation": "",
+            "translation": "（手的）用力一推",
             "examples": []
           },
           {
             "id": "thrust-noun-3",
             "definition": "a strong blow with a knife or other sharp pointed instrument",
-            "translation": "",
+            "translation": "（用刀的）猛刺",
             "examples": []
           },
           {
             "id": "thrust-noun-4",
             "definition": "verbal criticism",
-            "translation": "口头的批评",
+            "translation": "口头批评；抨击",
             "examples": [
               {
                 "text": "The paper enlivened their editorials with barbed thrusts at politicians.",
@@ -63294,7 +63294,7 @@
           {
             "id": "thrust-noun-5",
             "definition": "the force used in pushing",
-            "translation": "",
+            "translation": "推力；压力",
             "examples": []
           }
         ]
@@ -63305,25 +63305,25 @@
           {
             "id": "thrust-verb-1",
             "definition": "impose urgently, importunately, or inexorably",
-            "translation": "",
+            "translation": "强加；逼迫",
             "examples": []
           },
           {
             "id": "thrust-verb-2",
             "definition": "penetrate or cut through with a sharp instrument",
-            "translation": "",
+            "translation": "刺穿；戳入",
             "examples": []
           },
           {
             "id": "thrust-verb-3",
             "definition": "place or put with great energy",
-            "translation": "地方",
+            "translation": "猛放；用力放置",
             "examples": []
           },
           {
             "id": "thrust-verb-4",
             "definition": "push forcefully",
-            "translation": "推",
+            "translation": "猛推；用力推",
             "examples": [
               {
                 "text": "They thrust their chin forward.",
@@ -63334,19 +63334,19 @@
           {
             "id": "thrust-verb-5",
             "definition": "make a thrusting forward movement",
-            "translation": "制造",
+            "translation": "向前冲",
             "examples": []
           },
           {
             "id": "thrust-verb-6",
             "definition": "press or force",
-            "translation": "按",
+            "translation": "强按；用力压",
             "examples": []
           },
           {
             "id": "thrust-verb-7",
             "definition": "push upward",
-            "translation": "推",
+            "translation": "向上推",
             "examples": [
               {
                 "text": "The front of the trains that had collided head-on thrust up into the air",
@@ -63357,7 +63357,7 @@
           {
             "id": "thrust-verb-8",
             "definition": "force (molten rock) into pre-existing rock",
-            "translation": "力",
+            "translation": "（地质）侵入",
             "examples": []
           }
         ]
@@ -63446,8 +63446,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -67985,13 +67985,13 @@
           {
             "id": "tidy-adjective-1",
             "definition": "large in amount or extent or degree",
-            "translation": "整洁的",
+            "translation": "（非正式）相当大的；可观的",
             "examples": []
           },
           {
             "id": "tidy-adjective-2",
             "definition": "marked by order and cleanliness in appearance or habits",
-            "translation": "整洁的",
+            "translation": "整洁的；整齐的",
             "examples": [
               {
                 "text": "a tidy person",
@@ -68002,7 +68002,7 @@
           {
             "id": "tidy-adjective-3",
             "definition": "(of hair) neat and tidy",
-            "translation": "整洁的",
+            "translation": "（头发）整齐的",
             "examples": []
           }
         ]
@@ -68013,7 +68013,7 @@
           {
             "id": "tidy-noun-1",
             "definition": "receptacle that holds odds and ends (as sewing materials)",
-            "translation": "整洁的",
+            "translation": "针线盒；杂物盒",
             "examples": []
           }
         ]
@@ -68024,7 +68024,7 @@
           {
             "id": "tidy-verb-1",
             "definition": "put (things or places) in order",
-            "translation": "整洁的",
+            "translation": "整理；收拾",
             "examples": []
           }
         ]
@@ -68045,8 +68045,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -70703,31 +70703,31 @@
           {
             "id": "timber-noun-1",
             "definition": "a beam made of wood",
-            "translation": "",
+            "translation": "木梁",
             "examples": []
           },
           {
             "id": "timber-noun-2",
             "definition": "a post made of wood",
-            "translation": "",
+            "translation": "木桩",
             "examples": []
           },
           {
             "id": "timber-noun-3",
             "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
-            "translation": "",
+            "translation": "音质；音色",
             "examples": []
           },
           {
             "id": "timber-noun-4",
             "definition": "land that is covered with trees and shrubs",
-            "translation": "",
+            "translation": "林地",
             "examples": []
           },
           {
             "id": "timber-noun-5",
             "definition": "the wood of trees cut and prepared for use as building material",
-            "translation": "",
+            "translation": "木材；木料",
             "examples": []
           }
         ]
@@ -70735,8 +70735,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -76226,13 +76226,13 @@
           {
             "id": "tissue-noun-1",
             "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function",
-            "translation": "组织",
+            "translation": "（生物）组织",
             "examples": []
           },
           {
             "id": "tissue-noun-2",
             "definition": "a soft thin (usually translucent) paper",
-            "translation": "组织",
+            "translation": "薄纸；纸巾",
             "examples": []
           }
         ]
@@ -76243,7 +76243,7 @@
           {
             "id": "tissue-verb-1",
             "definition": "create a piece of cloth by interlacing strands of fabric, such as wool or cotton",
-            "translation": "创造",
+            "translation": "织造（布）",
             "examples": [
               {
                 "text": "tissue textiles",
@@ -76261,8 +76261,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -83766,13 +83766,13 @@
           {
             "id": "tongue-noun-1",
             "definition": "metal striker that hangs inside a bell and makes a sound by hitting the side",
-            "translation": "金属",
+            "translation": "（钟的）钟舌",
             "examples": []
           },
           {
             "id": "tongue-noun-2",
             "definition": "the flap of material under the laces of a shoe or boot",
-            "translation": "舌头",
+            "translation": "（鞋的）鞋舌",
             "examples": []
           },
           {
@@ -83784,13 +83784,13 @@
           {
             "id": "tongue-noun-4",
             "definition": "a human written or spoken language used by a community",
-            "translation": "舌头",
+            "translation": "语言；方言",
             "examples": []
           },
           {
             "id": "tongue-noun-5",
             "definition": "a manner of speaking",
-            "translation": "对说话的方式",
+            "translation": "说话方式；口才",
             "examples": [
               {
                 "text": "They spoke with a thick tongue.",
@@ -83801,19 +83801,19 @@
           {
             "id": "tongue-noun-6",
             "definition": "the tongue of certain animals used as meat",
-            "translation": "舌头",
+            "translation": "（动物的）舌（食用）",
             "examples": []
           },
           {
             "id": "tongue-noun-7",
             "definition": "a narrow strip of land that juts out into the sea",
-            "translation": "舌头",
+            "translation": "狭长的岬角",
             "examples": []
           },
           {
             "id": "tongue-noun-8",
             "definition": "any long thin projection that is transient",
-            "translation": "舌头",
+            "translation": "舌状突出物",
             "examples": [
               {
                 "text": "tongues of flame licked at the walls",
@@ -83829,13 +83829,13 @@
           {
             "id": "tongue-verb-1",
             "definition": "lick or explore with the tongue",
-            "translation": "舌头",
+            "translation": "舔；用舌碰",
             "examples": []
           },
           {
             "id": "tongue-verb-2",
             "definition": "articulate by tonguing, as when playing wind instruments",
-            "translation": "舌头",
+            "translation": "（吹奏乐器时）用舌奏",
             "examples": []
           }
         ]
@@ -83848,8 +83848,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -89402,7 +89402,7 @@
           {
             "id": "torrent-noun-1",
             "definition": "a violently fast stream of water or other liquid",
-            "translation": "",
+            "translation": "急流；洪流",
             "examples": [
               {
                 "text": "The houses were swept away in the torrent.",
@@ -89413,13 +89413,13 @@
           {
             "id": "torrent-noun-2",
             "definition": "a heavy rain",
-            "translation": "一个重的雨",
+            "translation": "倾盆大雨",
             "examples": []
           },
           {
             "id": "torrent-noun-3",
             "definition": "an overwhelming number or amount",
-            "translation": "",
+            "translation": "（数量上的）大量；涌至",
             "examples": []
           }
         ]
@@ -89427,8 +89427,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94797,7 +94797,7 @@
           {
             "id": "towel-noun-1",
             "definition": "a rectangular piece of absorbent cloth (or paper) for drying or wiping",
-            "translation": "毛巾",
+            "translation": "毛巾；纸巾",
             "examples": []
           }
         ]
@@ -94808,7 +94808,7 @@
           {
             "id": "towel-verb-1",
             "definition": "wipe with a towel",
-            "translation": "毛巾",
+            "translation": "用毛巾擦",
             "examples": [
               {
                 "text": "towel your hair dry",
@@ -94826,8 +94826,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94934,19 +94934,19 @@
           {
             "id": "tower-noun-1",
             "definition": "a structure taller than its diameter",
-            "translation": "塔",
+            "translation": "塔；塔楼",
             "examples": []
           },
           {
             "id": "tower-noun-2",
             "definition": "a powerful small boat designed to pull or push larger ships",
-            "translation": "塔",
+            "translation": "拖船",
             "examples": []
           },
           {
             "id": "tower-noun-3",
             "definition": "anything that approximates the shape of a column or tower",
-            "translation": "塔",
+            "translation": "塔状物",
             "examples": []
           }
         ]
@@ -94957,7 +94957,7 @@
           {
             "id": "tower-verb-1",
             "definition": "appear very large or occupy a commanding position",
-            "translation": "塔",
+            "translation": "高耸；屹立",
             "examples": []
           }
         ]
@@ -94982,8 +94982,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -97305,67 +97305,67 @@
           {
             "id": "track-noun-1",
             "definition": "the act of participating in an athletic competition involving running on a track",
-            "translation": "轨道",
+            "translation": "（运动）赛跑",
             "examples": []
           },
           {
             "id": "track-noun-2",
             "definition": "a course over which races are run",
-            "translation": "轨道",
+            "translation": "跑道",
             "examples": []
           },
           {
             "id": "track-noun-3",
             "definition": "any road or path affording passage especially a rough one",
-            "translation": "轨道",
+            "translation": "小径；路径",
             "examples": []
           },
           {
             "id": "track-noun-4",
             "definition": "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll",
-            "translation": "轨道",
+            "translation": "（铁路的）钢轨",
             "examples": []
           },
           {
             "id": "track-noun-5",
             "definition": "a pair of parallel rails providing a runway for wheels",
-            "translation": "轨道",
+            "translation": "（一组）平行轨道",
             "examples": []
           },
           {
             "id": "track-noun-6",
             "definition": "a groove on a phonograph recording",
-            "translation": "轨道",
+            "translation": "（唱片的）音轨",
             "examples": []
           },
           {
             "id": "track-noun-7",
             "definition": "(computer science) one of the circular magnetic paths on a magnetic disk that serve as a guide for writing and reading data",
-            "translation": "轨道",
+            "translation": "（磁盘的）磁道",
             "examples": []
           },
           {
             "id": "track-noun-8",
             "definition": "an endless metal belt on which tracked vehicles move over the ground",
-            "translation": "轨道",
+            "translation": "（履带车的）履带",
             "examples": []
           },
           {
             "id": "track-noun-9",
             "definition": "evidence pointing to a possible solution",
-            "translation": "轨道",
+            "translation": "线索；迹象",
             "examples": []
           },
           {
             "id": "track-noun-10",
             "definition": "a distinct selection of music from a recording or a compact disc",
-            "translation": "轨道",
+            "translation": "（音乐）曲目",
             "examples": []
           },
           {
             "id": "track-noun-11",
             "definition": "a line or route along which something travels or moves",
-            "translation": "轨道",
+            "translation": "路线；轨迹",
             "examples": []
           }
         ]
@@ -97376,25 +97376,25 @@
           {
             "id": "track-verb-1",
             "definition": "make tracks upon",
-            "translation": "通过轨道在...上制造",
+            "translation": "留下足迹",
             "examples": []
           },
           {
             "id": "track-verb-2",
             "definition": "travel across or pass over",
-            "translation": "轨道",
+            "translation": "穿越；经过",
             "examples": []
           },
           {
             "id": "track-verb-3",
             "definition": "go after with the intent to catch",
-            "translation": "轨道",
+            "translation": "追踪；跟踪",
             "examples": []
           },
           {
             "id": "track-verb-4",
             "definition": "carry on the feet and deposit",
-            "translation": "轨道",
+            "translation": "（脚上）带进（泥）",
             "examples": [
               {
                 "text": "track mud into the house",
@@ -97405,7 +97405,7 @@
           {
             "id": "track-verb-5",
             "definition": "observe or plot the moving path of something",
-            "translation": "观察",
+            "translation": "观察；追踪（移动路径）",
             "examples": [
               {
                 "text": "track a missile",
@@ -97483,8 +97483,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -98090,13 +98090,13 @@
           {
             "id": "tractor-noun-1",
             "definition": "a wheeled vehicle with large wheels",
-            "translation": "",
+            "translation": "拖拉机",
             "examples": []
           },
           {
             "id": "tractor-noun-2",
             "definition": "a truck that has a cab but no body",
-            "translation": "",
+            "translation": "（无货厢的）拖车头",
             "examples": []
           }
         ]
@@ -98109,8 +98109,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -99217,19 +99217,19 @@
           {
             "id": "traffic-noun-1",
             "definition": "social or verbal interchange (usually followed by `with')",
-            "translation": "交通",
+            "translation": "交往；交流",
             "examples": []
           },
           {
             "id": "traffic-noun-2",
             "definition": "buying and selling",
-            "translation": "交通",
+            "translation": "交易；买卖",
             "examples": []
           },
           {
             "id": "traffic-noun-3",
             "definition": "the amount of activity over a communication system during a given period of time",
-            "translation": "交通",
+            "translation": "通信量",
             "examples": [
               {
                 "text": "heavy traffic overloaded the trunk lines",
@@ -99240,7 +99240,7 @@
           {
             "id": "traffic-noun-4",
             "definition": "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time",
-            "translation": "交通",
+            "translation": "交通流量",
             "examples": []
           }
         ]
@@ -99251,7 +99251,7 @@
           {
             "id": "traffic-verb-1",
             "definition": "trade or deal a commodity",
-            "translation": "交通",
+            "translation": "做交易",
             "examples": [
               {
                 "text": "They trafficked with us for gold",
@@ -99262,7 +99262,7 @@
           {
             "id": "traffic-verb-2",
             "definition": "deal illegally",
-            "translation": "交通",
+            "translation": "非法买卖",
             "examples": [
               {
                 "text": "traffic drugs",
@@ -99312,8 +99312,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -100968,13 +100968,13 @@
           {
             "id": "traitor-noun-1",
             "definition": "a person who says one thing and does another",
-            "translation": "",
+            "translation": "言行不一者",
             "examples": []
           },
           {
             "id": "traitor-noun-2",
             "definition": "someone who betrays his country by committing treason",
-            "translation": "",
+            "translation": "叛徒；卖国贼",
             "examples": []
           }
         ]
@@ -100982,8 +100982,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -108832,13 +108832,13 @@
           {
             "id": "transparent-adjective-1",
             "definition": "transmitting light",
-            "translation": "",
+            "translation": "透明的",
             "examples": []
           },
           {
             "id": "transparent-adjective-2",
             "definition": "easily understood or seen through (because of a lack of subtlety)",
-            "translation": "",
+            "translation": "显而易见的；易看穿的",
             "examples": [
               {
                 "text": "a transparent explanation",
@@ -108849,13 +108849,13 @@
           {
             "id": "transparent-adjective-3",
             "definition": "free of deceit",
-            "translation": "",
+            "translation": "坦诚的；率直的",
             "examples": []
           },
           {
             "id": "transparent-adjective-4",
             "definition": "so thin as to transmit light",
-            "translation": "",
+            "translation": "薄得透光的",
             "examples": []
           }
         ]
@@ -108868,8 +108868,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -109561,37 +109561,37 @@
           {
             "id": "transport-noun-1",
             "definition": "the act of moving something from one location to another",
-            "translation": "",
+            "translation": "运输；运送",
             "examples": []
           },
           {
             "id": "transport-noun-2",
             "definition": "the commercial enterprise of moving goods and materials",
-            "translation": "",
+            "translation": "运输业",
             "examples": []
           },
           {
             "id": "transport-noun-3",
             "definition": "something that serves as a means of transportation",
-            "translation": "",
+            "translation": "运输工具",
             "examples": []
           },
           {
             "id": "transport-noun-4",
             "definition": "a mechanism that transports magnetic tape across the read/write heads of a tape playback/recorder",
-            "translation": "",
+            "translation": "（磁带）传送机构",
             "examples": []
           },
           {
             "id": "transport-noun-5",
             "definition": "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes",
-            "translation": "",
+            "translation": "（物理）分子交换",
             "examples": []
           },
           {
             "id": "transport-noun-6",
             "definition": "a state of being carried away by overwhelming emotion",
-            "translation": "",
+            "translation": "激动；狂喜",
             "examples": []
           }
         ]
@@ -109602,31 +109602,31 @@
           {
             "id": "transport-verb-1",
             "definition": "send from one person or place to another",
-            "translation": "",
+            "translation": "运送；传送",
             "examples": []
           },
           {
             "id": "transport-verb-2",
             "definition": "move while supporting, either in a vehicle or in one's hands or on one's body",
-            "translation": "",
+            "translation": "搬运；输送",
             "examples": []
           },
           {
             "id": "transport-verb-3",
             "definition": "hold spellbound",
-            "translation": "",
+            "translation": "使着迷；使激动",
             "examples": []
           },
           {
             "id": "transport-verb-4",
             "definition": "transport commercially",
-            "translation": "",
+            "translation": "（商业）运输",
             "examples": []
           },
           {
             "id": "transport-verb-5",
             "definition": "move something or somebody around",
-            "translation": "",
+            "translation": "搬动；调动",
             "examples": []
           }
         ]
@@ -109707,8 +109707,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -115369,7 +115369,7 @@
           {
             "id": "tremble-noun-1",
             "definition": "a reflex motion caused by cold or fear or excitement",
-            "translation": "",
+            "translation": "颤抖；战栗",
             "examples": []
           }
         ]
@@ -115380,7 +115380,7 @@
           {
             "id": "tremble-verb-1",
             "definition": "move or jerk quickly and involuntarily up and down or sideways",
-            "translation": "",
+            "translation": "颤抖；哆嗦",
             "examples": []
           }
         ]
@@ -115409,8 +115409,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -116231,13 +116231,13 @@
           {
             "id": "trend-noun-1",
             "definition": "the popular taste at a given time",
-            "translation": "趋势",
+            "translation": "流行；时尚",
             "examples": []
           },
           {
             "id": "trend-noun-2",
             "definition": "a general tendency to change (as of opinion)",
-            "translation": "趋势",
+            "translation": "倾向；趋势",
             "examples": [
               {
                 "text": "not openly liberal but that is the trend of the book",
@@ -116248,13 +116248,13 @@
           {
             "id": "trend-noun-3",
             "definition": "general line of orientation",
-            "translation": "趋势",
+            "translation": "走向；方向",
             "examples": []
           },
           {
             "id": "trend-noun-4",
             "definition": "a general direction in which something tends to move",
-            "translation": "趋势",
+            "translation": "总体方向",
             "examples": []
           }
         ]
@@ -116265,7 +116265,7 @@
           {
             "id": "trend-verb-1",
             "definition": "turn sharply",
-            "translation": "趋势",
+            "translation": "转向；急转",
             "examples": []
           }
         ]
@@ -116286,8 +116286,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -117416,25 +117416,25 @@
           {
             "id": "triangle-noun-1",
             "definition": "a percussion instrument consisting of a metal bar bent in the shape of an open triangle",
-            "translation": "",
+            "translation": "（乐器）三角铁",
             "examples": []
           },
           {
             "id": "triangle-noun-2",
             "definition": "any of various triangular drafting instruments used to draw straight lines at specified angles",
-            "translation": "",
+            "translation": "（绘图）三角板",
             "examples": []
           },
           {
             "id": "triangle-noun-3",
             "definition": "a three-sided polygon",
-            "translation": "",
+            "translation": "三角形",
             "examples": []
           },
           {
             "id": "triangle-noun-4",
             "definition": "something approximating the shape of a triangle",
-            "translation": "",
+            "translation": "三角形物",
             "examples": [
               {
                 "text": "the coastline of Chile and Argentina and Brazil forms two legs of a triangle",
@@ -117452,8 +117452,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -122240,25 +122240,25 @@
           {
             "id": "trim-adjective-1",
             "definition": "thin and fit",
-            "translation": "",
+            "translation": "苗条的；健康的",
             "examples": []
           },
           {
             "id": "trim-adjective-2",
             "definition": "severely simple in line or design",
-            "translation": "",
+            "translation": "简洁的；线条简单的",
             "examples": []
           },
           {
             "id": "trim-adjective-3",
             "definition": "neat and smart in appearance",
-            "translation": "",
+            "translation": "整洁漂亮的",
             "examples": []
           },
           {
             "id": "trim-adjective-4",
             "definition": "of places",
-            "translation": "地方的",
+            "translation": "（航海）井然有序的",
             "examples": []
           }
         ]
@@ -122269,13 +122269,13 @@
           {
             "id": "trim-noun-1",
             "definition": "cutting down to the desired size or shape",
-            "translation": "",
+            "translation": "修剪；整修",
             "examples": []
           },
           {
             "id": "trim-noun-2",
             "definition": "a decoration or adornment on a garment",
-            "translation": "",
+            "translation": "装饰；点缀",
             "examples": [
               {
                 "text": "the trimming on a hat",
@@ -122286,13 +122286,13 @@
           {
             "id": "trim-noun-3",
             "definition": "attitude of an aircraft in flight when allowed to take its own orientation",
-            "translation": "",
+            "translation": "（飞机）配平",
             "examples": []
           },
           {
             "id": "trim-noun-4",
             "definition": "a state of arrangement or appearance",
-            "translation": "",
+            "translation": "状态；外观",
             "examples": [
               {
                 "text": "in good trim",
@@ -122308,19 +122308,19 @@
           {
             "id": "trim-verb-1",
             "definition": "adjust (sails on a ship) so that the wind is optimally used",
-            "translation": "",
+            "translation": "调（船帆）以利用风力",
             "examples": []
           },
           {
             "id": "trim-verb-2",
             "definition": "cut down on",
-            "translation": "切",
+            "translation": "削减；缩减",
             "examples": []
           },
           {
             "id": "trim-verb-3",
             "definition": "cut closely",
-            "translation": "通过关闭地切",
+            "translation": "贴近地剪",
             "examples": [
               {
                 "text": "trim my beard",
@@ -122331,25 +122331,25 @@
           {
             "id": "trim-verb-4",
             "definition": "remove the edges from and cut down to the desired size",
-            "translation": "移除",
+            "translation": "修剪（边缘）到所需尺寸",
             "examples": []
           },
           {
             "id": "trim-verb-5",
             "definition": "cultivate, tend, and cut back the growth of",
-            "translation": "",
+            "translation": "修剪；整枝",
             "examples": []
           },
           {
             "id": "trim-verb-6",
             "definition": "decorate (food), as with parsley or other ornamental foods",
-            "translation": "",
+            "translation": "装饰（食物）",
             "examples": []
           },
           {
             "id": "trim-verb-7",
             "definition": "decorate, as with ornaments",
-            "translation": "",
+            "translation": "装饰；点缀",
             "examples": [
               {
                 "text": "trim the christmas tree",
@@ -122360,7 +122360,7 @@
           {
             "id": "trim-verb-8",
             "definition": "be in equilibrium during a flight",
-            "translation": "",
+            "translation": "（飞机）保持平衡",
             "examples": [
               {
                 "text": "The airplane trimmed",
@@ -122371,7 +122371,7 @@
           {
             "id": "trim-verb-9",
             "definition": "balance in flight by regulating the control surfaces",
-            "translation": "",
+            "translation": "（飞机）调整控制面",
             "examples": [
               {
                 "text": "trim an airplane",
@@ -122457,8 +122457,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -125302,13 +125302,13 @@
           {
             "id": "triumph-noun-1",
             "definition": "a successful ending of a struggle or contest",
-            "translation": "",
+            "translation": "胜利；成功",
             "examples": []
           },
           {
             "id": "triumph-noun-2",
             "definition": "the exultation of victory",
-            "translation": "",
+            "translation": "胜利的喜悦",
             "examples": []
           }
         ]
@@ -125319,25 +125319,25 @@
           {
             "id": "triumph-verb-1",
             "definition": "to express great joy",
-            "translation": "表达伟大的快乐",
+            "translation": "欢庆；表达喜悦",
             "examples": []
           },
           {
             "id": "triumph-verb-2",
             "definition": "dwell on with satisfaction",
-            "translation": "",
+            "translation": "得意地回顾",
             "examples": []
           },
           {
             "id": "triumph-verb-3",
             "definition": "prove superior",
-            "translation": "证明优越的",
+            "translation": "击败；证明优越",
             "examples": []
           },
           {
             "id": "triumph-verb-4",
             "definition": "be ecstatic with joy",
-            "translation": "",
+            "translation": "欣喜若狂",
             "examples": []
           }
         ]
@@ -125350,8 +125350,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -130667,7 +130667,7 @@
           {
             "id": "trumpet-noun-1",
             "definition": "a brass musical instrument with a brilliant tone",
-            "translation": "",
+            "translation": "喇叭；小号",
             "examples": []
           }
         ]
@@ -130678,7 +130678,7 @@
           {
             "id": "trumpet-verb-1",
             "definition": "utter in trumpet-like sounds",
-            "translation": "",
+            "translation": "吹喇叭似地发出",
             "examples": [
               {
                 "text": "Elephants are trumpeting",
@@ -130689,7 +130689,7 @@
           {
             "id": "trumpet-verb-2",
             "definition": "proclaim on, or as if on, a trumpet",
-            "translation": "",
+            "translation": "吹嘘；宣扬",
             "examples": [
               {
                 "text": "Liberals like to trumpet their opposition to the death penalty",
@@ -130700,7 +130700,7 @@
           {
             "id": "trumpet-verb-3",
             "definition": "play or blow on the trumpet",
-            "translation": "",
+            "translation": "吹奏小号",
             "examples": []
           }
         ]
@@ -130708,8 +130708,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -131187,13 +131187,13 @@
           {
             "id": "trunk-noun-1",
             "definition": "a long flexible snout as of an elephant",
-            "translation": "",
+            "translation": "（象的）长鼻",
             "examples": []
           },
           {
             "id": "trunk-noun-2",
             "definition": "compartment in an automobile that carries luggage or shopping or tools",
-            "translation": "",
+            "translation": "（汽车）后备箱",
             "examples": [
               {
                 "text": "I put my golf bag in the trunk.",
@@ -131204,19 +131204,19 @@
           {
             "id": "trunk-noun-3",
             "definition": "luggage consisting of a large strong case used when traveling or for storage",
-            "translation": "",
+            "translation": "大衣箱；大皮箱",
             "examples": []
           },
           {
             "id": "trunk-noun-4",
             "definition": "the body excluding the head and neck and limbs",
-            "translation": "",
+            "translation": "躯干",
             "examples": []
           },
           {
             "id": "trunk-noun-5",
             "definition": "the main stem of a tree",
-            "translation": "",
+            "translation": "树干",
             "examples": []
           }
         ]
@@ -131229,8 +131229,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -142730,7 +142730,7 @@
           {
             "id": "tutor-noun-1",
             "definition": "a person who gives private instruction (as in singing, acting, etc.)",
-            "translation": "导师",
+            "translation": "导师；家庭教师",
             "examples": []
           }
         ]
@@ -142741,13 +142741,13 @@
           {
             "id": "tutor-verb-1",
             "definition": "be a tutor to someone",
-            "translation": "导师",
+            "translation": "当…的导师；指导",
             "examples": []
           },
           {
             "id": "tutor-verb-2",
             "definition": "act as a guardian to someone",
-            "translation": "导师",
+            "translation": "监护；保护",
             "examples": []
           }
         ]
@@ -142760,8 +142760,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

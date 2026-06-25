@@ -8069,13 +8069,13 @@
           {
             "id": "economical-adjective-1",
             "definition": "using the minimum of time or resources necessary for effectiveness",
-            "translation": "",
+            "translation": "节约的；省时省力的",
             "examples": []
           },
           {
             "id": "economical-adjective-2",
             "definition": "avoiding waste",
-            "translation": "",
+            "translation": "节省的；不浪费的",
             "examples": [
               {
                 "text": "an economical meal",
@@ -8086,7 +8086,7 @@
           {
             "id": "economical-adjective-3",
             "definition": "of or relating to an economy, the system of production and management of material wealth",
-            "translation": "财富的",
+            "translation": "经济的；经济上的",
             "examples": []
           }
         ]
@@ -8099,8 +8099,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -10307,7 +10307,7 @@
           {
             "id": "edge-noun-1",
             "definition": "a sharp side formed by the intersection of two surfaces of an object",
-            "translation": "边缘",
+            "translation": "棱；锋利的边",
             "examples": [
               {
                 "text": "I rounded the edges of the box with the new design software.",
@@ -10318,13 +10318,13 @@
           {
             "id": "edge-noun-2",
             "definition": "the outside limit of an object or area or surface",
-            "translation": "边缘",
+            "translation": "边缘；外沿",
             "examples": []
           },
           {
             "id": "edge-noun-3",
             "definition": "a slight competitive advantage",
-            "translation": "边缘",
+            "translation": "（微弱的）优势",
             "examples": [
               {
                 "text": "They had an edge on the competition.",
@@ -10335,7 +10335,7 @@
           {
             "id": "edge-noun-4",
             "definition": "the attribute of urgency in tone of voice",
-            "translation": "边缘",
+            "translation": "（语气中的）紧迫",
             "examples": [
               {
                 "text": "My voice had an edge to it.",
@@ -10346,13 +10346,13 @@
           {
             "id": "edge-noun-5",
             "definition": "the boundary of a surface",
-            "translation": "一个表面的界限",
+            "translation": "（表面的）边界",
             "examples": []
           },
           {
             "id": "edge-noun-6",
             "definition": "a line determining the limits of an area",
-            "translation": "边缘",
+            "translation": "界限；范围线",
             "examples": []
           }
         ]
@@ -10363,7 +10363,7 @@
           {
             "id": "edge-verb-1",
             "definition": "provide with an edge",
-            "translation": "边缘",
+            "translation": "给…加边；使锋利",
             "examples": [
               {
                 "text": "edge a blade",
@@ -10374,13 +10374,13 @@
           {
             "id": "edge-verb-2",
             "definition": "lie adjacent to another or share a boundary",
-            "translation": "边缘",
+            "translation": "与…相邻；接壤",
             "examples": []
           },
           {
             "id": "edge-verb-3",
             "definition": "to advance slowly, as if by inches",
-            "translation": "边缘",
+            "translation": "缓慢前进；渐进",
             "examples": [
               {
                 "text": "I edged towards the car.",
@@ -10391,7 +10391,7 @@
           {
             "id": "edge-verb-4",
             "definition": "provide with a border or edge",
-            "translation": "边缘",
+            "translation": "给…镶边；围",
             "examples": [
               {
                 "text": "edge the tablecloth with embroidery",
@@ -10485,8 +10485,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -19537,13 +19537,13 @@
           {
             "id": "elbow-noun-1",
             "definition": "the joint of a mammal or bird that corresponds to the human elbow",
-            "translation": "",
+            "translation": "肘",
             "examples": []
           },
           {
             "id": "elbow-noun-2",
             "definition": "the part of a sleeve that covers the elbow joint",
-            "translation": "",
+            "translation": "（衣服的）肘部",
             "examples": [
               {
                 "text": "The coat had patches over the elbows.",
@@ -19554,19 +19554,19 @@
           {
             "id": "elbow-noun-3",
             "definition": "a sharp bend in a road or river",
-            "translation": "",
+            "translation": "（道路或河流的）急弯",
             "examples": []
           },
           {
             "id": "elbow-noun-4",
             "definition": "a length of pipe with a sharp bend in it",
-            "translation": "",
+            "translation": "弯头；弯管",
             "examples": []
           },
           {
             "id": "elbow-noun-5",
             "definition": "hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
-            "translation": "",
+            "translation": "肘关节",
             "examples": []
           }
         ]
@@ -19577,13 +19577,13 @@
           {
             "id": "elbow-verb-1",
             "definition": "shove one's elbow into another person's ribs",
-            "translation": "",
+            "translation": "用肘推",
             "examples": []
           },
           {
             "id": "elbow-verb-2",
             "definition": "push one's way with the elbows",
-            "translation": "推",
+            "translation": "用肘推开路",
             "examples": []
           }
         ]
@@ -19632,8 +19632,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -28089,7 +28089,7 @@
           {
             "id": "embarrass-verb-1",
             "definition": "cause to be embarrassed",
-            "translation": "使尴尬",
+            "translation": "使尴尬；使难堪",
             "examples": []
           },
           {
@@ -28112,8 +28112,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -29899,7 +29899,7 @@
           {
             "id": "embrace-noun-1",
             "definition": "a close affectionate and protective acceptance",
-            "translation": "",
+            "translation": "欣然接受；信奉",
             "examples": [
               {
                 "text": "Your willing embrace of new ideas is an asset to this company.",
@@ -29910,13 +29910,13 @@
           {
             "id": "embrace-noun-2",
             "definition": "the act of clasping another person in the arms (as in greeting or affection)",
-            "translation": "",
+            "translation": "拥抱",
             "examples": []
           },
           {
             "id": "embrace-noun-3",
             "definition": "the state of taking in or encircling",
-            "translation": "",
+            "translation": "包含；环绕",
             "examples": [
               {
                 "text": "an island in the embrace of the sea",
@@ -29932,7 +29932,7 @@
           {
             "id": "embrace-verb-1",
             "definition": "take up the cause, ideology, practice, method, of someone and use it as one's own",
-            "translation": "拿",
+            "translation": "采纳；接受（学说等）",
             "examples": [
               {
                 "text": "I embraced the tenets of socialism.",
@@ -29943,13 +29943,13 @@
           {
             "id": "embrace-verb-2",
             "definition": "squeeze (someone) tightly in your arms, usually with fondness",
-            "translation": "",
+            "translation": "拥抱",
             "examples": []
           },
           {
             "id": "embrace-verb-3",
             "definition": "include in scope",
-            "translation": "",
+            "translation": "包括；包含",
             "examples": []
           }
         ]
@@ -29957,8 +29957,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -32173,19 +32173,19 @@
           {
             "id": "emit-verb-1",
             "definition": "express audibly",
-            "translation": "",
+            "translation": "发出（声音）",
             "examples": []
           },
           {
             "id": "emit-verb-2",
             "definition": "give off, send forth, or discharge",
-            "translation": "",
+            "translation": "散发；释放",
             "examples": []
           },
           {
             "id": "emit-verb-3",
             "definition": "expel (gases or odors)",
-            "translation": "",
+            "translation": "排出（气体或气味）",
             "examples": []
           }
         ]
@@ -32198,8 +32198,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -55753,7 +55753,7 @@
           {
             "id": "entrance-noun-1",
             "definition": "the act of entering",
-            "translation": "进入的行为",
+            "translation": "进入；入场",
             "examples": [
               {
                 "text": "The magician made a grand entrance.",
@@ -55764,7 +55764,7 @@
           {
             "id": "entrance-noun-2",
             "definition": "something that provides access (to get in or get out)",
-            "translation": "入口",
+            "translation": "入口；门口",
             "examples": [
               {
                 "text": "they waited at the entrance to the garden",
@@ -55775,7 +55775,7 @@
           {
             "id": "entrance-noun-3",
             "definition": "a movement into or inward",
-            "translation": "入口",
+            "translation": "进入的动作",
             "examples": []
           }
         ]
@@ -55786,13 +55786,13 @@
           {
             "id": "entrance-verb-1",
             "definition": "put into a trance",
-            "translation": "入口",
+            "translation": "使出神；使恍惚",
             "examples": []
           },
           {
             "id": "entrance-verb-2",
             "definition": "attract",
-            "translation": "入口",
+            "translation": "吸引；使入迷",
             "examples": []
           }
         ]
@@ -55829,8 +55829,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -56875,37 +56875,37 @@
           {
             "id": "entry-noun-1",
             "definition": "the act of entering",
-            "translation": "进入的行为",
+            "translation": "进入；入场",
             "examples": []
           },
           {
             "id": "entry-noun-2",
             "definition": "the act of beginning something new",
-            "translation": "开始某事新的的行为",
+            "translation": "开始；从事",
             "examples": []
           },
           {
             "id": "entry-noun-3",
             "definition": "something that provides access (to get in or get out)",
-            "translation": "条目",
+            "translation": "入口",
             "examples": []
           },
           {
             "id": "entry-noun-4",
             "definition": "an item inserted in a written record",
-            "translation": "条目",
+            "translation": "条目；词条",
             "examples": []
           },
           {
             "id": "entry-noun-5",
             "definition": "something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)",
-            "translation": "条目",
+            "translation": "参赛作品",
             "examples": []
           },
           {
             "id": "entry-noun-6",
             "definition": "a written record of a commercial transaction",
-            "translation": "条目",
+            "translation": "（商业）记账",
             "examples": []
           }
         ]
@@ -56962,8 +56962,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -65693,19 +65693,19 @@
           {
             "id": "equation-noun-1",
             "definition": "the act of regarding as equal",
-            "translation": "关于一个平等的的行为",
+            "translation": "视为相等",
             "examples": []
           },
           {
             "id": "equation-noun-2",
             "definition": "a mathematical statement that two expressions are equal",
-            "translation": "",
+            "translation": "方程；等式",
             "examples": []
           },
           {
             "id": "equation-noun-3",
             "definition": "a state of being essentially equal or equivalent",
-            "translation": "",
+            "translation": "等同；相等",
             "examples": []
           }
         ]
@@ -65746,8 +65746,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -68027,13 +68027,13 @@
           {
             "id": "erect-adjective-1",
             "definition": "of sexual organs",
-            "translation": "性的器官的",
+            "translation": "（性器官）勃起的",
             "examples": []
           },
           {
             "id": "erect-adjective-2",
             "definition": "upright in position or posture",
-            "translation": "",
+            "translation": "直立的；挺直的",
             "examples": [
               {
                 "text": "an erect stature",
@@ -68049,13 +68049,13 @@
           {
             "id": "erect-verb-1",
             "definition": "construct, build, or erect",
-            "translation": "",
+            "translation": "建造；建立",
             "examples": []
           },
           {
             "id": "erect-verb-2",
             "definition": "cause to rise up",
-            "translation": "",
+            "translation": "使竖起",
             "examples": []
           }
         ]
@@ -68076,8 +68076,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -83618,13 +83618,13 @@
           {
             "id": "evacuate-verb-1",
             "definition": "excrete or discharge from the body",
-            "translation": "",
+            "translation": "排泄；排出（体内）",
             "examples": []
           },
           {
             "id": "evacuate-verb-2",
             "definition": "empty completely",
-            "translation": "",
+            "translation": "排空；腾空",
             "examples": [
               {
                 "text": "evacuate the bottle",
@@ -83635,13 +83635,13 @@
           {
             "id": "evacuate-verb-3",
             "definition": "create a vacuum in (a bulb, flask, reaction vessel)",
-            "translation": "创造",
+            "translation": "抽空（容器）",
             "examples": []
           },
           {
             "id": "evacuate-verb-4",
             "definition": "move out of an unsafe location into safety",
-            "translation": "",
+            "translation": "疏散（到安全处）",
             "examples": [
               {
                 "text": "After the earthquake, residents were evacuated",
@@ -83652,7 +83652,7 @@
           {
             "id": "evacuate-verb-5",
             "definition": "move people from their homes or country",
-            "translation": "",
+            "translation": "使撤离；使迁离",
             "examples": []
           }
         ]
@@ -83665,8 +83665,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -84516,13 +84516,13 @@
           {
             "id": "evaporate-verb-1",
             "definition": "become less intense and fade away gradually",
-            "translation": "",
+            "translation": "逐渐消失；淡化",
             "examples": []
           },
           {
             "id": "evaporate-verb-2",
             "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
-            "translation": "",
+            "translation": "蒸发；失去水分",
             "examples": [
               {
                 "text": "evaporate milk",
@@ -84533,7 +84533,7 @@
           {
             "id": "evaporate-verb-3",
             "definition": "change into a vapor",
-            "translation": "",
+            "translation": "蒸发；气化",
             "examples": [
               {
                 "text": "The water evaporated in front of our eyes",
@@ -84544,7 +84544,7 @@
           {
             "id": "evaporate-verb-4",
             "definition": "cause to change into a vapor",
-            "translation": "变成",
+            "translation": "使蒸发；使气化",
             "examples": [
               {
                 "text": "The chemist evaporated the water",
@@ -84566,8 +84566,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92596,13 +92596,13 @@
           {
             "id": "exclaim-verb-1",
             "definition": "utter aloud",
-            "translation": "",
+            "translation": "呼喊；惊叫",
             "examples": []
           },
           {
             "id": "exclaim-verb-2",
             "definition": "state or announce",
-            "translation": "陈述；说明",
+            "translation": "大声说；声明",
             "examples": [
               {
                 "text": "They exclaimed that they were not communists.",
@@ -92636,8 +92636,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92944,19 +92944,19 @@
           {
             "id": "exclusive-adjective-1",
             "definition": "not divided among or brought to bear on more than one object or objective",
-            "translation": "",
+            "translation": "专用的；专一的",
             "examples": []
           },
           {
             "id": "exclusive-adjective-2",
             "definition": "excluding much or all",
-            "translation": "",
+            "translation": "排外的；不包括在内的",
             "examples": []
           },
           {
             "id": "exclusive-adjective-3",
             "definition": "not divided or shared with others",
-            "translation": "",
+            "translation": "独占的；不与人分享的",
             "examples": [
               {
                 "text": "they have exclusive use of the machine",
@@ -92972,7 +92972,7 @@
           {
             "id": "exclusive-noun-1",
             "definition": "a news report that is reported first by one news organization",
-            "translation": "",
+            "translation": "独家新闻",
             "examples": []
           }
         ]
@@ -92997,8 +92997,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94055,13 +94055,13 @@
           {
             "id": "excursion-noun-1",
             "definition": "wandering from the main path of a journey",
-            "translation": "",
+            "translation": "偏离主线",
             "examples": []
           },
           {
             "id": "excursion-noun-2",
             "definition": "a journey taken for pleasure",
-            "translation": "",
+            "translation": "远足；游览",
             "examples": [
               {
                 "text": "many summer excursions to the shore",
@@ -94079,8 +94079,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -96094,7 +96094,7 @@
           {
             "id": "exert-verb-1",
             "definition": "put to use",
-            "translation": "",
+            "translation": "运用；施加",
             "examples": [
               {
                 "text": "exert one's power or influence",
@@ -96105,13 +96105,13 @@
           {
             "id": "exert-verb-2",
             "definition": "have and exercise",
-            "translation": "",
+            "translation": "行使；拥有并运用",
             "examples": []
           },
           {
             "id": "exert-verb-3",
             "definition": "make a great effort at a mental or physical task",
-            "translation": "制造",
+            "translation": "努力；尽力",
             "examples": [
               {
                 "text": "exert oneself",
@@ -96129,8 +96129,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -96411,13 +96411,13 @@
           {
             "id": "exhaust-noun-1",
             "definition": "system consisting of the parts of an engine through which burned gases or steam are discharged",
-            "translation": "系统",
+            "translation": "（排气）系统",
             "examples": []
           },
           {
             "id": "exhaust-noun-2",
             "definition": "gases ejected from an engine as waste products",
-            "translation": "",
+            "translation": "废气",
             "examples": []
           }
         ]
@@ -96428,7 +96428,7 @@
           {
             "id": "exhaust-verb-1",
             "definition": "wear out completely",
-            "translation": "",
+            "translation": "使精疲力竭",
             "examples": [
               {
                 "text": "This kind of work exhausts me",
@@ -96439,7 +96439,7 @@
           {
             "id": "exhaust-verb-2",
             "definition": "eliminate (a substance)",
-            "translation": "",
+            "translation": "排出（物质）",
             "examples": [
               {
                 "text": "combustion products are exhausted in the engine",
@@ -96450,7 +96450,7 @@
           {
             "id": "exhaust-verb-3",
             "definition": "use up the whole supply of",
-            "translation": "",
+            "translation": "用尽",
             "examples": [
               {
                 "text": "We have exhausted the food supplies",
@@ -96461,13 +96461,13 @@
           {
             "id": "exhaust-verb-4",
             "definition": "use up (resources or materials)",
-            "translation": "",
+            "translation": "耗尽（资源）",
             "examples": []
           },
           {
             "id": "exhaust-verb-5",
             "definition": "deplete",
-            "translation": "",
+            "translation": "使减少；使耗竭",
             "examples": [
               {
                 "text": "exhaust one's savings",
@@ -96497,8 +96497,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -100043,7 +100043,7 @@
           {
             "id": "expand-verb-1",
             "definition": "become larger in size or volume or quantity",
-            "translation": "扩展",
+            "translation": "变大；扩大",
             "examples": [
               {
                 "text": "The business expanded rapidly.",
@@ -100054,25 +100054,25 @@
           {
             "id": "expand-verb-2",
             "definition": "exaggerate or make bigger",
-            "translation": "扩展",
+            "translation": "扩大；扩展（夸张）",
             "examples": []
           },
           {
             "id": "expand-verb-3",
             "definition": "grow vigorously",
-            "translation": "扩展",
+            "translation": "旺盛生长",
             "examples": []
           },
           {
             "id": "expand-verb-4",
             "definition": "expand the influence of",
-            "translation": "扩展",
+            "translation": "扩展…的影响",
             "examples": []
           },
           {
             "id": "expand-verb-5",
             "definition": "make bigger or wider in size, volume, or quantity",
-            "translation": "制造",
+            "translation": "使变大或变宽",
             "examples": [
               {
                 "text": "expand the house by adding another wing",
@@ -100083,13 +100083,13 @@
           {
             "id": "expand-verb-6",
             "definition": "add details, as to an account or idea",
-            "translation": "扩展",
+            "translation": "详述；展开",
             "examples": []
           },
           {
             "id": "expand-verb-7",
             "definition": "extend in one or more directions",
-            "translation": "扩展",
+            "translation": "扩展（方向）",
             "examples": [
               {
                 "text": "The dough expands",
@@ -100127,8 +100127,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -102029,25 +102029,25 @@
           {
             "id": "expel-verb-1",
             "definition": "eliminate (a substance)",
-            "translation": "",
+            "translation": "排出；驱逐",
             "examples": []
           },
           {
             "id": "expel-verb-2",
             "definition": "cause to flee",
-            "translation": "",
+            "translation": "使逃散",
             "examples": []
           },
           {
             "id": "expel-verb-3",
             "definition": "remove from a position or office",
-            "translation": "移除",
+            "translation": "免职；罢免",
             "examples": []
           },
           {
             "id": "expel-verb-4",
             "definition": "force to leave or move out",
-            "translation": "力",
+            "translation": "驱逐；赶走",
             "examples": [
               {
                 "text": "They were expelled from their native country.",
@@ -102060,8 +102060,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -102302,19 +102302,19 @@
           {
             "id": "expenditure-noun-1",
             "definition": "the act of consuming something",
-            "translation": "",
+            "translation": "消耗",
             "examples": []
           },
           {
             "id": "expenditure-noun-2",
             "definition": "the act of spending money for goods or services",
-            "translation": "",
+            "translation": "支出；花费",
             "examples": []
           },
           {
             "id": "expenditure-noun-3",
             "definition": "money paid out",
-            "translation": "",
+            "translation": "支出额；费用",
             "examples": []
           }
         ]
@@ -102407,8 +102407,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -104697,7 +104697,7 @@
           {
             "id": "exploit-noun-1",
             "definition": "a notable achievement",
-            "translation": "利用",
+            "translation": "功绩；伟业",
             "examples": []
           }
         ]
@@ -104708,7 +104708,7 @@
           {
             "id": "exploit-verb-1",
             "definition": "use or manipulate to one's advantage",
-            "translation": "利用",
+            "translation": "利用；为己谋利",
             "examples": [
               {
                 "text": "I exploit the new taxation system.",
@@ -104719,13 +104719,13 @@
           {
             "id": "exploit-verb-2",
             "definition": "draw from",
-            "translation": "通过从画",
+            "translation": "开发；开采",
             "examples": []
           },
           {
             "id": "exploit-verb-3",
             "definition": "work excessively hard",
-            "translation": "利用",
+            "translation": "过度使用；过度工作",
             "examples": [
               {
                 "text": "The professor in charge of the lab is exploiting the students.",
@@ -104743,8 +104743,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -105360,7 +105360,7 @@
           {
             "id": "explosive-adjective-1",
             "definition": "serving to explode or characterized by explosion or sudden outburst",
-            "translation": "以…为特征",
+            "translation": "爆炸性的；突发的",
             "examples": [
               {
                 "text": "an explosive device",
@@ -105371,7 +105371,7 @@
           {
             "id": "explosive-adjective-2",
             "definition": "sudden and loud",
-            "translation": "",
+            "translation": "突然且响亮的",
             "examples": [
               {
                 "text": "an explosive laugh",
@@ -105382,7 +105382,7 @@
           {
             "id": "explosive-adjective-3",
             "definition": "liable to lead to sudden change or violence",
-            "translation": "",
+            "translation": "易爆发的；可能突变的",
             "examples": [
               {
                 "text": "an explosive issue",
@@ -105398,7 +105398,7 @@
           {
             "id": "explosive-noun-1",
             "definition": "a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck",
-            "translation": "",
+            "translation": "炸药；爆炸物",
             "examples": []
           }
         ]
@@ -105406,8 +105406,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -106445,7 +106445,7 @@
           {
             "id": "exposure-noun-1",
             "definition": "the act of subjecting someone to an influencing experience",
-            "translation": "",
+            "translation": "暴露；接触",
             "examples": [
               {
                 "text": "They denounced the exposure of pornography to children.",
@@ -106456,13 +106456,13 @@
           {
             "id": "exposure-noun-2",
             "definition": "abandoning without shelter or protection (as by leaving as infant out in the open)",
-            "translation": "",
+            "translation": "弃置；抛弃",
             "examples": []
           },
           {
             "id": "exposure-noun-3",
             "definition": "presentation to view in an open or public manner",
-            "translation": "",
+            "translation": "公开；展示",
             "examples": [
               {
                 "text": "The exposure of the politicians past misdeeds was shocking to the general public.",
@@ -106473,25 +106473,25 @@
           {
             "id": "exposure-noun-4",
             "definition": "the act of exposing film to light",
-            "translation": "",
+            "translation": "（胶片）曝光",
             "examples": []
           },
           {
             "id": "exposure-noun-5",
             "definition": "a representation of a person or scene in the form of a print or transparent slide",
-            "translation": "",
+            "translation": "（照片）曝光成像",
             "examples": []
           },
           {
             "id": "exposure-noun-6",
             "definition": "vulnerability to the elements",
-            "translation": "",
+            "translation": "暴露（于风雨）",
             "examples": []
           },
           {
             "id": "exposure-noun-7",
             "definition": "aspect resulting from the direction a building or window faces",
-            "translation": "",
+            "translation": "（建筑物的）朝向",
             "examples": [
               {
                 "text": "the studio had a northern exposure",
@@ -106502,7 +106502,7 @@
           {
             "id": "exposure-noun-8",
             "definition": "the disclosure of something secret",
-            "translation": "",
+            "translation": "揭露；披露",
             "examples": [
               {
                 "text": "they feared exposure of their campaign plans",
@@ -106513,7 +106513,7 @@
           {
             "id": "exposure-noun-9",
             "definition": "the intensity of light falling on a photographic film or plate",
-            "translation": "",
+            "translation": "（摄影）曝光量",
             "examples": [
               {
                 "text": "I used the wrong exposure – it was impossible to distinguish objects in the photograph.",
@@ -106524,7 +106524,7 @@
           {
             "id": "exposure-noun-10",
             "definition": "the state of being vulnerable or exposed",
-            "translation": "…的状态",
+            "translation": "暴露（的状态）",
             "examples": []
           }
         ]
@@ -106573,8 +106573,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -110458,7 +110458,7 @@
           {
             "id": "extinct-adjective-1",
             "definition": "(of e.g. volcanos) permanently inactive",
-            "translation": "",
+            "translation": "（火山）熄灭的；不活动的",
             "examples": [
               {
                 "text": "an extinct volcano",
@@ -110469,7 +110469,7 @@
           {
             "id": "extinct-adjective-2",
             "definition": "being out or having grown cold",
-            "translation": "",
+            "translation": "已熄灭的；不再燃烧的",
             "examples": [
               {
                 "text": "I threw my extinct cigarette into the stream.",
@@ -110480,7 +110480,7 @@
           {
             "id": "extinct-adjective-3",
             "definition": "no longer in existence",
-            "translation": "",
+            "translation": "灭绝的；不复存在的",
             "examples": []
           }
         ]
@@ -110488,8 +110488,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
