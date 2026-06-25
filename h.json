@@ -7793,19 +7793,19 @@
           {
             "id": "hall-noun-1",
             "definition": "a large entrance or reception room or area",
-            "translation": "大厅",
+            "translation": "门厅；前厅",
             "examples": []
           },
           {
             "id": "hall-noun-2",
             "definition": "a college or university building containing living quarters for students",
-            "translation": "大厅",
+            "translation": "学生宿舍楼",
             "examples": []
           },
           {
             "id": "hall-noun-3",
             "definition": "a large building for meetings or entertainment",
-            "translation": "大厅",
+            "translation": "会堂；礼堂",
             "examples": []
           },
           {
@@ -7822,7 +7822,7 @@
           {
             "id": "hall-noun-5",
             "definition": "a large building used by a college or university for teaching or research",
-            "translation": "大厅",
+            "translation": "教学楼",
             "examples": [
               {
                 "text": "halls of learning",
@@ -7833,7 +7833,7 @@
           {
             "id": "hall-noun-6",
             "definition": "an interior passage or corridor onto which rooms open",
-            "translation": "大厅",
+            "translation": "走廊",
             "examples": [
               {
                 "text": "the elevators were at the end of the hall",
@@ -7844,13 +7844,13 @@
           {
             "id": "hall-noun-7",
             "definition": "the large room of a manor or castle",
-            "translation": "大厅",
+            "translation": "（庄园或城堡的）大厅",
             "examples": []
           },
           {
             "id": "hall-noun-8",
             "definition": "a large and imposing house",
-            "translation": "大厅",
+            "translation": "豪宅",
             "examples": []
           }
         ]
@@ -7863,8 +7863,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -14217,13 +14217,13 @@
           {
             "id": "hang-noun-1",
             "definition": "a gymnastic exercise performed on the rings or horizontal bar or parallel bars when the gymnast's weight is supported by the arms",
-            "translation": "悬挂",
+            "translation": "（体操）悬垂",
             "examples": []
           },
           {
             "id": "hang-noun-2",
             "definition": "the way a garment hangs",
-            "translation": "悬挂",
+            "translation": "衣服的垂感",
             "examples": [
               {
                 "text": "They adjusted the hang of their coat.",
@@ -14234,7 +14234,7 @@
           {
             "id": "hang-noun-3",
             "definition": "a special way of doing something",
-            "translation": "悬挂",
+            "translation": "诀窍；用法",
             "examples": []
           }
         ]
@@ -14245,7 +14245,7 @@
           {
             "id": "hang-verb-1",
             "definition": "suspend (meat) in order to get a gamey taste",
-            "translation": "悬挂",
+            "translation": "悬挂（风干）",
             "examples": [
               {
                 "text": "hang the venison for a few days",
@@ -14256,7 +14256,7 @@
           {
             "id": "hang-verb-2",
             "definition": "hold on tightly or tenaciously",
-            "translation": "悬挂",
+            "translation": "紧紧抓住",
             "examples": [
               {
                 "text": "hang on to your father's hands",
@@ -14267,13 +14267,13 @@
           {
             "id": "hang-verb-3",
             "definition": "cause to be hanging or suspended",
-            "translation": "悬挂",
+            "translation": "悬挂；吊起",
             "examples": []
           },
           {
             "id": "hang-verb-4",
             "definition": "place in position as by a hinge so as to allow free movement in one direction",
-            "translation": "地方",
+            "translation": "用铰链安装",
             "examples": [
               {
                 "text": "hang a door",
@@ -14284,7 +14284,7 @@
           {
             "id": "hang-verb-5",
             "definition": "be placed in position as by a hinge",
-            "translation": "悬挂",
+            "translation": "（用铰链）开启",
             "examples": [
               {
                 "text": "This cabinet door doesn't hang right!",
@@ -14295,19 +14295,19 @@
           {
             "id": "hang-verb-6",
             "definition": "be suspended or poised",
-            "translation": "悬挂",
+            "translation": "悬挂着；悬浮",
             "examples": []
           },
           {
             "id": "hang-verb-7",
             "definition": "be suspended or hanging",
-            "translation": "悬挂",
+            "translation": "悬挂；吊着",
             "examples": []
           },
           {
             "id": "hang-verb-8",
             "definition": "fall or flow in a certain way",
-            "translation": "悬挂",
+            "translation": "垂下",
             "examples": [
               {
                 "text": "This dress hangs well",
@@ -14318,25 +14318,25 @@
           {
             "id": "hang-verb-9",
             "definition": "decorate or furnish with something suspended",
-            "translation": "悬挂",
+            "translation": "用悬挂物装饰",
             "examples": []
           },
           {
             "id": "hang-verb-10",
             "definition": "let drop or droop",
-            "translation": "悬挂",
+            "translation": "使下垂",
             "examples": []
           },
           {
             "id": "hang-verb-11",
             "definition": "give heed (to)",
-            "translation": "悬挂",
+            "translation": "留意；注意",
             "examples": []
           },
           {
             "id": "hang-verb-12",
             "definition": "kill by hanging",
-            "translation": "悬挂",
+            "translation": "绞死",
             "examples": [
               {
                 "text": "The murderer was hanged on Friday",
@@ -14347,13 +14347,13 @@
           {
             "id": "hang-verb-13",
             "definition": "prevent from reaching a verdict, of a jury",
-            "translation": "悬挂",
+            "translation": "（陪审团）使无法达成裁决",
             "examples": []
           },
           {
             "id": "hang-verb-14",
             "definition": "be menacing, burdensome, or oppressive",
-            "translation": "悬挂",
+            "translation": "威胁；压迫",
             "examples": [
               {
                 "text": "This worry hangs on my mind",
@@ -14364,7 +14364,7 @@
           {
             "id": "hang-verb-15",
             "definition": "be exhibited",
-            "translation": "悬挂",
+            "translation": "展出；展示",
             "examples": [
               {
                 "text": "Picasso hangs in this new wing of the museum",
@@ -14666,8 +14666,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -20638,31 +20638,31 @@
           {
             "id": "harmony-noun-1",
             "definition": "compatibility in opinion and action",
-            "translation": "和谐",
+            "translation": "和睦；融洽",
             "examples": []
           },
           {
             "id": "harmony-noun-2",
             "definition": "an agreeable sound property",
-            "translation": "和谐",
+            "translation": "（音乐）和声",
             "examples": []
           },
           {
             "id": "harmony-noun-3",
             "definition": "the structure of music with respect to the composition and progression of chords",
-            "translation": "和谐",
+            "translation": "和声学",
             "examples": []
           },
           {
             "id": "harmony-noun-4",
             "definition": "agreement of opinions",
-            "translation": "和谐",
+            "translation": "意见一致",
             "examples": []
           },
           {
             "id": "harmony-noun-5",
             "definition": "a harmonious state of things in general and of their properties (as of colors and sounds)",
-            "translation": "和谐",
+            "translation": "和谐状态",
             "examples": []
           }
         ]
@@ -20670,8 +20670,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -20709,13 +20709,13 @@
           {
             "id": "harness-noun-1",
             "definition": "stable gear consisting of an arrangement of leather straps fitted to a draft animal so that it can be attached to and pull a cart",
-            "translation": "",
+            "translation": "挽具；马具",
             "examples": []
           },
           {
             "id": "harness-noun-2",
             "definition": "a support consisting of an arrangement of straps for holding something to the body (especially one supporting a person suspended from a parachute)",
-            "translation": "",
+            "translation": "（降落伞等的）吊带",
             "examples": []
           }
         ]
@@ -20726,13 +20726,13 @@
           {
             "id": "harness-verb-1",
             "definition": "keep in check",
-            "translation": "",
+            "translation": "控制；约束",
             "examples": []
           },
           {
             "id": "harness-verb-2",
             "definition": "exploit the power of",
-            "translation": "",
+            "translation": "利用",
             "examples": [
               {
                 "text": "harness natural forces and resources",
@@ -20743,7 +20743,7 @@
           {
             "id": "harness-verb-3",
             "definition": "put a harness",
-            "translation": "",
+            "translation": "给…套上挽具",
             "examples": [
               {
                 "text": "harness the horse",
@@ -20754,7 +20754,7 @@
           {
             "id": "harness-verb-4",
             "definition": "control and direct with or as if by reins",
-            "translation": "",
+            "translation": "驾驭；控制",
             "examples": []
           }
         ]
@@ -20762,8 +20762,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -22883,7 +22883,7 @@
           {
             "id": "hasty-adjective-1",
             "definition": "excessively quick",
-            "translation": "",
+            "translation": "过于匆忙的",
             "examples": [
               {
                 "text": "made a hasty exit",
@@ -22894,7 +22894,7 @@
           {
             "id": "hasty-adjective-2",
             "definition": "done with very great haste and without due deliberation",
-            "translation": "",
+            "translation": "草率的",
             "examples": [
               {
                 "text": "hasty marriage seldom proveth well- Shakespeare",
@@ -22907,8 +22907,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -23100,7 +23100,7 @@
           {
             "id": "hatch-noun-2",
             "definition": "shading consisting of multiple crossing lines",
-            "translation": "影线",
+            "translation": "阴影线",
             "examples": []
           },
           {
@@ -23117,7 +23117,7 @@
           {
             "id": "hatch-verb-1",
             "definition": "sit on eggs",
-            "translation": "孵蛋",
+            "translation": "孵（蛋）",
             "examples": [
               {
                 "text": "The chickens hatched their nests.",
@@ -23128,7 +23128,7 @@
           {
             "id": "hatch-verb-2",
             "definition": "emerge from the eggs",
-            "translation": "孵化出",
+            "translation": "孵出",
             "examples": [
               {
                 "text": "young birds, fish, and reptiles hatch",
@@ -23173,8 +23173,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38015,25 +38015,25 @@
           {
             "id": "height-noun-1",
             "definition": "(of a standing person) the distance from head to foot",
-            "translation": "高度",
+            "translation": "身高",
             "examples": []
           },
           {
             "id": "height-noun-2",
             "definition": "elevation especially above sea level or above the earth's surface",
-            "translation": "海拔；高度，尤指高于海平面或地表的高度",
+            "translation": "海拔；高度",
             "examples": []
           },
           {
             "id": "height-noun-3",
             "definition": "the vertical dimension of extension",
-            "translation": "扩展的垂直的维度",
+            "translation": "垂直高度",
             "examples": []
           },
           {
             "id": "height-noun-4",
             "definition": "the highest level or degree attainable",
-            "translation": "可达到的最高水平或程度",
+            "translation": "顶点；极限",
             "examples": []
           }
         ]
@@ -38066,8 +38066,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -53094,13 +53094,13 @@
           {
             "id": "hide-noun-1",
             "definition": "body covering of a living animal",
-            "translation": "身体",
+            "translation": "（活的）动物皮",
             "examples": []
           },
           {
             "id": "hide-noun-2",
             "definition": "the dressed skin of an animal, especially a large animal",
-            "translation": "隐藏",
+            "translation": "（鞣制过的）兽皮",
             "examples": [
               {
                 "text": "The mountain house had the hide of a bear on the floor.",
@@ -53116,7 +53116,7 @@
           {
             "id": "hide-verb-1",
             "definition": "make undecipherable or imperceptible by obscuring or concealing",
-            "translation": "制造",
+            "translation": "遮蔽；遮盖",
             "examples": [
               {
                 "text": "I hide an extra house key under a rock in front of my house.",
@@ -53127,13 +53127,13 @@
           {
             "id": "hide-verb-2",
             "definition": "cover as if with a shroud",
-            "translation": "隐藏",
+            "translation": "覆盖",
             "examples": []
           },
           {
             "id": "hide-verb-3",
             "definition": "prevent from being seen or discovered",
-            "translation": "隐藏",
+            "translation": "隐藏；遮掩",
             "examples": [
               {
                 "text": "Muslim women hide their faces",
@@ -53144,7 +53144,7 @@
           {
             "id": "hide-verb-4",
             "definition": "be or go into hiding",
-            "translation": "隐藏",
+            "translation": "躲藏；藏匿",
             "examples": []
           }
         ]
@@ -53177,8 +53177,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

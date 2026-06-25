@@ -2929,13 +2929,13 @@
           {
             "id": "oblige-verb-1",
             "definition": "bind by an obligation",
-            "translation": "",
+            "translation": "使负有义务",
             "examples": []
           },
           {
             "id": "oblige-verb-2",
             "definition": "provide a service or favor for someone",
-            "translation": "",
+            "translation": "施恩惠；帮忙",
             "examples": [
               {
                 "text": "We had to oblige him",
@@ -2946,7 +2946,7 @@
           {
             "id": "oblige-verb-3",
             "definition": "force somebody to do something",
-            "translation": "力",
+            "translation": "强迫",
             "examples": []
           }
         ]
@@ -2971,8 +2971,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -4391,7 +4391,7 @@
           {
             "id": "obscure-adjective-1",
             "definition": "not clearly understood or expressed",
-            "translation": "",
+            "translation": "模糊的；不清楚的",
             "examples": [
               {
                 "text": "an obscure turn of phrase",
@@ -4402,25 +4402,25 @@
           {
             "id": "obscure-adjective-2",
             "definition": "marked by difficulty of style or expression",
-            "translation": "",
+            "translation": "晦涩的",
             "examples": []
           },
           {
             "id": "obscure-adjective-3",
             "definition": "remote and separate physically or socially",
-            "translation": "在物理上或社会上遥远且分离的",
+            "translation": "偏僻的；远离的",
             "examples": []
           },
           {
             "id": "obscure-adjective-4",
             "definition": "not drawing attention",
-            "translation": "不绘画注意",
+            "translation": "不引人注目的",
             "examples": []
           },
           {
             "id": "obscure-adjective-5",
             "definition": "not famous or acclaimed",
-            "translation": "",
+            "translation": "不出名的；无名气的",
             "examples": [
               {
                 "text": "an obscure family",
@@ -4431,7 +4431,7 @@
           {
             "id": "obscure-adjective-6",
             "definition": "difficult to find",
-            "translation": "",
+            "translation": "难找的；隐蔽的",
             "examples": []
           }
         ]
@@ -4442,7 +4442,7 @@
           {
             "id": "obscure-verb-1",
             "definition": "make obscure or unclear",
-            "translation": "制造",
+            "translation": "使模糊；使不清楚",
             "examples": [
               {
                 "text": "The distinction was obscured",
@@ -4453,25 +4453,25 @@
           {
             "id": "obscure-verb-2",
             "definition": "make undecipherable or imperceptible by obscuring or concealing",
-            "translation": "制造",
+            "translation": "遮掩；遮蔽",
             "examples": []
           },
           {
             "id": "obscure-verb-3",
             "definition": "reduce a vowel to a neutral one, such as a schwa",
-            "translation": "",
+            "translation": "（语音）弱化元音",
             "examples": []
           },
           {
             "id": "obscure-verb-4",
             "definition": "make unclear, indistinct, or blurred",
-            "translation": "制造",
+            "translation": "使模糊；使朦胧",
             "examples": []
           },
           {
             "id": "obscure-verb-5",
             "definition": "make less visible or unclear",
-            "translation": "制造",
+            "translation": "使变淡",
             "examples": [
               {
                 "text": "The stars are obscured by the clouds",
@@ -4484,8 +4484,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -7762,7 +7762,7 @@
           {
             "id": "obvious-adjective-1",
             "definition": "easily perceived by the senses or grasped by the mind",
-            "translation": "明显的",
+            "translation": "明显的；显然的",
             "examples": [
               {
                 "text": "obvious errors",
@@ -7775,8 +7775,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -8924,7 +8924,7 @@
           {
             "id": "occupation-noun-1",
             "definition": "the act of occupying or taking possession of a building",
-            "translation": "职业",
+            "translation": "占据；占领",
             "examples": [
               {
                 "text": "occupation of a building without a certificate of occupancy is illegal",
@@ -8935,13 +8935,13 @@
           {
             "id": "occupation-noun-2",
             "definition": "the principal activity in your life that you do to earn money",
-            "translation": "职业",
+            "translation": "职业；工作",
             "examples": []
           },
           {
             "id": "occupation-noun-3",
             "definition": "any activity that occupies a person's attention",
-            "translation": "职业",
+            "translation": "占用（注意力）的活动",
             "examples": [
               {
                 "text": "I missed the bell in my occupation with the computer game.",
@@ -8952,13 +8952,13 @@
           {
             "id": "occupation-noun-4",
             "definition": "the control of a country by military forces of a foreign power",
-            "translation": "职业",
+            "translation": "（外国军队的）占领",
             "examples": []
           },
           {
             "id": "occupation-noun-5",
             "definition": "the period of time during which a place or position or nation is occupied",
-            "translation": "职业",
+            "translation": "占领期",
             "examples": [
               {
                 "text": "during the German occupation of Paris",
@@ -8976,8 +8976,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -9334,13 +9334,13 @@
           {
             "id": "occurrence-noun-1",
             "definition": "an event that happens",
-            "translation": "",
+            "translation": "事件；发生的事情",
             "examples": []
           },
           {
             "id": "occurrence-noun-2",
             "definition": "an instance of something occurring",
-            "translation": "",
+            "translation": "发生的事例",
             "examples": [
               {
                 "text": "a disease of frequent occurrence",
@@ -9353,8 +9353,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -14075,13 +14075,13 @@
           {
             "id": "offer-noun-1",
             "definition": "a usually brief attempt",
-            "translation": "提供",
+            "translation": "尝试；试图",
             "examples": []
           },
           {
             "id": "offer-noun-2",
             "definition": "something offered as a proposal or bid",
-            "translation": "提供",
+            "translation": "提议；报价",
             "examples": [
               {
                 "text": "Noteworthy new offerings for investors included several index funds.",
@@ -14092,7 +14092,7 @@
           {
             "id": "offer-noun-3",
             "definition": "the verbal act of offering",
-            "translation": "提供",
+            "translation": "提议（言语行为）",
             "examples": [
               {
                 "text": "a generous offer of assistance",
@@ -14108,7 +14108,7 @@
           {
             "id": "offer-verb-1",
             "definition": "put forward for consideration",
-            "translation": "提供",
+            "translation": "提出（供考虑）",
             "examples": [
               {
                 "text": "I offered my opinion.",
@@ -14119,7 +14119,7 @@
           {
             "id": "offer-verb-2",
             "definition": "threaten to do something",
-            "translation": "提供",
+            "translation": "威胁要做",
             "examples": [
               {
                 "text": "I offered to leave the committee if they did not accept my proposal",
@@ -14130,7 +14130,7 @@
           {
             "id": "offer-verb-3",
             "definition": "ask someone to marry you",
-            "translation": "提供",
+            "translation": "向…求婚",
             "examples": [
               {
                 "text": "On top of the Eiffel Tower, I offered myself to my partner.",
@@ -14141,7 +14141,7 @@
           {
             "id": "offer-verb-4",
             "definition": "produce or introduce on the stage",
-            "translation": "产生；实现",
+            "translation": "上演；演出",
             "examples": [
               {
                 "text": "The Shakespeare Company is offering `King Lear' this month",
@@ -14152,7 +14152,7 @@
           {
             "id": "offer-verb-5",
             "definition": "make available or accessible, provide or furnish",
-            "translation": "制造",
+            "translation": "提供；使可获得",
             "examples": [
               {
                 "text": "The conference center offers a health spa",
@@ -14163,7 +14163,7 @@
           {
             "id": "offer-verb-6",
             "definition": "present for acceptance or rejection",
-            "translation": "现在的",
+            "translation": "呈交；提交",
             "examples": [
               {
                 "text": "They offered us all a cold drink.",
@@ -14174,7 +14174,7 @@
           {
             "id": "offer-verb-7",
             "definition": "make available for sale",
-            "translation": "制造",
+            "translation": "使可购买；供应",
             "examples": [
               {
                 "text": "The stores are offering specials on sweaters this week",
@@ -14185,19 +14185,19 @@
           {
             "id": "offer-verb-8",
             "definition": "offer verbally",
-            "translation": "提供",
+            "translation": "口头上提出",
             "examples": []
           },
           {
             "id": "offer-verb-9",
             "definition": "make available",
-            "translation": "通过可用的制造",
+            "translation": "提供",
             "examples": []
           },
           {
             "id": "offer-verb-10",
             "definition": "propose a payment",
-            "translation": "提供",
+            "translation": "提议付款；出价",
             "examples": [
               {
                 "text": "The Swiss dealer offered $2 million for the painting",
@@ -14208,19 +14208,19 @@
           {
             "id": "offer-verb-11",
             "definition": "mount or put up",
-            "translation": "提供",
+            "translation": "设置；陈列",
             "examples": []
           },
           {
             "id": "offer-verb-12",
             "definition": "agree freely",
-            "translation": "提供",
+            "translation": "自愿给予",
             "examples": []
           },
           {
             "id": "offer-verb-13",
             "definition": "present as an act of worship",
-            "translation": "现在的",
+            "translation": "供奉；献祭",
             "examples": [
               {
                 "text": "offer prayers to the gods",
@@ -14298,8 +14298,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -29516,7 +29516,7 @@
           {
             "id": "oppose-verb-2",
             "definition": "be resistant to",
-            "translation": "反对",
+            "translation": "抵抗",
             "examples": [
               {
                 "text": "The board opposed my motion.",
@@ -29527,13 +29527,13 @@
           {
             "id": "oppose-verb-3",
             "definition": "set into opposition or rivalry",
-            "translation": "反对",
+            "translation": "使对立；使竞争",
             "examples": []
           },
           {
             "id": "oppose-verb-4",
             "definition": "fight against or resist strongly",
-            "translation": "反对",
+            "translation": "强烈反抗",
             "examples": [
               {
                 "text": "The senator said they would oppose the bill.",
@@ -29544,13 +29544,13 @@
           {
             "id": "oppose-verb-5",
             "definition": "act against or in opposition to",
-            "translation": "反对",
+            "translation": "反对；对抗",
             "examples": []
           },
           {
             "id": "oppose-verb-6",
             "definition": "contrast with equal weight or force",
-            "translation": "反对",
+            "translation": "与…相抗衡",
             "examples": []
           }
         ]
@@ -29571,8 +29571,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -31684,7 +31684,7 @@
           {
             "id": "optional-adjective-1",
             "definition": "possible but not necessary",
-            "translation": "可选的",
+            "translation": "可选的；非强制的",
             "examples": []
           }
         ]
@@ -31692,8 +31692,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -35259,7 +35259,7 @@
           {
             "id": "ore-noun-1",
             "definition": "a monetary subunit in Denmark and Norway and Sweden",
-            "translation": "",
+            "translation": "欧尔（丹麦、挪威、瑞典辅币）",
             "examples": [
               {
                 "text": "100 ore equal 1 krona",
@@ -35270,7 +35270,7 @@
           {
             "id": "ore-noun-2",
             "definition": "a mineral that contains metal that is valuable enough to be mined",
-            "translation": "",
+            "translation": "矿石；矿砂",
             "examples": []
           }
         ]
@@ -35291,8 +35291,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -36155,13 +36155,13 @@
           {
             "id": "organism-noun-1",
             "definition": "a living thing that has (or can develop) the ability to act or function independently",
-            "translation": "",
+            "translation": "生物；有机体",
             "examples": []
           },
           {
             "id": "organism-noun-2",
             "definition": "a system considered analogous in structure or function to a living body",
-            "translation": "",
+            "translation": "（类似生物体的）组织机构",
             "examples": [
               {
                 "text": "the social organism",
@@ -36174,8 +36174,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -48974,7 +48974,7 @@
           {
             "id": "outlet-noun-1",
             "definition": "activity that frees or expresses creative energy or emotion",
-            "translation": "",
+            "translation": "（情感等的）发泄渠道",
             "examples": [
               {
                 "text": "They had no other outlet for their feelings.",
@@ -48985,19 +48985,19 @@
           {
             "id": "outlet-noun-2",
             "definition": "an opening that permits escape or release",
-            "translation": "",
+            "translation": "出口；排放口",
             "examples": []
           },
           {
             "id": "outlet-noun-3",
             "definition": "a place of business for retailing goods",
-            "translation": "",
+            "translation": "零售店；经销店",
             "examples": []
           },
           {
             "id": "outlet-noun-4",
             "definition": "receptacle providing a place in a wiring system where current can be taken to run electrical devices",
-            "translation": "",
+            "translation": "（电）插座",
             "examples": []
           }
         ]
@@ -49005,8 +49005,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -49087,19 +49087,19 @@
           {
             "id": "outline-noun-1",
             "definition": "a schematic or preliminary plan",
-            "translation": "大纲",
+            "translation": "草案；计划",
             "examples": []
           },
           {
             "id": "outline-noun-2",
             "definition": "a sketchy summary of the main points of an argument or theory",
-            "translation": "论点或理论要点的粗略摘要",
+            "translation": "要点；概要",
             "examples": []
           },
           {
             "id": "outline-noun-3",
             "definition": "the line that appears to bound an object",
-            "translation": "大纲",
+            "translation": "轮廓",
             "examples": []
           }
         ]
@@ -49110,7 +49110,7 @@
           {
             "id": "outline-verb-1",
             "definition": "describe roughly or briefly or give the main points or summary of",
-            "translation": "描述",
+            "translation": "概述；列要点",
             "examples": [
               {
                 "text": "sketch the outline of the book",
@@ -49121,13 +49121,13 @@
           {
             "id": "outline-verb-2",
             "definition": "trace the shape of",
-            "translation": "大纲",
+            "translation": "勾勒…的轮廓",
             "examples": []
           },
           {
             "id": "outline-verb-3",
             "definition": "draw up an outline or sketch for something",
-            "translation": "画",
+            "translation": "起草",
             "examples": []
           }
         ]
@@ -49135,8 +49135,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -59595,7 +59595,7 @@
           {
             "id": "overlook-noun-1",
             "definition": "a high place affording a good view",
-            "translation": "忽视",
+            "translation": "（能眺望的）高处",
             "examples": [
               {
                 "text": "They quite enjoyed the view from the famous overlook.",
@@ -59611,7 +59611,7 @@
           {
             "id": "overlook-verb-1",
             "definition": "leave undone or leave out",
-            "translation": "忽视",
+            "translation": "忽略；漏看",
             "examples": [
               {
                 "text": "I overlooked that twice now. I'll do it tomorrow. ",
@@ -59622,7 +59622,7 @@
           {
             "id": "overlook-verb-2",
             "definition": "watch over",
-            "translation": "手表",
+            "translation": "监视；监督",
             "examples": [
               {
                 "text": "I am overlooking the work.",
@@ -59633,7 +59633,7 @@
           {
             "id": "overlook-verb-3",
             "definition": "look past, fail to notice",
-            "translation": "看",
+            "translation": "没注意到",
             "examples": [
               {
                 "text": "They were overlooked for the job. ",
@@ -59644,13 +59644,13 @@
           {
             "id": "overlook-verb-4",
             "definition": "look down on",
-            "translation": "看",
+            "translation": "俯瞰；俯视",
             "examples": []
           },
           {
             "id": "overlook-verb-5",
             "definition": "be oriented in a certain direction",
-            "translation": "忽视",
+            "translation": "（朝某方向）面向",
             "examples": [
               {
                 "text": "The mansion overlooked a beautiful valley. ",
@@ -59663,8 +59663,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

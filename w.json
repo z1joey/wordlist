@@ -11837,7 +11837,7 @@
           {
             "id": "waste-adjective-1",
             "definition": "located in a dismal or remote area",
-            "translation": "浪费",
+            "translation": "荒芜的；荒凉的",
             "examples": []
           }
         ]
@@ -11848,19 +11848,19 @@
           {
             "id": "waste-noun-1",
             "definition": "useless or profitless activity",
-            "translation": "浪费",
+            "translation": "无用之举",
             "examples": []
           },
           {
             "id": "waste-noun-2",
             "definition": "(law) reduction in the value of an estate caused by act or neglect",
-            "translation": "浪费",
+            "translation": "（法律）财产的损耗",
             "examples": []
           },
           {
             "id": "waste-noun-3",
             "definition": "the trait of wasting resources",
-            "translation": "浪费",
+            "translation": "浪费（的习惯）",
             "examples": [
               {
                 "text": "a life characterized by thriftlessness and waste",
@@ -11871,13 +11871,13 @@
           {
             "id": "waste-noun-4",
             "definition": "an uninhabited wilderness that is worthless for cultivation",
-            "translation": "浪费",
+            "translation": "荒地",
             "examples": []
           },
           {
             "id": "waste-noun-5",
             "definition": "any materials unused and rejected as worthless or unwanted",
-            "translation": "浪费",
+            "translation": "废料；废物",
             "examples": [
               {
                 "text": "they collect the waste once a week",
@@ -11893,13 +11893,13 @@
           {
             "id": "waste-verb-1",
             "definition": "become physically weaker",
-            "translation": "浪费",
+            "translation": "变得虚弱",
             "examples": []
           },
           {
             "id": "waste-verb-2",
             "definition": "cause extensive destruction or ruin utterly",
-            "translation": "浪费",
+            "translation": "彻底毁坏",
             "examples": [
               {
                 "text": "The enemy lay waste to the countryside after the invasion",
@@ -11910,19 +11910,19 @@
           {
             "id": "waste-verb-3",
             "definition": "cause to grow thin or weak",
-            "translation": "浪费",
+            "translation": "使消瘦",
             "examples": []
           },
           {
             "id": "waste-verb-4",
             "definition": "lose vigor, health, or flesh, as through grief",
-            "translation": "浪费",
+            "translation": "（因悲伤）失去活力",
             "examples": []
           },
           {
             "id": "waste-verb-5",
             "definition": "spend extravagantly",
-            "translation": "浪费",
+            "translation": "挥霍",
             "examples": [
               {
                 "text": "waste not, want not",
@@ -11933,7 +11933,7 @@
           {
             "id": "waste-verb-6",
             "definition": "use inefficiently or inappropriately",
-            "translation": "浪费",
+            "translation": "浪费；不当使用",
             "examples": [
               {
                 "text": "waste heat",
@@ -11944,13 +11944,13 @@
           {
             "id": "waste-verb-7",
             "definition": "get rid of (someone who may be a threat) by killing",
-            "translation": "浪费",
+            "translation": "（俚）杀掉；干掉",
             "examples": []
           },
           {
             "id": "waste-verb-8",
             "definition": "run off as waste",
-            "translation": "浪费",
+            "translation": "流失；排走",
             "examples": [
               {
                 "text": "The water wastes back into the ocean",
@@ -11961,7 +11961,7 @@
           {
             "id": "waste-verb-9",
             "definition": "get rid of",
-            "translation": "浪费",
+            "translation": "处理掉",
             "examples": [
               {
                 "text": "We waste the dirty water by channeling it into the sewer",
@@ -11972,7 +11972,7 @@
           {
             "id": "waste-verb-10",
             "definition": "spend thoughtlessly",
-            "translation": "浪费",
+            "translation": "轻率花费",
             "examples": []
           }
         ]
@@ -11993,8 +11993,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -16489,13 +16489,13 @@
           {
             "id": "wax-verb-1",
             "definition": "go up or advance",
-            "translation": "增加；变大",
+            "translation": "增加；增大",
             "examples": []
           },
           {
             "id": "wax-verb-2",
             "definition": "increase in phase",
-            "translation": "渐增；渐圆（月相）",
+            "translation": "（月）渐圆",
             "examples": [
               {
                 "text": "the moon is waxing",
@@ -16519,8 +16519,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -19365,7 +19365,7 @@
           {
             "id": "weary-adjective-1",
             "definition": "physically and mentally fatigued",
-            "translation": "",
+            "translation": "疲倦的；疲惫的",
             "examples": [
               {
                 "text": "`aweary' is archaic",
@@ -19381,13 +19381,13 @@
           {
             "id": "weary-verb-1",
             "definition": "exhaust or get tired through overuse or great strain or stress",
-            "translation": "",
+            "translation": "使疲倦；使疲劳",
             "examples": []
           },
           {
             "id": "weary-verb-2",
             "definition": "lose interest or become bored with something or somebody",
-            "translation": "",
+            "translation": "厌倦；厌烦",
             "examples": []
           }
         ]
@@ -19404,8 +19404,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -21371,19 +21371,19 @@
           {
             "id": "weed-noun-1",
             "definition": "street names for marijuana",
-            "translation": "杂草",
+            "translation": "（俚）大麻",
             "examples": []
           },
           {
             "id": "weed-noun-2",
             "definition": "a black band worn by a man (on the arm or hat) as a sign of mourning",
-            "translation": "杂草",
+            "translation": "（黑纱）丧章",
             "examples": []
           },
           {
             "id": "weed-noun-3",
             "definition": "any plant that crowds out cultivated plants",
-            "translation": "杂草",
+            "translation": "杂草；野草",
             "examples": []
           }
         ]
@@ -21394,7 +21394,7 @@
           {
             "id": "weed-verb-1",
             "definition": "clear of weeds",
-            "translation": "杂草",
+            "translation": "除草",
             "examples": [
               {
                 "text": "weed the garden",
@@ -21412,8 +21412,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -24137,13 +24137,13 @@
           {
             "id": "weld-noun-1",
             "definition": "a metal joint formed by softening with heat and fusing or hammering together",
-            "translation": "",
+            "translation": "焊接点",
             "examples": []
           },
           {
             "id": "weld-noun-2",
             "definition": "European mignonette cultivated as a source of yellow dye",
-            "translation": "",
+            "translation": "淡黄染料木犀草",
             "examples": []
           }
         ]
@@ -24154,7 +24154,7 @@
           {
             "id": "weld-verb-1",
             "definition": "unite closely or intimately",
-            "translation": "",
+            "translation": "紧密结合",
             "examples": [
               {
                 "text": "Your gratitude welded me to you.",
@@ -24165,7 +24165,7 @@
           {
             "id": "weld-verb-2",
             "definition": "join together by heating",
-            "translation": "",
+            "translation": "焊接；熔接",
             "examples": [
               {
                 "text": "weld metal",
@@ -24199,8 +24199,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -47263,73 +47263,73 @@
           {
             "id": "withdraw-verb-1",
             "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
-            "translation": "移除",
+            "translation": "撤回；移开",
             "examples": []
           },
           {
             "id": "withdraw-verb-2",
             "definition": "keep away from others",
-            "translation": "撤回",
+            "translation": "脱离人群",
             "examples": []
           },
           {
             "id": "withdraw-verb-3",
             "definition": "take back what one has said",
-            "translation": "拿",
+            "translation": "撤回（前言）",
             "examples": []
           },
           {
             "id": "withdraw-verb-4",
             "definition": "make a retreat from an earlier commitment or activity",
-            "translation": "制造",
+            "translation": "退出（承诺）",
             "examples": []
           },
           {
             "id": "withdraw-verb-5",
             "definition": "release from something that holds fast, connects, or entangles",
-            "translation": "撤回",
+            "translation": "解开；松开",
             "examples": []
           },
           {
             "id": "withdraw-verb-6",
             "definition": "lose interest",
-            "translation": "撤回",
+            "translation": "失去兴趣",
             "examples": []
           },
           {
             "id": "withdraw-verb-7",
             "definition": "pull back or move away or backward",
-            "translation": "拉",
+            "translation": "拉回；后退",
             "examples": []
           },
           {
             "id": "withdraw-verb-8",
             "definition": "remove (a commodity) from (a supply source)",
-            "translation": "移除",
+            "translation": "停止供应",
             "examples": []
           },
           {
             "id": "withdraw-verb-9",
             "definition": "cause to be returned",
-            "translation": "撤回",
+            "translation": "使退还",
             "examples": []
           },
           {
             "id": "withdraw-verb-10",
             "definition": "withdraw from active participation",
-            "translation": "撤回",
+            "translation": "退出（活动）",
             "examples": []
           },
           {
             "id": "withdraw-verb-11",
             "definition": "retire gracefully",
-            "translation": "撤回",
+            "translation": "优雅退出",
             "examples": []
           },
           {
             "id": "withdraw-verb-12",
             "definition": "break from a meeting or gathering",
-            "translation": "打破",
+            "translation": "中途退场",
             "examples": []
           }
         ]
@@ -47346,8 +47346,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -48138,13 +48138,13 @@
           {
             "id": "withstand-verb-1",
             "definition": "stand up or offer resistance to somebody or something",
-            "translation": "",
+            "translation": "顶住；抵抗",
             "examples": []
           },
           {
             "id": "withstand-verb-2",
             "definition": "resist or confront with resistance",
-            "translation": "",
+            "translation": "对抗；抗拒",
             "examples": []
           }
         ]
@@ -48152,8 +48152,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -48349,13 +48349,13 @@
           {
             "id": "witness-noun-1",
             "definition": "testimony by word or deed to your religious faith",
-            "translation": "目击者",
+            "translation": "（宗教）见证",
             "examples": []
           },
           {
             "id": "witness-noun-2",
             "definition": "a close observer",
-            "translation": "目击者",
+            "translation": "密切观察者",
             "examples": []
           },
           {
@@ -48367,13 +48367,13 @@
           {
             "id": "witness-noun-4",
             "definition": "(law) a person who attests to the genuineness of a document or signature by adding their own signature",
-            "translation": "目击者",
+            "translation": "（法律）见证人",
             "examples": []
           },
           {
             "id": "witness-noun-5",
             "definition": "(law) a person who testifies under oath in a court of law",
-            "translation": "目击者",
+            "translation": "（法律）证人",
             "examples": []
           }
         ]
@@ -48384,7 +48384,7 @@
           {
             "id": "witness-verb-1",
             "definition": "to see an event happen, to be present during something",
-            "translation": "目击者",
+            "translation": "目击；亲眼看到",
             "examples": [
               {
                 "text": "I witnessed the accident and had to testify in court.",
@@ -48395,7 +48395,7 @@
           {
             "id": "witness-verb-2",
             "definition": "perceive or be contemporaneous with",
-            "translation": "目击者",
+            "translation": "见证；同时发生",
             "examples": []
           }
         ]
@@ -48436,8 +48436,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

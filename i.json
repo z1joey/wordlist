@@ -4562,7 +4562,7 @@
           {
             "id": "idiom-noun-1",
             "definition": "the style of a particular artist or school or movement",
-            "translation": "风格；特色",
+            "translation": "（艺术）风格；特色",
             "examples": [
               {
                 "text": "an imaginative orchestral idiom",
@@ -4573,7 +4573,7 @@
           {
             "id": "idiom-noun-2",
             "definition": "a manner of speaking that is natural to native speakers of a language",
-            "translation": "惯用语；语言习惯",
+            "translation": "惯用表达；语言习惯",
             "examples": []
           },
           {
@@ -4590,7 +4590,7 @@
           {
             "id": "idiom-noun-4",
             "definition": "the usage or vocabulary that is characteristic of a specific group of people",
-            "translation": "特定人群特有的用法或词汇",
+            "translation": "（特定群体的）惯用用法",
             "examples": []
           }
         ]
@@ -4598,8 +4598,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -46415,7 +46415,7 @@
           {
             "id": "indifferent-adjective-1",
             "definition": "showing no care or concern in attitude or action",
-            "translation": "",
+            "translation": "漠不关心的；冷淡的",
             "examples": [
               {
                 "text": "indifferent to the sufferings of others",
@@ -46426,19 +46426,19 @@
           {
             "id": "indifferent-adjective-2",
             "definition": "(often followed by `to') lacking importance",
-            "translation": "",
+            "translation": "无关紧要的",
             "examples": []
           },
           {
             "id": "indifferent-adjective-3",
             "definition": "marked by a lack of interest",
-            "translation": "表现出缺乏兴趣的",
+            "translation": "毫无兴趣的",
             "examples": []
           },
           {
             "id": "indifferent-adjective-4",
             "definition": "neither too great nor too little",
-            "translation": "",
+            "translation": "不好不坏的；中等的",
             "examples": [
               {
                 "text": "a couple of indifferent hills to climb",
@@ -46449,7 +46449,7 @@
           {
             "id": "indifferent-adjective-5",
             "definition": "being neither good nor bad",
-            "translation": "",
+            "translation": "不好不坏的",
             "examples": [
               {
                 "text": "an indifferent performance",
@@ -46460,7 +46460,7 @@
           {
             "id": "indifferent-adjective-6",
             "definition": "characterized by a lack of partiality",
-            "translation": "以…为特征",
+            "translation": "公平的；不偏不倚的",
             "examples": [
               {
                 "text": "a properly indifferent jury",
@@ -46471,7 +46471,7 @@
           {
             "id": "indifferent-adjective-7",
             "definition": "marked by no especial liking or dislike or preference for one thing over another",
-            "translation": "",
+            "translation": "无特别好恶的",
             "examples": [
               {
                 "text": "indifferent about which book you would give them",
@@ -46482,13 +46482,13 @@
           {
             "id": "indifferent-adjective-8",
             "definition": "having only a limited ability to react chemically",
-            "translation": "",
+            "translation": "化学惰性的",
             "examples": []
           },
           {
             "id": "indifferent-adjective-9",
             "definition": "fairly poor to not very good",
-            "translation": "",
+            "translation": "平平的；不佳的",
             "examples": [
               {
                 "text": "has an indifferent singing voice",
@@ -46499,7 +46499,7 @@
           {
             "id": "indifferent-adjective-10",
             "definition": "(usually followed by `to') unwilling or refusing to pay heed",
-            "translation": "",
+            "translation": "不愿理会的",
             "examples": []
           }
         ]
@@ -46512,8 +46512,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -57215,25 +57215,25 @@
           {
             "id": "inferior-adjective-1",
             "definition": "falling short of some prescribed norm",
-            "translation": "",
+            "translation": "低于标准的",
             "examples": []
           },
           {
             "id": "inferior-adjective-2",
             "definition": "of or characteristic of low rank or importance",
-            "translation": "重要性的",
+            "translation": "级别低的；不重要的",
             "examples": []
           },
           {
             "id": "inferior-adjective-3",
             "definition": "of low or inferior quality",
-            "translation": "质量的",
+            "translation": "质量差的；劣等的",
             "examples": []
           },
           {
             "id": "inferior-adjective-4",
             "definition": "having an orbit between the sun and the Earth's orbit",
-            "translation": "",
+            "translation": "（轨道）位于地球轨道内的",
             "examples": [
               {
                 "text": "Mercury and Venus are inferior planets",
@@ -57244,13 +57244,13 @@
           {
             "id": "inferior-adjective-5",
             "definition": "written or printed below and to one side of another character",
-            "translation": "",
+            "translation": "（印刷）下标的",
             "examples": []
           },
           {
             "id": "inferior-adjective-6",
             "definition": "lower than a given reference point",
-            "translation": "",
+            "translation": "低于某参照点的",
             "examples": [
               {
                 "text": "inferior alveolar artery",
@@ -57266,13 +57266,13 @@
           {
             "id": "inferior-noun-1",
             "definition": "a character or symbol set or printed or written beneath or slightly below and to the side of another character",
-            "translation": "",
+            "translation": "下标字符",
             "examples": []
           },
           {
             "id": "inferior-noun-2",
             "definition": "one of lesser rank or station or quality",
-            "translation": "",
+            "translation": "下属；下级",
             "examples": []
           }
         ]
@@ -57293,8 +57293,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -65794,7 +65794,7 @@
           {
             "id": "initial-adjective-1",
             "definition": "occurring at the beginning",
-            "translation": "最初的",
+            "translation": "最初的；开头的",
             "examples": [
               {
                 "text": "took the initial step toward reconciliation",
@@ -65810,7 +65810,7 @@
           {
             "id": "initial-noun-1",
             "definition": "the first letter of a word, especially a person's name",
-            "translation": "最初的",
+            "translation": "首字母",
             "examples": [
               {
                 "text": "They refused to put the initials FRS after their name.",
@@ -65826,7 +65826,7 @@
           {
             "id": "initial-verb-1",
             "definition": "mark with one's initials",
-            "translation": "标记",
+            "translation": "用首字母签名",
             "examples": []
           }
         ]
@@ -65847,8 +65847,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -73097,25 +73097,25 @@
           {
             "id": "insert-noun-1",
             "definition": "(film) a still picture that is introduced and that interrupts the action of a film",
-            "translation": "插入",
+            "translation": "（电影）插入画面",
             "examples": []
           },
           {
             "id": "insert-noun-2",
             "definition": "(broadcasting) a local announcement inserted into a network program",
-            "translation": "插入",
+            "translation": "（广播）插播广告",
             "examples": []
           },
           {
             "id": "insert-noun-3",
             "definition": "an artifact that is inserted or is to be inserted",
-            "translation": "插入",
+            "translation": "插入物",
             "examples": []
           },
           {
             "id": "insert-noun-4",
             "definition": "a folded section placed between the leaves of another publication",
-            "translation": "插入",
+            "translation": "（书页中的）插页",
             "examples": []
           }
         ]
@@ -73132,13 +73132,13 @@
           {
             "id": "insert-verb-2",
             "definition": "insert casually",
-            "translation": "插入",
+            "translation": "随口插入",
             "examples": []
           },
           {
             "id": "insert-verb-3",
             "definition": "fit snugly into",
-            "translation": "插入",
+            "translation": "（与…）严密配合",
             "examples": [
               {
                 "text": "insert your ticket into the slot",
@@ -73149,7 +73149,7 @@
           {
             "id": "insert-verb-4",
             "definition": "put or introduce into something",
-            "translation": "插入",
+            "translation": "放入；引入",
             "examples": [
               {
                 "text": "insert a picture into the text",
@@ -73179,8 +73179,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -78196,7 +78196,7 @@
           {
             "id": "institute-noun-1",
             "definition": "an association organized to promote art, science, or education",
-            "translation": "机构",
+            "translation": "学会；学院",
             "examples": [
               {
                 "text": "The institute was founded in 1950 to encourage cancer research.",
@@ -78212,7 +78212,7 @@
           {
             "id": "institute-verb-1",
             "definition": "to advance or set forth in court",
-            "translation": "机构",
+            "translation": "（法律）提起；开始",
             "examples": [
               {
                 "text": "The government instituted proceedings.",
@@ -78223,7 +78223,7 @@
           {
             "id": "institute-verb-2",
             "definition": "to set up or lay the groundwork for",
-            "translation": "建立",
+            "translation": "创立；建立",
             "examples": [
               {
                 "text": "The school instituted a policy of no hair dye.",
@@ -78249,8 +78249,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -78285,25 +78285,25 @@
           {
             "id": "institution-noun-1",
             "definition": "the act of starting something for the first time",
-            "translation": "机构",
+            "translation": "创立；建立",
             "examples": []
           },
           {
             "id": "institution-noun-2",
             "definition": "an establishment consisting of a building or complex of buildings where an organization for the promotion of some cause is situated",
-            "translation": "机构",
+            "translation": "机构；公共机构",
             "examples": []
           },
           {
             "id": "institution-noun-3",
             "definition": "a hospital for mentally incompetent or unbalanced person",
-            "translation": "机构",
+            "translation": "精神病院",
             "examples": []
           },
           {
             "id": "institution-noun-4",
             "definition": "a custom that for a long time has been an important feature of some group or society",
-            "translation": "机构",
+            "translation": "风俗；制度",
             "examples": [
               {
                 "text": "the institution of marriage",
@@ -78314,7 +78314,7 @@
           {
             "id": "institution-noun-5",
             "definition": "an organization founded and united for a specific purpose",
-            "translation": "机构",
+            "translation": "（有特定目的的）组织",
             "examples": []
           }
         ]
@@ -78322,8 +78322,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -78715,25 +78715,25 @@
           {
             "id": "instruction-noun-1",
             "definition": "the activities of educating or instructing",
-            "translation": "指令",
+            "translation": "教学；教导",
             "examples": []
           },
           {
             "id": "instruction-noun-2",
             "definition": "the profession of a teacher",
-            "translation": "一个老师的职业",
+            "translation": "教师职业",
             "examples": []
           },
           {
             "id": "instruction-noun-3",
             "definition": "(computer science) a line of code written as part of a computer program",
-            "translation": "指令",
+            "translation": "（计算机）指令",
             "examples": []
           },
           {
             "id": "instruction-noun-4",
             "definition": "a message describing how something is to be done",
-            "translation": "指令",
+            "translation": "操作指南",
             "examples": []
           }
         ]
@@ -78774,8 +78774,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -86326,19 +86326,19 @@
           {
             "id": "interest-noun-1",
             "definition": "a diversion that occupies one's time and thoughts (usually pleasantly)",
-            "translation": "兴趣",
+            "translation": "消遣；爱好",
             "examples": []
           },
           {
             "id": "interest-noun-2",
             "definition": "a reason for wanting something done",
-            "translation": "兴趣",
+            "translation": "利益",
             "examples": []
           },
           {
             "id": "interest-noun-3",
             "definition": "the power of attracting or holding one's attention (because it is unusual or exciting etc.)",
-            "translation": "兴趣",
+            "translation": "吸引力；趣味",
             "examples": [
               {
                 "text": "they said nothing of great interest",
@@ -86349,7 +86349,7 @@
           {
             "id": "interest-noun-4",
             "definition": "a sense of concern with and curiosity about someone or something",
-            "translation": "兴趣",
+            "translation": "兴趣；关注",
             "examples": [
               {
                 "text": "an interest in music",
@@ -86360,7 +86360,7 @@
           {
             "id": "interest-noun-5",
             "definition": "a social group whose members control some field of activity and who have common aims",
-            "translation": "兴趣",
+            "translation": "利益集团",
             "examples": [
               {
                 "text": "The iron interests stepped up production.",
@@ -86371,13 +86371,13 @@
           {
             "id": "interest-noun-6",
             "definition": "(law) a right or legal share of something",
-            "translation": "兴趣",
+            "translation": "（法律）权益；份额",
             "examples": []
           },
           {
             "id": "interest-noun-7",
             "definition": "a fixed charge for borrowing money",
-            "translation": "兴趣",
+            "translation": "利息",
             "examples": []
           }
         ]
@@ -86388,7 +86388,7 @@
           {
             "id": "interest-verb-1",
             "definition": "excite the curiosity of",
-            "translation": "兴趣",
+            "translation": "使感兴趣；引起好奇",
             "examples": [
               {
                 "text": "engage the interest of",
@@ -86399,13 +86399,13 @@
           {
             "id": "interest-verb-2",
             "definition": "be on the mind of",
-            "translation": "兴趣",
+            "translation": "使关心",
             "examples": []
           },
           {
             "id": "interest-verb-3",
             "definition": "be of importance or consequence",
-            "translation": "兴趣",
+            "translation": "重要；有影响",
             "examples": []
           }
         ]
@@ -86654,8 +86654,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -288,7 +288,7 @@
           {
             "id": "vacation-noun-1",
             "definition": "the act of making something legally void",
-            "translation": "制造行为",
+            "translation": "（法律）撤销；宣告无效",
             "examples": []
           },
           {
@@ -310,7 +310,7 @@
           {
             "id": "vacation-verb-1",
             "definition": "spend or take a vacation",
-            "translation": "假期",
+            "translation": "度假",
             "examples": []
           }
         ]
@@ -327,8 +327,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -6248,25 +6248,25 @@
           {
             "id": "vanity-noun-1",
             "definition": "low table with mirror or mirrors where one sits while dressing or applying makeup",
-            "translation": "",
+            "translation": "梳妆台",
             "examples": []
           },
           {
             "id": "vanity-noun-2",
             "definition": "the trait of being unduly vain and conceited",
-            "translation": "",
+            "translation": "虚荣；自负",
             "examples": []
           },
           {
             "id": "vanity-noun-3",
             "definition": "the quality of being valueless or futile",
-            "translation": "",
+            "translation": "无用；无价值",
             "examples": []
           },
           {
             "id": "vanity-noun-4",
             "definition": "feelings of excessive pride",
-            "translation": "",
+            "translation": "过度的骄傲",
             "examples": []
           }
         ]
@@ -6274,8 +6274,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -13358,13 +13358,13 @@
           {
             "id": "vehicle-noun-1",
             "definition": "a conveyance that transports people or objects",
-            "translation": "车辆",
+            "translation": "交通工具；车辆",
             "examples": []
           },
           {
             "id": "vehicle-noun-2",
             "definition": "a medium for the expression or achievement of something",
-            "translation": "车辆",
+            "translation": "（表达或实现某事的）媒介",
             "examples": [
               {
                 "text": "Their editorials provided a vehicle for their political views.",
@@ -13375,7 +13375,7 @@
           {
             "id": "vehicle-noun-3",
             "definition": "any inanimate object, such as a towel, money, or clothing that can transmit infectious agents from one person to another",
-            "translation": "车辆",
+            "translation": "（传染病的）传播媒介",
             "examples": [
               {
                 "text": "The vehicle for the ebola outbreak was discovered to be an unwashed hospital sheet.",
@@ -13386,7 +13386,7 @@
           {
             "id": "vehicle-noun-4",
             "definition": "any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
-            "translation": "车辆",
+            "translation": "（药物等的）赋形剂",
             "examples": []
           }
         ]
@@ -13399,8 +13399,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -13469,25 +13469,25 @@
           {
             "id": "veil-noun-1",
             "definition": "a garment that covers the head and face",
-            "translation": "",
+            "translation": "面纱",
             "examples": []
           },
           {
             "id": "veil-noun-2",
             "definition": "a vestment worn by a priest at High Mass in the Roman Catholic Church",
-            "translation": "",
+            "translation": "（神父用的）祭披",
             "examples": []
           },
           {
             "id": "veil-noun-3",
             "definition": "the inner membrane of embryos in higher vertebrates (especially when covering the head at birth)",
-            "translation": "",
+            "translation": "（胎儿的）胎膜",
             "examples": []
           },
           {
             "id": "veil-noun-4",
             "definition": "a membranous covering attached to the immature fruiting body of certain mushrooms",
-            "translation": "",
+            "translation": "（蘑菇的）菌幕",
             "examples": []
           }
         ]
@@ -13498,13 +13498,13 @@
           {
             "id": "veil-verb-1",
             "definition": "make undecipherable or imperceptible by obscuring or concealing",
-            "translation": "制造",
+            "translation": "遮掩；遮蔽",
             "examples": []
           },
           {
             "id": "veil-verb-2",
             "definition": "to obscure, or conceal with or as if with a veil",
-            "translation": "",
+            "translation": "用面纱遮盖",
             "examples": [
               {
                 "text": "women in Afghanistan veil their faces",
@@ -13517,8 +13517,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -21740,7 +21740,7 @@
           {
             "id": "vertical-adjective-1",
             "definition": "of or relating to different levels in a hierarchy (as levels of social class or income group)",
-            "translation": "团体的",
+            "translation": "（社会阶层的）垂直的",
             "examples": [
               {
                 "text": "vertical social mobility",
@@ -21751,7 +21751,7 @@
           {
             "id": "vertical-adjective-2",
             "definition": "at right angles to the plane of the horizon or a base line",
-            "translation": "垂直的",
+            "translation": "垂直的；竖直的",
             "examples": [
               {
                 "text": "a vertical camera angle",
@@ -21762,13 +21762,13 @@
           {
             "id": "vertical-adjective-3",
             "definition": "upright in position or posture",
-            "translation": "垂直的",
+            "translation": "直立的；竖立的",
             "examples": []
           },
           {
             "id": "vertical-adjective-4",
             "definition": "relating to or involving all stages of a business from production to distribution",
-            "translation": "分配的",
+            "translation": "（商业）从生产到销售的",
             "examples": []
           }
         ]
@@ -21779,13 +21779,13 @@
           {
             "id": "vertical-noun-1",
             "definition": "a vertical structural member as a post or stake",
-            "translation": "垂直的",
+            "translation": "垂直构件；立柱",
             "examples": []
           },
           {
             "id": "vertical-noun-2",
             "definition": "something that is oriented vertically",
-            "translation": "垂直的",
+            "translation": "垂直方向",
             "examples": []
           }
         ]
@@ -21810,8 +21810,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -25355,31 +25355,31 @@
           {
             "id": "vibrate-verb-1",
             "definition": "feel sudden intense sensation or emotion",
-            "translation": "",
+            "translation": "（情感）激动",
             "examples": []
           },
           {
             "id": "vibrate-verb-2",
             "definition": "move or swing from side to side regularly",
-            "translation": "",
+            "translation": "左右摆动",
             "examples": []
           },
           {
             "id": "vibrate-verb-3",
             "definition": "shake, quiver, or throb",
-            "translation": "",
+            "translation": "颤抖；抖动",
             "examples": []
           },
           {
             "id": "vibrate-verb-4",
             "definition": "sound with resonance",
-            "translation": "",
+            "translation": "共鸣；回响",
             "examples": []
           },
           {
             "id": "vibrate-verb-5",
             "definition": "be undecided about something",
-            "translation": "",
+            "translation": "犹豫不决",
             "examples": []
           }
         ]
@@ -25392,8 +25392,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -33436,13 +33436,13 @@
           {
             "id": "virtual-adjective-1",
             "definition": "existing in essence or effect though not in actual fact",
-            "translation": "",
+            "translation": "实质上的；实际上的",
             "examples": []
           },
           {
             "id": "virtual-adjective-2",
             "definition": "being actually such in almost every respect",
-            "translation": "",
+            "translation": "几乎…的；实质上的",
             "examples": []
           }
         ]
@@ -33450,8 +33450,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -34117,7 +34117,7 @@
           {
             "id": "virus-noun-3",
             "definition": "a harmful or corrupting agency",
-            "translation": "有害物；毒害",
+            "translation": "（有害的）影响；毒害",
             "examples": [
               {
                 "text": "bigotry is a virus that must not be allowed to spread",
@@ -34130,8 +34130,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -36693,7 +36693,7 @@
           {
             "id": "vital-adjective-1",
             "definition": "manifesting or characteristic of life",
-            "translation": "至关重要的",
+            "translation": "生命的；有生命特征的",
             "examples": [
               {
                 "text": "a vital, living organism",
@@ -36704,7 +36704,7 @@
           {
             "id": "vital-adjective-2",
             "definition": "full of spirit",
-            "translation": "充满",
+            "translation": "充满活力的",
             "examples": []
           },
           {
@@ -36721,7 +36721,7 @@
           {
             "id": "vital-adjective-4",
             "definition": "urgently needed",
-            "translation": "至关重要的",
+            "translation": "急需的",
             "examples": []
           }
         ]
@@ -36734,8 +36734,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -38463,7 +38463,7 @@
           {
             "id": "vivid-adjective-1",
             "definition": "having the highest saturation of color",
-            "translation": "生动的",
+            "translation": "鲜艳的；饱和度高的",
             "examples": [
               {
                 "text": "The vivid green walls added a playfulness to the room.",
@@ -38474,7 +38474,7 @@
           {
             "id": "vivid-adjective-2",
             "definition": "having striking color",
-            "translation": "生动的",
+            "translation": "醒目的；鲜明的",
             "examples": [
               {
                 "text": "The vivid bird could be seen from far away.",
@@ -38485,7 +38485,7 @@
           {
             "id": "vivid-adjective-3",
             "definition": "having the clarity and freshness of immediate experience",
-            "translation": "生动的",
+            "translation": "生动的；清晰的",
             "examples": [
               {
                 "text": "I have a vivid recollection of the day I was married.",
@@ -38496,7 +38496,7 @@
           {
             "id": "vivid-adjective-4",
             "definition": "evoking lifelike images within the mind",
-            "translation": "生动的",
+            "translation": "（意象）栩栩如生的",
             "examples": [
               {
                 "text": "The vivid writing transported the reader to another world.",
@@ -38509,8 +38509,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

@@ -563,13 +563,13 @@
           {
             "id": "ugly-adjective-1",
             "definition": "provoking horror",
-            "translation": "丑陋的",
+            "translation": "可怕的；恐怖的",
             "examples": []
           },
           {
             "id": "ugly-adjective-2",
             "definition": "displeasing to the senses",
-            "translation": "丑陋的",
+            "translation": "丑陋的；难看的",
             "examples": [
               {
                 "text": "an ugly face",
@@ -580,13 +580,13 @@
           {
             "id": "ugly-adjective-3",
             "definition": "morally reprehensible",
-            "translation": "丑陋的",
+            "translation": "道德败坏的",
             "examples": []
           },
           {
             "id": "ugly-adjective-4",
             "definition": "inclined to anger or bad feelings with overtones of menace",
-            "translation": "丑陋的",
+            "translation": "怒气冲冲的；凶恶的",
             "examples": []
           }
         ]
@@ -594,8 +594,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -46473,19 +46473,19 @@
           {
             "id": "uniform-adjective-1",
             "definition": "not differentiated",
-            "translation": "制服",
+            "translation": "无差别的；一致的",
             "examples": []
           },
           {
             "id": "uniform-adjective-2",
             "definition": "the same throughout in structure or composition",
-            "translation": "制服",
+            "translation": "结构一致的",
             "examples": []
           },
           {
             "id": "uniform-adjective-3",
             "definition": "evenly spaced",
-            "translation": "制服",
+            "translation": "均匀分布的",
             "examples": [
               {
                 "text": "at regular (or uniform) intervals",
@@ -46496,7 +46496,7 @@
           {
             "id": "uniform-adjective-4",
             "definition": "always the same",
-            "translation": "制服",
+            "translation": "始终如一的",
             "examples": []
           }
         ]
@@ -46518,7 +46518,7 @@
           {
             "id": "uniform-verb-1",
             "definition": "provide with uniforms",
-            "translation": "制服",
+            "translation": "穿制服",
             "examples": [
               {
                 "text": "The guards were uniformed",
@@ -46536,8 +46536,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -50607,7 +50607,7 @@
           {
             "id": "unique-adjective-1",
             "definition": "highly unusual or rare but not the single instance",
-            "translation": "独特的",
+            "translation": "不寻常的；少见的",
             "examples": [
               {
                 "text": "spoke with a unique accent",
@@ -50618,19 +50618,19 @@
           {
             "id": "unique-adjective-2",
             "definition": "radically distinctive and without equal",
-            "translation": "根本独特且无与伦比",
+            "translation": "独一无二的；无与伦比的",
             "examples": []
           },
           {
             "id": "unique-adjective-3",
             "definition": "the single one of its kind",
-            "translation": "独特的",
+            "translation": "唯一的",
             "examples": []
           },
           {
             "id": "unique-adjective-4",
             "definition": "(followed by `to') applying exclusively to a given category or condition or locality",
-            "translation": "独特的",
+            "translation": "（某类别）独有的",
             "examples": []
           }
         ]
@@ -50638,8 +50638,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

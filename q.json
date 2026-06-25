@@ -7635,7 +7635,7 @@
           {
             "id": "queer-adjective-1",
             "definition": "beyond or deviating from the usual or expected",
-            "translation": "",
+            "translation": "奇怪的；不寻常的",
             "examples": [
               {
                 "text": "I thought that my boss was strange, but then I met my friend's queer boss and I realized that I had it good.",
@@ -7646,7 +7646,7 @@
           {
             "id": "queer-adjective-2",
             "definition": "homosexual or arousing homosexual desires",
-            "translation": "",
+            "translation": "同性恋的",
             "examples": [
               {
                 "text": "I wonder how diverse the queer community is in the city?",
@@ -7662,7 +7662,7 @@
           {
             "id": "queer-noun-1",
             "definition": "a homosexual man",
-            "translation": "",
+            "translation": "同性恋者",
             "examples": [
               {
                 "text": "Do people often discriminate against people who the believe are queer?",
@@ -7678,7 +7678,7 @@
           {
             "id": "queer-verb-1",
             "definition": "to put in a dangerous, disadvantageous, or difficult position",
-            "translation": "",
+            "translation": "使陷入困境；使难堪",
             "examples": [
               {
                 "text": "Throughout the game of chess my opponent kept queering me.",
@@ -7689,7 +7689,7 @@
           {
             "id": "queer-verb-2",
             "definition": "to hinder or prevent the efforts, plans, or desires of",
-            "translation": "阻碍或防止",
+            "translation": "阻碍；妨碍",
             "examples": [
               {
                 "text": "Should the government queer the advocate's attempts once more a rebellion will probably break out.",
@@ -7700,7 +7700,7 @@
           {
             "id": "queer-verb-3",
             "definition": "to complicate or reframe the analytical categories of, through an analysis of gender, sexuality, and their related power dynamics",
-            "translation": "",
+            "translation": "（酷儿理论中）解构类别",
             "examples": [
               {
                 "text": "Their newly published book queers the discourse on prisons.",
@@ -7722,8 +7722,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

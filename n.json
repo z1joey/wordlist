@@ -8105,13 +8105,13 @@
           {
             "id": "natural-adjective-1",
             "definition": "free from artificiality",
-            "translation": "免于",
+            "translation": "不做作的；自然的",
             "examples": []
           },
           {
             "id": "natural-adjective-2",
             "definition": "being talented through inherited qualities",
-            "translation": "自然的",
+            "translation": "天生的；天赋的",
             "examples": [
               {
                 "text": "a natural leader",
@@ -8122,25 +8122,25 @@
           {
             "id": "natural-adjective-3",
             "definition": "related by blood",
-            "translation": "有血缘关系",
+            "translation": "有血缘关系的",
             "examples": []
           },
           {
             "id": "natural-adjective-4",
             "definition": "in accordance with nature",
-            "translation": "自然的",
+            "translation": "合乎自然的",
             "examples": []
           },
           {
             "id": "natural-adjective-5",
             "definition": "existing in or produced by nature",
-            "translation": "自然的",
+            "translation": "自然界的",
             "examples": []
           },
           {
             "id": "natural-adjective-6",
             "definition": "existing in or in conformity with nature or the observable world",
-            "translation": "自然的",
+            "translation": "自然界存在的",
             "examples": [
               {
                 "text": "neither supernatural nor magical",
@@ -8151,7 +8151,7 @@
           {
             "id": "natural-adjective-7",
             "definition": "(of a musical note) being neither raised nor lowered by one chromatic semitone",
-            "translation": "自然的",
+            "translation": "（音乐）本位的",
             "examples": [
               {
                 "text": "a natural scale",
@@ -8162,13 +8162,13 @@
           {
             "id": "natural-adjective-8",
             "definition": "functioning or occurring in a normal way",
-            "translation": "自然的",
+            "translation": "正常的；通常的",
             "examples": []
           },
           {
             "id": "natural-adjective-9",
             "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes",
-            "translation": "自然的",
+            "translation": "未加工的；天然的",
             "examples": [
               {
                 "text": "natural yogurt",
@@ -8179,7 +8179,7 @@
           {
             "id": "natural-adjective-10",
             "definition": "unthinking",
-            "translation": "自然的",
+            "translation": "未经思考的",
             "examples": []
           }
         ]
@@ -8190,19 +8190,19 @@
           {
             "id": "natural-noun-1",
             "definition": "(craps) a first roll of 7 or 11 that immediately wins the stake",
-            "translation": "自然的",
+            "translation": "（赌博）开局掷出7或11的赢家",
             "examples": []
           },
           {
             "id": "natural-noun-2",
             "definition": "a notation cancelling a previous sharp or flat",
-            "translation": "自然的",
+            "translation": "（音乐）还原号",
             "examples": []
           },
           {
             "id": "natural-noun-3",
             "definition": "someone regarded as certain to succeed",
-            "translation": "自然的",
+            "translation": "天生会成功的人",
             "examples": [
               {
                 "text": "he's a natural for the job",
@@ -8215,8 +8215,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -12418,7 +12418,7 @@
           {
             "id": "neck-noun-1",
             "definition": "an opening in a garment for the neck of the wearer",
-            "translation": "脖子",
+            "translation": "（衣服的）领口",
             "examples": [
               {
                 "text": "a part of the garment near the wearer's neck",
@@ -12429,7 +12429,7 @@
           {
             "id": "neck-noun-2",
             "definition": "a narrow part of an artifact that resembles a neck in position or form",
-            "translation": "脖子",
+            "translation": "（物体的）颈部",
             "examples": [
               {
                 "text": "the banjo had a long neck",
@@ -12440,7 +12440,7 @@
           {
             "id": "neck-noun-3",
             "definition": "the part of an organism, human or animal, that connects the head to the rest of the body",
-            "translation": "脖子",
+            "translation": "脖子；颈部",
             "examples": [
               {
                 "text": "I gazed at the giraffe's long neck.",
@@ -12451,13 +12451,13 @@
           {
             "id": "neck-noun-4",
             "definition": "a cut of meat from the neck of an animal",
-            "translation": "脖子",
+            "translation": "（动物的）颈肉",
             "examples": []
           },
           {
             "id": "neck-noun-5",
             "definition": "a narrow elongated projecting strip of land",
-            "translation": "脖子",
+            "translation": "狭长陆地；地峡",
             "examples": []
           }
         ]
@@ -12468,7 +12468,7 @@
           {
             "id": "neck-verb-1",
             "definition": "kiss, embrace, or fondle with sexual passion",
-            "translation": "脖子",
+            "translation": "拥抱亲吻",
             "examples": [
               {
                 "text": "The couple were necking in the back seat of the car",
@@ -12518,8 +12518,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -20597,19 +20597,19 @@
           {
             "id": "nervous-adjective-1",
             "definition": "unpredictably excitable (especially of horses)",
-            "translation": "紧张的",
+            "translation": "（马）易惊的",
             "examples": []
           },
           {
             "id": "nervous-adjective-2",
             "definition": "excited in anticipation",
-            "translation": "紧张的",
+            "translation": "紧张的；兴奋的",
             "examples": []
           },
           {
             "id": "nervous-adjective-3",
             "definition": "easily agitated",
-            "translation": "紧张的",
+            "translation": "易激动的；焦虑的",
             "examples": [
               {
                 "text": "a nervous addict",
@@ -20620,13 +20620,13 @@
           {
             "id": "nervous-adjective-4",
             "definition": "causing or fraught with or showing anxiety",
-            "translation": "引起焦虑、充满焦虑或表现出焦虑的",
+            "translation": "焦虑的；令人不安的",
             "examples": []
           },
           {
             "id": "nervous-adjective-5",
             "definition": "of or relating to the nervous system",
-            "translation": "系统的",
+            "translation": "神经（系统）的",
             "examples": [
               {
                 "text": "nervous disease",
@@ -20639,8 +20639,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -52377,7 +52377,7 @@
           {
             "id": "normal-adjective-1",
             "definition": "conforming with or constituting a norm or standard or level or type or social norm",
-            "translation": "正常的",
+            "translation": "正常的；正规的",
             "examples": [
               {
                 "text": "not abnormal",
@@ -52388,7 +52388,7 @@
           {
             "id": "normal-adjective-2",
             "definition": "being approximately average or within certain limits in e.g. intelligence and development",
-            "translation": "正常的",
+            "translation": "普通的；智力一般的",
             "examples": [
               {
                 "text": "a perfectly normal child",
@@ -52399,13 +52399,13 @@
           {
             "id": "normal-adjective-3",
             "definition": "in accordance with scientific laws",
-            "translation": "正常的",
+            "translation": "符合科学规律的",
             "examples": []
           },
           {
             "id": "normal-adjective-4",
             "definition": "forming a right angle",
-            "translation": "正常的",
+            "translation": "垂直的；正交的",
             "examples": []
           }
         ]
@@ -52416,7 +52416,7 @@
           {
             "id": "normal-noun-1",
             "definition": "something regarded as a normative example",
-            "translation": "正常的",
+            "translation": "常态；标准",
             "examples": []
           }
         ]
@@ -52461,8 +52461,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -57443,7 +57443,7 @@
           {
             "id": "notice-noun-2",
             "definition": "polite or favorable attention",
-            "translation": "注意",
+            "translation": "礼貌的关注",
             "examples": [
               {
                 "text": "My hard working child soon attracted the teacher's notice.",
@@ -57454,7 +57454,7 @@
           {
             "id": "notice-noun-3",
             "definition": "a short critical review",
-            "translation": "注意",
+            "translation": "短评；评论",
             "examples": [
               {
                 "text": "the play received good notices",
@@ -57465,7 +57465,7 @@
           {
             "id": "notice-noun-4",
             "definition": "an announcement containing information about an event",
-            "translation": "注意",
+            "translation": "公告；通知",
             "examples": [
               {
                 "text": "you didn't give me enough notice",
@@ -57476,19 +57476,19 @@
           {
             "id": "notice-noun-5",
             "definition": "a sign posted in a public place as an advertisement",
-            "translation": "注意",
+            "translation": "海报；告示",
             "examples": []
           },
           {
             "id": "notice-noun-6",
             "definition": "a request for payment",
-            "translation": "注意",
+            "translation": "付款通知",
             "examples": []
           },
           {
             "id": "notice-noun-7",
             "definition": "advance notification (usually written) of the intention to withdraw from an arrangement of contract",
-            "translation": "注意",
+            "translation": "（解除合同的）预先通知",
             "examples": [
               {
                 "text": "we received a notice to vacate the premises",
@@ -57504,25 +57504,25 @@
           {
             "id": "notice-verb-1",
             "definition": "make or write a comment on",
-            "translation": "制造",
+            "translation": "评论",
             "examples": []
           },
           {
             "id": "notice-verb-2",
             "definition": "express recognition of the presence or existence of, or acquaintance with",
-            "translation": "注意",
+            "translation": "认出",
             "examples": []
           },
           {
             "id": "notice-verb-3",
             "definition": "notice or perceive",
-            "translation": "注意",
+            "translation": "注意到",
             "examples": []
           },
           {
             "id": "notice-verb-4",
             "definition": "discover or determine the existence, presence, or fact of",
-            "translation": "注意",
+            "translation": "发现；察觉",
             "examples": []
           }
         ]
@@ -57611,8 +57611,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -61004,37 +61004,37 @@
           {
             "id": "nucleus-noun-1",
             "definition": "the central structure of the lens that is surrounded by the cortex",
-            "translation": "",
+            "translation": "（眼球的）晶状体核",
             "examples": []
           },
           {
             "id": "nucleus-noun-2",
             "definition": "a part of the cell containing DNA and RNA and responsible for growth and reproduction",
-            "translation": "",
+            "translation": "（细胞的）细胞核",
             "examples": []
           },
           {
             "id": "nucleus-noun-3",
             "definition": "any histologically identifiable mass of neural cell bodies in the brain or spinal cord",
-            "translation": "",
+            "translation": "（神经）核",
             "examples": []
           },
           {
             "id": "nucleus-noun-4",
             "definition": "a small group of indispensable persons or things",
-            "translation": "",
+            "translation": "核心；骨干",
             "examples": []
           },
           {
             "id": "nucleus-noun-5",
             "definition": "the positively charged dense center of an atom",
-            "translation": "",
+            "translation": "（原子的）原子核",
             "examples": []
           },
           {
             "id": "nucleus-noun-6",
             "definition": "(astronomy) the center of the head of a comet",
-            "translation": "",
+            "translation": "（彗星的）彗核",
             "examples": []
           }
         ]
@@ -61047,8 +61047,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

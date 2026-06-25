@@ -1812,13 +1812,13 @@
           {
             "id": "lace-noun-1",
             "definition": "a delicate decorative fabric woven in an open web of symmetrical patterns",
-            "translation": "",
+            "translation": "蕾丝；花边",
             "examples": []
           },
           {
             "id": "lace-noun-2",
             "definition": "a cord that is drawn through eyelets or around hooks in order to draw together two edges (as of a shoe or garment)",
-            "translation": "",
+            "translation": "鞋带；系带",
             "examples": []
           }
         ]
@@ -1829,19 +1829,19 @@
           {
             "id": "lace-verb-1",
             "definition": "add alcohol to (beverages)",
-            "translation": "",
+            "translation": "给（饮料）掺酒",
             "examples": []
           },
           {
             "id": "lace-verb-2",
             "definition": "spin,wind, or twist together",
-            "translation": "",
+            "translation": "编织；缠绕",
             "examples": []
           },
           {
             "id": "lace-verb-3",
             "definition": "draw through eyes or holes",
-            "translation": "画",
+            "translation": "穿过（孔眼）",
             "examples": [
               {
                 "text": "lace the shoelaces",
@@ -1852,13 +1852,13 @@
           {
             "id": "lace-verb-4",
             "definition": "do lacework",
-            "translation": "",
+            "translation": "做花边",
             "examples": []
           },
           {
             "id": "lace-verb-5",
             "definition": "make by braiding or interlacing",
-            "translation": "制造",
+            "translation": "编结；交织",
             "examples": [
               {
                 "text": "lace a tablecloth",
@@ -1888,8 +1888,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -5166,19 +5166,19 @@
           {
             "id": "lag-noun-1",
             "definition": "the act of slowing down or falling behind",
-            "translation": "",
+            "translation": "滞后；落后",
             "examples": []
           },
           {
             "id": "lag-noun-2",
             "definition": "one of several thin slats of wood forming the sides of a barrel or bucket",
-            "translation": "",
+            "translation": "（木桶的）板条",
             "examples": []
           },
           {
             "id": "lag-noun-3",
             "definition": "the time between one event, process, or period and another",
-            "translation": "",
+            "translation": "（两个事件之间的）时间间隔",
             "examples": []
           }
         ]
@@ -5189,7 +5189,7 @@
           {
             "id": "lag-verb-1",
             "definition": "cover with lagging to prevent heat loss",
-            "translation": "",
+            "translation": "给…包隔热层",
             "examples": [
               {
                 "text": "lag pipes",
@@ -5200,19 +5200,19 @@
           {
             "id": "lag-verb-2",
             "definition": "throw or pitch at a mark, as with coins",
-            "translation": "",
+            "translation": "投掷（硬币等）",
             "examples": []
           },
           {
             "id": "lag-verb-3",
             "definition": "hang (back) or fall (behind) in movement, progress, development, etc.",
-            "translation": "",
+            "translation": "落后；滞后",
             "examples": []
           },
           {
             "id": "lag-verb-4",
             "definition": "lock up or confine, in or as in a jail",
-            "translation": "",
+            "translation": "关押；监禁",
             "examples": []
           }
         ]
@@ -5253,8 +5253,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -8318,7 +8318,7 @@
           {
             "id": "lamp-noun-2",
             "definition": "a piece of furniture holding one or more electric light bulbs",
-            "translation": "灯",
+            "translation": "灯具",
             "examples": []
           }
         ]
@@ -8326,8 +8326,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -22689,7 +22689,7 @@
           {
             "id": "lay-adjective-1",
             "definition": "not of or from a profession",
-            "translation": "放置",
+            "translation": "外行的；非专业的",
             "examples": [
               {
                 "text": "a lay opinion as to the cause of the disease",
@@ -22700,7 +22700,7 @@
           {
             "id": "lay-adjective-2",
             "definition": "characteristic of those who are not members of the clergy",
-            "translation": "成员的",
+            "translation": "俗人（非神职人员）的",
             "examples": []
           }
         ]
@@ -22711,13 +22711,13 @@
           {
             "id": "lay-noun-1",
             "definition": "a narrative poem of popular origin",
-            "translation": "放置",
+            "translation": "（民间）叙事诗",
             "examples": []
           },
           {
             "id": "lay-noun-2",
             "definition": "a narrative song with a recurrent refrain",
-            "translation": "放置",
+            "translation": "（有叠句的）叙事歌",
             "examples": []
           }
         ]
@@ -22728,13 +22728,13 @@
           {
             "id": "lay-verb-1",
             "definition": "put into a certain place or abstract location",
-            "translation": "放置",
+            "translation": "放置；摆放",
             "examples": []
           },
           {
             "id": "lay-verb-2",
             "definition": "put in a horizontal position",
-            "translation": "放置",
+            "translation": "横放；使躺下",
             "examples": [
               {
                 "text": "lay the books on the table",
@@ -22745,7 +22745,7 @@
           {
             "id": "lay-verb-3",
             "definition": "lay eggs",
-            "translation": "放置",
+            "translation": "下（蛋）",
             "examples": [
               {
                 "text": "This hen doesn't lay",
@@ -22756,7 +22756,7 @@
           {
             "id": "lay-verb-4",
             "definition": "prepare or position for action or operation",
-            "translation": "放置",
+            "translation": "为…做准备",
             "examples": [
               {
                 "text": "lay a fire",
@@ -22767,7 +22767,7 @@
           {
             "id": "lay-verb-5",
             "definition": "impose as a duty, burden, or punishment",
-            "translation": "放置",
+            "translation": "强加（义务、负担、惩罚）",
             "examples": [
               {
                 "text": "lay a responsibility on someone",
@@ -23169,8 +23169,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26040,7 +26040,7 @@
           {
             "id": "leak-noun-2",
             "definition": "the discharge of a fluid from some container",
-            "translation": "渗漏",
+            "translation": "渗漏；泄漏",
             "examples": []
           },
           {
@@ -26057,7 +26057,7 @@
           {
             "id": "leak-noun-4",
             "definition": "an impolite euphemism for urination",
-            "translation": "小便",
+            "translation": "（婉）小便",
             "examples": [
               {
                 "text": "Where's the bathroom? I gotta take a leak.",
@@ -26101,7 +26101,7 @@
           {
             "id": "leak-verb-3",
             "definition": "to divulge or reveal",
-            "translation": "泄露",
+            "translation": "泄露（秘密）",
             "examples": [
               {
                 "text": "The news leaked out despite their secrecy.",
@@ -26162,8 +26162,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -51871,13 +51871,13 @@
           {
             "id": "limb-noun-1",
             "definition": "any projection that is thought to resemble a human arm",
-            "translation": "被认为类似人手臂的任何突出物",
+            "translation": "（像手臂的）突出物",
             "examples": []
           },
           {
             "id": "limb-noun-2",
             "definition": "the graduated arc that is attached to an instrument for measuring angles",
-            "translation": "",
+            "translation": "（仪器的）分度弧",
             "examples": [
               {
                 "text": "the limb of the sextant",
@@ -51888,7 +51888,7 @@
           {
             "id": "limb-noun-3",
             "definition": "either of the two halves of a bow from handle to tip",
-            "translation": "",
+            "translation": "弓臂",
             "examples": [
               {
                 "text": "the upper limb of the bow",
@@ -51899,19 +51899,19 @@
           {
             "id": "limb-noun-4",
             "definition": "one of the jointed appendages of an animal used for locomotion or grasping: arm",
-            "translation": "",
+            "translation": "肢（四肢）",
             "examples": []
           },
           {
             "id": "limb-noun-5",
             "definition": "(astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet",
-            "translation": "",
+            "translation": "（天体的）边缘",
             "examples": []
           },
           {
             "id": "limb-noun-6",
             "definition": "any of the main branches arising from the trunk or a bough of a tree",
-            "translation": "",
+            "translation": "（树的）大枝",
             "examples": []
           }
         ]
@@ -51919,8 +51919,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -55690,19 +55690,19 @@
           {
             "id": "linen-noun-1",
             "definition": "white goods or clothing made with linen cloth",
-            "translation": "",
+            "translation": "亚麻织品",
             "examples": []
           },
           {
             "id": "linen-noun-2",
             "definition": "a fabric woven with fibers from the flax plant",
-            "translation": "",
+            "translation": "亚麻布",
             "examples": []
           },
           {
             "id": "linen-noun-3",
             "definition": "a high-quality paper made of linen fibers or with a linen finish",
-            "translation": "",
+            "translation": "亚麻纸",
             "examples": []
           }
         ]
@@ -55710,8 +55710,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60750,13 +60750,13 @@
           {
             "id": "list-noun-1",
             "definition": "the property possessed by a line or surface that departs from the vertical",
-            "translation": "列表",
+            "translation": "（船的）倾斜",
             "examples": []
           },
           {
             "id": "list-noun-2",
             "definition": "a database containing an ordered array of items (names or topics)",
-            "translation": "列表",
+            "translation": "列表；目录",
             "examples": []
           }
         ]
@@ -60767,25 +60767,25 @@
           {
             "id": "list-verb-1",
             "definition": "give or make a list of",
-            "translation": "列表",
+            "translation": "列出",
             "examples": []
           },
           {
             "id": "list-verb-2",
             "definition": "enumerate",
-            "translation": "列表",
+            "translation": "枚举",
             "examples": []
           },
           {
             "id": "list-verb-3",
             "definition": "tilt to one side",
-            "translation": "列表",
+            "translation": "（船）倾斜",
             "examples": []
           },
           {
             "id": "list-verb-4",
             "definition": "cause to lean to the side",
-            "translation": "列表",
+            "translation": "使倾斜",
             "examples": [
               {
                 "text": "Erosion listed the old tree",
@@ -60796,7 +60796,7 @@
           {
             "id": "list-verb-5",
             "definition": "include in a list",
-            "translation": "列表",
+            "translation": "列入",
             "examples": [
               {
                 "text": "Am I listed in your register?",
@@ -60830,8 +60830,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -63413,7 +63413,7 @@
           {
             "id": "litter-noun-1",
             "definition": "material used to provide a bed for animals",
-            "translation": "垫料",
+            "translation": "（动物的）垫草",
             "examples": []
           },
           {
@@ -63448,13 +63448,13 @@
           {
             "id": "litter-verb-2",
             "definition": "make a place messy by strewing garbage around",
-            "translation": "制造",
+            "translation": "弄乱；到处扔垃圾",
             "examples": []
           },
           {
             "id": "litter-verb-3",
             "definition": "strew",
-            "translation": "乱丢；使杂乱",
+            "translation": "乱丢；使凌乱",
             "examples": [
               {
                 "text": "Cigar butts littered the ground",
@@ -63484,8 +63484,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -72148,7 +72148,7 @@
           {
             "id": "log-noun-1",
             "definition": "measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water",
-            "translation": "",
+            "translation": "测程仪",
             "examples": [
               {
                 "text": "The sailor tossed the log over the side of the ship.",
@@ -72159,7 +72159,7 @@
           {
             "id": "log-noun-2",
             "definition": "a written record of events on a voyage, such as of a ship or plane",
-            "translation": "",
+            "translation": "航海日志；飞行日志",
             "examples": [
               {
                 "text": "I added the passing storm into the ship's log.",
@@ -72170,7 +72170,7 @@
           {
             "id": "log-noun-3",
             "definition": "a written record of messages sent or received",
-            "translation": "",
+            "translation": "（通信）记录",
             "examples": [
               {
                 "text": "They kept a log of all transmission by the radio station.",
@@ -72181,7 +72181,7 @@
           {
             "id": "log-noun-4",
             "definition": "the exponent required to produce a given number, short for logarithm",
-            "translation": "",
+            "translation": "（数学）对数（简写）",
             "examples": [
               {
                 "text": "The log of 8, with base 2, is 3.",
@@ -72192,7 +72192,7 @@
           {
             "id": "log-noun-5",
             "definition": "a segment of the trunk of a tree when stripped of branches",
-            "translation": "",
+            "translation": "原木；圆木",
             "examples": [
               {
                 "text": "There were many logs floating in the river.",
@@ -72208,7 +72208,7 @@
           {
             "id": "log-verb-1",
             "definition": "to enter into a log, as on ships and planes",
-            "translation": "",
+            "translation": "记录",
             "examples": [
               {
                 "text": "I logged our emergency trip to the island.",
@@ -72219,7 +72219,7 @@
           {
             "id": "log-verb-2",
             "definition": "to cut lumber, as in woods and forests",
-            "translation": "",
+            "translation": "伐木",
             "examples": [
               {
                 "text": "I spent my younger days logging pines in Alaska.",
@@ -72269,8 +72269,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -78110,49 +78110,49 @@
           {
             "id": "loop-noun-1",
             "definition": "a flight maneuver",
-            "translation": "",
+            "translation": "（飞行）筋斗",
             "examples": []
           },
           {
             "id": "loop-noun-2",
             "definition": "a complete electrical circuit around which current flows or a signal circulates",
-            "translation": "",
+            "translation": "回路",
             "examples": []
           },
           {
             "id": "loop-noun-3",
             "definition": "fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines",
-            "translation": "",
+            "translation": "（穿绳用的）金属环",
             "examples": []
           },
           {
             "id": "loop-noun-4",
             "definition": "an intrauterine device in the shape of a loop",
-            "translation": "",
+            "translation": "（宫内节育器）节育环",
             "examples": []
           },
           {
             "id": "loop-noun-5",
             "definition": "the topology of a network whose components are serially connected in such a way that the last component is connected to the first component",
-            "translation": "",
+            "translation": "（网络拓扑）环",
             "examples": []
           },
           {
             "id": "loop-noun-6",
             "definition": "a computer program that performs a series of instructions repeatedly until some specified condition is satisfied",
-            "translation": "",
+            "translation": "循环程序",
             "examples": []
           },
           {
             "id": "loop-noun-7",
             "definition": "the basic pattern of the human fingerprint",
-            "translation": "",
+            "translation": "（指纹）环形纹",
             "examples": []
           },
           {
             "id": "loop-noun-8",
             "definition": "an inner circle of advisors",
-            "translation": "",
+            "translation": "内部圈子",
             "examples": [
               {
                 "text": "They are no longer in the loop.",
@@ -78163,13 +78163,13 @@
           {
             "id": "loop-noun-9",
             "definition": "(computer science) a single execution of a set of instructions that are to be repeated",
-            "translation": "",
+            "translation": "（计算机）单次循环",
             "examples": []
           },
           {
             "id": "loop-noun-10",
             "definition": "anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)",
-            "translation": "",
+            "translation": "环形",
             "examples": []
           }
         ]
@@ -78180,7 +78180,7 @@
           {
             "id": "loop-verb-1",
             "definition": "fasten or join with a loop",
-            "translation": "",
+            "translation": "用环连接",
             "examples": [
               {
                 "text": "They looped the watch through their belt.",
@@ -78191,13 +78191,13 @@
           {
             "id": "loop-verb-2",
             "definition": "wind around something in coils or loops",
-            "translation": "",
+            "translation": "缠绕；卷成环",
             "examples": []
           },
           {
             "id": "loop-verb-3",
             "definition": "make a loop in",
-            "translation": "制造",
+            "translation": "使成环",
             "examples": [
               {
                 "text": "loop a rope",
@@ -78208,7 +78208,7 @@
           {
             "id": "loop-verb-4",
             "definition": "fly loops, perform a loop",
-            "translation": "",
+            "translation": "翻筋斗",
             "examples": [
               {
                 "text": "The stunt pilot looped the plane.",
@@ -78219,7 +78219,7 @@
           {
             "id": "loop-verb-5",
             "definition": "move in loops",
-            "translation": "",
+            "translation": "环行；绕行",
             "examples": [
               {
                 "text": "The bicycle looped around the tree",
@@ -78285,8 +78285,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

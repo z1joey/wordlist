@@ -5128,7 +5128,7 @@
           {
             "id": "magic-adjective-1",
             "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
-            "translation": "魔法",
+            "translation": "魔术的；有魔力的",
             "examples": []
           }
         ]
@@ -5139,7 +5139,7 @@
           {
             "id": "magic-noun-1",
             "definition": "an illusory feat",
-            "translation": "魔法",
+            "translation": "戏法；幻术",
             "examples": [
               {
                 "text": "considered magical by naive observers",
@@ -5150,7 +5150,7 @@
           {
             "id": "magic-noun-2",
             "definition": "any art that invokes supernatural powers",
-            "translation": "魔法",
+            "translation": "魔法；巫术",
             "examples": []
           }
         ]
@@ -5163,8 +5163,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -26223,7 +26223,7 @@
           {
             "id": "marble-noun-1",
             "definition": "a small ball of glass that is used in various games",
-            "translation": "玻璃弹珠",
+            "translation": "（游戏用的）玻璃弹珠",
             "examples": []
           },
           {
@@ -26246,7 +26246,7 @@
           {
             "id": "marble-verb-1",
             "definition": "paint or stain like marble",
-            "translation": "油漆",
+            "translation": "把…漆成大理石花纹",
             "examples": [
               {
                 "text": "marble paper",
@@ -26259,8 +26259,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -33873,7 +33873,7 @@
           {
             "id": "mask-noun-1",
             "definition": "activity that tries to conceal something",
-            "translation": "面具",
+            "translation": "伪装",
             "examples": [
               {
                 "text": "No mask could conceal their true intentions.",
@@ -33884,19 +33884,19 @@
           {
             "id": "mask-noun-2",
             "definition": "a covering to disguise or conceal the face",
-            "translation": "面具",
+            "translation": "面具；面罩",
             "examples": []
           },
           {
             "id": "mask-noun-3",
             "definition": "a protective covering worn over the face",
-            "translation": "面具",
+            "translation": "防护面罩",
             "examples": []
           },
           {
             "id": "mask-noun-4",
             "definition": "a party of guests wearing costumes and masks",
-            "translation": "面具",
+            "translation": "化装舞会",
             "examples": []
           }
         ]
@@ -33907,19 +33907,19 @@
           {
             "id": "mask-verb-1",
             "definition": "put a mask on or cover with a mask",
-            "translation": "面具",
+            "translation": "戴面具",
             "examples": []
           },
           {
             "id": "mask-verb-2",
             "definition": "shield from light",
-            "translation": "面具",
+            "translation": "遮光",
             "examples": []
           },
           {
             "id": "mask-verb-3",
             "definition": "cover with a sauce",
-            "translation": "面具",
+            "translation": "用酱料覆盖",
             "examples": [
               {
                 "text": "mask the meat",
@@ -33930,7 +33930,7 @@
           {
             "id": "mask-verb-4",
             "definition": "hide under a false appearance",
-            "translation": "面具",
+            "translation": "掩盖；掩饰",
             "examples": [
               {
                 "text": "They masked their disappointment.",
@@ -33941,7 +33941,7 @@
           {
             "id": "mask-verb-5",
             "definition": "make unrecognizable",
-            "translation": "制造",
+            "translation": "使难以辨认",
             "examples": [
               {
                 "text": "The herb masks the garlic taste",
@@ -33975,8 +33975,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -41247,7 +41247,7 @@
           {
             "id": "mature-adjective-1",
             "definition": "fully considered and perfected",
-            "translation": "成熟的",
+            "translation": "深思熟虑的；完善的",
             "examples": [
               {
                 "text": "mature plans",
@@ -41258,13 +41258,13 @@
           {
             "id": "mature-adjective-2",
             "definition": "(of birds) having developed feathers or plumage",
-            "translation": "成熟的",
+            "translation": "（鸟）羽毛丰满的",
             "examples": []
           },
           {
             "id": "mature-adjective-3",
             "definition": "having reached full natural growth or development",
-            "translation": "成熟的",
+            "translation": "成熟的；发育完全的",
             "examples": [
               {
                 "text": "a mature cell",
@@ -41275,7 +41275,7 @@
           {
             "id": "mature-adjective-4",
             "definition": "characteristic of maturity",
-            "translation": "成熟的",
+            "translation": "有成熟特点的",
             "examples": [
               {
                 "text": "Mature for their age.",
@@ -41286,7 +41286,7 @@
           {
             "id": "mature-adjective-5",
             "definition": "fully developed or matured and ready to be eaten or used",
-            "translation": "成熟的",
+            "translation": "成熟的（可供食用或使用）",
             "examples": []
           }
         ]
@@ -41297,31 +41297,31 @@
           {
             "id": "mature-verb-1",
             "definition": "cause to ripen and discharge pus",
-            "translation": "成熟的",
+            "translation": "化脓；成熟",
             "examples": []
           },
           {
             "id": "mature-verb-2",
             "definition": "grow old or older",
-            "translation": "成熟的",
+            "translation": "变老；成熟",
             "examples": []
           },
           {
             "id": "mature-verb-3",
             "definition": "cause to ripen or develop fully",
-            "translation": "成熟的",
+            "translation": "使成熟",
             "examples": []
           },
           {
             "id": "mature-verb-4",
             "definition": "develop and reach maturity",
-            "translation": "发展",
+            "translation": "成长；达到成熟",
             "examples": []
           },
           {
             "id": "mature-verb-5",
             "definition": "become due for repayment",
-            "translation": "成熟的",
+            "translation": "到期",
             "examples": [
               {
                 "text": "These bonds mature in 2005",
@@ -41332,7 +41332,7 @@
           {
             "id": "mature-verb-6",
             "definition": "develop and work out fully in one's mind",
-            "translation": "发展",
+            "translation": "在脑中成熟；想清楚",
             "examples": [
               {
                 "text": "I need to mature my thoughts",
@@ -41345,8 +41345,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -50371,13 +50371,13 @@
           {
             "id": "medium-adjective-1",
             "definition": "(meat) cooked until there is just a little pink meat inside",
-            "translation": "媒介",
+            "translation": "（肉）半熟的；七分熟的",
             "examples": []
           },
           {
             "id": "medium-adjective-2",
             "definition": "around the middle of a scale of evaluation",
-            "translation": "在评价尺度的中间附近",
+            "translation": "中等程度的",
             "examples": []
           }
         ]
@@ -50388,31 +50388,31 @@
           {
             "id": "medium-noun-1",
             "definition": "an occupation for which you are especially well suited",
-            "translation": "媒介",
+            "translation": "（适合自己的）职业",
             "examples": []
           },
           {
             "id": "medium-noun-2",
             "definition": "an intervening substance through which signals can travel as a means for communication",
-            "translation": "媒介",
+            "translation": "（信号传输的）介质",
             "examples": []
           },
           {
             "id": "medium-noun-3",
             "definition": "a means or instrumentality for storing or communicating information",
-            "translation": "媒介",
+            "translation": "（信息储存的）媒介",
             "examples": []
           },
           {
             "id": "medium-noun-4",
             "definition": "(usually plural) transmissions that are disseminated widely to the public",
-            "translation": "媒介",
+            "translation": "媒体（大众传播）",
             "examples": []
           },
           {
             "id": "medium-noun-5",
             "definition": "the surrounding environment",
-            "translation": "媒介",
+            "translation": "（周围的）环境",
             "examples": [
               {
                 "text": "fish require an aqueous medium",
@@ -50423,7 +50423,7 @@
           {
             "id": "medium-noun-6",
             "definition": "someone who serves as an intermediary between the living and the dead",
-            "translation": "媒介",
+            "translation": "灵媒；巫师",
             "examples": [
               {
                 "text": "The bereaved family consulted several mediums.",
@@ -50434,13 +50434,13 @@
           {
             "id": "medium-noun-7",
             "definition": "a state that is intermediate between extremes",
-            "translation": "媒介",
+            "translation": "中间状态",
             "examples": []
           },
           {
             "id": "medium-noun-8",
             "definition": "an intervening substance through which something is achieved",
-            "translation": "媒介",
+            "translation": "媒介；手段",
             "examples": [
               {
                 "text": "the dissolving medium is called a solvent",
@@ -50451,19 +50451,19 @@
           {
             "id": "medium-noun-9",
             "definition": "(bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms",
-            "translation": "媒介",
+            "translation": "（细菌学）培养基",
             "examples": []
           },
           {
             "id": "medium-noun-10",
             "definition": "(biology) a substance in which specimens are preserved or displayed",
-            "translation": "媒介",
+            "translation": "（生物标本的）保存液",
             "examples": []
           },
           {
             "id": "medium-noun-11",
             "definition": "a liquid with which pigment is mixed by a painter",
-            "translation": "媒介",
+            "translation": "（绘画的）溶剂",
             "examples": []
           }
         ]
@@ -50471,8 +50471,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -101420,13 +101420,13 @@
           {
             "id": "mobile-adjective-1",
             "definition": "affording change (especially in social status)",
-            "translation": "可流动的（社会地位）",
+            "translation": "（社会地位）易变的",
             "examples": []
           },
           {
             "id": "mobile-adjective-2",
             "definition": "capable of changing quickly from one state or condition to another",
-            "translation": "多变的",
+            "translation": "易变的；多变的",
             "examples": [
               {
                 "text": "a highly mobile face",
@@ -101470,7 +101470,7 @@
           {
             "id": "mobile-noun-1",
             "definition": "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents",
-            "translation": "风动艺术雕塑",
+            "translation": "风动艺术雕塑；风铃",
             "examples": []
           }
         ]
@@ -101478,8 +101478,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -104197,13 +104197,13 @@
           {
             "id": "modest-adjective-1",
             "definition": "limited in size or scope",
-            "translation": "谦虚的",
+            "translation": "适度的；不大的",
             "examples": []
           },
           {
             "id": "modest-adjective-2",
             "definition": "not large but sufficient in size or amount",
-            "translation": "谦虚的",
+            "translation": "不大的；适中的",
             "examples": [
               {
                 "text": "a modest salary",
@@ -104214,19 +104214,19 @@
           {
             "id": "modest-adjective-3",
             "definition": "not offensive to sexual mores in conduct or appearance",
-            "translation": "谦虚的",
+            "translation": "端庄的",
             "examples": []
           },
           {
             "id": "modest-adjective-4",
             "definition": "marked by simplicity",
-            "translation": "谦虚的",
+            "translation": "朴素的",
             "examples": []
           },
           {
             "id": "modest-adjective-5",
             "definition": "free from pomp or affectation",
-            "translation": "免于",
+            "translation": "不矫揉造作的",
             "examples": [
               {
                 "text": "comfortable but modest cottages",
@@ -104237,13 +104237,13 @@
           {
             "id": "modest-adjective-6",
             "definition": "humble in spirit or manner",
-            "translation": "谦虚的",
+            "translation": "谦虚的；谦逊的",
             "examples": []
           },
           {
             "id": "modest-adjective-7",
             "definition": "low or inferior in station or quality",
-            "translation": "谦虚的",
+            "translation": "低微的；身份不高的",
             "examples": []
           }
         ]
@@ -104251,8 +104251,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -111393,37 +111393,37 @@
           {
             "id": "monitor-noun-1",
             "definition": "any of various large tropical carnivorous lizards of Africa and Asia and Australia",
-            "translation": "监控",
+            "translation": "巨蜥",
             "examples": []
           },
           {
             "id": "monitor-noun-2",
             "definition": "a piece of electronic equipment that keeps track of the operation of a system continuously and warns of trouble",
-            "translation": "监控",
+            "translation": "监控器",
             "examples": []
           },
           {
             "id": "monitor-noun-3",
             "definition": "electronic equipment that is used to check the quality or content of electronic transmissions",
-            "translation": "监控",
+            "translation": "（质量检查用的）监视器",
             "examples": []
           },
           {
             "id": "monitor-noun-4",
             "definition": "display produced by a device that takes signals and displays them on a television screen or a computer monitor",
-            "translation": "展示",
+            "translation": "（电脑）显示器",
             "examples": []
           },
           {
             "id": "monitor-noun-5",
             "definition": "someone who gives a warning so that a mistake can be avoided",
-            "translation": "监控",
+            "translation": "警告者；监督者",
             "examples": []
           },
           {
             "id": "monitor-noun-6",
             "definition": "someone who supervises (an examination)",
-            "translation": "监控",
+            "translation": "（考试）监考人",
             "examples": []
           }
         ]
@@ -111434,13 +111434,13 @@
           {
             "id": "monitor-verb-1",
             "definition": "keep tabs on",
-            "translation": "监控",
+            "translation": "密切注意",
             "examples": []
           },
           {
             "id": "monitor-verb-2",
             "definition": "check, track, or observe by means of a receiver",
-            "translation": "监控",
+            "translation": "（用接收器）监测",
             "examples": []
           }
         ]
@@ -111461,8 +111461,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -136888,13 +136888,13 @@
           {
             "id": "multiply-verb-1",
             "definition": "have offspring or produce more individuals of a given animal or plant",
-            "translation": "产生；实现",
+            "translation": "繁衍；产生后代",
             "examples": []
           },
           {
             "id": "multiply-verb-2",
             "definition": "have young (animals) or reproduce (organisms)",
-            "translation": "繁殖",
+            "translation": "繁殖（动物）",
             "examples": []
           },
           {
@@ -136937,8 +136937,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -141152,7 +141152,7 @@
           {
             "id": "mushroom-noun-1",
             "definition": "fleshy body of any of numerous edible fungi",
-            "translation": "蘑菇",
+            "translation": "食用蘑菇",
             "examples": []
           },
           {
@@ -141170,13 +141170,13 @@
           {
             "id": "mushroom-noun-4",
             "definition": "mushrooms and related fleshy fungi (including toadstools, puffballs, morels, coral fungi, etc.)",
-            "translation": "蕈类",
+            "translation": "蕈类（含毒蕈）",
             "examples": []
           },
           {
             "id": "mushroom-noun-5",
             "definition": "common name for an edible agaric (contrasting with the inedible toadstool)",
-            "translation": "食用蘑菇",
+            "translation": "食用蘑菇（区别于毒蕈）",
             "examples": []
           }
         ]
@@ -141211,8 +141211,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
