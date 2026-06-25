@@ -13850,7 +13850,7 @@
           {
             "id": "deal-noun-1",
             "definition": "the act of apportioning or distributing something",
-            "translation": "分配",
+            "translation": "分发",
             "examples": [
               {
                 "text": "the captain was entrusted with the deal of provisions",
@@ -13861,7 +13861,7 @@
           {
             "id": "deal-noun-2",
             "definition": "the act of distributing playing cards",
-            "translation": "发牌",
+            "translation": "发牌权",
             "examples": [
               {
                 "text": "the deal was passed around the table clockwise",
@@ -13872,7 +13872,7 @@
           {
             "id": "deal-noun-3",
             "definition": "a particular instance of buying or selling",
-            "translation": "交易",
+            "translation": "买卖",
             "examples": [
               {
                 "text": "it was a package deal",
@@ -13963,7 +13963,7 @@
           {
             "id": "deal-verb-5",
             "definition": "distribute cards to the players in a game",
-            "translation": "发牌",
+            "translation": "分牌",
             "examples": [
               {
                 "text": "Who's dealing?",
@@ -13985,7 +13985,7 @@
           {
             "id": "deal-verb-7",
             "definition": "give out as one's portion or share",
-            "translation": "分配",
+            "translation": "分派",
             "examples": []
           },
           {
@@ -60968,7 +60968,7 @@
           {
             "id": "design-noun-1",
             "definition": "the act of working out the form of something, as by making a sketch or outline or plan",
-            "translation": "构思",
+            "translation": "构想过程",
             "examples": [
               {
                 "text": "We contributed to the design of a new instrument.",
@@ -61046,7 +61046,7 @@
           {
             "id": "design-verb-2",
             "definition": "plan something for a specific role or purpose or effect",
-            "translation": "设计",
+            "translation": "设计制作",
             "examples": [
               {
                 "text": "This room is not designed for work",
@@ -61057,7 +61057,7 @@
           {
             "id": "design-verb-3",
             "definition": "conceive or fashion in the mind",
-            "translation": "构思",
+            "translation": "构思设计",
             "examples": []
           },
           {
@@ -61075,7 +61075,7 @@
           {
             "id": "design-verb-6",
             "definition": "create the design for",
-            "translation": "设计",
+            "translation": "设计创造",
             "examples": []
           },
           {
@@ -120692,7 +120692,7 @@
           {
             "id": "dissolve-noun-1",
             "definition": "(film) a gradual transition from one scene to the next",
-            "translation": "溶入",
+            "translation": "溶解过程",
             "examples": []
           }
         ]
@@ -120753,7 +120753,7 @@
           {
             "id": "dissolve-verb-6",
             "definition": "cause to go into a solution",
-            "translation": "溶入",
+            "translation": "渐入",
             "examples": [
               {
                 "text": "The recipe says that we should dissolve a cup of sugar in two cups of water",

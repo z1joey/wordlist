@@ -6829,13 +6829,13 @@
           {
             "id": "national-adjective-1",
             "definition": "inside the country",
-            "translation": "国家的",
+            "translation": "国内的",
             "examples": []
           },
           {
             "id": "national-adjective-2",
             "definition": "concerned with or applicable to or belonging to an entire nation or country",
-            "translation": "国家的",
+            "translation": "全国的",
             "examples": [
               {
                 "text": "the national government",
@@ -6846,7 +6846,7 @@
           {
             "id": "national-adjective-3",
             "definition": "limited to or in the interests of a particular nation",
-            "translation": "国家的",
+            "translation": "民族的",
             "examples": [
               {
                 "text": "national interests",
@@ -6857,7 +6857,7 @@
           {
             "id": "national-adjective-4",
             "definition": "owned or maintained for the public by the national government",
-            "translation": "国家的",
+            "translation": "国立的",
             "examples": [
               {
                 "text": "national parks",
@@ -6890,7 +6890,7 @@
           {
             "id": "national-adjective-7",
             "definition": "characteristic of or peculiar to the people of a nation",
-            "translation": "国家的",
+            "translation": "民族特有",
             "examples": [
               {
                 "text": "a national trait",
@@ -6906,7 +6906,7 @@
           {
             "id": "national-noun-1",
             "definition": "a person who owes allegiance to that nation",
-            "translation": "国家的",
+            "translation": "国民",
             "examples": []
           }
         ]
@@ -6914,8 +6914,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

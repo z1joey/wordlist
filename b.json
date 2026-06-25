@@ -20015,7 +20015,7 @@
           {
             "id": "bar-noun-9",
             "definition": "the act of preventing",
-            "translation": "阻止",
+            "translation": "栏杆",
             "examples": [
               {
                 "text": "there was no bar against leaving",
@@ -20081,7 +20081,7 @@
           {
             "id": "bar-verb-1",
             "definition": "to prevent from entering",
-            "translation": "阻止",
+            "translation": "阻挡",
             "examples": [
               {
                 "text": "We'll have to bar you from school until next week.",
@@ -111311,7 +111311,7 @@
           {
             "id": "bond-noun-8",
             "definition": "a superior quality of strong durable white writing paper",
-            "translation": "纽带",
+            "translation": "联系",
             "examples": []
           }
         ]
@@ -111333,7 +111333,7 @@
           {
             "id": "bond-verb-2",
             "definition": "to bring together in a common cause or emotion",
-            "translation": "纽带",
+            "translation": "黏合",
             "examples": [
               {
                 "text": "We bonded over our love of football.",
@@ -111344,7 +111344,7 @@
           {
             "id": "bond-verb-3",
             "definition": "to issue bonds on",
-            "translation": "纽带",
+            "translation": "结盟",
             "examples": [
               {
                 "text": "Some new investors bonded the city's municipal fund.",
@@ -111355,7 +111355,7 @@
           {
             "id": "bond-verb-4",
             "definition": "to create social or emotional ties",
-            "translation": "纽带",
+            "translation": "联保",
             "examples": [
               {
                 "text": "The grandparents want to bond with the child.",
@@ -122489,13 +122489,13 @@
           {
             "id": "bounce-noun-2",
             "definition": "the quality of a substance that is able to rebound",
-            "translation": "弹跳",
+            "translation": "活力",
             "examples": []
           },
           {
             "id": "bounce-noun-3",
             "definition": "rebounding from an impact (or series of impacts)",
-            "translation": "弹跳",
+            "translation": "弹力",
             "examples": []
           }
         ]
@@ -122506,7 +122506,7 @@
           {
             "id": "bounce-verb-1",
             "definition": "to hit something so that it bounces",
-            "translation": "弹跳",
+            "translation": "弹起",
             "examples": [
               {
                 "text": "They bounced the ball against the wall annoyingly.",
@@ -122517,7 +122517,7 @@
           {
             "id": "bounce-verb-2",
             "definition": "to eject from the premises",
-            "translation": "弹跳",
+            "translation": "反弹",
             "examples": [
               {
                 "text": "The ex-boxer's job was to bounce people who wanted to enter this private club.",
@@ -122528,7 +122528,7 @@
           {
             "id": "bounce-verb-3",
             "definition": "to spring back",
-            "translation": "春天背",
+            "translation": "使弹起",
             "examples": [
               {
                 "text": "The yo-yo bounced at the end of its string.",
@@ -122539,7 +122539,7 @@
           {
             "id": "bounce-verb-4",
             "definition": "to move up and down repeatedly",
-            "translation": "弹跳",
+            "translation": "跳起",
             "examples": [
               {
                 "text": "I bounced on the bed like a child.",
@@ -122550,7 +122550,7 @@
           {
             "id": "bounce-verb-5",
             "definition": "to leap suddenly",
-            "translation": "跳跃突然",
+            "translation": "退回",
             "examples": [
               {
                 "text": "You bounced to your feet upon hearing the good news.",
@@ -122561,7 +122561,7 @@
           {
             "id": "bounce-verb-6",
             "definition": "to refuse to accept and send back",
-            "translation": "拒绝",
+            "translation": "使振奋",
             "examples": [
               {
                 "text": "The bank bounced my check.",
@@ -122654,8 +122654,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

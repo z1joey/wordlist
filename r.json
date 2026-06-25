@@ -12943,7 +12943,7 @@
           {
             "id": "range-verb-4",
             "definition": "feed as in a meadow or pasture",
-            "translation": "放牧",
+            "translation": "徘徊",
             "examples": []
           },
           {
@@ -49831,7 +49831,7 @@
           {
             "id": "reform-noun-2",
             "definition": "self-improvement in behavior or morals by abandoning some vice",
-            "translation": "改革",
+            "translation": "改过自新",
             "examples": [
               {
                 "text": "the family rejoiced in the drunkard's reform",
@@ -49842,7 +49842,7 @@
           {
             "id": "reform-noun-3",
             "definition": "a campaign aimed to correct abuses or malpractices",
-            "translation": "改革",
+            "translation": "改良运动",
             "examples": [
               {
                 "text": "The reforms we proposed were too radical for the politicians.",
@@ -49858,7 +49858,7 @@
           {
             "id": "reform-verb-1",
             "definition": "change for the better",
-            "translation": "改革",
+            "translation": "改进",
             "examples": [
               {
                 "text": "The lazy student promised to reform",
@@ -49869,7 +49869,7 @@
           {
             "id": "reform-verb-2",
             "definition": "make changes for improvement in order to remove abuse and injustices",
-            "translation": "制造",
+            "translation": "革新",
             "examples": [
               {
                 "text": "reform a political system",
@@ -49880,7 +49880,7 @@
           {
             "id": "reform-verb-3",
             "definition": "improve by alteration or correction of errors or defects and put into a better condition",
-            "translation": "改革",
+            "translation": "纠正",
             "examples": [
               {
                 "text": "reform the health system in this country",
@@ -49891,7 +49891,7 @@
           {
             "id": "reform-verb-4",
             "definition": "break up the molecules of",
-            "translation": "打破",
+            "translation": "重整",
             "examples": [
               {
                 "text": "reform oil",
@@ -49902,7 +49902,7 @@
           {
             "id": "reform-verb-5",
             "definition": "produce by cracking",
-            "translation": "产生；实现",
+            "translation": "裂变生产",
             "examples": [
               {
                 "text": "reform gas",
@@ -49913,7 +49913,7 @@
           {
             "id": "reform-verb-6",
             "definition": "bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one",
-            "translation": "改革",
+            "translation": "感化",
             "examples": [
               {
                 "text": "The Church reformed me",
@@ -49939,8 +49939,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -52099,7 +52099,7 @@
           {
             "id": "refuse-noun-1",
             "definition": "food that is discarded (as from a kitchen)",
-            "translation": "拒绝",
+            "translation": "垃圾",
             "examples": []
           }
         ]
@@ -52110,19 +52110,19 @@
           {
             "id": "refuse-verb-1",
             "definition": "show unwillingness towards",
-            "translation": "展示",
+            "translation": "不愿",
             "examples": []
           },
           {
             "id": "refuse-verb-2",
             "definition": "refuse to let have",
-            "translation": "拒绝",
+            "translation": "拒绝给予",
             "examples": []
           },
           {
             "id": "refuse-verb-3",
             "definition": "refuse to accept",
-            "translation": "拒绝",
+            "translation": "拒收",
             "examples": [
               {
                 "text": "I refused their offer of hospitality.",
@@ -52133,19 +52133,19 @@
           {
             "id": "refuse-verb-4",
             "definition": "refuse entrance or membership",
-            "translation": "拒绝",
+            "translation": "拒绝接纳",
             "examples": []
           },
           {
             "id": "refuse-verb-5",
             "definition": "elude, especially in a baffling way",
-            "translation": "拒绝",
+            "translation": "躲避",
             "examples": []
           },
           {
             "id": "refuse-verb-6",
             "definition": "resist immunologically the introduction of some foreign tissue or organ",
-            "translation": "拒绝",
+            "translation": "排异",
             "examples": []
           }
         ]
@@ -52166,8 +52166,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -52669,31 +52669,31 @@
           {
             "id": "regard-noun-1",
             "definition": "a long fixed look",
-            "translation": "看待",
+            "translation": "注视",
             "examples": []
           },
           {
             "id": "regard-noun-2",
             "definition": "paying particular notice (as to children or helpless people)",
-            "translation": "看待",
+            "translation": "关注",
             "examples": []
           },
           {
             "id": "regard-noun-3",
             "definition": "(usually preceded by `in') a detail or point",
-            "translation": "看待",
+            "translation": "方面",
             "examples": []
           },
           {
             "id": "regard-noun-4",
             "definition": "an attitude of admiration or esteem",
-            "translation": "看待",
+            "translation": "尊重",
             "examples": []
           },
           {
             "id": "regard-noun-5",
             "definition": "a polite expression of desire for someone's welfare, usually plural",
-            "translation": "看待",
+            "translation": "问候",
             "examples": [
               {
                 "text": "Give the family my kind regards.",
@@ -52704,7 +52704,7 @@
           {
             "id": "regard-noun-6",
             "definition": "a feeling of friendship and esteem",
-            "translation": "看待",
+            "translation": "敬意",
             "examples": [
               {
                 "text": "They mistook my regard for love.",
@@ -52715,7 +52715,7 @@
           {
             "id": "regard-noun-7",
             "definition": "the condition of being honored (esteemed or respected or well regarded)",
-            "translation": "看待",
+            "translation": "声誉",
             "examples": []
           }
         ]
@@ -52726,19 +52726,19 @@
           {
             "id": "regard-verb-1",
             "definition": "deem to be",
-            "translation": "看待",
+            "translation": "认为",
             "examples": []
           },
           {
             "id": "regard-verb-2",
             "definition": "look at attentively",
-            "translation": "看",
+            "translation": "凝视",
             "examples": []
           },
           {
             "id": "regard-verb-3",
             "definition": "connect closely and often incriminatingly",
-            "translation": "看待",
+            "translation": "牵涉",
             "examples": []
           }
         ]
@@ -52759,8 +52759,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -55646,7 +55646,7 @@
           {
             "id": "regulation-adjective-1",
             "definition": "prescribed by or according to regulation",
-            "translation": "规定",
+            "translation": "规范的",
             "examples": [
               {
                 "text": "regulation army equipment",
@@ -55662,7 +55662,7 @@
           {
             "id": "regulation-noun-1",
             "definition": "the act of controlling or directing according to rule",
-            "translation": "规定",
+            "translation": "管制",
             "examples": [
               {
                 "text": "fiscal regulations are in the hands of politicians",
@@ -55673,25 +55673,25 @@
           {
             "id": "regulation-noun-2",
             "definition": "the act of bringing to uniformity",
-            "translation": "规定",
+            "translation": "统一化",
             "examples": []
           },
           {
             "id": "regulation-noun-3",
             "definition": "a principle or condition that customarily governs behavior",
-            "translation": "规定",
+            "translation": "规章",
             "examples": []
           },
           {
             "id": "regulation-noun-4",
             "definition": "an authoritative rule",
-            "translation": "规定",
+            "translation": "条例",
             "examples": []
           },
           {
             "id": "regulation-noun-5",
             "definition": "the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered",
-            "translation": "规定",
+            "translation": "发育调节",
             "examples": [
               {
                 "text": "The infection within the womb almost killed the embryo, but regulation ensured it continued uneffected.",
@@ -55702,7 +55702,7 @@
           {
             "id": "regulation-noun-6",
             "definition": "the state of being controlled or governed",
-            "translation": "…的状态",
+            "translation": "受控状态",
             "examples": []
           }
         ]
@@ -55739,8 +55739,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -60166,7 +60166,7 @@
           {
             "id": "relax-verb-1",
             "definition": "cause to feel relaxed",
-            "translation": "放松",
+            "translation": "使放松",
             "examples": [
               {
                 "text": "A hot bath always relaxes me",
@@ -60177,7 +60177,7 @@
           {
             "id": "relax-verb-2",
             "definition": "become less tense, rest, or take one's ease",
-            "translation": "放松",
+            "translation": "休息",
             "examples": [
               {
                 "text": "I relaxed in the hot tub with some friends.",
@@ -60188,13 +60188,13 @@
           {
             "id": "relax-verb-3",
             "definition": "become loose or looser or less tight",
-            "translation": "放松",
+            "translation": "松弛",
             "examples": []
           },
           {
             "id": "relax-verb-4",
             "definition": "make less taut",
-            "translation": "制造",
+            "translation": "使松弛",
             "examples": [
               {
                 "text": "relax the tension on the rope",
@@ -60205,13 +60205,13 @@
           {
             "id": "relax-verb-5",
             "definition": "make less active or fast",
-            "translation": "制造",
+            "translation": "减缓",
             "examples": []
           },
           {
             "id": "relax-verb-6",
             "definition": "become less severe or strict",
-            "translation": "放松",
+            "translation": "放宽",
             "examples": [
               {
                 "text": "The rules relaxed after the new director arrived",
@@ -60222,7 +60222,7 @@
           {
             "id": "relax-verb-7",
             "definition": "make less severe or strict",
-            "translation": "制造",
+            "translation": "缓和",
             "examples": [
               {
                 "text": "The government relaxed the curfew after most of the rebels were caught",
@@ -60233,7 +60233,7 @@
           {
             "id": "relax-verb-8",
             "definition": "become less tense, less formal, or less restrained, and assume a friendlier manner",
-            "translation": "放松",
+            "translation": "变得随和",
             "examples": [
               {
                 "text": "Our new colleague relaxed when they saw that we were a friendly group.",
@@ -60251,8 +60251,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -61837,7 +61837,7 @@
           {
             "id": "relief-noun-1",
             "definition": "the act of reducing something unpleasant",
-            "translation": "缓解",
+            "translation": "宽慰",
             "examples": [
               {
                 "text": "The child asked the nurse for relief from the constant pain.",
@@ -61848,7 +61848,7 @@
           {
             "id": "relief-noun-2",
             "definition": "the act of freeing a city or town that has been besieged",
-            "translation": "缓解",
+            "translation": "救济品",
             "examples": [
               {
                 "text": "We asked for troops for the relief of Atlanta.",
@@ -61870,7 +61870,7 @@
           {
             "id": "relief-noun-4",
             "definition": "assistance in time of difficulty",
-            "translation": "缓解",
+            "translation": "解脱",
             "examples": [
               {
                 "text": "the contributions provided some relief for the victims",
@@ -61881,7 +61881,7 @@
           {
             "id": "relief-noun-5",
             "definition": "sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background",
-            "translation": "缓解",
+            "translation": "减轻",
             "examples": []
           },
           {
@@ -61893,7 +61893,7 @@
           {
             "id": "relief-noun-7",
             "definition": "the feeling that comes when something burdensome is removed or reduced",
-            "translation": "缓解",
+            "translation": "浮雕",
             "examples": [
               {
                 "text": "When I heard the news, I was suddenly flooded with relief.",
@@ -61904,13 +61904,13 @@
           {
             "id": "relief-noun-8",
             "definition": "someone who takes the place of another (as when things get dangerous or difficult)",
-            "translation": "缓解",
+            "translation": "免除",
             "examples": []
           },
           {
             "id": "relief-noun-9",
             "definition": "redress awarded by a court",
-            "translation": "缓解",
+            "translation": "接替",
             "examples": [
               {
                 "text": "Was the relief supposed to be protection from future harm or compensation for past injury?",
@@ -61921,7 +61921,7 @@
           {
             "id": "relief-noun-10",
             "definition": "the condition of being comfortable or relieved, especially after being relieved of distress",
-            "translation": "缓解",
+            "translation": "地势",
             "examples": [
               {
                 "text": "I enjoyed my relief from responsibility while on vacation.",
@@ -61932,7 +61932,7 @@
           {
             "id": "relief-noun-11",
             "definition": "a pause for relaxation",
-            "translation": "缓解",
+            "translation": "慰藉",
             "examples": []
           }
         ]
@@ -61961,8 +61961,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -67513,7 +67513,7 @@
           {
             "id": "render-verb-4",
             "definition": "bestow",
-            "translation": "给予",
+            "translation": "表达",
             "examples": []
           },
           {
@@ -67541,7 +67541,7 @@
           {
             "id": "render-verb-7",
             "definition": "give or supply",
-            "translation": "提供",
+            "translation": "提供帮助",
             "examples": []
           },
           {
@@ -74809,7 +74809,7 @@
           {
             "id": "representative-adjective-1",
             "definition": "being or characteristic of government by representation in which citizens exercise power through elected officers and representatives",
-            "translation": "代表",
+            "translation": "代议制的",
             "examples": [
               {
                 "text": "representative government as defined by Abraham Lincoln is government of the people, by the people, for the people",
@@ -74820,7 +74820,7 @@
           {
             "id": "representative-adjective-2",
             "definition": "standing for something else",
-            "translation": "代表",
+            "translation": "代表性的",
             "examples": [
               {
                 "text": "the bald eagle is representative of the United States",
@@ -74831,7 +74831,7 @@
           {
             "id": "representative-adjective-3",
             "definition": "serving to represent or typify",
-            "translation": "代表",
+            "translation": "典型的",
             "examples": [
               {
                 "text": "representative moviegoers",
@@ -74847,25 +74847,25 @@
           {
             "id": "representative-noun-1",
             "definition": "an item of information that is typical of a class or group",
-            "translation": "代表",
+            "translation": "典型实例",
             "examples": []
           },
           {
             "id": "representative-noun-2",
             "definition": "a member of the United States House of Representatives",
-            "translation": "代表",
+            "translation": "众议员",
             "examples": []
           },
           {
             "id": "representative-noun-3",
             "definition": "a person who represents others",
-            "translation": "代表其他的的人",
+            "translation": "代理人",
             "examples": []
           },
           {
             "id": "representative-noun-4",
             "definition": "an advocate who represents someone else's policy or purpose",
-            "translation": "代表",
+            "translation": "代言人",
             "examples": []
           }
         ]
@@ -74878,8 +74878,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92906,13 +92906,13 @@
           {
             "id": "retreat-noun-1",
             "definition": "the act of withdrawing or going backward (especially to escape something hazardous or unpleasant)",
-            "translation": "撤退",
+            "translation": "退却",
             "examples": []
           },
           {
             "id": "retreat-noun-2",
             "definition": "withdrawal for prayer and study and meditation",
-            "translation": "撤退",
+            "translation": "静修",
             "examples": [
               {
                 "text": "the religious retreat is a form of vacation activity",
@@ -92923,7 +92923,7 @@
           {
             "id": "retreat-noun-3",
             "definition": "(military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat",
-            "translation": "撤退",
+            "translation": "战略撤退",
             "examples": [
               {
                 "text": "the disorderly retreat of French troops",
@@ -92934,19 +92934,19 @@
           {
             "id": "retreat-noun-4",
             "definition": "an area where you can be alone",
-            "translation": "撤退",
+            "translation": "隐居处",
             "examples": []
           },
           {
             "id": "retreat-noun-5",
             "definition": "(military) a bugle call signaling the lowering of the flag at sunset",
-            "translation": "撤退",
+            "translation": "降旗号",
             "examples": []
           },
           {
             "id": "retreat-noun-6",
             "definition": "a signal to begin a withdrawal from a dangerous position",
-            "translation": "撤退",
+            "translation": "撤退信号",
             "examples": [
               {
                 "text": "With the battle going badly, the commander sounded the retreat.",
@@ -92957,7 +92957,7 @@
           {
             "id": "retreat-noun-7",
             "definition": "a place of privacy",
-            "translation": "撤退",
+            "translation": "静居所",
             "examples": []
           }
         ]
@@ -92968,25 +92968,25 @@
           {
             "id": "retreat-verb-1",
             "definition": "make a retreat from an earlier commitment or activity",
-            "translation": "制造",
+            "translation": "退出",
             "examples": []
           },
           {
             "id": "retreat-verb-2",
             "definition": "pull back or move away or backward",
-            "translation": "拉",
+            "translation": "后退",
             "examples": []
           },
           {
             "id": "retreat-verb-3",
             "definition": "move back",
-            "translation": "撤退",
+            "translation": "退守",
             "examples": []
           },
           {
             "id": "retreat-verb-4",
             "definition": "move away, as for privacy",
-            "translation": "撤退",
+            "translation": "退避",
             "examples": [
               {
                 "text": "The Pope retreats to Castelgondolfo every summer",
@@ -93012,8 +93012,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -119422,7 +119422,7 @@
           {
             "id": "rock-noun-1",
             "definition": "pitching dangerously to one side",
-            "translation": "岩石",
+            "translation": "剧烈摇晃",
             "examples": [
               {
                 "text": "The rock of the boat was making me feel ill.",
@@ -119433,7 +119433,7 @@
           {
             "id": "rock-noun-2",
             "definition": "a genre of popular music originating in the 1950s, usually featuring an electric guitar",
-            "translation": "岩石",
+            "translation": "摇滚乐",
             "examples": [
               {
                 "text": "I usually listen to rock on the weekends.",
@@ -119444,7 +119444,7 @@
           {
             "id": "rock-noun-3",
             "definition": "hard bright-colored stick candy, typically flavored with peppermint",
-            "translation": "岩石",
+            "translation": "硬棒糖",
             "examples": [
               {
                 "text": "I bought some rock at the beach.",
@@ -119466,7 +119466,7 @@
           {
             "id": "rock-noun-5",
             "definition": "someone who is strong and stable and dependable, figuratively",
-            "translation": "岩石",
+            "translation": "支柱",
             "examples": [
               {
                 "text": "You've always been a rock in my life and I really appreciate that.",
@@ -119477,7 +119477,7 @@
           {
             "id": "rock-noun-6",
             "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust",
-            "translation": "岩石",
+            "translation": "石料",
             "examples": [
               {
                 "text": "That mountain is solid rock – probably granite, in fact.",
@@ -119488,7 +119488,7 @@
           {
             "id": "rock-noun-7",
             "definition": "a diamond or other gemstone",
-            "translation": "岩石",
+            "translation": "宝石",
             "examples": [
               {
                 "text": "Did you see the rock on that ring?",
@@ -119499,7 +119499,7 @@
           {
             "id": "rock-noun-8",
             "definition": "a lump of ice, usually for drinks",
-            "translation": "岩石",
+            "translation": "冰块",
             "examples": [
               {
                 "text": "Can you add a couple of rocks to my whiskey?",
@@ -119515,7 +119515,7 @@
           {
             "id": "rock-verb-1",
             "definition": "to move back and forth or sideways",
-            "translation": "后退",
+            "translation": "来回摆动",
             "examples": [
               {
                 "text": "The ship was rocking, throwing me off balance.",
@@ -119526,7 +119526,7 @@
           {
             "id": "rock-verb-2",
             "definition": "to cause to move back and forth",
-            "translation": "使移动",
+            "translation": "使摇晃",
             "examples": [
               {
                 "text": "I rocked the cradle to put the baby to sleep.",
@@ -119560,8 +119560,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -121616,7 +121616,7 @@
           {
             "id": "roll-noun-2",
             "definition": "a flight maneuver",
-            "translation": "翻滚",
+            "translation": "翻滚动作",
             "examples": []
           },
           {
@@ -121793,7 +121793,7 @@
           {
             "id": "roll-verb-9",
             "definition": "execute a roll, in tumbling",
-            "translation": "翻滚",
+            "translation": "翻来覆去",
             "examples": [
               {
                 "text": "The gymnasts rolled and jumped",
@@ -133731,7 +133731,7 @@
           {
             "id": "rubber-adjective-1",
             "definition": "returned for lack of funds",
-            "translation": "橡胶",
+            "translation": "退回的",
             "examples": [
               {
                 "text": "a rubber check",
@@ -133747,31 +133747,31 @@
           {
             "id": "rubber-noun-1",
             "definition": "a waterproof overshoe that protects shoes from water or snow",
-            "translation": "保护鞋子免受水或雪侵害的防水套鞋",
+            "translation": "橡胶套鞋",
             "examples": []
           },
           {
             "id": "rubber-noun-2",
             "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse",
-            "translation": "橡胶",
+            "translation": "避孕套",
             "examples": []
           },
           {
             "id": "rubber-noun-3",
             "definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber)",
-            "translation": "橡胶",
+            "translation": "橡皮擦",
             "examples": []
           },
           {
             "id": "rubber-noun-4",
             "definition": "an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products",
-            "translation": "橡胶",
+            "translation": "天然橡胶",
             "examples": []
           },
           {
             "id": "rubber-noun-5",
             "definition": "any of various synthetic elastic materials whose properties resemble natural rubber",
-            "translation": "橡胶",
+            "translation": "合成橡胶",
             "examples": []
           }
         ]
@@ -133782,7 +133782,7 @@
           {
             "id": "rubber-verb-1",
             "definition": "coat or impregnate with rubber",
-            "translation": "橡胶",
+            "translation": "涂橡胶",
             "examples": [
               {
                 "text": "rubberize fabric for rain coats",
@@ -133800,8 +133800,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

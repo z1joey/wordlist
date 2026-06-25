@@ -5147,13 +5147,13 @@
           {
             "id": "observe-verb-1",
             "definition": "stick to correctly or closely",
-            "translation": "观察",
+            "translation": "遵守",
             "examples": []
           },
           {
             "id": "observe-verb-2",
             "definition": "make mention of",
-            "translation": "制造",
+            "translation": "提及",
             "examples": [
               {
                 "text": "I observed that the presentation took up more time than it was worth.",
@@ -5164,19 +5164,19 @@
           {
             "id": "observe-verb-3",
             "definition": "observe with care or pay close attention to",
-            "translation": "观察",
+            "translation": "仔细观察",
             "examples": []
           },
           {
             "id": "observe-verb-4",
             "definition": "discover or determine the existence, presence, or fact of",
-            "translation": "观察",
+            "translation": "发现",
             "examples": []
           },
           {
             "id": "observe-verb-5",
             "definition": "watch attentively",
-            "translation": "手表",
+            "translation": "注视",
             "examples": [
               {
                 "text": "Please observe the reaction of these two chemicals",
@@ -5187,25 +5187,25 @@
           {
             "id": "observe-verb-6",
             "definition": "follow with the eyes or the mind",
-            "translation": "观察",
+            "translation": "留意",
             "examples": []
           },
           {
             "id": "observe-verb-7",
             "definition": "show respect towards",
-            "translation": "通过尊重朝展示",
+            "translation": "表达敬意",
             "examples": []
           },
           {
             "id": "observe-verb-8",
             "definition": "behave as expected during of holidays or rites",
-            "translation": "观察",
+            "translation": "庆祝",
             "examples": []
           },
           {
             "id": "observe-verb-9",
             "definition": "conform one's action or practice to",
-            "translation": "观察",
+            "translation": "奉行",
             "examples": []
           }
         ]
@@ -5222,8 +5222,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -29731,13 +29731,13 @@
           {
             "id": "opposite-adjective-1",
             "definition": "of leaves etc",
-            "translation": "离开的",
+            "translation": "对生的",
             "examples": []
           },
           {
             "id": "opposite-adjective-2",
             "definition": "characterized by opposite extremes",
-            "translation": "以…为特征",
+            "translation": "截然不同的",
             "examples": []
           },
           {
@@ -29754,7 +29754,7 @@
           {
             "id": "opposite-adjective-4",
             "definition": "the other one of a complementary pair",
-            "translation": "相反的",
+            "translation": "互补的",
             "examples": [
               {
                 "text": "the opposite sex",
@@ -29765,13 +29765,13 @@
           {
             "id": "opposite-adjective-5",
             "definition": "being directly across from each other",
-            "translation": "相反的",
+            "translation": "正对面的",
             "examples": []
           },
           {
             "id": "opposite-adjective-6",
             "definition": "moving or facing away from each other",
-            "translation": "相反的",
+            "translation": "背对的",
             "examples": [
               {
                 "text": "looking in opposite directions",
@@ -29787,7 +29787,7 @@
           {
             "id": "opposite-adverb-1",
             "definition": "directly facing each other",
-            "translation": "相反的",
+            "translation": "面对面地",
             "examples": []
           }
         ]
@@ -29798,25 +29798,25 @@
           {
             "id": "opposite-noun-1",
             "definition": "a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other",
-            "translation": "表达与另一个词意义相反的词，在这种情况下这两个词互为反义词",
+            "translation": "反义词",
             "examples": []
           },
           {
             "id": "opposite-noun-2",
             "definition": "a contestant that you are matched against",
-            "translation": "相反的",
+            "translation": "对手",
             "examples": []
           },
           {
             "id": "opposite-noun-3",
             "definition": "a relation of direct opposition",
-            "translation": "相反的",
+            "translation": "对立",
             "examples": []
           },
           {
             "id": "opposite-noun-4",
             "definition": "something inverted in sequence or character or effect",
-            "translation": "相反的",
+            "translation": "反面",
             "examples": []
           }
         ]
@@ -29837,8 +29837,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

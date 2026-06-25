@@ -49891,7 +49891,7 @@
           {
             "id": "union-adjective-1",
             "definition": "being of or having to do with the northern United States and those loyal to the Union during the American Civil War",
-            "translation": "联盟",
+            "translation": "工会的",
             "examples": [
               {
                 "text": "Union soldiers",
@@ -49929,8 +49929,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -49995,7 +49995,7 @@
           {
             "id": "union-noun-2",
             "definition": "the act of pairing a male and female for reproductive purposes",
-            "translation": "联盟",
+            "translation": "交配",
             "examples": [
               {
                 "text": "The union at the zoo between the two tigers was a success.",
@@ -50006,7 +50006,7 @@
           {
             "id": "union-noun-3",
             "definition": "the occurrence of a uniting of separate parts",
-            "translation": "联盟",
+            "translation": "联合行动",
             "examples": [
               {
                 "text": "Lightning produced an unusual union of the metals.",
@@ -50017,7 +50017,7 @@
           {
             "id": "union-noun-4",
             "definition": "a set containing all and only the members of two or more given sets",
-            "translation": "联盟",
+            "translation": "并集",
             "examples": [
               {
                 "text": "Let C be the union of the sets A and B.",
@@ -50028,7 +50028,7 @@
           {
             "id": "union-noun-5",
             "definition": "an organization of employees formed to bargain with the employer",
-            "translation": "联盟",
+            "translation": "工会",
             "examples": [
               {
                 "text": "You have to join the union in order to get a job.",
@@ -50039,7 +50039,7 @@
           {
             "id": "union-noun-6",
             "definition": "a political unit formed from previously independent people or organizations",
-            "translation": "联盟",
+            "translation": "联邦",
             "examples": [
               {
                 "text": "The union between the conservatives and the liberals did not last long.",
@@ -50050,7 +50050,7 @@
           {
             "id": "union-noun-7",
             "definition": "healing process involving the growing together of the edges of a wound or the growing together of broken bones",
-            "translation": "联盟",
+            "translation": "愈合",
             "examples": [
               {
                 "text": "The union of the tibia lasted around one month.",
@@ -50061,7 +50061,7 @@
           {
             "id": "union-noun-8",
             "definition": "the state of being a married couple voluntarily joined for life or until divorce",
-            "translation": "…的状态",
+            "translation": "婚姻状态",
             "examples": [
               {
                 "text": "We came into this union with few possessions and now look at us.",
@@ -50072,7 +50072,7 @@
           {
             "id": "union-noun-9",
             "definition": "the state of being joined or united or linked",
-            "translation": "…的状态",
+            "translation": "联合状态",
             "examples": [
               {
                 "text": "There is strength in union.",
@@ -50110,8 +50110,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -51729,13 +51729,13 @@
           {
             "id": "universal-adjective-1",
             "definition": "of worldwide scope or applicability",
-            "translation": "范围的",
+            "translation": "全球的",
             "examples": []
           },
           {
             "id": "universal-adjective-2",
             "definition": "adapted to various purposes, sizes, forms, operations",
-            "translation": "普遍的",
+            "translation": "通用的",
             "examples": [
               {
                 "text": "universal wrench, universal chuck",
@@ -51762,7 +51762,7 @@
           {
             "id": "universal-noun-1",
             "definition": "coupling that connects two rotating shafts allowing freedom of movement in all directions",
-            "translation": "普遍的",
+            "translation": "万向节",
             "examples": [
               {
                 "text": "in motor vehicles a universal joint allows the driveshaft to move up and down as the vehicle passes over bumps",
@@ -51773,7 +51773,7 @@
           {
             "id": "universal-noun-2",
             "definition": "a behavioral convention or pattern characteristic of all members of a particular culture or of all human beings",
-            "translation": "普遍的",
+            "translation": "普遍现象",
             "examples": [
               {
                 "text": "some form of religion seems to be a human universal",
@@ -51784,13 +51784,13 @@
           {
             "id": "universal-noun-3",
             "definition": "(logic) a proposition that asserts something of all members of a class",
-            "translation": "普遍的",
+            "translation": "全称命题",
             "examples": []
           },
           {
             "id": "universal-noun-4",
             "definition": "(linguistics) a grammatical rule (or other linguistic feature) that is found in all languages",
-            "translation": "普遍的",
+            "translation": "普遍语法规则",
             "examples": []
           }
         ]
@@ -51803,8 +51803,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": "2026-06-23"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -94177,13 +94177,13 @@
           {
             "id": "upset-verb-5",
             "definition": "cause to lose one's composure",
-            "translation": "使心烦意乱",
+            "translation": "使心烦",
             "examples": []
           },
           {
             "id": "upset-verb-6",
             "definition": "cause to overturn from an upright or normal position",
-            "translation": "推翻；弄翻",
+            "translation": "弄翻",
             "examples": []
           }
         ]

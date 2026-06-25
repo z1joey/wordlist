@@ -59567,7 +59567,7 @@
           {
             "id": "grace-noun-1",
             "definition": "a disposition to kindness and compassion",
-            "translation": "优雅",
+            "translation": "仁慈",
             "examples": [
               {
                 "text": "the victor's grace in treating the vanquished",
@@ -59578,7 +59578,7 @@
           {
             "id": "grace-noun-2",
             "definition": "(Christian theology) the free and unmerited favor or beneficence of God",
-            "translation": "优雅",
+            "translation": "恩典",
             "examples": [
               {
                 "text": "God's grace is manifested in the salvation of sinners",
@@ -59589,7 +59589,7 @@
           {
             "id": "grace-noun-3",
             "definition": "a sense of propriety and consideration for others",
-            "translation": "优雅",
+            "translation": "礼貌",
             "examples": [
               {
                 "text": "a place where the company of others must be accepted with good grace",
@@ -59611,7 +59611,7 @@
           {
             "id": "grace-noun-5",
             "definition": "a short prayer of thanks before a meal",
-            "translation": "优雅",
+            "translation": "谢恩祷告",
             "examples": [
               {
                 "text": "their youngest son said grace",
@@ -59622,7 +59622,7 @@
           {
             "id": "grace-noun-6",
             "definition": "(Christian theology) a state of sanctification by God",
-            "translation": "优雅",
+            "translation": "神恩",
             "examples": []
           }
         ]
@@ -59633,13 +59633,13 @@
           {
             "id": "grace-verb-1",
             "definition": "make more attractive by adding ornament, colour, etc.",
-            "translation": "制造",
+            "translation": "装饰",
             "examples": []
           },
           {
             "id": "grace-verb-2",
             "definition": "be beautiful to look at",
-            "translation": "优雅",
+            "translation": "为...增色",
             "examples": []
           }
         ]
@@ -59656,8 +59656,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -62633,13 +62633,13 @@
           {
             "id": "grand-adjective-1",
             "definition": "used of a person's appearance or behavior",
-            "translation": "宏伟的",
+            "translation": "高贵的",
             "examples": []
           },
           {
             "id": "grand-adjective-2",
             "definition": "the most important and magnificent in adornment",
-            "translation": "宏伟的",
+            "translation": "豪华的",
             "examples": [
               {
                 "text": "grand ballroom",
@@ -62650,13 +62650,13 @@
           {
             "id": "grand-adjective-3",
             "definition": "of behavior that is impressive and ambitious in scale or scope",
-            "translation": "范围的",
+            "translation": "宏大的",
             "examples": []
           },
           {
             "id": "grand-adjective-4",
             "definition": "large and impressive in physical size or extent",
-            "translation": "宏伟的",
+            "translation": "壮观的",
             "examples": [
               {
                 "text": "the bridge is a grand structure",
@@ -62667,25 +62667,25 @@
           {
             "id": "grand-adjective-5",
             "definition": "of high moral or intellectual value",
-            "translation": "价值的",
+            "translation": "崇高的",
             "examples": []
           },
           {
             "id": "grand-adjective-6",
             "definition": "of or befitting a lord",
-            "translation": "适合贵族的",
+            "translation": "贵族的",
             "examples": []
           },
           {
             "id": "grand-adjective-7",
             "definition": "extraordinarily good or great",
-            "translation": "宏伟的",
+            "translation": "了不起的",
             "examples": []
           },
           {
             "id": "grand-adjective-8",
             "definition": "rich and superior in quality",
-            "translation": "宏伟的",
+            "translation": "高档的",
             "examples": []
           }
         ]
@@ -62696,13 +62696,13 @@
           {
             "id": "grand-noun-1",
             "definition": "a piano with the strings on a horizontal harp-shaped frame",
-            "translation": "宏伟的",
+            "translation": "三角钢琴",
             "examples": []
           },
           {
             "id": "grand-noun-2",
             "definition": "the cardinal number that is the product of 10 and 100",
-            "translation": "宏伟的",
+            "translation": "一千",
             "examples": []
           }
         ]
@@ -62710,8 +62710,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -74608,19 +74608,19 @@
           {
             "id": "grind-noun-1",
             "definition": "the act of grinding to a powder or dust",
-            "translation": "磨碎",
+            "translation": "碾磨",
             "examples": []
           },
           {
             "id": "grind-noun-2",
             "definition": "hard monotonous routine work",
-            "translation": "磨碎",
+            "translation": "苦差事",
             "examples": []
           },
           {
             "id": "grind-noun-3",
             "definition": "the grade of particle fineness to which a substance is ground",
-            "translation": "磨碎",
+            "translation": "研磨度",
             "examples": [
               {
                 "text": "a coarse grind of coffee",
@@ -74631,7 +74631,7 @@
           {
             "id": "grind-noun-4",
             "definition": "an insignificant student who is ridiculed as being affected or boringly studious",
-            "translation": "磨碎",
+            "translation": "书呆子",
             "examples": []
           }
         ]
@@ -74642,7 +74642,7 @@
           {
             "id": "grind-verb-1",
             "definition": "reduce to small pieces or particles by pounding or abrading",
-            "translation": "磨碎",
+            "translation": "碾碎",
             "examples": [
               {
                 "text": "grind the spices in a mortar",
@@ -74653,19 +74653,19 @@
           {
             "id": "grind-verb-2",
             "definition": "make a grating or grinding sound by rubbing together",
-            "translation": "制造",
+            "translation": "磨得嘎嘎响",
             "examples": []
           },
           {
             "id": "grind-verb-3",
             "definition": "press or grind with a crushing noise",
-            "translation": "按",
+            "translation": "嘎吱嘎吱挤压",
             "examples": []
           },
           {
             "id": "grind-verb-4",
             "definition": "shape or form by grinding",
-            "translation": "形状",
+            "translation": "磨出形状",
             "examples": [
               {
                 "text": "grind lenses for glasses and cameras",
@@ -74676,7 +74676,7 @@
           {
             "id": "grind-verb-5",
             "definition": "created by grinding",
-            "translation": "磨碎",
+            "translation": "磨成的",
             "examples": [
               {
                 "text": "grind designs into the glass bowl",
@@ -74687,13 +74687,13 @@
           {
             "id": "grind-verb-6",
             "definition": "dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced",
-            "translation": "磨碎",
+            "translation": "扭摆舞",
             "examples": []
           },
           {
             "id": "grind-verb-7",
             "definition": "work hard",
-            "translation": "磨碎",
+            "translation": "苦干",
             "examples": []
           }
         ]
@@ -74782,8 +74782,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

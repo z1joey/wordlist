@@ -1392,7 +1392,7 @@
           {
             "id": "jacket-noun-1",
             "definition": "in dentistry, a dental appliance consisting of an artificial crown for a broken or decayed tooth",
-            "translation": "夹克",
+            "translation": "牙套",
             "examples": [
               {
                 "text": "I got a new jacket last week and my tooth feels so much better.",
@@ -1403,7 +1403,7 @@
           {
             "id": "jacket-noun-2",
             "definition": "a short coat",
-            "translation": "夹克",
+            "translation": "短外套",
             "examples": [
               {
                 "text": "You will need to wear a jacket, because it is below freezing outside.",
@@ -1414,7 +1414,7 @@
           {
             "id": "jacket-noun-3",
             "definition": "an outer wrapping or casing",
-            "translation": "夹克",
+            "translation": "外包装",
             "examples": [
               {
                 "text": "Phonograph records were sold in cardboard jackets.",
@@ -1425,7 +1425,7 @@
           {
             "id": "jacket-noun-4",
             "definition": "the tough metal shell casing for certain kinds of ammunition",
-            "translation": "夹克",
+            "translation": "弹壳",
             "examples": [
               {
                 "text": "This ammunition has a full metal jacket.",
@@ -1436,7 +1436,7 @@
           {
             "id": "jacket-noun-5",
             "definition": "the outer skin of a potato",
-            "translation": "一个土豆的外部的皮肤",
+            "translation": "土豆皮",
             "examples": [
               {
                 "text": "Wash the jackets before you boil the potatoes.",
@@ -1452,7 +1452,7 @@
           {
             "id": "jacket-verb-1",
             "definition": "to put a jacket on",
-            "translation": "夹克",
+            "translation": "给...穿夹克",
             "examples": [
               {
                 "text": "I jacketed the kids before we went skiing.",
@@ -1463,7 +1463,7 @@
           {
             "id": "jacket-verb-2",
             "definition": "to provide with a thermally non-conducting cover",
-            "translation": "夹克",
+            "translation": "加保温层",
             "examples": [
               {
                 "text": "The tubing needs to be jacketed.",
@@ -1481,8 +1481,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

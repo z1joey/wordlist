@@ -28531,19 +28531,19 @@
           {
             "id": "wheel-noun-1",
             "definition": "a wheeled vehicle that has two wheels and is moved by foot pedals",
-            "translation": "两轮车辆",
+            "translation": "自行车",
             "examples": []
           },
           {
             "id": "wheel-noun-2",
             "definition": "an instrument of torture that stretches or disjoints or mutilates victims",
-            "translation": "轮子",
+            "translation": "刑车",
             "examples": []
           },
           {
             "id": "wheel-noun-3",
             "definition": "game equipment consisting of a wheel with slots that is used for gambling",
-            "translation": "轮子",
+            "translation": "赌博转盘",
             "examples": [
               {
                 "text": "the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
@@ -28554,25 +28554,25 @@
           {
             "id": "wheel-noun-4",
             "definition": "a handwheel that is used for steering",
-            "translation": "轮子",
+            "translation": "方向盘",
             "examples": []
           },
           {
             "id": "wheel-noun-5",
             "definition": "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
-            "translation": "轮子",
+            "translation": "轮",
             "examples": []
           },
           {
             "id": "wheel-noun-6",
             "definition": "a circular helm to control the rudder of a vessel",
-            "translation": "轮子",
+            "translation": "舵轮",
             "examples": []
           },
           {
             "id": "wheel-noun-7",
             "definition": "forces that provide energy and direction",
-            "translation": "轮子",
+            "translation": "动力",
             "examples": [
               {
                 "text": "the wheels of government began to turn",
@@ -28588,19 +28588,19 @@
           {
             "id": "wheel-verb-1",
             "definition": "move along on or as if on wheels or a wheeled vehicle",
-            "translation": "轮子",
+            "translation": "滚动",
             "examples": []
           },
           {
             "id": "wheel-verb-2",
             "definition": "ride a bicycle",
-            "translation": "轮子",
+            "translation": "骑自行车",
             "examples": []
           },
           {
             "id": "wheel-verb-3",
             "definition": "change directions as if revolving on a pivot",
-            "translation": "轮子",
+            "translation": "转向",
             "examples": [
               {
                 "text": "They wheeled their horses around and left",
@@ -28611,7 +28611,7 @@
           {
             "id": "wheel-verb-4",
             "definition": "wheel somebody or something",
-            "translation": "轮子",
+            "translation": "推轮椅",
             "examples": []
           }
         ]
@@ -28640,8 +28640,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -43294,7 +43294,7 @@
           {
             "id": "wing-noun-10",
             "definition": "(in flight formation) a position to the side and just to the rear of another aircraft",
-            "translation": "僚机位置",
+            "translation": "僚机位",
             "examples": []
           },
           {
@@ -43311,7 +43311,7 @@
           {
             "id": "wing-verb-1",
             "definition": "travel through the air",
-            "translation": "飞翔",
+            "translation": "飞行",
             "examples": []
           }
         ]

@@ -10299,13 +10299,13 @@
           {
             "id": "major-adjective-1",
             "definition": "of the elder of two boys with the same family name",
-            "translation": "名字的",
+            "translation": "年长的",
             "examples": []
           },
           {
             "id": "major-adjective-2",
             "definition": "greater in number or size or amount",
-            "translation": "主要的",
+            "translation": "较大的",
             "examples": [
               {
                 "text": "a major portion (a majority) of the population",
@@ -10316,7 +10316,7 @@
           {
             "id": "major-adjective-3",
             "definition": "greater in scope or effect",
-            "translation": "主要的",
+            "translation": "重大的",
             "examples": [
               {
                 "text": "a major contribution",
@@ -10327,13 +10327,13 @@
           {
             "id": "major-adjective-4",
             "definition": "of full legal age",
-            "translation": "满的法律的年龄的",
+            "translation": "成年的",
             "examples": []
           },
           {
             "id": "major-adjective-5",
             "definition": "of a scale or mode",
-            "translation": "模式的",
+            "translation": "大调的",
             "examples": [
               {
                 "text": "major scales",
@@ -10344,7 +10344,7 @@
           {
             "id": "major-adjective-6",
             "definition": "of the field of academic study in which one concentrates or specializes",
-            "translation": "专门从事的",
+            "translation": "主修的",
             "examples": [
               {
                 "text": "My major field was mathematics.",
@@ -10355,7 +10355,7 @@
           {
             "id": "major-adjective-7",
             "definition": "of greater importance or stature or rank",
-            "translation": "排名的",
+            "translation": "主要的",
             "examples": [
               {
                 "text": "a major artist",
@@ -10366,7 +10366,7 @@
           {
             "id": "major-adjective-8",
             "definition": "of greater seriousness or danger",
-            "translation": "危险的",
+            "translation": "严重的",
             "examples": [
               {
                 "text": "a major earthquake",
@@ -10382,7 +10382,7 @@
           {
             "id": "major-noun-1",
             "definition": "the principal field of study of a student at a university",
-            "translation": "主要的",
+            "translation": "主修专业",
             "examples": [
               {
                 "text": "My major is linguistics.",
@@ -10393,13 +10393,13 @@
           {
             "id": "major-noun-2",
             "definition": "a commissioned military officer in the United States Army or Air Force or Marines",
-            "translation": "主要的",
+            "translation": "少校",
             "examples": []
           },
           {
             "id": "major-noun-3",
             "definition": "a university student who is studying a particular field as the principal subject",
-            "translation": "主要的",
+            "translation": "主修学生",
             "examples": [
               {
                 "text": "I am a major in liguistics.",
@@ -10415,7 +10415,7 @@
           {
             "id": "major-verb-1",
             "definition": "have as one's principal field of study",
-            "translation": "主要的",
+            "translation": "主修",
             "examples": [
               {
                 "text": "They are majoring in linguistics at a school known for those studies.",
@@ -10433,8 +10433,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -34648,7 +34648,7 @@
           {
             "id": "mass-adjective-1",
             "definition": "formed of separate units gathered into a mass or whole",
-            "translation": "由聚集在一起成为整体的独立单元组成",
+            "translation": "整体的",
             "examples": []
           }
         ]
@@ -34665,19 +34665,19 @@
           {
             "id": "mass-noun-2",
             "definition": "the property of something that is great in magnitude",
-            "translation": "质量",
+            "translation": "大量",
             "examples": []
           },
           {
             "id": "mass-noun-3",
             "definition": "an ill-structured collection of similar things (objects or people)",
-            "translation": "质量",
+            "translation": "一团",
             "examples": []
           },
           {
             "id": "mass-noun-4",
             "definition": "the common people generally",
-            "translation": "质量",
+            "translation": "民众",
             "examples": [
               {
                 "text": "separate the warriors from the mass",
@@ -34688,7 +34688,7 @@
           {
             "id": "mass-noun-5",
             "definition": "a body of matter without definite shape",
-            "translation": "质量",
+            "translation": "块状物",
             "examples": [
               {
                 "text": "a huge ice mass",
@@ -34699,7 +34699,7 @@
           {
             "id": "mass-noun-6",
             "definition": "(often followed by `of') a large number or amount or extent",
-            "translation": "质量",
+            "translation": "许多",
             "examples": []
           }
         ]
@@ -34710,7 +34710,7 @@
           {
             "id": "mass-verb-1",
             "definition": "join together into a mass or collect or form a mass",
-            "translation": "质量",
+            "translation": "聚集",
             "examples": [
               {
                 "text": "Crowds were massing outside the palace",
@@ -34748,8 +34748,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

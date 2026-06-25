@@ -40527,19 +40527,19 @@
           {
             "id": "file-noun-1",
             "definition": "a steel hand tool with small sharp teeth on some or all of its surfaces",
-            "translation": "文件",
+            "translation": "锉刀",
             "examples": []
           },
           {
             "id": "file-noun-2",
             "definition": "office furniture consisting of a container for keeping papers in order",
-            "translation": "文件",
+            "translation": "档案柜",
             "examples": []
           },
           {
             "id": "file-noun-3",
             "definition": "a set of related records kept together",
-            "translation": "文件",
+            "translation": "档案",
             "examples": [
               {
                 "text": "The file on the misbehaving student was hundreds of pages long.",
@@ -40550,7 +40550,7 @@
           {
             "id": "file-noun-4",
             "definition": "a line of persons or things ranged one behind the other",
-            "translation": "文件",
+            "translation": "纵列",
             "examples": []
           }
         ]
@@ -40561,19 +40561,19 @@
           {
             "id": "file-verb-1",
             "definition": "file a formal charge against",
-            "translation": "文件",
+            "translation": "提起控告",
             "examples": []
           },
           {
             "id": "file-verb-2",
             "definition": "place in a container for keeping records",
-            "translation": "地方",
+            "translation": "归档",
             "examples": []
           },
           {
             "id": "file-verb-3",
             "definition": "record in a public office or in a court of law",
-            "translation": "记录",
+            "translation": "备案",
             "examples": [
               {
                 "text": "file for divorce",
@@ -40584,7 +40584,7 @@
           {
             "id": "file-verb-4",
             "definition": "smooth with a file",
-            "translation": "文件",
+            "translation": "用锉刀磨",
             "examples": [
               {
                 "text": "file one's fingernails",
@@ -40595,7 +40595,7 @@
           {
             "id": "file-verb-5",
             "definition": "proceed in line",
-            "translation": "文件",
+            "translation": "排成纵列前进",
             "examples": [
               {
                 "text": "The students filed into the classroom",
@@ -40677,8 +40677,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -68410,7 +68410,7 @@
           {
             "id": "flourish-noun-1",
             "definition": "a short lively tune played on brass instruments",
-            "translation": "繁荣",
+            "translation": "嘹亮短曲",
             "examples": [
               {
                 "text": "I wanted to make a dramatic entrance, so I had a band play a flourish as I entered.",
@@ -68421,19 +68421,19 @@
           {
             "id": "flourish-noun-2",
             "definition": "the act of waving",
-            "translation": "波浪的行为",
+            "translation": "挥动行为",
             "examples": []
           },
           {
             "id": "flourish-noun-3",
             "definition": "a display of ornamental speech or language",
-            "translation": "繁荣",
+            "translation": "华丽辞藻",
             "examples": []
           },
           {
             "id": "flourish-noun-4",
             "definition": "a showy gesture",
-            "translation": "繁荣",
+            "translation": "炫耀动作",
             "examples": [
               {
                 "text": "The magic act entered with a great flourish.",
@@ -68444,7 +68444,7 @@
           {
             "id": "flourish-noun-5",
             "definition": "an ornamental embellishment in writing",
-            "translation": "繁荣",
+            "translation": "装饰笔划",
             "examples": []
           }
         ]
@@ -68455,19 +68455,19 @@
           {
             "id": "flourish-verb-1",
             "definition": "grow vigorously",
-            "translation": "繁荣",
+            "translation": "茁壮成长",
             "examples": []
           },
           {
             "id": "flourish-verb-2",
             "definition": "move or swing back and forth",
-            "translation": "繁荣",
+            "translation": "摇摆",
             "examples": []
           },
           {
             "id": "flourish-verb-3",
             "definition": "make steady progress",
-            "translation": "通过稳定的进步制造",
+            "translation": "蓬勃发展",
             "examples": []
           }
         ]
@@ -68475,8 +68475,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {

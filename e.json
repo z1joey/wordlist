@@ -91375,7 +91375,7 @@
           {
             "id": "exchange-noun-5",
             "definition": "the act of giving something in return for something received",
-            "translation": "互换",
+            "translation": "交换行为",
             "examples": [
               {
                 "text": "deductible losses on sales or exchanges of property are allowable",
@@ -91386,7 +91386,7 @@
           {
             "id": "exchange-noun-6",
             "definition": "the act of changing one thing for another thing",
-            "translation": "调换",
+            "translation": "调换行为",
             "examples": [
               {
                 "text": "They were promised immortality in exchange for their disobedience.",
@@ -91443,7 +91443,7 @@
           {
             "id": "exchange-verb-2",
             "definition": "exchange or replace with another, usually of the same kind or category",
-            "translation": "调换",
+            "translation": "交流",
             "examples": []
           },
           {
@@ -91455,7 +91455,7 @@
           {
             "id": "exchange-verb-4",
             "definition": "give to, and receive from, one another",
-            "translation": "互换",
+            "translation": "调换位置",
             "examples": []
           },
           {
@@ -102673,7 +102673,7 @@
           {
             "id": "experience-noun-3",
             "definition": "an event as apprehended",
-            "translation": "感受",
+            "translation": "经历的事",
             "examples": [
               {
                 "text": "a surprising experience",
@@ -102701,7 +102701,7 @@
           {
             "id": "experience-verb-3",
             "definition": "undergo an emotional sensation or be in a particular state of mind",
-            "translation": "感受",
+            "translation": "体会到",
             "examples": []
           },
           {
@@ -105950,7 +105950,7 @@
           {
             "id": "expose-noun-1",
             "definition": "the exposure of an impostor or a fraud",
-            "translation": "揭露",
+            "translation": "暴露事件",
             "examples": [
               {
                 "text": "I published an expose of the graft and corruption in city government.",
@@ -105977,13 +105977,13 @@
           {
             "id": "expose-verb-2",
             "definition": "expose while ridiculing",
-            "translation": "揭穿",
+            "translation": "使暴露",
             "examples": []
           },
           {
             "id": "expose-verb-3",
             "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
-            "translation": "揭露",
+            "translation": "揭发",
             "examples": []
           },
           {

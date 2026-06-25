@@ -4160,43 +4160,43 @@
           {
             "id": "tail-noun-2",
             "definition": "the rear part of a ship",
-            "translation": "尾巴",
+            "translation": "船尾",
             "examples": []
           },
           {
             "id": "tail-noun-3",
             "definition": "the rear part of an aircraft",
-            "translation": "尾巴",
+            "translation": "机尾",
             "examples": []
           },
           {
             "id": "tail-noun-4",
             "definition": "(usually plural) the reverse side of a coin that does not bear the representation of a person's head",
-            "translation": "尾巴",
+            "translation": "硬币背面",
             "examples": []
           },
           {
             "id": "tail-noun-5",
             "definition": "the fleshy part of the human body that you sit on",
-            "translation": "尾巴",
+            "translation": "臀部",
             "examples": []
           },
           {
             "id": "tail-noun-6",
             "definition": "a spy employed to follow someone and report their movements",
-            "translation": "尾巴",
+            "translation": "盯梢者",
             "examples": []
           },
           {
             "id": "tail-noun-7",
             "definition": "any projection that resembles the tail of an animal",
-            "translation": "尾巴",
+            "translation": "尾状物",
             "examples": []
           },
           {
             "id": "tail-noun-8",
             "definition": "the time of the last part of something",
-            "translation": "尾巴",
+            "translation": "末段",
             "examples": []
           }
         ]
@@ -4207,19 +4207,19 @@
           {
             "id": "tail-verb-1",
             "definition": "remove the stalk of fruits or berries",
-            "translation": "移除",
+            "translation": "去梗",
             "examples": []
           },
           {
             "id": "tail-verb-2",
             "definition": "remove or shorten the tail of an animal",
-            "translation": "移除",
+            "translation": "剪短尾巴",
             "examples": []
           },
           {
             "id": "tail-verb-3",
             "definition": "go after with the intent to catch",
-            "translation": "尾巴",
+            "translation": "尾随",
             "examples": []
           }
         ]
@@ -4296,8 +4296,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -13898,7 +13898,7 @@
           {
             "id": "tap-noun-2",
             "definition": "the act of tapping a telephone or telegraph line to get information",
-            "translation": "窃听",
+            "translation": "搭线窃听",
             "examples": []
           },
           {
@@ -14024,7 +14024,7 @@
           {
             "id": "tap-verb-10",
             "definition": "tap a telephone or telegraph wire to get information",
-            "translation": "窃听",
+            "translation": "搭线监听",
             "examples": [
               {
                 "text": "The FBI was tapping the phone line of the suspected spy",
@@ -17767,7 +17767,7 @@
           {
             "id": "taste-noun-1",
             "definition": "delicate discrimination, especially of aesthetic values",
-            "translation": "精细的辨别，尤其是审美价值",
+            "translation": "鉴赏力",
             "examples": [
               {
                 "text": "Arrogance and lack of taste don't often lead to rapid success in life.",
@@ -17778,7 +17778,7 @@
           {
             "id": "taste-noun-2",
             "definition": "a brief experience of something",
-            "translation": "味道",
+            "translation": "体验",
             "examples": [
               {
                 "text": "I got a taste of life on the wild side in the big city.",
@@ -17789,13 +17789,13 @@
           {
             "id": "taste-noun-3",
             "definition": "a strong liking",
-            "translation": "味道",
+            "translation": "爱好",
             "examples": []
           },
           {
             "id": "taste-noun-4",
             "definition": "a small amount eaten or drunk",
-            "translation": "味道",
+            "translation": "少量",
             "examples": [
               {
                 "text": "take a taste--you'll like it",
@@ -17806,7 +17806,7 @@
           {
             "id": "taste-noun-5",
             "definition": "a kind of sensing",
-            "translation": "对感觉的种类",
+            "translation": "味觉",
             "examples": [
               {
                 "text": "distinguishing substances by means of the taste buds",
@@ -17817,7 +17817,7 @@
           {
             "id": "taste-noun-6",
             "definition": "the faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth",
-            "translation": "味道",
+            "translation": "味觉能力",
             "examples": [
               {
                 "text": "My cold deprived me of my sense of taste.",
@@ -17828,7 +17828,7 @@
           {
             "id": "taste-noun-7",
             "definition": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus",
-            "translation": "味道",
+            "translation": "味觉感受",
             "examples": [
               {
                 "text": "The candy left them with a bad taste.",
@@ -17844,7 +17844,7 @@
           {
             "id": "taste-verb-1",
             "definition": "experience briefly",
-            "translation": "味道",
+            "translation": "尝到",
             "examples": [
               {
                 "text": "The ex-slave tasted freedom shortly before they died.",
@@ -17855,13 +17855,13 @@
           {
             "id": "taste-verb-2",
             "definition": "take a sample of",
-            "translation": "拿",
+            "translation": "品尝",
             "examples": []
           },
           {
             "id": "taste-verb-3",
             "definition": "perceive by the sense of taste",
-            "translation": "味道",
+            "translation": "尝出",
             "examples": [
               {
                 "text": "Can you taste the garlic?",
@@ -17872,7 +17872,7 @@
           {
             "id": "taste-verb-4",
             "definition": "distinguish flavors",
-            "translation": "通过味道区分",
+            "translation": "品味",
             "examples": [
               {
                 "text": "We tasted wines last night",
@@ -17883,7 +17883,7 @@
           {
             "id": "taste-verb-5",
             "definition": "have flavor",
-            "translation": "味道",
+            "translation": "有某种味道",
             "examples": [
               {
                 "text": "taste of something",
@@ -17894,7 +17894,7 @@
           {
             "id": "taste-verb-6",
             "definition": "have a distinctive or characteristic taste",
-            "translation": "味道",
+            "translation": "味道独特",
             "examples": [
               {
                 "text": "This tastes of nutmeg",
@@ -17907,8 +17907,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -30648,7 +30648,7 @@
           {
             "id": "temper-noun-1",
             "definition": "a disposition to exhibit uncontrolled anger",
-            "translation": "脾气",
+            "translation": "易怒",
             "examples": [
               {
                 "text": "Their temper was well known to all their employees.",
@@ -30659,13 +30659,13 @@
           {
             "id": "temper-noun-2",
             "definition": "the elasticity and hardness of a metal object",
-            "translation": "脾气",
+            "translation": "硬度",
             "examples": []
           },
           {
             "id": "temper-noun-3",
             "definition": "a sudden outburst of anger",
-            "translation": "脾气",
+            "translation": "怒气",
             "examples": [
               {
                 "text": "My temper sparked like damp firewood.",
@@ -30676,7 +30676,7 @@
           {
             "id": "temper-noun-4",
             "definition": "a characteristic, habitual or relatively temporary, state of feeling",
-            "translation": "脾气",
+            "translation": "心情",
             "examples": [
               {
                 "text": "Whether they praised or cursed me depended on their temper at the time.",
@@ -30692,25 +30692,25 @@
           {
             "id": "temper-verb-1",
             "definition": "restrain",
-            "translation": "脾气",
+            "translation": "克制",
             "examples": []
           },
           {
             "id": "temper-verb-2",
             "definition": "make more temperate, acceptable, or suitable by adding something else",
-            "translation": "制造",
+            "translation": "调和",
             "examples": []
           },
           {
             "id": "temper-verb-3",
             "definition": "adjust the pitch (of pianos)",
-            "translation": "脾气",
+            "translation": "调音",
             "examples": []
           },
           {
             "id": "temper-verb-4",
             "definition": "harden by reheating and cooling in oil",
-            "translation": "脾气",
+            "translation": "回火",
             "examples": [
               {
                 "text": "temper steel",
@@ -30721,7 +30721,7 @@
           {
             "id": "temper-verb-5",
             "definition": "bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling",
-            "translation": "脾气",
+            "translation": "调质",
             "examples": [
               {
                 "text": "temper glass",
@@ -30734,8 +30734,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -33648,7 +33648,7 @@
           {
             "id": "tender-noun-4",
             "definition": "a formal proposal to buy at a specified price",
-            "translation": "投标",
+            "translation": "投标书",
             "examples": []
           },
           {
@@ -64396,19 +64396,19 @@
           {
             "id": "thunder-noun-1",
             "definition": "street names for heroin",
-            "translation": "雷",
+            "translation": "海洛因",
             "examples": []
           },
           {
             "id": "thunder-noun-2",
             "definition": "a deep prolonged loud noise",
-            "translation": "雷",
+            "translation": "轰鸣",
             "examples": []
           },
           {
             "id": "thunder-noun-3",
             "definition": "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
-            "translation": "雷",
+            "translation": "雷声",
             "examples": []
           }
         ]
@@ -64419,13 +64419,13 @@
           {
             "id": "thunder-verb-1",
             "definition": "utter words loudly and forcefully",
-            "translation": "雷",
+            "translation": "怒喝",
             "examples": []
           },
           {
             "id": "thunder-verb-2",
             "definition": "to make or produce a loud noise",
-            "translation": "产生；实现",
+            "translation": "发出轰响",
             "examples": [
               {
                 "text": "The river thundered below",
@@ -64436,7 +64436,7 @@
           {
             "id": "thunder-verb-3",
             "definition": "move fast, noisily, and heavily",
-            "translation": "雷",
+            "translation": "轰隆隆地走",
             "examples": [
               {
                 "text": "The bus thundered down the road",
@@ -64447,7 +64447,7 @@
           {
             "id": "thunder-verb-4",
             "definition": "be the case that thunder is being heard",
-            "translation": "雷",
+            "translation": "打雷",
             "examples": [
               {
                 "text": "Whenever it thunders, my dog crawls under the bed",
@@ -64477,8 +64477,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -77144,19 +77144,19 @@
           {
             "id": "title-noun-1",
             "definition": "an informal right to something",
-            "translation": "标题",
+            "translation": "权益",
             "examples": []
           },
           {
             "id": "title-noun-2",
             "definition": "an established or recognized right",
-            "translation": "标题",
+            "translation": "合法权利",
             "examples": []
           },
           {
             "id": "title-noun-3",
             "definition": "an identifying appellation signifying status or function: e.g. 'Professor' or 'Doctor'",
-            "translation": "标题",
+            "translation": "头衔",
             "examples": [
               {
                 "text": "I didn't like friends to use my formal title.",
@@ -77167,7 +77167,7 @@
           {
             "id": "title-noun-4",
             "definition": "an appellation signifying nobility",
-            "translation": "标题",
+            "translation": "贵族称号",
             "examples": [
               {
                 "text": "`your majesty' is the appropriate title to use in addressing a king",
@@ -77178,7 +77178,7 @@
           {
             "id": "title-noun-5",
             "definition": "the name of a work of art or literary composition",
-            "translation": "标题",
+            "translation": "作品名",
             "examples": [
               {
                 "text": "The librarian looked for books with the word 'jazz' in the title.",
@@ -77189,13 +77189,13 @@
           {
             "id": "title-noun-6",
             "definition": "a heading that names a statute or legislative bill",
-            "translation": "标题",
+            "translation": "法律名称",
             "examples": []
           },
           {
             "id": "title-noun-7",
             "definition": "(usually plural) written material introduced into a movie or TV show to give credits or represent dialogue or explain an action",
-            "translation": "标题",
+            "translation": "字幕",
             "examples": [
               {
                 "text": "the titles go by faster than I can read",
@@ -77206,7 +77206,7 @@
           {
             "id": "title-noun-8",
             "definition": "a general or descriptive heading for a section of a written work",
-            "translation": "标题",
+            "translation": "章节标题",
             "examples": [
               {
                 "text": "the novel had chapter titles",
@@ -77217,13 +77217,13 @@
           {
             "id": "title-noun-9",
             "definition": "a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it",
-            "translation": "法律文件",
+            "translation": "产权契约",
             "examples": []
           },
           {
             "id": "title-noun-10",
             "definition": "the status of being a champion",
-            "translation": "存在一个冠军的地位",
+            "translation": "冠军头衔",
             "examples": [
               {
                 "text": "They held the title for two years.",
@@ -77239,13 +77239,13 @@
           {
             "id": "title-verb-1",
             "definition": "designate by an identifying term",
-            "translation": "标题",
+            "translation": "称呼",
             "examples": []
           },
           {
             "id": "title-verb-2",
             "definition": "give a title to",
-            "translation": "标题",
+            "translation": "题名",
             "examples": []
           }
         ]
@@ -77314,8 +77314,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -92484,7 +92484,7 @@
           {
             "id": "touch-noun-10",
             "definition": "the event of something coming in contact with the body",
-            "translation": "接触",
+            "translation": "触碰感",
             "examples": [
               {
                 "text": "I longed for the touch of your hand.",
@@ -92562,7 +92562,7 @@
           {
             "id": "touch-verb-6",
             "definition": "be in direct physical contact with",
-            "translation": "接触",
+            "translation": "碰触",
             "examples": []
           },
           {
@@ -98186,7 +98186,7 @@
           {
             "id": "trade-noun-1",
             "definition": "the skilled practice of a practical occupation",
-            "translation": "一个实用的职业的熟练的实践",
+            "translation": "手艺",
             "examples": [
               {
                 "text": "I learned my trade through an apprenticeship.",
@@ -98208,31 +98208,31 @@
           {
             "id": "trade-noun-3",
             "definition": "the business given to a commercial establishment by its customers",
-            "translation": "贸易",
+            "translation": "生意",
             "examples": []
           },
           {
             "id": "trade-noun-4",
             "definition": "an equal exchange",
-            "translation": "贸易",
+            "translation": "等价交换",
             "examples": []
           },
           {
             "id": "trade-noun-5",
             "definition": "a particular instance of buying or selling",
-            "translation": "贸易",
+            "translation": "买卖",
             "examples": []
           },
           {
             "id": "trade-noun-6",
             "definition": "people who perform a particular kind of skilled work",
-            "translation": "贸易",
+            "translation": "同业者",
             "examples": []
           },
           {
             "id": "trade-noun-7",
             "definition": "steady winds blowing from east to west above and below the equator",
-            "translation": "贸易",
+            "translation": "信风",
             "examples": [
               {
                 "text": "they rode the trade winds going west",
@@ -98248,19 +98248,19 @@
           {
             "id": "trade-verb-1",
             "definition": "do business",
-            "translation": "贸易",
+            "translation": "做生意",
             "examples": []
           },
           {
             "id": "trade-verb-2",
             "definition": "exchange or give (something) in exchange for",
-            "translation": "贸易",
+            "translation": "交易",
             "examples": []
           },
           {
             "id": "trade-verb-3",
             "definition": "turn in as payment or part payment for a purchase",
-            "translation": "分离；分开",
+            "translation": "折价抵付",
             "examples": [
               {
                 "text": "trade in an old car for a new one",
@@ -98271,13 +98271,13 @@
           {
             "id": "trade-verb-4",
             "definition": "engage in the trade of",
-            "translation": "贸易",
+            "translation": "经营",
             "examples": []
           },
           {
             "id": "trade-verb-5",
             "definition": "be traded at a certain price or under certain conditions",
-            "translation": "贸易",
+            "translation": "以...价格交易",
             "examples": [
               {
                 "text": "The stock traded around $20 a share",
@@ -98411,8 +98411,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -110961,49 +110961,49 @@
           {
             "id": "trap-noun-1",
             "definition": "the act of concealing yourself and lying in wait to attack by surprise",
-            "translation": "隐藏自己并埋伏以出其不意地攻击的行为",
+            "translation": "埋伏",
             "examples": []
           },
           {
             "id": "trap-noun-2",
             "definition": "a hazard on a golf course",
-            "translation": "陷阱",
+            "translation": "障碍",
             "examples": []
           },
           {
             "id": "trap-noun-3",
             "definition": "a device in which something (usually an animal) can be caught and penned",
-            "translation": "陷阱",
+            "translation": "捕兽器",
             "examples": []
           },
           {
             "id": "trap-noun-4",
             "definition": "a light two-wheeled carriage",
-            "translation": "陷阱",
+            "translation": "轻便马车",
             "examples": []
           },
           {
             "id": "trap-noun-5",
             "definition": "a device to hurl clay pigeons into the air for trapshooters",
-            "translation": "陷阱",
+            "translation": "飞靶发射器",
             "examples": []
           },
           {
             "id": "trap-noun-6",
             "definition": "drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas",
-            "translation": "陷阱",
+            "translation": "U形弯管",
             "examples": []
           },
           {
             "id": "trap-noun-7",
             "definition": "informal terms for the mouth",
-            "translation": "陷阱",
+            "translation": "嘴",
             "examples": []
           },
           {
             "id": "trap-noun-8",
             "definition": "something (often something deceptively attractive) that catches you unawares",
-            "translation": "陷阱",
+            "translation": "圈套",
             "examples": [
               {
                 "text": "the exam was full of trap questions",
@@ -111019,13 +111019,13 @@
           {
             "id": "trap-verb-1",
             "definition": "to hold fast or prevent from moving",
-            "translation": "陷阱",
+            "translation": "卡住",
             "examples": []
           },
           {
             "id": "trap-verb-2",
             "definition": "catch in or as if in a trap",
-            "translation": "陷阱",
+            "translation": "诱捕",
             "examples": [
               {
                 "text": "The men trap foxes",
@@ -111036,7 +111036,7 @@
           {
             "id": "trap-verb-3",
             "definition": "hold or catch as if in a trap",
-            "translation": "陷阱",
+            "translation": "困住",
             "examples": [
               {
                 "text": "The gaps between the teeth trap food particles",
@@ -111047,7 +111047,7 @@
           {
             "id": "trap-verb-4",
             "definition": "place in a confining or embarrassing position",
-            "translation": "地方",
+            "translation": "使陷入",
             "examples": [
               {
                 "text": "I was trapped in a difficult situation.",
@@ -111081,8 +111081,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -119501,13 +119501,13 @@
           {
             "id": "trick-noun-1",
             "definition": "an illusory feat",
-            "translation": "诡计",
+            "translation": "戏法",
             "examples": []
           },
           {
             "id": "trick-noun-2",
             "definition": "a cunning or deceitful action or device",
-            "translation": "诡计",
+            "translation": "骗局",
             "examples": [
               {
                 "text": "They played a trick on me.",
@@ -119518,13 +119518,13 @@
           {
             "id": "trick-noun-3",
             "definition": "a ludicrous or grotesque act done for fun and amusement",
-            "translation": "为娱乐而做的荒唐或怪诞行为",
+            "translation": "滑稽表演",
             "examples": []
           },
           {
             "id": "trick-noun-4",
             "definition": "an attempt to get you to do something foolish or imprudent",
-            "translation": "诡计",
+            "translation": "哄骗",
             "examples": [
               {
                 "text": "that offer was a dirty trick",
@@ -119535,19 +119535,19 @@
           {
             "id": "trick-noun-5",
             "definition": "(card games) in a single round, the sequence of cards played by all the players",
-            "translation": "诡计",
+            "translation": "一墩牌",
             "examples": []
           },
           {
             "id": "trick-noun-6",
             "definition": "a prostitute's customer",
-            "translation": "诡计",
+            "translation": "嫖客",
             "examples": []
           },
           {
             "id": "trick-noun-7",
             "definition": "a period of work or duty",
-            "translation": "诡计",
+            "translation": "值班",
             "examples": []
           }
         ]
@@ -119558,7 +119558,7 @@
           {
             "id": "trick-verb-1",
             "definition": "deceive somebody",
-            "translation": "诡计",
+            "translation": "欺骗",
             "examples": [
               {
                 "text": "We tricked the teacher into thinking that class would be cancelled next week",
@@ -119592,8 +119592,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -133711,7 +133711,7 @@
           {
             "id": "tube-noun-1",
             "definition": "an electric railway operating below the surface of the ground (usually in a city)",
-            "translation": "管子",
+            "translation": "地铁",
             "examples": [
               {
                 "text": "in Paris the subway system is called the `metro' and in London it is called the `tube' or the `underground'",
@@ -133722,25 +133722,25 @@
           {
             "id": "tube-noun-2",
             "definition": "conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases",
-            "translation": "管子",
+            "translation": "管道",
             "examples": []
           },
           {
             "id": "tube-noun-3",
             "definition": "electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope",
-            "translation": "管子",
+            "translation": "电子管",
             "examples": []
           },
           {
             "id": "tube-noun-4",
             "definition": "(anatomy) any hollow cylindrical body structure",
-            "translation": "管子",
+            "translation": "管状器官",
             "examples": []
           },
           {
             "id": "tube-noun-5",
             "definition": "a hollow cylindrical shape",
-            "translation": "管子",
+            "translation": "筒状物",
             "examples": []
           }
         ]
@@ -133751,13 +133751,13 @@
           {
             "id": "tube-verb-1",
             "definition": "place or enclose in a tube",
-            "translation": "地方",
+            "translation": "装入管中",
             "examples": []
           },
           {
             "id": "tube-verb-2",
             "definition": "ride or float on an inflated tube",
-            "translation": "管子",
+            "translation": "乘充气筒",
             "examples": [
               {
                 "text": "We tubed down the river on a hot summer day",
@@ -133768,7 +133768,7 @@
           {
             "id": "tube-verb-3",
             "definition": "convey in a tube",
-            "translation": "管子",
+            "translation": "管道输送",
             "examples": [
               {
                 "text": "inside Paris, they used to tube mail",
@@ -133779,7 +133779,7 @@
           {
             "id": "tube-verb-4",
             "definition": "provide with a tube or insert a tube into",
-            "translation": "管子",
+            "translation": "插管",
             "examples": []
           }
         ]
@@ -133800,8 +133800,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": "2026-06-24"
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
     }
   },
   {
@@ -145596,7 +145596,7 @@
           {
             "id": "twist-noun-3",
             "definition": "turning or twisting around, in place",
-            "translation": "盘旋",
+            "translation": "螺旋形",
             "examples": [
               {
                 "text": "They surveyed the room with a quick twist of their head.",
@@ -145631,7 +145631,7 @@
           {
             "id": "twist-noun-8",
             "definition": "a jerky pulling movement",
-            "translation": "猛扭",
+            "translation": "急转",
             "examples": []
           },
           {
@@ -145661,7 +145661,7 @@
           {
             "id": "twist-noun-13",
             "definition": "a sharp strain on muscles or ligaments",
-            "translation": "扭伤",
+            "translation": "扭伤处",
             "examples": []
           }
         ]
@@ -145718,7 +145718,7 @@
           {
             "id": "twist-verb-7",
             "definition": "twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates",
-            "translation": "猛扭",
+            "translation": "急扭",
             "examples": []
           },
           {
