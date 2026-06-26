@@ -19,26 +19,24 @@ Run both worker and validator back-to-back on the same batch. No handoff, no wai
 2. Create next batch (25 entries from cursor)
 3. Mark batch 🟡 working in PROGRESS.md
 4. Process all 25 entries (follow Working Agent workflow below)
+   → Working agent sets provider = ITS OWN MODEL NAME + updatedAt
 5. Immediately audit all 25 entries (follow Validating Agent checklist below)
 6. If ALL pass:
-   → set provider + timestamp on all 25 entries
    → mark batch ✅ done, advance cursor
    → commit & push
 7. If ANY fail:
    → fix the failing entries
    → re-audit
-   → then stamp, mark done, advance cursor, commit
+   → then mark done, advance cursor, commit
 ```
 
-The full workflow — translate, audit, stamp, commit — should complete a 25-entry batch in ~45 minutes.
+The full workflow — translate, audit, commit — should complete a 25-entry batch in ~45 minutes.
 
 ---
 
 ## 🔨 Working Agent (standalone)
 
-Use this when splitting work across sessions. Prefer combined mode.
-
-Your job: fill and verify every field in a batch of 25 entries. You do NOT set `metadata.provider` or `metadata.updatedAt` — the validator does.
+Your job: fill every field, verify everything, and stamp your work. You own the full word — set both `metadata.provider` (your model name) and `metadata.updatedAt` (current Unix timestamp) when done.
 
 ### Quick Start
 
@@ -106,10 +104,10 @@ For **each** entry, in this exact order:
     - If the word is a verb and forms are {}, fill them
     - If the word is not a verb, forms = {} is correct
 
-11. WRITE the entry back to its JSON file
-    - All fields now fully populated and verified
-    - metadata.provider and metadata.updatedAt remain AS-IS
-      (do NOT touch them — the validator will set them)
+11. SET metadata:
+    - `metadata.provider` = YOUR MODEL NAME (e.g. "MiniMax-M2.7-highspeed")
+    - `metadata.updatedAt` = current Unix timestamp (integer)
+    - WRITE entry back to JSON file
 ```
 
 ### Hard Rules
@@ -118,11 +116,11 @@ For **each** entry, in this exact order:
 |------|-------------|
 | ❌ NEVER move to next word until current word is PERFECT | Data quality |
 | ❌ NEVER skip a word | Research until correct |
-| ❌ NEVER set `metadata.provider` | Validator sets it |
 | ❌ NEVER leave empty IPA | Must fill both US & UK |
 | ❌ NEVER leave empty translation | Every sense, example, phrase |
 | ❌ NEVER reuse same Chinese translation across senses | Each sense must be distinct |
-| ✅ ALWAYS fill every field completely before writing back | Completeness |
+| ✅ ALWAYS set `metadata.provider` = your model name | Traces who did the work |
+| ✅ ALWAYS set `metadata.updatedAt` = Unix timestamp | When it was completed |
 | ✅ ALWAYS update PROGRESS.md after the batch is done | Tracking |
 
 ### Batch Size & Timing
@@ -134,9 +132,7 @@ For **each** entry, in this exact order:
 
 ## 🔍 Validating Agent (standalone)
 
-Use this when picking up a `🟠 awaiting validation` batch left by another session. Prefer combined mode.
-
-Your job: audit a batch completed by a working agent. You are the quality gate — only you set `metadata.provider` and `metadata.updatedAt`.
+Your job: audit a batch completed by a working agent. You are the quality gate — you decide whether the cursor advances. You do NOT modify entries (provider and updatedAt are already set by the working agent).
 
 ### Quick Start
 
@@ -191,27 +187,28 @@ For each entry, confirm ALL of the following. Check each one — do not skip:
    - If not verb: forms is {}
 
 ☐ metadata.provider
-   - Currently empty (working agent should NOT have set it)
-   - If it has a value, flag for review — working agent violated rules
+   - Non-empty (working agent MUST have set it)
+   - Contains model name only (no agent ID, no hostname)
+   - All entries in batch should have the same provider
+
+☐ metadata.updatedAt
+   - Non-empty
+   - Unix timestamp (integer)
+   - All entries in batch should have the same timestamp
 ```
 
 ### After Audit — ALL Pass
 
 If EVERY entry passes EVERY check:
 
-1. For each entry:
-   - SET `metadata.provider` = YOUR MODEL NAME ONLY (e.g., `"deepseek-v4-pro"`)
-   - SET `metadata.updatedAt` = current Unix timestamp (integer, seconds since epoch)
-   - WRITE entry back to JSON file
-
-2. Update PROGRESS.md:
+1. Update PROGRESS.md:
    - Mark batch `✅ done`
    - Record validator name, timestamp
    - **Advance cursor** to next unprocessed index
    - Update file progress bar and done count
    - Update summary counts
 
-3. Commit:
+2. Commit:
    ```
    feat({batch_id}): review + validate entries {range}
    ```
@@ -220,27 +217,22 @@ If EVERY entry passes EVERY check:
 
 If ANY entry fails ANY check:
 
-1. **DO NOT set provider or timestamp** on any entry — leave them as-is
-2. Update PROGRESS.md:
+1. Update PROGRESS.md:
    - Mark batch `❌ rejected`
-   - Add a note under the batch row describing:
-     - Which entry indices failed
-     - What specific checks failed
-     - Brief description of the problem
+   - Add a note describing which entries failed and what checks
    - **Do NOT advance cursor**
 
-3. The batch returns to `⬜ pending` implicitly — a working agent will pick it up and fix the issues
+2. The batch returns to `⬜ pending` — a working agent will redo it
 
 ### Hard Rules
 
 | Rule | Consequence |
 |------|-------------|
-| ❌ NEVER set provider on an entry with ANY issue | Data integrity |
 | ❌ NEVER approve duplicate translations across senses | Quality |
 | ❌ NEVER approve empty fields | Completeness |
-| ❌ NEVER include agent name/hostname in provider | Model name only |
+| ❌ NEVER approve agent-contaminated provider (contains `agent-` prefix) | Traceability |
+| ❌ NEVER modify entries — provider and updatedAt are set by working agent | Data integrity |
 | ✅ ALWAYS verify every entry independently | No assumptions |
-| ✅ ALWAYS use Unix timestamps (integer) | Consistency |
 
 ---
 
