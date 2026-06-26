@@ -54,6 +54,7 @@
 
 | Batch | File | Range | Words | Worker | Validator |  Status |
 |-------|------|-------|-------|--------|-----------|---------|
+| a-0033 | a.json | 800–824 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0034 | a.json | 825–849 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
