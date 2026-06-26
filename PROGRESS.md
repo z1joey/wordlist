@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 1125 | **Updated**: 1782491834
+> **Cursor**: a.json → index 1295 | **Updated**: 1751263200
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,569 |
-| Remaining | 47,298 |
-| Completion | 27.1% |
-| Current file | a.json (2,704 / 4,900) |
+| Reviewed & validated | 17,644 |
+| Remaining | 47,223 |
+| Completion | 27.2% |
+| Current file | a.json (2,779 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 2,704 | █████▌░░░░ 55% | 🔄 in_progress |
+| a.json | 4,900 | 2,779 | █████▌░░░░ 57% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,18 +47,16 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0046 (pending) |
+| Batch ID | a-0052 (pending) |
 | Status | 🟡 queued |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator |  Status |
 |-------|------|-------|-------|--------|-----------|---------|
-| a-0041 | a.json | 1000–1024 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0042 | a.json | 1025–1049 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0043 | a.json | 1050–1074 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0044 | a.json | 1075–1099 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0045 | a.json | 1100–1124 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0049 | a.json | 1220–1244 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0050 | a.json | 1245–1269 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0051 | a.json | 1270–1294 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
