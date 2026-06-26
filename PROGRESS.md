@@ -10,8 +10,8 @@
 | Reviewed & validated | 9,221 |
 | Remaining | 55,646 |
 | Completion | 14.2% |
-| Goal (19.2%) | 12,464 |
-| Gap to goal | 3,243 |
+| Realistic goal (18%) | 11,676 |
+| Gap to goal | 2,455 |
 | Current file | a.json (1,864 / 4,900) |
 
 ## 📋 File Progress
