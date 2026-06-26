@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 0 | **Updated**: 1782461109
+> **Cursor**: a.json → index 50 | **Updated**: 1782464600
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 0 |
-| Remaining | 64,867 |
-| Completion | 0.00% |
-| Current file | a.json (0 / 4,900) |
+| Reviewed & validated | 50 |
+| Remaining | 64,817 |
+| Completion | 0.08% |
+| Current file | a.json (50 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
+| a.json | 4,900 | 50 | ███░░░░░░░ 1% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -54,7 +54,8 @@
 
 | Batch | File | Range | Words | Worker | Validator | Worked | Validated | Status |
 |-------|------|-------|-------|--------|-----------|--------|-----------|--------|
-| _(none yet)_ | | | | | | | | |
+| a-0001 | a.json | 0–24 | 25 | zcode-agent | deepseek-v4-pro | 1782461109 | 1782462332 | ✅ done |
+| a-0002 | a.json | 25–49 | 25 | zcode-agent | deepseek-v4-pro | 1782464400 | 1782464600 | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 

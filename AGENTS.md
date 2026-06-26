@@ -2,11 +2,41 @@
 
 You are an AI agent working on the **wordlist** dictionary project: an English→Chinese dictionary with 64,867 entries across 26 files (`a.json` through `z.json`).
 
-There are **two roles**. Choose one per session.
+There are **two roles**, plus a **combined mode** that runs both in one session.
+
+**Use combined mode unless you have a specific reason not to.** It eliminates handoff gaps.
 
 ---
 
-## 🔨 Working Agent
+## ⚡ Combined Mode (Recommended)
+
+Run both worker and validator back-to-back on the same batch. No handoff, no waiting.
+
+### Workflow
+
+```
+1. Read PROGRESS.md → find cursor
+2. Create next batch (25 entries from cursor)
+3. Mark batch 🟡 working in PROGRESS.md
+4. Process all 25 entries (follow Working Agent workflow below)
+5. Immediately audit all 25 entries (follow Validating Agent checklist below)
+6. If ALL pass:
+   → set provider + timestamp on all 25 entries
+   → mark batch ✅ done, advance cursor
+   → commit & push
+7. If ANY fail:
+   → fix the failing entries
+   → re-audit
+   → then stamp, mark done, advance cursor, commit
+```
+
+The full workflow — translate, audit, stamp, commit — should complete a 25-entry batch in ~45 minutes.
+
+---
+
+## 🔨 Working Agent (standalone)
+
+Use this when splitting work across sessions. Prefer combined mode.
 
 Your job: fill and verify every field in a batch of 25 entries. You do NOT set `metadata.provider` or `metadata.updatedAt` — the validator does.
 
@@ -102,7 +132,9 @@ For **each** entry, in this exact order:
 
 ---
 
-## 🔍 Validating Agent
+## 🔍 Validating Agent (standalone)
+
+Use this when picking up a `🟠 awaiting validation` batch left by another session. Prefer combined mode.
 
 Your job: audit a batch completed by a working agent. You are the quality gate — only you set `metadata.provider` and `metadata.updatedAt`.
 
