@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 950 | **Updated**: 1782490135
+> **Cursor**: a.json → index 975 | **Updated**: 1782490322
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,445 |
-| Remaining | 47,422 |
+| Reviewed & validated | 17,470 |
+| Remaining | 47,397 |
 | Completion | 26.9% |
-| Current file | a.json (2,580 / 4,900) |
+| Current file | a.json (2,605 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 2,580 | █████▌░░░░ 53% | 🔄 in_progress |
+| a.json | 4,900 | 2,605 | █████▌░░░░ 53% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,20 +47,19 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0039 |
-| Status | 🟡 working (also: a-0040, a-0041, a-0042 queued) |
+| Batch ID | a-0040 |
+| Status | 🟡 working (also: a-0041, a-0042 queued) |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator |  Status |
 |-------|------|-------|-------|--------|-----------|---------|
-| a-0034 | a.json | 825–849 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0035 | a.json | 850–874 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0036 | a.json | 875–899 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0037 | a.json | 900–924 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0038 | a.json | 925–949 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0039 | a.json | 950–974 | 25 | 🟡 in progress | — | 🟡 working |
-| a-0040 | a.json | 975–999 | 25 | 🟡 queued | — | 🟡 queued |
+| a-0039 | a.json | 950–974 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0040 | a.json | 975–999 | 25 | 🟡 in progress | — | 🟡 working |
 | a-0041 | a.json | 1000–1024 | 25 | 🟡 queued | — | 🟡 queued |
 | a-0042 | a.json | 1025–1049 | 25 | 🟡 queued | — | 🟡 queued |
 
