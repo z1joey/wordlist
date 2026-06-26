@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 800 | **Updated**: 1782467421
+> **Cursor**: a.json → index 925 | **Updated**: 1782470800
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 800 |
-| Remaining | 64,067 |
-| Completion | 1.2% |
-| Current file | a.json (800 / 4,900) |
+| Reviewed & validated | 925 |
+| Remaining | 63,942 |
+| Completion | 1.4% |
+| Current file | a.json (925 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 800 | ███████████████░ 16% | 🔄 in_progress |
+| a.json | 4,900 | 925 | █████████████████░ 19% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,8 +47,10 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0023 |
+| Batch ID | a-0028 |
 | Status | ⬜ pending |
+| Worker | - |
+| Started | - |
 | Worker | - |
 | Started | - |
 
@@ -78,10 +80,12 @@
 | a-0020 | a.json | 475–499 | 25 | ark-code-latest | ark-code-latest | 1782467421 | 1782467421 | ✅ done |
 | a-0021 | a.json | 500–524 | 25 | ark-code-latest | ark-code-latest | 1782467421 | 1782467421 | ✅ done |
 | a-0022 | a.json | 525–549 | 25 | ark-code-latest | ark-code-latest | 1782467421 | 1782467421 | ✅ done |
-| a-0023 | a.json | 550–574 | 25 | - | - | - | - | ⬜ pending |
-| a-0024 | a.json | 575–599 | 25 | - | - | - | - | ⬜ pending |
-| a-0025 | a.json | 600–624 | 25 | - | - | - | - | ⬜ pending |
-| a-0026 | a.json | 625–649 | 25 | - | - | - | - | ⬜ pending |
+| a-0023 | a.json | 550–574 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782470400 | 1782470400 | ✅ done |
+| a-0024 | a.json | 575–599 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782470500 | 1782470500 | ✅ done |
+| a-0025 | a.json | 600–624 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782470600 | 1782470600 | ✅ done |
+| a-0026 | a.json | 625–649 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782470700 | 1782470700 | ✅ done |
+| a-0027 | a.json | 650–674 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782470800 | 1782470800 | ✅ done |
+| a-0028 | a.json | 675–699 | 25 | - | - | - | - | ⬜ pending |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
