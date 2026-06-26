@@ -1,15 +1,15 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 1225 | **Updated**: 1782476200
+> **Cursor**: a.json → index 1225 | **Updated**: 1782477500
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 8,321 |
-| Remaining | 56,546 |
-| Completion | 12.8% |
+| Reviewed & validated | 9,221 |
+| Remaining | 55,646 |
+| Completion | 14.2% |
 | Current file | a.json (1,800 / 4,900) |
 
 ## 📋 File Progress
