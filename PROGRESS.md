@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 900 | **Updated**: 1782488161
+> **Cursor**: a.json → index 900 | **Updated**: 1782488381
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,370 |
-| Remaining | 47,497 |
+| Reviewed & validated | 17,395 |
+| Remaining | 47,472 |
 | Completion | 26.8% |
-| Current file | a.json (2,530 / 4,900) |
+| Current file | a.json (2,555 / 4,900) |
 
 ## 📋 File Progress
 
@@ -56,6 +56,7 @@
 |-------|------|-------|-------|--------|-----------|---------|
 | a-0033 | a.json | 800–824 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0034 | a.json | 825–849 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0035 | a.json | 850–874 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0036 | a.json | 875–899 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
