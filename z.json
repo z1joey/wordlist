@@ -19,7 +19,7 @@
           {
             "id": "z-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母表的第26个字母",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
@@ -30,40 +30,11 @@
         ]
       }
     ],
-    "phrases": []
-  },
-  {
-    "word": "z-axis",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "z-axis-noun-1",
-            "definition": "the third axis in a 3-dimensional coordinate system",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The line needs to be drawn on the z-axis.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zabaglione",
@@ -93,7 +64,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zaftig",
@@ -128,7 +103,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zag",
@@ -163,7 +142,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zaire",
@@ -196,7 +179,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zairean",
@@ -220,7 +207,7 @@
           {
             "id": "zairean-adjective-1",
             "definition": "of or relating to or characteristic of Zaire or its people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "Zairean elections",
@@ -231,7 +218,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zairese",
@@ -266,7 +257,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zakat",
@@ -299,7 +294,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zamang",
@@ -313,9 +312,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "rain tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -334,7 +331,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zambian",
@@ -356,7 +357,7 @@
           {
             "id": "zambian-adjective-1",
             "definition": "of or relating to or characteristic of Zambia or its people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "The Zambian restaurant makes a great maize porridge called nshima.",
@@ -367,7 +368,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zamboni",
@@ -400,7 +405,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zany",
@@ -451,7 +460,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zap",
@@ -503,7 +516,7 @@
           {
             "id": "zap-verb-2",
             "definition": "strike at with firepower or bombs",
-            "translation": "",
+            "translation": "罢工",
             "examples": [
               {
                 "text": "zap the enemy",
@@ -520,7 +533,7 @@
           {
             "id": "zap-verb-4",
             "definition": "strike suddenly and with force",
-            "translation": "",
+            "translation": "罢工",
             "examples": [
               {
                 "text": "This show zaps the viewers with some shocking scenes",
@@ -531,7 +544,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zapotec",
@@ -553,7 +570,7 @@
           {
             "id": "zapotec-adjective-1",
             "definition": "of or relating to the language or culture of the Zapotec people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "The linguists were interested in the development of Zapotec language.",
@@ -564,7 +581,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zapper",
@@ -597,7 +618,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zarf",
@@ -630,7 +655,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zax",
@@ -663,7 +692,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zayin",
@@ -685,7 +718,7 @@
           {
             "id": "zayin-noun-1",
             "definition": "the 7th letter of the Hebrew alphabet",
-            "translation": "",
+            "translation": "希伯来字母表的第7个字母",
             "examples": [
               {
                 "text": "I always forget zayin when I am practicing the alphabet.",
@@ -696,7 +729,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zeal",
@@ -726,7 +763,7 @@
           {
             "id": "zeal-noun-1",
             "definition": "prompt willingness",
-            "translation": "",
+            "translation": "迅速的意愿",
             "examples": [
               {
                 "text": "Your zeal for the task was apparent in the way you promptly volunteered.",
@@ -759,7 +796,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zealot",
@@ -796,7 +837,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zealotry",
@@ -833,7 +878,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zealous",
@@ -872,7 +921,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zealously",
@@ -905,7 +958,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zebibit",
@@ -938,7 +995,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zebibyte",
@@ -973,7 +1034,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zebra",
@@ -1001,18 +1066,22 @@
           {
             "id": "zebra-noun-1",
             "definition": "any of several fleet black-and-white striped African equines",
-            "translation": "",
+            "translation": "斑马",
             "examples": [
               {
                 "text": "I saw some zebras at the zoo.",
-                "translation": ""
+                "translation": "我在动物园看到了一些斑马。"
               }
             ]
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zebrawood",
@@ -1046,7 +1115,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zebu",
@@ -1079,7 +1152,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zed",
@@ -1101,7 +1178,7 @@
           {
             "id": "zed-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母表的第26个字母",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
@@ -1112,7 +1189,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zee",
@@ -1134,7 +1215,7 @@
           {
             "id": "zee-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母表的第26个字母",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
@@ -1145,7 +1226,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zeitgeist",
@@ -1178,7 +1263,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zenith",
@@ -1225,7 +1314,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zenithal",
@@ -1247,7 +1340,7 @@
           {
             "id": "zenithal-adjective-1",
             "definition": "relating to or located at or near the zenith",
-            "translation": "",
+            "translation": "近的的",
             "examples": [
               {
                 "text": "The star is zenithal.",
@@ -1258,7 +1351,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zeolite",
@@ -1291,7 +1388,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zep",
@@ -1326,7 +1427,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zephyr",
@@ -1363,7 +1468,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zeppelin",
@@ -1396,7 +1505,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zero",
@@ -1422,9 +1535,7 @@
       "cipher",
       "cypher",
       "nothing",
-      "nought",
-      "zero in",
-      "zero point"
+      "nought"
     ],
     "entries": [
       {
@@ -1433,7 +1544,7 @@
           {
             "id": "zero-adjective-1",
             "definition": "indicating the absence of any or all units under consideration",
-            "translation": "",
+            "translation": "零",
             "examples": [
               {
                 "text": "a zero score",
@@ -1444,19 +1555,19 @@
           {
             "id": "zero-adjective-2",
             "definition": "indicating an initial point or origin",
-            "translation": "",
+            "translation": "零",
             "examples": []
           },
           {
             "id": "zero-adjective-3",
             "definition": "of or relating to the null set (a set with no members)",
-            "translation": "",
+            "translation": "成员的",
             "examples": []
           },
           {
             "id": "zero-adjective-4",
             "definition": "having no measurable or otherwise determinable value",
-            "translation": "",
+            "translation": "零",
             "examples": []
           }
         ]
@@ -1467,25 +1578,25 @@
           {
             "id": "zero-noun-1",
             "definition": "the sight setting that will cause a projectile to hit the center of the target with no wind blowing",
-            "translation": "",
+            "translation": "零",
             "examples": []
           },
           {
             "id": "zero-noun-2",
             "definition": "the point on a scale from which positive or negative numerical quantities can be measured",
-            "translation": "",
+            "translation": "零",
             "examples": []
           },
           {
             "id": "zero-noun-3",
             "definition": "a quantity of no importance",
-            "translation": "",
+            "translation": "零",
             "examples": []
           },
           {
             "id": "zero-noun-4",
             "definition": "a mathematical element that when added to another number yields the same number",
-            "translation": "",
+            "translation": "零",
             "examples": []
           }
         ]
@@ -1496,7 +1607,7 @@
           {
             "id": "zero-verb-1",
             "definition": "adjust, as by firing under test conditions, the zero of a gun",
-            "translation": "",
+            "translation": "零",
             "examples": [
               {
                 "text": "I zeroed in my rifle at 200 yards.",
@@ -1507,7 +1618,7 @@
           {
             "id": "zero-verb-2",
             "definition": "adjust (an instrument or device) to zero value",
-            "translation": "",
+            "translation": "零",
             "examples": []
           }
         ]
@@ -1516,7 +1627,7 @@
     "phrases": [
       {
         "text": "zero forward velocity",
-        "translation": ""
+        "translation": "零向前速度"
       },
       {
         "text": "zero in",
@@ -1528,13 +1639,17 @@
       },
       {
         "text": "zero off set",
-        "translation": ""
+        "translation": "零离开设置"
       },
       {
         "text": "zero out",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zeroth",
@@ -1567,7 +1682,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zest",
@@ -1626,7 +1745,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zestful",
@@ -1661,7 +1784,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zestfully",
@@ -1696,7 +1823,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zestfulness",
@@ -1731,7 +1862,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zestily",
@@ -1766,7 +1901,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zesty",
@@ -1815,7 +1954,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zeta",
@@ -1837,7 +1980,7 @@
           {
             "id": "zeta-noun-1",
             "definition": "the 6th letter of the Greek alphabet",
-            "translation": "",
+            "translation": "希腊字母表的第6个字母",
             "examples": [
               {
                 "text": "Zeta would be a cool name for a cat.",
@@ -1848,7 +1991,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zettabit",
@@ -1881,7 +2028,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zettabyte",
@@ -1917,7 +2068,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zeugma",
@@ -1950,7 +2105,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zig",
@@ -1985,42 +2144,11 @@
         ]
       }
     ],
-    "phrases": []
-  },
-  {
-    "word": "zig-zag",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "zigzag"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "zig-zag-adjective-1",
-            "definition": "having short sharp turns or angles",
-            "translation": "",
-            "examples": [
-              {
-                "text": "Driving down the zig-zag road made me sick to my stomach.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "ziggurat",
@@ -2053,7 +2181,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zigzag",
@@ -2078,8 +2210,7 @@
     "synonyms": [
       "crank",
       "zag",
-      "zig",
-      "zig-zag"
+      "zig"
     ],
     "entries": [
       {
@@ -2137,7 +2268,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zikkurat",
@@ -2170,7 +2305,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zikurat",
@@ -2203,7 +2342,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zilch",
@@ -2238,7 +2381,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zill",
@@ -2271,7 +2418,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zillion",
@@ -2326,7 +2477,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zimbabwean",
@@ -2348,7 +2503,7 @@
           {
             "id": "zimbabwean-adjective-1",
             "definition": "of or relating to or characteristic of Zimbabwe or its people",
-            "translation": "",
+            "translation": "人民的",
             "examples": [
               {
                 "text": "The Zimbabwean president has been in office for a long time.",
@@ -2375,7 +2530,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zinc",
@@ -2405,7 +2564,7 @@
           {
             "id": "zinc-noun-1",
             "definition": "a bluish-white lustrous metallic element",
-            "translation": "",
+            "translation": "锌",
             "examples": []
           }
         ]
@@ -2416,13 +2575,17 @@
           {
             "id": "zinc-verb-1",
             "definition": "coat or cover with zinc",
-            "translation": "",
+            "translation": "锌",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zinfandel",
@@ -2455,7 +2618,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zing",
@@ -2506,7 +2673,11 @@
         "text": "zing up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zinger",
@@ -2539,7 +2710,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zinnwaldite",
@@ -2572,7 +2747,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zionist",
@@ -2594,7 +2773,7 @@
           {
             "id": "zionist-adjective-1",
             "definition": "relating to or characteristic of a supporter of Zionism",
-            "translation": "",
+            "translation": "支持者的",
             "examples": [
               {
                 "text": "The Zionist leader was despised in Palestine.",
@@ -2605,7 +2784,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zip",
@@ -2629,9 +2812,7 @@
     "synonyms": [
       "energy",
       "nothing",
-      "slide fastener",
       "speed",
-      "zip up",
       "zipper"
     ],
     "entries": [
@@ -2641,19 +2822,19 @@
           {
             "id": "zip-noun-1",
             "definition": "a fastener for locking together two toothed edges by means of a sliding tab",
-            "translation": "",
+            "translation": "拉链",
             "examples": []
           },
           {
             "id": "zip-noun-2",
             "definition": "forceful exertion",
-            "translation": "",
+            "translation": "活力；精力",
             "examples": []
           },
           {
             "id": "zip-noun-3",
             "definition": "a quantity of no importance",
-            "translation": "",
+            "translation": "零；无",
             "examples": []
           }
         ]
@@ -2664,17 +2845,17 @@
           {
             "id": "zip-verb-1",
             "definition": "close with a zipper",
-            "translation": "",
+            "translation": "拉上拉链",
             "examples": []
           },
           {
             "id": "zip-verb-2",
             "definition": "move very fast",
-            "translation": "",
+            "translation": "快速移动；疾驰",
             "examples": [
               {
                 "text": "The runner zipped past us at breakneck speed",
-                "translation": ""
+                "translation": "那位赛跑者以惊人的速度从我们身边飞驰而过。"
               }
             ]
           }
@@ -2722,7 +2903,11 @@
         "text": "zip up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zip",
@@ -2743,9 +2928,7 @@
       "gk",
       "ky"
     ],
-    "synonyms": [
-      "ZIP code"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -2753,11 +2936,11 @@
           {
             "id": "zip-noun-1",
             "definition": "a code of letters and digits added to a postal address to aid in the sorting of mail",
-            "translation": "",
+            "translation": "邮政编码",
             "examples": [
               {
                 "text": "I'll need your ZIP so I can mail you the package.",
-                "translation": ""
+                "translation": "我需要你的邮政编码才能把包裹寄给你。"
               }
             ]
           }
@@ -2805,7 +2988,11 @@
         "text": "zip up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zipper",
@@ -2822,7 +3009,6 @@
       "gk"
     ],
     "synonyms": [
-      "slide fastener",
       "zip"
     ],
     "entries": [
@@ -2832,11 +3018,11 @@
           {
             "id": "zipper-noun-1",
             "definition": "a fastener for locking together two toothed edges by means of a sliding tab",
-            "translation": "",
+            "translation": "拉链",
             "examples": [
               {
                 "text": "My zipper is broken.",
-                "translation": ""
+                "translation": "我的拉链坏了。"
               }
             ]
           }
@@ -2848,18 +3034,22 @@
           {
             "id": "zipper-verb-1",
             "definition": "to close with a zipper",
-            "translation": "",
+            "translation": "拉上拉链",
             "examples": [
               {
                 "text": "Zipper your coat.",
-                "translation": ""
+                "translation": "把你外套的拉链拉上。"
               }
             ]
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zippo",
@@ -2894,7 +3084,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zippy",
@@ -2941,7 +3135,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zircon",
@@ -2974,7 +3172,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zirconia",
@@ -2988,9 +3190,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "zirconium oxide"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3009,7 +3209,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zirconium",
@@ -3031,7 +3235,7 @@
           {
             "id": "zirconium-noun-1",
             "definition": "a lustrous grey strong metallic element resembling titanium",
-            "translation": "",
+            "translation": "锆",
             "examples": []
           }
         ]
@@ -3042,7 +3246,11 @@
         "text": "zirconium to silicate bond",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zit",
@@ -3077,7 +3285,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zither",
@@ -3112,7 +3324,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zithern",
@@ -3147,7 +3363,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "ziti",
@@ -3180,7 +3400,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zizz",
@@ -3224,7 +3448,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zloty",
@@ -3257,7 +3485,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoanthropy",
@@ -3290,7 +3522,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zodiac",
@@ -3334,7 +3570,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zodiacal",
@@ -3356,7 +3596,7 @@
           {
             "id": "zodiacal-adjective-1",
             "definition": "relating to or included in the zodiac",
-            "translation": "",
+            "translation": "包括的",
             "examples": [
               {
                 "text": "The zodiacal constellations are spread out through the sky.",
@@ -3367,7 +3607,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zoftig",
@@ -3402,7 +3646,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoic",
@@ -3424,7 +3672,7 @@
           {
             "id": "zoic-adjective-1",
             "definition": "pertaining to animals or animal life or action",
-            "translation": "",
+            "translation": "生命的",
             "examples": [
               {
                 "text": "There is zoic evidence in the fossil record.",
@@ -3435,7 +3683,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zolaesque",
@@ -3468,7 +3720,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zombi",
@@ -3483,9 +3739,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "automaton",
-      "living dead",
-      "snake god"
+      "automaton"
     ],
     "entries": [
       {
@@ -3549,7 +3803,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zombie",
@@ -3564,9 +3822,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "automaton",
-      "living dead",
-      "snake god"
+      "automaton"
     ],
     "entries": [
       {
@@ -3630,7 +3886,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zona",
@@ -3660,7 +3920,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zonal",
@@ -3695,7 +3959,7 @@
           {
             "id": "zonal-adjective-2",
             "definition": "relating to or similar to a zone",
-            "translation": "",
+            "translation": "区域的",
             "examples": [
               {
                 "text": "The zonal nature of our sales is troubling.",
@@ -3706,7 +3970,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zonary",
@@ -3730,13 +3998,17 @@
           {
             "id": "zonary-adjective-1",
             "definition": "relating to or of the nature of a zone",
-            "translation": "",
+            "translation": "区域的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zone",
@@ -3763,7 +4035,6 @@
     ],
     "synonyms": [
       "district",
-      "geographical zone",
       "partition",
       "zona"
     ],
@@ -3774,25 +4045,25 @@
           {
             "id": "zone-noun-1",
             "definition": "(anatomy) any encircling or beltlike structure",
-            "translation": "",
+            "translation": "区域",
             "examples": []
           },
           {
             "id": "zone-noun-2",
             "definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
-            "translation": "",
+            "translation": "区域",
             "examples": []
           },
           {
             "id": "zone-noun-3",
             "definition": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
-            "translation": "",
+            "translation": "区域",
             "examples": []
           },
           {
             "id": "zone-noun-4",
             "definition": "a locally circumscribed place characterized by some distinctive features",
-            "translation": "",
+            "translation": "区域",
             "examples": []
           }
         ]
@@ -3803,13 +4074,13 @@
           {
             "id": "zone-verb-1",
             "definition": "separate or apportion into sections",
-            "translation": "",
+            "translation": "分开的",
             "examples": []
           },
           {
             "id": "zone-verb-2",
             "definition": "regulate housing in",
-            "translation": "",
+            "translation": "区域",
             "examples": []
           }
         ]
@@ -3818,13 +4089,17 @@
     "phrases": [
       {
         "text": "zone off",
-        "translation": ""
+        "translation": "区域离开"
       },
       {
         "text": "zone out",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zoning",
@@ -3846,7 +4121,7 @@
           {
             "id": "zoning-noun-1",
             "definition": "dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc.",
-            "translation": "",
+            "translation": "区域",
             "examples": [
               {
                 "text": "We need to change the zoning on the south side to allow for a new distillery.",
@@ -3862,7 +4137,11 @@
         "text": "zoning in urban area",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zonula",
@@ -3897,7 +4176,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zonule",
@@ -3927,7 +4210,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoo",
@@ -3955,7 +4242,7 @@
           {
             "id": "zoo-noun-1",
             "definition": "the facility where wild animals are housed for exhibition",
-            "translation": "",
+            "translation": "动物园",
             "examples": [
               {
                 "text": "The children like to visit the zoo, especially the monkey cage.",
@@ -3966,7 +4253,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zooerastia",
@@ -4001,7 +4292,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zooerasty",
@@ -4036,7 +4331,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zooid",
@@ -4069,7 +4368,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zookeeper",
@@ -4102,7 +4405,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoolatry",
@@ -4116,9 +4423,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "animal-worship"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4132,7 +4437,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoological",
@@ -4154,7 +4463,7 @@
           {
             "id": "zoological-adjective-1",
             "definition": "of or relating to animals or animal groups",
-            "translation": "",
+            "translation": "团体的",
             "examples": [
               {
                 "text": "The zoological garden receives hundreds of visitors per day.",
@@ -4176,7 +4485,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zoologist",
@@ -4190,9 +4503,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "animal scientist"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4206,7 +4517,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoology",
@@ -4254,7 +4569,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoom",
@@ -4276,12 +4595,8 @@
       "ky"
     ],
     "synonyms": [
-      "rapid climb",
-      "rapid growth",
       "soar",
-      "whizz",
-      "whizz along",
-      "zoom along"
+      "whizz"
     ],
     "entries": [
       {
@@ -4290,13 +4605,13 @@
           {
             "id": "zoom-noun-1",
             "definition": "the act of rising upward into the air",
-            "translation": "",
+            "translation": "急速上升；陡升",
             "examples": []
           },
           {
             "id": "zoom-noun-2",
             "definition": "a rapid rise",
-            "translation": "",
+            "translation": "一个迅速的上升",
             "examples": []
           }
         ]
@@ -4307,19 +4622,19 @@
           {
             "id": "zoom-verb-1",
             "definition": "rise rapidly",
-            "translation": "",
+            "translation": "上升迅速地",
             "examples": []
           },
           {
             "id": "zoom-verb-2",
             "definition": "move along very quickly",
-            "translation": "",
+            "translation": "快速移动；疾行",
             "examples": []
           },
           {
             "id": "zoom-verb-3",
             "definition": "move with a low humming noise",
-            "translation": "",
+            "translation": "嗡嗡地移动",
             "examples": []
           }
         ]
@@ -4362,7 +4677,11 @@
         "text": "zoom up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zoomastigote",
@@ -4390,7 +4709,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoomorphism",
@@ -4428,7 +4751,11 @@
         "text": "zoomorphism in ornament",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoonosis",
@@ -4442,9 +4769,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "zoonotic disease"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4458,7 +4783,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoonotic",
@@ -4480,7 +4809,7 @@
           {
             "id": "zoonotic-adjective-1",
             "definition": "of or relating to or constituting zoonosis",
-            "translation": "",
+            "translation": "构成的",
             "examples": [
               {
                 "text": "The Ebola virus is believed to be zoonotic in nature.",
@@ -4491,7 +4820,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zoophagous",
@@ -4505,9 +4838,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "flesh-eating"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -4526,7 +4857,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoophilia",
@@ -4556,7 +4891,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoophilism",
@@ -4591,7 +4930,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoophobia",
@@ -4624,7 +4967,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoophyte",
@@ -4657,7 +5004,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zooplankton",
@@ -4690,7 +5041,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoopsia",
@@ -4723,7 +5078,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoospore",
@@ -4756,7 +5115,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zootoxin",
@@ -4789,7 +5152,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zori",
@@ -4824,7 +5191,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoroastrian",
@@ -4857,7 +5228,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zoster",
@@ -4871,9 +5246,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "herpes zoster"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4892,7 +5265,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zucchini",
@@ -4928,7 +5305,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zwieback",
@@ -4943,8 +5324,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "rusk",
-      "twice-baked bread"
+      "rusk"
     ],
     "entries": [
       {
@@ -4953,13 +5333,17 @@
           {
             "id": "zwieback-noun-1",
             "definition": "slice of sweet raised bread baked again until it is brown and hard and crisp",
-            "translation": "",
+            "translation": "切片",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zydeco",
@@ -4992,7 +5376,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygodactyl",
@@ -5014,13 +5402,17 @@
           {
             "id": "zygodactyl-adjective-1",
             "definition": "of bird feet, having the first and fourth toes directed backward the second and third forward",
-            "translation": "",
+            "translation": "向前的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zygoma",
@@ -5034,10 +5426,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "arcus zygomaticus",
-      "zygomatic arch"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5051,7 +5440,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygomatic",
@@ -5067,10 +5460,7 @@
     "tags": [],
     "synonyms": [
       "cheekbone",
-      "jugal bone",
-      "malar",
-      "malar bone",
-      "os zygomaticum"
+      "malar"
     ],
     "entries": [
       {
@@ -5079,7 +5469,7 @@
           {
             "id": "zygomatic-adjective-1",
             "definition": "of or relating to the cheek region of the face",
-            "translation": "",
+            "translation": "脸的",
             "examples": []
           }
         ]
@@ -5096,7 +5486,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zygomorphic",
@@ -5110,9 +5504,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bilaterally symmetrical"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -5131,7 +5523,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygomorphous",
@@ -5145,9 +5541,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bilaterally symmetrical"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -5166,7 +5560,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygospore",
@@ -5194,7 +5592,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygote",
@@ -5208,9 +5610,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "fertilized ovum"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5224,7 +5624,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygotene",
@@ -5252,7 +5656,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zygotic",
@@ -5274,7 +5682,7 @@
           {
             "id": "zygotic-adjective-1",
             "definition": "of or relating to a zygote",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "The zygotic cells travel trough the Fallopian tubes.",
@@ -5285,7 +5693,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zymogen",
@@ -5315,7 +5727,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zymoid",
@@ -5343,7 +5759,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zymology",
@@ -5373,7 +5793,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zymolysis",
@@ -5408,7 +5832,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zymolytic",
@@ -5432,7 +5860,7 @@
           {
             "id": "zymolytic-adjective-1",
             "definition": "of or relating to or causing fermentation",
-            "translation": "",
+            "translation": "原因的",
             "examples": [
               {
                 "text": "Zymolytic processes can be fun to study.",
@@ -5443,7 +5871,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zymosis",
@@ -5482,7 +5914,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "zymotic",
@@ -5506,19 +5942,23 @@
           {
             "id": "zymotic-adjective-1",
             "definition": "relating to or caused by infection",
-            "translation": "",
+            "translation": "感染的",
             "examples": []
           },
           {
             "id": "zymotic-adjective-2",
             "definition": "of or relating to or causing fermentation",
-            "translation": "",
+            "translation": "原因的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "zymurgy",
@@ -5553,6 +5993,10 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   }
 ]

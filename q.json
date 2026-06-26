@@ -19,7 +19,7 @@
           {
             "id": "q-noun-1",
             "definition": "the 17th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母第17个字母",
             "examples": []
           }
         ]
@@ -30,7 +30,11 @@
         "text": "Q in a corner",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qabala",
@@ -63,7 +67,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qabalah",
@@ -96,7 +104,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qabalistic",
@@ -131,7 +143,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qabbala",
@@ -164,7 +180,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qadi",
@@ -197,7 +217,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qaftan",
@@ -230,7 +254,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qat",
@@ -263,7 +291,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qatari",
@@ -285,13 +317,17 @@
           {
             "id": "qatari-adjective-1",
             "definition": "of or concerning Qatar or its inhabitants",
-            "translation": "",
+            "translation": "居民的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qed",
@@ -305,9 +341,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quantum electrodynamics"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -337,7 +371,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qepiq",
@@ -370,7 +408,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qi",
@@ -412,7 +454,11 @@
         "text": "qi in the earth",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qibla",
@@ -445,7 +491,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qindarka",
@@ -475,7 +525,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qintar",
@@ -510,7 +564,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qoph",
@@ -532,13 +590,17 @@
           {
             "id": "qoph-noun-1",
             "definition": "the 19th letter of the Hebrew alphabet",
-            "translation": "",
+            "translation": "希伯来字母表的第19个字母",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quack",
@@ -631,7 +693,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quackery",
@@ -668,7 +734,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quackgrass",
@@ -696,7 +766,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quad",
@@ -711,7 +785,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "musculus quadriceps femoris",
       "quadrangle",
       "quadriceps",
       "quadruplet",
@@ -753,7 +826,11 @@
         "text": "quad in line package",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrangle",
@@ -802,7 +879,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrangular",
@@ -824,7 +905,7 @@
           {
             "id": "quadrangular-adjective-1",
             "definition": "of or relating to or shaped like a quadrangle",
-            "translation": "",
+            "translation": "喜欢的",
             "examples": [
               {
                 "text": "The new design is quadrangular.",
@@ -835,7 +916,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadrant",
@@ -881,7 +966,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrantanopia",
@@ -914,7 +1003,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadraphonic",
@@ -940,7 +1033,7 @@
           {
             "id": "quadraphonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "The quadraphonic sound system had twice as many speakers as the stereo system but made the audio much more realistic.",
@@ -951,7 +1044,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadraphony",
@@ -965,9 +1062,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quadraphonic system"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -981,7 +1076,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrasonic",
@@ -1005,7 +1104,7 @@
           {
             "id": "quadrasonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "I have a quadrasonic sound system.",
@@ -1016,7 +1115,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadrate",
@@ -1066,7 +1169,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadratic",
@@ -1080,10 +1187,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quadratic equation",
-      "quadratic polynomial"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -1091,7 +1195,7 @@
           {
             "id": "quadratic-adjective-1",
             "definition": "of or relating to the second power",
-            "translation": "",
+            "translation": "功率的",
             "examples": [
               {
                 "text": "quadratic equation",
@@ -1102,7 +1206,7 @@
           {
             "id": "quadratic-adjective-2",
             "definition": "of or relating to or resembling a square",
-            "translation": "",
+            "translation": "正方形的",
             "examples": [
               {
                 "text": "quadratic shapes",
@@ -1130,7 +1234,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadratics",
@@ -1163,7 +1271,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrature",
@@ -1196,7 +1308,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrennium",
@@ -1229,7 +1345,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadric",
@@ -1243,9 +1363,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quadric surface"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1259,7 +1377,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadriceps",
@@ -1294,7 +1416,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrilateral",
@@ -1311,7 +1437,6 @@
       "toefl"
     ],
     "synonyms": [
-      "four-sided",
       "quadrangle"
     ],
     "entries": [
@@ -1338,7 +1463,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrille",
@@ -1382,7 +1511,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrillion",
@@ -1423,7 +1556,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrillionth",
@@ -1437,9 +1574,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "one-quadrillionth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -1464,7 +1599,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadripara",
@@ -1497,7 +1636,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadripartite",
@@ -1511,9 +1654,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "four-party"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -1527,7 +1668,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadriphonic",
@@ -1551,7 +1696,7 @@
           {
             "id": "quadriphonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "This quadriphonic system sounds superb.",
@@ -1562,7 +1707,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadriplegia",
@@ -1595,7 +1744,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadriplegic",
@@ -1628,7 +1781,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrisonic",
@@ -1652,7 +1809,7 @@
           {
             "id": "quadrisonic-adjective-1",
             "definition": "of or relating to quadraphony",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "I have a quadrisonic sound system.",
@@ -1663,7 +1820,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quadrivium",
@@ -1696,7 +1857,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadroon",
@@ -1724,7 +1889,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrumvirate",
@@ -1757,7 +1926,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadruped",
@@ -1805,7 +1978,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrupedal",
@@ -1820,7 +1997,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "four-footed",
       "quadruped"
     ],
     "entries": [
@@ -1836,7 +2012,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadruple",
@@ -1917,7 +2097,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadruplet",
@@ -1964,7 +2148,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadruplex",
@@ -1999,7 +2187,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadruplicate",
@@ -2070,7 +2262,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quadrupling",
@@ -2103,7 +2299,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaestor",
@@ -2136,7 +2336,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaff",
@@ -2198,7 +2402,11 @@
         "text": "quaff down",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaffer",
@@ -2231,7 +2439,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quag",
@@ -2266,7 +2478,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quagga",
@@ -2299,7 +2515,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaggy",
@@ -2323,7 +2543,7 @@
           {
             "id": "quaggy-adjective-1",
             "definition": "of soil, soft and watery",
-            "translation": "",
+            "translation": "柔软的的",
             "examples": [
               {
                 "text": "This quaggy ground is no place to build a house.",
@@ -2334,7 +2554,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quagmire",
@@ -2382,7 +2606,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quahaug",
@@ -2418,7 +2646,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quahog",
@@ -2433,10 +2665,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "hard clam",
-      "hard-shell clam",
-      "quahaug",
-      "round clam"
+      "quahaug"
     ],
     "entries": [
       {
@@ -2457,7 +2686,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quail",
@@ -2524,7 +2757,11 @@
         "text": "quail before",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaint",
@@ -2541,10 +2778,7 @@
       "gre",
       "toefl"
     ],
-    "synonyms": [
-      "old-time",
-      "olde worlde"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2580,7 +2814,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaintly",
@@ -2624,7 +2862,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaintness",
@@ -2663,7 +2905,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quake",
@@ -2695,11 +2941,11 @@
           {
             "id": "quake-noun-1",
             "definition": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
-            "translation": "",
+            "translation": "地震",
             "examples": [
               {
                 "text": "The quake took down several houses in the neighborhood.",
-                "translation": ""
+                "translation": "这次地震让附近好几栋房子都倒了。"
               }
             ]
           }
@@ -2711,22 +2957,22 @@
           {
             "id": "quake-verb-1",
             "definition": "to shake with seismic vibrations",
-            "translation": "",
+            "translation": "震动；震颤",
             "examples": [
               {
                 "text": "The ground quaked.",
-                "translation": ""
+                "translation": "大地震颤起来。"
               }
             ]
           },
           {
             "id": "quake-verb-2",
             "definition": "to shake with fast, tremulous movements",
-            "translation": "",
+            "translation": "颤抖；发抖",
             "examples": [
               {
                 "text": "The fearful youth quaked before the bully.",
-                "translation": ""
+                "translation": "那个胆小的年轻人面对恶霸时吓得发抖。"
               }
             ]
           }
@@ -2738,7 +2984,11 @@
         "text": "quake with",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quaker",
@@ -2766,7 +3016,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qualification",
@@ -2797,35 +3051,39 @@
           {
             "id": "qualification-noun-1",
             "definition": "the act of modifying or changing the strength of some idea",
-            "translation": "",
+            "translation": "限制；限定",
             "examples": [
               {
                 "text": "Your new position involves a qualification of your party's platform.",
-                "translation": ""
+                "translation": "你的新职位要求对你党纲领做出一定修正。"
               }
             ]
           },
           {
             "id": "qualification-noun-2",
             "definition": "an attribute that must be met or complied with and that fits a person for something",
-            "translation": "",
+            "translation": "资格；条件",
             "examples": [
               {
                 "text": "Their qualifications for the job are excellent.",
-                "translation": ""
+                "translation": "他们对这个职位来说资历非常好。"
               }
             ]
           },
           {
             "id": "qualification-noun-3",
             "definition": "a statement that limits or restricts some claim",
-            "translation": "",
+            "translation": "保留意见；附加条件",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qualified",
@@ -2914,7 +3172,11 @@
         "text": "qualified to inherit",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qualifier",
@@ -2960,7 +3222,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qualify",
@@ -2989,7 +3255,6 @@
       "characterize",
       "condition",
       "dispose",
-      "measure up",
       "modify",
       "restrict"
     ],
@@ -3000,13 +3265,13 @@
           {
             "id": "qualify-verb-1",
             "definition": "add a modifier to a constituent",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualify-verb-2",
             "definition": "make more specific",
-            "translation": "",
+            "translation": "通过更多具体的制造",
             "examples": [
               {
                 "text": "qualify these remarks",
@@ -3017,31 +3282,31 @@
           {
             "id": "qualify-verb-3",
             "definition": "make fit or prepared",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           },
           {
             "id": "qualify-verb-4",
             "definition": "describe or portray the character or the qualities or peculiarities of",
-            "translation": "",
+            "translation": "描述",
             "examples": []
           },
           {
             "id": "qualify-verb-5",
             "definition": "pronounce fit or able",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualify-verb-6",
             "definition": "specify as a condition or requirement in a contract or agreement",
-            "translation": "",
+            "translation": "收缩；缩小",
             "examples": []
           },
           {
             "id": "qualify-verb-7",
             "definition": "prove capable or fit",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           }
         ]
@@ -3052,7 +3317,11 @@
         "text": "qualify with",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qualifying",
@@ -3078,13 +3347,13 @@
           {
             "id": "qualifying-noun-1",
             "definition": "success in satisfying a test or requirement",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           },
           {
             "id": "qualifying-noun-2",
             "definition": "the grammatical relation that exists when a word qualifies the meaning of the phrase",
-            "translation": "",
+            "translation": "合格",
             "examples": []
           }
         ]
@@ -3093,9 +3362,13 @@
     "phrases": [
       {
         "text": "qualifying round",
-        "translation": ""
+        "translation": "合格圆的"
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qualitative",
@@ -3132,13 +3405,17 @@
           {
             "id": "qualitative-adjective-2",
             "definition": "relating to or involving comparisons based on qualities",
-            "translation": "",
+            "translation": "质量的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qualitatively",
@@ -3171,7 +3448,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quality",
@@ -3210,7 +3491,7 @@
           {
             "id": "quality-adjective-1",
             "definition": "of high social status",
-            "translation": "",
+            "translation": "高的社会的地位的",
             "examples": [
               {
                 "text": "people of quality",
@@ -3221,7 +3502,7 @@
           {
             "id": "quality-adjective-2",
             "definition": "of superior grade",
-            "translation": "",
+            "translation": "优越的等级的",
             "examples": []
           }
         ]
@@ -3232,7 +3513,7 @@
           {
             "id": "quality-noun-1",
             "definition": "an essential and distinguishing attribute of something or someone",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "the quality of mercy is not strained--Shakespeare",
@@ -3243,7 +3524,7 @@
           {
             "id": "quality-noun-2",
             "definition": "a degree or grade of excellence or worth",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "the quality of students has risen",
@@ -3254,13 +3535,13 @@
           {
             "id": "quality-noun-3",
             "definition": "(music) the distinctive property of a complex sound (a voice or noise or musical sound)",
-            "translation": "",
+            "translation": "质量",
             "examples": []
           },
           {
             "id": "quality-noun-4",
             "definition": "a characteristic property that defines the apparent individual nature of something",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "each town has a quality all its own",
@@ -3271,7 +3552,7 @@
           {
             "id": "quality-noun-5",
             "definition": "high social status",
-            "translation": "",
+            "translation": "质量",
             "examples": [
               {
                 "text": "A person of quality would not behave uncouthly.",
@@ -3282,7 +3563,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "qualm",
@@ -3326,7 +3611,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quandary",
@@ -3367,7 +3656,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quandong",
@@ -3381,11 +3674,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "blue fig",
-      "native peach",
-      "silver quandong tree"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3417,7 +3706,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quango",
@@ -3431,9 +3724,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quasi-NGO"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3447,7 +3738,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantal",
@@ -3471,13 +3766,17 @@
           {
             "id": "quantal-adjective-1",
             "definition": "of or relating to a quantum or capable of existing in only one of two states",
-            "translation": "",
+            "translation": "状态的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantic",
@@ -3510,7 +3809,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantifiability",
@@ -3540,7 +3843,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantifiable",
@@ -3562,7 +3869,7 @@
           {
             "id": "quantifiable-adjective-1",
             "definition": "capable of being quantified",
-            "translation": "",
+            "translation": "能够被",
             "examples": [
               {
                 "text": "These theories are simply not quantifiable.",
@@ -3573,7 +3880,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantification",
@@ -3612,7 +3923,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantifier",
@@ -3626,9 +3941,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "logical quantifier"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3648,7 +3961,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantify",
@@ -3679,7 +3996,7 @@
           {
             "id": "quantify-verb-1",
             "definition": "to express as a number",
-            "translation": "",
+            "translation": "表达一个一个数字",
             "examples": [
               {
                 "text": "Can you quantify the results of your survey?",
@@ -3696,7 +4013,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantisation",
@@ -3724,7 +4045,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantise",
@@ -3758,7 +4083,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantitative",
@@ -3796,7 +4125,7 @@
           {
             "id": "quantitative-adjective-2",
             "definition": "of verse, having a metric system based on relative duration of syllables",
-            "translation": "",
+            "translation": "音节的",
             "examples": [
               {
                 "text": "This is clearly quantitative verse.",
@@ -3807,7 +4136,7 @@
           {
             "id": "quantitative-adjective-3",
             "definition": "relating to the measurement of quantity",
-            "translation": "",
+            "translation": "数量的",
             "examples": [
               {
                 "text": "Quantitative studies are more important than armchair theorizing when it comes to solving world hunger.",
@@ -3818,7 +4147,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantitatively",
@@ -3851,7 +4184,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantity",
@@ -3881,7 +4218,7 @@
           {
             "id": "quantity-noun-1",
             "definition": "how much there is or how many there are of something that you can quantify",
-            "translation": "",
+            "translation": "某物的数量或有多少你可以量化的东西",
             "examples": [
               {
                 "text": "There was a quantity of three dozen eggs.",
@@ -3892,7 +4229,7 @@
           {
             "id": "quantity-noun-2",
             "definition": "an adequate or large amount",
-            "translation": "",
+            "translation": "数量",
             "examples": [
               {
                 "text": "The troops had a quantity of ammunition.",
@@ -3903,7 +4240,7 @@
           {
             "id": "quantity-noun-3",
             "definition": "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable",
-            "translation": "",
+            "translation": "数量",
             "examples": [
               {
                 "text": "Vectors have a quantity as well as a direction.",
@@ -3967,7 +4304,11 @@
         "text": "quantity to inspection",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantization",
@@ -3995,7 +4336,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantize",
@@ -4033,7 +4378,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantized",
@@ -4057,7 +4406,7 @@
           {
             "id": "quantized-adjective-1",
             "definition": "of or relating to a quantum or capable of existing in only one of two states",
-            "translation": "",
+            "translation": "状态的",
             "examples": [
               {
                 "text": "Sub-atomic particles may be quantized to better understand their structure.",
@@ -4068,7 +4417,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quantong",
@@ -4101,7 +4454,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quantum",
@@ -4147,7 +4504,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarantine",
@@ -4202,7 +4563,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarantined",
@@ -4237,7 +4602,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quark",
@@ -4281,7 +4650,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarrel",
@@ -4315,22 +4688,22 @@
           {
             "id": "quarrel-noun-1",
             "definition": "an arrow that is shot from a crossbow",
-            "translation": "",
+            "translation": "箭矢；弩箭",
             "examples": [
               {
                 "text": "My quarrel is on target today!",
-                "translation": ""
+                "translation": "我今天的箭正中靶心！"
               }
             ]
           },
           {
             "id": "quarrel-noun-2",
             "definition": "an angry dispute",
-            "translation": "",
+            "translation": "争吵；吵架",
             "examples": [
               {
                 "text": "They had a quarrel in the mall.",
-                "translation": ""
+                "translation": "他们在商场里吵了一架。"
               }
             ]
           }
@@ -4342,11 +4715,11 @@
           {
             "id": "quarrel-verb-1",
             "definition": "to have a disagreement over something",
-            "translation": "",
+            "translation": "争吵；吵架",
             "examples": [
               {
                 "text": "We quarreled over the question as to who discovered America.",
-                "translation": ""
+                "translation": "我们就谁发现了美洲这一问题争吵了起来。"
               }
             ]
           }
@@ -4390,7 +4763,11 @@
         "text": "quarrel with someone about",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quarreler",
@@ -4423,7 +4800,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarreller",
@@ -4456,7 +4837,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarrelsome",
@@ -4489,7 +4874,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarrelsomeness",
@@ -4519,7 +4908,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarrier",
@@ -4554,7 +4947,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarry",
@@ -4578,8 +4975,7 @@
     ],
     "synonyms": [
       "pit",
-      "prey",
-      "stone pit"
+      "prey"
     ],
     "entries": [
       {
@@ -4616,7 +5012,7 @@
           {
             "id": "quarry-verb-1",
             "definition": "extract something, for example stones, from or as if from a quarry",
-            "translation": "",
+            "translation": "提取",
             "examples": [
               {
                 "text": "I like to quarry marble in my spare time.",
@@ -4632,7 +5028,11 @@
         "text": "quarry out",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quarrying",
@@ -4665,7 +5065,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarryman",
@@ -4695,7 +5099,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quart",
@@ -4713,9 +5121,7 @@
       "cet6",
       "ky"
     ],
-    "synonyms": [
-      "dry quart"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -4723,7 +5129,7 @@
           {
             "id": "quart-noun-1",
             "definition": "a United States liquid unit equal to 32 fluid ounces",
-            "translation": "",
+            "translation": "夸脱",
             "examples": [
               {
                 "text": "four quarts equal one gallon",
@@ -4734,13 +5140,13 @@
           {
             "id": "quart-noun-2",
             "definition": "a United States dry unit equal to 2 pints or 67.2 cubic inches",
-            "translation": "",
+            "translation": "夸脱",
             "examples": []
           },
           {
             "id": "quart-noun-3",
             "definition": "a British imperial capacity measure, liquid or dry, equal to 2 pints or 1.136 liters",
-            "translation": "",
+            "translation": "夸脱",
             "examples": [
               {
                 "text": "I ordered a quart of soup to take home.",
@@ -4751,7 +5157,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quartan",
@@ -4795,7 +5205,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarter",
@@ -4822,9 +5236,6 @@
       "billet",
       "draw",
       "fourth",
-      "fourth part",
-      "one-fourth",
-      "one-quarter",
       "quartern",
       "tail"
     ],
@@ -4835,7 +5246,7 @@
           {
             "id": "quarter-noun-1",
             "definition": "clemency or mercy shown to a defeated opponent",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "We surrendered but asked for quarter, hoping that our captors would be accommodating.",
@@ -4846,7 +5257,7 @@
           {
             "id": "quarter-noun-2",
             "definition": "piece of leather that comprises the part of a shoe or boot covering the heel and joining the vamp",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I had the cobbler replace the quarter on my boots.",
@@ -4857,7 +5268,7 @@
           {
             "id": "quarter-noun-3",
             "definition": "the rear part of a ship",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I snuck aboard the boat by hiding in the quarter.",
@@ -4868,7 +5279,7 @@
           {
             "id": "quarter-noun-4",
             "definition": "a district of a city having some distinguishing character",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The French Quarter of the city is considered to be the most beautiful.",
@@ -4879,7 +5290,7 @@
           {
             "id": "quarter-noun-5",
             "definition": "an unspecified person",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "They dropped a word in the right quarter.",
@@ -4890,7 +5301,7 @@
           {
             "id": "quarter-noun-6",
             "definition": "a United States or Canadian coin worth one fourth of a dollar",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I fed four quarters into the slot machine.",
@@ -4901,13 +5312,13 @@
           {
             "id": "quarter-noun-7",
             "definition": "a quarter of a hundredweight, 28 pounds",
-            "translation": "",
+            "translation": "季度",
             "examples": []
           },
           {
             "id": "quarter-noun-8",
             "definition": "one of four equal parts",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I ate a quarter of the pie.",
@@ -4918,7 +5329,7 @@
           {
             "id": "quarter-noun-9",
             "definition": "one of the four major division of the compass",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The wind is coming from that quarter.",
@@ -4929,7 +5340,7 @@
           {
             "id": "quarter-noun-10",
             "definition": "a fourth part of a year, usually in financial areas",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "What are your sales figures for the last quarter?",
@@ -4940,7 +5351,7 @@
           {
             "id": "quarter-noun-11",
             "definition": "one of four periods into which the school year is divided",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The fall quarter ends at Christmas.",
@@ -4951,7 +5362,7 @@
           {
             "id": "quarter-noun-12",
             "definition": "a unit of time equal to 15 minutes or a quarter of an hour",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "It's now a quarter to four.",
@@ -4962,7 +5373,7 @@
           {
             "id": "quarter-noun-13",
             "definition": "one of four timed divisions into which some games are divided",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "Both teams scored in the first quarter.",
@@ -4978,7 +5389,7 @@
           {
             "id": "quarter-verb-1",
             "definition": "to divide by four",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "If you quarter twelve, you get three.",
@@ -4989,7 +5400,7 @@
           {
             "id": "quarter-verb-2",
             "definition": "to divide into quarters",
-            "translation": "",
+            "translation": "分成",
             "examples": [
               {
                 "text": "I quartered a pie.",
@@ -5000,7 +5411,7 @@
           {
             "id": "quarter-verb-3",
             "definition": "to pull a person apart with four horses tied to their extremities, so as to execute them",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "In the old days, people were drawn and quartered for certain crimes.",
@@ -5011,7 +5422,7 @@
           {
             "id": "quarter-verb-4",
             "definition": "to provide housing for, usually used for military personnel",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "I was quartered in a bunker at first.",
@@ -5037,7 +5448,7 @@
       },
       {
         "text": "quarter round",
-        "translation": ""
+        "translation": "季度圆的"
       },
       {
         "text": "quarter up price",
@@ -5047,108 +5458,11 @@
         "text": "quarter with",
         "translation": ""
       }
-    ]
-  },
-  {
-    "word": "quarter-century",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈkwɔrtɚ ˈsɛntʃəri"
-      },
-      "uk": {
-        "ipa": "ˈkwɔ:tə ˈsentʃərɪ"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "quarter-century-noun-1",
-            "definition": "a period of 25 years",
-            "translation": "",
-            "examples": [
-              {
-                "text": "There have been many innovations in the last quarter-century.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
     ],
-    "phrases": []
-  },
-  {
-    "word": "quarter-tone",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "quarter tone"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "quarter-tone-noun-1",
-            "definition": "half of a semitone",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We are tuning down one quarter-tone for the next song.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quarter-vine",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "quarter-vine-noun-1",
-            "definition": "woody flowering vine of southern United States",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We have quarter-vine on our property.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quarterback",
@@ -5162,10 +5476,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "field general",
-      "signal caller"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5201,7 +5512,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarterdeck",
@@ -5234,7 +5549,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarterfinal",
@@ -5267,7 +5586,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartering",
@@ -5289,7 +5612,7 @@
           {
             "id": "quartering-noun-1",
             "definition": "dividing into four equal parts",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "Quartering an apple only requires two cuts.",
@@ -5300,7 +5623,7 @@
           {
             "id": "quartering-noun-2",
             "definition": "living accommodations, especially those assigned to military personnel",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The soldiers' quartering will be the barracks.",
@@ -5311,7 +5634,7 @@
           {
             "id": "quartering-noun-3",
             "definition": "a coat of arms that occupies one quarter of an escutcheon",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The lower left quartering portrays a lion and a wolf.",
@@ -5322,7 +5645,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quarterlight",
@@ -5355,7 +5682,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarterly",
@@ -5375,9 +5706,7 @@
       "ky",
       "toefl"
     ],
-    "synonyms": [
-      "every quarter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -5385,7 +5714,7 @@
           {
             "id": "quarterly-adjective-1",
             "definition": "of or relating to or consisting of a quarter",
-            "translation": "",
+            "translation": "季度的",
             "examples": [
               {
                 "text": "quarterly report",
@@ -5401,7 +5730,7 @@
           {
             "id": "quarterly-adverb-1",
             "definition": "in three month intervals",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "interest is compounded quarterly",
@@ -5412,7 +5741,7 @@
           {
             "id": "quarterly-adverb-2",
             "definition": "in diagonally opposed quarters of an escutcheon",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "two coats of arms borne quarterly",
@@ -5428,7 +5757,7 @@
           {
             "id": "quarterly-noun-1",
             "definition": "a periodical that is published every quarter, or four issues per year",
-            "translation": "",
+            "translation": "季度地",
             "examples": [
               {
                 "text": "My favorite art magazine is a quarterly publication. ",
@@ -5439,7 +5768,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quartermaster",
@@ -5472,7 +5805,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartern",
@@ -5507,7 +5844,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarteron",
@@ -5535,7 +5876,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarters",
@@ -5549,9 +5894,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "living quarters"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -5559,7 +5902,7 @@
           {
             "id": "quarters-noun-1",
             "definition": "housing available for people to live in",
-            "translation": "",
+            "translation": "季度",
             "examples": [
               {
                 "text": "The family found quarters to live in.",
@@ -5570,7 +5913,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quarterstaff",
@@ -5603,7 +5950,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartet",
@@ -5667,7 +6018,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartette",
@@ -5715,7 +6070,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartic",
@@ -5750,7 +6109,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartile",
@@ -5783,7 +6146,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quarto",
@@ -5816,7 +6183,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartz",
@@ -5871,7 +6242,11 @@
         "text": "quartz with step motor watch",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartzite",
@@ -5904,7 +6279,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quartzose",
@@ -5937,7 +6316,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quasar",
@@ -5965,7 +6348,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quash",
@@ -5996,7 +6383,7 @@
           {
             "id": "quash-verb-1",
             "definition": "to put down by force or intimidation",
-            "translation": "",
+            "translation": "放下",
             "examples": [
               {
                 "text": "The government quashes any attempt of an uprising.",
@@ -6007,7 +6394,7 @@
           {
             "id": "quash-verb-2",
             "definition": "to declare invalid",
-            "translation": "",
+            "translation": "宣布无效",
             "examples": [
               {
                 "text": "The motion was quashed during the meeting.",
@@ -6018,7 +6405,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quasi",
@@ -6051,108 +6442,11 @@
         ]
       }
     ],
-    "phrases": []
-  },
-  {
-    "word": "quasi-ngo",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "quango"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "quasi-ngo-noun-1",
-            "definition": "a quasi nongovernmental organization",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I worked for a quasi-NGO helping former child soldiers in Africa.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quasi-religious",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quasi-religious-adjective-1",
-            "definition": "resembling something that is religious",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The football fans have a quasi-religious relationship with their favorite team.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quasi-royal",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quasi-royal-adjective-1",
-            "definition": "having the power but not the rank or title of a king",
-            "translation": "",
-            "examples": [
-              {
-                "text": "They are one of the quasi-royal rulers of Africa.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quasiparticle",
@@ -6185,7 +6479,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quassia",
@@ -6229,7 +6527,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quat",
@@ -6262,7 +6564,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quatercentenary",
@@ -6297,7 +6603,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quatercentennial",
@@ -6332,7 +6642,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaternary",
@@ -6386,7 +6700,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaternate",
@@ -6421,7 +6739,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaternion",
@@ -6454,7 +6776,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quatrain",
@@ -6487,7 +6813,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quattrocento",
@@ -6520,7 +6850,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaver",
@@ -6541,7 +6875,6 @@
       "gre"
     ],
     "synonyms": [
-      "eighth note",
       "warble",
       "waver"
     ],
@@ -6601,7 +6934,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quavering",
@@ -6636,7 +6973,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quaveringly",
@@ -6669,7 +7010,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quay",
@@ -6717,7 +7062,11 @@
         "text": "quay with half tide landing",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quayage",
@@ -6752,7 +7101,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queach",
@@ -6786,7 +7139,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queasily",
@@ -6819,7 +7176,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queasiness",
@@ -6857,7 +7218,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queasy",
@@ -6918,7 +7283,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quebecois",
@@ -6940,7 +7309,7 @@
           {
             "id": "quebecois-adjective-1",
             "definition": "of or relating to Quebec, especially to the French speaking inhabitants or their culture",
-            "translation": "",
+            "translation": "文化的",
             "examples": [
               {
                 "text": "The Quebecois food is delicious.",
@@ -6951,7 +7320,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quechuan",
@@ -6973,13 +7346,17 @@
           {
             "id": "quechuan-adjective-1",
             "definition": "of or relating to the Quechua people or their language",
-            "translation": "",
+            "translation": "语言的",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "queen",
@@ -7008,16 +7385,13 @@
       "faggot",
       "fagot",
       "fairy",
-      "female monarch",
       "king",
       "nance",
       "pansy",
       "poof",
       "poove",
       "pouf",
-      "queen regnant",
-      "tabby",
-      "world-beater"
+      "tabby"
     ],
     "entries": [
       {
@@ -7026,61 +7400,61 @@
           {
             "id": "queen-noun-1",
             "definition": "female cat",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-2",
             "definition": "the only fertile female in a colony of social insects such as bees and ants and termites",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-3",
             "definition": "an especially large mole rat and the only member of a colony of naked mole rats to bear offspring which are sired by only a few males",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-4",
             "definition": "(chess) the most powerful piece",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-5",
             "definition": "one of four face cards in a deck bearing a picture of a queen",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-6",
             "definition": "offensive term for an openly homosexual man",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-7",
             "definition": "a competitor who holds a preeminent position",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-8",
             "definition": "a female sovereign ruler",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-9",
             "definition": "the wife or widow of a king",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           },
           {
             "id": "queen-noun-10",
             "definition": "something personified as a woman who is considered the best or most important of her kind",
-            "translation": "",
+            "translation": "女王",
             "examples": [
               {
                 "text": "Paris is the queen of cities",
@@ -7096,7 +7470,7 @@
           {
             "id": "queen-verb-1",
             "definition": "become a queen",
-            "translation": "",
+            "translation": "女王",
             "examples": [
               {
                 "text": "Their pawn queened on their next move\n.",
@@ -7107,7 +7481,7 @@
           {
             "id": "queen-verb-2",
             "definition": "promote to a queen, as of a pawn in chess",
-            "translation": "",
+            "translation": "女王",
             "examples": []
           }
         ]
@@ -7118,40 +7492,11 @@
         "text": "queen in council",
         "translation": ""
       }
-    ]
-  },
-  {
-    "word": "queen-size",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "queen-size-adjective-1",
-            "definition": "(used especially of beds) not as large as king-size",
-            "translation": "",
-            "examples": [
-              {
-                "text": "a queen-sized bed",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
     ],
-    "phrases": []
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "queenfish",
@@ -7165,9 +7510,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "white croaker"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -7181,7 +7524,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queenlike",
@@ -7214,7 +7561,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queenly",
@@ -7236,7 +7587,7 @@
           {
             "id": "queenly-adjective-1",
             "definition": "having the rank of or resembling or befitting a queen",
-            "translation": "",
+            "translation": "女王地",
             "examples": [
               {
                 "text": "I always show queenly propriety.",
@@ -7247,7 +7598,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "queer",
@@ -7280,7 +7635,7 @@
           {
             "id": "queer-adjective-1",
             "definition": "beyond or deviating from the usual or expected",
-            "translation": "",
+            "translation": "奇怪的；不寻常的",
             "examples": [
               {
                 "text": "I thought that my boss was strange, but then I met my friend's queer boss and I realized that I had it good.",
@@ -7291,7 +7646,7 @@
           {
             "id": "queer-adjective-2",
             "definition": "homosexual or arousing homosexual desires",
-            "translation": "",
+            "translation": "同性恋的",
             "examples": [
               {
                 "text": "I wonder how diverse the queer community is in the city?",
@@ -7307,7 +7662,7 @@
           {
             "id": "queer-noun-1",
             "definition": "a homosexual man",
-            "translation": "",
+            "translation": "同性恋者",
             "examples": [
               {
                 "text": "Do people often discriminate against people who the believe are queer?",
@@ -7323,7 +7678,7 @@
           {
             "id": "queer-verb-1",
             "definition": "to put in a dangerous, disadvantageous, or difficult position",
-            "translation": "",
+            "translation": "使陷入困境；使难堪",
             "examples": [
               {
                 "text": "Throughout the game of chess my opponent kept queering me.",
@@ -7334,7 +7689,7 @@
           {
             "id": "queer-verb-2",
             "definition": "to hinder or prevent the efforts, plans, or desires of",
-            "translation": "",
+            "translation": "阻碍；妨碍",
             "examples": [
               {
                 "text": "Should the government queer the advocate's attempts once more a rebellion will probably break out.",
@@ -7345,7 +7700,7 @@
           {
             "id": "queer-verb-3",
             "definition": "to complicate or reframe the analytical categories of, through an analysis of gender, sexuality, and their related power dynamics",
-            "translation": "",
+            "translation": "（酷儿理论中）解构类别",
             "examples": [
               {
                 "text": "Their newly published book queers the discourse on prisons.",
@@ -7365,7 +7720,11 @@
         "text": "queer in the head",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "agent-c78a7fc7d35b-MiniMax-M3",
+      "updatedAt": "2026-06-25"
+    }
   },
   {
     "word": "queerly",
@@ -7412,7 +7771,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queerness",
@@ -7452,7 +7815,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quell",
@@ -7495,7 +7862,7 @@
           {
             "id": "quell-verb-2",
             "definition": "to overcome or allay",
-            "translation": "",
+            "translation": "克服或减轻",
             "examples": [
               {
                 "text": "The soup quelled my hunger.",
@@ -7506,7 +7873,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quelled",
@@ -7542,7 +7913,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quelling",
@@ -7577,7 +7952,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quellung",
@@ -7610,7 +7989,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quench",
@@ -7636,9 +8019,7 @@
     ],
     "synonyms": [
       "assuage",
-      "blow out",
       "extinguish",
-      "snuff out",
       "squelch"
     ],
     "entries": [
@@ -7694,7 +8075,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quenched",
@@ -7737,7 +8122,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quenching",
@@ -7781,7 +8170,11 @@
         "text": "quenching with subsequent tempering",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quenchless",
@@ -7811,7 +8204,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quercitron",
@@ -7839,7 +8236,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "querier",
@@ -7874,7 +8275,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quern",
@@ -7907,7 +8312,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "querulous",
@@ -7944,7 +8353,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "querulously",
@@ -7979,7 +8392,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "querulousness",
@@ -8012,7 +8429,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "query",
@@ -8060,7 +8481,7 @@
           {
             "id": "query-verb-1",
             "definition": "to pose a question",
-            "translation": "",
+            "translation": "姿势一个问题",
             "examples": [
               {
                 "text": "They queried us about our plans for the weekend.",
@@ -8100,7 +8521,11 @@
         "text": "query by screen",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quesadilla",
@@ -8133,7 +8558,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quest",
@@ -8160,7 +8589,6 @@
     "synonyms": [
       "bay",
       "bespeak",
-      "call for",
       "pursuance",
       "pursuit",
       "request",
@@ -8224,7 +8652,7 @@
           {
             "id": "quest-verb-5",
             "definition": "make a search (for)",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "Things that die with their eyes open and questing",
@@ -8248,7 +8676,11 @@
         "text": "quest out",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quester",
@@ -8283,7 +8715,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "question",
@@ -8305,7 +8741,6 @@
       "zk"
     ],
     "synonyms": [
-      "call into question",
       "doubt",
       "head",
       "inquiry",
@@ -8324,7 +8759,7 @@
           {
             "id": "question-noun-1",
             "definition": "uncertainty about the truth, factuality, or existence of something",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "There is a big question over where I'll be in five years.",
@@ -8335,7 +8770,7 @@
           {
             "id": "question-noun-2",
             "definition": "the subject matter at issue",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The question of disease merits serious discussion.",
@@ -8346,7 +8781,7 @@
           {
             "id": "question-noun-3",
             "definition": "a reference to a marriage proposal",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "Where were you when your spouse popped the question?",
@@ -8357,7 +8792,7 @@
           {
             "id": "question-noun-4",
             "definition": "a formal proposal for action made to a deliberative assembly for discussion and vote",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "I posed the question of whether we should fund the neighbouring park.",
@@ -8368,7 +8803,7 @@
           {
             "id": "question-noun-5",
             "definition": "an instance of questioning",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "There was a question about my training.",
@@ -8379,7 +8814,7 @@
           {
             "id": "question-noun-6",
             "definition": "a sentence of inquiry that asks for a reply",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The officer asked a direct question.",
@@ -8395,7 +8830,7 @@
           {
             "id": "question-verb-1",
             "definition": "to pose a question",
-            "translation": "",
+            "translation": "姿势一个问题",
             "examples": [
               {
                 "text": "I questioned: what makes the sky so blue?",
@@ -8406,7 +8841,7 @@
           {
             "id": "question-verb-2",
             "definition": "to pose a series of questions to",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The police questioned the subject.",
@@ -8417,7 +8852,7 @@
           {
             "id": "question-verb-3",
             "definition": "to conduct an interview in television, newspaper, and radio reporting",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "The reporter questioned the celebrity live.",
@@ -8428,7 +8863,7 @@
           {
             "id": "question-verb-4",
             "definition": "to challenge the accuracy, probity, or propriety of",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "We must question your judgment in this matter.",
@@ -8439,7 +8874,7 @@
           {
             "id": "question-verb-5",
             "definition": "to place in doubt or express doubtful speculation",
-            "translation": "",
+            "translation": "问题",
             "examples": [
               {
                 "text": "I questioned the origin of the food.",
@@ -8453,7 +8888,7 @@
     "phrases": [
       {
         "text": "question about",
-        "translation": ""
+        "translation": "问题关于"
       },
       {
         "text": "question at issue",
@@ -8475,7 +8910,11 @@
         "text": "question on",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "questionable",
@@ -8522,7 +8961,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "questionably",
@@ -8557,7 +9000,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "questioner",
@@ -8592,7 +9039,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "questioning",
@@ -8621,19 +9072,19 @@
           {
             "id": "questioning-adjective-1",
             "definition": "showing curiosity",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           },
           {
             "id": "questioning-adjective-2",
             "definition": "perplexed (as if being expected to know something that you do not know)",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           },
           {
             "id": "questioning-adjective-3",
             "definition": "marked by or given to doubt",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           }
         ]
@@ -8644,13 +9095,17 @@
           {
             "id": "questioning-noun-1",
             "definition": "a request for information",
-            "translation": "",
+            "translation": "问题",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "questioningly",
@@ -8692,7 +9147,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "questionnaire",
@@ -8720,18 +9179,22 @@
           {
             "id": "questionnaire-noun-1",
             "definition": "a form containing a set of questions",
-            "translation": "",
+            "translation": "问卷；调查表",
             "examples": [
               {
                 "text": "This questionnaire has ten questions.",
-                "translation": ""
+                "translation": "这份问卷有十个问题。"
               }
             ]
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quetch",
@@ -8766,7 +9229,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quetzal",
@@ -8800,7 +9267,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "queue",
@@ -8824,11 +9295,7 @@
       "gre",
       "ky"
     ],
-    "synonyms": [
-      "line up",
-      "queue up",
-      "waiting line"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -8836,19 +9303,19 @@
           {
             "id": "queue-noun-1",
             "definition": "a braid of hair at the back of the head",
-            "translation": "",
+            "translation": "发辫；辫子",
             "examples": []
           },
           {
             "id": "queue-noun-2",
             "definition": "(information processing) an ordered list of tasks to be performed or messages to be transmitted",
-            "translation": "",
+            "translation": "队列；等待队列",
             "examples": []
           },
           {
             "id": "queue-noun-3",
             "definition": "a line of people or vehicles waiting for something",
-            "translation": "",
+            "translation": "队；一行人",
             "examples": []
           }
         ]
@@ -8859,7 +9326,7 @@
           {
             "id": "queue-verb-1",
             "definition": "form a queue, form a line, stand in line",
-            "translation": "",
+            "translation": "形式",
             "examples": []
           }
         ]
@@ -8882,7 +9349,11 @@
         "text": "queue up for",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quibble",
@@ -8946,7 +9417,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quibbler",
@@ -8978,7 +9453,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiche",
@@ -9011,7 +9490,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quick",
@@ -9046,13 +9529,13 @@
           {
             "id": "quick-adjective-1",
             "definition": "moving quickly and lightly",
-            "translation": "",
+            "translation": "快速而轻盈地移动",
             "examples": []
           },
           {
             "id": "quick-adjective-2",
             "definition": "easily aroused or excited",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "a quick temper",
@@ -9063,13 +9546,13 @@
           {
             "id": "quick-adjective-3",
             "definition": "performed with little or no delay",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           },
           {
             "id": "quick-adjective-4",
             "definition": "accomplished rapidly and without delay",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "was quick to make friends",
@@ -9080,13 +9563,13 @@
           {
             "id": "quick-adjective-5",
             "definition": "hurried and brief",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           },
           {
             "id": "quick-adjective-6",
             "definition": "apprehending and responding with speed and sensitivity",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "a quick mind",
@@ -9097,7 +9580,7 @@
           {
             "id": "quick-adjective-7",
             "definition": "alive or living",
-            "translation": "",
+            "translation": "快的",
             "examples": [
               {
                 "text": "Man is no star, but a quick coal of mortal fire.",
@@ -9113,7 +9596,7 @@
           {
             "id": "quick-adverb-1",
             "definition": "with little or no delay",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           }
         ]
@@ -9124,7 +9607,7 @@
           {
             "id": "quick-noun-1",
             "definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
-            "translation": "",
+            "translation": "快的",
             "examples": []
           }
         ]
@@ -9133,7 +9616,7 @@
     "phrases": [
       {
         "text": "quick after look",
-        "translation": ""
+        "translation": "快的之后看"
       },
       {
         "text": "quick at",
@@ -9155,297 +9638,11 @@
         "text": "quick with child",
         "translation": ""
       }
-    ]
-  },
-  {
-    "word": "quick-change",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-change-adjective-1",
-            "definition": "adept at changing from one thing to another especially changing costumes",
-            "translation": "",
-            "examples": [
-              {
-                "text": "My quick-change routine is down pat.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
     ],
-    "phrases": []
-  },
-  {
-    "word": "quick-eared",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "sharp-eared"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-eared-adjective-1",
-            "definition": "having keen hearing",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I like to take my quick-eared dog quail hunting.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-freeze",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {
-      "gerund": "quick-freezing",
-      "past": "quick-froze",
-      "pastParticiple": "quick-frozen"
-    },
-    "tags": [],
-    "synonyms": [
-      "flash-freeze"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "verb",
-        "senses": [
-          {
-            "id": "quick-freeze-verb-1",
-            "definition": "freeze rapidly so as to preserve the natural juices and flavors",
-            "translation": "",
-            "examples": [
-              {
-                "text": "quick-freeze the shrimp",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-frozen",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-frozen-adjective-1",
-            "definition": "of food, preserved by freezing sufficiently rapidly to retain flavor and nutritional value",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The peas are quick-frozen, but quite nice when heated.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-sighted",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "argus-eyed",
-      "sharp-eyed"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-sighted-adjective-1",
-            "definition": "keenly perceptive or alert",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The author is quick-sighted into the faults of the time.",
-                "translation": ""
-              }
-            ]
-          },
-          {
-            "id": "quick-sighted-adjective-2",
-            "definition": "having very keen vision",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I am as quick-sighted as a cat.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-tempered",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "choleric"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-tempered-adjective-1",
-            "definition": "quickly aroused to anger",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The quick-tempered kids got in an ugly fight.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-witted",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈkwɪkˌwɪtɪd"
-      },
-      "uk": {
-        "ipa": "kwɪk ˈwɪtɪd"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "quick-witted-adjective-1",
-            "definition": "mentally nimble and resourceful",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The quick-witted debater impressed the audience.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
-  },
-  {
-    "word": "quick-wittedness",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "quickness"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "quick-wittedness-noun-1",
-            "definition": "intelligence as revealed by an ability to give correct responses without delay",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We pay you so much because of your quick-wittedness.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quicken",
@@ -9485,7 +9682,7 @@
           {
             "id": "quicken-verb-2",
             "definition": "show signs of life",
-            "translation": "",
+            "translation": "展示",
             "examples": [
               {
                 "text": "the fetus quickened",
@@ -9508,7 +9705,7 @@
           {
             "id": "quicken-verb-5",
             "definition": "make keen or more acute",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
@@ -9519,7 +9716,11 @@
         "text": "quicken up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quickener",
@@ -9555,7 +9756,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quickening",
@@ -9579,7 +9784,7 @@
           {
             "id": "quickening-noun-1",
             "definition": "the act of accelerating",
-            "translation": "",
+            "translation": "加速的行为",
             "examples": [
               {
                 "text": "Any more quickening and we are going to blow the motor.",
@@ -9612,7 +9817,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quicker",
@@ -9636,13 +9845,17 @@
           {
             "id": "quicker-adverb-1",
             "definition": "more quickly",
-            "translation": "",
+            "translation": "更多快地",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quickest",
@@ -9666,13 +9879,17 @@
           {
             "id": "quickest-adverb-1",
             "definition": "most quickly",
-            "translation": "",
+            "translation": "最多快地",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quickie",
@@ -9686,9 +9903,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quick fix"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -9707,7 +9922,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quickly",
@@ -9723,7 +9942,6 @@
     "tags": [],
     "synonyms": [
       "apace",
-      "chop-chop",
       "cursorily",
       "promptly",
       "quick",
@@ -9737,7 +9955,7 @@
           {
             "id": "quickly-adverb-1",
             "definition": "with rapid movements",
-            "translation": "",
+            "translation": "快地",
             "examples": [
               {
                 "text": "The tailor works quickly with the shears and cloth.",
@@ -9748,19 +9966,23 @@
           {
             "id": "quickly-adverb-2",
             "definition": "with little or no delay",
-            "translation": "",
+            "translation": "快地",
             "examples": []
           },
           {
             "id": "quickly-adverb-3",
             "definition": "without taking pains",
-            "translation": "",
+            "translation": "快地",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quickness",
@@ -9776,9 +9998,7 @@
     "tags": [],
     "synonyms": [
       "celerity",
-      "facility",
-      "mental quickness",
-      "quick-wittedness"
+      "facility"
     ],
     "entries": [
       {
@@ -9805,7 +10025,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quicksand",
@@ -9849,7 +10073,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quickset",
@@ -9893,7 +10121,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quicksilver",
@@ -9934,7 +10166,7 @@
           {
             "id": "quicksilver-noun-1",
             "definition": "liquid mercury",
-            "translation": "",
+            "translation": "液体汞",
             "examples": [
               {
                 "text": "The beaker broke and quicksilver ran across the lab station and beaded on the floor.",
@@ -9945,7 +10177,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quickstep",
@@ -9999,7 +10235,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quicky",
@@ -10013,9 +10253,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quick fix"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -10034,7 +10272,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quid",
@@ -10050,8 +10292,7 @@
     "tags": [],
     "synonyms": [
       "chew",
-      "pound",
-      "quid pro quo"
+      "pound"
     ],
     "entries": [
       {
@@ -10078,7 +10319,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiddity",
@@ -10116,7 +10361,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quidnunc",
@@ -10151,7 +10400,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiesce",
@@ -10186,7 +10439,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiescence",
@@ -10229,7 +10486,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiescency",
@@ -10275,7 +10536,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiescent",
@@ -10333,7 +10598,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiet",
@@ -10356,15 +10625,12 @@
     ],
     "synonyms": [
       "calm",
-      "calm down",
       "hush",
       "hushed",
       "lull",
       "muted",
-      "pipe down",
       "placid",
       "quiesce",
-      "quiet down",
       "quieten",
       "quietly",
       "repose",
@@ -10389,25 +10655,25 @@
           {
             "id": "quiet-adjective-1",
             "definition": "of the sun characterized by a low level of surface phenomena like sunspots e.g.",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": []
           },
           {
             "id": "quiet-adjective-2",
             "definition": "(of a body of water) free from disturbance by heavy waves",
-            "translation": "",
+            "translation": "免于",
             "examples": []
           },
           {
             "id": "quiet-adjective-3",
             "definition": "in a softened tone",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-adjective-4",
             "definition": "not showy or obtrusive",
-            "translation": "",
+            "translation": "安静的",
             "examples": [
               {
                 "text": "clothes in quiet good taste",
@@ -10418,13 +10684,13 @@
           {
             "id": "quiet-adjective-5",
             "definition": "free of noise or uproar",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-adjective-6",
             "definition": "characterized by an absence or near absence of agitation or activity",
-            "translation": "",
+            "translation": "以…为特征",
             "examples": [
               {
                 "text": "a quiet life",
@@ -10440,7 +10706,7 @@
           {
             "id": "quiet-adverb-1",
             "definition": "with little or no activity or no agitation",
-            "translation": "",
+            "translation": "安静的",
             "examples": [
               {
                 "text": "Their hands rested quiet in their lap.",
@@ -10456,25 +10722,25 @@
           {
             "id": "quiet-noun-1",
             "definition": "a disposition free from stress or emotion",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-noun-2",
             "definition": "the absence of sound",
-            "translation": "",
+            "translation": "声音的缺席",
             "examples": []
           },
           {
             "id": "quiet-noun-3",
             "definition": "an untroubled state",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           },
           {
             "id": "quiet-noun-4",
             "definition": "a period of calm weather",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           }
         ]
@@ -10485,7 +10751,7 @@
           {
             "id": "quiet-verb-1",
             "definition": "make calm or still",
-            "translation": "",
+            "translation": "制造",
             "examples": [
               {
                 "text": "quiet the dragons of worry and fear",
@@ -10496,7 +10762,7 @@
           {
             "id": "quiet-verb-2",
             "definition": "become quiet or quieter",
-            "translation": "",
+            "translation": "安静的",
             "examples": []
           }
         ]
@@ -10509,9 +10775,13 @@
       },
       {
         "text": "quiet down",
-        "translation": ""
+        "translation": "安静的向下"
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quieten",
@@ -10573,7 +10843,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quietism",
@@ -10606,7 +10880,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quietist",
@@ -10639,7 +10917,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quietly",
@@ -10665,13 +10947,13 @@
           {
             "id": "quietly-adverb-1",
             "definition": "with low volume",
-            "translation": "",
+            "translation": "安静地",
             "examples": []
           },
           {
             "id": "quietly-adverb-2",
             "definition": "with little or no sound",
-            "translation": "",
+            "translation": "安静地",
             "examples": [
               {
                 "text": "the class was listening quietly and intently",
@@ -10682,7 +10964,7 @@
           {
             "id": "quietly-adverb-3",
             "definition": "with little or no activity or no agitation, 'quiet' is a nonstandard variant for 'quietly'",
-            "translation": "",
+            "translation": "安静地",
             "examples": [
               {
                 "text": "While meditating, their hands rested quietly in their laps.",
@@ -10693,13 +10975,17 @@
           {
             "id": "quietly-adverb-4",
             "definition": "in a restful manner",
-            "translation": "",
+            "translation": "安静地",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quietness",
@@ -10746,7 +11032,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quietude",
@@ -10781,7 +11071,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quietus",
@@ -10827,7 +11121,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiff",
@@ -10860,7 +11158,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quill",
@@ -10878,10 +11180,7 @@
     ],
     "synonyms": [
       "calamus",
-      "flight feather",
       "pinion",
-      "quill feather",
-      "quill pen",
       "shaft"
     ],
     "entries": [
@@ -10920,7 +11219,11 @@
         "text": "quill back",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quillwort",
@@ -10953,7 +11256,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quilt",
@@ -10987,11 +11294,11 @@
           {
             "id": "quilt-noun-1",
             "definition": "bedding made of two layers of cloth filled with stuffing and stitched together",
-            "translation": "",
+            "translation": "被子；棉被",
             "examples": [
               {
                 "text": "My apartment is filled with eccentric quilts.",
-                "translation": ""
+                "translation": "我的公寓里到处铺满了各式各样的被子。"
               }
             ]
           }
@@ -11003,18 +11310,22 @@
           {
             "id": "quilt-verb-1",
             "definition": "to stitch or sew together",
-            "translation": "",
+            "translation": "缝；拼缝",
             "examples": [
               {
                 "text": "I like to quilt in my spare time.",
-                "translation": ""
+                "translation": "我喜欢在业余时间做拼布缝纫。"
               }
             ]
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quilted",
@@ -11047,7 +11358,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quilting",
@@ -11091,7 +11406,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quin",
@@ -11126,7 +11445,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quinacrine",
@@ -11156,7 +11479,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quince",
@@ -11190,7 +11517,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quincentenary",
@@ -11214,7 +11545,7 @@
           {
             "id": "quincentenary-adjective-1",
             "definition": "of or relating to a 500th anniversary",
-            "translation": "",
+            "translation": "关联的",
             "examples": []
           }
         ]
@@ -11236,7 +11567,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quincentennial",
@@ -11260,7 +11595,7 @@
           {
             "id": "quincentennial-adjective-1",
             "definition": "of or relating to a 500th anniversary",
-            "translation": "",
+            "translation": "关联的",
             "examples": [
               {
                 "text": "the quincentennial celebration of the founding of the city",
@@ -11282,7 +11617,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quinidine",
@@ -11315,7 +11654,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quinine",
@@ -11348,7 +11691,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quinone",
@@ -11378,7 +11725,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quinquefoliate",
@@ -11400,7 +11751,7 @@
           {
             "id": "quinquefoliate-adjective-1",
             "definition": "of a leaf shape, having five leaflets",
-            "translation": "",
+            "translation": "有的",
             "examples": [
               {
                 "text": "This is a great example of a quinquefoliate leaf.",
@@ -11411,7 +11762,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quinquennium",
@@ -11446,7 +11801,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quinsy",
@@ -11460,9 +11819,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "peritonsillar abscess"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -11476,7 +11833,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quint",
@@ -11518,7 +11879,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintal",
@@ -11559,7 +11924,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintessence",
@@ -11613,7 +11982,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintessential",
@@ -11646,7 +12019,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintet",
@@ -11702,7 +12079,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintette",
@@ -11758,7 +12139,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintillion",
@@ -11793,7 +12178,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintillionth",
@@ -11807,9 +12196,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "one-quintillionth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -11834,7 +12221,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintipara",
@@ -11867,7 +12258,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintroon",
@@ -11895,7 +12290,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintuple",
@@ -11914,7 +12313,6 @@
     },
     "tags": [],
     "synonyms": [
-      "five-fold",
       "fivefold",
       "quintet",
       "quintette",
@@ -11960,7 +12358,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintuplet",
@@ -12005,7 +12407,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quintupling",
@@ -12038,7 +12444,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quip",
@@ -12087,13 +12497,17 @@
           {
             "id": "quip-verb-1",
             "definition": "make jokes or quips",
-            "translation": "",
+            "translation": "制造",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quipu",
@@ -12126,7 +12540,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quire",
@@ -12156,7 +12574,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quirk",
@@ -12226,7 +12648,11 @@
         "text": "quirk up",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quirkiness",
@@ -12261,7 +12687,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quirky",
@@ -12275,9 +12705,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "far-out"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -12296,7 +12724,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quirt",
@@ -12329,7 +12761,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quisling",
@@ -12366,7 +12802,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quislingism",
@@ -12401,7 +12841,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quit",
@@ -12427,9 +12871,7 @@
     ],
     "synonyms": [
       "absent",
-      "give up",
       "renounce",
-      "step down",
       "stop"
     ],
     "entries": [
@@ -12439,7 +12881,7 @@
           {
             "id": "quit-verb-1",
             "definition": "to give up in the face of defeat of lacking hope",
-            "translation": "",
+            "translation": "放弃",
             "examples": [
               {
                 "text": "The team was down a player but would not quit.",
@@ -12450,7 +12892,7 @@
           {
             "id": "quit-verb-2",
             "definition": "to go away or leave",
-            "translation": "",
+            "translation": "离开",
             "examples": [
               {
                 "text": "I quit the bar at around one in the morning.",
@@ -12461,7 +12903,7 @@
           {
             "id": "quit-verb-3",
             "definition": "to turn away from",
-            "translation": "",
+            "translation": "转动离开从",
             "examples": [
               {
                 "text": "They quit each other after a long argument.",
@@ -12472,7 +12914,7 @@
           {
             "id": "quit-verb-4",
             "definition": "to give up or retire from a position",
-            "translation": "",
+            "translation": "放弃",
             "examples": [
               {
                 "text": "I quit my board seat after ten years of service.",
@@ -12483,7 +12925,7 @@
           {
             "id": "quit-verb-5",
             "definition": "to put an end to a state or an activity",
-            "translation": "",
+            "translation": "陈述；说明",
             "examples": [
               {
                 "text": "I quit smoking three years ago.",
@@ -12499,7 +12941,11 @@
         "text": "Quit to Menu",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quitclaim",
@@ -12513,9 +12959,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "quitclaim deed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12535,7 +12979,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quite",
@@ -12562,13 +13010,13 @@
           {
             "id": "quite-adverb-1",
             "definition": "to the greatest extent",
-            "translation": "",
+            "translation": "相当",
             "examples": []
           },
           {
             "id": "quite-adverb-2",
             "definition": "to a degree (not used with a negative)",
-            "translation": "",
+            "translation": "相当",
             "examples": [
               {
                 "text": "quite tasty",
@@ -12579,7 +13027,7 @@
           {
             "id": "quite-adverb-3",
             "definition": "of an unusually noticeable or exceptional or remarkable kind, not used with a negative",
-            "translation": "",
+            "translation": "消极的的",
             "examples": [
               {
                 "text": "Your victory was quite something.",
@@ -12590,7 +13038,7 @@
           {
             "id": "quite-adverb-4",
             "definition": "actually or truly or to an extreme",
-            "translation": "",
+            "translation": "相当",
             "examples": [
               {
                 "text": "was quite a sudden change",
@@ -12604,9 +13052,13 @@
     "phrases": [
       {
         "text": "quite apart from",
-        "translation": ""
+        "translation": "相当分开从"
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quits",
@@ -12628,7 +13080,7 @@
           {
             "id": "quits-adjective-1",
             "definition": "on equal terms by payment or requital",
-            "translation": "",
+            "translation": "退出",
             "examples": [
               {
                 "text": "Since you've paid me back for the drink, we're quits.",
@@ -12639,7 +13091,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quittance",
@@ -12680,7 +13136,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quitter",
@@ -12713,7 +13173,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiver",
@@ -12804,7 +13268,11 @@
         "text": "quiver with",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quivering",
@@ -12850,7 +13318,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quixotic",
@@ -12866,9 +13338,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "wild-eyed"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -12876,13 +13346,17 @@
           {
             "id": "quixotic-adjective-1",
             "definition": "not sensible about practical matters",
-            "translation": "",
+            "translation": "不明智的关于实用的事情",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quixotically",
@@ -12915,7 +13389,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quixotism",
@@ -12929,9 +13407,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "knight errantry"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -12950,7 +13426,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quiz",
@@ -12983,7 +13463,7 @@
           {
             "id": "quiz-noun-1",
             "definition": "an examination consisting of a few short questions",
-            "translation": "",
+            "translation": "测验；小测试",
             "examples": []
           }
         ]
@@ -12994,7 +13474,7 @@
           {
             "id": "quiz-verb-1",
             "definition": "examine someone's knowledge of something",
-            "translation": "",
+            "translation": "检查",
             "examples": []
           }
         ]
@@ -13005,7 +13485,11 @@
         "text": "quiz on a special subject",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quizmaster",
@@ -13019,9 +13503,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "question master"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -13040,7 +13522,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quizzer",
@@ -13075,7 +13561,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quizzical",
@@ -13122,7 +13612,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quizzically",
@@ -13157,7 +13651,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quodlibet",
@@ -13185,7 +13683,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quoin",
@@ -13234,7 +13736,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quoit",
@@ -13273,7 +13779,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quoits",
@@ -13303,7 +13813,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quondam",
@@ -13338,7 +13852,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quorum",
@@ -13371,7 +13889,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quota",
@@ -13431,7 +13953,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quotability",
@@ -13464,7 +13990,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quotable",
@@ -13499,7 +14029,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quotation",
@@ -13567,7 +14101,11 @@
         "text": "quotation on a foreign market",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quote",
@@ -13592,9 +14130,7 @@
     ],
     "synonyms": [
       "cite",
-      "inverted comma",
-      "quotation",
-      "quotation mark"
+      "quotation"
     ],
     "entries": [
       {
@@ -13603,13 +14139,13 @@
           {
             "id": "quote-noun-1",
             "definition": "a passage or expression that is quoted or cited",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           },
           {
             "id": "quote-noun-2",
             "definition": "a punctuation mark used to attribute the enclosed text to someone else",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           }
         ]
@@ -13620,13 +14156,13 @@
           {
             "id": "quote-verb-1",
             "definition": "put quote marks around",
-            "translation": "",
+            "translation": "引用",
             "examples": []
           },
           {
             "id": "quote-verb-2",
             "definition": "repeat a passage from",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "They quoted the Bible to us.",
@@ -13637,7 +14173,7 @@
           {
             "id": "quote-verb-3",
             "definition": "refer to for illustration or proof",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "I said that I could quote several instances of this behavior.",
@@ -13648,7 +14184,7 @@
           {
             "id": "quote-verb-4",
             "definition": "name the price of",
-            "translation": "",
+            "translation": "引用",
             "examples": [
               {
                 "text": "quote prices for cars",
@@ -13668,7 +14204,11 @@
         "text": "quote out of context",
         "translation": ""
       }
-    ]
+    ],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "quoter",
@@ -13701,7 +14241,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quotidian",
@@ -13738,7 +14282,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "quotient",
@@ -13771,7 +14319,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "qurush",
@@ -13804,6 +14356,10 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   }
 ]

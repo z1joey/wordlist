@@ -22,7 +22,7 @@
           {
             "id": "x-adjective-1",
             "definition": "the Roman numeral for 10",
-            "translation": "",
+            "translation": "罗马数字10",
             "examples": []
           }
         ]
@@ -33,7 +33,7 @@
           {
             "id": "x-noun-1",
             "definition": "the 24th letter of the Roman alphabet",
-            "translation": "",
+            "translation": "罗马字母第24个字母",
             "examples": [
               {
                 "text": "The farmer signed with an x.",
@@ -49,73 +49,11 @@
         "text": "X to the Z",
         "translation": ""
       }
-    ]
-  },
-  {
-    "word": "x-axis",
-    "pronunciation": {
-      "us": {
-        "ipa": "ˈɛksˌæksɪs"
-      },
-      "uk": {
-        "ipa": "ˈeksˌæksɪs"
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "x-axis-noun-1",
-            "definition": "the horizontal axis in a plane coordinate system",
-            "translation": "",
-            "examples": [
-              {
-                "text": "We marked the x-axis with the number of visitors that the museum received.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
     ],
-    "phrases": []
-  },
-  {
-    "word": "x-linked",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "adjective",
-        "senses": [
-          {
-            "id": "x-linked-adjective-1",
-            "definition": "relating to genes or characteristics or conditions carried on the X chromosome",
-            "translation": "",
-            "examples": [
-              {
-                "text": "I think it might be an X-linked mutation.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "x-ray",
@@ -138,7 +76,6 @@
       "zk"
     ],
     "synonyms": [
-      "X ray",
       "roentgenogram"
     ],
     "entries": [
@@ -148,19 +85,23 @@
           {
             "id": "x-ray-noun-1",
             "definition": "a radiogram made by exposing photographic film to X rays",
-            "translation": "",
+            "translation": "X光照片",
             "examples": []
           },
           {
             "id": "x-ray-noun-2",
             "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
-            "translation": "",
+            "translation": "X射线",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "x-ray",
@@ -190,7 +131,7 @@
           {
             "id": "x-ray-verb-1",
             "definition": "take an x-ray of something or somebody",
-            "translation": "",
+            "translation": "拍X光片",
             "examples": [
               {
                 "text": "The doctor x-rayed my chest",
@@ -201,46 +142,17 @@
           {
             "id": "x-ray-verb-2",
             "definition": "examine by taking x-rays",
-            "translation": "",
+            "translation": "用X光检查",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
-  },
-  {
-    "word": "x-raying",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "x-raying-noun-1",
-            "definition": "obtaining images by the use of X rays",
-            "translation": "",
-            "examples": [
-              {
-                "text": "The pictures from the X-raying were analyzed by the dentist.",
-                "translation": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xanthate",
@@ -268,7 +180,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthelasma",
@@ -296,7 +212,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthemia",
@@ -331,7 +251,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthine",
@@ -364,7 +288,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthoma",
@@ -397,7 +325,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthomatosis",
@@ -411,11 +343,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cholesterosis cutis",
-      "lipid granulomatosis",
-      "xanthoma multiplex"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -429,7 +357,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthomonad",
@@ -462,7 +394,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthophyl",
@@ -492,7 +428,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthophyll",
@@ -523,7 +463,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthopsia",
@@ -556,7 +500,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthosis",
@@ -589,7 +537,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xanthous",
@@ -613,7 +565,7 @@
           {
             "id": "xanthous-adjective-1",
             "definition": "of the color intermediate between green and orange in the color spectrum",
-            "translation": "",
+            "translation": "光谱的",
             "examples": [
               {
                 "text": "The new rug you bought is fairly xanthous, don't you think?",
@@ -624,7 +576,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xc",
@@ -648,13 +604,17 @@
           {
             "id": "xc-adjective-1",
             "definition": "the Roman numeral for 90",
-            "translation": "",
+            "translation": "罗马数字90",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xci",
@@ -668,9 +628,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-one"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -678,13 +636,17 @@
           {
             "id": "xci-adjective-1",
             "definition": "the Roman numeral for 91",
-            "translation": "",
+            "translation": "罗马数字91",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xciii",
@@ -706,13 +668,17 @@
           {
             "id": "xciii-adjective-1",
             "definition": "the Roman numeral for 93",
-            "translation": "",
+            "translation": "罗马数字93",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xciv",
@@ -740,7 +706,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xcl",
@@ -754,9 +724,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "one hundred ninety"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -764,13 +732,17 @@
           {
             "id": "xcl-adjective-1",
             "definition": "the Roman numeral for 190",
-            "translation": "",
+            "translation": "罗马数字190",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xcv",
@@ -784,9 +756,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-five"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -794,13 +764,17 @@
           {
             "id": "xcv-adjective-1",
             "definition": "the Roman numeral for 95",
-            "translation": "",
+            "translation": "罗马数字95",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xcvi",
@@ -814,9 +788,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-six"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -824,13 +796,17 @@
           {
             "id": "xcvi-adjective-1",
             "definition": "the Roman numeral for 96",
-            "translation": "",
+            "translation": "罗马数字96",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xcvii",
@@ -844,9 +820,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-seven"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -865,7 +839,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xcviii",
@@ -879,9 +857,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ninety-eight"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -889,13 +865,17 @@
           {
             "id": "xcviii-adjective-1",
             "definition": "the Roman numeral for 98",
-            "translation": "",
+            "translation": "罗马数字98",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xenogeneic",
@@ -928,7 +908,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xenogenesis",
@@ -942,9 +926,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "alternation of generations"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -963,7 +945,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xenograft",
@@ -987,7 +973,7 @@
           {
             "id": "xenograft-noun-1",
             "definition": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
-            "translation": "",
+            "translation": "组织",
             "examples": [
               {
                 "text": "The surgeons used skin from a pig as a xenograft.",
@@ -998,7 +984,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xenolith",
@@ -1026,7 +1016,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xenon",
@@ -1048,7 +1042,7 @@
           {
             "id": "xenon-noun-1",
             "definition": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
-            "translation": "",
+            "translation": "氙",
             "examples": [
               {
                 "text": "The canister was filled with xenon.",
@@ -1059,7 +1053,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xenophobia",
@@ -1083,7 +1081,7 @@
           {
             "id": "xenophobia-noun-1",
             "definition": "a fear of foreigners or strangers",
-            "translation": "",
+            "translation": "仇外心理",
             "examples": [
               {
                 "text": "I think your xenophobia might be cured by a trip abroad.",
@@ -1094,7 +1092,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xenophobic",
@@ -1116,7 +1118,7 @@
           {
             "id": "xenophobic-adjective-1",
             "definition": "suffering from xenophobia, or the fear of outsiders",
-            "translation": "",
+            "translation": "仇外的",
             "examples": [
               {
                 "text": "Those remarks make it pretty clear how xenophobic you are.",
@@ -1127,7 +1129,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xenotime",
@@ -1155,7 +1161,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xenotransplant",
@@ -1185,7 +1195,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xenotransplantation",
@@ -1220,7 +1234,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xeric",
@@ -1253,7 +1271,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xeroderma",
@@ -1283,7 +1305,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerodermia",
@@ -1313,7 +1339,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerographic",
@@ -1335,7 +1365,7 @@
           {
             "id": "xerographic-adjective-1",
             "definition": "of or relating to copying paper or other items, aka xerography",
-            "translation": "",
+            "translation": "静电复印的",
             "examples": [
               {
                 "text": "Our xerographic machine was on the fritz.",
@@ -1346,7 +1376,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xerography",
@@ -1368,7 +1402,7 @@
           {
             "id": "xerography-noun-1",
             "definition": "forming an image by the action of light on a specially coated charged plate",
-            "translation": "",
+            "translation": "静电复印",
             "examples": [
               {
                 "text": "The machine used xerography to print copies.",
@@ -1379,7 +1413,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xeroma",
@@ -1414,7 +1452,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerophile",
@@ -1428,9 +1470,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "desert plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1438,7 +1478,7 @@
           {
             "id": "xerophile-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "",
+            "translation": "植物",
             "examples": [
               {
                 "text": "Cacti are some of the most well-known xerophiles.",
@@ -1449,7 +1489,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xerophthalmia",
@@ -1464,7 +1508,6 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "conjunctivitis arida",
       "xeroma",
       "xerophthalmus"
     ],
@@ -1481,7 +1524,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerophthalmus",
@@ -1511,7 +1558,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerophyte",
@@ -1527,9 +1578,7 @@
     "tags": [
       "gre"
     ],
-    "synonyms": [
-      "desert plant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1537,7 +1586,7 @@
           {
             "id": "xerophyte-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "",
+            "translation": "植物",
             "examples": [
               {
                 "text": "The gardener loved the easy maintenance of the xerophyte.",
@@ -1548,7 +1597,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xerophytic",
@@ -1581,7 +1634,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xeroradiography",
@@ -1614,7 +1671,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerostomia",
@@ -1628,9 +1689,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "dry mouth"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1644,7 +1703,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerotes",
@@ -1679,7 +1742,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xerox",
@@ -1696,9 +1763,7 @@
       "cet6",
       "ky"
     ],
-    "synonyms": [
-      "xerographic copier"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -1706,13 +1771,17 @@
           {
             "id": "xerox-noun-1",
             "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
-            "translation": "",
+            "translation": "施乐复印",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xerox",
@@ -1739,7 +1808,7 @@
           {
             "id": "xerox-noun-1",
             "definition": "a copy made by a xerographic printer",
-            "translation": "",
+            "translation": "施乐复印",
             "examples": []
           }
         ]
@@ -1750,13 +1819,17 @@
           {
             "id": "xerox-verb-1",
             "definition": "reproduce by xerography",
-            "translation": "",
+            "translation": "静电复印",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xi",
@@ -1780,7 +1853,7 @@
           {
             "id": "xi-adjective-1",
             "definition": "the Roman numeral for 11",
-            "translation": "",
+            "translation": "罗马数字11",
             "examples": []
           }
         ]
@@ -1791,13 +1864,17 @@
           {
             "id": "xi-noun-1",
             "definition": "the 14th letter of the Greek alphabet",
-            "translation": "",
+            "translation": "希腊字母表的第14个字母",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xii",
@@ -1821,13 +1898,17 @@
           {
             "id": "xii-adjective-1",
             "definition": "the Roman numeral for 12",
-            "translation": "",
+            "translation": "罗马数字12",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xiii",
@@ -1851,13 +1932,17 @@
           {
             "id": "xiii-adjective-1",
             "definition": "the Roman numeral for 13",
-            "translation": "",
+            "translation": "罗马数字13",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xiv",
@@ -1881,13 +1966,17 @@
           {
             "id": "xiv-adjective-1",
             "definition": "the Roman numeral for 14",
-            "translation": "",
+            "translation": "罗马数字14",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xix",
@@ -1911,13 +2000,17 @@
           {
             "id": "xix-adjective-1",
             "definition": "the Roman numeral for 19",
-            "translation": "",
+            "translation": "罗马数字19",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xl",
@@ -1941,13 +2034,17 @@
           {
             "id": "xl-adjective-1",
             "definition": "the Roman numeral for 40",
-            "translation": "",
+            "translation": "罗马数字40",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xlii",
@@ -1961,9 +2058,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-two"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -1971,13 +2066,17 @@
           {
             "id": "xlii-adjective-1",
             "definition": "the Roman numeral for 42",
-            "translation": "",
+            "translation": "罗马数字42",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xliii",
@@ -1991,9 +2090,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-three"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2001,13 +2098,17 @@
           {
             "id": "xliii-adjective-1",
             "definition": "the Roman numeral for 43",
-            "translation": "",
+            "translation": "罗马数字43",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xliv",
@@ -2021,9 +2122,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-four"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2031,13 +2130,17 @@
           {
             "id": "xliv-adjective-1",
             "definition": "the Roman numeral for 44",
-            "translation": "",
+            "translation": "罗马数字44",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xlv",
@@ -2051,9 +2154,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-five"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2061,13 +2162,17 @@
           {
             "id": "xlv-adjective-1",
             "definition": "the Roman numeral for 45",
-            "translation": "",
+            "translation": "罗马数字45",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xlvi",
@@ -2081,9 +2186,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-six"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2091,13 +2194,17 @@
           {
             "id": "xlvi-adjective-1",
             "definition": "the Roman numeral for 46",
-            "translation": "",
+            "translation": "罗马数字46",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xlvii",
@@ -2111,9 +2218,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-seven"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2121,13 +2226,17 @@
           {
             "id": "xlvii-adjective-1",
             "definition": "the Roman numeral for 47",
-            "translation": "",
+            "translation": "罗马数字47",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xlviii",
@@ -2141,9 +2250,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "forty-eight"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2151,13 +2258,17 @@
           {
             "id": "xlviii-adjective-1",
             "definition": "the Roman numeral for 48",
-            "translation": "",
+            "translation": "罗马数字48",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xv",
@@ -2181,13 +2292,17 @@
           {
             "id": "xv-adjective-1",
             "definition": "the Roman numeral for 15",
-            "translation": "",
+            "translation": "罗马数字15",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xvi",
@@ -2211,13 +2326,17 @@
           {
             "id": "xvi-adjective-1",
             "definition": "the Roman numeral for 16",
-            "translation": "",
+            "translation": "罗马数字16",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xvii",
@@ -2241,13 +2360,17 @@
           {
             "id": "xvii-adjective-1",
             "definition": "the Roman numeral for 17",
-            "translation": "",
+            "translation": "罗马数字17",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xviii",
@@ -2271,13 +2394,17 @@
           {
             "id": "xviii-adjective-1",
             "definition": "the Roman numeral for 18",
-            "translation": "",
+            "translation": "罗马数字18",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xx",
@@ -2301,13 +2428,17 @@
           {
             "id": "xx-adjective-1",
             "definition": "the Roman numeral for 20",
-            "translation": "",
+            "translation": "罗马数字20",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxi",
@@ -2321,9 +2452,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-one"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2331,13 +2460,17 @@
           {
             "id": "xxi-adjective-1",
             "definition": "the Roman numeral for 21",
-            "translation": "",
+            "translation": "罗马数字21",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxii",
@@ -2351,9 +2484,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-two"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2361,13 +2492,17 @@
           {
             "id": "xxii-adjective-1",
             "definition": "the Roman numeral for 22",
-            "translation": "",
+            "translation": "罗马数字22",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxiii",
@@ -2381,9 +2516,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-three"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2391,13 +2524,17 @@
           {
             "id": "xxiii-adjective-1",
             "definition": "the Roman numeral for 23",
-            "translation": "",
+            "translation": "罗马数字23",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxiv",
@@ -2411,9 +2548,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-four"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2421,13 +2556,17 @@
           {
             "id": "xxiv-adjective-1",
             "definition": "the Roman numeral for 24",
-            "translation": "",
+            "translation": "罗马数字24",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxix",
@@ -2441,9 +2580,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-nine"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2451,13 +2588,17 @@
           {
             "id": "xxix-adjective-1",
             "definition": "the Roman numeral for 29",
-            "translation": "",
+            "translation": "罗马数字29",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxv",
@@ -2471,9 +2612,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-five"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2481,13 +2620,17 @@
           {
             "id": "xxv-adjective-1",
             "definition": "the Roman numeral for 25",
-            "translation": "",
+            "translation": "罗马数字25",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxvi",
@@ -2501,9 +2644,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-six"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2511,13 +2652,17 @@
           {
             "id": "xxvi-adjective-1",
             "definition": "the Roman numeral for 26",
-            "translation": "",
+            "translation": "罗马数字26",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxvii",
@@ -2531,9 +2676,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-seven"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2547,7 +2690,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xxviii",
@@ -2561,9 +2708,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "twenty-eight"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2571,13 +2716,17 @@
           {
             "id": "xxviii-adjective-1",
             "definition": "the Roman numeral for 28",
-            "translation": "",
+            "translation": "罗马数字28",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxx",
@@ -2601,13 +2750,17 @@
           {
             "id": "xxx-adjective-1",
             "definition": "the Roman numeral for 30",
-            "translation": "",
+            "translation": "罗马数字30",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxi",
@@ -2621,9 +2774,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-one"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2637,7 +2788,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xxxii",
@@ -2651,9 +2806,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-two"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2661,13 +2814,17 @@
           {
             "id": "xxxii-adjective-1",
             "definition": "the Roman numeral for 32",
-            "translation": "",
+            "translation": "罗马数字32",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxiii",
@@ -2681,9 +2838,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-three"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2691,13 +2846,17 @@
           {
             "id": "xxxiii-adjective-1",
             "definition": "the Roman numeral for 33",
-            "translation": "",
+            "translation": "罗马数字33",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxiv",
@@ -2711,9 +2870,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-four"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2721,13 +2878,17 @@
           {
             "id": "xxxiv-adjective-1",
             "definition": "the Roman numeral for 34",
-            "translation": "",
+            "translation": "罗马数字34",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxv",
@@ -2741,9 +2902,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-five"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2751,13 +2910,17 @@
           {
             "id": "xxxv-adjective-1",
             "definition": "the Roman numeral for 35",
-            "translation": "",
+            "translation": "罗马数字35",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxvi",
@@ -2771,9 +2934,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-six"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2781,13 +2942,17 @@
           {
             "id": "xxxvi-adjective-1",
             "definition": "the Roman numeral for 36",
-            "translation": "",
+            "translation": "罗马数字36",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxvii",
@@ -2801,9 +2966,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "thirty-seven"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -2811,13 +2974,17 @@
           {
             "id": "xxxvii-adjective-1",
             "definition": "the Roman numeral for 37",
-            "translation": "",
+            "translation": "罗马数字37",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xxxviii",
@@ -2839,13 +3006,17 @@
           {
             "id": "xxxviii-adjective-1",
             "definition": "the Roman numeral for 38",
-            "translation": "",
+            "translation": "罗马数字38",
             "examples": []
           }
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "deepseek-v4-flash",
+      "updatedAt": "2026-06-24"
+    }
   },
   {
     "word": "xylem",
@@ -2878,7 +3049,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xylene",
@@ -2908,7 +3083,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xylol",
@@ -2943,7 +3122,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xylophone",
@@ -2978,7 +3161,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xylophonist",
@@ -3011,7 +3198,11 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   },
   {
     "word": "xylose",
@@ -3025,9 +3216,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wood sugar"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -3046,6 +3235,10 @@
         ]
       }
     ],
-    "phrases": []
+    "phrases": [],
+    "metadata": {
+      "provider": "",
+      "updatedAt": "2026-06-23"
+    }
   }
 ]
