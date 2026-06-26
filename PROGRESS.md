@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 200 | **Updated**: 1782464814
+> **Cursor**: a.json → index 400 | **Updated**: 1782465738
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 200 |
-| Remaining | 64,667 |
-| Completion | 0.31% |
-| Current file | a.json (200 / 4,900) |
+| Reviewed & validated | 400 |
+| Remaining | 64,467 |
+| Completion | 0.62% |
+| Current file | a.json (400 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 200 | ████████░░ 4% | 🔄 in_progress |
+| a.json | 4,900 | 400 | ███████████░ 8% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,7 +47,7 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0009 |
+| Batch ID | a-0017 |
 | Status | ⬜ pending |
 | Worker | - |
 | Started | - |
@@ -64,6 +64,14 @@
 | a-0006 | a.json | 125–149 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782465500 | 1782465600 | ✅ done |
 | a-0007 | a.json | 150–174 | 25 | MiniMax-M2.7-highspeed | zcode-pro | 1782465700 | 1782463994 | ✅ done |
 | a-0008 | a.json | 175–199 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782464814 | 1782464814 | ✅ done |
+| a-0009 | a.json | 200–224 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465404 | 1782465404 | ✅ done |
+| a-0010 | a.json | 225–249 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465404 | 1782465404 | ✅ done |
+| a-0011 | a.json | 250–274 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465492 | 1782465492 | ✅ done |
+| a-0012 | a.json | 275–299 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465570 | 1782465570 | ✅ done |
+| a-0013 | a.json | 300–324 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465650 | 1782465650 | ✅ done |
+| a-0014 | a.json | 325–349 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465738 | 1782465738 | ✅ done |
+| a-0015 | a.json | 350–374 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465738 | 1782465738 | ✅ done |
+| a-0016 | a.json | 375–399 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782465738 | 1782465738 | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
