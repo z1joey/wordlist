@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 125 | **Updated**: 1782465400
+> **Cursor**: a.json → index 150 | **Updated**: 1782465600
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 125 |
-| Remaining | 64,742 |
-| Completion | 0.19% |
-| Current file | a.json (125 / 4,900) |
+| Reviewed & validated | 150 |
+| Remaining | 64,717 |
+| Completion | 0.23% |
+| Current file | a.json (150 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 125 | ██████░░░░ 3% | 🔄 in_progress |
+| a.json | 4,900 | 150 | ███████░░░ 3% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,10 +47,8 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0005 |
-| Status | 🟡 working |
-| Worker | zcode-agent |
-| Started | 1782465300 |
+| Batch ID | — |
+| Status | No batch in progress |
 
 ## 📝 Batch History
 
@@ -61,6 +59,7 @@
 | a-0003 | a.json | 50–74 | 25 | zcode-agent | deepseek-v4-pro | 1782464700 | 1782464800 | ✅ done |
 | a-0004 | a.json | 75–99 | 25 | zcode-agent | deepseek-v4-pro | 1782465000 | 1782465200 | ✅ done |
 | a-0005 | a.json | 100–124 | 25 | zcode-agent | deepseek-v4-pro | 1782465300 | 1782465400 | ✅ done |
+| a-0006 | a.json | 125–149 | 25 | zcode-agent | deepseek-v4-pro | 1782465500 | 1782465600 | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
