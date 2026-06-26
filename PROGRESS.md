@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 1295 | **Updated**: 1751263200
+> **Cursor**: a.json → index 1370 | **Updated**: 1751339400
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,644 |
-| Remaining | 47,223 |
-| Completion | 27.2% |
-| Current file | a.json (2,779 / 4,900) |
+| Reviewed & validated | 17,719 |
+| Remaining | 47,148 |
+| Completion | 27.3% |
+| Current file | a.json (2,854 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 2,779 | █████▌░░░░ 57% | 🔄 in_progress |
+| a.json | 4,900 | 2,854 | ██████░░░░ 58% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,7 +47,7 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0052 (pending) |
+| Batch ID | a-0055 (pending) |
 | Status | 🟡 queued |
 
 ## 📝 Last Batch
@@ -57,6 +57,9 @@
 | a-0049 | a.json | 1220–1244 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0050 | a.json | 1245–1269 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0051 | a.json | 1270–1294 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0052 | a.json | 1295–1319 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0053 | a.json | 1320–1344 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0054 | a.json | 1345–1369 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
