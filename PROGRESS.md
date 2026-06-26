@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 1745 | **Updated**: 1782504398
+> **Cursor**: a.json → index 1820 | **Updated**: 1782600200
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,919 |
-| Remaining | 46,948 |
-| Completion | 27.6% |
-| Current file | a.json (3,096 / 4,900) |
+| Reviewed & validated | 17,994 |
+| Remaining | 46,873 |
+| Completion | 27.7% |
+| Current file | a.json (3,171 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 3,096 | █████████████░░░░ 63% | 🔄 in_progress |
+| a.json | 4,900 | 3,171 | ███████████████████████░░░░░░░░░░░░░ 65% | 🔄 in_progress |
 | b.json | 3,601 | 821 | ████░░░░░░░░░░░░░░░ 23% | 🔄 in_progress |
 | c.json | 6,275 | 1,533 | ████░░░░░░░░░░░░░░░ 24% | 🔄 in_progress |
 | d.json | 3,729 | 966 | █████░░░░░░░░░░░░░░ 26% | 🔄 in_progress |
@@ -47,7 +47,7 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0070 |
+| Batch ID | a-0074 |
 | Status | ⬜ pending |
 | Worker | — |
 | Started | — |
@@ -56,27 +56,9 @@
 
 | Batch | File | Range | Words | Worker | Validator |  Status |
 |-------|------|-------|-------|--------|-----------|---------|
-| a-0049 | a.json | 1220–1244 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0050 | a.json | 1245–1269 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0051 | a.json | 1270–1294 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0052 | a.json | 1295–1319 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0053 | a.json | 1320–1344 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0054 | a.json | 1345–1369 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0055 | a.json | 1370–1394 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0056 | a.json | 1395–1419 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0057 | a.json | 1420–1444 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0058 | a.json | 1445–1469 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0059 | a.json | 1470–1494 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0060 | a.json | 1495–1519 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0061 | a.json | 1520–1544 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0062 | a.json | 1545–1569 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0063 | a.json | 1570–1594 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0064 | a.json | 1595–1619 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0065 | a.json | 1620–1644 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0066 | a.json | 1645–1669 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0067 | a.json | 1670–1694 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0068 | a.json | 1695–1719 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0069 | a.json | 1720–1744 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0071 | a.json | 1745–1769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0072 | a.json | 1770–1794 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0073 | a.json | 1795–1819 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
