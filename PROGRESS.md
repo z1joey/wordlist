@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 1000 | **Updated**: 1782490493
+> **Cursor**: a.json → index 1025 | **Updated**: 1782490850
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 17,463 |
-| Remaining | 47,404 |
+| Reviewed & validated | 17,481 |
+| Remaining | 47,386 |
 | Completion | 26.9% |
-| Current file | a.json (2,598 / 4,900) |
+| Current file | a.json (2,616 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 2,598 | █████▌░░░░ 53% | 🔄 in_progress |
+| a.json | 4,900 | 2,616 | █████▌░░░░ 53% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,20 +47,19 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0041 |
+| Batch ID | a-0042 |
 | Status | 🟡 working |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator |  Status |
 |-------|------|-------|-------|--------|-----------|---------|
-| a-0036 | a.json | 875–899 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0037 | a.json | 900–924 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0038 | a.json | 925–949 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0039 | a.json | 950–974 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0040 | a.json | 975–999 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0041 | a.json | 1000–1024 | 25 | 🟡 in progress | — | 🟡 working |
-| a-0042 | a.json | 1025–1049 | 25 | 🟡 queued | — | 🟡 queued |
+| a-0041 | a.json | 1000–1024 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0042 | a.json | 1025–1049 | 25 | 🟡 in progress | — | 🟡 working |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
