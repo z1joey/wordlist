@@ -119,6 +119,7 @@ For **each** entry, in this exact order:
 | ❌ NEVER leave empty IPA | Must fill both US & UK |
 | ❌ NEVER leave empty translation | Every sense, example, phrase |
 | ❌ NEVER reuse same Chinese translation across senses | Each sense must be distinct |
+| ❌ NEVER update File Progress for files you didn't touch | Only current file's row |
 | ✅ ALWAYS set `metadata.provider` = your model name | Traces who did the work |
 | ✅ ALWAYS set `metadata.updatedAt` = Unix timestamp | When it was completed |
 | ✅ ALWAYS update PROGRESS.md after the batch is done | Tracking |
@@ -231,6 +232,7 @@ If ANY entry fails ANY check:
 | ❌ NEVER approve duplicate translations across senses | Quality |
 | ❌ NEVER approve empty fields | Completeness |
 | ❌ NEVER approve agent-contaminated provider (contains `agent-` prefix) | Traceability |
+| ❌ NEVER update File Progress for files you didn't audit | Only current file's row |
 | ❌ NEVER modify entries — provider and updatedAt are set by working agent | Data integrity |
 | ✅ ALWAYS verify every entry independently | No assumptions |
 
