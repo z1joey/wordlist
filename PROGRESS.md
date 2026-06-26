@@ -1,22 +1,22 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 175 | **Updated**: 1782463994
+> **Cursor**: a.json → index 200 | **Updated**: 1782464814
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 175 |
-| Remaining | 64,692 |
-| Completion | 0.27% |
-| Current file | a.json (175 / 4,900) |
+| Reviewed & validated | 200 |
+| Remaining | 64,667 |
+| Completion | 0.31% |
+| Current file | a.json (200 / 4,900) |
 
 ## 📋 File Progress
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 175 | ████████░░ 4% | 🔄 in_progress |
+| a.json | 4,900 | 200 | ████████░░ 4% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ░░░░░░░░░░ 0% | ⬜ pending |
@@ -47,22 +47,23 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0008 |
-| Status | 🟡 working |
-| Worker | zcode-agent |
-| Started | 1782463994 |
+| Batch ID | a-0009 |
+| Status | ⬜ pending |
+| Worker | - |
+| Started | - |
 
 ## 📝 Batch History
 
 | Batch | File | Range | Words | Worker | Validator | Worked | Validated | Status |
 |-------|------|-------|-------|--------|-----------|--------|-----------|--------|
-| a-0001 | a.json | 0–24 | 25 | zcode-agent | deepseek-v4-pro | 1782461109 | 1782462332 | ✅ done |
-| a-0002 | a.json | 25–49 | 25 | zcode-agent | deepseek-v4-pro | 1782464400 | 1782464600 | ✅ done |
-| a-0003 | a.json | 50–74 | 25 | zcode-agent | deepseek-v4-pro | 1782464700 | 1782464800 | ✅ done |
-| a-0004 | a.json | 75–99 | 25 | zcode-agent | deepseek-v4-pro | 1782465000 | 1782465200 | ✅ done |
-| a-0005 | a.json | 100–124 | 25 | zcode-agent | deepseek-v4-pro | 1782465300 | 1782465400 | ✅ done |
-| a-0006 | a.json | 125–149 | 25 | zcode-agent | deepseek-v4-pro | 1782465500 | 1782465600 | ✅ done |
-| a-0007 | a.json | 150–174 | 25 | zcode-agent | zcode-pro | 1782465700 | 1782463994 | ✅ done |
+| a-0001 | a.json | 0–24 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782461109 | 1782462332 | ✅ done |
+| a-0002 | a.json | 25–49 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782464400 | 1782464600 | ✅ done |
+| a-0003 | a.json | 50–74 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782464700 | 1782464800 | ✅ done |
+| a-0004 | a.json | 75–99 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782465000 | 1782465200 | ✅ done |
+| a-0005 | a.json | 100–124 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782465300 | 1782465400 | ✅ done |
+| a-0006 | a.json | 125–149 | 25 | MiniMax-M2.7-highspeed | deepseek-v4-pro | 1782465500 | 1782465600 | ✅ done |
+| a-0007 | a.json | 150–174 | 25 | MiniMax-M2.7-highspeed | zcode-pro | 1782465700 | 1782463994 | ✅ done |
+| a-0008 | a.json | 175–199 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | 1782464814 | 1782464814 | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
