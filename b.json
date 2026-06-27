@@ -6209,7 +6209,7 @@
           {
             "id": "backward-adjective-1",
             "definition": "directed or facing toward the back or rear",
-            "translation": "向后",
+            "translation": "向后的",
             "examples": [
               {
                 "text": "a backward view",
@@ -6220,7 +6220,7 @@
           {
             "id": "backward-adjective-2",
             "definition": "(used of temperament or behavior) marked by a retiring nature",
-            "translation": "向后",
+            "translation": "内向的；羞怯的",
             "examples": [
               {
                 "text": "a backward lover",
@@ -6231,7 +6231,7 @@
           {
             "id": "backward-adjective-3",
             "definition": "having made less than normal progress",
-            "translation": "向后",
+            "translation": "落后的；进步缓慢的",
             "examples": [
               {
                 "text": "an economically backward country",
@@ -6242,7 +6242,7 @@
           {
             "id": "backward-adjective-4",
             "definition": "retarded in intellectual development",
-            "translation": "向后",
+            "translation": "智力发育迟缓的",
             "examples": []
           }
         ]
@@ -6354,13 +6354,13 @@
           {
             "id": "backwards-adverb-1",
             "definition": "at or to or toward the back or rear",
-            "translation": "向后",
+            "translation": "向后地；在后面",
             "examples": []
           },
           {
             "id": "backwards-adverb-2",
             "definition": "in a manner or order or direction the reverse of normal",
-            "translation": "向后",
+            "translation": "反向地；倒着",
             "examples": []
           }
         ]
@@ -7747,7 +7747,7 @@
           {
             "id": "bad-adjective-1",
             "definition": "feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')",
-            "translation": "坏的",
+            "translation": "不舒服的；难受的",
             "examples": [
               {
                 "text": "my throat feels bad",
@@ -7758,7 +7758,7 @@
           {
             "id": "bad-adjective-2",
             "definition": "not in an edible or usable condition, in referring to foodstuffs",
-            "translation": "坏的",
+            "translation": "变质的；腐坏的",
             "examples": [
               {
                 "text": "The meat was bad. ",
@@ -7769,7 +7769,7 @@
           {
             "id": "bad-adjective-3",
             "definition": "not working properly",
-            "translation": "坏的",
+            "translation": "出故障的；失灵的",
             "examples": [
               {
                 "text": "a bad telephone connection",
@@ -7780,7 +7780,7 @@
           {
             "id": "bad-adjective-4",
             "definition": "reproduced fraudulently",
-            "translation": "坏的",
+            "translation": "伪造的；假冒的",
             "examples": [
               {
                 "text": "like a bad penny...",
@@ -7791,7 +7791,7 @@
           {
             "id": "bad-adjective-5",
             "definition": "having undesirable or negative qualities",
-            "translation": "坏的",
+            "translation": "不良的；坏的",
             "examples": [
               {
                 "text": "a bad report card",
@@ -7802,7 +7802,7 @@
           {
             "id": "bad-adjective-6",
             "definition": "characterized by wickedness or immorality",
-            "translation": "以…为特征",
+            "translation": "邪恶的；不道德的",
             "examples": [
               {
                 "text": "led a very bad life",
@@ -7813,19 +7813,19 @@
           {
             "id": "bad-adjective-7",
             "definition": "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
-            "translation": "坏的",
+            "translation": "遗憾的；懊悔的",
             "examples": []
           },
           {
             "id": "bad-adjective-8",
             "definition": "capable of harming",
-            "translation": "坏的",
+            "translation": "有害的；危险的",
             "examples": []
           },
           {
             "id": "bad-adjective-9",
             "definition": "physically unsound or diseased",
-            "translation": "坏的",
+            "translation": "有病的；不健康的",
             "examples": [
               {
                 "text": "has a bad back",
@@ -7836,7 +7836,7 @@
           {
             "id": "bad-adjective-10",
             "definition": "very intense",
-            "translation": "坏的",
+            "translation": "强烈的；剧烈的",
             "examples": [
               {
                 "text": "a bad headache",
@@ -7847,7 +7847,7 @@
           {
             "id": "bad-adjective-11",
             "definition": "not financially safe or secure",
-            "translation": "坏的",
+            "translation": "不安全的；经济状况不佳的",
             "examples": [
               {
                 "text": "a bad investment",
@@ -7858,7 +7858,7 @@
           {
             "id": "bad-adjective-12",
             "definition": "nonstandard",
-            "translation": "坏的",
+            "translation": "非标准的；不合规范的",
             "examples": [
               {
                 "text": "so-called bad grammar",
@@ -7869,7 +7869,7 @@
           {
             "id": "bad-adjective-13",
             "definition": "below average in quality or performance",
-            "translation": "坏的",
+            "translation": "低劣的；劣于平均水平的",
             "examples": [
               {
                 "text": "a bad chess player",
@@ -7880,7 +7880,7 @@
           {
             "id": "bad-adjective-14",
             "definition": "not capable of being collected",
-            "translation": "能够被",
+            "translation": "收不回来的；坏账的",
             "examples": [
               {
                 "text": "a bad (or uncollectible) debt",
@@ -8345,13 +8345,13 @@
           {
             "id": "badly-adverb-1",
             "definition": "(`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner",
-            "translation": "糟糕地",
+            "translation": "不好地；糟糕地",
             "examples": []
           },
           {
             "id": "badly-adverb-2",
             "definition": "with unusual distress or resentment or regret or emotional display",
-            "translation": "糟糕地",
+            "translation": "痛苦地；悲痛地",
             "examples": [
               {
                 "text": "they took their defeat badly",
@@ -8362,19 +8362,19 @@
           {
             "id": "badly-adverb-3",
             "definition": "unfavorably or with disapproval",
-            "translation": "糟糕地",
+            "translation": "不赞成地；不受欢迎地",
             "examples": []
           },
           {
             "id": "badly-adverb-4",
             "definition": "in a disadvantageous way",
-            "translation": "糟糕地",
+            "translation": "不利地；有损害地",
             "examples": []
           },
           {
             "id": "badly-adverb-5",
             "definition": "without skill or in a displeasing manner",
-            "translation": "糟糕地",
+            "translation": "拙劣地；不熟练地",
             "examples": [
               {
                 "text": "The sub-par author writes badly.",
@@ -8385,7 +8385,7 @@
           {
             "id": "badly-adverb-6",
             "definition": "to a severe or serious degree",
-            "translation": "严重的或严肃的度",
+            "translation": "严重地；厉害地",
             "examples": [
               {
                 "text": "fingers so badly frozen they had to be amputated",
@@ -8396,13 +8396,13 @@
           {
             "id": "badly-adverb-7",
             "definition": "very much",
-            "translation": "糟糕地",
+            "translation": "非常；极大地",
             "examples": []
           },
           {
             "id": "badly-adverb-8",
             "definition": "with great intensity (`bad' is a nonstandard variant for `badly')",
-            "translation": "糟糕地",
+            "translation": "强烈地；剧烈地",
             "examples": [
               {
                 "text": "the injury hurt badly",
@@ -8413,7 +8413,7 @@
           {
             "id": "badly-adverb-9",
             "definition": "in a disobedient or naughty way",
-            "translation": "糟糕地",
+            "translation": "不听话地；淘气地",
             "examples": [
               {
                 "text": "They behaved badly in school.",
@@ -8424,7 +8424,7 @@
           {
             "id": "badly-adverb-10",
             "definition": "evilly or wickedly",
-            "translation": "糟糕地",
+            "translation": "邪恶地；恶劣地",
             "examples": [
               {
                 "text": "We treated our parents badly on occasion.",
@@ -9006,19 +9006,19 @@
           {
             "id": "bag-noun-1",
             "definition": "an activity that you like or at which you are superior",
-            "translation": "袋子",
+            "translation": "爱好；擅长的事",
             "examples": []
           },
           {
             "id": "bag-noun-2",
             "definition": "mammary gland of bovids (cows and sheep and goats)",
-            "translation": "袋子",
+            "translation": "（牛、羊等的）乳房",
             "examples": []
           },
           {
             "id": "bag-noun-3",
             "definition": "a flexible container with a single opening",
-            "translation": "袋子",
+            "translation": "袋；囊",
             "examples": [
               {
                 "text": "I stuffed my laundry into a large bag.",
@@ -9029,7 +9029,7 @@
           {
             "id": "bag-noun-4",
             "definition": "a portable rectangular container for carrying clothes",
-            "translation": "袋子",
+            "translation": "旅行袋；手提箱",
             "examples": [
               {
                 "text": "I carried my small bag onto the plane with me.",
@@ -9040,7 +9040,7 @@
           {
             "id": "bag-noun-5",
             "definition": "a container used for carrying money and small personal items or accessories",
-            "translation": "袋子",
+            "translation": "钱包；小提包",
             "examples": [
               {
                 "text": "I reached into my bag and found a comb.",
@@ -9051,7 +9051,7 @@
           {
             "id": "bag-noun-6",
             "definition": "a place that the runner must touch before scoring",
-            "translation": "袋子",
+            "translation": "垒；跑垒员必须触踏的垫",
             "examples": [
               {
                 "text": "The runner scrambled to get back to the bag.",
@@ -9062,7 +9062,7 @@
           {
             "id": "bag-noun-7",
             "definition": "an ugly or ill-tempered woman",
-            "translation": "袋子",
+            "translation": "丑妇；脾气坏的女人",
             "examples": [
               {
                 "text": "You were romancing the old bag for money.",
@@ -9073,7 +9073,7 @@
           {
             "id": "bag-noun-8",
             "definition": "the quantity of game taken in a particular period, usually by one person",
-            "translation": "袋子",
+            "translation": "捕获量；猎获物",
             "examples": [
               {
                 "text": "Their bag included two deer.",
@@ -9084,7 +9084,7 @@
           {
             "id": "bag-noun-9",
             "definition": "a container typically constructed with a flexible material, often open on top",
-            "translation": "袋子",
+            "translation": "（顶部敞开的）袋状容器",
             "examples": [
               {
                 "text": "I was half in the bag when the sack race started, I finished last.",

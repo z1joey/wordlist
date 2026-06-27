@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 340 | **← Backward**: v.json index 278 | **Updated**: 1751289900
+> **→ Forward**: b.json index 342 | **← Backward**: v.json index 380 | **Updated**: 1751137200
 
 ## 📊 Summary
 
@@ -11,7 +11,7 @@
 | Remaining | 43,361 |
 | Completion | 33.2% |
 | Forward agent | a.json (4,900 / 4,900) ✅ |
-| Backward agent | v.json (874 / 1,058) |
+| Backward agent | v.json (948 / 1,058) |
 
 ## 📋 File Progress
 
@@ -22,7 +22,7 @@
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
 | a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
-| b.json | 3,601 | 200 | ██░░░░░░░░░░░░░░░░░ 6% | → in_progress |
+| b.json | 3,601 | 1,091 | ██████░░░░░░░░░░░░░░ 30% | → in_progress |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
 | e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
@@ -42,18 +42,19 @@
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
 | u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
-| v.json | 1,058 | 874 | █████████████████░ 83% | ← in_progress |
+| v.json | 1,058 | 948 | ██████████████████░ 90% | ← in_progress |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **7,585** | **11.7%** | |
+| **Total** | **64,867** | **8,625** | **13.3%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| ← Backward | B-v-0036 | v.json | 278–252 | ⬜ pending | — |
+| → Forward | F-b-0020 | b.json | 342–366 | ⬜ pending | — |
+| ← Backward | B-v-0041 | v.json | 143–117 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
@@ -83,6 +84,16 @@
 | B-v-0033 | v.json | 371–341 | 25 | mavis-cron | — | ✅ done |
 | B-v-0034 | v.json | 340–314 | 25 | mavis-cron | — | ✅ done |
 | B-v-0035 | v.json | 313–279 | 25 | mavis-cron | — | ✅ done |
+| B-v-0036 | v.json | 278–252 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0037 | v.json | 251–226 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0038 | v.json | 224–191 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0039 | v.json | 190–162 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0040 | v.json | 161–144 | 18 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0005 | b.json | 90–114 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0006 | b.json | 115–139 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0007 | b.json | 140–164 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0008 | b.json | 165–189 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0009 | b.json | 190–214 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0010 | b.json | 215–239 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0011 | b.json | 240–264 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0012 | b.json | 265–289 | 25 | mavis-cron | mavis-cron | ✅ done |
