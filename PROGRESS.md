@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 2645 | **Updated**: 1782526200
+> **Cursor**: a.json → index 2545 | **Updated**: 1782520533
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 3,693 |
-| Remaining | 61,174 |
-| Completion | 5.69% |
-| Current file | a.json (3,693 / 4,900) |
+| Reviewed & validated | 3,573 |
+| Remaining | 61,294 |
+| Completion | 5.51% |
+| Current file | a.json (3,573 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,66 +18,49 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 3,693 | ███████████████████░░░░░░░░ 75.37% | 🔄 in_progress |
-| b.json | 3,601 | 0 | ······················ 0% | ⬜ pending |
-| c.json | 6,275 | 0 | ······················ 0% | ⬜ pending |
-| d.json | 3,729 | 0 | ······················ 0% | ⬜ pending |
-| e.json | 2,639 | 0 | ······················ 0% | ⬜ pending |
-| f.json | 2,472 | 0 | ······················ 0% | ⬜ pending |
-| g.json | 1,990 | 0 | ······················ 0% | ⬜ pending |
-| h.json | 2,510 | 0 | ······················ 0% | ⬜ pending |
-| i.json | 2,686 | 0 | ······················ 0% | ⬜ pending |
-| j.json | 482 | 0 | ······················ 0% | ⬜ pending |
-| k.json | 588 | 0 | ······················ 0% | ⬜ pending |
-| l.json | 2,083 | 0 | ······················ 0% | ⬜ pending |
-| m.json | 3,549 | 0 | ······················ 0% | ⬜ pending |
-| n.json | 1,598 | 0 | ······················ 0% | ⬜ pending |
-| o.json | 1,588 | 0 | ······················ 0% | ⬜ pending |
-| p.json | 5,427 | 0 | ······················ 0% | ⬜ pending |
-| q.json | 293 | 0 | ······················ 0% | ⬜ pending |
-| r.json | 2,889 | 0 | ······················ 0% | ⬜ pending |
-| s.json | 7,019 | 0 | ······················ 0% | ⬜ pending |
-| t.json | 3,227 | 0 | ······················ 0% | ⬜ pending |
-| u.json | 2,578 | 0 | ······················ 0% | ⬜ pending |
-| v.json | 1,058 | 0 | ······················ 0% | ⬜ pending |
-| w.json | 1,306 | 0 | ······················ 0% | ⬜ pending |
-| x.json | 92 | 0 | ······················ 0% | ⬜ pending |
-| y.json | 149 | 0 | ······················ 0% | ⬜ pending |
-| z.json | 139 | 0 | ······················ 0% | ⬜ pending |
-|| 64,867 | 3,668 | 5.65% | |
+| a.json | 4,900 | 3,573 | ██████████████░░░░░░ 72.9% | 🔄 in_progress |
+| b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
+| c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
+| d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
+| e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
+| f.json | 2,472 | 0 | ···················· 0% | ⬜ pending |
+| g.json | 1,990 | 0 | ···················· 0% | ⬜ pending |
+| h.json | 2,510 | 0 | ···················· 0% | ⬜ pending |
+| i.json | 2,686 | 0 | ···················· 0% | ⬜ pending |
+| j.json | 482 | 0 | ···················· 0% | ⬜ pending |
+| k.json | 588 | 0 | ···················· 0% | ⬜ pending |
+| l.json | 2,083 | 0 | ···················· 0% | ⬜ pending |
+| m.json | 3,549 | 0 | ···················· 0% | ⬜ pending |
+| n.json | 1,598 | 0 | ···················· 0% | ⬜ pending |
+| o.json | 1,588 | 0 | ···················· 0% | ⬜ pending |
+| p.json | 5,427 | 0 | ···················· 0% | ⬜ pending |
+| q.json | 293 | 0 | ···················· 0% | ⬜ pending |
+| r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
+| s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
+| t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
+| u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
+| v.json | 1,058 | 0 | ···················· 0% | ⬜ pending |
+| w.json | 1,306 | 0 | ···················· 0% | ⬜ pending |
+| x.json | 92 | 0 | ···················· 0% | ⬜ pending |
+| y.json | 149 | 0 | ···················· 0% | ⬜ pending |
+| z.json | 139 | 0 | ···················· 0% | ⬜ pending |
+| **Total** | **64,867** | **3,473** | **5.35%** | |
 
 ## 🔄 Current Batch
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0106 |
-| Status | ✅ done |
-| Worker | MiniMax-M2.7-highspeed |
-| Started | 1782526200 |
+| Batch ID | — |
+| Status | No batch in progress |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
-| a-0088 | a.json | 2170–2194 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0089 | a.json | 2195–2219 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0090 | a.json | 2220–2244 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0091 | a.json | 2245–2269 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0092 | a.json | 2270–2294 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0093 | a.json | 2295–2319 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0094 | a.json | 2320–2344 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0095 | a.json | 2345–2369 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0096 | a.json | 2370–2394 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0097 | a.json | 2395–2419 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0098 | a.json | 2420–2444 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0099 | a.json | 2445–2469 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0100 | a.json | 2470–2494 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0101 | a.json | 2495–2519 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0102 | a.json | 2520–2544 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0103 | a.json | 2545–2569 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0104 | a.json | 2570–2594 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0105 | a.json | 2595–2619 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
-| a-0106 | a.json | 2620–2644 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0099 | a.json | 2445–2469 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0100 | a.json | 2470–2494 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0101 | a.json | 2495–2519 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0102 | a.json | 2520–2544 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
