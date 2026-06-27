@@ -2668,10 +2668,10 @@
     "word": "xxvii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌeks eks viː ˈaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌeks eks viː ˈaɪ"
       }
     },
     "forms": {},
@@ -2684,7 +2684,7 @@
           {
             "id": "xxvii-adjective-1",
             "definition": "being seven more than twenty",
-            "translation": "",
+            "translation": "罗马数字，表示二十七",
             "examples": []
           }
         ]
@@ -2692,8 +2692,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
@@ -2766,10 +2766,10 @@
     "word": "xxxi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌeks eks eks ˈaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌeks eks eks ˈaɪ"
       }
     },
     "forms": {},
@@ -2782,7 +2782,7 @@
           {
             "id": "xxxi-adjective-1",
             "definition": "thirty-one in Roman numerals",
-            "translation": "",
+            "translation": "罗马数字，表示三十一",
             "examples": []
           }
         ]
@@ -2790,8 +2790,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
@@ -3038,11 +3038,11 @@
           {
             "id": "xylem-noun-1",
             "definition": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
-            "translation": "",
+            "translation": "木质部，植物的支持和输导水分组织，主要由管胞和导管组成",
             "examples": [
               {
                 "text": "The xylem carries water up into the tree.",
-                "translation": ""
+                "translation": "木质部将水分输送到树木内部。"
               }
             ]
           }
@@ -3051,18 +3051,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
     "word": "xylene",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzaɪliːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzaɪliːn"
       }
     },
     "forms": {},
@@ -3077,7 +3077,7 @@
           {
             "id": "xylene-noun-1",
             "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
-            "translation": "",
+            "translation": "二甲苯，一种无色易燃挥发性液态碳氢化合物，用作溶剂",
             "examples": []
           }
         ]
@@ -3085,18 +3085,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
     "word": "xylol",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzaɪlɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzaɪlɒl"
       }
     },
     "forms": {},
@@ -3111,11 +3111,11 @@
           {
             "id": "xylol-noun-1",
             "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
-            "translation": "",
+            "translation": "二甲苯，一种无色易燃挥发性液态碳氢化合物，用作溶剂",
             "examples": [
               {
                 "text": "The only way the powder would dissolve was in xylol.",
-                "translation": ""
+                "translation": "这种粉末只能溶解在二甲苯中。"
               }
             ]
           }
@@ -3124,8 +3124,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
@@ -3150,11 +3150,11 @@
           {
             "id": "xylophone-noun-1",
             "definition": "a percussion instrument with wooden bars tuned to produce a chromatic scale, with resonators to help with the sound quality",
-            "translation": "",
+            "translation": "木琴，一种打击乐器，由按半音阶调音的木条制成，配有共鸣器以改善音质",
             "examples": [
               {
                 "text": "The children were encouraged to play the xylophone.",
-                "translation": ""
+                "translation": "孩子们被鼓励演奏木琴。"
               }
             ]
           }
@@ -3163,18 +3163,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
     "word": "xylophonist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zaɪˈlɑːfənɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zaɪˈlɒfənɪst"
       }
     },
     "forms": {},
@@ -3187,11 +3187,11 @@
           {
             "id": "xylophonist-noun-1",
             "definition": "someone who plays a xylophone",
-            "translation": "",
+            "translation": "木琴演奏者",
             "examples": [
               {
                 "text": "The xylophonist played the Danse Macabre.",
-                "translation": ""
+                "translation": "这位木琴演奏者演奏了《死神之舞》。"
               }
             ]
           }
@@ -3200,18 +3200,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   },
   {
     "word": "xylose",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzaɪloʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzaɪləʊs"
       }
     },
     "forms": {},
@@ -3224,11 +3224,11 @@
           {
             "id": "xylose-noun-1",
             "definition": "a sugar extracted from wood or straw",
-            "translation": "",
+            "translation": "木糖，一种从木材或秸秆中提取的糖",
             "examples": [
               {
                 "text": "Xylose is found in most plants that humans consume.",
-                "translation": ""
+                "translation": "木糖存在于人类食用的大多数植物中。"
               }
             ]
           }
@@ -3237,8 +3237,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "deepseek-v4-pro",
+      "updatedAt": 1782566229
     }
   }
 ]
