@@ -29197,10 +29197,10 @@
     "word": "wheezingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪŋlɪ"
       }
     },
     "forms": {},
@@ -29215,7 +29215,7 @@
           {
             "id": "wheezingly-adverb-1",
             "definition": "with a wheeze",
-            "translation": "",
+            "translation": "气喘地；喘息地",
             "examples": []
           }
         ]
@@ -29223,15 +29223,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wheezy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːzi"
       },
       "uk": {
         "ipa": ""
@@ -29250,13 +29250,13 @@
           {
             "id": "wheezy-adjective-1",
             "definition": "relating to breathing with a whistling sound",
-            "translation": "声音的",
+            "translation": "气喘的；发出喘息声的",
             "examples": []
           },
           {
             "id": "wheezy-adjective-2",
             "definition": "having a tone of a reed instrument",
-            "translation": "",
+            "translation": "（声音）带喘息的；呼哧的",
             "examples": []
           }
         ]
@@ -29264,18 +29264,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whelk",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɛlk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "welk"
       }
     },
     "forms": {},
@@ -29288,13 +29288,13 @@
           {
             "id": "whelk-noun-1",
             "definition": "large carnivorous marine gastropods of coastal waters and intertidal regions having a strong snail-like shell",
-            "translation": "",
+            "translation": "海螺（可食用的海生软体动物）",
             "examples": []
           },
           {
             "id": "whelk-noun-2",
             "definition": "large marine snail much used as food in Europe",
-            "translation": "",
+            "translation": "（苏格兰）蛾螺属",
             "examples": []
           }
         ]
@@ -29313,8 +29313,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29345,7 +29345,7 @@
           {
             "id": "whelm-verb-1",
             "definition": "overcome, as with emotions or perceptual stimuli",
-            "translation": "",
+            "translation": "压倒；淹没；（使）覆盖",
             "examples": []
           }
         ]
@@ -29353,8 +29353,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29385,7 +29385,7 @@
           {
             "id": "whelp-noun-1",
             "definition": "young of any of various canines such as a dog or wolf",
-            "translation": "",
+            "translation": "幼崽；（尤指）小狗",
             "examples": []
           }
         ]
@@ -29409,8 +29409,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29433,7 +29433,7 @@
           {
             "id": "whence-adverb-1",
             "definition": "from what place, source, or cause",
-            "translation": "",
+            "translation": "从哪里；从何处（古语/正式）",
             "examples": []
           }
         ]
@@ -29441,8 +29441,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29465,7 +29465,7 @@
           {
             "id": "whereabouts-noun-1",
             "definition": "the general location where something is",
-            "translation": "",
+            "translation": "下落；去向；所在之处",
             "examples": [
               {
                 "text": "I questioned them about their whereabouts on the night of the crime.",
@@ -29478,18 +29478,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wherefore",
     "pronunciation": {
       "us": {
-        "ipa": "ˈwɛɚfɔɚ"
+        "ipa": "ˈwerfɔːr"
       },
       "uk": {
-        "ipa": "ˈweəfɔ:(r)"
+        "ipa": "ˈweəfɔː"
       }
     },
     "forms": {},
@@ -29504,7 +29504,7 @@
           {
             "id": "wherefore-noun-1",
             "definition": "the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'",
-            "translation": "",
+            "translation": "为什么；为何原因（the whys and wherefores）",
             "examples": []
           }
         ]
@@ -29512,18 +29512,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wheresoever",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwerəˈevɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌweəsəˈevə"
       }
     },
     "forms": {},
@@ -29538,7 +29538,7 @@
           {
             "id": "wheresoever-adverb-1",
             "definition": "where in the world",
-            "translation": "",
+            "translation": "无论在哪里（古语/书面语wherever的强调形式）",
             "examples": []
           }
         ]
@@ -29546,8 +29546,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29585,18 +29585,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wherewithal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwerwɪðˌɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweəwɪðˌɔːl"
       }
     },
     "forms": {},
@@ -29609,7 +29609,7 @@
           {
             "id": "wherewithal-noun-1",
             "definition": "the necessary means (especially financial means)",
-            "translation": "",
+            "translation": "必要的资金；手段；必要条件（the wherewithal）",
             "examples": []
           }
         ]
@@ -29617,18 +29617,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wherry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwerɪ"
       }
     },
     "forms": {},
@@ -29641,13 +29641,13 @@
           {
             "id": "wherry-noun-1",
             "definition": "light rowboat for use in racing or for transporting goods and passengers in inland waters and harbors",
-            "translation": "",
+            "translation": "平底船；渡船",
             "examples": []
           },
           {
             "id": "wherry-noun-2",
             "definition": "sailing barge used especially in East Anglia",
-            "translation": "",
+            "translation": "（英国）轻便赛艇",
             "examples": []
           }
         ]
@@ -29655,8 +29655,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29687,13 +29687,13 @@
           {
             "id": "whet-verb-1",
             "definition": "sharpen by rubbing, as on a whetstone",
-            "translation": "",
+            "translation": "磨快；使锐利",
             "examples": []
           },
           {
             "id": "whet-verb-2",
             "definition": "make keen or more acute",
-            "translation": "制造",
+            "translation": "刺激；增强（食欲、兴趣等）",
             "examples": [
               {
                 "text": "whet my appetite",
@@ -29715,18 +29715,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whetstone",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhwɛtˌstoʊn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwetˌstəʊn"
       }
     },
     "forms": {},
@@ -29739,7 +29739,7 @@
           {
             "id": "whetstone-noun-1",
             "definition": "a flat stone for sharpening edged tools or knives",
-            "translation": "",
+            "translation": "磨刀石；油石",
             "examples": []
           }
         ]
@@ -29747,18 +29747,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whey",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "weɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "weɪ"
       }
     },
     "forms": {},
@@ -29771,7 +29771,7 @@
           {
             "id": "whey-noun-1",
             "definition": "watery part of milk produced when raw milk sours and coagulates",
-            "translation": "",
+            "translation": "乳清（牛奶凝结后分离出的淡黄色液体）",
             "examples": [
               {
                 "text": "Little Miss Muffet sat on a tuffet eating some curds and whey",
@@ -29782,7 +29782,7 @@
           {
             "id": "whey-noun-2",
             "definition": "the serum or watery part of milk that is separated from the curd in making cheese",
-            "translation": "",
+            "translation": "（古）奶油；凝乳",
             "examples": []
           }
         ]
@@ -29795,18 +29795,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whicker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪkɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪkə"
       }
     },
     "forms": {
@@ -29825,7 +29825,7 @@
           {
             "id": "whicker-noun-1",
             "definition": "the characteristic sounds made by a horse",
-            "translation": "",
+            "translation": "（马）嘶鸣；（轻声）咯咯笑",
             "examples": []
           }
         ]
@@ -29844,18 +29844,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whidah",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪdə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪdə"
       }
     },
     "forms": {},
@@ -29870,7 +29870,7 @@
           {
             "id": "whidah-noun-1",
             "definition": "mostly black African weaverbird",
-            "translation": "",
+            "translation": "维达织雀（whydah的变体拼写）",
             "examples": []
           }
         ]
@@ -29878,8 +29878,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -29911,19 +29911,19 @@
           {
             "id": "whiff-noun-1",
             "definition": "a strikeout resulting from the batter swinging at and missing the ball for the third strike",
-            "translation": "",
+            "translation": "（空气的）一吹；一股（气味）",
             "examples": []
           },
           {
             "id": "whiff-noun-2",
             "definition": "a lefteye flounder found in coastal waters from New England to Brazil",
-            "translation": "",
+            "translation": "轻微的吹动；（球）轻轻挥空",
             "examples": []
           },
           {
             "id": "whiff-noun-3",
             "definition": "a short light gust of air",
-            "translation": "",
+            "translation": "吸入；喷出",
             "examples": []
           }
         ]
@@ -29976,18 +29976,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiffer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪfɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪfə"
       }
     },
     "forms": {},
@@ -30000,7 +30000,7 @@
           {
             "id": "whiffer-noun-1",
             "definition": "a batter who strikes out by swinging at and missing the third strike",
-            "translation": "",
+            "translation": "发出气息的人；（在空气或风中）飘过的东西",
             "examples": []
           }
         ]
@@ -30008,18 +30008,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiffletree",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪflˌtriː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪflˌtriː"
       }
     },
     "forms": {},
@@ -30035,7 +30035,7 @@
           {
             "id": "whiffletree-noun-1",
             "definition": "a crossbar that is attached to the traces of a draft horse and to the vehicle or implement that the horse is pulling",
-            "translation": "",
+            "translation": "（马车）横木；摇臂杆",
             "examples": []
           }
         ]
@@ -30043,8 +30043,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30072,7 +30072,7 @@
           {
             "id": "while-noun-1",
             "definition": "a period of indeterminate length, usually short, marked by some action or condition",
-            "translation": "当",
+            "translation": "当……的时候；与……同时",
             "examples": [
               {
                 "text": "They were here for a little while.",
@@ -30098,8 +30098,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30128,13 +30128,13 @@
           {
             "id": "whim-noun-1",
             "definition": "an odd or fanciful or capricious idea",
-            "translation": "",
+            "translation": "心血来潮的念头；一时兴起",
             "examples": []
           },
           {
             "id": "whim-noun-2",
             "definition": "a sudden desire",
-            "translation": "一个突然的渴望",
+            "translation": "突然的渴望；偶发的念头",
             "examples": []
           }
         ]
@@ -30142,8 +30142,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30175,7 +30175,7 @@
           {
             "id": "whimper-noun-1",
             "definition": "a complaint uttered in a plaintive whining way",
-            "translation": "",
+            "translation": "呜咽；悲声低泣；（狗）发出哀鸣",
             "examples": []
           }
         ]
@@ -30194,18 +30194,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whimsey",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪmzi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪmzɪ"
       }
     },
     "forms": {},
@@ -30221,13 +30221,13 @@
           {
             "id": "whimsey-noun-1",
             "definition": "the trait of acting unpredictably and more from whim or caprice than from reason or judgment",
-            "translation": "",
+            "translation": "奇思妙想；古怪的念头",
             "examples": []
           },
           {
             "id": "whimsey-noun-2",
             "definition": "an odd or fanciful or capricious idea",
-            "translation": "",
+            "translation": "（文学）诙谐；轻快的幽默",
             "examples": []
           }
         ]
@@ -30235,8 +30235,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30263,7 +30263,7 @@
           {
             "id": "whimsical-adjective-1",
             "definition": "determined by chance or impulse or whim rather than by necessity or reason",
-            "translation": "",
+            "translation": "异想天开的；古怪的；反复无常的",
             "examples": []
           }
         ]
@@ -30271,8 +30271,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30302,13 +30302,13 @@
           {
             "id": "whimsicality-noun-1",
             "definition": "the trait of behaving like an imp",
-            "translation": "",
+            "translation": "异想天开；古怪；反复无常",
             "examples": []
           },
           {
             "id": "whimsicality-noun-2",
             "definition": "the trait of acting unpredictably and more from whim or caprice than from reason or judgment",
-            "translation": "",
+            "translation": "怪念头；奇思",
             "examples": [
               {
                 "text": "I despair at the flightiness and whimsicality of my memory",
@@ -30321,18 +30321,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whimsically",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪmzɪkli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪmzɪklɪ"
       }
     },
     "forms": {},
@@ -30347,7 +30347,7 @@
           {
             "id": "whimsically-adverb-1",
             "definition": "in a fanciful manner",
-            "translation": "",
+            "translation": "异想天开地；滑稽地",
             "examples": [
               {
                 "text": "I whimsically skipped around the garden.",
@@ -30360,8 +30360,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30389,13 +30389,13 @@
           {
             "id": "whimsy-noun-1",
             "definition": "the trait of acting unpredictably and more from whim or caprice than from reason or judgment",
-            "translation": "",
+            "translation": "奇思妙想；古怪的念头",
             "examples": []
           },
           {
             "id": "whimsy-noun-2",
             "definition": "an odd or fanciful or capricious idea",
-            "translation": "",
+            "translation": "（文学）诙谐；轻快的幽默",
             "examples": []
           }
         ]
@@ -30403,18 +30403,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪn"
       }
     },
     "forms": {},
@@ -30435,13 +30435,13 @@
           {
             "id": "whin-noun-1",
             "definition": "any of various hard colored rocks (especially rocks consisting of chert or basalt)",
-            "translation": "",
+            "translation": "荆豆；帚石南（欧洲产的一种灌木）",
             "examples": []
           },
           {
             "id": "whin-noun-2",
             "definition": "small Eurasian shrub having clusters of yellow flowers that yield a dye",
-            "translation": "",
+            "translation": "染料木（可用于染色）",
             "examples": []
           },
           {
@@ -30455,18 +30455,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whinberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌberi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌberɪ"
       }
     },
     "forms": {},
@@ -30481,7 +30481,7 @@
           {
             "id": "whinberry-noun-1",
             "definition": "erect European blueberry having solitary flowers and blue-black berries",
-            "translation": "",
+            "translation": "（英）黑果木（一种结深蓝色浆果的灌木）",
             "examples": []
           }
         ]
@@ -30489,18 +30489,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whinchat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌtʃæt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌtʃæt"
       }
     },
     "forms": {},
@@ -30513,7 +30513,7 @@
           {
             "id": "whinchat-noun-1",
             "definition": "brown-and-buff European songbird of grassy meadows",
-            "translation": "",
+            "translation": "（鸟类）草原石鵖（欧洲产）",
             "examples": []
           }
         ]
@@ -30521,8 +30521,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30556,7 +30556,7 @@
           {
             "id": "whine-noun-1",
             "definition": "a complaint uttered in a plaintive whining way",
-            "translation": "",
+            "translation": "哀诉；嘀咕；（机器）发出呜呜声",
             "examples": []
           }
         ]
@@ -30602,8 +30602,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30628,7 +30628,7 @@
           {
             "id": "whiner-noun-1",
             "definition": "a person given to excessive complaints and crying and whining",
-            "translation": "",
+            "translation": "爱抱怨的人；发牢骚者",
             "examples": []
           }
         ]
@@ -30636,18 +30636,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiney",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnɪ"
       }
     },
     "forms": {},
@@ -30662,7 +30662,7 @@
           {
             "id": "whiney-adjective-1",
             "definition": "habitually complaining",
-            "translation": "",
+            "translation": "爱抱怨的；爱嘀咕的",
             "examples": []
           }
         ]
@@ -30670,8 +30670,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30700,7 +30700,7 @@
           {
             "id": "whinny-noun-1",
             "definition": "the characteristic sounds made by a horse",
-            "translation": "",
+            "translation": "（马）嘶鸣；（人）轻声笑",
             "examples": []
           }
         ]
@@ -30719,18 +30719,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whinstone",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌstoʊn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnˌstəʊn"
       }
     },
     "forms": {},
@@ -30745,7 +30745,7 @@
           {
             "id": "whinstone-noun-1",
             "definition": "any of various hard colored rocks (especially rocks consisting of chert or basalt)",
-            "translation": "",
+            "translation": "（苏格兰）暗色玄武岩；坚硬岩石",
             "examples": []
           }
         ]
@@ -30753,8 +30753,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30779,7 +30779,7 @@
           {
             "id": "whiny-adjective-1",
             "definition": "habitually complaining",
-            "translation": "",
+            "translation": "爱抱怨的；爱发牢骚的；嘀咕的",
             "examples": [
               {
                 "text": "a whiny child",
@@ -30792,8 +30792,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -30849,7 +30849,7 @@
           {
             "id": "whip-noun-2",
             "definition": "an instrument with a handle and a flexible lash that is used for whipping",
-            "translation": "鞭子",
+            "translation": "（政党的）组织秘书；纪律委员",
             "examples": [
               {
                 "text": "The whip was made of leather.",
@@ -30860,7 +30860,7 @@
           {
             "id": "whip-noun-3",
             "definition": "the flexibility of the shaft of a golf club",
-            "translation": "鞭子",
+            "translation": "鞭打；抽打",
             "examples": [
               {
                 "text": "My new clubs have a great whip.",
@@ -31027,18 +31027,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whipcord",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌkɔːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌkɔːd"
       }
     },
     "forms": {},
@@ -31051,13 +31051,13 @@
           {
             "id": "whipcord-noun-1",
             "definition": "a strong worsted or cotton fabric with a diagonal rib",
-            "translation": "",
+            "translation": "马鞭绳；紧密斜纹布",
             "examples": []
           },
           {
             "id": "whipcord-noun-2",
             "definition": "closely twisted hard cord used for the lashes of whips",
-            "translation": "",
+            "translation": "含羞草的一种灌木",
             "examples": []
           }
         ]
@@ -31065,8 +31065,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31091,13 +31091,13 @@
           {
             "id": "whiplash-noun-1",
             "definition": "a quick blow delivered with a whip or whiplike object",
-            "translation": "",
+            "translation": "鞭子的皮条；鞭绳",
             "examples": []
           },
           {
             "id": "whiplash-noun-2",
             "definition": "an injury to the neck resulting from rapid acceleration or deceleration, as in an automobile accident",
-            "translation": "",
+            "translation": "鞭打；（尤指颈椎）挥鞭伤",
             "examples": [
               {
                 "text": "I suffered from whiplash after the wreck.",
@@ -31110,18 +31110,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiplike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌlaɪk"
       }
     },
     "forms": {},
@@ -31136,7 +31136,7 @@
           {
             "id": "whiplike-adjective-1",
             "definition": "having or resembling a lash or whip (as does a flagellum)",
-            "translation": "",
+            "translation": "像鞭子的；鞭状的",
             "examples": []
           }
         ]
@@ -31144,18 +31144,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whipper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpə"
       }
     },
     "forms": {},
@@ -31170,7 +31170,7 @@
           {
             "id": "whipper-noun-1",
             "definition": "a person who administers punishment by wielding a switch or whip",
-            "translation": "",
+            "translation": "鞭打者；抽打者",
             "examples": []
           }
         ]
@@ -31178,18 +31178,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whippersnapper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpɚˌsnæpɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpəˌsnæpə"
       }
     },
     "forms": {},
@@ -31204,7 +31204,7 @@
           {
             "id": "whippersnapper-noun-1",
             "definition": "someone who is unimportant but cheeky and presumptuous",
-            "translation": "",
+            "translation": "妄自尊大的年轻人；小人物；无足轻重的人",
             "examples": []
           }
         ]
@@ -31212,18 +31212,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whippet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpɪt"
       }
     },
     "forms": {},
@@ -31236,7 +31236,7 @@
           {
             "id": "whippet-noun-1",
             "definition": "small slender dog of greyhound type developed in England",
-            "translation": "",
+            "translation": "小灵狗（一种赛跑用短毛犬）",
             "examples": []
           }
         ]
@@ -31244,8 +31244,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31275,7 +31275,7 @@
           {
             "id": "whipping-adjective-1",
             "definition": "smart and fashionable",
-            "translation": "",
+            "translation": "鞭打；鞭笞",
             "examples": []
           }
         ]
@@ -31333,18 +31333,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whippletree",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪplˌtriː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪplˌtriː"
       }
     },
     "forms": {},
@@ -31359,7 +31359,7 @@
           {
             "id": "whippletree-noun-1",
             "definition": "a crossbar that is attached to the traces of a draft horse and to the vehicle or implement that the horse is pulling",
-            "translation": "",
+            "translation": "（马车的）辕木连接杆；横木",
             "examples": []
           }
         ]
@@ -31367,18 +31367,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whippoorwill",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpɚˌwɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpəˌwɪl"
       }
     },
     "forms": {},
@@ -31391,7 +31391,7 @@
           {
             "id": "whippoorwill-noun-1",
             "definition": "American nocturnal goatsucker with grey-and-white plumage",
-            "translation": "",
+            "translation": "夜鹰（北美产，叫声似\"whip-poor-will\"）",
             "examples": []
           }
         ]
@@ -31399,18 +31399,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whippy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpɪ"
       }
     },
     "forms": {},
@@ -31425,7 +31425,7 @@
           {
             "id": "whippy-adjective-1",
             "definition": "bending and snapping back readily without breaking",
-            "translation": "",
+            "translation": "有弹性的；易弯曲的；像鞭子的",
             "examples": []
           }
         ]
@@ -31433,8 +31433,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31461,7 +31461,7 @@
           {
             "id": "whipsaw-noun-1",
             "definition": "a saw with handles at both ends",
-            "translation": "",
+            "translation": "双人横切锯；双人锯",
             "examples": []
           }
         ]
@@ -31486,18 +31486,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whipsnake",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌsneɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌsneɪk"
       }
     },
     "forms": {},
@@ -31510,7 +31510,7 @@
           {
             "id": "whipsnake-noun-1",
             "definition": "any of several small fast-moving snakes with long whiplike tails",
-            "translation": "",
+            "translation": "鞭蛇（一种细长无毒的蛇）",
             "examples": []
           }
         ]
@@ -31518,18 +31518,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whipstitch",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌstɪtʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌstɪtʃ"
       }
     },
     "forms": {},
@@ -31544,7 +31544,7 @@
           {
             "id": "whipstitch-noun-1",
             "definition": "a sewing stitch passing over an edge diagonally",
-            "translation": "",
+            "translation": "（缝纫）锁边缝；斜缝",
             "examples": []
           }
         ]
@@ -31552,18 +31552,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whipstitching",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌstɪtʃɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌstɪtʃɪŋ"
       }
     },
     "forms": {},
@@ -31578,7 +31578,7 @@
           {
             "id": "whipstitching-noun-1",
             "definition": "a sewing stitch passing over an edge diagonally",
-            "translation": "",
+            "translation": "（缝纫）锁边缝；斜缝",
             "examples": []
           }
         ]
@@ -31586,18 +31586,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiptail",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌteɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪpˌteɪl"
       }
     },
     "forms": {},
@@ -31610,7 +31610,7 @@
           {
             "id": "whiptail-noun-1",
             "definition": "any of numerous very agile and alert New World lizards",
-            "translation": "",
+            "translation": "（动物）鞭尾蜥（一种无鳞蜥蜴）",
             "examples": []
           }
         ]
@@ -31618,8 +31618,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31655,7 +31655,7 @@
           {
             "id": "whir-noun-1",
             "definition": "sound of something in rapid motion",
-            "translation": "",
+            "translation": "呼呼作响；（鸟）振翅疾飞",
             "examples": [
               {
                 "text": "whir of a bird's wings",
@@ -31684,8 +31684,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31728,19 +31728,19 @@
           {
             "id": "whirl-noun-1",
             "definition": "the act of rotating rapidly",
-            "translation": "",
+            "translation": "（使）旋转；（使）急转",
             "examples": []
           },
           {
             "id": "whirl-noun-2",
             "definition": "a usually brief attempt",
-            "translation": "一个通常简短的尝试",
+            "translation": "一阵忙碌；一连串活动",
             "examples": []
           },
           {
             "id": "whirl-noun-3",
             "definition": "confused movement",
-            "translation": "",
+            "translation": "眩晕；混乱的感觉",
             "examples": [
               {
                 "text": "I was caught up in a whirl of work.",
@@ -31820,18 +31820,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whirler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚlɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːlə"
       }
     },
     "forms": {},
@@ -31844,13 +31844,13 @@
           {
             "id": "whirler-noun-1",
             "definition": "a revolving mechanism",
-            "translation": "",
+            "translation": "旋转者；旋转物",
             "examples": []
           },
           {
             "id": "whirler-noun-2",
             "definition": "a dervish whose actions include ecstatic dancing and whirling",
-            "translation": "",
+            "translation": "（化学）旋光仪",
             "examples": []
           }
         ]
@@ -31858,18 +31858,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whirligig",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚlɪˌgɪg"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːlɪˌgɪg"
       }
     },
     "forms": {},
@@ -31886,13 +31886,13 @@
           {
             "id": "whirligig-noun-1",
             "definition": "a large, rotating machine with seats for children to ride or amusement",
-            "translation": "",
+            "translation": "旋转木马；陀螺",
             "examples": []
           },
           {
             "id": "whirligig-noun-2",
             "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
-            "translation": "",
+            "translation": "旋转的东西；变迁",
             "examples": []
           }
         ]
@@ -31911,18 +31911,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whirling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːlɪŋ"
       }
     },
     "forms": {},
@@ -31937,7 +31937,7 @@
           {
             "id": "whirling-noun-1",
             "definition": "the act of rotating in a circle or spiral",
-            "translation": "",
+            "translation": "旋转的；回旋的",
             "examples": []
           }
         ]
@@ -31945,8 +31945,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -31974,7 +31974,7 @@
           {
             "id": "whirlpool-noun-1",
             "definition": "a powerful circular current of water (usually the result of conflicting tides)",
-            "translation": "",
+            "translation": "漩涡；涡流",
             "examples": []
           }
         ]
@@ -31993,8 +31993,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32017,7 +32017,7 @@
           {
             "id": "whirlwind-noun-1",
             "definition": "a more or less vertical column of air whirling around itself as it moves over the surface of the Earth",
-            "translation": "",
+            "translation": "旋风；龙卷风",
             "examples": []
           }
         ]
@@ -32025,18 +32025,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whirlybird",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚliˌbɜːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːlɪˌbɜːd"
       }
     },
     "forms": {},
@@ -32051,7 +32051,7 @@
           {
             "id": "whirlybird-noun-1",
             "definition": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
-            "translation": "",
+            "translation": "（非正式）直升机",
             "examples": []
           }
         ]
@@ -32059,8 +32059,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32091,7 +32091,7 @@
           {
             "id": "whirr-noun-1",
             "definition": "sound of something in rapid motion",
-            "translation": "",
+            "translation": "（机器等）呼呼作响；盘旋作响",
             "examples": []
           }
         ]
@@ -32121,18 +32121,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whirring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚrɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːrɪŋ"
       }
     },
     "forms": {},
@@ -32149,7 +32149,7 @@
           {
             "id": "whirring-adjective-1",
             "definition": "like the sound of rapidly vibrating wings",
-            "translation": "",
+            "translation": "呼呼声；盘旋声（名词）",
             "examples": []
           }
         ]
@@ -32168,8 +32168,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32196,7 +32196,7 @@
           {
             "id": "whish-verb-1",
             "definition": "move with a whishing sound",
-            "translation": "",
+            "translation": "（拟声）嗖；呼呼",
             "examples": [
               {
                 "text": "The car whished past her",
@@ -32207,7 +32207,7 @@
           {
             "id": "whish-verb-2",
             "definition": "make a sibilant sound",
-            "translation": "制造",
+            "translation": "使（某物）发出嗖嗖声",
             "examples": []
           }
         ]
@@ -32215,8 +32215,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32245,13 +32245,13 @@
           {
             "id": "whisk-noun-1",
             "definition": "a small short-handled broom used to brush clothes",
-            "translation": "",
+            "translation": "拂；掸去",
             "examples": []
           },
           {
             "id": "whisk-noun-2",
             "definition": "a mixer incorporating a coil of wires",
-            "translation": "",
+            "translation": "迅速移动；突然拿走",
             "examples": []
           }
         ]
@@ -32324,8 +32324,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32354,13 +32354,13 @@
           {
             "id": "whisker-noun-1",
             "definition": "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat",
-            "translation": "",
+            "translation": "胡须；腮须",
             "examples": []
           },
           {
             "id": "whisker-noun-2",
             "definition": "a very small distance or space",
-            "translation": "",
+            "translation": "（猫等的）触须",
             "examples": []
           }
         ]
@@ -32384,18 +32384,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiskered",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪskɚd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪskəd"
       }
     },
     "forms": {},
@@ -32410,7 +32410,7 @@
           {
             "id": "whiskered-adjective-1",
             "definition": "having hair on the cheeks and chin",
-            "translation": "",
+            "translation": "有胡须的；留有须的",
             "examples": []
           }
         ]
@@ -32418,18 +32418,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiskerless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪskɚləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪskələs"
       }
     },
     "forms": {},
@@ -32444,7 +32444,7 @@
           {
             "id": "whiskerless-adjective-1",
             "definition": "having no beard",
-            "translation": "",
+            "translation": "无胡须的；无触须的",
             "examples": []
           }
         ]
@@ -32452,18 +32452,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiskers",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪskɚz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪskəz"
       }
     },
     "forms": {},
@@ -32478,7 +32478,7 @@
           {
             "id": "whiskers-noun-1",
             "definition": "the hair growing on the lower part of a man's face",
-            "translation": "",
+            "translation": "胡须；（猫等的）触须",
             "examples": []
           }
         ]
@@ -32486,18 +32486,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiskery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪskɚi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪskərɪ"
       }
     },
     "forms": {},
@@ -32512,7 +32512,7 @@
           {
             "id": "whiskery-adjective-1",
             "definition": "having hair on the cheeks and chin",
-            "translation": "",
+            "translation": "有胡须的；像胡须的",
             "examples": []
           }
         ]
@@ -32520,8 +32520,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32546,7 +32546,7 @@
           {
             "id": "whiskey-noun-1",
             "definition": "a liquor made from fermented mash of grain",
-            "translation": "",
+            "translation": "威士忌（美国/爱尔兰产）",
             "examples": []
           }
         ]
@@ -32554,8 +32554,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32584,7 +32584,7 @@
           {
             "id": "whisky-noun-1",
             "definition": "a liquor made from fermented mash of grain",
-            "translation": "",
+            "translation": "威士忌（苏格兰/爱尔兰产）",
             "examples": []
           }
         ]
@@ -32597,8 +32597,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32633,13 +32633,13 @@
           {
             "id": "whisper-noun-1",
             "definition": "speaking softly without vibration of the vocal cords",
-            "translation": "耳语",
+            "translation": "低声说；耳语",
             "examples": []
           },
           {
             "id": "whisper-noun-2",
             "definition": "a light noise, like the noise of silk clothing or leaves blowing in the wind",
-            "translation": "耳语",
+            "translation": "私下说；秘密告诉",
             "examples": []
           }
         ]
@@ -32675,8 +32675,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32699,7 +32699,7 @@
           {
             "id": "whispered-adjective-1",
             "definition": "spoken in soft hushed tones without vibrations of the vocal cords",
-            "translation": "耳语",
+            "translation": "低声说的；耳语的",
             "examples": [
               {
                 "text": "a long whispered conversation",
@@ -32712,18 +32712,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whisperer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪspɚɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪspərə"
       }
     },
     "forms": {},
@@ -32736,7 +32736,7 @@
           {
             "id": "whisperer-noun-1",
             "definition": "one who speaks in a whisper",
-            "translation": "",
+            "translation": "耳语者；低声说话的人",
             "examples": []
           }
         ]
@@ -32744,18 +32744,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whispering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪspɚɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪspərɪŋ"
       }
     },
     "forms": {},
@@ -32775,7 +32775,7 @@
           {
             "id": "whispering-adjective-1",
             "definition": "making a low continuous indistinct sound",
-            "translation": "耳语",
+            "translation": "低语；耳语",
             "examples": []
           }
         ]
@@ -32800,18 +32800,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪst"
       }
     },
     "forms": {},
@@ -32824,7 +32824,7 @@
           {
             "id": "whist-noun-1",
             "definition": "a card game for four players who form two partnerships",
-            "translation": "",
+            "translation": "嘘！（要求安静）",
             "examples": []
           }
         ]
@@ -32832,8 +32832,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -32871,19 +32871,19 @@
           {
             "id": "whistle-noun-1",
             "definition": "an inexpensive fipple flute",
-            "translation": "哨子",
+            "translation": "哨子；口哨",
             "examples": []
           },
           {
             "id": "whistle-noun-2",
             "definition": "acoustic device that forces air or steam against an edge or into a cavity and so produces a loud shrill sound",
-            "translation": "汽笛；鸣笛",
+            "translation": "汽笛；警报器",
             "examples": []
           },
           {
             "id": "whistle-noun-3",
             "definition": "a small wind instrument that produces a whistling sound by blowing into it",
-            "translation": "口哨",
+            "translation": "口哨声；哨声",
             "examples": []
           },
           {
@@ -33010,18 +33010,18 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whistleblower",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪslˌbloʊɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪslˌbləʊə"
       }
     },
     "forms": {},
@@ -33034,7 +33034,7 @@
           {
             "id": "whistleblower-noun-1",
             "definition": "an informant who exposes wrongdoing within an organization in the hope of stopping it",
-            "translation": "",
+            "translation": "吹哨人；揭发者（揭露组织内部不法行为的人）",
             "examples": [
               {
                 "text": "the law gives little protection to whistleblowers who feel the public has a right to know what is going on",
@@ -33047,8 +33047,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33074,19 +33074,19 @@
           {
             "id": "whistler-noun-1",
             "definition": "Australian and southeastern Asian birds with a melodious whistling call",
-            "translation": "",
+            "translation": "吹口哨者",
             "examples": []
           },
           {
             "id": "whistler-noun-2",
             "definition": "large-headed swift-flying diving duck of Arctic regions",
-            "translation": "",
+            "translation": "（动物）黄嘴鸦（北美产）",
             "examples": []
           },
           {
             "id": "whistler-noun-3",
             "definition": "large North American mountain marmot",
-            "translation": "",
+            "translation": "（医学）喘鸣患者",
             "examples": []
           },
           {
@@ -33100,18 +33100,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whistlestop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪslˌstɒp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪslˌstɒp"
       }
     },
     "forms": {
@@ -33128,7 +33128,7 @@
           {
             "id": "whistlestop-verb-1",
             "definition": "tour the country in order to solicit votes for an election",
-            "translation": "",
+            "translation": "（美）小站（仅供小火车停靠的小站）",
             "examples": []
           }
         ]
@@ -33136,8 +33136,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33162,7 +33162,7 @@
           {
             "id": "whistling-noun-1",
             "definition": "the act of whistling a tune",
-            "translation": "",
+            "translation": "吹口哨；吹哨声",
             "examples": [
               {
                 "text": "Their cheerful whistling indicated that they enjoyed their work.",
@@ -33173,13 +33173,13 @@
           {
             "id": "whistling-noun-2",
             "definition": "the act of signalling (e.g., summoning) by whistling or blowing a whistle",
-            "translation": "",
+            "translation": "（声音）呼啸而过",
             "examples": []
           },
           {
             "id": "whistling-noun-3",
             "definition": "the sound made by something moving rapidly or by steam coming out of a small aperture",
-            "translation": "",
+            "translation": "（医）啸鸣",
             "examples": []
           }
         ]
@@ -33187,8 +33187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33216,7 +33216,7 @@
           {
             "id": "whit-noun-1",
             "definition": "a tiny or scarcely detectable amount",
-            "translation": "",
+            "translation": "一点点；丝毫（用于not...a whit表示\"一点也不\"）",
             "examples": []
           }
         ]
@@ -33224,8 +33224,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33266,7 +33266,7 @@
           {
             "id": "white-adjective-1",
             "definition": "of or belonging to a racial group having light skin coloration",
-            "translation": "皮肤的",
+            "translation": "白色的；雪白的",
             "examples": [
               {
                 "text": "voting patterns within the white population",
@@ -33277,7 +33277,7 @@
           {
             "id": "white-adjective-2",
             "definition": "of summer nights in northern latitudes where the sun barely sets",
-            "translation": "设置的",
+            "translation": "白种人的；白人的",
             "examples": [
               {
                 "text": "white nights",
@@ -33288,13 +33288,13 @@
           {
             "id": "white-adjective-3",
             "definition": "being of the achromatic color of maximum lightness",
-            "translation": "白色",
+            "translation": "白色；白颜料",
             "examples": []
           },
           {
             "id": "white-adjective-4",
             "definition": "anemic looking from illness or emotion",
-            "translation": "白色",
+            "translation": "鸡蛋的蛋白；蛋清",
             "examples": []
           },
           {
@@ -33448,8 +33448,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33472,13 +33472,13 @@
           {
             "id": "whitebait-noun-1",
             "definition": "the edible young of especially herrings and sprats and smelts",
-            "translation": "",
+            "translation": "银鱼（幼鱼的统称，可食用）",
             "examples": []
           },
           {
             "id": "whitebait-noun-2",
             "definition": "minnows or other small fresh- or saltwater fish (especially herring)",
-            "translation": "",
+            "translation": "（用作复数）醋渍小鱼的统称",
             "examples": []
           }
         ]
@@ -33486,18 +33486,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitecap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌkæp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌkæp"
       }
     },
     "forms": {},
@@ -33510,7 +33510,7 @@
           {
             "id": "whitecap-noun-1",
             "definition": "a wave that is blown by the wind so its crest is broken and appears white",
-            "translation": "",
+            "translation": "白浪（波浪顶部泛起的白色泡沫）",
             "examples": []
           }
         ]
@@ -33518,18 +33518,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitecup",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌkʌp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌkʌp"
       }
     },
     "forms": {},
@@ -33542,7 +33542,7 @@
           {
             "id": "whitecup-noun-1",
             "definition": "prostrate woody South American herb with white tubular flowers often tinged with blue or rose",
-            "translation": "",
+            "translation": "白杯草（一种一年生草本植物）",
             "examples": []
           }
         ]
@@ -33550,18 +33550,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiteface",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌfeɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌfeɪs"
       }
     },
     "forms": {},
@@ -33574,13 +33574,13 @@
           {
             "id": "whiteface-noun-1",
             "definition": "hardy English breed of dairy cattle raised extensively in United States",
-            "translation": "",
+            "translation": "（表演中白人模仿黑人的）涂白脸",
             "examples": []
           },
           {
             "id": "whiteface-noun-2",
             "definition": "a clown whose face is covered with white make-up",
-            "translation": "",
+            "translation": "白色面部（动物或鸟类）",
             "examples": []
           }
         ]
@@ -33588,18 +33588,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitefish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌfɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌfɪʃ"
       }
     },
     "forms": {},
@@ -33612,13 +33612,13 @@
           {
             "id": "whitefish-noun-1",
             "definition": "silvery herring-like freshwater food fish of cold lakes of the northern hemisphere",
-            "translation": "",
+            "translation": "淡水白鱼（如鳟鱼、茴鱼等）",
             "examples": []
           },
           {
             "id": "whitefish-noun-2",
             "definition": "flesh of salmon-like or trout-like cold-water fish of cold lakes of the northern hemisphere",
-            "translation": "",
+            "translation": "（烹饪）白身鱼（肉质白色的鱼）",
             "examples": []
           },
           {
@@ -33632,18 +33632,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitefly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌflaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌflaɪ"
       }
     },
     "forms": {},
@@ -33656,7 +33656,7 @@
           {
             "id": "whitefly-noun-1",
             "definition": "minute insect that feeds on plant juices",
-            "translation": "",
+            "translation": "（昆虫）粉虱；温室白粉虱",
             "examples": []
           }
         ]
@@ -33664,18 +33664,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitehead",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌhɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌhed"
       }
     },
     "forms": {},
@@ -33690,7 +33690,7 @@
           {
             "id": "whitehead-noun-1",
             "definition": "a small whitish lump in the skin due to a clogged sebaceous gland",
-            "translation": "",
+            "translation": "（医学）粟丘疹；小白疹",
             "examples": []
           }
         ]
@@ -33698,18 +33698,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitelash",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌlæʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌlæʃ"
       }
     },
     "forms": {},
@@ -33722,7 +33722,7 @@
           {
             "id": "whitelash-noun-1",
             "definition": "backlash by white racists against black civil rights advances",
-            "translation": "",
+            "translation": "（美国政治/社会）白人的强烈反弹（指对黑人地位提升的抵制）",
             "examples": []
           }
         ]
@@ -33730,8 +33730,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33773,18 +33773,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitened",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtənd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtənd"
       }
     },
     "forms": {},
@@ -33799,7 +33799,7 @@
           {
             "id": "whitened-adjective-1",
             "definition": "(of hair) having lost its color",
-            "translation": "",
+            "translation": "已漂白的；已变白的",
             "examples": []
           }
         ]
@@ -33807,18 +33807,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitener",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtnɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtnə"
       }
     },
     "forms": {},
@@ -33833,7 +33833,7 @@
           {
             "id": "whitener-noun-1",
             "definition": "an agent that makes things white or colorless",
-            "translation": "",
+            "translation": "增白剂；漂白剂",
             "examples": []
           }
         ]
@@ -33841,8 +33841,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -33868,13 +33868,13 @@
           {
             "id": "whiteness-noun-1",
             "definition": "the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)",
-            "translation": "",
+            "translation": "白色；苍白",
             "examples": []
           },
           {
             "id": "whiteness-noun-2",
             "definition": "lightness or fairness of complexion",
-            "translation": "",
+            "translation": "洁白；纯洁",
             "examples": [
               {
                 "text": "Only the whiteness of their cheeks gave any indication of the stress from which they were suffering.",
@@ -33885,7 +33885,7 @@
           {
             "id": "whiteness-noun-3",
             "definition": "the state of being unsullied by sin or moral wrong",
-            "translation": "…的状态",
+            "translation": "白度（的颜色特征）",
             "examples": []
           }
         ]
@@ -33893,18 +33893,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitening",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtnɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtnɪŋ"
       }
     },
     "forms": {},
@@ -33919,7 +33919,7 @@
           {
             "id": "whitening-noun-1",
             "definition": "changing to a lighter color",
-            "translation": "",
+            "translation": "变白；使变白的过程",
             "examples": []
           }
         ]
@@ -33936,18 +33936,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiteout",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌaʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌaʊt"
       }
     },
     "forms": {},
@@ -33960,7 +33960,7 @@
           {
             "id": "whiteout-noun-1",
             "definition": "an arctic atmospheric condition with clouds over snow produce a uniform whiteness and objects are difficult to see",
-            "translation": "",
+            "translation": "（极地）乳白天空；能见度极低的雪暴",
             "examples": []
           }
         ]
@@ -33985,8 +33985,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34017,18 +34017,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitethorn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌθɔːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌθɔːn"
       }
     },
     "forms": {},
@@ -34043,7 +34043,7 @@
           {
             "id": "whitethorn-noun-1",
             "definition": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries",
-            "translation": "",
+            "translation": "山楂（一种开白花的灌木）",
             "examples": []
           }
         ]
@@ -34051,18 +34051,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitethroat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌθroʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌθrəʊt"
       }
     },
     "forms": {},
@@ -34075,19 +34075,19 @@
           {
             "id": "whitethroat-noun-1",
             "definition": "common North American finch with a white patch on the throat and black-and-white striped crown",
-            "translation": "",
+            "translation": "白喉雀（一种小型雀鸟）",
             "examples": []
           },
           {
             "id": "whitethroat-noun-2",
             "definition": "greyish-brown Old World warbler with a white throat and underparts",
-            "translation": "",
+            "translation": "（医学）白喉",
             "examples": []
           },
           {
             "id": "whitethroat-noun-3",
             "definition": "Old World warbler similar to the greater whitethroat but smaller",
-            "translation": "",
+            "translation": "（植物）白叶草",
             "examples": []
           }
         ]
@@ -34095,8 +34095,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34127,19 +34127,19 @@
           {
             "id": "whitewash-noun-1",
             "definition": "a specious or deceptive clearing that attempts to gloss over failings and defects",
-            "translation": "",
+            "translation": "石灰水；白色涂料",
             "examples": []
           },
           {
             "id": "whitewash-noun-2",
             "definition": "wash consisting of lime and size in water",
-            "translation": "",
+            "translation": "粉刷（墙壁等）",
             "examples": []
           },
           {
             "id": "whitewash-noun-3",
             "definition": "a defeat in which the losing person or team fails to score",
-            "translation": "",
+            "translation": "（比赛）零封对手；完胜",
             "examples": []
           }
         ]
@@ -34180,15 +34180,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitewashed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtwɒʃ"
       },
       "uk": {
         "ipa": ""
@@ -34204,7 +34204,7 @@
           {
             "id": "whitewashed-adjective-1",
             "definition": "coated with whitewash",
-            "translation": "",
+            "translation": "被粉刷成白色的",
             "examples": [
               {
                 "text": "miles of whitewashed fences",
@@ -34217,18 +34217,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitewater",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌwɔtɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌwɔːtə"
       }
     },
     "forms": {},
@@ -34241,7 +34241,7 @@
           {
             "id": "whitewater-noun-1",
             "definition": "frothy water, usually describing rapids or waterfalls",
-            "translation": "",
+            "translation": "（河流的）湍流；白水",
             "examples": [
               {
                 "text": "The whitewater stream was dangerous to traverse.",
@@ -34254,18 +34254,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitewood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌwʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtˌwʊd"
       }
     },
     "forms": {},
@@ -34278,7 +34278,7 @@
           {
             "id": "whitewood-noun-1",
             "definition": "light easily worked wood of a tulip tree",
-            "translation": "",
+            "translation": "白木（指颜色浅的木材）",
             "examples": []
           }
         ]
@@ -34286,18 +34286,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitey",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtɪ"
       }
     },
     "forms": {},
@@ -34314,7 +34314,7 @@
           {
             "id": "whitey-noun-1",
             "definition": "(slang) offensive names for a White man",
-            "translation": "",
+            "translation": "（俚语/冒犯性）白人；对白人的蔑称",
             "examples": []
           }
         ]
@@ -34322,18 +34322,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whiting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtɪŋ"
       }
     },
     "forms": {},
@@ -34346,13 +34346,13 @@
           {
             "id": "whiting-noun-1",
             "definition": "a food fish of the Atlantic waters of Europe resembling the cod",
-            "translation": "白色",
+            "translation": "牙鳕（一种白色食用鱼）",
             "examples": []
           },
           {
             "id": "whiting-noun-2",
             "definition": "found off Atlantic coast of North America",
-            "translation": "白色",
+            "translation": "白粉；白垩粉（用于擦亮）",
             "examples": []
           },
           {
@@ -34389,18 +34389,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪtɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪtɪʃ"
       }
     },
     "forms": {},
@@ -34416,13 +34416,13 @@
           {
             "id": "whitish-adjective-1",
             "definition": "of something having a color tending toward white",
-            "translation": "白色的",
+            "translation": "带白色的；发白的",
             "examples": []
           },
           {
             "id": "whitish-adjective-2",
             "definition": "resembling milk in color not clear",
-            "translation": "",
+            "translation": "略白的",
             "examples": []
           }
         ]
@@ -34430,18 +34430,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitlavia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪtˈleɪviə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪtˈleɪvɪə"
       }
     },
     "forms": {},
@@ -34454,7 +34454,7 @@
           {
             "id": "whitlavia-noun-1",
             "definition": "desert plant of southern California with blue or violet tubular flowers in terminal racemes",
-            "translation": "",
+            "translation": "（植物）白叶属（一种澳大利亚兰科植物）",
             "examples": []
           }
         ]
@@ -34462,8 +34462,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34488,7 +34488,7 @@
           {
             "id": "whitlow-noun-1",
             "definition": "a purulent infection at the end of a finger or toe in the area surrounding the nail",
-            "translation": "",
+            "translation": "（医学）指疽；疔疮（指尖或趾尖的化脓性感染）",
             "examples": []
           }
         ]
@@ -34496,18 +34496,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whitlowwort",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtloʊˌwɜːrt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtləʊˌwɜːt"
       }
     },
     "forms": {},
@@ -34520,7 +34520,7 @@
           {
             "id": "whitlowwort-noun-1",
             "definition": "any of various low-growing tufted plants of the genus Paronychia having tiny greenish flowers and usually whorled leaves",
-            "translation": "",
+            "translation": "（植物）指疽草；疗疗草",
             "examples": []
           }
         ]
@@ -34528,8 +34528,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34559,7 +34559,7 @@
           {
             "id": "whittle-verb-1",
             "definition": "to cut small bits or pare shavings from",
-            "translation": "",
+            "translation": "（用刀）削；削成",
             "examples": [
               {
                 "text": "I whittled a piece of wood into a flute.",
@@ -34589,18 +34589,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whittler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtlɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtlə"
       }
     },
     "forms": {},
@@ -34613,7 +34613,7 @@
           {
             "id": "whittler-noun-1",
             "definition": "someone who whittles, usually as an idle pastime",
-            "translation": "",
+            "translation": "削木者；用刀斧削东西的人",
             "examples": [
               {
                 "text": "My grandparents were both whittlers. ",
@@ -34626,8 +34626,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34657,7 +34657,7 @@
           {
             "id": "whiz-noun-1",
             "definition": "a buzzing or hissing sound as of something traveling rapidly through the air",
-            "translation": "",
+            "translation": "嗖地移动；（嗖地）飞速经过",
             "examples": [
               {
                 "text": "They heard the whiz of bullets near their heads.",
@@ -34668,7 +34668,7 @@
           {
             "id": "whiz-noun-2",
             "definition": "someone who is dazzlingly skilled in any field",
-            "translation": "",
+            "translation": "专家；高手；（尤指）学有专长的人",
             "examples": []
           }
         ]
@@ -34687,18 +34687,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whizbang",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪzˌbæŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪzˌbæŋ"
       }
     },
     "forms": {},
@@ -34713,13 +34713,13 @@
           {
             "id": "whizbang-noun-1",
             "definition": "a firecracker that (like the whizbang shell) makes a whizzing sound followed by a loud explosion",
-            "translation": "",
+            "translation": "同whizzbang",
             "examples": []
           },
           {
             "id": "whizbang-noun-2",
             "definition": "a small high-velocity shell",
-            "translation": "",
+            "translation": "精彩的人或事",
             "examples": []
           }
         ]
@@ -34727,8 +34727,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34759,7 +34759,7 @@
           {
             "id": "whizz-noun-1",
             "definition": "someone who is dazzlingly skilled in any field",
-            "translation": "",
+            "translation": "（非正式）高手；专家",
             "examples": []
           }
         ]
@@ -34793,18 +34793,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whizzbang",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪzˌbæŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪzˌbæŋ"
       }
     },
     "forms": {},
@@ -34819,13 +34819,13 @@
           {
             "id": "whizzbang-noun-1",
             "definition": "a firecracker that (like the whizbang shell) makes a whizzing sound followed by a loud explosion",
-            "translation": "",
+            "translation": "（非正式）精彩的东西；轰动一时的东西",
             "examples": []
           },
           {
             "id": "whizzbang-noun-2",
             "definition": "a small high-velocity shell",
-            "translation": "",
+            "translation": "（军俚）微型爆破弹",
             "examples": []
           }
         ]
@@ -34833,8 +34833,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34859,7 +34859,7 @@
           {
             "id": "whodunit-noun-1",
             "definition": "a story about a crime, usually murder, presented as a novel or play or movie",
-            "translation": "",
+            "translation": "推理小说（或戏剧、电影）；侦探故事",
             "examples": [
               {
                 "text": "The dinner theater was a puzzling whodunit.",
@@ -34872,8 +34872,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -34988,18 +34988,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wholehearted",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌhoʊlˈhɑrtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌhəʊlˈhɑːtɪd"
       }
     },
     "forms": {},
@@ -35012,7 +35012,7 @@
           {
             "id": "wholehearted-adjective-1",
             "definition": "with unconditional and enthusiastic devotion",
-            "translation": "",
+            "translation": "全心全意的；完全同意的；毫无保留的",
             "examples": []
           }
         ]
@@ -35020,8 +35020,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35044,7 +35044,7 @@
           {
             "id": "wholeheartedly-adverb-1",
             "definition": "without reserve",
-            "translation": "没有保留",
+            "translation": "全心全意地；毫无保留地",
             "examples": []
           }
         ]
@@ -35052,18 +35052,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wholeheartedness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌhoʊlˈhɑrtɪdnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌhəʊlˈhɑːtɪdnəs"
       }
     },
     "forms": {},
@@ -35078,13 +35078,13 @@
           {
             "id": "wholeheartedness-noun-1",
             "definition": "undivided commitment or unreserved enthusiasm",
-            "translation": "",
+            "translation": "全心全意",
             "examples": []
           },
           {
             "id": "wholeheartedness-noun-2",
             "definition": "the quality of hearty sincerity",
-            "translation": "",
+            "translation": "赤诚；全心投入",
             "examples": []
           }
         ]
@@ -35092,8 +35092,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35118,7 +35118,7 @@
           {
             "id": "wholemeal-adjective-1",
             "definition": "of or relating to or derived from wheat",
-            "translation": "从的",
+            "translation": "全麦的；全麦面粉做的",
             "examples": []
           }
         ]
@@ -35126,8 +35126,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35153,13 +35153,13 @@
           {
             "id": "wholeness-noun-1",
             "definition": "a state of robust good health",
-            "translation": "",
+            "translation": "完整性；全部",
             "examples": []
           },
           {
             "id": "wholeness-noun-2",
             "definition": "an undivided or unbroken completeness or totality with nothing wanting",
-            "translation": "",
+            "translation": "完善；健全",
             "examples": []
           }
         ]
@@ -35167,8 +35167,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35200,7 +35200,7 @@
           {
             "id": "wholesale-adjective-1",
             "definition": "ignoring distinctions",
-            "translation": "",
+            "translation": "批发（的）",
             "examples": []
           }
         ]
@@ -35257,8 +35257,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35285,7 +35285,7 @@
           {
             "id": "wholesaler-noun-1",
             "definition": "someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers",
-            "translation": "",
+            "translation": "批发商",
             "examples": []
           }
         ]
@@ -35293,8 +35293,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35323,7 +35323,7 @@
           {
             "id": "wholesome-adjective-1",
             "definition": "sound or exhibiting soundness in body or mind",
-            "translation": "",
+            "translation": "有益健康的；有益身心的",
             "examples": [
               {
                 "text": "exercise develops wholesome appetites",
@@ -35334,7 +35334,7 @@
           {
             "id": "wholesome-adjective-2",
             "definition": "conducive to or characteristic of physical or moral well-being",
-            "translation": "",
+            "translation": "（道德上）健康的；正派的",
             "examples": [
               {
                 "text": "wholesome attitude",
@@ -35347,18 +35347,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wholesomely",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhoʊlsəmli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhəʊlsəmlɪ"
       }
     },
     "forms": {},
@@ -35371,7 +35371,7 @@
           {
             "id": "wholesomely-adverb-1",
             "definition": "in a wholesome manner",
-            "translation": "",
+            "translation": "有益健康地",
             "examples": [
               {
                 "text": "the papers we found shed some valuable light on this question, wholesomely contradicting all lies",
@@ -35384,18 +35384,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "wholesomeness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhoʊlsəmnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhəʊlsəmnəs"
       }
     },
     "forms": {},
@@ -35408,7 +35408,7 @@
           {
             "id": "wholesomeness-noun-1",
             "definition": "the quality of being beneficial and generally good for you",
-            "translation": "",
+            "translation": "有益健康；安全性",
             "examples": []
           }
         ]
@@ -35416,8 +35416,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35464,18 +35464,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whomp",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wʌmp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wʌmp"
       }
     },
     "forms": {
@@ -35494,13 +35494,13 @@
           {
             "id": "whomp-verb-1",
             "definition": "beat overwhelmingly",
-            "translation": "打",
+            "translation": "猛击；重击",
             "examples": []
           },
           {
             "id": "whomp-verb-2",
             "definition": "hit with the hand",
-            "translation": "打",
+            "translation": "（发出沉闷声响的）撞击",
             "examples": []
           }
         ]
@@ -35513,8 +35513,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35543,7 +35543,7 @@
           {
             "id": "whoop-noun-1",
             "definition": "a loud hooting cry of exultation or excitement",
-            "translation": "",
+            "translation": "呐喊；（高兴、激动的）高声喊叫",
             "examples": []
           }
         ]
@@ -35582,18 +35582,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whoopee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhwuːpi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wuːˈpiː"
       }
     },
     "forms": {},
@@ -35606,7 +35606,7 @@
           {
             "id": "whoopee-noun-1",
             "definition": "noisy and boisterous revelry",
-            "translation": "",
+            "translation": "欢呼声；欢乐的呐喊",
             "examples": []
           }
         ]
@@ -35614,18 +35614,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whooper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwuːpɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwuːpə"
       }
     },
     "forms": {},
@@ -35638,13 +35638,13 @@
           {
             "id": "whooper-noun-1",
             "definition": "common Old World swan noted for its whooping call",
-            "translation": "",
+            "translation": "（动物）高声鸣叫的鸟（尤指黄嘴天鹅）",
             "examples": []
           },
           {
             "id": "whooper-noun-2",
             "definition": "rare North American crane having black-and-white plumage and a trumpeting call",
-            "translation": "",
+            "translation": "发出呐喊的人",
             "examples": []
           }
         ]
@@ -35657,8 +35657,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35689,7 +35689,7 @@
           {
             "id": "whoosh-noun-1",
             "definition": "the noise produced by the sudden rush of a fluid (a gas or liquid)",
-            "translation": "",
+            "translation": "嗖的一声；急流声",
             "examples": []
           }
         ]
@@ -35730,18 +35730,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "hwɒp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɒp"
       }
     },
     "forms": {
@@ -35760,13 +35760,13 @@
           {
             "id": "whop-verb-1",
             "definition": "hit hard",
-            "translation": "通过努力的打",
+            "translation": "猛击；重打",
             "examples": []
           },
           {
             "id": "whop-verb-2",
             "definition": "hit hard",
-            "translation": "通过努力的打",
+            "translation": "击败；打倒",
             "examples": []
           }
         ]
@@ -35774,18 +35774,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whopper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhwɒpɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒpə"
       }
     },
     "forms": {},
@@ -35801,13 +35801,13 @@
           {
             "id": "whopper-noun-1",
             "definition": "something especially big or impressive of its kind",
-            "translation": "",
+            "translation": "特大的东西；巨物",
             "examples": []
           },
           {
             "id": "whopper-noun-2",
             "definition": "a gross untruth",
-            "translation": "",
+            "translation": "弥天大谎；荒唐的谎言",
             "examples": []
           }
         ]
@@ -35815,8 +35815,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35845,7 +35845,7 @@
           {
             "id": "whopping-adjective-1",
             "definition": "(used informally) very large",
-            "translation": "",
+            "translation": "巨大的；庞大的（非正式）",
             "examples": []
           }
         ]
@@ -35869,8 +35869,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35899,7 +35899,7 @@
           {
             "id": "whore-noun-1",
             "definition": "a woman who engages in sexual intercourse for money",
-            "translation": "",
+            "translation": "妓女；嫖客",
             "examples": []
           }
         ]
@@ -35940,8 +35940,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -35966,7 +35966,7 @@
           {
             "id": "whoredom-noun-1",
             "definition": "offering sexual intercourse for pay",
-            "translation": "",
+            "translation": "卖淫（行为或行业）",
             "examples": []
           }
         ]
@@ -35974,18 +35974,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whorehouse",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhɔrˌhaʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhɔːˌhaʊs"
       }
     },
     "forms": {},
@@ -36000,7 +36000,7 @@
           {
             "id": "whorehouse-noun-1",
             "definition": "a building where prostitutes are available",
-            "translation": "",
+            "translation": "妓院",
             "examples": []
           }
         ]
@@ -36008,18 +36008,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whoremaster",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhɔrˌmæstɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhɔːˌmɑːstə"
       }
     },
     "forms": {},
@@ -36035,13 +36035,13 @@
           {
             "id": "whoremaster-noun-1",
             "definition": "a pimp who procures whores",
-            "translation": "",
+            "translation": "拉皮条者",
             "examples": []
           },
           {
             "id": "whoremaster-noun-2",
             "definition": "a prostitute's customer",
-            "translation": "",
+            "translation": "嫖客",
             "examples": []
           }
         ]
@@ -36049,18 +36049,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whoremonger",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhɔrˌmʌŋgɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhɔːˌmʌŋgə"
       }
     },
     "forms": {},
@@ -36076,7 +36076,7 @@
           {
             "id": "whoremonger-noun-1",
             "definition": "a pimp who procures whores",
-            "translation": "",
+            "translation": "拉皮条者；嫖客",
             "examples": []
           },
           {
@@ -36090,18 +36090,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whoreson",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈhɔrˌsʌn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈhɔːsən"
       }
     },
     "forms": {},
@@ -36117,13 +36117,13 @@
           {
             "id": "whoreson-noun-1",
             "definition": "insulting terms of address for people who are stupid or irritating or ridiculous",
-            "translation": "",
+            "translation": "私生子（古语/骂人语）",
             "examples": []
           },
           {
             "id": "whoreson-noun-2",
             "definition": "the illegitimate offspring of unmarried parents",
-            "translation": "",
+            "translation": "混蛋（古语/骂人语）",
             "examples": []
           }
         ]
@@ -36131,8 +36131,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -36165,19 +36165,19 @@
           {
             "id": "whorl-noun-1",
             "definition": "a structure consisting of something wound in a continuous series of loops",
-            "translation": "",
+            "translation": "轮生体（植物叶或花瓣在茎上呈环形排列）",
             "examples": []
           },
           {
             "id": "whorl-noun-2",
             "definition": "a strand or cluster of hair",
-            "translation": "",
+            "translation": "螺旋；漩涡",
             "examples": []
           },
           {
             "id": "whorl-noun-3",
             "definition": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
-            "translation": "",
+            "translation": "（昆虫的）螺纹",
             "examples": []
           }
         ]
@@ -36185,18 +36185,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whorled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɚld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɜ:ld"
       }
     },
     "forms": {},
@@ -36216,13 +36216,13 @@
           {
             "id": "whorled-adjective-1",
             "definition": "forming one or more whorls (especially a whorl of leaves around a stem)",
-            "translation": "",
+            "translation": "轮生的（叶序）",
             "examples": []
           },
           {
             "id": "whorled-adjective-2",
             "definition": "in the shape of a coil",
-            "translation": "",
+            "translation": "旋转的；盘旋的",
             "examples": []
           }
         ]
@@ -36230,18 +36230,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whorlywort",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚliˌwɜːrt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜ:liˌwɜːt"
       }
     },
     "forms": {},
@@ -36254,7 +36254,7 @@
           {
             "id": "whorlywort-noun-1",
             "definition": "a tall perennial herb having spikes of small white or purple flowers",
-            "translation": "",
+            "translation": "（植物学）叶轮草",
             "examples": []
           }
         ]
@@ -36262,18 +36262,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whortleberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɚtlˌberɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜ:tlberɪ"
       }
     },
     "forms": {},
@@ -36288,13 +36288,13 @@
           {
             "id": "whortleberry-noun-1",
             "definition": "blue-black berries similar to American blueberries",
-            "translation": "",
+            "translation": "欧洲越橘（可食用的黑色浆果）",
             "examples": []
           },
           {
             "id": "whortleberry-noun-2",
             "definition": "erect European blueberry having solitary flowers and blue-black berries",
-            "translation": "",
+            "translation": "（美洲）越橘类灌木",
             "examples": []
           }
         ]
@@ -36302,8 +36302,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
@@ -36340,22 +36340,22 @@
     "phrases": [
       {
         "text": "why in hell",
-        "translation": ""
+        "translation": "为什么"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
     "word": "whydah",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪdə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪdə"
       }
     },
     "forms": {},
@@ -36370,7 +36370,7 @@
           {
             "id": "whydah-noun-1",
             "definition": "mostly black African weaverbird",
-            "translation": "",
+            "translation": "维达织雀（一种非洲鸟类，雌鸟尾羽极长）",
             "examples": []
           }
         ]
@@ -36378,8 +36378,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782600000
     }
   },
   {
