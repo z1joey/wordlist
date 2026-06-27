@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 342 | **← Backward**: v.json index 380 | **Updated**: 1751137200
+> **→ Forward**: b.json index 342 | **← Backward**: v.json index 0 | **Updated**: 1751137200
 
 ## 📊 Summary
 
@@ -11,7 +11,7 @@
 | Remaining | 43,361 |
 | Completion | 33.2% |
 | Forward agent | a.json (4,900 / 4,900) ✅ |
-| Backward agent | v.json (948 / 1,058) |
+| Backward agent | v.json (920 / 1,058) |
 
 ## 📋 File Progress
 
@@ -42,19 +42,19 @@
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
 | u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
-| v.json | 1,058 | 948 | ██████████████████░ 90% | ← in_progress |
+| v.json | 1,058 | 920 | ██████████████████░ 87% | ← in_progress |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **8,625** | **13.3%** | |
+| **Total** | **64,867** | **8,597** | **13.2%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-b-0020 | b.json | 342–366 | ⬜ pending | — |
-| ← Backward | B-v-0041 | v.json | 143–117 | ⬜ pending | — |
+| ← Backward | B-v-0046 | v.json | 0–0 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
@@ -89,6 +89,11 @@
 | B-v-0038 | v.json | 224–191 | 25 | mavis-cron | mavis-cron | ✅ done |
 | B-v-0039 | v.json | 190–162 | 25 | mavis-cron | mavis-cron | ✅ done |
 | B-v-0040 | v.json | 161–144 | 18 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0041 | v.json | 143–110 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0042 | v.json | 109–79 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0043 | v.json | 78–49 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0044 | v.json | 46–20 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0045 | v.json | 19–1 | 15 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0005 | b.json | 90–114 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0006 | b.json | 115–139 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0007 | b.json | 140–164 | 25 | mavis-cron | mavis-cron | ✅ done |
