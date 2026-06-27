@@ -6437,7 +6437,7 @@
           {
             "id": "vantage-noun-2",
             "definition": "a place or situation affording some advantage, especially a comprehensive view or commanding perspective",
-            "translation": "",
+            "translation": "有利的位置；能提供开阔视野或居高临下视角的地点或处境",
             "examples": [
               {
                 "text": "The general needs to remain at the vantage if we are to receive holistic and well-thought-out plans.",
@@ -6450,18 +6450,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762387200
     }
   },
   {
     "word": "vape",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "veɪp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "veɪp"
       }
     },
     "forms": {},
@@ -6474,7 +6474,7 @@
           {
             "id": "vape-verb-1",
             "definition": "to use an electronic cigarette",
-            "translation": "",
+            "translation": "吸电子烟",
             "examples": [
               {
                 "text": "I started to vape after I quit smoking.",
@@ -6487,8 +6487,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762387200
     }
   },
   {
@@ -6515,7 +6515,7 @@
           {
             "id": "vapid-adjective-1",
             "definition": "lacking significance or liveliness or spirit or zest",
-            "translation": "",
+            "translation": "无生气乏味的",
             "examples": [
               {
                 "text": "It was a vapid conversation but pleasant enough.",
@@ -6526,7 +6526,7 @@
           {
             "id": "vapid-adjective-2",
             "definition": "lacking taste, flavor or tang",
-            "translation": "",
+            "translation": "平淡无味的",
             "examples": [
               {
                 "text": "The food at the restaurant was rather vapid.",
@@ -6539,18 +6539,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapidity",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "væˈpɪdəti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "væˈpɪdəti"
       }
     },
     "forms": {},
@@ -6565,7 +6565,7 @@
           {
             "id": "vapidity-noun-1",
             "definition": "the quality of being vapid and unsophisticated",
-            "translation": "",
+            "translation": "无趣乏味的特性",
             "examples": []
           }
         ]
@@ -6573,18 +6573,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapidly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvæpɪdli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvæpɪdli"
       }
     },
     "forms": {},
@@ -6597,7 +6597,7 @@
           {
             "id": "vapidly-adverb-1",
             "definition": "in a vapid manner",
-            "translation": "",
+            "translation": "乏味地",
             "examples": [
               {
                 "text": "A vapidly smiling door-to-door salesman tried to sell me a radio.",
@@ -6610,18 +6610,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapidness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvæpɪdnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvæpɪdnəs"
       }
     },
     "forms": {},
@@ -6634,7 +6634,7 @@
           {
             "id": "vapidness-noun-1",
             "definition": "the quality of being vapid and unsophisticated",
-            "translation": "",
+            "translation": "乏味无趣的品质",
             "examples": [
               {
                 "text": "The vapidness of the reviewer was established by their take on the play.",
@@ -6647,8 +6647,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -6675,13 +6675,13 @@
           {
             "id": "vapor-noun-1",
             "definition": "the process of becoming a vapor",
-            "translation": "",
+            "translation": "蒸发过程",
             "examples": []
           },
           {
             "id": "vapor-noun-2",
             "definition": "a visible suspension in the air of particles of some substance",
-            "translation": "",
+            "translation": "悬浮在空气中的可见微粒",
             "examples": []
           }
         ]
@@ -6690,26 +6690,26 @@
     "phrases": [
       {
         "text": "vapor at saturation",
-        "translation": ""
+        "translation": "饱和蒸汽"
       },
       {
         "text": "vapor away",
-        "translation": ""
+        "translation": "蒸发消失"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vaporific",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪpəˈrɪfɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪpəˈrɪfɪk"
       }
     },
     "forms": {},
@@ -6722,7 +6722,7 @@
           {
             "id": "vaporific-adjective-1",
             "definition": "resembling or characteristic of vapor",
-            "translation": "",
+            "translation": "似蒸汽的",
             "examples": []
           },
           {
@@ -6744,10 +6744,10 @@
     "word": "vaporing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪŋ"
       }
     },
     "forms": {},
@@ -6762,7 +6762,7 @@
           {
             "id": "vaporing-noun-1",
             "definition": "an instance of boastful talk",
-            "translation": "",
+            "translation": "吹嘘的言论",
             "examples": [
               {
                 "text": "Vaporing is unattractive.",
@@ -6775,18 +6775,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vaporisation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪpərəˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪpəraɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -6801,7 +6801,7 @@
           {
             "id": "vaporisation-noun-1",
             "definition": "annihilation by vaporizing something",
-            "translation": "",
+            "translation": "汽化毁灭",
             "examples": [
               {
                 "text": "The bomb caused the immediate vaporization of thousands of people.",
@@ -6812,7 +6812,7 @@
           {
             "id": "vaporisation-noun-2",
             "definition": "the process of becoming a vapor",
-            "translation": "",
+            "translation": "汽化过程",
             "examples": []
           }
         ]
@@ -6820,8 +6820,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -6854,25 +6854,25 @@
           {
             "id": "vaporise-verb-1",
             "definition": "decrease rapidly and disappear",
-            "translation": "",
+            "translation": "迅速消失；烟消云散",
             "examples": []
           },
           {
             "id": "vaporise-verb-2",
             "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
-            "translation": "",
+            "translation": "（使）蒸发；（使）浓缩",
             "examples": []
           },
           {
             "id": "vaporise-verb-3",
             "definition": "turn into gas",
-            "translation": "",
+            "translation": "（使）变成气体；汽化",
             "examples": []
           },
           {
             "id": "vaporise-verb-4",
             "definition": "kill with or as if with a burst of gunfire or electric current or as if by shooting",
-            "translation": "",
+            "translation": "彻底消灭；用火力（或电流）击毙",
             "examples": [
               {
                 "text": "in this computer game, space travellers are vaporized by aliens",
@@ -6885,18 +6885,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "vaporiser",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzə"
       }
     },
     "forms": {},
@@ -6911,7 +6911,7 @@
           {
             "id": "vaporiser-noun-1",
             "definition": "a device that puts out a substance in the form of a vapor, especially for medicinal inhalation",
-            "translation": "",
+            "translation": "蒸发器；汽化器（尤指用于药物吸入的）",
             "examples": [
               {
                 "text": "I use a vaporiser in the winter months.",
@@ -6924,18 +6924,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "vaporish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪʃ"
       }
     },
     "forms": {},
@@ -6948,7 +6948,7 @@
           {
             "id": "vaporish-adjective-1",
             "definition": "resembling or characteristic of vapor",
-            "translation": "",
+            "translation": "似蒸汽的；有蒸汽特征的",
             "examples": [
               {
                 "text": "The atmosphere is vaporish today.",
@@ -6961,18 +6961,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "vaporizable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzəbəl"
       }
     },
     "forms": {},
@@ -7027,7 +7027,7 @@
           {
             "id": "vaporization-noun-1",
             "definition": "annihilation by vaporizing something",
-            "translation": "",
+            "translation": "蒸发；汽化",
             "examples": [
               {
                 "text": "The bomb caused the immediate vaporization of thousands of people.",
@@ -7038,7 +7038,7 @@
           {
             "id": "vaporization-noun-2",
             "definition": "the process of becoming a vapor",
-            "translation": "",
+            "translation": "蒸发过程；汽化过程",
             "examples": []
           }
         ]
@@ -7046,8 +7046,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
@@ -7083,25 +7083,25 @@
           {
             "id": "vaporize-verb-1",
             "definition": "decrease rapidly and disappear",
-            "translation": "",
+            "translation": "迅速消失；烟消云散",
             "examples": []
           },
           {
             "id": "vaporize-verb-2",
             "definition": "lose or cause to lose liquid by vaporization leaving a more concentrated residue",
-            "translation": "",
+            "translation": "（使）蒸发；（使）浓缩",
             "examples": []
           },
           {
             "id": "vaporize-verb-3",
             "definition": "turn into gas",
-            "translation": "",
+            "translation": "（使）变成气体；汽化",
             "examples": []
           },
           {
             "id": "vaporize-verb-4",
             "definition": "kill with or as if with a burst of gunfire or electric current or as if by shooting",
-            "translation": "",
+            "translation": "彻底消灭；用火力（或电流）击毙",
             "examples": [
               {
                 "text": "in this computer game, space travellers are vaporized by aliens",
@@ -7114,18 +7114,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "vaporized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzd"
       }
     },
     "forms": {},
@@ -7138,7 +7138,7 @@
           {
             "id": "vaporized-adjective-1",
             "definition": "converted into a gas or vapor by chemical or mechanical process",
-            "translation": "",
+            "translation": "汽化的；蒸发了的",
             "examples": [
               {
                 "text": "We vapourised the liquid to make the room smell better.",
@@ -7149,7 +7149,7 @@
           {
             "id": "vaporized-adjective-2",
             "definition": "completely destroyed",
-            "translation": "",
+            "translation": "被彻底摧毁的",
             "examples": [
               {
                 "text": "After the bombs went off, the whole area was vaporized.",
@@ -7162,18 +7162,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "vaporizer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzə"
       }
     },
     "forms": {},
@@ -7188,7 +7188,7 @@
           {
             "id": "vaporizer-noun-1",
             "definition": "a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)",
-            "translation": "",
+            "translation": "蒸发器；汽化器（尤指用于药物吸入的）",
             "examples": []
           }
         ]
@@ -7196,8 +7196,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
@@ -7245,18 +7245,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vaporousness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəsnəs"
       }
     },
     "forms": {},
@@ -7271,7 +7271,7 @@
           {
             "id": "vaporousness-noun-1",
             "definition": "a cloudiness resulting from haze or mist or vapor",
-            "translation": "",
+            "translation": "由烟雾、雾气或蒸汽造成的朦胧状态",
             "examples": []
           }
         ]
@@ -7279,8 +7279,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -7348,13 +7348,13 @@
           {
             "id": "vapour-noun-1",
             "definition": "the process of becoming a vapor",
-            "translation": "",
+            "translation": "汽化过程；变成蒸汽的过程",
             "examples": []
           },
           {
             "id": "vapour-noun-2",
             "definition": "a visible suspension in the air of particles of some substance",
-            "translation": "",
+            "translation": "空气中某种物质的可见悬浮微粒；蒸汽；烟雾",
             "examples": []
           }
         ]
@@ -7362,18 +7362,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapourific",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪpəˈrɪfɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪpəˈrɪfɪk"
       }
     },
     "forms": {},
@@ -7386,7 +7386,7 @@
           {
             "id": "vapourific-adjective-1",
             "definition": "resembling or characteristic of vapor",
-            "translation": "",
+            "translation": "产生蒸汽的；类似蒸汽的",
             "examples": []
           },
           {
@@ -7408,10 +7408,10 @@
     "word": "vapourisable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzəbəl"
       }
     },
     "forms": {},
@@ -7445,10 +7445,10 @@
     "word": "vapourised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəraɪzd"
       }
     },
     "forms": {},
@@ -7461,7 +7461,7 @@
           {
             "id": "vapourised-adjective-1",
             "definition": "converted into a gas or vapor by chemical or mechanical process",
-            "translation": "",
+            "translation": "已汽化的；通过化学或机械过程转化为气体或蒸汽的",
             "examples": [
               {
                 "text": "We vapourised the liquid to make the room smell better.",
@@ -7472,7 +7472,7 @@
           {
             "id": "vapourised-adjective-2",
             "definition": "completely destroyed",
-            "translation": "",
+            "translation": "被彻底摧毁的",
             "examples": [
               {
                 "text": "After the bombs went off, the whole area was vaporized.",
@@ -7485,18 +7485,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapourish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərɪʃ"
       }
     },
     "forms": {},
@@ -7509,7 +7509,7 @@
           {
             "id": "vapourish-adjective-1",
             "definition": "resembling or characteristic of vapor",
-            "translation": "",
+            "translation": "像蒸汽的；具有蒸汽特性的",
             "examples": [
               {
                 "text": "The atmosphere is vaporish today.",
@@ -7522,18 +7522,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapourous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəs"
       }
     },
     "forms": {},
@@ -7549,19 +7549,19 @@
           {
             "id": "vapourous-adjective-1",
             "definition": "filled with vapor",
-            "translation": "",
+            "translation": "充满蒸汽的",
             "examples": []
           },
           {
             "id": "vapourous-adjective-2",
             "definition": "resembling or characteristic of vapor",
-            "translation": "",
+            "translation": "类似蒸汽的；具有蒸汽特征的",
             "examples": []
           },
           {
             "id": "vapourous-adjective-3",
             "definition": "so thin as to transmit light",
-            "translation": "",
+            "translation": "薄得透光的；朦胧的",
             "examples": []
           }
         ]
@@ -7569,18 +7569,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapourousness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpərəsnəs"
       }
     },
     "forms": {},
@@ -7595,7 +7595,7 @@
           {
             "id": "vapourousness-noun-1",
             "definition": "a cloudiness resulting from haze or mist or vapor",
-            "translation": "",
+            "translation": "由烟雾、雾气或蒸汽造成的朦胧状态",
             "examples": []
           }
         ]
@@ -7603,18 +7603,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vapours",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪpərz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪpəz"
       }
     },
     "forms": {},
@@ -7669,7 +7669,7 @@
           {
             "id": "vaquero-noun-1",
             "definition": "local names for a cowboy (`vaquero' is used especially in southwestern and central Texas and `buckaroo' is used especially in California)",
-            "translation": "",
+            "translation": "牧牛工；牛仔（美国西南部和中德克萨斯地区对cowboy的称呼）",
             "examples": []
           }
         ]
@@ -7677,18 +7677,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vaquita",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɑˈkitə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɑːˈkiːtə"
       }
     },
     "forms": {},
@@ -7701,7 +7701,7 @@
           {
             "id": "vaquita-noun-1",
             "definition": "a short porpoise that lives in the Gulf of California",
-            "translation": "",
+            "translation": "加利福尼亚湾鼠海豚（栖息于加利福尼亚湾的短吻鼠海豚）",
             "examples": []
           }
         ]
@@ -7709,18 +7709,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "var",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɑr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɑː"
       }
     },
     "forms": {},
@@ -7733,19 +7733,19 @@
           {
             "id": "var-noun-1",
             "definition": "a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere",
-            "translation": "",
+            "translation": "乏（无功功率单位）",
             "examples": []
           },
           {
             "id": "var-noun-2",
             "definition": "in programming, a variable",
-            "translation": "",
+            "translation": "变量（编程中的变量）",
             "examples": []
           },
           {
             "id": "var-noun-3",
             "definition": "in statistics, a variance",
-            "translation": "",
+            "translation": "方差（统计学中的方差）",
             "examples": []
           }
         ]
@@ -7753,8 +7753,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -7805,10 +7805,10 @@
     "word": "vara",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɑrə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɑːrə"
       }
     },
     "forms": {},
@@ -7821,7 +7821,7 @@
           {
             "id": "vara-noun-1",
             "definition": "a Spanish unit of linear measurement that has different values in different localities, ranging from approximately 81 to 109 centimeters or 32 to 43 inches",
-            "translation": "",
+            "translation": "瓦拉（西班牙长度单位，不同地区长度不同，约合81至109厘米或32至43英寸）",
             "examples": []
           }
         ]
@@ -7829,18 +7829,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "varan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛərən"
       }
     },
     "forms": {},
@@ -7855,7 +7855,7 @@
           {
             "id": "varan-noun-1",
             "definition": "any of various large tropical carnivorous lizards of Africa and Asia and Australia",
-            "translation": "",
+            "translation": "巨蜥（产于非洲、亚洲和澳大利亚的大型食性蜥蜴）",
             "examples": [
               {
                 "text": "Did you see that huge varan?",
@@ -7868,8 +7868,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -7897,7 +7897,7 @@
           {
             "id": "variability-noun-1",
             "definition": "the quality of being subject to variation",
-            "translation": "",
+            "translation": "可变性",
             "examples": [
               {
                 "text": "Variability is central to genetics.",
@@ -7908,7 +7908,7 @@
           {
             "id": "variability-noun-2",
             "definition": "the quality of being uneven and lacking uniformity",
-            "translation": "",
+            "translation": "不均匀性",
             "examples": [
               {
                 "text": "The extreme variability of the weather makes it hard to garden in this climate.",
@@ -7921,8 +7921,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -8029,10 +8029,10 @@
     "word": "variableness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛriəbəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛəriəbəlnəs"
       }
     },
     "forms": {},
@@ -8047,7 +8047,7 @@
           {
             "id": "variableness-noun-1",
             "definition": "the quality of being subject to variation",
-            "translation": "",
+            "translation": "可变性",
             "examples": [
               {
                 "text": "The weather's variableness makes it difficult to plan outdoor activities.",
@@ -8060,18 +8060,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "variably",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛəriəbli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛːrɪəbli"
       }
     },
     "forms": {},
@@ -8084,7 +8084,7 @@
           {
             "id": "variably-adverb-1",
             "definition": "with variation",
-            "translation": "",
+            "translation": "变化不定地",
             "examples": [
               {
                 "text": "The market changes variably.",
@@ -8097,8 +8097,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -8133,13 +8133,13 @@
           {
             "id": "variance-noun-1",
             "definition": "an activity that varies from a norm or standard",
-            "translation": "",
+            "translation": "偏差",
             "examples": []
           },
           {
             "id": "variance-noun-2",
             "definition": "an official dispensation to act contrary to a rule or regulation (typically a building regulation)",
-            "translation": "",
+            "translation": "特许",
             "examples": [
               {
                 "text": "a zoning variance",
@@ -8150,31 +8150,31 @@
           {
             "id": "variance-noun-3",
             "definition": "the quality of being subject to variation",
-            "translation": "",
+            "translation": "可变性",
             "examples": []
           },
           {
             "id": "variance-noun-4",
             "definition": "a difference between conflicting facts or claims or opinions",
-            "translation": "",
+            "translation": "分歧",
             "examples": []
           },
           {
             "id": "variance-noun-5",
             "definition": "the second moment around the mean",
-            "translation": "",
+            "translation": "方差",
             "examples": []
           },
           {
             "id": "variance-noun-6",
             "definition": "discord that splits a group",
-            "translation": "",
+            "translation": "不和",
             "examples": []
           },
           {
             "id": "variance-noun-7",
             "definition": "an event that departs from expectations",
-            "translation": "",
+            "translation": "异常事件",
             "examples": []
           }
         ]
@@ -8183,40 +8183,40 @@
     "phrases": [
       {
         "text": "variance between clusters",
-        "translation": ""
+        "translation": "群组间方差"
       },
       {
         "text": "variance between laboratories",
-        "translation": ""
+        "translation": "实验室间方差"
       },
       {
         "text": "variance between primary sample units",
-        "translation": ""
+        "translation": "初级抽样单元间方差"
       },
       {
         "text": "variance in",
-        "translation": ""
+        "translation": "在……方面的方差"
       },
       {
         "text": "variance in calculation",
-        "translation": ""
+        "translation": "计算方差"
       },
       {
         "text": "variance in price",
-        "translation": ""
+        "translation": "价格差异"
       },
       {
         "text": "variance in quantity",
-        "translation": ""
+        "translation": "数量差异"
       },
       {
         "text": "variance with the contract",
-        "translation": ""
+        "translation": "与合同的差异"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -8247,7 +8247,7 @@
           {
             "id": "variant-adjective-1",
             "definition": "differing from a norm or standard",
-            "translation": "",
+            "translation": "变异的",
             "examples": [
               {
                 "text": "a variant spelling",
@@ -8258,7 +8258,7 @@
           {
             "id": "variant-adjective-2",
             "definition": "exhibiting variation and change",
-            "translation": "",
+            "translation": "变化的",
             "examples": [
               {
                 "text": "letters variant in size",
@@ -8300,18 +8300,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛərieɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛːrɪeɪt"
       }
     },
     "forms": {},
@@ -8326,7 +8326,7 @@
           {
             "id": "variate-noun-1",
             "definition": "a variable quantity that is random",
-            "translation": "",
+            "translation": "随机变量",
             "examples": [
               {
                 "text": "Should the variate be equal to ten, the machine will halt its processes.",
@@ -8339,8 +8339,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -8559,10 +8559,10 @@
     "word": "varicella",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌværɪˈsɛlə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌværɪˈsɛlə"
       }
     },
     "forms": {},
@@ -8577,7 +8577,7 @@
           {
             "id": "varicella-noun-1",
             "definition": "an acute contagious disease caused by herpes varicella zoster virus",
-            "translation": "",
+            "translation": "水痘",
             "examples": []
           }
         ]
@@ -8585,18 +8585,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "varicelliform",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌværɪˈsɛlɪfɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌværɪˈsɛlɪfɔːm"
       }
     },
     "forms": {},
@@ -8609,7 +8609,7 @@
           {
             "id": "varicelliform-adjective-1",
             "definition": "resembling the rash of chickenpox",
-            "translation": "",
+            "translation": "水痘样的",
             "examples": []
           }
         ]
@@ -8617,18 +8617,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "varicocele",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈværəkoʊˌsiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈværɪkəʊˌsiːl"
       }
     },
     "forms": {},
@@ -8641,7 +8641,7 @@
           {
             "id": "varicocele-noun-1",
             "definition": "a dilatation of the veins associated with the spermatic cord in the testes",
-            "translation": "",
+            "translation": "精索静脉曲张",
             "examples": []
           }
         ]
@@ -8649,18 +8649,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "varicolored",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛriˌkʌlərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛːriˌkʌləd"
       }
     },
     "forms": {},
@@ -8673,7 +8673,7 @@
           {
             "id": "varicolored-adjective-1",
             "definition": "having sections or patches colored differently and usually brightly",
-            "translation": "",
+            "translation": "色彩斑驳的",
             "examples": [
               {
                 "text": "The varicoloured butterfly used its wings to warn off predators.",
@@ -8684,7 +8684,7 @@
           {
             "id": "varicolored-adjective-2",
             "definition": "having a variety of colors",
-            "translation": "",
+            "translation": "五彩缤纷的",
             "examples": [
               {
                 "text": "The varicoloured ribbon was perfect for the present.",
@@ -8697,18 +8697,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "varicoloured",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛriˌkʌlərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛːriˌkʌləd"
       }
     },
     "forms": {},
@@ -8745,8 +8745,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -8769,7 +8769,7 @@
           {
             "id": "varicose-adjective-1",
             "definition": "abnormally swollen or knotty",
-            "translation": "",
+            "translation": "静脉曲张的；肿胀扭曲的",
             "examples": [
               {
                 "text": "Some people do treatments to get rid of varicose veins.",
@@ -8782,18 +8782,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "varicosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌværɪˈkoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌværɪˈkəʊsɪs"
       }
     },
     "forms": {},
@@ -8806,7 +8806,7 @@
           {
             "id": "varicosis-noun-1",
             "definition": "a pathological condition of being varicose or having varicose veins",
-            "translation": "",
+            "translation": "静脉曲张；静脉曲张病",
             "examples": []
           }
         ]
@@ -8814,8 +8814,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -8921,10 +8921,10 @@
     "word": "variedness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛridnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛəridnəs"
       }
     },
     "forms": {},
@@ -8937,7 +8937,7 @@
           {
             "id": "variedness-noun-1",
             "definition": "characterized by variation",
-            "translation": "",
+            "translation": "变化性；多样性",
             "examples": [
               {
                 "text": "The landscape's ariedness has inspired many artists.",
@@ -8950,8 +8950,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -8982,13 +8982,13 @@
           {
             "id": "variegate-verb-1",
             "definition": "to change the appearance of, especially by marking with different colors",
-            "translation": "",
+            "translation": "使成杂色；使色彩斑驳",
             "examples": []
           },
           {
             "id": "variegate-verb-2",
             "definition": "to make something more diverse and varied",
-            "translation": "",
+            "translation": "使多样化；使变化",
             "examples": []
           }
         ]
@@ -8996,8 +8996,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -9020,7 +9020,7 @@
           {
             "id": "variegated-adjective-1",
             "definition": "having a variety of colors",
-            "translation": "",
+            "translation": "色彩斑驳的；杂色的",
             "examples": [
               {
                 "text": "As fall progressed, all our trees' leaves became variegated.",
@@ -9033,8 +9033,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -9061,13 +9061,13 @@
           {
             "id": "variegation-noun-1",
             "definition": "the act of introducing variety, especially in investments or in the variety of goods and services offered",
-            "translation": "",
+            "translation": "多样化；品种的多样化（尤指投资或商品与服务种类方面）",
             "examples": []
           },
           {
             "id": "variegation-noun-2",
             "definition": "variability in coloration",
-            "translation": "",
+            "translation": "色彩斑驳；颜色变化",
             "examples": []
           }
         ]
@@ -9075,18 +9075,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "varietal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈraɪətəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈraɪətəl"
       }
     },
     "forms": {},
@@ -9099,7 +9099,7 @@
           {
             "id": "varietal-noun-1",
             "definition": "a wine made principally from one grape and carrying the name of that grape",
-            "translation": "",
+            "translation": "单一品种葡萄酒（以酿造所用葡萄品种命名）",
             "examples": []
           }
         ]
@@ -9107,8 +9107,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -9199,10 +9199,10 @@
     "word": "variform",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪfɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛərɪfɔːm"
       }
     },
     "forms": {},
@@ -9215,7 +9215,7 @@
           {
             "id": "variform-adjective-1",
             "definition": "varying in form or shape",
-            "translation": "",
+            "translation": "形形色色的",
             "examples": [
               {
                 "text": "The bubbles were variform.",
@@ -9228,8 +9228,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -9252,7 +9252,7 @@
           {
             "id": "variola-noun-1",
             "definition": "smallpox; the virus causing smallpox",
-            "translation": "",
+            "translation": "天花",
             "examples": []
           }
         ]
@@ -9260,18 +9260,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variolar",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈraɪələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈraɪələ"
       }
     },
     "forms": {},
@@ -9287,7 +9287,7 @@
           {
             "id": "variolar-adjective-1",
             "definition": "relating to small pox",
-            "translation": "",
+            "translation": "天花的",
             "examples": []
           }
         ]
@@ -9295,18 +9295,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variolation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛəriəˈleɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveərɪəˈleɪʃən"
       }
     },
     "forms": {},
@@ -9319,7 +9319,7 @@
           {
             "id": "variolation-noun-1",
             "definition": "the obsolete process of inoculating a susceptible person with material taken from a vesicle of a person who has smallpox",
-            "translation": "",
+            "translation": "人痘接种法",
             "examples": []
           }
         ]
@@ -9327,18 +9327,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variolic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛəriˈɑːlɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveərɪˈɒlɪk"
       }
     },
     "forms": {},
@@ -9353,7 +9353,7 @@
           {
             "id": "variolic-adjective-1",
             "definition": "relating to small pox",
-            "translation": "",
+            "translation": "天花的",
             "examples": [
               {
                 "text": "The patient has variolic symptoms.",
@@ -9366,18 +9366,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variolization",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛəriələˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveərɪəlaɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -9390,7 +9390,7 @@
           {
             "id": "variolization-noun-1",
             "definition": "the obsolete process of inoculating a susceptible person with material taken from a vesicle of a person who has smallpox",
-            "translation": "",
+            "translation": "天花接种法",
             "examples": [
               {
                 "text": "The children were all given their variolizations by the doctor.",
@@ -9403,18 +9403,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variolous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈraɪələs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈraɪələs"
       }
     },
     "forms": {},
@@ -9429,7 +9429,7 @@
           {
             "id": "variolous-adjective-1",
             "definition": "relating to small pox",
-            "translation": "",
+            "translation": "天花的",
             "examples": []
           }
         ]
@@ -9437,18 +9437,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variometer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛəriˈɑːmɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveərɪˈɒmɪtə"
       }
     },
     "forms": {},
@@ -9461,7 +9461,7 @@
           {
             "id": "variometer-noun-1",
             "definition": "a measuring instrument for measuring variations in a magnetic field",
-            "translation": "",
+            "translation": "磁变计",
             "examples": []
           }
         ]
@@ -9469,18 +9469,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "variorum",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛəriˈɔːrəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveərɪˈɔːrəm"
       }
     },
     "forms": {},
@@ -9493,7 +9493,7 @@
           {
             "id": "variorum-noun-1",
             "definition": "an edition containing various versions of a text or notes by various scholars or editors",
-            "translation": "",
+            "translation": "集注本",
             "examples": []
           }
         ]
@@ -9501,8 +9501,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -9632,7 +9632,7 @@
           {
             "id": "varix-noun-1",
             "definition": "an abnormally enlarged or twisted blood vessel or lymphatic vessel",
-            "translation": "",
+            "translation": "血管曲张；静脉（或淋巴管）异常扩张或扭曲",
             "examples": []
           }
         ]
@@ -9640,18 +9640,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
     "word": "varlet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɑːrlət"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɑːlɪt"
       }
     },
     "forms": {},
@@ -9667,13 +9667,13 @@
           {
             "id": "varlet-noun-1",
             "definition": "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood",
-            "translation": "",
+            "translation": "（中世纪骑士的）侍童；见习骑士（接受骑士训练第一阶段的青年侍从）",
             "examples": []
           },
           {
             "id": "varlet-noun-2",
             "definition": "a deceitful and unreliable scoundrel",
-            "translation": "",
+            "translation": "无赖；奸诈不可信的无耻之徒",
             "examples": []
           }
         ]
@@ -9681,18 +9681,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
     "word": "varment",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɑːrmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɑːmənt"
       }
     },
     "forms": {},
@@ -9705,7 +9705,7 @@
           {
             "id": "varment-noun-1",
             "definition": "any usually predatory wild animal considered undesirable",
-            "translation": "",
+            "translation": "害兽；有害的野生动物（通常具掠食性）",
             "examples": [
               {
                 "text": "We shot a couple varments last night.",
@@ -9718,18 +9718,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
     "word": "varmint",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɑːrmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɑːmɪnt"
       }
     },
     "forms": {},
@@ -9742,7 +9742,7 @@
           {
             "id": "varmint-noun-1",
             "definition": "any usually predatory wild animal considered undesirable",
-            "translation": "",
+            "translation": "害兽；有害的野生动物（尤指掠食性的）",
             "examples": [
               {
                 "text": "We shot a couple varments last night.",
@@ -9755,18 +9755,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
     "word": "varna",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɑːrnə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɑːnə"
       }
     },
     "forms": {},
@@ -9779,7 +9779,7 @@
           {
             "id": "varna-noun-1",
             "definition": "in Hinduism, the name for the original social division of Vedic people into four groups, which are subdivided into thousands of jatis",
-            "translation": "",
+            "translation": "种姓（印度教中将吠陀时代的人划分为四个原始社会等级，每一等级又细分为数千个亚种姓）",
             "examples": [
               {
                 "text": "A varna is something like a social class that one is born into.",
@@ -9792,8 +9792,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
@@ -9825,7 +9825,7 @@
           {
             "id": "varnish-noun-1",
             "definition": "a coating that provides a hard, lustrous, transparent finish to a surface",
-            "translation": "",
+            "translation": "清漆；罩光漆（在表面形成坚硬、光亮、透明饰面的涂层）",
             "examples": [
               {
                 "text": "My kitchen table has a dark varnish.",
@@ -9855,12 +9855,12 @@
     "phrases": [
       {
         "text": "varnish over",
-        "translation": ""
+        "translation": "varnish over: 涂清漆遮盖；掩饰"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
@@ -9970,10 +9970,10 @@
     "word": "varus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛːrəs"
       }
     },
     "forms": {},
@@ -9986,7 +9986,7 @@
           {
             "id": "varus-noun-1",
             "definition": "a deformity in which part of a limb is turned inward to an abnormal degree",
-            "translation": "",
+            "translation": "内翻畸形（肢体某部分异常向内偏转的畸形）",
             "examples": []
           }
         ]
@@ -9994,8 +9994,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
@@ -10158,10 +10158,10 @@
     "word": "vas",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "væs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "væs"
       }
     },
     "forms": {},
@@ -10174,7 +10174,7 @@
           {
             "id": "vas-noun-1",
             "definition": "a tube in which a body fluid circulates",
-            "translation": "",
+            "translation": "血管；脉管（生物体内液体流通的管道）",
             "examples": [
               {
                 "text": "The vas deferens is found in the testicles.",
@@ -10187,8 +10187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767200000
     }
   },
   {
@@ -10234,10 +10234,10 @@
     "word": "vascularisation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvæskjələraɪˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvæskjələraɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -10250,7 +10250,7 @@
           {
             "id": "vascularisation-noun-1",
             "definition": "the organic process whereby body tissue becomes vascular and develops capillaries",
-            "translation": "",
+            "translation": "血管化",
             "examples": []
           }
         ]
@@ -10258,18 +10258,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vascularise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvæskjələraɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvæskjʊləraɪz"
       }
     },
     "forms": {},
@@ -10282,7 +10282,7 @@
           {
             "id": "vascularise-verb-1",
             "definition": "to make vascular",
-            "translation": "",
+            "translation": "使血管化",
             "examples": [
               {
                 "text": "The yolk sac is gradually vascularized.",
@@ -10293,7 +10293,7 @@
           {
             "id": "vascularise-verb-2",
             "definition": "to become vascular and have vessels that circulate fluids",
-            "translation": "",
+            "translation": "形成血管",
             "examples": [
               {
                 "text": "The egg yolk vascularised as it developed.",
@@ -10306,18 +10306,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
     "word": "vascularity",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvæskjəˈlærəti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvæskjʊˈlærəti"
       }
     },
     "forms": {},
@@ -10330,7 +10330,7 @@
           {
             "id": "vascularity-noun-1",
             "definition": "the visibility of the veins and arteries on a person's skin",
-            "translation": "",
+            "translation": "血管分布",
             "examples": [
               {
                 "text": "My whole family has a prominent vascularity.",
@@ -10343,18 +10343,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
     "word": "vascularization",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvæskjələrəˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvæskjʊləraɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -10367,7 +10367,7 @@
           {
             "id": "vascularization-noun-1",
             "definition": "the organic process whereby body tissue becomes vascular and develops capillaries",
-            "translation": "",
+            "translation": "血管化",
             "examples": []
           }
         ]
@@ -10375,18 +10375,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
     "word": "vascularize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvæskjələraɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvæskjʊləraɪz"
       }
     },
     "forms": {},
@@ -10399,7 +10399,7 @@
           {
             "id": "vascularize-verb-1",
             "definition": "to make vascular",
-            "translation": "",
+            "translation": "使血管化",
             "examples": [
               {
                 "text": "The yolk sac is gradually vascularized.",
@@ -10410,7 +10410,7 @@
           {
             "id": "vascularize-verb-2",
             "definition": "to become vascular and have vessels that circulate fluids",
-            "translation": "",
+            "translation": "形成血管",
             "examples": [
               {
                 "text": "The egg yolk vascularised as it developed.",
@@ -10423,18 +10423,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
     "word": "vasculitis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvæskjəˈlaɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvæskjʊˈlaɪtɪs"
       }
     },
     "forms": {},
@@ -10447,7 +10447,7 @@
           {
             "id": "vasculitis-noun-1",
             "definition": "inflammation of a blood vessel",
-            "translation": "",
+            "translation": "血管炎",
             "examples": []
           }
         ]
@@ -10455,8 +10455,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
@@ -10538,10 +10538,10 @@
     "word": "vasectomise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmaɪz"
       }
     },
     "forms": {},
@@ -10575,10 +10575,10 @@
     "word": "vasectomize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmaɪz"
       }
     },
     "forms": {},
@@ -10612,10 +10612,10 @@
     "word": "vasectomy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɛktəmi"
       }
     },
     "forms": {},
@@ -10628,7 +10628,7 @@
           {
             "id": "vasectomy-noun-1",
             "definition": "a surgical procedure that removes all or part of the vas deferens, usually as a means of sterilization",
-            "translation": "",
+            "translation": "输精管切除术",
             "examples": []
           }
         ]
@@ -10636,8 +10636,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764115200
     }
   },
   {
@@ -10660,7 +10660,7 @@
           {
             "id": "vaseline-noun-1",
             "definition": "a trademarked brand of petroleum jelly",
-            "translation": "",
+            "translation": "凡士林",
             "examples": []
           }
         ]
@@ -10668,8 +10668,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -10708,10 +10708,10 @@
     "word": "vasiform",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪsɪfɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪsɪfɔːm"
       }
     },
     "forms": {},
@@ -10724,7 +10724,7 @@
           {
             "id": "vasiform-adjective-1",
             "definition": "constituting a tube",
-            "translation": "",
+            "translation": "管状的",
             "examples": [
               {
                 "text": "This vas deferens is vasiform.",
@@ -10737,18 +10737,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasoconstriction",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊkənˈstrɪkʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊkənˈstrɪkʃən"
       }
     },
     "forms": {},
@@ -10761,7 +10761,7 @@
           {
             "id": "vasoconstriction-noun-1",
             "definition": "a decrease in the diameter of blood vessels",
-            "translation": "",
+            "translation": "血管收缩",
             "examples": []
           }
         ]
@@ -10769,18 +10769,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasoconstrictive",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊkənˈstrɪktɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊkənˈstrɪktɪv"
       }
     },
     "forms": {},
@@ -10795,7 +10795,7 @@
           {
             "id": "vasoconstrictive-noun-1",
             "definition": "any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs",
-            "translation": "",
+            "translation": "血管收缩物质",
             "examples": []
           }
         ]
@@ -10803,18 +10803,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasoconstrictor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊkənˈstrɪktər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊkənˈstrɪktə"
       }
     },
     "forms": {},
@@ -10829,7 +10829,7 @@
           {
             "id": "vasoconstrictor-noun-1",
             "definition": "any agent that causes narrowing of a blood vessel",
-            "translation": "",
+            "translation": "血管收缩剂",
             "examples": [
               {
                 "text": "I took the vasoconstrictor to help with my low blood pressure.",
@@ -10842,18 +10842,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasodilation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊdaɪˈleɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊdaɪˈleɪʃən"
       }
     },
     "forms": {},
@@ -10866,7 +10866,7 @@
           {
             "id": "vasodilation-noun-1",
             "definition": "dilation of blood vessels, especially the arteries",
-            "translation": "",
+            "translation": "血管舒张",
             "examples": []
           }
         ]
@@ -10874,18 +10874,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasodilative",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊˈdaɪlətɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊˈdaɪlətɪv"
       }
     },
     "forms": {},
@@ -10900,7 +10900,7 @@
           {
             "id": "vasodilative-noun-1",
             "definition": "a drug that causes dilation of blood vessels",
-            "translation": "",
+            "translation": "血管扩张药",
             "examples": []
           }
         ]
@@ -10908,18 +10908,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vasodilator",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊdaɪˈleɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊdaɪˈleɪtə"
       }
     },
     "forms": {},
@@ -10934,7 +10934,7 @@
           {
             "id": "vasodilator-noun-1",
             "definition": "a drug that causes dilation of blood vessels",
-            "translation": "",
+            "translation": "血管舒张药",
             "examples": []
           }
         ]
@@ -10942,18 +10942,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasomotor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊˈmoʊtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊˈməʊtə"
       }
     },
     "forms": {},
@@ -10998,7 +10998,7 @@
           {
             "id": "vasopressin-noun-1",
             "definition": "hormone secreted by the posterior pituitary gland (trade name Pitressin) and also by nerve endings in the hypothalamus",
-            "translation": "",
+            "translation": "加压素",
             "examples": []
           }
         ]
@@ -11006,18 +11006,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasopressor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊˈprɛsər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊˈprɛsə"
       }
     },
     "forms": {},
@@ -11030,7 +11030,7 @@
           {
             "id": "vasopressor-noun-1",
             "definition": "any agent that produces vasoconstriction and a rise in blood pressure, usually understood as increased arterial pressure",
-            "translation": "",
+            "translation": "血管加压药",
             "examples": []
           }
         ]
@@ -11038,18 +11038,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasosection",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊˈsɛkʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊˈsɛkʃən"
       }
     },
     "forms": {},
@@ -11064,7 +11064,7 @@
           {
             "id": "vasosection-noun-1",
             "definition": "a surgical incision into or division of the vas deferens",
-            "translation": "",
+            "translation": "输精管切断术",
             "examples": []
           }
         ]
@@ -11072,18 +11072,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasotomy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "veɪˈsɒtəmi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "veɪˈsɒtəmi"
       }
     },
     "forms": {},
@@ -11098,7 +11098,7 @@
           {
             "id": "vasotomy-noun-1",
             "definition": "surgical incision into or division of the vas deferens",
-            "translation": "",
+            "translation": "输精管切开术",
             "examples": []
           }
         ]
@@ -11106,18 +11106,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasovasostomy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊvəˈsɒstəmi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊvəˈsɒstəmi"
       }
     },
     "forms": {},
@@ -11130,7 +11130,7 @@
           {
             "id": "vasovasostomy-noun-1",
             "definition": "a surgical procedure that attempts to restore the function of the vas deferens after a vasectomy",
-            "translation": "",
+            "translation": "输精管吻合术",
             "examples": []
           }
         ]
@@ -11138,18 +11138,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vasovesiculitis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌveɪzoʊvəˈsɪkjəˌlaɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveɪzəʊvəˈsɪkjʊˌlaɪtɪs"
       }
     },
     "forms": {},
@@ -11162,7 +11162,7 @@
           {
             "id": "vasovesiculitis-noun-1",
             "definition": "inflammation of the vas deferens and seminal vesicles",
-            "translation": "",
+            "translation": "输精管精囊炎",
             "examples": []
           }
         ]
@@ -11170,18 +11170,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vassal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvæsəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvæsəl"
       }
     },
     "forms": {},
@@ -11196,7 +11196,7 @@
           {
             "id": "vassal-noun-1",
             "definition": "a person holding a fief",
-            "translation": "",
+            "translation": "封臣",
             "examples": []
           }
         ]
@@ -11204,8 +11204,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
@@ -11355,7 +11355,7 @@
           {
             "id": "vastness-noun-1",
             "definition": "unusual largeness in size or extent or number",
-            "translation": "",
+            "translation": "广大",
             "examples": [
               {
                 "text": "The vastness of the universe is astounding.",
@@ -11368,8 +11368,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
@@ -11394,7 +11394,7 @@
           {
             "id": "vat-noun-1",
             "definition": "a large open vessel for holding or storing liquids",
-            "translation": "",
+            "translation": "大桶",
             "examples": [
               {
                 "text": "I mixed the liquids in a vat.",
@@ -11408,16 +11408,16 @@
     "phrases": [
       {
         "text": "vat under brine",
-        "translation": ""
+        "translation": "盐水中的桶"
       },
       {
         "text": "vat under brine",
-        "translation": ""
+        "translation": "盐水中的桶"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
@@ -11470,10 +11470,10 @@
     "word": "vatic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvætɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvætɪk"
       }
     },
     "forms": {},
@@ -11486,7 +11486,7 @@
           {
             "id": "vatic-adjective-1",
             "definition": "resembling or characteristic of a prophet or prophecy",
-            "translation": "",
+            "translation": "预言的",
             "examples": [
               {
                 "text": "Religions often have vatic texts.",
@@ -11499,18 +11499,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
     "word": "vatical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvætɪkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvætɪkəl"
       }
     },
     "forms": {},
@@ -11525,7 +11525,7 @@
           {
             "id": "vatical-adjective-1",
             "definition": "resembling or characteristic of a prophet or prophecy",
-            "translation": "",
+            "translation": "预言家的",
             "examples": [
               {
                 "text": "The vatical writings were studied closely by the religious group.",
@@ -11538,18 +11538,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
     "word": "vaticinate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvætɪsɪneɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvætɪsɪneɪt"
       }
     },
     "forms": {
@@ -11568,7 +11568,7 @@
           {
             "id": "vaticinate-verb-1",
             "definition": "to predict or reveal through, or as if through, divine inspiration",
-            "translation": "",
+            "translation": "预言",
             "examples": []
           }
         ]
@@ -11576,18 +11576,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
     "word": "vaticination",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvætɪsɪˈneɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvætɪsɪˈneɪʃən"
       }
     },
     "forms": {},
@@ -11602,7 +11602,7 @@
           {
             "id": "vaticination-noun-1",
             "definition": "knowledge of the future, usually said to be obtained from a divine source",
-            "translation": "",
+            "translation": "预言",
             "examples": [
               {
                 "text": "There is a telephone psychic that charges $4.99 per minute for vaticination.",
@@ -11615,18 +11615,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767000000
     }
   },
   {
     "word": "vaticinator",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈtɪsɪneɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈtɪsɪneɪtə"
       }
     },
     "forms": {},
@@ -11639,7 +11639,7 @@
           {
             "id": "vaticinator-noun-1",
             "definition": "an authoritative person who divines the future",
-            "translation": "",
+            "translation": "预言家",
             "examples": [
               {
                 "text": "I heeded the vaticinator's warning and avoided going outside on the ides of March.",
@@ -11652,8 +11652,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -11676,7 +11676,7 @@
           {
             "id": "vaudeville-noun-1",
             "definition": "a variety show with songs and comic acts",
-            "translation": "",
+            "translation": "杂耍表演",
             "examples": [
               {
                 "text": "I film vaudeville for a television audience.",
@@ -11689,18 +11689,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vaudevillian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɔːdˈvɪliən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɔːdˈvɪliən"
       }
     },
     "forms": {},
@@ -11713,7 +11713,7 @@
           {
             "id": "vaudevillian-noun-1",
             "definition": "a performer who works in vaudeville",
-            "translation": "",
+            "translation": "杂耍表演者",
             "examples": []
           }
         ]
@@ -11721,8 +11721,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -11756,25 +11756,25 @@
           {
             "id": "vault-noun-1",
             "definition": "the act of jumping over an obstacle",
-            "translation": "",
+            "translation": "撑跳",
             "examples": []
           },
           {
             "id": "vault-noun-2",
             "definition": "an arched brick or stone ceiling or roof",
-            "translation": "",
+            "translation": "拱顶",
             "examples": []
           },
           {
             "id": "vault-noun-3",
             "definition": "a burial chamber (usually underground)",
-            "translation": "",
+            "translation": "墓穴",
             "examples": []
           },
           {
             "id": "vault-noun-4",
             "definition": "a strongroom or compartment (often made of steel) for safekeeping of valuables",
-            "translation": "",
+            "translation": "保险库",
             "examples": []
           }
         ]
@@ -11804,8 +11804,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -11830,7 +11830,7 @@
           {
             "id": "vaulted-adjective-1",
             "definition": "having a hemispherical vault or dome",
-            "translation": "",
+            "translation": "拱形的",
             "examples": [
               {
                 "text": "The vaulted ceiling was built over 250 years ago.",
@@ -11843,18 +11843,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vaulter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɔːltər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɔːltə"
       }
     },
     "forms": {},
@@ -11867,7 +11867,7 @@
           {
             "id": "vaulter-noun-1",
             "definition": "an athlete who jumps over a high crossbar with the aid of a long pole",
-            "translation": "",
+            "translation": "撑竿跳运动员",
             "examples": []
           }
         ]
@@ -11875,18 +11875,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vaulting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɔːltɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɔːltɪŋ"
       }
     },
     "forms": {},
@@ -11902,7 +11902,7 @@
           {
             "id": "vaulting-adjective-1",
             "definition": "revealing excessive self-confidence",
-            "translation": "",
+            "translation": "狂妄的",
             "examples": [
               {
                 "text": "Your vaulting behavior could be your downfall.",
@@ -11953,8 +11953,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -11981,7 +11981,7 @@
           {
             "id": "vaunt-noun-1",
             "definition": "extravagant self-praise",
-            "translation": "",
+            "translation": "自夸",
             "examples": [
               {
                 "text": "The actor disliked the vaunts given by the crowd.",
@@ -12018,10 +12018,10 @@
     "word": "vaunter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɔːntər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɔːntə"
       }
     },
     "forms": {},
@@ -12036,7 +12036,7 @@
           {
             "id": "vaunter-noun-1",
             "definition": "a very boastful and talkative person",
-            "translation": "",
+            "translation": "吹牛者",
             "examples": [
               {
                 "text": "No one likes a vaunter.",
@@ -12049,18 +12049,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vauntingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɔːntɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɔːntɪŋli"
       }
     },
     "forms": {},
@@ -12075,7 +12075,7 @@
           {
             "id": "vauntingly-adverb-1",
             "definition": "in a boastful manner",
-            "translation": "",
+            "translation": "吹嘘地",
             "examples": [
               {
                 "text": "Your spoke vauntingly at dinner last night.",
@@ -12088,8 +12088,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -12112,7 +12112,7 @@
           {
             "id": "vcr-noun-1",
             "definition": "a magnetic tape recorder for recording and playing back video",
-            "translation": "",
+            "translation": "录像机",
             "examples": [
               {
                 "text": "We spent the weekend watching VHS tapes on our old VCR.",
@@ -12125,18 +12125,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vd",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌviː ˈdiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌviː ˈdiː"
       }
     },
     "forms": {},
@@ -12149,7 +12149,7 @@
           {
             "id": "vd-noun-1",
             "definition": "a communicable infection transmitted by sexual intercourse or genital contact",
-            "translation": "",
+            "translation": "性传播疾病",
             "examples": [
               {
                 "text": "The patient found their venereal disease to be uncomfortable enough to seek treatment.",
@@ -12162,18 +12162,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vdu",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌviː diː ˈjuː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌviː diː ˈjuː"
       }
     },
     "forms": {},
@@ -12199,8 +12199,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -12223,7 +12223,7 @@
           {
             "id": "vdu-noun-1",
             "definition": "a term for a video display, such as a computer monitor",
-            "translation": "",
+            "translation": "视频显示器",
             "examples": [
               {
                 "text": "I plugged in the visual display unit of my new computer.",
@@ -12236,8 +12236,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762550400
     }
   },
   {
@@ -12298,19 +12298,19 @@
           {
             "id": "vector-noun-1",
             "definition": "(genetics) a virus or other agent that is used to deliver DNA to a cell",
-            "translation": "",
+            "translation": "载体",
             "examples": []
           },
           {
             "id": "vector-noun-2",
             "definition": "a variable quantity that can be resolved into components",
-            "translation": "",
+            "translation": "向量",
             "examples": []
           },
           {
             "id": "vector-noun-3",
             "definition": "any agent (person or animal or microorganism) that carries and transmits a disease",
-            "translation": "",
+            "translation": "媒介",
             "examples": [
               {
                 "text": "mosquitos are vectors of malaria and yellow fever",
@@ -12321,7 +12321,7 @@
           {
             "id": "vector-noun-4",
             "definition": "a straight line segment whose length is magnitude and whose orientation in space is direction",
-            "translation": "",
+            "translation": "矢量",
             "examples": []
           }
         ]
@@ -12330,34 +12330,34 @@
     "phrases": [
       {
         "text": "vector on surface",
-        "translation": ""
+        "translation": "曲面向量"
       },
       {
         "text": "vector to raster",
-        "translation": ""
+        "translation": "矢量转栅格"
       },
       {
         "text": "vector to raster conversion",
-        "translation": ""
+        "translation": "矢量到栅格的转换"
       },
       {
         "text": "vector to raster hardware",
-        "translation": ""
+        "translation": "矢量转栅格硬件"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vedalia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɪˈdeɪliə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈdeɪliə"
       }
     },
     "forms": {},
@@ -12370,7 +12370,7 @@
           {
             "id": "vedalia-noun-1",
             "definition": "a ladybug native to Australia and introduced elsewhere to control pests",
-            "translation": "",
+            "translation": "澳洲瓢虫",
             "examples": []
           }
         ]
@@ -12378,18 +12378,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vedic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪdɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪdɪk"
       }
     },
     "forms": {},
@@ -12501,10 +12501,10 @@
     "word": "veering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɪrɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɪərɪŋ"
       }
     },
     "forms": {},
@@ -12519,7 +12519,7 @@
           {
             "id": "veering-noun-1",
             "definition": "the act of turning aside suddenly",
-            "translation": "",
+            "translation": "突然转向",
             "examples": [
               {
                 "text": "The car's veering caused an accident.",
@@ -12533,22 +12533,22 @@
     "phrases": [
       {
         "text": "veering off",
-        "translation": ""
+        "translation": "偏离方向"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "veery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɪri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɪəri"
       }
     },
     "forms": {},
@@ -12561,7 +12561,7 @@
           {
             "id": "veery-noun-1",
             "definition": "a tawny brown North American thrush noted for its song",
-            "translation": "",
+            "translation": "威尔逊鸫",
             "examples": []
           }
         ]
@@ -12569,18 +12569,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "veg",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛdʒ"
       }
     },
     "forms": {},
@@ -12595,13 +12595,13 @@
           {
             "id": "veg-noun-1",
             "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-            "translation": "",
+            "translation": "蔬菜",
             "examples": []
           },
           {
             "id": "veg-noun-2",
             "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
-            "translation": "",
+            "translation": "蔬菜作物",
             "examples": []
           }
         ]
@@ -12610,12 +12610,12 @@
     "phrases": [
       {
         "text": "veg out",
-        "translation": ""
+        "translation": "放松发呆"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -12638,7 +12638,7 @@
           {
             "id": "vegan-noun-1",
             "definition": "a strict vegetarian who does not use or consume any animal products",
-            "translation": "",
+            "translation": "纯素食者",
             "examples": []
           }
         ]
@@ -12646,8 +12646,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -12771,7 +12771,7 @@
           {
             "id": "vegetarian-noun-1",
             "definition": "someone who eats fruits, grains and nuts, but not meat",
-            "translation": "",
+            "translation": "素食者",
             "examples": []
           }
         ]
@@ -12779,8 +12779,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -12803,7 +12803,7 @@
           {
             "id": "vegetarianism-noun-1",
             "definition": "a diet excluding all meat and fish",
-            "translation": "",
+            "translation": "素食主义",
             "examples": [
               {
                 "text": "I practice vegetarianism on odd-numbered months.",
@@ -12816,8 +12816,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -12956,7 +12956,7 @@
           {
             "id": "vegetation-noun-1",
             "definition": "inactivity that is passive and monotonous, comparable to the inactivity of plant life",
-            "translation": "",
+            "translation": "植物般的呆滞状态",
             "examples": [
               {
                 "text": "Our holiday was spent in sleep and vegetation.",
@@ -12967,13 +12967,13 @@
           {
             "id": "vegetation-noun-2",
             "definition": "an abnormal growth or excrescence, especially a warty excrescence on the valves of the heart",
-            "translation": "",
+            "translation": "赘生物",
             "examples": []
           },
           {
             "id": "vegetation-noun-3",
             "definition": "all the plant life in a particular region or period",
-            "translation": "",
+            "translation": "植被",
             "examples": [
               {
                 "text": "There is vegetation all over our backyard.",
@@ -12984,7 +12984,7 @@
           {
             "id": "vegetation-noun-4",
             "definition": "the process of growth in plants",
-            "translation": "",
+            "translation": "植物的生长",
             "examples": []
           }
         ]
@@ -12993,22 +12993,22 @@
     "phrases": [
       {
         "text": "vegetation on slope",
-        "translation": ""
+        "translation": "坡面植被"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "vegetational",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛdʒɪˈteɪʃənəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛdʒɪˈteɪʃənəl"
       }
     },
     "forms": {},
@@ -13021,7 +13021,7 @@
           {
             "id": "vegetational-adjective-1",
             "definition": "composed of vegetation or plants",
-            "translation": "",
+            "translation": "植物的；植被的",
             "examples": [
               {
                 "text": "The vegetational growth is getting out of hand in our back yard.",
@@ -13034,8 +13034,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13123,10 +13123,10 @@
     "word": "vegetive",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛdʒɪtɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛdʒɪtɪv"
       }
     },
     "forms": {},
@@ -13174,7 +13174,7 @@
           {
             "id": "veggie-noun-1",
             "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant, also  used as an abbreviation or informal shortening of vegetable",
-            "translation": "",
+            "translation": "蔬菜",
             "examples": [
               {
                 "text": "We have chicken and various veggies for dinner.",
@@ -13187,8 +13187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13214,7 +13214,7 @@
           {
             "id": "vehemence-noun-1",
             "definition": "intensity or forcefulness of expression",
-            "translation": "",
+            "translation": "激烈；猛烈",
             "examples": [
               {
                 "text": "The vehemence of the denial made the accused look more guilty.",
@@ -13225,7 +13225,7 @@
           {
             "id": "vehemence-noun-2",
             "definition": "the property of being wild or turbulent",
-            "translation": "",
+            "translation": "狂暴；激烈",
             "examples": []
           }
         ]
@@ -13233,8 +13233,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniAx-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13310,7 +13310,7 @@
           {
             "id": "vehemently-adverb-1",
             "definition": "in a vehement manner",
-            "translation": "",
+            "translation": "激烈地；猛烈地；热烈地",
             "examples": [
               {
                 "text": "I vehemently denied the accusations against my sibling.",
@@ -13323,8 +13323,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13407,10 +13407,10 @@
     "word": "vehicular",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "viˈhɪkjələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈhɪkjələ"
       }
     },
     "forms": {},
@@ -13423,7 +13423,7 @@
           {
             "id": "vehicular-adjective-1",
             "definition": "of, relating to, or intended for motor vehicles",
-            "translation": "",
+            "translation": "车辆的；机动车的",
             "examples": []
           }
         ]
@@ -13431,8 +13431,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13541,7 +13541,7 @@
           {
             "id": "veiled-adjective-1",
             "definition": "muted or unclear",
-            "translation": "",
+            "translation": "含蓄的；模糊不清的",
             "examples": [
               {
                 "text": "The veiled sounds came from the park.",
@@ -13552,7 +13552,7 @@
           {
             "id": "veiled-adjective-2",
             "definition": "having, or as if having, a veil or concealing cover",
-            "translation": "",
+            "translation": "戴面纱的；遮蔽的",
             "examples": [
               {
                 "text": "A veiled dancer took to the stage.",
@@ -13565,18 +13565,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "veiling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪlɪŋ"
       }
     },
     "forms": {},
@@ -13591,7 +13591,7 @@
           {
             "id": "veiling-noun-1",
             "definition": "a net of transparent fabric with a loose open weave",
-            "translation": "",
+            "translation": "面纱；面纱料",
             "examples": []
           }
         ]
@@ -13600,12 +13600,12 @@
     "phrases": [
       {
         "text": "veiling on the margin",
-        "translation": ""
+        "translation": "边缘上的面纱"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -13732,10 +13732,10 @@
     "word": "veined",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "veɪnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "veɪnd"
       }
     },
     "forms": {},
@@ -13764,10 +13764,10 @@
     "word": "velar",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːlə"
       }
     },
     "forms": {},
@@ -13780,7 +13780,7 @@
           {
             "id": "velar-adjective-1",
             "definition": "produced with the back of the tongue touching or near the soft palate (as `k' in `cat' and `g' in `gun' and `ng' in `sing')",
-            "translation": "",
+            "translation": "软腭音的",
             "examples": []
           },
           {
@@ -13813,10 +13813,10 @@
     "word": "velcro",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlkroʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlkrəʊ"
       }
     },
     "forms": {},
@@ -13829,7 +13829,7 @@
           {
             "id": "velcro-verb-1",
             "definition": "to fasten with Velcro",
-            "translation": "",
+            "translation": "用魔术贴固定",
             "examples": [
               {
                 "text": "Velcro your shoes closed.",
@@ -13842,18 +13842,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782574512
     }
   },
   {
     "word": "veld",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛlt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛlt"
       }
     },
     "forms": {},
@@ -13866,7 +13866,7 @@
           {
             "id": "veld-noun-1",
             "definition": "elevated open grassland in South Africa",
-            "translation": "",
+            "translation": "南非草原",
             "examples": []
           }
         ]
@@ -13874,18 +13874,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782574512
     }
   },
   {
     "word": "veldt",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛlt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛlt"
       }
     },
     "forms": {},
@@ -13898,7 +13898,7 @@
           {
             "id": "veldt-noun-1",
             "definition": "elevated open grassland in South Africa",
-            "translation": "",
+            "translation": "南非草原",
             "examples": []
           }
         ]
@@ -13906,18 +13906,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782574512
     }
   },
   {
     "word": "velleity",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛˈliːɪti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛˈliːɪti"
       }
     },
     "forms": {},
@@ -13930,7 +13930,7 @@
           {
             "id": "velleity-noun-1",
             "definition": "the weakest form of volition",
-            "translation": "",
+            "translation": "最弱的意志",
             "examples": [
               {
                 "text": "The lazy person's ambition rarely rose above velleity.",
@@ -13941,7 +13941,7 @@
           {
             "id": "velleity-noun-2",
             "definition": "a mere wish, unaccompanied by the effort to obtain it",
-            "translation": "",
+            "translation": "空洞的愿望",
             "examples": [
               {
                 "text": "As a child, I had a velleity to run for political office.",
@@ -13954,18 +13954,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782574512
     }
   },
   {
     "word": "vellicate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlɪˌkeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlɪkeɪt"
       }
     },
     "forms": {
@@ -13982,7 +13982,7 @@
           {
             "id": "vellicate-verb-1",
             "definition": "to irritate as if by a nip, pinch, or tear",
-            "translation": "",
+            "translation": "刺痛；撕扯",
             "examples": []
           },
           {
@@ -14004,10 +14004,10 @@
     "word": "vellication",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛlɪˈkeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛlɪˈkeɪʃən"
       }
     },
     "forms": {},
@@ -14022,7 +14022,7 @@
           {
             "id": "vellication-noun-1",
             "definition": "a sudden muscle spasm",
-            "translation": "",
+            "translation": "肌肉痉挛",
             "examples": [
               {
                 "text": "I've been having vellications in my arm.",
@@ -14035,8 +14035,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782574512
     }
   },
   {
@@ -14059,7 +14059,7 @@
           {
             "id": "vellum-noun-1",
             "definition": "fine parchment prepared from the skin of a young animal e.g. a calf or lamb",
-            "translation": "",
+            "translation": "精制犊皮纸；上等羊皮纸（由幼小动物如小牛或羊羔皮制成）",
             "examples": [
               {
                 "text": "The edict was written upon vellum.",
@@ -14070,7 +14070,7 @@
           {
             "id": "vellum-noun-2",
             "definition": "a heavy creamy-colored paper resembling parchment",
-            "translation": "",
+            "translation": "仿羊皮纸的厚米色纸张；仿犊皮纸",
             "examples": [
               {
                 "text": "We bought vellum at the local stationary store.",
@@ -14083,18 +14083,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763404800
     }
   },
   {
     "word": "velocipede",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈlɑːsɪpiːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈlɒsɪpiːd"
       }
     },
     "forms": {},
@@ -14109,13 +14109,13 @@
           {
             "id": "velocipede-noun-1",
             "definition": "a vehicle with three wheels that is moved by foot pedals",
-            "translation": "",
+            "translation": "三轮脚踏车",
             "examples": []
           },
           {
             "id": "velocipede-noun-2",
             "definition": "any of several early bicycles with pedals on the front wheel",
-            "translation": "",
+            "translation": "早期前轮装有踏板的人力自行车",
             "examples": []
           }
         ]
@@ -14123,18 +14123,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "velociraptor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈlɑːsɪræptər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈlɒsɪræptə"
       }
     },
     "forms": {},
@@ -14147,7 +14147,7 @@
           {
             "id": "velociraptor-noun-1",
             "definition": "small active carnivore that probably fed on protoceratops",
-            "translation": "",
+            "translation": "伶盗龙（一种小型肉食性恐龙，可能以原角龙为食）",
             "examples": [
               {
                 "text": "Velociraptors became famous after they were featured in a motion picture.",
@@ -14160,8 +14160,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -14247,10 +14247,10 @@
     "word": "velodrome",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlədroʊm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlədrəʊm"
       }
     },
     "forms": {},
@@ -14263,7 +14263,7 @@
           {
             "id": "velodrome-noun-1",
             "definition": "a banked oval track for bicycle or motorcycle racing",
-            "translation": "",
+            "translation": "（自行车或摩托车比赛的）椭圆形倾斜赛道；赛车场",
             "examples": []
           }
         ]
@@ -14271,18 +14271,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "velour",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈlʊr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈlʊə"
       }
     },
     "forms": {},
@@ -14297,7 +14297,7 @@
           {
             "id": "velour-noun-1",
             "definition": "heavy fabric that resembles velvet",
-            "translation": "",
+            "translation": "仿天鹅绒的厚织物；拉绒织物",
             "examples": []
           }
         ]
@@ -14305,18 +14305,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "velours",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈlʊr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈlʊə"
       }
     },
     "forms": {},
@@ -14331,7 +14331,7 @@
           {
             "id": "velours-noun-1",
             "definition": "a heavy fabric that resembles velvet",
-            "translation": "",
+            "translation": "仿天鹅绒的厚重织物；绒布",
             "examples": []
           }
         ]
@@ -14339,18 +14339,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "veloute",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈluːti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈluːti"
       }
     },
     "forms": {},
@@ -14363,7 +14363,7 @@
           {
             "id": "veloute-noun-1",
             "definition": "a white sauce made with stock instead of milk",
-            "translation": "",
+            "translation": "（用高汤而非牛奶调制而成的）白色基础酱汁；法式白酱",
             "examples": []
           }
         ]
@@ -14371,18 +14371,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "velum",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːləm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːləm"
       }
     },
     "forms": {},
@@ -14395,7 +14395,7 @@
           {
             "id": "velum-noun-1",
             "definition": "in various areas of biology, a thin veil-like membrane or flap",
-            "translation": "",
+            "translation": "（生物体内的）膜状结构；帆状膜；缘膜",
             "examples": [
               {
                 "text": "In humans, the soft palate is an example of a velum.",
@@ -14406,7 +14406,7 @@
           {
             "id": "velum-noun-2",
             "definition": "a veil-like cloud that covers a large area",
-            "translation": "",
+            "translation": "覆盖大面积的薄幕状云层",
             "examples": [
               {
                 "text": "The velum blocked the sun for miles.",
@@ -14419,8 +14419,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -14448,13 +14448,13 @@
           {
             "id": "velvet-adjective-1",
             "definition": "resembling velvet in having a smooth soft surface",
-            "translation": "",
+            "translation": "天鹅绒般的",
             "examples": []
           },
           {
             "id": "velvet-adjective-2",
             "definition": "smooth and soft to sight or hearing or touch or taste",
-            "translation": "",
+            "translation": "柔软光滑的",
             "examples": []
           }
         ]
@@ -14473,18 +14473,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "velveteen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlvəˌtiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlvəˌtiːn"
       }
     },
     "forms": {},
@@ -14497,7 +14497,7 @@
           {
             "id": "velveteen-noun-1",
             "definition": "a usually cotton fabric with a short pile imitating velvet",
-            "translation": "",
+            "translation": "绒布；仿天鹅绒织物",
             "examples": []
           }
         ]
@@ -14505,18 +14505,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "velvetleaf",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlvətˌliːf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlvətˌliːf"
       }
     },
     "forms": {},
@@ -14531,13 +14531,13 @@
           {
             "id": "velvetleaf-noun-1",
             "definition": "tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber",
-            "translation": "",
+            "translation": "绒叶葵；一种产强韧纤维的亚洲热带草本植物",
             "examples": []
           },
           {
             "id": "velvetleaf-noun-2",
             "definition": "arborescent perennial shrub having palmately lobed furry leaves and showy red-purple flowers",
-            "translation": "",
+            "translation": "绒叶木槿；掌状裂叶毛绒灌木",
             "examples": []
           }
         ]
@@ -14545,18 +14545,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "velvetweed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛlvətˌwiːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛlvətˌwiːd"
       }
     },
     "forms": {},
@@ -14571,7 +14571,7 @@
           {
             "id": "velvetweed-noun-1",
             "definition": "a tall annual herb or subshrub of tropical Asia having velvety leaves and yellow flowers and yielding a strong fiber",
-            "translation": "",
+            "translation": "天鹅绒草；绒叶草",
             "examples": []
           }
         ]
@@ -14579,8 +14579,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
@@ -14603,7 +14603,7 @@
           {
             "id": "velvety-adjective-1",
             "definition": "resembling velvet in having a smooth soft surface",
-            "translation": "",
+            "translation": "像天鹅绒的",
             "examples": [
               {
                 "text": "My new velvety pants get me compliments wherever I go.",
@@ -14614,7 +14614,7 @@
           {
             "id": "velvety-adjective-2",
             "definition": "smooth and soft to sight, hearing, touch or taste",
-            "translation": "",
+            "translation": "柔软光滑的",
             "examples": [
               {
                 "text": "The velvety egg yolk was placed on the risotto.",
@@ -14627,18 +14627,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vena",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːnə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːnə"
       }
     },
     "forms": {},
@@ -14651,7 +14651,7 @@
           {
             "id": "vena-noun-1",
             "definition": "a blood vessel that carries blood from the capillaries towards the heart, also known as a vein",
-            "translation": "",
+            "translation": "静脉",
             "examples": [
               {
                 "text": "The superior vena cava is a vena that directs blood into the heart.",
@@ -14664,8 +14664,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
@@ -14711,10 +14711,10 @@
     "word": "venality",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "viːˈnæləti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "viːˈnæləti"
       }
     },
     "forms": {},
@@ -14727,7 +14727,7 @@
           {
             "id": "venality-noun-1",
             "definition": "prostitution of talents or offices or services for reward",
-            "translation": "",
+            "translation": "贪赃枉法；受贿",
             "examples": [
               {
                 "text": "Venality is not tolerated in my administration.",
@@ -14740,18 +14740,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "venally",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːnəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːnəli"
       }
     },
     "forms": {},
@@ -14766,7 +14766,7 @@
           {
             "id": "venally-adverb-1",
             "definition": "in a corrupt and deceitful manner",
-            "translation": "",
+            "translation": "贪赃枉法地",
             "examples": [
               {
                 "text": "The bankers acted venally are were punished in accordance with the law.",
@@ -14779,18 +14779,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "venatic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɪˈnætɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈnætɪk"
       }
     },
     "forms": {},
@@ -14824,10 +14824,10 @@
     "word": "venation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "viˈneɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "viːˈneɪʃən"
       }
     },
     "forms": {},
@@ -14840,13 +14840,13 @@
           {
             "id": "venation-noun-1",
             "definition": "(zoology) the system of venous blood vessels in an animal",
-            "translation": "",
+            "translation": "（动物）静脉系统",
             "examples": []
           },
           {
             "id": "venation-noun-2",
             "definition": "(botany) the arrangement of veins in a leaf",
-            "translation": "",
+            "translation": "（植物）叶脉排列",
             "examples": []
           }
         ]
@@ -14854,18 +14854,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "venatorial",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛnəˈtɔriəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛnəˈtɔːrɪəl"
       }
     },
     "forms": {},
@@ -14921,7 +14921,7 @@
           {
             "id": "vend-verb-1",
             "definition": "to sell or offer for sale from place to place",
-            "translation": "",
+            "translation": "贩卖；售卖",
             "examples": [
               {
                 "text": "We vend all of the midwest.",
@@ -14934,18 +14934,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vendable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛndəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛndəbəl"
       }
     },
     "forms": {},
@@ -14960,7 +14960,7 @@
           {
             "id": "vendable-adjective-1",
             "definition": "fit to be offered for sale",
-            "translation": "",
+            "translation": "可出售的；适合销售的",
             "examples": [
               {
                 "text": "These products show a little wear but are vendible if we reduce the price.",
@@ -14973,18 +14973,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vendee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈdi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈdi"
       }
     },
     "forms": {},
@@ -15038,7 +15038,7 @@
           {
             "id": "vender-noun-1",
             "definition": "someone who promotes or exchanges goods or services for money",
-            "translation": "",
+            "translation": "小贩；售卖者",
             "examples": [
               {
                 "text": "There were over 500 venders at the flea market last weekend.",
@@ -15051,8 +15051,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -15077,7 +15077,7 @@
           {
             "id": "vendetta-noun-1",
             "definition": "a feud in which members of the opposing parties murder each other",
-            "translation": "",
+            "translation": "血仇；宿怨；世仇",
             "examples": []
           }
         ]
@@ -15085,18 +15085,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vendible",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛndəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛndəbəl"
       }
     },
     "forms": {},
@@ -15111,7 +15111,7 @@
           {
             "id": "vendible-adjective-1",
             "definition": "fit to be offered for sale",
-            "translation": "",
+            "translation": "可销售的",
             "examples": [
               {
                 "text": "These products show a little wear but are vendible if we reduce the price.",
@@ -15124,18 +15124,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vending",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛndɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛndɪŋ"
       }
     },
     "forms": {},
@@ -15152,7 +15152,7 @@
           {
             "id": "vending-noun-1",
             "definition": "the act of selling goods for a living",
-            "translation": "",
+            "translation": "贩卖",
             "examples": []
           }
         ]
@@ -15160,8 +15160,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -15186,7 +15186,7 @@
           {
             "id": "vendition-noun-1",
             "definition": "the act of selling goods for a living",
-            "translation": "",
+            "translation": "贩卖；售卖",
             "examples": []
           }
         ]
@@ -15194,8 +15194,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -15222,7 +15222,7 @@
           {
             "id": "vendor-noun-1",
             "definition": "someone who promotes or exchanges goods or services for money",
-            "translation": "",
+            "translation": "小贩；供应商",
             "examples": [
               {
                 "text": "There were over 500 venders at the flea market last weekend.",
@@ -15236,22 +15236,22 @@
     "phrases": [
       {
         "text": "vendor to conform",
-        "translation": ""
+        "translation": "要求供应商符合（规定）"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "vendue",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈduː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈdjuː"
       }
     },
     "forms": {},
@@ -15266,7 +15266,7 @@
           {
             "id": "vendue-noun-1",
             "definition": "the public sale of something to the highest bidder",
-            "translation": "",
+            "translation": "公开拍卖",
             "examples": []
           }
         ]
@@ -15274,8 +15274,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -15304,7 +15304,7 @@
           {
             "id": "veneer-noun-1",
             "definition": "an ornamental coating to an object consisting of a thin layer of superior wood glued to a base of inferior wood",
-            "translation": "",
+            "translation": "饰面薄板，镶面板",
             "examples": [
               {
                 "text": "This veneer needs to dry a bit more.",
@@ -15333,18 +15333,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "veneering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈnɪrɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈnɪərɪŋ"
       }
     },
     "forms": {},
@@ -15357,13 +15357,13 @@
           {
             "id": "veneering-noun-1",
             "definition": "the act of applying veneer",
-            "translation": "",
+            "translation": "镶饰，贴面",
             "examples": []
           },
           {
             "id": "veneering-noun-2",
             "definition": "coating consisting of a thin layer of superior wood glued to a base of inferior wood",
-            "translation": "",
+            "translation": "薄木贴面板",
             "examples": []
           }
         ]
@@ -15371,18 +15371,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "venerability",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛnərəˈbɪləti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛnərəˈbɪləti"
       }
     },
     "forms": {},
@@ -15395,7 +15395,7 @@
           {
             "id": "venerability-noun-1",
             "definition": "the quality of deserving veneration",
-            "translation": "",
+            "translation": "值得敬仰的性质",
             "examples": []
           }
         ]
@@ -15403,8 +15403,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -15463,10 +15463,10 @@
     "word": "venerableness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnərəblnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnərəblnəs"
       }
     },
     "forms": {},
@@ -15479,7 +15479,7 @@
           {
             "id": "venerableness-noun-1",
             "definition": "the quality of deserving veneration",
-            "translation": "",
+            "translation": "值得敬仰的品质",
             "examples": [
               {
                 "text": "Our leader's venerableness is undeniable.",
@@ -15492,8 +15492,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -15526,7 +15526,7 @@
           {
             "id": "venerate-verb-1",
             "definition": "to regard with feelings of respect and reverence",
-            "translation": "",
+            "translation": "敬仰，崇敬",
             "examples": [
               {
                 "text": "The subjects venerated the dictator outwardly out of fear.",
@@ -15539,18 +15539,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "venerating",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnəreɪtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnəreɪtɪŋ"
       }
     },
     "forms": {},
@@ -15563,7 +15563,7 @@
           {
             "id": "venerating-adjective-1",
             "definition": "feeling or manifesting veneration",
-            "translation": "",
+            "translation": "表示敬仰的；崇拜的；崇敬的",
             "examples": [
               {
                 "text": "The venerating tone of the leader's eulogy seemed appropriate.",
@@ -15576,8 +15576,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -15629,10 +15629,10 @@
     "word": "venerator",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnəreɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnəreɪtə"
       }
     },
     "forms": {},
@@ -15645,7 +15645,7 @@
           {
             "id": "venerator-noun-1",
             "definition": "someone who regards with deep respect or reverence",
-            "translation": "",
+            "translation": "崇敬者；敬仰者",
             "examples": [
               {
                 "text": "Many venerators gathered around the leader's grave.",
@@ -15658,8 +15658,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -15700,10 +15700,10 @@
     "word": "venesect",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnɪˌsɛkt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnɪˌsɛkt"
       }
     },
     "forms": {},
@@ -15716,7 +15716,7 @@
           {
             "id": "venesect-verb-1",
             "definition": "to practice venesection",
-            "translation": "",
+            "translation": "施行静脉切开；放血",
             "examples": []
           }
         ]
@@ -15724,18 +15724,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "venesection",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛnɪˈsɛkʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛnɪˈsɛkʃən"
       }
     },
     "forms": {},
@@ -15750,7 +15750,7 @@
           {
             "id": "venesection-noun-1",
             "definition": "surgical incision into a vein",
-            "translation": "",
+            "translation": "静脉切开术；放血术",
             "examples": []
           }
         ]
@@ -15758,8 +15758,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -15862,7 +15862,7 @@
           {
             "id": "vengeance-noun-1",
             "definition": "the act of harming someone in retaliation for something harmful that they have done",
-            "translation": "",
+            "translation": "报复；报仇；复仇",
             "examples": [
               {
                 "text": "I would have my vengeance over my assailant, in this life or the next.",
@@ -15875,8 +15875,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -15901,7 +15901,7 @@
           {
             "id": "vengeful-adjective-1",
             "definition": "disposed to seek revenge or intended for revenge",
-            "translation": "",
+            "translation": "复仇心切的；怀恨在心的；报复性的",
             "examples": [
               {
                 "text": "The vengeful mob attacked the palace.",
@@ -15914,18 +15914,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "vengefully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛndʒfəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛndʒfəli"
       }
     },
     "forms": {},
@@ -15938,7 +15938,7 @@
           {
             "id": "vengefully-adverb-1",
             "definition": "in a vindictive, revengeful manner",
-            "translation": "",
+            "translation": "怀有报复心地；复仇地",
             "examples": [
               {
                 "text": "The unhappy lover acted vengefully.",
@@ -15951,18 +15951,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "vengefulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛndʒfəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛndʒfəlnəs"
       }
     },
     "forms": {},
@@ -15977,7 +15977,7 @@
           {
             "id": "vengefulness-noun-1",
             "definition": "a malevolent desire for revenge",
-            "translation": "",
+            "translation": "复仇心；报复心",
             "examples": [
               {
                 "text": "Your vengefulness is understandable after your parents' murder, but you should let the police do their job.",
@@ -15990,8 +15990,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -16019,7 +16019,7 @@
           {
             "id": "venial-adjective-1",
             "definition": "easily excused or forgiven",
-            "translation": "",
+            "translation": "可宽恕的",
             "examples": [
               {
                 "text": "It was only a venial error.",
@@ -16030,7 +16030,7 @@
           {
             "id": "venial-adjective-2",
             "definition": "warranting only temporal punishment",
-            "translation": "",
+            "translation": "（罪）轻微的",
             "examples": [
               {
                 "text": "It was considered a venial sin.",
@@ -16043,18 +16043,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "venipuncture",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnɪpʌŋktʃər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnɪpʌŋktʃə"
       }
     },
     "forms": {},
@@ -16067,7 +16067,7 @@
           {
             "id": "venipuncture-noun-1",
             "definition": "the puncture of a vein through the skin in order to withdraw blood for analysis, to start an intravenous drip or to inject medication or a radiopaque dye",
-            "translation": "",
+            "translation": "静脉穿刺",
             "examples": []
           }
         ]
@@ -16075,18 +16075,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "venire",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɪˈnaɪri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈnaɪri"
       }
     },
     "forms": {},
@@ -16101,7 +16101,7 @@
           {
             "id": "venire-noun-1",
             "definition": "(law) a group of people summoned for jury service (from whom a jury will be chosen)",
-            "translation": "",
+            "translation": "陪审员召集令",
             "examples": []
           }
         ]
@@ -16109,8 +16109,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -16154,10 +16154,10 @@
     "word": "venogram",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːnəɡræm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːnəɡræm"
       }
     },
     "forms": {},
@@ -16172,7 +16172,7 @@
           {
             "id": "venogram-noun-1",
             "definition": "an X ray of a vein injected with a radiopaque contrast medium",
-            "translation": "",
+            "translation": "静脉造影照片",
             "examples": []
           }
         ]
@@ -16180,18 +16180,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "venography",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "viˈnɑːɡrəfi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "viˈnɒɡrəfi"
       }
     },
     "forms": {},
@@ -16204,7 +16204,7 @@
           {
             "id": "venography-noun-1",
             "definition": "roentgenographic examination of veins",
-            "translation": "",
+            "translation": "静脉造影术",
             "examples": []
           }
         ]
@@ -16212,8 +16212,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
@@ -16241,7 +16241,7 @@
           {
             "id": "venom-noun-1",
             "definition": "anger directed at someone",
-            "translation": "",
+            "translation": "怨恨",
             "examples": [
               {
                 "text": "I had a lot of venom for my blackmailers.",
@@ -16252,7 +16252,7 @@
           {
             "id": "venom-noun-2",
             "definition": "a need to see others suffer",
-            "translation": "",
+            "translation": "恶意",
             "examples": [
               {
                 "text": "The author's venom was apparent in the cruel words they chose to describe their detractors.",
@@ -16263,7 +16263,7 @@
           {
             "id": "venom-noun-3",
             "definition": "a toxin used by animals to catch prey or defend against predators, which is administered through a delivery mechanism",
-            "translation": "",
+            "translation": "毒液",
             "examples": [
               {
                 "text": "The cobra's venom can kill a human being.",
@@ -16276,18 +16276,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "venomed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnəmd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnəmd"
       }
     },
     "forms": {},
@@ -16311,7 +16311,7 @@
           {
             "id": "venomed-adjective-2",
             "definition": "containing venom",
-            "translation": "",
+            "translation": "含有毒液的",
             "examples": [
               {
                 "text": "The venomed snake bite sent me to the hospital.",
@@ -16353,7 +16353,7 @@
           {
             "id": "venomous-adjective-1",
             "definition": "marked by deep ill will",
-            "translation": "",
+            "translation": "恶毒的",
             "examples": [
               {
                 "text": "Your venomous actions are ignoble.",
@@ -16364,7 +16364,7 @@
           {
             "id": "venomous-adjective-2",
             "definition": "extremely poisonous or injurious",
-            "translation": "",
+            "translation": "剧毒的",
             "examples": [
               {
                 "text": "The snake is venomous.",
@@ -16377,18 +16377,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763616000
     }
   },
   {
     "word": "venomously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnəməsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnəməsli"
       }
     },
     "forms": {},
@@ -16403,7 +16403,7 @@
           {
             "id": "venomously-adverb-1",
             "definition": "in a very malevolent manner",
-            "translation": "",
+            "translation": "恶毒地",
             "examples": [
               {
                 "text": "You spoke venomously of our friends.",
@@ -16416,18 +16416,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "venose",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvinoʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːnəʊs"
       }
     },
     "forms": {},
@@ -16440,7 +16440,7 @@
           {
             "id": "venose-adjective-1",
             "definition": "having or showing markings that resemble veins",
-            "translation": "",
+            "translation": "有静脉纹的",
             "examples": [
               {
                 "text": "The venose painting was made without a brush.",
@@ -16453,8 +16453,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
@@ -16534,31 +16534,31 @@
           {
             "id": "vent-noun-1",
             "definition": "activity that frees or expresses creative energy or emotion",
-            "translation": "",
+            "translation": "发泄",
             "examples": []
           },
           {
             "id": "vent-noun-2",
             "definition": "external opening of urinary or genital system of a lower vertebrate",
-            "translation": "",
+            "translation": "泄殖腔",
             "examples": []
           },
           {
             "id": "vent-noun-3",
             "definition": "a hole for the escape of gas or air",
-            "translation": "",
+            "translation": "通风口",
             "examples": []
           },
           {
             "id": "vent-noun-4",
             "definition": "a slit in a garment (as in the back seam of a jacket)",
-            "translation": "",
+            "translation": "开衩",
             "examples": []
           },
           {
             "id": "vent-noun-5",
             "definition": "a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt",
-            "translation": "",
+            "translation": "火山口",
             "examples": []
           }
         ]
@@ -16589,30 +16589,30 @@
     "phrases": [
       {
         "text": "vent on",
-        "translation": ""
+        "translation": "向...发泄"
       },
       {
         "text": "vent on someone",
-        "translation": ""
+        "translation": "向某人发泄"
       },
       {
         "text": "vent to the atmosphere",
-        "translation": ""
+        "translation": "向大气排放"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "ventail",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnteɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnteɪl"
       }
     },
     "forms": {},
@@ -16627,7 +16627,7 @@
           {
             "id": "ventail-noun-1",
             "definition": "a medieval hood of mail suspended from a basinet to protect the head and neck",
-            "translation": "",
+            "translation": "护喉甲",
             "examples": []
           }
         ]
@@ -16635,18 +16635,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "vented",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪd"
       }
     },
     "forms": {},
@@ -16659,7 +16659,7 @@
           {
             "id": "vented-adjective-1",
             "definition": "supplied with a vent or vents for intake of air or discharge of gases or moisture",
-            "translation": "",
+            "translation": "有通风口的",
             "examples": [
               {
                 "text": "I made sure my attic was well vented to avoid condensation.",
@@ -16672,18 +16672,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "venter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntə(r)"
       }
     },
     "forms": {},
@@ -16696,7 +16696,7 @@
           {
             "id": "venter-noun-1",
             "definition": "an individual, often a woman, with offspring",
-            "translation": "",
+            "translation": "母体",
             "examples": [
               {
                 "text": "The venter had four babies.",
@@ -16707,7 +16707,7 @@
           {
             "id": "venter-noun-2",
             "definition": "a hollow region of an area that protrudes, such as the region of the body of a vertebrate between the thorax and the pelvis or the womb",
-            "translation": "",
+            "translation": "腹部",
             "examples": [
               {
                 "text": "The venter of the patient was covered in splotches.",
@@ -16718,7 +16718,7 @@
           {
             "id": "venter-noun-3",
             "definition": "a speaker who expresses or gives vent to a personal opinion or grievance",
-            "translation": "",
+            "translation": "发声者",
             "examples": [
               {
                 "text": "The town meeting was filled with venters who were against the new building project.",
@@ -16731,18 +16731,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "venthole",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntˌhoʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntˌhəʊl"
       }
     },
     "forms": {},
@@ -16757,7 +16757,7 @@
           {
             "id": "venthole-noun-1",
             "definition": "a hole for the escape of gas or air",
-            "translation": "",
+            "translation": "排气孔",
             "examples": []
           }
         ]
@@ -16765,8 +16765,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
@@ -16867,10 +16867,10 @@
     "word": "ventilated",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntəleɪtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪleɪtɪd"
       }
     },
     "forms": {},
@@ -16883,7 +16883,7 @@
           {
             "id": "ventilated-adjective-1",
             "definition": "exposed to air",
-            "translation": "",
+            "translation": "通风的",
             "examples": [
               {
                 "text": "A well ventilated room is a requirement for healthy living.",
@@ -16896,8 +16896,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
@@ -16926,19 +16926,19 @@
           {
             "id": "ventilation-noun-1",
             "definition": "the act of supplying fresh air and getting rid of foul air",
-            "translation": "",
+            "translation": "通风",
             "examples": []
           },
           {
             "id": "ventilation-noun-2",
             "definition": "the bodily process of inhalation and exhalation",
-            "translation": "",
+            "translation": "呼吸",
             "examples": []
           },
           {
             "id": "ventilation-noun-3",
             "definition": "a mechanical system in a building that provides fresh air",
-            "translation": "",
+            "translation": "通风系统",
             "examples": [
               {
                 "text": "They were continually adjusting the ventilation.",
@@ -16949,7 +16949,7 @@
           {
             "id": "ventilation-noun-4",
             "definition": "free and open discussion of (or debate on) some question of public interest",
-            "translation": "",
+            "translation": "公开讨论",
             "examples": []
           }
         ]
@@ -16958,40 +16958,40 @@
     "phrases": [
       {
         "text": "ventilation by air passage",
-        "translation": ""
+        "translation": "气道通风"
       },
       {
         "text": "ventilation by axial flow fan",
-        "translation": ""
+        "translation": "轴流风机通风"
       },
       {
         "text": "ventilation by ducts",
-        "translation": ""
+        "translation": "管道通风"
       },
       {
         "text": "ventilation by exhaust fan",
-        "translation": ""
+        "translation": "排风扇通风"
       },
       {
         "text": "ventilation by extraction",
-        "translation": ""
+        "translation": "抽风通风"
       },
       {
         "text": "ventilation by force draft",
-        "translation": ""
+        "translation": "强制通风"
       },
       {
         "text": "ventilation by forced draft",
-        "translation": ""
+        "translation": "强制通风"
       },
       {
         "text": "ventilation by pipes",
-        "translation": ""
+        "translation": "管道通风"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
@@ -17014,7 +17014,7 @@
           {
             "id": "ventilator-noun-1",
             "definition": "a device that facilitates breathing in cases of respiratory failure",
-            "translation": "",
+            "translation": "呼吸机",
             "examples": [
               {
                 "text": "My parents were both on ventilators before they passed.",
@@ -17025,7 +17025,7 @@
           {
             "id": "ventilator-noun-2",
             "definition": "a device such as a fan that introduces fresh air or expels foul air",
-            "translation": "",
+            "translation": "通风设备；换气扇",
             "examples": [
               {
                 "text": "We need a ventilator in this room.",
@@ -17039,22 +17039,22 @@
     "phrases": [
       {
         "text": "ventilator with water spray",
-        "translation": ""
+        "translation": "带喷雾的通风机"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
     "word": "ventilatory",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntələtɔːri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪlətri"
       }
     },
     "forms": {},
@@ -17067,7 +17067,7 @@
           {
             "id": "ventilatory-adjective-1",
             "definition": "provided with ventilation or involving pulmonary ventilation",
-            "translation": "",
+            "translation": "通气的；与肺通气有关的",
             "examples": [
               {
                 "text": "The lungs are an integral part of the ventilatory system.",
@@ -17080,18 +17080,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
     "word": "venting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntɪŋ"
       }
     },
     "forms": {},
@@ -17106,7 +17106,7 @@
           {
             "id": "venting-noun-1",
             "definition": "getting rid of pent up emotions, particularly anger, through sharing with others",
-            "translation": "",
+            "translation": "发泄（通过倾诉排解消极情绪，尤其是愤怒）",
             "examples": []
           }
         ]
@@ -17114,8 +17114,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
@@ -17140,7 +17140,7 @@
           {
             "id": "ventral-adjective-1",
             "definition": "nearest to or facing toward the axis of an organ or organism",
-            "translation": "",
+            "translation": "腹面的；腹侧的",
             "examples": [
               {
                 "text": "The ventral motion was a reflex.",
@@ -17151,7 +17151,7 @@
           {
             "id": "ventral-adjective-2",
             "definition": "toward or on or near the belly or front of a primate or lower surface of a lower animal",
-            "translation": "",
+            "translation": "朝向腹部的；在腹面或前方的",
             "examples": [
               {
                 "text": "The ventral fins of the shark are very distinct.",
@@ -17164,18 +17164,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
     "word": "ventrally",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntrəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntrəli"
       }
     },
     "forms": {},
@@ -17188,7 +17188,7 @@
           {
             "id": "ventrally-adverb-1",
             "definition": "in a ventral location or direction",
-            "translation": "",
+            "translation": "在腹侧地；朝腹侧地",
             "examples": [
               {
                 "text": "The ventrally oriented marking was hidden at this angle.",
@@ -17201,8 +17201,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
@@ -17225,13 +17225,13 @@
           {
             "id": "ventricle-noun-1",
             "definition": "a chamber of the heart that receives blood from an atrium and pumps it to the arteries",
-            "translation": "",
+            "translation": "心室",
             "examples": []
           },
           {
             "id": "ventricle-noun-2",
             "definition": "one of four connected cavities in the brain",
-            "translation": "",
+            "translation": "脑室",
             "examples": []
           }
         ]
@@ -17239,18 +17239,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
     "word": "ventricose",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtraɪkoʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtraɪkəʊs"
       }
     },
     "forms": {},
@@ -17265,7 +17265,7 @@
           {
             "id": "ventricose-adjective-1",
             "definition": "having a swelling on one side",
-            "translation": "",
+            "translation": "一侧肿胀的",
             "examples": [
               {
                 "text": "the ventricose gullet of an insect",
@@ -17278,18 +17278,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
     "word": "ventricous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtraɪkəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtraɪkəs"
       }
     },
     "forms": {},
@@ -17304,7 +17304,7 @@
           {
             "id": "ventricous-adjective-1",
             "definition": "having a swelling on one side",
-            "translation": "",
+            "translation": "一侧膨胀的",
             "examples": []
           }
         ]
@@ -17312,8 +17312,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1772428800
     }
   },
   {
@@ -17352,10 +17352,10 @@
     "word": "ventriculus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪkjələs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪkjʊləs"
       }
     },
     "forms": {},
@@ -17368,7 +17368,7 @@
           {
             "id": "ventriculus-noun-1",
             "definition": "a thick-walled, muscular pouch below the crop in many birds and reptiles for grinding food",
-            "translation": "",
+            "translation": "（鸟类和爬行类动物的）砂囊；肌胃",
             "examples": [
               {
                 "text": "Food enters the ventriculus, where it is ground into a digestible mash.",
@@ -17381,18 +17381,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "ventriloquism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪləˌkwɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪləˌkwɪzəm"
       }
     },
     "forms": {},
@@ -17405,7 +17405,7 @@
           {
             "id": "ventriloquism-noun-1",
             "definition": "the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)",
-            "translation": "",
+            "translation": "腹语术；腹语表演艺术",
             "examples": []
           }
         ]
@@ -17413,8 +17413,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -17439,7 +17439,7 @@
           {
             "id": "ventriloquist-noun-1",
             "definition": "a performer who projects the voice into a wooden dummy",
-            "translation": "",
+            "translation": "腹语术表演者；口技艺人",
             "examples": [
               {
                 "text": "Many children are scared by ventriloquists.",
@@ -17452,18 +17452,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "ventriloquy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪləkwi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtrɪləkwi"
       }
     },
     "forms": {},
@@ -17476,7 +17476,7 @@
           {
             "id": "ventriloquy-noun-1",
             "definition": "the art of projecting your voice so that it seems to come from another source, as from a ventriloquist's dummy",
-            "translation": "",
+            "translation": "腹语术",
             "examples": [
               {
                 "text": "I practiced ventriloquy until I was able to fool people.",
@@ -17489,8 +17489,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -17611,10 +17611,10 @@
     "word": "venturer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntʃərər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntʃərə"
       }
     },
     "forms": {},
@@ -17629,13 +17629,13 @@
           {
             "id": "venturer-noun-1",
             "definition": "a person who enjoys taking risks",
-            "translation": "",
+            "translation": "冒险者",
             "examples": []
           },
           {
             "id": "venturer-noun-2",
             "definition": "a merchant who undertakes a trading venture (especially a venture that sends goods overseas)",
-            "translation": "",
+            "translation": "从事海外贸易的商人",
             "examples": []
           }
         ]
@@ -17643,8 +17643,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -17669,7 +17669,7 @@
           {
             "id": "venturesome-adjective-1",
             "definition": "disposed to venture or take risks",
-            "translation": "",
+            "translation": "爱冒险的；大胆的",
             "examples": [
               {
                 "text": "The venturesome twins wandered into the woods alone.",
@@ -17682,18 +17682,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "venturesomeness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛntʃərsəmnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛntʃəsəmnəs"
       }
     },
     "forms": {},
@@ -17706,7 +17706,7 @@
           {
             "id": "venturesomeness-noun-1",
             "definition": "the trait of being adventurous",
-            "translation": "",
+            "translation": "冒险精神；大胆",
             "examples": [
               {
                 "text": "The explorer's untiring venturesomeness earned them renown across the globe.",
@@ -17719,18 +17719,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "venturi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛnˈtʊri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛnˈtʃʊəri"
       }
     },
     "forms": {},
@@ -17743,7 +17743,7 @@
           {
             "id": "venturi-noun-1",
             "definition": "a tube with a constriction",
-            "translation": "",
+            "translation": "文丘里管（一种带收缩段的管子）",
             "examples": []
           }
         ]
@@ -17751,18 +17751,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "venturous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛn.tʃɚ.əs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛn.tʃər.əs"
       }
     },
     "forms": {},
@@ -17775,7 +17775,7 @@
           {
             "id": "venturous-adjective-1",
             "definition": "disposed to venture or take risks",
-            "translation": "",
+            "translation": "敢于冒险的",
             "examples": [
               {
                 "text": "The venturous travelers enjoyed climbing mountain to mountain peaks.",
@@ -17788,8 +17788,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1735689600
     }
   },
   {
@@ -17843,10 +17843,10 @@
     "word": "venule",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛnjuːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛnjuːl"
       }
     },
     "forms": {},
@@ -17859,7 +17859,7 @@
           {
             "id": "venule-noun-1",
             "definition": "a minute vein continuous with a capillary",
-            "translation": "",
+            "translation": "小静脉",
             "examples": []
           }
         ]
@@ -17867,8 +17867,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -17946,7 +17946,7 @@
           {
             "id": "veracity-noun-1",
             "definition": "unwillingness to tell lies",
-            "translation": "",
+            "translation": "诚实",
             "examples": [
               {
                 "text": "Your veracity concerning the recent theft will not go unrewarded.",
@@ -17959,8 +17959,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -17985,7 +17985,7 @@
           {
             "id": "veranda-noun-1",
             "definition": "a porch along the outside of a building, sometimes partly enclosed",
-            "translation": "",
+            "translation": "阳台",
             "examples": [
               {
                 "text": "The guests enjoyed a smoke on the veranda.",
@@ -17998,8 +17998,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -18024,7 +18024,7 @@
           {
             "id": "verandah-noun-1",
             "definition": "a porch along the outside of a building, sometimes partly enclosed",
-            "translation": "",
+            "translation": "游廊",
             "examples": [
               {
                 "text": "The guests enjoyed a smoke on the veranda.",
@@ -18037,8 +18037,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -18216,7 +18216,7 @@
           {
             "id": "verbalisation-noun-1",
             "definition": "the activity of expressing something in words",
-            "translation": "",
+            "translation": "用言辞表达的活动",
             "examples": [
               {
                 "text": "Verbalization is of high communicative importance.",
@@ -18227,7 +18227,7 @@
           {
             "id": "verbalisation-noun-2",
             "definition": "the words that are spoken in the activity of verbalization",
-            "translation": "",
+            "translation": "用言辞表达时所说出的话语",
             "examples": []
           }
         ]
@@ -18235,8 +18235,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -18266,7 +18266,7 @@
           {
             "id": "verbalise-verb-1",
             "definition": "convert into a verb",
-            "translation": "",
+            "translation": "将…转化为动词",
             "examples": [
               {
                 "text": "Is it possible to verbalise the noun?",
@@ -18277,13 +18277,13 @@
           {
             "id": "verbalise-verb-2",
             "definition": "articulate",
-            "translation": "",
+            "translation": "清楚地表达",
             "examples": []
           },
           {
             "id": "verbalise-verb-3",
             "definition": "express in speech",
-            "translation": "",
+            "translation": "用言辞表达",
             "examples": [
               {
                 "text": "If you have a problem with the current situation, you need to verbalise your concern.",
@@ -18294,7 +18294,7 @@
           {
             "id": "verbalise-verb-4",
             "definition": "be verbose",
-            "translation": "",
+            "translation": "变得冗长",
             "examples": []
           }
         ]
@@ -18302,18 +18302,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "verbalised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbəlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbəlaɪzd"
       }
     },
     "forms": {},
@@ -18328,7 +18328,7 @@
           {
             "id": "verbalised-adjective-1",
             "definition": "communicated in words",
-            "translation": "",
+            "translation": "用言辞表达的",
             "examples": [
               {
                 "text": "Some things are better verbalised than written down.",
@@ -18341,18 +18341,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "verbaliser",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbəlaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbəlaɪzə(r)"
       }
     },
     "forms": {},
@@ -18367,7 +18367,7 @@
           {
             "id": "verbaliser-noun-1",
             "definition": "someone who expresses in language",
-            "translation": "",
+            "translation": "用语言表达者",
             "examples": []
           }
         ]
@@ -18375,18 +18375,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "verbalism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbəlɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbəlɪzəm"
       }
     },
     "forms": {},
@@ -18402,7 +18402,7 @@
           {
             "id": "verbalism-noun-1",
             "definition": "overabundance of words",
-            "translation": "",
+            "translation": "冗词",
             "examples": [
               {
                 "text": "This essay suffers from verbalism.",
@@ -18413,7 +18413,7 @@
           {
             "id": "verbalism-noun-2",
             "definition": "the communication in speech or writing of one's beliefs or opinions",
-            "translation": "",
+            "translation": "言辞表达",
             "examples": []
           }
         ]
@@ -18421,8 +18421,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -18445,7 +18445,7 @@
           {
             "id": "verbalization-noun-1",
             "definition": "the activity of expressing something in words",
-            "translation": "",
+            "translation": "言语表达活动",
             "examples": [
               {
                 "text": "Verbalization is of high communicative importance.",
@@ -18456,7 +18456,7 @@
           {
             "id": "verbalization-noun-2",
             "definition": "the words that are spoken in the activity of verbalization",
-            "translation": "",
+            "translation": "言词",
             "examples": []
           }
         ]
@@ -18464,8 +18464,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -18495,7 +18495,7 @@
           {
             "id": "verbalize-verb-1",
             "definition": "convert into a verb",
-            "translation": "",
+            "translation": "将…用作动词",
             "examples": [
               {
                 "text": "Is it possible to verbalise the noun?",
@@ -18506,13 +18506,13 @@
           {
             "id": "verbalize-verb-2",
             "definition": "articulate",
-            "translation": "",
+            "translation": "清晰地发音",
             "examples": []
           },
           {
             "id": "verbalize-verb-3",
             "definition": "express in speech",
-            "translation": "",
+            "translation": "用言语表达",
             "examples": [
               {
                 "text": "If you have a problem with the current situation, you need to verbalise your concern.",
@@ -18523,7 +18523,7 @@
           {
             "id": "verbalize-verb-4",
             "definition": "be verbose",
-            "translation": "",
+            "translation": "唠叨",
             "examples": []
           }
         ]
@@ -18531,18 +18531,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verbalized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbəlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbəlaɪzd"
       }
     },
     "forms": {},
@@ -18557,7 +18557,7 @@
           {
             "id": "verbalized-adjective-1",
             "definition": "communicated in words",
-            "translation": "",
+            "translation": "用言辞表达的",
             "examples": [
               {
                 "text": "Some things are better verbalised than written down.",
@@ -18570,18 +18570,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verbalizer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbəlaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbəlaɪzə"
       }
     },
     "forms": {},
@@ -18596,7 +18596,7 @@
           {
             "id": "verbalizer-noun-1",
             "definition": "someone who expresses in language",
-            "translation": "",
+            "translation": "用言语表达者",
             "examples": []
           }
         ]
@@ -18604,8 +18604,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -18680,7 +18680,7 @@
           {
             "id": "verbatim-adjective-1",
             "definition": "in precisely the same words used by a writer or speaker",
-            "translation": "",
+            "translation": "逐字的",
             "examples": []
           }
         ]
@@ -18704,18 +18704,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verbena",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrˈbiːnə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːˈbiːnə"
       }
     },
     "forms": {},
@@ -18730,7 +18730,7 @@
           {
             "id": "verbena-noun-1",
             "definition": "any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously colored flowers",
-            "translation": "",
+            "translation": "马鞭草",
             "examples": []
           }
         ]
@@ -18738,8 +18738,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -18767,7 +18767,7 @@
           {
             "id": "verbiage-noun-1",
             "definition": "the manner in which something is expressed in words",
-            "translation": "",
+            "translation": "措辞",
             "examples": [
               {
                 "text": "use concise military verbiage- G.S.Patton",
@@ -18778,7 +18778,7 @@
           {
             "id": "verbiage-noun-2",
             "definition": "overabundance of words",
-            "translation": "",
+            "translation": "冗词",
             "examples": []
           }
         ]
@@ -18786,18 +18786,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verbify",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrbɪfaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːbɪfaɪ"
       }
     },
     "forms": {
@@ -18814,7 +18814,7 @@
           {
             "id": "verbify-verb-1",
             "definition": "to make into a verb",
-            "translation": "",
+            "translation": "使动词化；将…转化为动词",
             "examples": [
               {
                 "text": "Some names are so associated with certain acts that they are verbified.",
@@ -18827,18 +18827,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
     "word": "verbolatry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈbɑːlətri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈbɒlətri"
       }
     },
     "forms": {},
@@ -18887,7 +18887,7 @@
           {
             "id": "verbose-adjective-1",
             "definition": "using or containing too many words",
-            "translation": "",
+            "translation": "冗长的；啰嗦的",
             "examples": [
               {
                 "text": "The verbose article was read by few people.",
@@ -18900,18 +18900,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
     "word": "verbosely",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈboʊsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈbəʊsli"
       }
     },
     "forms": {},
@@ -18927,7 +18927,7 @@
           {
             "id": "verbosely-adverb-1",
             "definition": "in a verbose manner",
-            "translation": "",
+            "translation": "冗长地；啰嗦地",
             "examples": [
               {
                 "text": "I explained my ideas verbosely.",
@@ -18940,18 +18940,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
     "word": "verboseness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈboʊsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈbəʊsnəs"
       }
     },
     "forms": {},
@@ -18966,7 +18966,7 @@
           {
             "id": "verboseness-noun-1",
             "definition": "an expressive style that uses excessive or empty words",
-            "translation": "",
+            "translation": "啰嗦；冗长",
             "examples": []
           }
         ]
@@ -18974,8 +18974,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
@@ -19000,7 +19000,7 @@
           {
             "id": "verbosity-noun-1",
             "definition": "an expressive style that uses excessive or empty words",
-            "translation": "",
+            "translation": "冗长；赘言",
             "examples": [
               {
                 "text": "The author's verbosity was their premier fault.",
@@ -19013,8 +19013,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
@@ -19037,7 +19037,7 @@
           {
             "id": "verboten-adjective-1",
             "definition": "excluded from use or mention",
-            "translation": "",
+            "translation": "禁止的；不准使用的",
             "examples": [
               {
                 "text": "Certain words are verboten in class.",
@@ -19050,18 +19050,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
     "word": "verdancy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrdnsi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːdənsi"
       }
     },
     "forms": {},
@@ -19076,7 +19076,7 @@
           {
             "id": "verdancy-noun-1",
             "definition": "the lush appearance of flourishing vegetation",
-            "translation": "",
+            "translation": "青翠茂盛",
             "examples": [
               {
                 "text": "The cows seemed delighted by the pasture's verdancy in spring.",
@@ -19089,8 +19089,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764153600
     }
   },
   {
