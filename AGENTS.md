@@ -38,6 +38,11 @@ Run both worker and validator back-to-back on the same batch. No handoff, no wai
    → then mark done, advance cursor, commit
 ```
 
+**When the cursor hits the end of a file:** the file is complete.
+- → Forward: switch to next file (e.g., b.json), cursor = 0. New batch = `F-b-0001`.
+- ← Backward: switch to previous file (e.g., u.json), cursor = last index. New batch = `B-u-0001`.
+- Never start the next file until every entry in the current file is done.
+
 The full workflow — translate, audit, commit — should complete a 25-entry batch in ~45 minutes.
 
 ---
@@ -73,11 +78,15 @@ Your job: fill every field, verify everything, and stamp your work. You own the 
    - Follow the cursor in PROGRESS.md to find `file` and `index`
    - The batch is the next 25 entries from that cursor position
    - Batch ID format: `F-{file_letter}-{batch_number:04d}` (e.g., `F-a-0001` for a.json batch 1)
-3. Update PROGRESS.md:
+3. **When the current file is complete** (cursor reaches the end):
+   - → Forward: move to the next file alphabetically (a → b → c → ...), start at index 0
+   - ← Backward: move to the previous file (z → y → x → ...), start at the last index
+   - Update PROGRESS.md: change current file, reset cursor, update file progress row
+4. Update PROGRESS.md:
    - Set batch status to `🟡 working`
    - Record your provider name and start timestamp
-4. Process all 25 entries one by one
-5. When done, mark batch `🟠 awaiting validation` in PROGRESS.md
+5. Process all 25 entries one by one
+6. When done, mark batch `🟠 awaiting validation` in PROGRESS.md
 
 ### Per-Word Workflow (strict sequential order)
 
@@ -149,6 +158,7 @@ For **each** entry, in this exact order:
 | ❌ NEVER reuse same Chinese translation across senses | Each sense must be distinct |
 | ❌ NEVER update File Progress for files you didn't touch | Only current file's row |
 | ❌ NEVER process multiple batches without updating PROGRESS.md | Update after EACH batch |
+| ❌ NEVER process the next file until the current file is 100% complete | Finish what you started |
 | ✅ ALWAYS set `metadata.provider` = your model name | Traces who did the work |
 | ✅ ALWAYS set `metadata.updatedAt` = Unix timestamp | When it was completed |
 | ✅ ALWAYS update PROGRESS.md after each batch is done | Resume-safe |

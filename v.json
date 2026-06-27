@@ -19192,13 +19192,13 @@
           {
             "id": "verdigris-noun-1",
             "definition": "a green patina that forms on copper or brass or bronze that has been exposed to the air or water for long periods of time",
-            "translation": "",
+            "translation": "铜绿",
             "examples": []
           },
           {
             "id": "verdigris-noun-2",
             "definition": "a blue or green powder used as a paint pigment",
-            "translation": "",
+            "translation": "铜绿颜料",
             "examples": []
           }
         ]
@@ -19217,18 +19217,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verdin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrdɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːdɪn"
       }
     },
     "forms": {},
@@ -19241,7 +19241,7 @@
           {
             "id": "verdin-noun-1",
             "definition": "very small yellow-headed titmouse of western North America",
-            "translation": "",
+            "translation": "黄头山雀；产于北美洲西部的非常小巧的黄头雀科鸟类",
             "examples": []
           }
         ]
@@ -19249,18 +19249,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
     "word": "verdolagas",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrdoʊˈlɑːɡəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːdəʊˈlɑːɡəs"
       }
     },
     "forms": {},
@@ -19273,7 +19273,7 @@
           {
             "id": "verdolagas-noun-1",
             "definition": "a weedy trailing mat-forming herb with bright yellow flowers cultivated for its edible mildly acidic leaves, eaten raw or cooked, especially in Indian, Greek and Middle Eastern cuisine",
-            "translation": "",
+            "translation": "马齿苋；一种蔓生匍匐的杂草状草本植物，开亮黄色花朵，因其可食用的微酸味叶片而被栽培，生食或熟食皆可，尤其常见于印度、希腊和中东料理",
             "examples": []
           }
         ]
@@ -19281,8 +19281,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
@@ -19308,13 +19308,13 @@
           {
             "id": "verdure-noun-1",
             "definition": "the lush appearance of flourishing vegetation",
-            "translation": "",
+            "translation": "青翠；繁茂植被的郁郁葱葱之貌",
             "examples": []
           },
           {
             "id": "verdure-noun-2",
             "definition": "green foliage",
-            "translation": "",
+            "translation": "青枝绿叶；葱翠的树叶",
             "examples": []
           }
         ]
@@ -19322,8 +19322,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
@@ -19365,7 +19365,7 @@
           {
             "id": "verge-noun-2",
             "definition": "the limit beyond which something happens or changes",
-            "translation": "",
+            "translation": "边缘；某事发生或变化的临界点",
             "examples": [
               {
                 "text": "on the verge of tears",
@@ -19376,13 +19376,13 @@
           {
             "id": "verge-noun-3",
             "definition": "a ceremonial or emblematic staff",
-            "translation": "",
+            "translation": "（象征权威或身份的）权杖；礼仪杖",
             "examples": []
           },
           {
             "id": "verge-noun-4",
             "definition": "a region marking a boundary",
-            "translation": "",
+            "translation": "标示边界的区域",
             "examples": []
           }
         ]
@@ -19402,27 +19402,27 @@
     "phrases": [
       {
         "text": "verge on",
-        "translation": ""
+        "translation": "接近；濒临"
       },
       {
         "text": "verge on a total loss",
-        "translation": ""
+        "translation": "濒临全部损失"
       },
       {
         "text": "verge on sth",
-        "translation": ""
+        "translation": "接近某事；濒临某事"
       },
       {
         "text": "verge to",
-        "translation": ""
+        "translation": "倾向于"
       },
       {
         "text": "verge upon",
-        "translation": ""
+        "translation": "接近；濒临"
       },
       {
         "text": "verge upon sth",
-        "translation": ""
+        "translation": "接近某事；濒临某事"
       }
     ],
     "metadata": {
@@ -19434,10 +19434,10 @@
     "word": "verger",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrdʒər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːdʒə"
       }
     },
     "forms": {},
@@ -19450,7 +19450,7 @@
           {
             "id": "verger-noun-1",
             "definition": "a church officer who takes care of the interior of the building, acts as an attendant, and carries the verge during ceremonies",
-            "translation": "",
+            "translation": "教堂司事；负责教堂内部管理、充当侍从并在仪式中持权杖的教会职员",
             "examples": [
               {
                 "text": "I volunteered to be the verger for a year and led an interior renovation project.",
@@ -19463,8 +19463,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
@@ -19487,7 +19487,7 @@
           {
             "id": "veridical-adjective-1",
             "definition": "coinciding with reality",
-            "translation": "",
+            "translation": "真实的；与现实相符的",
             "examples": [
               {
                 "text": "Perceptual error has a surprising resemblance to veridical perception.",
@@ -19500,8 +19500,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
@@ -19563,7 +19563,7 @@
           {
             "id": "verification-noun-1",
             "definition": "additional proof that something that was believed is correct",
-            "translation": "",
+            "translation": "证实；进一步证明某事正确无误的证据",
             "examples": [
               {
                 "text": "We need verification of your age before we can sell you alcohol.",
@@ -19574,7 +19574,7 @@
           {
             "id": "verification-noun-2",
             "definition": "an affidavit attached to a statement confirming the truth of that statement",
-            "translation": "",
+            "translation": "附在陈述书上的宣誓书，用于确认该陈述的真实性",
             "examples": [
               {
                 "text": "The judge asked for a verification for the witness's testimony.",
@@ -19588,42 +19588,42 @@
     "phrases": [
       {
         "text": "verification by",
-        "translation": ""
+        "translation": "由……进行验证"
       },
       {
         "text": "verification by challenge",
-        "translation": ""
+        "translation": "通过质疑进行验证"
       },
       {
         "text": "verification by consent",
-        "translation": ""
+        "translation": "通过同意进行验证"
       },
       {
         "text": "verification by sampling",
-        "translation": ""
+        "translation": "通过抽样进行验证"
       },
       {
         "text": "verification by test and scrutiny",
-        "translation": ""
+        "translation": "通过测试和审查进行验证"
       },
       {
         "text": "verification by tests and scrutiny",
-        "translation": ""
+        "translation": "通过测试与审查进行验证"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764067200
     }
   },
   {
     "word": "verificatory",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈrɪfɪkətɔri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈrɪfɪkətəri"
       }
     },
     "forms": {},
@@ -19636,7 +19636,7 @@
           {
             "id": "verificatory-adjective-1",
             "definition": "serving to support or corroborate",
-            "translation": "",
+            "translation": "证实的；起核实作用的",
             "examples": [
               {
                 "text": "I have verificatory evidence that supports my clients alibi.",
@@ -19649,8 +19649,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -19675,7 +19675,7 @@
           {
             "id": "verified-adjective-1",
             "definition": "proved to be true",
-            "translation": "",
+            "translation": "已证实的；已核实的",
             "examples": [
               {
                 "text": "A verified claim must be proven with evidence, not promises.",
@@ -19689,26 +19689,26 @@
     "phrases": [
       {
         "text": "verified by",
-        "translation": ""
+        "translation": "经…验证"
       },
       {
         "text": "verified by oath",
-        "translation": ""
+        "translation": "经宣誓核实"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verifier",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪfaɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪfaɪə"
       }
     },
     "forms": {},
@@ -19723,7 +19723,7 @@
           {
             "id": "verifier-noun-1",
             "definition": "someone who vouches for another or for the correctness of a statement",
-            "translation": "",
+            "translation": "证明人；核实者；担保人",
             "examples": []
           }
         ]
@@ -19731,8 +19731,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -19817,10 +19817,10 @@
     "word": "verifying",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪfaɪɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪfaɪɪŋ"
       }
     },
     "forms": {},
@@ -19856,10 +19856,10 @@
     "word": "verily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛrɪli"
       }
     },
     "forms": {},
@@ -19872,7 +19872,7 @@
           {
             "id": "verily-adverb-1",
             "definition": "in truth, or truthfully",
-            "translation": "",
+            "translation": "真实地；确实地；诚然地",
             "examples": [
               {
                 "text": "I verily tell you the whole answer.",
@@ -19885,8 +19885,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -19911,7 +19911,7 @@
           {
             "id": "verisimilar-adjective-1",
             "definition": "appearing to be true or real",
-            "translation": "",
+            "translation": "逼真的；貌似真实的",
             "examples": [
               {
                 "text": "It was a truly verisimilar tale.",
@@ -19924,8 +19924,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -19948,7 +19948,7 @@
           {
             "id": "verisimilitude-noun-1",
             "definition": "the appearance of truth or resemblance to reality ",
-            "translation": "",
+            "translation": "逼真；貌似真实",
             "examples": [
               {
                 "text": "The author's attention to detail lends the story verisimilitude.",
@@ -19961,8 +19961,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -19990,7 +19990,7 @@
           {
             "id": "veritable-adjective-1",
             "definition": "used as an intensifier",
-            "translation": "",
+            "translation": "十足的；名副其实的（用作语气加强词）",
             "examples": [
               {
                 "text": "Your idea is a veritable gold mine.",
@@ -20014,8 +20014,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20038,7 +20038,7 @@
           {
             "id": "verity-noun-1",
             "definition": "an enduring or necessary ethical or religious or aesthetic truth",
-            "translation": "",
+            "translation": "永恒的真理；基本的真理",
             "examples": [
               {
                 "text": "There are few verities that cross all cultural boundaries.",
@@ -20049,7 +20049,7 @@
           {
             "id": "verity-noun-2",
             "definition": "conformity to reality or actuality",
-            "translation": "",
+            "translation": "真实性；确实",
             "examples": [
               {
                 "text": "After we had the coin checked by a numismatist, we were convinced of the rare coin's verity.",
@@ -20062,18 +20062,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermicelli",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɜːrməˈtʃɛli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɜːmɪˈtʃɛli"
       }
     },
     "forms": {},
@@ -20086,7 +20086,7 @@
           {
             "id": "vermicelli-noun-1",
             "definition": "pasta in strings thinner than spaghetti",
-            "translation": "",
+            "translation": "细面（比意大利细面条更细的线状意大利面）",
             "examples": [
               {
                 "text": "Vermincelli cooks faster than spaghetti.",
@@ -20099,8 +20099,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20123,7 +20123,7 @@
           {
             "id": "vermicide-noun-1",
             "definition": "an agent that kills worms, especially those in the intestines",
-            "translation": "",
+            "translation": "杀虫剂；（尤指）杀肠虫剂",
             "examples": [
               {
                 "text": "My dog needed a vermicide after it got worms.",
@@ -20136,18 +20136,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermicular",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈmɪkjələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈmɪkjʊlə"
       }
     },
     "forms": {},
@@ -20160,7 +20160,7 @@
           {
             "id": "vermicular-adjective-1",
             "definition": "decorated with wormlike tracery or markings",
-            "translation": "",
+            "translation": "有蠕虫状花纹的；蠕虫状的",
             "examples": [
               {
                 "text": "vermicular (or vermiculated) stonework",
@@ -20173,18 +20173,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermiculate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈmɪkjələt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈmɪkjʊlət"
       }
     },
     "forms": {
@@ -20201,7 +20201,7 @@
           {
             "id": "vermiculate-adjective-1",
             "definition": "decorated with wormlike tracery or markings",
-            "translation": "",
+            "translation": "有蠕虫状花纹装饰的",
             "examples": [
               {
                 "text": "The vermiculate stone looks great in my backyard.",
@@ -20212,7 +20212,7 @@
           {
             "id": "vermiculate-adjective-2",
             "definition": "eaten by worms, or looking like it",
-            "translation": "",
+            "translation": "虫蛀的；似被虫蛀的",
             "examples": [
               {
                 "text": "The poor dog was vermiculate.",
@@ -20241,18 +20241,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermiculated",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈmɪkjəleɪtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈmɪkjʊleɪtɪd"
       }
     },
     "forms": {},
@@ -20265,7 +20265,7 @@
           {
             "id": "vermiculated-adjective-1",
             "definition": "decorated with wormlike tracery or markings",
-            "translation": "",
+            "translation": "有蠕虫状花纹装饰的",
             "examples": [
               {
                 "text": "The vermiculated stonework wrapped the doorway.",
@@ -20278,18 +20278,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermiculation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˌmɪkjuˈleɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˌmɪkjʊˈleɪʃən"
       }
     },
     "forms": {},
@@ -20304,13 +20304,13 @@
           {
             "id": "vermiculation-noun-1",
             "definition": "a decoration consisting of wormlike carvings",
-            "translation": "",
+            "translation": "蠕虫状雕刻装饰",
             "examples": []
           },
           {
             "id": "vermiculation-noun-2",
             "definition": "the process of wavelike muscle contractions of the alimentary tract that moves food along",
-            "translation": "",
+            "translation": "蠕动（消化道平滑肌的波状收缩以推动食物前进）",
             "examples": []
           }
         ]
@@ -20318,18 +20318,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermiculite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrˈmɪkjəlaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːˈmɪkjʊlaɪt"
       }
     },
     "forms": {},
@@ -20342,7 +20342,7 @@
           {
             "id": "vermiculite-noun-1",
             "definition": "any of a group of yellow or brown hydrous silicate minerals having a micaceous structure",
-            "translation": "",
+            "translation": "蛭石",
             "examples": []
           }
         ]
@@ -20350,18 +20350,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "vermiform",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜrmɪfɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːmɪfɔːm"
       }
     },
     "forms": {},
@@ -20374,7 +20374,7 @@
           {
             "id": "vermiform-adjective-1",
             "definition": "resembling a worm",
-            "translation": "",
+            "translation": "蠕虫状的",
             "examples": []
           }
         ]
@@ -20382,18 +20382,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermifuge",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜrmɪfjuːdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːmɪfjuːdʒ"
       }
     },
     "forms": {},
@@ -20408,7 +20408,7 @@
           {
             "id": "vermifuge-noun-1",
             "definition": "a medication capable of causing the evacuation of parasitic intestinal worms",
-            "translation": "",
+            "translation": "驱虫剂",
             "examples": []
           }
         ]
@@ -20416,8 +20416,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20442,13 +20442,13 @@
           {
             "id": "vermin-noun-1",
             "definition": "any of various small animals or insects that are pests",
-            "translation": "",
+            "translation": "害虫",
             "examples": []
           },
           {
             "id": "vermin-noun-2",
             "definition": "an irritating or obnoxious person",
-            "translation": "",
+            "translation": "害人虫",
             "examples": []
           }
         ]
@@ -20456,18 +20456,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verminous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜrmɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːmɪnəs"
       }
     },
     "forms": {},
@@ -20501,10 +20501,10 @@
     "word": "vermis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜrmɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːmɪs"
       }
     },
     "forms": {},
@@ -20517,7 +20517,7 @@
           {
             "id": "vermis-noun-1",
             "definition": "the narrow central part of the cerebellum between the two hemispheres",
-            "translation": "",
+            "translation": "蚓部",
             "examples": []
           }
         ]
@@ -20525,18 +20525,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vermouth",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜrˈmuːθ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːməθ"
       }
     },
     "forms": {},
@@ -20549,7 +20549,7 @@
           {
             "id": "vermouth-noun-1",
             "definition": "any of several white wines flavored with aromatic herbs",
-            "translation": "",
+            "translation": "苦艾酒",
             "examples": [
               {
                 "text": "A traditional martini requires vermouth.",
@@ -20562,8 +20562,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20596,7 +20596,7 @@
           {
             "id": "vernacular-adjective-1",
             "definition": "being or characteristic of or appropriate to everyday language",
-            "translation": "",
+            "translation": "白话的",
             "examples": []
           }
         ]
@@ -20621,8 +20621,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20658,7 +20658,7 @@
           {
             "id": "vernal-adjective-2",
             "definition": "suggestive of youth",
-            "translation": "",
+            "translation": "青春的",
             "examples": [
               {
                 "text": "The vernal hours of life pose many difficulties.",
@@ -20679,10 +20679,10 @@
     "word": "vernation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vərˈneɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈneɪʃən"
       }
     },
     "forms": {},
@@ -20695,7 +20695,7 @@
           {
             "id": "vernation-noun-1",
             "definition": "in botany, the arrangement of young leaves in a leaf bud before it opens",
-            "translation": "",
+            "translation": "多叶卷叠式；叶芽内幼叶的排列（植物学用语）",
             "examples": [
               {
                 "text": "This plant has noteworthy vernation.",
@@ -20708,8 +20708,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20732,7 +20732,7 @@
           {
             "id": "vernier-noun-1",
             "definition": "a small measuring device with a movable scale that slides along a main scale, used for precision length measurements in science and engineering",
-            "translation": "",
+            "translation": "游标；游标尺；游标量具（用于精密测量长度的小型测量装置）",
             "examples": [
               {
                 "text": "I measured the size of the bolt with our vernier scale and figured out what bin it should go in.",
@@ -20745,18 +20745,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vernix",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜrnɪks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːnɪks"
       }
     },
     "forms": {},
@@ -20769,7 +20769,7 @@
           {
             "id": "vernix-noun-1",
             "definition": "a white cheeselike protective material that covers the skin of a fetus",
-            "translation": "",
+            "translation": "胎脂（覆盖在胎儿皮肤上的白色干酪状保护物）",
             "examples": []
           }
         ]
@@ -20777,18 +20777,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "veronal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrəˌnæl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛrənæl"
       }
     },
     "forms": {},
@@ -20803,7 +20803,7 @@
           {
             "id": "veronal-noun-1",
             "definition": "a barbiturate used as a hypnotic",
-            "translation": "",
+            "translation": "佛罗那；巴比妥（一种用作安眠药的巴比妥酸盐）",
             "examples": []
           }
         ]
@@ -20811,18 +20811,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "veronica",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈrɑnɪkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈrɒnɪkə"
       }
     },
     "forms": {},
@@ -20837,7 +20837,7 @@
           {
             "id": "veronica-noun-1",
             "definition": "any plant of the genus Veronica",
-            "translation": "",
+            "translation": "婆婆纳属植物；婆婆纳",
             "examples": []
           }
         ]
@@ -20845,18 +20845,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verruca",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈrukə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈruːkə"
       }
     },
     "forms": {},
@@ -20871,7 +20871,7 @@
           {
             "id": "verruca-noun-1",
             "definition": "a firm abnormal elevated blemish on the skin",
-            "translation": "",
+            "translation": "疣；瘊子；（尤指足底的）病毒性疣",
             "examples": []
           }
         ]
@@ -20879,18 +20879,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "verrucose",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛrəˌkoʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛrəkəʊs"
       }
     },
     "forms": {},
@@ -20906,7 +20906,7 @@
           {
             "id": "verrucose-adjective-1",
             "definition": "(of skin) covered with warts or projections that resemble warts",
-            "translation": "",
+            "translation": "（皮肤）长疣的；疣状的；有疣状突起的",
             "examples": []
           }
         ]
@@ -20914,8 +20914,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20940,7 +20940,7 @@
           {
             "id": "versant-noun-1",
             "definition": "the side or slope of a mountain",
-            "translation": "",
+            "translation": "山坡；山地的侧面",
             "examples": [
               {
                 "text": "Conifer forests cover the eastern versant.",
@@ -20953,8 +20953,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -20985,7 +20985,7 @@
           {
             "id": "versatile-adjective-1",
             "definition": "able to move freely in all directions",
-            "translation": "",
+            "translation": "可向各个方向自由活动的；通用的",
             "examples": [
               {
                 "text": "an owl's versatile toe can move backward and forward",
@@ -20996,7 +20996,7 @@
           {
             "id": "versatile-adjective-2",
             "definition": "competent in many areas and able to turn with ease from one thing to another",
-            "translation": "",
+            "translation": "多才多艺的；多面手的",
             "examples": [
               {
                 "text": "a versatile writer",
@@ -21007,7 +21007,7 @@
           {
             "id": "versatile-adjective-3",
             "definition": "changeable or inconstant",
-            "translation": "",
+            "translation": "反复无常的；易变的",
             "examples": [
               {
                 "text": "versatile moods",
@@ -21018,7 +21018,7 @@
           {
             "id": "versatile-adjective-4",
             "definition": "having great diversity or variety",
-            "translation": "",
+            "translation": "多样的；多功能的",
             "examples": []
           }
         ]
@@ -21026,8 +21026,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -21050,7 +21050,7 @@
           {
             "id": "versatility-noun-1",
             "definition": "having a wide variety of skills",
-            "translation": "",
+            "translation": "多才多艺；多面性；多用途",
             "examples": [
               {
                 "text": "We chose the job candidate for their versatility.",
@@ -21063,8 +21063,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -21103,19 +21103,19 @@
           {
             "id": "verse-noun-1",
             "definition": "a piece of poetry",
-            "translation": "",
+            "translation": "诗节；诗的一段",
             "examples": []
           },
           {
             "id": "verse-noun-2",
             "definition": "a line of metrical text",
-            "translation": "",
+            "translation": "诗句；诗的一行",
             "examples": []
           },
           {
             "id": "verse-noun-3",
             "definition": "literature in metrical form",
-            "translation": "",
+            "translation": "诗（体）文学；韵文",
             "examples": []
           }
         ]
@@ -21171,7 +21171,7 @@
           {
             "id": "versed-adjective-1",
             "definition": "thoroughly acquainted through study or experience",
-            "translation": "",
+            "translation": "精通的；熟练的；通晓的",
             "examples": [
               {
                 "text": "I am versed in the dark arts.",
@@ -21185,22 +21185,22 @@
     "phrases": [
       {
         "text": "versed in",
-        "translation": ""
+        "translation": "精通于；通晓；熟谙"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "versicle",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrsɪkl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːsɪkl"
       }
     },
     "forms": {},
@@ -21213,7 +21213,7 @@
           {
             "id": "versicle-noun-1",
             "definition": "a short verse said or sung by a priest or minister in public worship and followed by a response from the congregation",
-            "translation": "",
+            "translation": "短诗；（礼拜中牧师领诵、会众应答的）启应句",
             "examples": []
           }
         ]
@@ -21221,18 +21221,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "versification",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɜːrsɪfɪˈkeɪʃn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɜːsɪfɪˈkeɪʃn"
       }
     },
     "forms": {},
@@ -21245,7 +21245,7 @@
           {
             "id": "versification-noun-1",
             "definition": "the art or practice of writing verse",
-            "translation": "",
+            "translation": "作诗（法）；诗律学",
             "examples": [
               {
                 "text": "The young poet practiced their versification day and night.",
@@ -21256,7 +21256,7 @@
           {
             "id": "versification-noun-2",
             "definition": "the form or metrical composition of a poem",
-            "translation": "",
+            "translation": "诗的格律形式；韵律结构",
             "examples": [
               {
                 "text": "The student wrote a paper on the structure and versification of Shakespeare's sonnets.",
@@ -21267,7 +21267,7 @@
           {
             "id": "versification-noun-3",
             "definition": "a metrical adaptation of something, e.g., of a prose text",
-            "translation": "",
+            "translation": "（散文等的）韵文化；改写成诗",
             "examples": [
               {
                 "text": "I'm working on a versification of War and Peace in my spare time.",
@@ -21280,18 +21280,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "versifier",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrsɪfaɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːsɪfaɪə"
       }
     },
     "forms": {},
@@ -21306,7 +21306,7 @@
           {
             "id": "versifier-noun-1",
             "definition": "a writer who composes rhymes",
-            "translation": "",
+            "translation": "诗人；作诗者；打油诗人",
             "examples": [
               {
                 "text": "I hired a versifier to honor the award recipient.",
@@ -21319,18 +21319,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "versify",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrsɪfaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːsɪfaɪ"
       }
     },
     "forms": {
@@ -21349,7 +21349,7 @@
           {
             "id": "versify-verb-1",
             "definition": "to compose verses or put into verse",
-            "translation": "",
+            "translation": "作诗；将…改写成诗",
             "examples": []
           }
         ]
@@ -21357,8 +21357,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -21452,7 +21452,7 @@
     "phrases": [
       {
         "text": "version up",
-        "translation": ""
+        "translation": "升级"
       }
     ],
     "metadata": {
@@ -21464,10 +21464,10 @@
     "word": "verso",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrsoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːsəʊ"
       }
     },
     "forms": {},
@@ -21482,7 +21482,7 @@
           {
             "id": "verso-noun-1",
             "definition": "the side of a coin or medal that does not bear the principal design",
-            "translation": "",
+            "translation": "（硬币或奖章的）背面，反面",
             "examples": []
           },
           {
@@ -21504,10 +21504,10 @@
     "word": "verst",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːst"
       }
     },
     "forms": {},
@@ -21520,7 +21520,7 @@
           {
             "id": "verst-noun-1",
             "definition": "a Russian unit of length equivalent to 1.067 km",
-            "translation": "",
+            "translation": "俄里（俄国长度单位，约合1.067公里）",
             "examples": []
           }
         ]
@@ -21528,8 +21528,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -21552,7 +21552,7 @@
           {
             "id": "vertebra-noun-1",
             "definition": "one of the bony segments of the spinal column",
-            "translation": "",
+            "translation": "椎骨；脊椎骨",
             "examples": []
           }
         ]
@@ -21560,8 +21560,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -21620,7 +21620,7 @@
           {
             "id": "vertebrate-adjective-1",
             "definition": "having a backbone or spinal column",
-            "translation": "",
+            "translation": "有脊柱的；有脊椎的",
             "examples": [
               {
                 "text": "Is this a vertebrate animal?",
@@ -21649,8 +21649,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -21675,7 +21675,7 @@
           {
             "id": "vertex-noun-1",
             "definition": "the point of intersection of lines or the point opposite the base of a figure",
-            "translation": "",
+            "translation": "顶点；尖顶；（三角形等的）角的顶点",
             "examples": [
               {
                 "text": "If one vertex of a triangle forms a 90 degree angle, it is called a right triangle.",
@@ -21686,7 +21686,7 @@
           {
             "id": "vertex-noun-2",
             "definition": "the highest point of something",
-            "translation": "",
+            "translation": "最高点；顶点；顶峰",
             "examples": [
               {
                 "text": "We could see the entire valley from the mountain's vertex.",
@@ -21700,12 +21700,12 @@
     "phrases": [
       {
         "text": "vertex in a graph",
-        "translation": ""
+        "translation": "图中的顶点"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -21794,7 +21794,7 @@
     "phrases": [
       {
         "text": "vertical down welding",
-        "translation": ""
+        "translation": "垂直下行焊"
       },
       {
         "text": "vertical off normal contacts",
@@ -21806,7 +21806,7 @@
       },
       {
         "text": "vertical up welding",
-        "translation": ""
+        "translation": "垂直上行焊"
       }
     ],
     "metadata": {
@@ -21818,10 +21818,10 @@
     "word": "verticality",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrˈtɪkələti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːˈtɪkələti"
       }
     },
     "forms": {},
@@ -21836,7 +21836,7 @@
           {
             "id": "verticality-noun-1",
             "definition": "position at right angles to the horizon",
-            "translation": "",
+            "translation": "垂直；竖直",
             "examples": []
           }
         ]
@@ -21844,8 +21844,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -21889,10 +21889,10 @@
     "word": "verticalness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrtɪkəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːtɪkəlnəs"
       }
     },
     "forms": {},
@@ -21907,7 +21907,7 @@
           {
             "id": "verticalness-noun-1",
             "definition": "position at right angles to the horizon",
-            "translation": "",
+            "translation": "垂直",
             "examples": []
           }
         ]
@@ -21915,18 +21915,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "verticil",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrtɪsɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːtɪsɪl"
       }
     },
     "forms": {},
@@ -21939,7 +21939,7 @@
           {
             "id": "verticil-noun-1",
             "definition": "a whorl of leaves growing around a stem",
-            "translation": "",
+            "translation": "轮生体",
             "examples": []
           }
         ]
@@ -21947,18 +21947,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "verticillate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrtɪsɪlət"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːtɪsɪlət"
       }
     },
     "forms": {},
@@ -21973,7 +21973,7 @@
           {
             "id": "verticillate-adjective-1",
             "definition": "forming one or more whorls (especially a whorl of leaves around a stem)",
-            "translation": "",
+            "translation": "轮生的",
             "examples": []
           }
         ]
@@ -21981,18 +21981,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "verticillated",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɜːrtɪˈsɪleɪtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɜːtɪˈsɪleɪtɪd"
       }
     },
     "forms": {},
@@ -22005,7 +22005,7 @@
           {
             "id": "verticillated-adjective-1",
             "definition": "forming one or more whorls, especially a whorl of leaves around a stem",
-            "translation": "",
+            "translation": "轮生的",
             "examples": [
               {
                 "text": "I identified the plant easily from its verticillated leaves.",
@@ -22018,18 +22018,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "verticilliosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɜːrtɪˌsɪliˈoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɜːtɪˌsɪliˈəʊsɪs"
       }
     },
     "forms": {},
@@ -22042,7 +22042,7 @@
           {
             "id": "verticilliosis-noun-1",
             "definition": "a wilt caused by fungi of the genus Verticillium",
-            "translation": "",
+            "translation": "黄萎病",
             "examples": []
           }
         ]
@@ -22050,8 +22050,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -22076,7 +22076,7 @@
           {
             "id": "vertiginous-adjective-1",
             "definition": "having or causing a whirling sensation",
-            "translation": "",
+            "translation": "令人眩晕的",
             "examples": [
               {
                 "text": "This view is vertiginous.",
@@ -22089,8 +22089,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -22118,7 +22118,7 @@
           {
             "id": "vertigo-noun-1",
             "definition": "a reeling sensation accompanied by balance problems",
-            "translation": "",
+            "translation": "眩晕",
             "examples": [
               {
                 "text": "Heights give me vertigo sometimes.",
@@ -22131,18 +22131,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "vertu",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɜːrˈtuː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɜːˈtuː"
       }
     },
     "forms": {},
@@ -22155,13 +22155,13 @@
           {
             "id": "vertu-noun-1",
             "definition": "an artistic quality",
-            "translation": "",
+            "translation": "艺术品之精美品质",
             "examples": []
           },
           {
             "id": "vertu-noun-2",
             "definition": "a love of or taste for fine objects of art",
-            "translation": "",
+            "translation": "对精美艺术品之爱好或鉴赏力",
             "examples": []
           }
         ]
@@ -22169,18 +22169,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vervain",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrveɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːveɪn"
       }
     },
     "forms": {},
@@ -22195,7 +22195,7 @@
           {
             "id": "vervain-noun-1",
             "definition": "any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously colored flowers",
-            "translation": "",
+            "translation": "马鞭草（属植物）",
             "examples": []
           }
         ]
@@ -22203,8 +22203,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -22231,7 +22231,7 @@
           {
             "id": "verve-noun-1",
             "definition": "an energetic style",
-            "translation": "",
+            "translation": "活力；热情；气势",
             "examples": [
               {
                 "text": "The artist has verve.",
@@ -22244,18 +22244,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vervet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɜːrvɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɜːvɪt"
       }
     },
     "forms": {},
@@ -22268,7 +22268,7 @@
           {
             "id": "vervet-noun-1",
             "definition": "South African monkey with black face and hands",
-            "translation": "",
+            "translation": "黑长尾猴（南非猴）",
             "examples": []
           }
         ]
@@ -22276,8 +22276,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -22356,10 +22356,10 @@
     "word": "vesica",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkə"
       }
     },
     "forms": {},
@@ -22374,7 +22374,7 @@
           {
             "id": "vesica-noun-1",
             "definition": "a distensible membranous sac, usually containing liquid or gas",
-            "translation": "",
+            "translation": "囊；泡",
             "examples": []
           }
         ]
@@ -22382,18 +22382,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vesical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkəl"
       }
     },
     "forms": {},
@@ -22422,10 +22422,10 @@
     "word": "vesicant",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkənt"
       }
     },
     "forms": {},
@@ -22438,7 +22438,7 @@
           {
             "id": "vesicant-adjective-1",
             "definition": "causing blisters",
-            "translation": "",
+            "translation": "起疱的；发疱的",
             "examples": [
               {
                 "text": "I made sure to wear gloves when handling the vesicant liquid.",
@@ -22467,18 +22467,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "vesicate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkeɪt"
       }
     },
     "forms": {
@@ -22508,18 +22508,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1774128000
     }
   },
   {
     "word": "vesication",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛsɪˈkeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛsɪˈkeɪʃən"
       }
     },
     "forms": {},
@@ -22532,7 +22532,7 @@
           {
             "id": "vesication-noun-1",
             "definition": "the formation of vesicles in or beneath the skin",
-            "translation": "",
+            "translation": "发疱；水疱形成",
             "examples": [
               {
                 "text": "The disease may cause unsightly vesication if left unchecked.",
@@ -22545,18 +22545,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesicatory",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkəˌtɔri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛsɪkətri"
       }
     },
     "forms": {},
@@ -22569,7 +22569,7 @@
           {
             "id": "vesicatory-adjective-1",
             "definition": "causing blisters",
-            "translation": "",
+            "translation": "起疱的；发疱的",
             "examples": []
           }
         ]
@@ -22588,8 +22588,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
@@ -22614,7 +22614,7 @@
           {
             "id": "vesicle-noun-1",
             "definition": "a small anatomically normal sac or bladderlike structure (especially one containing fluid)",
-            "translation": "",
+            "translation": "囊；泡",
             "examples": []
           }
         ]
@@ -22622,18 +22622,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesicopapule",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛsɪkoʊˈpæpjuːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛsɪkəʊˈpæpjuːl"
       }
     },
     "forms": {},
@@ -22648,7 +22648,7 @@
           {
             "id": "vesicopapule-noun-1",
             "definition": "a papule that changes into a blister",
-            "translation": "",
+            "translation": "水疱性丘疹",
             "examples": []
           }
         ]
@@ -22656,18 +22656,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesicular",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjuələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjuələ"
       }
     },
     "forms": {},
@@ -22696,10 +22696,10 @@
     "word": "vesiculate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjuˌleɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjuˌleɪt"
       }
     },
     "forms": {
@@ -22716,7 +22716,7 @@
           {
             "id": "vesiculate-verb-1",
             "definition": "to cause to become vesicular or full of air cells",
-            "translation": "",
+            "translation": "使成水疱状；使含气",
             "examples": [
               {
                 "text": "The organs vesiculated.",
@@ -22729,18 +22729,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesiculation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˌsɪkjuˈleɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˌsɪkjuˈleɪʃən"
       }
     },
     "forms": {},
@@ -22753,7 +22753,7 @@
           {
             "id": "vesiculation-noun-1",
             "definition": "the formation of vesicles in or beneath the skin",
-            "translation": "",
+            "translation": "（皮肤表面或下方的）水疱形成",
             "examples": []
           }
         ]
@@ -22761,18 +22761,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesiculitis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˌsɪkjuˈlaɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˌsɪkjuˈlaɪtɪs"
       }
     },
     "forms": {},
@@ -22785,7 +22785,7 @@
           {
             "id": "vesiculitis-noun-1",
             "definition": "inflammation of a seminal vesicle, usually in conjunction with prostatitis",
-            "translation": "",
+            "translation": "精囊炎",
             "examples": []
           }
         ]
@@ -22793,18 +22793,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "vesiculovirus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjəloʊˌvaɪrəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vəˈsɪkjʊləʊˌvaɪərəs"
       }
     },
     "forms": {},
@@ -22817,7 +22817,7 @@
           {
             "id": "vesiculovirus-noun-1",
             "definition": "an animal virus that causes vesicular stomatitis",
-            "translation": "",
+            "translation": "水泡性口炎病毒；皰疹病毒",
             "examples": []
           }
         ]
@@ -22825,18 +22825,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "vesper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛspər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛspə"
       }
     },
     "forms": {},
@@ -22849,7 +22849,7 @@
           {
             "id": "vesper-noun-1",
             "definition": "a late afternoon or evening worship service",
-            "translation": "",
+            "translation": "晚祷仪式；傍晚礼拜",
             "examples": []
           }
         ]
@@ -22857,18 +22857,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "vespers",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛspərz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛspəz"
       }
     },
     "forms": {},
@@ -22883,7 +22883,7 @@
           {
             "id": "vespers-noun-1",
             "definition": "the sixth of the seven canonical hours of the divine office",
-            "translation": "",
+            "translation": "晚祷（一天中第七个时辰的祈祷）",
             "examples": []
           }
         ]
@@ -22891,18 +22891,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "vespertilionid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛspərˈtɪliənɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛspəˈtɪlɪənɪd"
       }
     },
     "forms": {},
@@ -22915,7 +22915,7 @@
           {
             "id": "vespertilionid-noun-1",
             "definition": "a variety of carnivorous bat",
-            "translation": "",
+            "translation": "蝙蝠科动物；食肉性蝙蝠",
             "examples": []
           }
         ]
@@ -22923,18 +22923,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
     "word": "vespid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛspɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛspɪd"
       }
     },
     "forms": {},
@@ -22947,7 +22947,7 @@
           {
             "id": "vespid-noun-1",
             "definition": "mostly social nest-building wasps",
-            "translation": "",
+            "translation": "胡蜂；社会性筑巢黄蜂",
             "examples": []
           }
         ]
@@ -22955,8 +22955,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763251200
     }
   },
   {
@@ -23009,27 +23009,27 @@
     "phrases": [
       {
         "text": "vessel at anchor",
-        "translation": ""
+        "translation": "锚泊中的船舶"
       },
       {
         "text": "vessel in distress",
-        "translation": ""
+        "translation": "遇险船舶"
       },
       {
         "text": "vessel in sight of one another",
-        "translation": ""
+        "translation": "相互在望的船舶"
       },
       {
         "text": "vessel to leeward",
-        "translation": ""
+        "translation": "下风船"
       },
       {
         "text": "vessel to windward",
-        "translation": ""
+        "translation": "上风船"
       },
       {
         "text": "vessel with freeboard",
-        "translation": ""
+        "translation": "有干舷的船"
       }
     ],
     "metadata": {
@@ -23136,11 +23136,11 @@
     "phrases": [
       {
         "text": "vest in",
-        "translation": ""
+        "translation": "授予；赋予（权力、权利等）"
       },
       {
         "text": "vest with",
-        "translation": ""
+        "translation": "赋予；授予（某人某种特性或权力）"
       }
     ],
     "metadata": {
@@ -23152,10 +23152,10 @@
     "word": "vestal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstəl"
       }
     },
     "forms": {},
@@ -23168,7 +23168,7 @@
           {
             "id": "vestal-adjective-1",
             "definition": "in a state of sexual virginity",
-            "translation": "",
+            "translation": "贞洁的；处女的",
             "examples": [
               {
                 "text": "The vestal teens had done nothing more than kiss.",
@@ -23232,7 +23232,7 @@
           {
             "id": "vested-adjective-1",
             "definition": "fixed and absolute, without contingency",
-            "translation": "",
+            "translation": "既定的；绝对的；无条件的",
             "examples": [
               {
                 "text": "We consider free speech to be a vested right.",
@@ -23246,26 +23246,26 @@
     "phrases": [
       {
         "text": "vested in interest",
-        "translation": ""
+        "translation": "享有实际利益的"
       },
       {
         "text": "vested in possession",
-        "translation": ""
+        "translation": "享有所有权的"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764451200
     }
   },
   {
     "word": "vestiary",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstiɛri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstiəri"
       }
     },
     "forms": {},
@@ -23299,10 +23299,10 @@
     "word": "vestibular",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛˈstɪbjələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛˈstɪbjələ"
       }
     },
     "forms": {},
@@ -23349,13 +23349,13 @@
           {
             "id": "vestibule-noun-1",
             "definition": "a large entrance or reception room or area",
-            "translation": "",
+            "translation": "前厅；门厅；接待室",
             "examples": []
           },
           {
             "id": "vestibule-noun-2",
             "definition": "any of various bodily cavities leading to another cavity, as of the ear or vagina",
-            "translation": "",
+            "translation": "前庭",
             "examples": []
           }
         ]
@@ -23363,8 +23363,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764451200
     }
   },
   {
@@ -23392,7 +23392,7 @@
           {
             "id": "vestige-noun-1",
             "definition": "an indication that something has been present",
-            "translation": "",
+            "translation": "痕迹；遗迹；残余",
             "examples": [
               {
                 "text": "There are vestiges of war all over Europe.",
@@ -23405,8 +23405,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764451200
     }
   },
   {
@@ -23431,7 +23431,7 @@
           {
             "id": "vestigial-adjective-1",
             "definition": "not fully developed in mature animals",
-            "translation": "",
+            "translation": "退化的；发育不全的",
             "examples": [
               {
                 "text": "The coccyx is part of the vestigial tail in humans.",
@@ -23463,10 +23463,10 @@
     "word": "vestiture",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstɪtʃər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstɪtʃə"
       }
     },
     "forms": {},
@@ -23513,7 +23513,7 @@
           {
             "id": "vestment-noun-1",
             "definition": "a gown worn by the clergy, especially for ceremonial purposes",
-            "translation": "",
+            "translation": "（尤指礼仪场合下神职人员穿的）法衣，祭服",
             "examples": [
               {
                 "text": "The priest put on a vestment for the Easter service.",
@@ -23526,18 +23526,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764451200
     }
   },
   {
     "word": "vestmental",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstməntəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstməntəl"
       }
     },
     "forms": {},
@@ -23566,10 +23566,10 @@
     "word": "vestmented",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstməntɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstməntɪd"
       }
     },
     "forms": {},
@@ -23582,7 +23582,7 @@
           {
             "id": "vestmented-adjective-1",
             "definition": "dressed in ceremonial garments, especially clerical vestment",
-            "translation": "",
+            "translation": "身穿法衣的；着祭服的",
             "examples": [
               {
                 "text": "The vestmented priest gave a sermon on the meaning of Christmas.",
@@ -23595,18 +23595,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vestry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstri"
       }
     },
     "forms": {},
@@ -23621,13 +23621,13 @@
           {
             "id": "vestry-noun-1",
             "definition": "a room in a church where sacred vessels and vestments are kept or meetings are held",
-            "translation": "",
+            "translation": "圣器室；教堂 vestry 室",
             "examples": []
           },
           {
             "id": "vestry-noun-2",
             "definition": "in the Protestant Episcopal Church: a committee elected by the congregation to work with the churchwardens in managing the temporal affairs of the church",
-            "translation": "",
+            "translation": "教区委员会",
             "examples": []
           }
         ]
@@ -23635,18 +23635,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vestryman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstrimən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstrimən"
       }
     },
     "forms": {},
@@ -23659,7 +23659,7 @@
           {
             "id": "vestryman-noun-1",
             "definition": "a man who is a member of a church vestry",
-            "translation": "",
+            "translation": "教区委员会男委员",
             "examples": []
           }
         ]
@@ -23667,18 +23667,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vestrywoman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛstriˌwʊmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛstriˌwʊmən"
       }
     },
     "forms": {},
@@ -23691,7 +23691,7 @@
           {
             "id": "vestrywoman-noun-1",
             "definition": "a woman who is a member of a church vestry",
-            "translation": "",
+            "translation": "教区委员会女委员",
             "examples": []
           }
         ]
@@ -23699,8 +23699,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
@@ -23729,7 +23729,7 @@
           {
             "id": "vesture-noun-1",
             "definition": "a covering designed to be worn on a person's body",
-            "translation": "",
+            "translation": "衣服；衣裳",
             "examples": [
               {
                 "text": "I wore my best vesture to the party.",
@@ -23740,7 +23740,7 @@
           {
             "id": "vesture-noun-2",
             "definition": "something that covers or cloaks like a garment",
-            "translation": "",
+            "translation": "覆盖物；披盖",
             "examples": [
               {
                 "text": "The fields were enshrouded in a vesture of green.",
@@ -23769,18 +23769,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vesuvian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɪˈsuːviən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈsuːviən"
       }
     },
     "forms": {},
@@ -23795,7 +23795,7 @@
           {
             "id": "vesuvian-noun-1",
             "definition": "a green, yellow or brown mineral consisting of a hydrated silicate",
-            "translation": "",
+            "translation": "符山石",
             "examples": []
           }
         ]
@@ -23803,18 +23803,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vesuvianite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɪˈsuːviənaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɪˈsuːviənaɪt"
       }
     },
     "forms": {},
@@ -23830,7 +23830,7 @@
           {
             "id": "vesuvianite-noun-1",
             "definition": "a green or yellow or brown mineral consisting of a hydrated silicate",
-            "translation": "",
+            "translation": "符山石",
             "examples": []
           }
         ]
@@ -23838,8 +23838,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
@@ -23866,7 +23866,7 @@
           {
             "id": "vet-noun-1",
             "definition": "a person who has served in the armed forces",
-            "translation": "",
+            "translation": "退伍军人",
             "examples": [
               {
                 "text": "There was a parade to honor the vets in November.",
@@ -23877,7 +23877,7 @@
           {
             "id": "vet-noun-2",
             "definition": "a doctor who practices veterinary medicine",
-            "translation": "",
+            "translation": "兽医",
             "examples": [
               {
                 "text": "I took my dog to the vet.",
@@ -23939,18 +23939,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764691200
     }
   },
   {
     "word": "vetch",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛtʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛtʃ"
       }
     },
     "forms": {},
@@ -23963,7 +23963,7 @@
           {
             "id": "vetch-noun-1",
             "definition": "any of various climbing plants of the genus Vicia having pinnately compound leaves that terminate in tendrils and small variously colored flowers",
-            "translation": "",
+            "translation": "野豌豆；巢菜（属）",
             "examples": []
           }
         ]
@@ -23971,18 +23971,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764508800
     }
   },
   {
     "word": "vetchworm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛtʃˌwɜrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛtʃˌwɜːm"
       }
     },
     "forms": {},
@@ -23995,7 +23995,7 @@
           {
             "id": "vetchworm-noun-1",
             "definition": "the larva of a noctuid moth",
-            "translation": "",
+            "translation": "夜蛾幼虫",
             "examples": []
           }
         ]
@@ -24003,8 +24003,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764508800
     }
   },
   {
@@ -24113,7 +24113,7 @@
           {
             "id": "veterinarian-noun-1",
             "definition": "a doctor who practices veterinary medicine",
-            "translation": "",
+            "translation": "兽医",
             "examples": []
           }
         ]
@@ -24121,8 +24121,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764508800
     }
   },
   {
@@ -24210,13 +24210,13 @@
           {
             "id": "veto-noun-1",
             "definition": "a vote that blocks a decision",
-            "translation": "",
+            "translation": "否决票",
             "examples": []
           },
           {
             "id": "veto-noun-2",
             "definition": "the power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to reject a bill passed by the legislature)",
-            "translation": "",
+            "translation": "否决权",
             "examples": []
           }
         ]
@@ -24242,7 +24242,7 @@
     "phrases": [
       {
         "text": "veto in detail",
-        "translation": ""
+        "translation": "逐项否决"
       }
     ],
     "metadata": {
@@ -24296,7 +24296,7 @@
           {
             "id": "vex-verb-2",
             "definition": "to subject to prolonged examination, discussion, or deliberation",
-            "translation": "",
+            "translation": "长时间地审视、讨论或审议",
             "examples": [
               {
                 "text": "Vex the subject of the death penalty.",
@@ -24307,13 +24307,13 @@
           {
             "id": "vex-verb-3",
             "definition": "to change the arrangement or position of",
-            "translation": "",
+            "translation": "改变...的排列或位置",
             "examples": []
           },
           {
             "id": "vex-verb-4",
             "definition": "to disturb the peace of mind of",
-            "translation": "",
+            "translation": "使心绪不宁",
             "examples": []
           },
           {
@@ -24327,8 +24327,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764508800
     }
   },
   {
@@ -24364,19 +24364,19 @@
           {
             "id": "vexation-noun-2",
             "definition": "something or someone that causes anxiety",
-            "translation": "",
+            "translation": "令人焦虑的事物或人",
             "examples": []
           },
           {
             "id": "vexation-noun-3",
             "definition": "anger produced by some annoying irritation",
-            "translation": "",
+            "translation": "因烦扰而产生的愤怒",
             "examples": []
           },
           {
             "id": "vexation-noun-4",
             "definition": "the psychological state of being irritated or annoyed",
-            "translation": "",
+            "translation": "烦躁不安的心理状态",
             "examples": []
           }
         ]
@@ -24384,8 +24384,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764508800
     }
   },
   {
@@ -24410,7 +24410,7 @@
           {
             "id": "vexatious-adjective-1",
             "definition": "causing irritation or annoyance",
-            "translation": "",
+            "translation": "令人烦恼的；惹人不快的",
             "examples": [
               {
                 "text": "We need to get rid of that vexatious noise.",
@@ -24423,18 +24423,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
     "word": "vexatiously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "vɛkˈseɪʃəsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "vɛkˈseɪʃəsli"
       }
     },
     "forms": {},
@@ -24447,7 +24447,7 @@
           {
             "id": "vexatiously-adverb-1",
             "definition": "in an annoying or frustrating manner",
-            "translation": "",
+            "translation": "令人烦恼地；使人不快地",
             "examples": [
               {
                 "text": "The incompetent employee had a knack for acting vexatiously.",
@@ -24460,8 +24460,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
@@ -24489,13 +24489,13 @@
           {
             "id": "vexed-adjective-1",
             "definition": "causing difficulty in finding an answer or solution",
-            "translation": "",
+            "translation": "难以解决的；棘手的",
             "examples": []
           },
           {
             "id": "vexed-adjective-2",
             "definition": "troubled persistently especially with petty annoyances",
-            "translation": "",
+            "translation": "烦恼不安的；受困扰的",
             "examples": []
           }
         ]
@@ -24503,18 +24503,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
     "word": "vexer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛksər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvɛksər"
       }
     },
     "forms": {},
@@ -24529,7 +24529,7 @@
           {
             "id": "vexer-noun-1",
             "definition": "someone given to teasing, as by mocking or stirring curiosity",
-            "translation": "",
+            "translation": "好嘲弄他人的人；爱惹人烦的人",
             "examples": []
           }
         ]
@@ -24537,18 +24537,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
     "word": "vexillology",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛksɪˈlɒlədʒi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɛksɪˈlɒlədʒi"
       }
     },
     "forms": {},
@@ -24603,13 +24603,13 @@
           {
             "id": "vexing-adjective-1",
             "definition": "causing irritation or annoyance",
-            "translation": "",
+            "translation": "令人烦恼的；使人焦虑的",
             "examples": []
           },
           {
             "id": "vexing-adjective-2",
             "definition": "extremely annoying or displeasing",
-            "translation": "",
+            "translation": "非常令人不快的；惹人恼火的",
             "examples": []
           }
         ]
@@ -24617,18 +24617,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
     "word": "vhf",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌviː eɪtʃ ˈɛf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌviː eɪtʃ ˈɛf"
       }
     },
     "forms": {},
@@ -24641,7 +24641,7 @@
           {
             "id": "vhf-noun-1",
             "definition": "a designation for radio frequencies from 30 to 300 megahertz or wavelengths of 1 to 10 meters",
-            "translation": "",
+            "translation": "甚高频（30至300兆赫或波长1至10米的无线电频段）",
             "examples": []
           }
         ]
@@ -24649,8 +24649,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
@@ -24676,7 +24676,7 @@
           {
             "id": "viability-noun-1",
             "definition": "capable of normal growth and development",
-            "translation": "",
+            "translation": "可行性；生存能力",
             "examples": [
               {
                 "text": "The viability of the offspring has been affirmed though testing.",
@@ -24687,7 +24687,7 @@
           {
             "id": "viability-noun-2",
             "definition": "capable of being done in a practical and useful way",
-            "translation": "",
+            "translation": "可实行性；实用性",
             "examples": [
               {
                 "text": "The viability of our plan is based on the data we have.",
@@ -24700,8 +24700,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764441600
     }
   },
   {
