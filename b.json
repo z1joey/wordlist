@@ -21848,15 +21848,17 @@
     "word": "barbwire",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbˌwaɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbˌwaɪə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "barbed wire"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21864,7 +21866,7 @@
           {
             "id": "barbwire-noun-1",
             "definition": "strong wire with barbs at regular intervals used to prevent passage",
-            "translation": "",
+            "translation": "有刺铁丝；刺铁丝网",
             "examples": []
           }
         ]
@@ -21872,18 +21874,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barcarole",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrkəroʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːkərəʊl"
       }
     },
     "forms": {},
@@ -21898,7 +21900,7 @@
           {
             "id": "barcarole-noun-1",
             "definition": "a boating song sung by Venetian gondoliers",
-            "translation": "",
+            "translation": "船歌（威尼斯船夫所唱）",
             "examples": []
           }
         ]
@@ -21906,18 +21908,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barcarolle",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrkəroʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːkərəʊl"
       }
     },
     "forms": {},
@@ -21932,7 +21934,7 @@
           {
             "id": "barcarolle-noun-1",
             "definition": "a boating song sung by Venetian gondoliers",
-            "translation": "",
+            "translation": "船歌（威尼斯船夫所唱）",
             "examples": []
           }
         ]
@@ -21940,8 +21942,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -21955,10 +21957,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
+    "tags": [],
+    "synonyms": [
+      "poet",
+      "minstrel"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -21966,13 +21969,13 @@
           {
             "id": "bard-noun-1",
             "definition": "an ornamental caparison for a horse",
-            "translation": "",
+            "translation": "马饰；马衣（装饰性马披）",
             "examples": []
           },
           {
             "id": "bard-noun-2",
             "definition": "a lyric poet",
-            "translation": "",
+            "translation": "吟游诗人",
             "examples": []
           }
         ]
@@ -21980,18 +21983,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barde",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːd"
       }
     },
     "forms": {
@@ -22000,9 +22003,7 @@
       "pastParticiple": "barded"
     },
     "tags": [],
-    "synonyms": [
-      "caparison"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -22010,11 +22011,11 @@
           {
             "id": "barde-verb-1",
             "definition": "to put a caparison on",
-            "translation": "",
+            "translation": "给（马）披挂马衣",
             "examples": [
               {
                 "text": "For the renaissance fair, I barded my horse.",
-                "translation": ""
+                "translation": "为了文艺复兴集市，我给我的马披上了铠甲。"
               }
             ]
           }
@@ -22023,18 +22024,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bardic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrdɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːdɪk"
       }
     },
     "forms": {},
@@ -22047,11 +22048,11 @@
           {
             "id": "bardic-adjective-1",
             "definition": "being a bard or relating to a bard's poetry",
-            "translation": "",
+            "translation": "吟游诗人的；与吟游诗人有关的",
             "examples": [
               {
                 "text": "bardic poetry",
-                "translation": ""
+                "translation": "吟游诗人的诗歌"
               }
             ]
           }
@@ -22060,18 +22061,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bardolatry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈdɑːlətri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈdɒlətri"
       }
     },
     "forms": {},
@@ -22084,7 +22085,7 @@
           {
             "id": "bardolatry-noun-1",
             "definition": "the idolization of William Shakespeare",
-            "translation": "",
+            "translation": "莎士比亚崇拜；对莎士比亚的盲目崇拜",
             "examples": []
           }
         ]
@@ -22092,8 +22093,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -22236,7 +22237,7 @@
             "examples": [
               {
                 "text": "They will bare the facts after the investigation.",
-                "translation": ""
+                "translation": "调查结束后，他们将公布事实。"
               }
             ]
           },
@@ -22257,7 +22258,7 @@
     "phrases": [
       {
         "text": "bare to",
-        "translation": ""
+        "translation": "对…袒露；暴露于"
       }
     ],
     "metadata": {
@@ -22269,16 +22270,16 @@
     "word": "bareback",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌbæk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeəbæk"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barebacked"
+      "unsaddled"
     ],
     "entries": [
       {
@@ -22287,11 +22288,11 @@
           {
             "id": "bareback-adjective-1",
             "definition": "riding a horse without a saddle",
-            "translation": "",
+            "translation": "无鞍骑马的；不用马鞍的",
             "examples": [
               {
                 "text": "It's a specialty to be a bareback horse rider.",
-                "translation": ""
+                "translation": "成为一名无鞍骑手是一门绝技。"
               }
             ]
           }
@@ -22303,11 +22304,11 @@
           {
             "id": "bareback-adverb-1",
             "definition": "without a saddle",
-            "translation": "",
+            "translation": "无鞍地",
             "examples": [
               {
                 "text": "The locals prefer to ride their horses bareback.",
-                "translation": ""
+                "translation": "当地人更喜欢无鞍骑马。"
               }
             ]
           }
@@ -22319,11 +22320,11 @@
           {
             "id": "bareback-verb-1",
             "definition": "to have unprotected sex",
-            "translation": "",
+            "translation": "进行无保护措施的性行为",
             "examples": [
               {
                 "text": "We barebacked last night.",
-                "translation": ""
+                "translation": "我们昨晚无鞍骑了马。"
               }
             ]
           }
@@ -22332,18 +22333,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barebacked",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌbækt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeəbækt"
       }
     },
     "forms": {},
@@ -22358,7 +22359,7 @@
           {
             "id": "barebacked-adjective-1",
             "definition": "riding without a saddle",
-            "translation": "",
+            "translation": "无鞍的；不备鞍骑的",
             "examples": []
           }
         ]
@@ -22369,7 +22370,7 @@
           {
             "id": "barebacked-adverb-1",
             "definition": "without a saddle",
-            "translation": "",
+            "translation": "无鞍地",
             "examples": []
           }
         ]
@@ -22377,18 +22378,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bareboat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌboʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌbəʊt"
       }
     },
     "forms": {},
@@ -22401,7 +22402,7 @@
           {
             "id": "bareboat-noun-1",
             "definition": "a vessel (such as a yacht) that can be chartered without a captain or crew or provisions",
-            "translation": "",
+            "translation": "光船租赁船只",
             "examples": []
           }
         ]
@@ -22409,18 +22410,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bareboating",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌboʊtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌbəʊtɪŋ"
       }
     },
     "forms": {},
@@ -22433,11 +22434,11 @@
           {
             "id": "bareboating-noun-1",
             "definition": "boating by chartering a bareboat and providing your own crew and provisions",
-            "translation": "",
+            "translation": "光船租赁航行",
             "examples": [
               {
                 "text": "we saved money by bareboating",
-                "translation": ""
+                "translation": "我们通过裸船租赁省了钱。"
               }
             ]
           }
@@ -22446,18 +22447,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bared",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɛrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɛəd"
       }
     },
     "forms": {},
@@ -22495,12 +22496,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "audacious",
-      "bald"
+      "shameless",
+      "brazen",
+      "audacious"
     ],
     "entries": [
       {
@@ -22509,17 +22509,17 @@
           {
             "id": "barefaced-adjective-1",
             "definition": "unrestrained by convention or propriety",
-            "translation": "",
+            "translation": "露骨的",
             "examples": []
           },
           {
             "id": "barefaced-adjective-2",
             "definition": "with no effort to conceal",
-            "translation": "",
+            "translation": "公然的",
             "examples": [
               {
                 "text": "a barefaced lie",
-                "translation": ""
+                "translation": "一个厚颜无耻的谎言"
               }
             ]
           }
@@ -22528,18 +22528,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barefacedly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌfeɪsɪdli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌfeɪsɪdli"
       }
     },
     "forms": {},
@@ -22592,7 +22592,7 @@
             "examples": [
               {
                 "text": "the barefoot boy",
-                "translation": ""
+                "translation": "那个赤脚的男孩"
               }
             ]
           }
@@ -22604,11 +22604,11 @@
           {
             "id": "barefoot-adverb-1",
             "definition": "without shoes on",
-            "translation": "",
+            "translation": "赤脚地",
             "examples": [
               {
                 "text": "I chased them barefoot across the meadow.",
-                "translation": ""
+                "translation": "我赤脚追着他们跑过草地。"
               }
             ]
           }
@@ -22625,10 +22625,10 @@
     "word": "barefooted",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌfʊtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌfʊtɪd"
       }
     },
     "forms": {},
@@ -22655,7 +22655,7 @@
           {
             "id": "barefooted-adverb-1",
             "definition": "without shoes on",
-            "translation": "",
+            "translation": "赤脚地",
             "examples": []
           }
         ]
@@ -22671,15 +22671,18 @@
     "word": "barehanded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌhændɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌhændɪd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "unarmed",
+      "unarmed"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -22687,11 +22690,11 @@
           {
             "id": "barehanded-adjective-1",
             "definition": "with bare hands",
-            "translation": "",
+            "translation": "徒手的",
             "examples": [
               {
                 "text": "fought barehanded",
-                "translation": ""
+                "translation": "徒手搏斗"
               }
             ]
           }
@@ -22700,24 +22703,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bareheaded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌhɛdɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌhɛdɪd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bared"
+      "hatless"
     ],
     "entries": [
       {
@@ -22726,11 +22729,11 @@
           {
             "id": "bareheaded-adjective-1",
             "definition": "having the head uncovered",
-            "translation": "",
+            "translation": "光着头的",
             "examples": [
               {
                 "text": "caught bareheaded by the downpour",
-                "translation": ""
+                "translation": "没戴帽子被大雨淋了个正着"
               }
             ]
           }
@@ -22739,23 +22742,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barelegged",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrˌlɛɡd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛəˌlɛɡd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "leggless"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -22763,11 +22768,11 @@
           {
             "id": "barelegged-adjective-1",
             "definition": "having the legs uncovered by clothing",
-            "translation": "",
+            "translation": "光着腿的",
             "examples": [
               {
                 "text": "barelegged children on the beach",
-                "translation": ""
+                "translation": "海滩上光着腿的孩子们"
               }
             ]
           }
@@ -22776,8 +22781,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -22795,15 +22800,13 @@
       "cet4",
       "cet6",
       "ielts",
-      "ky",
-      "toefl"
+      "gk",
+      "zk"
     ],
     "synonyms": [
       "hardly",
-      "just",
-      "scantily",
-      "scarce",
-      "scarcely"
+      "scarcely",
+      "just"
     ],
     "entries": [
       {
@@ -22812,22 +22815,22 @@
           {
             "id": "barely-adverb-1",
             "definition": "only a very short time before",
-            "translation": "",
+            "translation": "刚刚；几乎不",
             "examples": [
               {
                 "text": "they could barely hear the speaker",
-                "translation": ""
+                "translation": "他们几乎听不到演讲者的声音。"
               }
             ]
           },
           {
             "id": "barely-adverb-2",
             "definition": "in a sparse or scanty way",
-            "translation": "",
+            "translation": "稀疏地；贫乏地",
             "examples": [
               {
                 "text": "a barely furnished room",
-                "translation": ""
+                "translation": "一间几乎没什么家具的房间"
               }
             ]
           }
@@ -22836,8 +22839,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -22863,7 +22866,7 @@
           {
             "id": "bareness-noun-1",
             "definition": "an extreme lack of furnishings or ornamentation",
-            "translation": "",
+            "translation": "空荡；无装饰",
             "examples": []
           },
           {
@@ -22875,7 +22878,7 @@
           {
             "id": "bareness-noun-3",
             "definition": "a bleak and desolate atmosphere",
-            "translation": "",
+            "translation": "荒凉；凄凉",
             "examples": []
           }
         ]
@@ -22891,21 +22894,17 @@
     "word": "barf",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːf"
       }
     },
-    "forms": {
-      "gerund": "barfing",
-      "past": "barfed",
-      "pastParticiple": "barfed"
-    },
+    "forms": {},
     "tags": [],
     "synonyms": [
-      "cast",
-      "vomit"
+      "vomit",
+      "puke"
     ],
     "entries": [
       {
@@ -22914,7 +22913,7 @@
           {
             "id": "barf-noun-1",
             "definition": "the matter ejected in vomiting",
-            "translation": "",
+            "translation": "呕吐物",
             "examples": []
           }
         ]
@@ -22925,11 +22924,11 @@
           {
             "id": "barf-verb-1",
             "definition": "to eject the contents of the stomach through the mouth",
-            "translation": "",
+            "translation": "呕吐",
             "examples": [
               {
                 "text": "Don't barf in the car; let me pull over.",
-                "translation": ""
+                "translation": "别在车里吐，让我把车停到路边。"
               }
             ]
           }
@@ -22938,8 +22937,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -23030,43 +23029,43 @@
     "phrases": [
       {
         "text": "bargain about",
-        "translation": ""
+        "translation": "就…讨价还价"
       },
       {
         "text": "bargain away",
-        "translation": ""
+        "translation": "廉价出售；牺牲…以换取"
       },
       {
         "text": "bargain on",
-        "translation": ""
+        "translation": "指望；预期"
       },
       {
         "text": "bargain on spot",
-        "translation": ""
+        "translation": "当场交易"
       },
       {
         "text": "bargain on term",
-        "translation": ""
+        "translation": "按条件交易"
       },
       {
         "text": "bargain on the spot",
-        "translation": ""
+        "translation": "当场交易"
       },
       {
         "text": "bargain out",
-        "translation": ""
+        "translation": "谈判摆脱"
       },
       {
         "text": "bargain over",
-        "translation": ""
+        "translation": "就…讨价还价"
       },
       {
         "text": "bargain over the price",
-        "translation": ""
+        "translation": "就价格讨价还价"
       },
       {
         "text": "bargain with",
-        "translation": ""
+        "translation": "与…讨价还价"
       }
     ],
     "metadata": {
@@ -23078,16 +23077,18 @@
     "word": "bargainer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrɡənər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːɡənə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "dealer"
+      "negotiator",
+      "dealer",
+      "trader"
     ],
     "entries": [
       {
@@ -23096,18 +23097,18 @@
           {
             "id": "bargainer-noun-1",
             "definition": "negotiator of the terms of a transaction",
-            "translation": "",
+            "translation": "谈判者；讨价还价者",
             "examples": [
               {
                 "text": "They are a hard bargainer.",
-                "translation": ""
+                "translation": "他们是厉害的讨价还价者。"
               }
             ]
           },
           {
             "id": "bargainer-noun-2",
             "definition": "someone who purchases and maintains an inventory of goods to be sold",
-            "translation": "",
+            "translation": "进货商；囤货者",
             "examples": []
           }
         ]
@@ -23115,8 +23116,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -23130,8 +23131,14 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "cet6",
+      "ielts"
+    ],
+    "synonyms": [
+      "negotiation",
+      "haggling"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23139,11 +23146,11 @@
           {
             "id": "bargaining-noun-1",
             "definition": "the negotiation of the terms of a transaction or agreement",
-            "translation": "",
+            "translation": "讨价还价；议价；谈判",
             "examples": [
               {
                 "text": "The bargaining lasted at least half an hour, but I saved nearly 1000 dollars due to my negotiation skills.",
-                "translation": ""
+                "translation": "讨价还价持续了至少半个小时，但由于我的谈判技巧，我省下了近1000美元。"
               }
             ]
           }
@@ -23153,12 +23160,12 @@
     "phrases": [
       {
         "text": "bargaining on",
-        "translation": ""
+        "translation": "指望；依赖"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -23171,19 +23178,13 @@
         "ipa": "bɑ:dʒ"
       }
     },
-    "forms": {
-      "past": "barged",
-      "gerund": "barging",
-      "pastParticiple": "barged"
-    },
+    "forms": {},
     "tags": [
       "cet6",
-      "gre",
-      "toefl"
+      "ielts"
     ],
     "synonyms": [
       "flatboat",
-      "hoy",
       "lighter"
     ],
     "entries": [
@@ -23193,11 +23194,11 @@
           {
             "id": "barge-noun-1",
             "definition": "a flatbottom boat for carrying heavy loads, especially on canals",
-            "translation": "",
+            "translation": "驳船；平底货船",
             "examples": [
               {
                 "text": "The barge was loaded down with coal. ",
-                "translation": ""
+                "translation": "驳船装满了煤炭。"
               }
             ]
           }
@@ -23209,22 +23210,22 @@
           {
             "id": "barge-verb-1",
             "definition": "to transport by barge on a body of water",
-            "translation": "",
+            "translation": "用驳船运输",
             "examples": [
               {
                 "text": "The company barged the coal to its destination.",
-                "translation": ""
+                "translation": "公司用驳船把煤炭运到了目的地。"
               }
             ]
           },
           {
             "id": "barge-verb-2",
             "definition": "to push one's way",
-            "translation": "",
+            "translation": "强行闯入；横冲直撞",
             "examples": [
               {
                 "text": "I barged into the meeting room.",
-                "translation": ""
+                "translation": "我闯进了会议室。"
               }
             ]
           }
@@ -23234,64 +23235,65 @@
     "phrases": [
       {
         "text": "barge about",
-        "translation": ""
+        "translation": "闲荡；四处走动"
       },
       {
         "text": "barge against",
-        "translation": ""
+        "translation": "撞上"
       },
       {
         "text": "barge around",
-        "translation": ""
+        "translation": "四处走动；笨拙地移动"
       },
       {
         "text": "barge in",
-        "translation": ""
+        "translation": "闯入；插嘴"
       },
       {
         "text": "barge into",
-        "translation": ""
+        "translation": "闯入；撞上"
       },
       {
         "text": "barge on board ship",
-        "translation": ""
+        "translation": "驳船登上船"
       },
       {
         "text": "barge to barge transfer",
-        "translation": ""
+        "translation": "船到船转运"
       },
       {
         "text": "barge up against",
-        "translation": ""
+        "translation": "撞上；冲撞"
       },
       {
         "text": "barge with deck",
-        "translation": ""
+        "translation": "带甲板的驳船"
       },
       {
         "text": "barge with hinged bottom door",
-        "translation": ""
+        "translation": "带铰链底门的驳船"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bargee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈdʒiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈdʒiː"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "lighterman"
+      "bargeman",
+      "bargeman"
     ],
     "entries": [
       {
@@ -23300,7 +23302,7 @@
           {
             "id": "bargee-noun-1",
             "definition": "someone who operates a barge",
-            "translation": "",
+            "translation": "驳船船员；驳船夫",
             "examples": []
           }
         ]
@@ -23308,18 +23310,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bargello",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈdʒɛloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈdʒɛləʊ"
       }
     },
     "forms": {},
@@ -23332,7 +23334,7 @@
           {
             "id": "bargello-noun-1",
             "definition": "needlepoint embroidery stitch that produces zigzag lines",
-            "translation": "",
+            "translation": "巴杰罗刺绣；锯齿形刺绣针法",
             "examples": []
           }
         ]
@@ -23340,24 +23342,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bargeman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrdʒmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːdʒmən"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "lighterman"
+      "bargee"
     ],
     "entries": [
       {
@@ -23366,11 +23368,11 @@
           {
             "id": "bargeman-noun-1",
             "definition": "someone who operates a barge",
-            "translation": "",
+            "translation": "驳船船员；驳船夫",
             "examples": [
               {
                 "text": "The bargeman signaled to the canal operator to let the barge in.",
-                "translation": ""
+                "translation": "驳船船员向运河操作员发出信号，让驳船进入。"
               }
             ]
           }
@@ -23379,18 +23381,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baric",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærɪk"
       }
     },
     "forms": {},
@@ -23419,20 +23421,15 @@
     "word": "barilla",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɪlə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɪlə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "glasswort",
-      "kali",
-      "kelpwort",
-      "saltwort"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23440,13 +23437,13 @@
           {
             "id": "barilla-noun-1",
             "definition": "Algerian plant formerly burned to obtain calcium carbonate",
-            "translation": "",
+            "translation": "苏打草；西班牙苏打草（曾被焚烧以制取碳酸钙）",
             "examples": []
           },
           {
             "id": "barilla-noun-2",
             "definition": "bushy plant of Old World salt marshes and sea beaches having prickly leaves",
-            "translation": "",
+            "translation": "海滨碱蓬（生长于旧大陆盐沼和海滩的多刺灌木植物）",
             "examples": []
           }
         ]
@@ -23454,18 +23451,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛrɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛrɪŋ"
       }
     },
     "forms": {},
@@ -23496,15 +23493,18 @@
     "word": "barite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛraɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛraɪt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "barytes",
+      "heavy spar"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23512,7 +23512,7 @@
           {
             "id": "barite-noun-1",
             "definition": "a white or colorless mineral (BaSO4)",
-            "translation": "",
+            "translation": "重晶石（一种白色或无色矿物，化学式 BaSO4）",
             "examples": []
           }
         ]
@@ -23520,8 +23520,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -23546,11 +23546,11 @@
           {
             "id": "baritone-adjective-1",
             "definition": "lower in range than tenor and higher than bass",
-            "translation": "",
+            "translation": "男中音的；次中音的",
             "examples": [
               {
                 "text": "a baritone voice",
-                "translation": ""
+                "translation": "男中音的嗓音"
               }
             ]
           }
@@ -23562,13 +23562,13 @@
           {
             "id": "baritone-noun-1",
             "definition": "the second lowest brass wind instrument",
-            "translation": "",
+            "translation": "上低音号（第二低铜管乐器）",
             "examples": []
           },
           {
             "id": "baritone-noun-2",
             "definition": "the second lowest adult male singing voice",
-            "translation": "",
+            "translation": "男中音（成年男性第二低歌唱声部）",
             "examples": []
           },
           {
@@ -23729,27 +23729,27 @@
     "phrases": [
       {
         "text": "bark at",
-        "translation": ""
+        "translation": "朝…吠叫"
       },
       {
         "text": "bark at the moon",
-        "translation": ""
+        "translation": "徒劳地抱怨"
       },
       {
         "text": "bark away",
-        "translation": ""
+        "translation": "吠叫着赶走"
       },
       {
         "text": "bark back",
-        "translation": ""
+        "translation": "回吠"
       },
       {
         "text": "bark out",
-        "translation": ""
+        "translation": "大声喊出"
       },
       {
         "text": "bark up the wrong tree",
-        "translation": ""
+        "translation": "找错对象；搞错目标"
       }
     ],
     "metadata": {
@@ -23761,15 +23761,16 @@
     "word": "barkeep",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.kiːp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.kiːp"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "barkeeper",
       "bartender"
     ],
     "entries": [
@@ -23779,7 +23780,7 @@
           {
             "id": "barkeep-noun-1",
             "definition": "an employee who mixes and serves alcoholic drinks at a bar",
-            "translation": "",
+            "translation": "酒吧招待；酒保",
             "examples": []
           }
         ]
@@ -23787,23 +23788,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barkeeper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.kiː.pər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.kiː.pər"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "barkeep",
       "bartender"
     ],
     "entries": [
@@ -23813,7 +23815,7 @@
           {
             "id": "barkeeper-noun-1",
             "definition": "an employee who mixes and serves alcoholic drinks at a bar",
-            "translation": "",
+            "translation": "酒吧老板；酒保",
             "examples": []
           }
         ]
@@ -23821,24 +23823,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.kər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.kər"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "pooch"
+      "dog",
+      "hawker"
     ],
     "entries": [
       {
@@ -23847,13 +23850,13 @@
           {
             "id": "barker-noun-1",
             "definition": "informal terms for dogs",
-            "translation": "",
+            "translation": "犬（俚称）",
             "examples": []
           },
           {
             "id": "barker-noun-2",
             "definition": "someone who stands in front of a show (as at a carnival) and gives a loud colorful sales talk to potential customers",
-            "translation": "",
+            "translation": "叫卖人；招揽顾客的推销员",
             "examples": []
           }
         ]
@@ -23861,18 +23864,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barky",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.ki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.ki"
       }
     },
     "forms": {},
@@ -23885,11 +23888,11 @@
           {
             "id": "barky-adjective-1",
             "definition": "resembling the rough bark of a tree",
-            "translation": "",
+            "translation": "像树皮的；粗糙如树皮的",
             "examples": [
               {
                 "text": "the rattlesnake's barky scales",
-                "translation": ""
+                "translation": "响尾蛇的树皮状鳞片"
               }
             ]
           }
@@ -23898,8 +23901,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -23914,11 +23917,11 @@
     },
     "forms": {},
     "tags": [
-      "cet6"
+      "cet6",
+      "ielts",
+      "gk"
     ],
-    "synonyms": [
-      "barleycorn"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23926,13 +23929,13 @@
           {
             "id": "barley-noun-1",
             "definition": "a grain of barley",
-            "translation": "",
+            "translation": "大麦粒",
             "examples": []
           },
           {
             "id": "barley-noun-2",
             "definition": "cultivated since prehistoric times",
-            "translation": "",
+            "translation": "大麦（自史前时代起栽培的谷物）",
             "examples": []
           }
         ]
@@ -23940,25 +23943,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barleycorn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.li.kɔːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.li.kɔːn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "barley"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -23966,13 +23967,13 @@
           {
             "id": "barleycorn-noun-1",
             "definition": "a grain of barley",
-            "translation": "",
+            "translation": "大麦粒",
             "examples": []
           },
           {
             "id": "barleycorn-noun-2",
             "definition": "a grain of barley",
-            "translation": "",
+            "translation": "大麦粒（古长度单位）",
             "examples": []
           }
         ]
@@ -23980,18 +23981,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːm"
       }
     },
     "forms": {},
@@ -24006,7 +24007,7 @@
           {
             "id": "barm-noun-1",
             "definition": "a commercial leavening agent containing yeast cells",
-            "translation": "",
+            "translation": "酵母；发酵液",
             "examples": []
           }
         ]
@@ -24014,23 +24015,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barmaid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.meɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.meɪd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bartender"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24038,7 +24041,7 @@
           {
             "id": "barmaid-noun-1",
             "definition": "a female bartender",
-            "translation": "",
+            "translation": "酒吧女招待；女酒保",
             "examples": []
           }
         ]
@@ -24046,8 +24049,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -24061,9 +24064,12 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "cet4"
+    ],
     "synonyms": [
-      "bartender"
+      "bartender",
+      "barmaid"
     ],
     "entries": [
       {
@@ -24072,7 +24078,7 @@
           {
             "id": "barman-noun-1",
             "definition": "an employee who mixes and serves alcoholic drinks at a bar",
-            "translation": "",
+            "translation": "酒吧男招待；酒保",
             "examples": []
           }
         ]
@@ -24080,18 +24086,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barmbrack",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrm.bræk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːm.bræk"
       }
     },
     "forms": {},
@@ -24104,7 +24110,7 @@
           {
             "id": "barmbrack-noun-1",
             "definition": "a rich currant cake or bun",
-            "translation": "",
+            "translation": "百面包（爱尔兰的一种加醋栗果干的面包）",
             "examples": []
           }
         ]
@@ -24112,25 +24118,30 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barmy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.mi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.mi"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "cet6",
+      "ielts"
+    ],
     "synonyms": [
-      "buggy",
-      "yeasty"
+      "crazy",
+      "mad",
+      "nutty",
+      "balmy"
     ],
     "entries": [
       {
@@ -24139,13 +24150,13 @@
           {
             "id": "barmy-adjective-1",
             "definition": "informal or slang terms for mentally irregular",
-            "translation": "",
+            "translation": "疯癫的；傻的",
             "examples": []
           },
           {
             "id": "barmy-adjective-2",
             "definition": "marked by spirited enjoyment",
-            "translation": "",
+            "translation": "欢乐的；欢闹的",
             "examples": []
           }
         ]
@@ -24153,8 +24164,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -24215,11 +24226,11 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [
-      "cirriped",
-      "cirripede"
+    "tags": [
+      "cet6",
+      "ielts"
     ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24227,13 +24238,13 @@
           {
             "id": "barnacle-noun-1",
             "definition": "European goose smaller than the brant",
-            "translation": "",
+            "translation": "黑雁（一种比黑雁小的欧洲雁类）",
             "examples": []
           },
           {
             "id": "barnacle-noun-2",
             "definition": "marine crustaceans with feathery food-catching appendages",
-            "translation": "",
+            "translation": "藤壶（一种有羽毛状附肢的海洋甲壳动物）",
             "examples": []
           }
         ]
@@ -24241,23 +24252,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barnburner",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrn.bɜːr.nər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːn.bɜː.nər"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "thriller",
+      "sensation"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24265,18 +24279,18 @@
           {
             "id": "barnburner-noun-1",
             "definition": "an impressively successful event",
-            "translation": "",
+            "translation": "令人印象深刻的活动",
             "examples": [
               {
                 "text": "the rock concert was a real barnburner",
-                "translation": ""
+                "translation": "那场摇滚音乐会真是精彩绝伦"
               }
             ]
           },
           {
             "id": "barnburner-noun-2",
             "definition": "someone who burns down a barn",
-            "translation": "",
+            "translation": "烧毁谷仓者",
             "examples": []
           }
         ]
@@ -24284,18 +24298,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barndoor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrn.dɔːr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːn.dɔːr"
       }
     },
     "forms": {},
@@ -24308,7 +24322,7 @@
           {
             "id": "barndoor-noun-1",
             "definition": "an opaque adjustable flap on a lamp fixture",
-            "translation": "",
+            "translation": "挡光板",
             "examples": []
           }
         ]
@@ -24316,18 +24330,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barnful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrn.fʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːn.fʊl"
       }
     },
     "forms": {},
@@ -24340,7 +24354,7 @@
           {
             "id": "barnful-noun-1",
             "definition": "the quantity that a barn will hold",
-            "translation": "",
+            "translation": "一谷仓之量",
             "examples": []
           }
         ]
@@ -24348,18 +24362,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barnstorm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrn.stɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːn.stɔːm"
       }
     },
     "forms": {
@@ -24368,7 +24382,10 @@
       "pastParticiple": "barnstormed"
     },
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "campaign",
+      "tour"
+    ],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -24376,22 +24393,22 @@
           {
             "id": "barnstorm-verb-1",
             "definition": "to tour the country making political speeches, giving lectures, or presenting plays",
-            "translation": "",
+            "translation": "四处巡回演说或演出",
             "examples": [
               {
                 "text": "The presidential candidates are busy barnstorming this month.",
-                "translation": ""
+                "translation": "总统候选人本月正忙于四处巡回演说。"
               }
             ]
           },
           {
             "id": "barnstorm-verb-2",
             "definition": "to appear at county fairs and carnivals as a stunt flier and parachute jumper",
-            "translation": "",
+            "translation": "在乡镇集市进行特技飞行表演",
             "examples": [
               {
                 "text": "We barnstormed last summer.",
-                "translation": ""
+                "translation": "我们去年夏天进行了巡回演出。"
               }
             ]
           }
@@ -24400,24 +24417,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barnstormer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrn.stɔːr.mər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːn.stɔː.mər"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "playactor"
+      "stunt pilot",
+      "itinerant actor"
     ],
     "entries": [
       {
@@ -24426,13 +24444,13 @@
           {
             "id": "barnstormer-noun-1",
             "definition": "a pilot who travels around the country giving exhibits of stunt flying and parachuting",
-            "translation": "",
+            "translation": "巡回特技飞行表演飞行员",
             "examples": []
           },
           {
             "id": "barnstormer-noun-2",
             "definition": "an actor who travels around the country presenting plays",
-            "translation": "",
+            "translation": "巡回演出的演员",
             "examples": []
           }
         ]
@@ -24440,8 +24458,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -24456,7 +24474,9 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "farmyard"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24464,7 +24484,7 @@
           {
             "id": "barnyard-noun-1",
             "definition": "a yard adjoining a barn",
-            "translation": "",
+            "translation": "谷仓旁的场地",
             "examples": []
           }
         ]
@@ -24472,23 +24492,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barograph",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.ɡræf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.ɡrɑːf"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "recording barometer"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24496,7 +24518,7 @@
           {
             "id": "barograph-noun-1",
             "definition": "a recording barometer",
-            "translation": "",
+            "translation": "气压记录仪",
             "examples": []
           }
         ]
@@ -24504,18 +24526,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barographic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈɡræf.ɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈɡræf.ɪk"
       }
     },
     "forms": {},
@@ -24553,10 +24575,11 @@
     "forms": {},
     "tags": [
       "cet6",
-      "ielts",
-      "toefl"
+      "ielts"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "pressure gauge"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24564,7 +24587,7 @@
           {
             "id": "barometer-noun-1",
             "definition": "an instrument that measures atmospheric pressure",
-            "translation": "",
+            "translation": "气压计",
             "examples": []
           }
         ]
@@ -24572,8 +24595,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -24602,7 +24625,7 @@
             "examples": [
               {
                 "text": "barometric pressure",
-                "translation": ""
+                "translation": "大气压力"
               }
             ]
           }
@@ -24619,10 +24642,10 @@
     "word": "barometrical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈmɛ.trɪ.kəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈmɛ.trɪ.kəl"
       }
     },
     "forms": {},
@@ -24662,10 +24685,12 @@
     "forms": {},
     "tags": [
       "cet6",
-      "gre"
+      "ielts"
     ],
     "synonyms": [
-      "king"
+      "magnate",
+      "tycoon",
+      "nobleman"
     ],
     "entries": [
       {
@@ -24674,24 +24699,24 @@
           {
             "id": "baron-noun-1",
             "definition": "a very wealthy or powerful businessman",
-            "translation": "",
+            "translation": "商业巨头",
             "examples": [
               {
                 "text": "an oil baron",
-                "translation": ""
+                "translation": "一位石油大亨"
               }
             ]
           },
           {
             "id": "baron-noun-2",
             "definition": "a British peer of the lowest rank",
-            "translation": "",
+            "translation": "男爵",
             "examples": []
           },
           {
             "id": "baron-noun-3",
             "definition": "a nobleman (in various countries) of varying rank",
-            "translation": "",
+            "translation": "贵族",
             "examples": []
           }
         ]
@@ -24699,23 +24724,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronage",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪdʒ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "nobility",
       "peerage"
     ],
     "entries": [
@@ -24725,7 +24751,7 @@
           {
             "id": "baronage-noun-1",
             "definition": "the peers of a kingdom considered as a group",
-            "translation": "",
+            "translation": "男爵阶层",
             "examples": []
           }
         ]
@@ -24733,27 +24759,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronduki",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɑːn.duː.ki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɒn.duː.ki"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "baranduki",
-      "barunduki",
-      "burunduki"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24761,7 +24783,7 @@
           {
             "id": "baronduki-noun-1",
             "definition": "terrestrial Siberian squirrel",
-            "translation": "",
+            "translation": "西伯利亚松鼠",
             "examples": []
           }
         ]
@@ -24769,8 +24791,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -24785,7 +24807,9 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "noblewoman"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -24793,7 +24817,7 @@
           {
             "id": "baroness-noun-1",
             "definition": "a noblewoman who holds the rank of baron or who is the wife or widow of a baron",
-            "translation": "",
+            "translation": "男爵夫人",
             "examples": []
           }
         ]
@@ -24801,18 +24825,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪt"
       }
     },
     "forms": {},
@@ -24825,7 +24849,7 @@
           {
             "id": "baronet-noun-1",
             "definition": "a member of the British order of honor",
-            "translation": "",
+            "translation": "准男爵",
             "examples": []
           }
         ]
@@ -24833,18 +24857,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronetage",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.tɪdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.tɪdʒ"
       }
     },
     "forms": {},
@@ -24857,13 +24881,13 @@
           {
             "id": "baronetage-noun-1",
             "definition": "the state of a baronet",
-            "translation": "",
+            "translation": "准男爵爵位",
             "examples": []
           },
           {
             "id": "baronetage-noun-2",
             "definition": "the collective body of baronets",
-            "translation": "",
+            "translation": "准男爵团",
             "examples": []
           }
         ]
@@ -24871,24 +24895,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronetcy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪt.si"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪt.si"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barony"
+      "title"
     ],
     "entries": [
       {
@@ -24897,13 +24921,13 @@
           {
             "id": "baronetcy-noun-1",
             "definition": "the title of a baron",
-            "translation": "",
+            "translation": "准男爵爵位",
             "examples": []
           },
           {
             "id": "baronetcy-noun-2",
             "definition": "the rank or dignity or position of a baronet or baroness",
-            "translation": "",
+            "translation": "男爵身份",
             "examples": []
           }
         ]
@@ -24911,21 +24935,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronetise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.taɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.taɪz"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "baronetising",
+      "past": "baronetised",
+      "pastParticiple": "baronetised"
+    },
     "tags": [],
     "synonyms": [],
     "entries": [
@@ -24935,11 +24963,11 @@
           {
             "id": "baronetise-verb-1",
             "definition": "to confer baronetcy upon",
-            "translation": "",
+            "translation": "授予准男爵爵位",
             "examples": [
               {
                 "text": "I  was baronetized for my loyalty to the country.",
-                "translation": ""
+                "translation": "我因对国家的忠诚而被封为准男爵。"
               }
             ]
           }
@@ -24948,21 +24976,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronetize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.taɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.nɪ.taɪz"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "baronetizing",
+      "past": "baronetized",
+      "pastParticiple": "baronetized"
+    },
     "tags": [],
     "synonyms": [],
     "entries": [
@@ -24972,11 +25004,11 @@
           {
             "id": "baronetize-verb-1",
             "definition": "to confer baronetcy upon",
-            "translation": "",
+            "translation": "授予准男爵爵位",
             "examples": [
               {
                 "text": "I  was baronetized for my loyalty to the country.",
-                "translation": ""
+                "translation": "我因对国家的忠诚而被封为准男爵。"
               }
             ]
           }
@@ -24985,18 +25017,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barong",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɔŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɒŋ"
       }
     },
     "forms": {},
@@ -25009,7 +25041,7 @@
           {
             "id": "barong-noun-1",
             "definition": "a knife resembling a cleaver",
-            "translation": "",
+            "translation": "巴朗刀（一种菲律宾类似切肉刀的刀具）",
             "examples": []
           }
         ]
@@ -25017,24 +25049,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baronial",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈroʊniəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrəʊniəl"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "stately"
+      "stately",
+      "grand",
+      "imposing"
     ],
     "entries": [
       {
@@ -25043,11 +25077,11 @@
           {
             "id": "baronial-adjective-1",
             "definition": "impressive in appearance",
-            "translation": "",
+            "translation": "豪华的；宏伟的",
             "examples": [
               {
                 "text": "a baronial mansion",
-                "translation": ""
+                "translation": "一座贵族气派的大宅"
               }
             ]
           }
@@ -25056,24 +25090,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barony",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbærəni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærəni"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "baronetcy"
+      "fief",
+      "feud",
+      "domain"
     ],
     "entries": [
       {
@@ -25082,19 +25118,19 @@
           {
             "id": "barony-noun-1",
             "definition": "the domain of a baron",
-            "translation": "",
+            "translation": "男爵的领地",
             "examples": []
           },
           {
             "id": "barony-noun-2",
             "definition": "the estate of a baron",
-            "translation": "",
+            "translation": "男爵的庄园",
             "examples": []
           },
           {
             "id": "barony-noun-3",
             "definition": "the rank or dignity or position of a baronet or baroness",
-            "translation": "",
+            "translation": "男爵（或从男爵）的爵位、尊严或地位",
             "examples": []
           }
         ]
@@ -25102,8 +25138,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -25138,7 +25174,7 @@
             "examples": [
               {
                 "text": "the building...frantically baroque-William Dean Howells",
-                "translation": ""
+                "translation": "那座建筑……极其巴洛克式风格——威廉·迪恩·豪威尔斯"
               }
             ]
           },
@@ -25156,7 +25192,7 @@
           {
             "id": "baroque-noun-1",
             "definition": "elaborate and extensive ornamentation in decorative art and architecture that flourished in Europe in the 17th century",
-            "translation": "",
+            "translation": "巴洛克风格；装饰艺术中精致繁复的装饰",
             "examples": []
           }
         ]
@@ -25193,7 +25229,7 @@
           {
             "id": "baroque-adjective-1",
             "definition": "of or relating to or characteristic of the elaborately ornamented style of architecture, art, and music popular in Europe between 1600 and 1750",
-            "translation": "1750的",
+            "translation": "巴洛克式的；具有精致对称装饰的",
             "examples": []
           }
         ]
@@ -25209,17 +25245,15 @@
     "word": "baroqueness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈroʊk.nəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɒk.nəs"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "baroque"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25227,7 +25261,7 @@
           {
             "id": "baroqueness-noun-1",
             "definition": "elaborate and extensive ornamentation in decorative art and architecture that flourished in Europe in the 17th century",
-            "translation": "",
+            "translation": "巴洛克风格",
             "examples": []
           }
         ]
@@ -25235,18 +25269,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baroreceptor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.oʊ.rɪˈsɛp.tər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əʊ.rɪˈsɛp.tər"
       }
     },
     "forms": {},
@@ -25259,7 +25293,7 @@
           {
             "id": "baroreceptor-noun-1",
             "definition": "a sensory receptor that responds to pressure",
-            "translation": "",
+            "translation": "压力感受器",
             "examples": []
           }
         ]
@@ -25267,25 +25301,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barosaur",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.sɔːr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.sɔːr"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "barosaurus"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25293,7 +25325,7 @@
           {
             "id": "barosaur-noun-1",
             "definition": "a dinosaur that could grow to be as tall as a building five stories tall",
-            "translation": "",
+            "translation": "重龙",
             "examples": []
           }
         ]
@@ -25301,25 +25333,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barosaurus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈsɔːr.əs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈsɔːr.əs"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "barosaur"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25327,7 +25357,7 @@
           {
             "id": "barosaurus-noun-1",
             "definition": "a dinosaur that could grow to be as tall as a building five stories tall",
-            "translation": "",
+            "translation": "重龙",
             "examples": []
           }
         ]
@@ -25335,18 +25365,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barouche",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈruːʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈruːʃ"
       }
     },
     "forms": {},
@@ -25359,7 +25389,7 @@
           {
             "id": "barouche-noun-1",
             "definition": "a horse-drawn carriage having four wheels",
-            "translation": "",
+            "translation": "四轮敞篷马车",
             "examples": []
           }
         ]
@@ -25367,25 +25397,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barque",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːk"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bark"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25393,7 +25421,7 @@
           {
             "id": "barque-noun-1",
             "definition": "a sailing ship with 3 (or more) masts",
-            "translation": "",
+            "translation": "三桅帆船",
             "examples": []
           }
         ]
@@ -25401,8 +25429,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -25415,22 +25443,9 @@
         "ipa": "ˈbærək"
       }
     },
-    "forms": {
-      "gerund": "barracking",
-      "pastParticiple": "barracked",
-      "past": "barracked"
-    },
+    "forms": {},
     "tags": [],
-    "synonyms": [
-      "cheer",
-      "exhort",
-      "flout",
-      "gibe",
-      "inspire",
-      "jeer",
-      "scoff",
-      "urge"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25438,7 +25453,7 @@
           {
             "id": "barrack-noun-1",
             "definition": "a building or group of buildings used to house military personnel",
-            "translation": "",
+            "translation": "兵营；营房",
             "examples": []
           }
         ]
@@ -25449,33 +25464,33 @@
           {
             "id": "barrack-verb-1",
             "definition": "to laugh at with contempt and derision",
-            "translation": "",
+            "translation": "嘲笑；讥讽",
             "examples": [
               {
                 "text": "They barracked us about our clothes.",
-                "translation": ""
+                "translation": "他们就我们的衣服嘲笑我们。"
               }
             ]
           },
           {
             "id": "barrack-verb-2",
             "definition": "to spur on or encourage especially by cheers and shouts",
-            "translation": "",
+            "translation": "喝彩鼓励；加油助威",
             "examples": [
               {
                 "text": "The football supporters barracked their team to success.",
-                "translation": ""
+                "translation": "足球迷们为他们的球队加油助威，使球队获得了胜利。"
               }
             ]
           },
           {
             "id": "barrack-verb-3",
             "definition": "to lodge in barracks",
-            "translation": "",
+            "translation": "居住在兵营中",
             "examples": [
               {
                 "text": "The military commander barracked all of the soldiers.",
-                "translation": ""
+                "translation": "军事指挥官让所有士兵都住进了营房。"
               }
             ]
           }
@@ -25484,25 +25499,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barracking",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.kɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.kɪŋ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "heckling"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25510,7 +25523,7 @@
           {
             "id": "barracking-noun-1",
             "definition": "shouting to interrupt a speech with which you disagree",
-            "translation": "",
+            "translation": "喝倒彩；起哄",
             "examples": []
           }
         ]
@@ -25518,25 +25531,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barracouta",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈkuː.tə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈkuː.tə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "snoek"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25544,7 +25555,7 @@
           {
             "id": "barracouta-noun-1",
             "definition": "a large marine food fish common on the coasts of Australia, New Zealand, and southern Africa",
-            "translation": "",
+            "translation": "蛇鲭；澳洲蛇鲭",
             "examples": []
           }
         ]
@@ -25552,18 +25563,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barracuda",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈkuː.də"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈkuː.də"
       }
     },
     "forms": {},
@@ -25576,7 +25587,7 @@
           {
             "id": "barracuda-noun-1",
             "definition": "any voracious marine fish of the genus Sphyraena having an elongated cylindrical body and large mouth with projecting lower jaw and long strong teeth",
-            "translation": "",
+            "translation": "梭鱼；魣鱼",
             "examples": []
           }
         ]
@@ -25584,8 +25595,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -25598,21 +25609,9 @@
         "ipa": "ˈbærɑ:ʒ"
       }
     },
-    "forms": {
-      "pastParticiple": "barraged",
-      "past": "barraged",
-      "gerund": "barraging"
-    },
-    "tags": [
-      "gre"
-    ],
-    "synonyms": [
-      "battery",
-      "bombard",
-      "bombardment",
-      "outpouring",
-      "shelling"
-    ],
+    "forms": {},
+    "tags": [],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25620,22 +25619,22 @@
           {
             "id": "barrage-noun-1",
             "definition": "the heavy fire of artillery to saturate an area rather than hit a specific target",
-            "translation": "",
+            "translation": "炮火齐射",
             "examples": [
               {
                 "text": "they laid down a barrage in front of the advancing troops",
-                "translation": ""
+                "translation": "他们在前进的部队前方布设了弹幕。"
               }
             ]
           },
           {
             "id": "barrage-noun-2",
             "definition": "the rapid and continuous delivery of spoken or written linguistic communication",
-            "translation": "",
+            "translation": "连珠炮式的话语（或文字）",
             "examples": [
               {
                 "text": "I was asked a barrage of questions.",
-                "translation": ""
+                "translation": "我被连珠炮似地问了一连串问题。"
               }
             ]
           }
@@ -25647,11 +25646,11 @@
           {
             "id": "barrage-verb-1",
             "definition": "to address continuously or persistently",
-            "translation": "",
+            "translation": "连续不断地提问或纠缠",
             "examples": [
               {
                 "text": "The speaker was barraged by an angry audience.",
-                "translation": ""
+                "translation": "演讲者被愤怒的听众连珠炮似的提问。"
               }
             ]
           }
@@ -25661,26 +25660,26 @@
     "phrases": [
       {
         "text": "barrage against",
-        "translation": ""
+        "translation": "对……的连续攻击"
       },
       {
         "text": "barrage with stop plank",
-        "translation": ""
+        "translation": "用闸板拦截"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barramundi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈmʌn.di"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbær.əˈmʌn.di"
       }
     },
     "forms": {},
@@ -25693,7 +25692,7 @@
           {
             "id": "barramundi-noun-1",
             "definition": "a species of large perch noted for its sporting and eating qualities",
-            "translation": "",
+            "translation": "尖吻鲈（一种大型鲈鱼，以游钓和食用价值著称）",
             "examples": []
           }
         ]
@@ -25701,18 +25700,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrater",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tər"
       }
     },
     "forms": {},
@@ -25727,7 +25726,7 @@
           {
             "id": "barrater-noun-1",
             "definition": "someone guilty of barratry",
-            "translation": "",
+            "translation": "诉讼教唆犯；挑讼者",
             "examples": []
           }
         ]
@@ -25735,18 +25734,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrator",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tər"
       }
     },
     "forms": {},
@@ -25761,7 +25760,7 @@
           {
             "id": "barrator-noun-1",
             "definition": "someone guilty of barratry",
-            "translation": "",
+            "translation": "诉讼教唆犯；挑讼者",
             "examples": []
           }
         ]
@@ -25769,25 +25768,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barratry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.tri"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "simony"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -25795,25 +25792,25 @@
           {
             "id": "barratry-noun-1",
             "definition": "the offense of vexatiously persisting in inciting lawsuits and quarrels",
-            "translation": "",
+            "translation": "诉讼教唆罪；无理缠讼",
             "examples": []
           },
           {
             "id": "barratry-noun-2",
             "definition": "(maritime law) a fraudulent breach of duty by the master of a ship that injures the owner of the ship or its cargo",
-            "translation": "",
+            "translation": "（海商法）船长或船员的故意损害船主或货主的失职行为",
             "examples": []
           },
           {
             "id": "barratry-noun-3",
             "definition": "the crime of a judge whose judgment is influenced by bribery",
-            "translation": "",
+            "translation": "法官受贿罪",
             "examples": []
           },
           {
             "id": "barratry-noun-4",
             "definition": "traffic in ecclesiastical offices or preferments",
-            "translation": "",
+            "translation": "买卖圣职罪",
             "examples": []
           }
         ]
@@ -25821,25 +25818,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barred",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barricaded",
-      "blockaded"
+      "striped",
+      "banded",
+      "blocked",
+      "excluded"
     ],
     "entries": [
       {
@@ -25848,13 +25847,13 @@
           {
             "id": "barred-adjective-1",
             "definition": "marked with stripes or bands",
-            "translation": "",
+            "translation": "有条纹的",
             "examples": []
           },
           {
             "id": "barred-adjective-2",
             "definition": "preventing entry or exit or a course of action",
-            "translation": "",
+            "translation": "被禁止的；受阻的",
             "examples": []
           }
         ]
@@ -25862,8 +25861,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -25876,23 +25875,15 @@
         "ipa": "ˈbærəl"
       }
     },
-    "forms": {
-      "pastParticiple": "barrelled",
-      "gerund": "barrelling",
-      "past": "barrelled"
-    },
+    "forms": {},
     "tags": [
       "cet4",
-      "cet6",
-      "ielts",
-      "ky",
-      "toefl"
+      "cet6"
     ],
     "synonyms": [
-      "barrelful",
-      "bbl",
       "cask",
-      "drum"
+      "drum",
+      "keg"
     ],
     "entries": [
       {
@@ -25901,36 +25892,36 @@
           {
             "id": "barrel-noun-1",
             "definition": "a cylindrical container that holds liquids",
-            "translation": "",
+            "translation": "桶",
             "examples": []
           },
           {
             "id": "barrel-noun-2",
             "definition": "a tube through which a bullet travels when a gun is fired",
-            "translation": "",
+            "translation": "枪管",
             "examples": []
           },
           {
             "id": "barrel-noun-3",
             "definition": "any of various units of capacity",
-            "translation": "",
+            "translation": "桶（容量单位）",
             "examples": [
               {
                 "text": "a barrel of beer is 31 gallons and a barrel of oil is 42 gallons",
-                "translation": ""
+                "translation": "一桶啤酒是31加仑，一桶石油是42加仑"
               }
             ]
           },
           {
             "id": "barrel-noun-4",
             "definition": "the quantity that a barrel (of any size) will hold",
-            "translation": "",
+            "translation": "一桶之量",
             "examples": []
           },
           {
             "id": "barrel-noun-5",
             "definition": "a bulging cylindrical shape",
-            "translation": "",
+            "translation": "桶状物；圆筒形",
             "examples": []
           }
         ]
@@ -25941,11 +25932,11 @@
           {
             "id": "barrel-verb-1",
             "definition": "to put in barrels",
-            "translation": "",
+            "translation": "装入桶中",
             "examples": [
               {
                 "text": "We should barrel the beer before the end of the week.",
-                "translation": ""
+                "translation": "我们应该在周末前把啤酒装桶。"
               }
             ]
           }
@@ -25955,22 +25946,22 @@
     "phrases": [
       {
         "text": "barrel in",
-        "translation": ""
+        "translation": "冲进来；闯入"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barreled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.əld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.əld"
       }
     },
     "forms": {},
@@ -25985,18 +25976,18 @@
           {
             "id": "barreled-adjective-1",
             "definition": "put in or stored in a barrel",
-            "translation": "",
+            "translation": "装入桶中的",
             "examples": [
               {
                 "text": "barreled beer",
-                "translation": ""
+                "translation": "桶装啤酒"
               }
             ]
           },
           {
             "id": "barreled-adjective-2",
             "definition": "(of an arrow) tapered toward both ends",
-            "translation": "",
+            "translation": "（箭）两端渐细的",
             "examples": []
           }
         ]
@@ -26004,18 +25995,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrelfish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.əl.fɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.əl.fɪʃ"
       }
     },
     "forms": {},
@@ -26028,7 +26019,7 @@
           {
             "id": "barrelfish-noun-1",
             "definition": "blackish fish of New England waters",
-            "translation": "",
+            "translation": "桶鱼（产于新英格兰海域的一种黑色鱼类）",
             "examples": []
           }
         ]
@@ -26036,52 +26027,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrelful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.əl.fʊl"
       },
       "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "barrel"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "barrelful-noun-1",
-            "definition": "the quantity that a barrel (of any size) will hold",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": [],
-    "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
-    }
-  },
-  {
-    "word": "barrelhouse",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.əl.fʊl"
       }
     },
     "forms": {},
@@ -26092,9 +26049,9 @@
         "partOfSpeech": "noun",
         "senses": [
           {
-            "id": "barrelhouse-noun-1",
-            "definition": "a cheap drinking and dancing establishment",
-            "translation": "",
+            "id": "barrelful-noun-1",
+            "definition": "the quantity that a barrel (of any size) will hold",
+            "translation": "一桶之量",
             "examples": []
           }
         ]
@@ -26102,24 +26059,61 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
+    }
+  },
+  {
+    "word": "barrelhouse",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈbærəlˌhaʊs"
+      },
+      "uk": {
+        "ipa": "ˈbærəlˌhaʊs"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "honky-tonk",
+      "roadhouse",
+      "juke joint"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "barrelhouse-noun-1",
+            "definition": "a cheap drinking and dancing establishment",
+            "translation": "廉价酒馆兼舞场",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrelled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbærəld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærəld"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barreled"
+      "casked",
+      "tapered"
     ],
     "entries": [
       {
@@ -26128,13 +26122,13 @@
           {
             "id": "barrelled-adjective-1",
             "definition": "put in or stored in a barrel",
-            "translation": "",
+            "translation": "装入桶中的",
             "examples": []
           },
           {
             "id": "barrelled-adjective-2",
             "definition": "(of an arrow) tapered toward both ends",
-            "translation": "",
+            "translation": "（箭）两端渐细的",
             "examples": []
           }
         ]
@@ -26142,23 +26136,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrels",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbærəlz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærəlz"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "barrelfuls",
+      "caskfuls"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26166,7 +26163,7 @@
           {
             "id": "barrels-noun-1",
             "definition": "the amount that many barrels might hold",
-            "translation": "",
+            "translation": "许多桶之量",
             "examples": []
           }
         ]
@@ -26174,8 +26171,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26192,15 +26189,14 @@
     "tags": [
       "cet6",
       "gre",
-      "ielts",
-      "ky",
-      "toefl"
+      "ielts"
     ],
     "synonyms": [
-      "free",
-      "stark",
-      "waste",
-      "wasteland"
+      "infertile",
+      "sterile",
+      "desolate",
+      "arid",
+      "unproductive"
     ],
     "entries": [
       {
@@ -26209,29 +26205,29 @@
           {
             "id": "barren-adjective-1",
             "definition": "completely wanting or lacking",
-            "translation": "",
+            "translation": "完全缺乏的",
             "examples": [
               {
                 "text": "writing barren of insight",
-                "translation": ""
+                "translation": "缺乏洞见的文章"
               }
             ]
           },
           {
             "id": "barren-adjective-2",
             "definition": "not bearing offspring",
-            "translation": "",
+            "translation": "不生育的",
             "examples": [
               {
                 "text": "a barren woman",
-                "translation": ""
+                "translation": "一位不能生育的妇女"
               }
             ]
           },
           {
             "id": "barren-adjective-3",
             "definition": "providing no shelter or sustenance",
-            "translation": "",
+            "translation": "贫瘠的，无遮蔽的",
             "examples": []
           }
         ]
@@ -26242,11 +26238,11 @@
           {
             "id": "barren-noun-1",
             "definition": "an uninhabited wilderness that is worthless for cultivation",
-            "translation": "",
+            "translation": "荒原；不适宜耕种的无人居住之地",
             "examples": [
               {
                 "text": "the barrens of central Africa",
-                "translation": ""
+                "translation": "中非的荒原"
               }
             ]
           }
@@ -26255,8 +26251,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26271,10 +26267,14 @@
     },
     "forms": {},
     "tags": [
-      "toefl"
+      "cet6",
+      "gre"
     ],
     "synonyms": [
-      "fruitlessness"
+      "infertility",
+      "sterility",
+      "aridity",
+      "desolation"
     ],
     "entries": [
       {
@@ -26283,13 +26283,13 @@
           {
             "id": "barrenness-noun-1",
             "definition": "the quality of yielding nothing of value",
-            "translation": "",
+            "translation": "贫瘠，不毛",
             "examples": []
           },
           {
             "id": "barrenness-noun-2",
             "definition": "the state (usually of a woman) of having no children or being unable to have children",
-            "translation": "",
+            "translation": "不育，不孕",
             "examples": []
           }
         ]
@@ -26297,23 +26297,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrenwort",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ən.wɜːrt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ən.wɜːt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "epimedium"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26321,7 +26323,7 @@
           {
             "id": "barrenwort-noun-1",
             "definition": "slow-growing creeping plant with semi-evergreen leaves on erect wiry stems",
-            "translation": "",
+            "translation": "淫羊藿（一种生长缓慢的匍匐植物，叶半常绿，茎直立细长）",
             "examples": []
           }
         ]
@@ -26329,23 +26331,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrette",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɛt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɛt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "hair clip",
+      "hairpin"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26353,7 +26358,7 @@
           {
             "id": "barrette-noun-1",
             "definition": "a pin for holding women's hair in place",
-            "translation": "",
+            "translation": "发夹；发卡",
             "examples": []
           }
         ]
@@ -26361,24 +26366,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barretter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɛt.ər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɛt.ə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "ballast"
+      "ballast resistor",
+      "ballast tube"
     ],
     "entries": [
       {
@@ -26387,7 +26393,7 @@
           {
             "id": "barretter-noun-1",
             "definition": "a resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations)",
-            "translation": "",
+            "translation": "镇流电阻器；稳压管",
             "examples": []
           }
         ]
@@ -26395,8 +26401,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26409,19 +26415,15 @@
         "ipa": "ˌbærɪˈkeɪd"
       }
     },
-    "forms": {
-      "pastParticiple": "barricaded",
-      "past": "barricaded",
-      "gerund": "barricading"
-    },
+    "forms": {},
     "tags": [
-      "gre",
-      "ielts",
-      "toefl"
+      "cet6",
+      "ielts"
     ],
     "synonyms": [
-      "blockade",
-      "roadblock"
+      "barrier",
+      "obstacle",
+      "blockade"
     ],
     "entries": [
       {
@@ -26430,18 +26432,18 @@
           {
             "id": "barricade-noun-1",
             "definition": "a barrier (usually thrown up hastily) to impede the advance of an enemy",
-            "translation": "",
+            "translation": "路障；街垒",
             "examples": [
               {
                 "text": "they stormed the barricade",
-                "translation": ""
+                "translation": "他们猛攻路障。"
               }
             ]
           },
           {
             "id": "barricade-noun-2",
             "definition": "a barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.",
-            "translation": "",
+            "translation": "警方设置的路障",
             "examples": []
           }
         ]
@@ -26452,33 +26454,33 @@
           {
             "id": "barricade-verb-1",
             "definition": "to block off with barricades",
-            "translation": "",
+            "translation": "用路障封锁",
             "examples": [
               {
                 "text": "The students barricaded themselves into the dean's office.",
-                "translation": ""
+                "translation": "学生们把自己关在院长办公室里设起路障。"
               }
             ]
           },
           {
             "id": "barricade-verb-2",
             "definition": "to prevent access to by barricading",
-            "translation": "",
+            "translation": "通过设置路障阻止进入",
             "examples": [
               {
                 "text": "The street where the President lives is always barricaded.",
-                "translation": ""
+                "translation": "总统住的那条街总是设有路障。"
               }
             ]
           },
           {
             "id": "barricade-verb-3",
             "definition": "to render unsuitable for passage",
-            "translation": "",
+            "translation": "阻断；使无法通行",
             "examples": [
               {
                 "text": "The protesters barricaded the street.",
-                "translation": ""
+                "translation": "抗议者用路障封锁了街道。"
               }
             ]
           }
@@ -26488,28 +26490,30 @@
     "phrases": [
       {
         "text": "barricade in",
-        "translation": ""
+        "translation": "用路障围住；封锁在内"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barricaded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.ə.keɪ.dɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.ɪ.keɪ.dɪd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barred"
+      "blocked",
+      "obstructed",
+      "fortified"
     ],
     "entries": [
       {
@@ -26518,11 +26522,11 @@
           {
             "id": "barricaded-adjective-1",
             "definition": "preventing entry or exit or a course of action",
-            "translation": "",
+            "translation": "设置了路障的；被封锁的",
             "examples": [
               {
                 "text": "The barricaded street is on your right.",
-                "translation": ""
+                "translation": "设有路障的那条街就在你的右边。"
               }
             ]
           }
@@ -26531,8 +26535,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26575,7 +26579,7 @@
             "examples": [
               {
                 "text": "intolerance is a barrier to understanding",
-                "translation": ""
+                "translation": "不宽容是理解的障碍。"
               }
             ]
           },
@@ -26591,23 +26595,23 @@
     "phrases": [
       {
         "text": "barrier to entry",
-        "translation": ""
+        "translation": "进入壁垒"
       },
       {
         "text": "barrier to infrared radiation",
-        "translation": ""
+        "translation": "红外辐射屏障"
       },
       {
         "text": "barrier to prevent landslides",
-        "translation": ""
+        "translation": "防止滑坡的屏障"
       },
       {
         "text": "barrier to trade",
-        "translation": ""
+        "translation": "贸易壁垒"
       },
       {
         "text": "barrier with water",
-        "translation": ""
+        "translation": "水屏障"
       }
     ],
     "metadata": {
@@ -26628,7 +26632,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "blackball"
+      "exclusion",
+      "prevention"
     ],
     "entries": [
       {
@@ -26637,7 +26642,7 @@
           {
             "id": "barring-noun-1",
             "definition": "the act of excluding someone by a negative vote or veto",
-            "translation": "",
+            "translation": "排除；禁止（通过否决票或否决权将某人排除在外）",
             "examples": []
           }
         ]
@@ -26645,23 +26650,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrio",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.i.oʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.i.əʊ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "neighborhood",
+      "district",
+      "quarter"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26669,13 +26678,13 @@
           {
             "id": "barrio-noun-1",
             "definition": "an urban area in a Spanish-speaking country",
-            "translation": "",
+            "translation": "（西班牙语国家的）城区；街区",
             "examples": []
           },
           {
             "id": "barrio-noun-2",
             "definition": "a Spanish-speaking quarter in a town or city (especially in the United States)",
-            "translation": "",
+            "translation": "（美国等城市的）西班牙语居民区",
             "examples": []
           }
         ]
@@ -26683,8 +26692,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26699,9 +26708,13 @@
     },
     "forms": {},
     "tags": [
-      "gre"
+      "ielts"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "advocate",
+      "counsel",
+      "lawyer"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26709,7 +26722,7 @@
           {
             "id": "barrister-noun-1",
             "definition": "a British or Canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution",
-            "translation": "",
+            "translation": "出庭律师；大律师（英国或加拿大的高等法庭辩护律师）",
             "examples": []
           }
         ]
@@ -26717,24 +26730,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barroom",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːr.ruːm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑː.ruːm"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bar"
+      "bar",
+      "pub",
+      "tavern",
+      "saloon"
     ],
     "entries": [
       {
@@ -26743,7 +26759,7 @@
           {
             "id": "barroom-noun-1",
             "definition": "a room or establishment where alcoholic drinks are served over a counter",
-            "translation": "",
+            "translation": "酒吧间；酒馆",
             "examples": []
           }
         ]
@@ -26751,8 +26767,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26768,9 +26784,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "barrowful",
-      "tumulus",
-      "wheelbarrow"
+      "wheelbarrow",
+      "handcart"
     ],
     "entries": [
       {
@@ -26779,19 +26794,19 @@
           {
             "id": "barrow-noun-1",
             "definition": "a cart for carrying small loads",
-            "translation": "",
+            "translation": "手推车",
             "examples": []
           },
           {
             "id": "barrow-noun-2",
             "definition": "(archeology) a heap of earth placed over prehistoric tombs",
-            "translation": "",
+            "translation": "古冢；史前墓葬上的土堆",
             "examples": []
           },
           {
             "id": "barrow-noun-3",
             "definition": "the quantity that a barrow will hold",
-            "translation": "",
+            "translation": "一推车之量",
             "examples": []
           }
         ]
@@ -26800,33 +26815,31 @@
     "phrases": [
       {
         "text": "Barrow upon Humber",
-        "translation": ""
+        "translation": "亨伯河畔巴罗"
       },
       {
         "text": "Barrow upon Soar",
-        "translation": ""
+        "translation": "索尔河畔巴罗"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barrowful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæroʊfʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærəʊfʊl"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "barrow"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -26834,7 +26847,7 @@
           {
             "id": "barrowful-noun-1",
             "definition": "the quantity that a barrow will hold",
-            "translation": "",
+            "translation": "一推车之量",
             "examples": []
           }
         ]
@@ -26842,8 +26855,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26889,11 +26902,14 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
     "synonyms": [
-      "barkeep",
-      "barkeeper",
       "barman",
+      "barmaid",
       "mixologist"
     ],
     "entries": [
@@ -26903,7 +26919,7 @@
           {
             "id": "bartender-noun-1",
             "definition": "an employee who mixes and serves alcoholic drinks at a bar",
-            "translation": "",
+            "translation": "酒保；调酒师",
             "examples": []
           }
         ]
@@ -26911,8 +26927,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26925,18 +26941,17 @@
         "ipa": "ˈbɑ:tə"
       }
     },
-    "forms": {
-      "gerund": "bartering",
-      "pastParticiple": "bartered",
-      "past": "bartered"
-    },
+    "forms": {},
     "tags": [
+      "cet6",
       "gre",
-      "ielts",
-      "toefl"
+      "toefl",
+      "ielts"
     ],
     "synonyms": [
-      "trade"
+      "trade",
+      "exchange",
+      "swap"
     ],
     "entries": [
       {
@@ -26945,11 +26960,11 @@
           {
             "id": "barter-noun-1",
             "definition": "an equal exchange",
-            "translation": "",
+            "translation": "易货；以物易物",
             "examples": [
               {
                 "text": "we had no money so we had to live by barter",
-                "translation": ""
+                "translation": "我们没有钱，所以只能以物易物地生活。"
               }
             ]
           }
@@ -26961,11 +26976,11 @@
           {
             "id": "barter-verb-1",
             "definition": "to exchange goods without involving money",
-            "translation": "",
+            "translation": "以物易物；不用货币交换货物",
             "examples": [
               {
                 "text": "I bartered my old lamps for a typewriter.",
-                "translation": ""
+                "translation": "我用旧台灯换了一台打字机。"
               }
             ]
           }
@@ -26975,16 +26990,16 @@
     "phrases": [
       {
         "text": "barter away",
-        "translation": ""
+        "translation": "贱卖；为换取某物而放弃"
       },
       {
         "text": "barter with",
-        "translation": ""
+        "translation": "与……进行易货交易"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
@@ -26999,7 +27014,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "trader",
+      "exchanger"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27007,7 +27025,7 @@
           {
             "id": "barterer-noun-1",
             "definition": "a trader who exchanges goods and not money",
-            "translation": "",
+            "translation": "易货商人；以物易物者",
             "examples": []
           }
         ]
@@ -27015,23 +27033,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bartlett",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrtlɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːtlɪt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "Bartlett pear",
+      "Williams pear"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27039,7 +27060,7 @@
           {
             "id": "bartlett-noun-1",
             "definition": "juicy yellow pear",
-            "translation": "",
+            "translation": "巴特利特梨；多汁黄梨",
             "examples": []
           }
         ]
@@ -27047,18 +27068,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "bartonia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈtoʊniə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈtəʊniə"
       }
     },
     "forms": {},
@@ -27071,7 +27092,7 @@
           {
             "id": "bartonia-noun-1",
             "definition": "annual grown especially for its fragrant golden nocturnal flowers",
-            "translation": "",
+            "translation": "巴顿花；夜间开花的金色芳香花卉",
             "examples": []
           }
         ]
@@ -27079,24 +27100,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barunduki",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrʌnduki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrʌnduki"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "baronduki"
+      "Siberian chipmunk",
+      "Eutamias sibiricus"
     ],
     "entries": [
       {
@@ -27105,7 +27127,7 @@
           {
             "id": "barunduki-noun-1",
             "definition": "terrestrial Siberian squirrel",
-            "translation": "",
+            "translation": "西伯利亚地松鼠",
             "examples": []
           }
         ]
@@ -27113,23 +27135,28 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barycenter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæriˌsɛntər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbærɪˌsɛntə"
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "center of mass",
+      "centroid"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27137,7 +27164,7 @@
           {
             "id": "barycenter-noun-1",
             "definition": "(astronomy) the common center of mass around which two or more bodies revolve",
-            "translation": "",
+            "translation": "质心；重心（天体公转的共同质量中心）",
             "examples": []
           }
         ]
@@ -27145,52 +27172,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barye",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbær.i"
       },
       "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "microbar"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
-            "id": "barye-noun-1",
-            "definition": "the absolute unit of pressure equal to one dyne per square centimeter",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": [],
-    "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
-    }
-  },
-  {
-    "word": "baryon",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
+        "ipa": "ˈbær.i"
       }
     },
     "forms": {},
@@ -27201,13 +27194,47 @@
         "partOfSpeech": "noun",
         "senses": [
           {
+            "id": "barye-noun-1",
+            "definition": "the absolute unit of pressure equal to one dyne per square centimeter",
+            "translation": "巴利（压强单位，等于每平方厘米一达因）",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
+    }
+  },
+  {
+    "word": "baryon",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈbær.i.ɑːn"
+      },
+      "uk": {
+        "ipa": "ˈbær.i.ɒn"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "heavy particle"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
             "id": "baryon-noun-1",
             "definition": "any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions",
-            "translation": "",
+            "translation": "重子（质量等于或大于质子、参与强相互作用的基本粒子）",
             "examples": [
               {
                 "text": "a hadron with a baryon number of +1",
-                "translation": ""
+                "translation": "一个重子数为+1的强子"
               }
             ]
           }
@@ -27216,23 +27243,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "baryta",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈraɪ.tə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈraɪ.tə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "barium oxide",
+      "barium hydroxide"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27240,7 +27270,7 @@
           {
             "id": "baryta-noun-1",
             "definition": "any of several compounds of barium",
-            "translation": "",
+            "translation": "钡氧（钡的几种化合物之一，如氧化钡、氢氧化钡）",
             "examples": []
           }
         ]
@@ -27248,23 +27278,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barytes",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈraɪ.tiːz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈraɪ.tiːz"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "barite",
+      "heavy spar"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -27272,7 +27305,7 @@
           {
             "id": "barytes-noun-1",
             "definition": "a white or colorless mineral (BaSO4)",
-            "translation": "",
+            "translation": "重晶石（一种白色或无色矿物，化学式BaSO4）",
             "examples": []
           }
         ]
@@ -27280,18 +27313,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782579687
     }
   },
   {
     "word": "barytic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈrɪt.ɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈrɪt.ɪk"
       }
     },
     "forms": {},

@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 467 | **← Backward**: v.json index 0 | **Updated**: 1751137200
+> **→ Forward**: b.json index 592 | **← Backward**: v.json index 508 (remaining 10 entries: 676,675,658,573,572,570,569,568,567,508) | **Updated**: 1751140800
 
 ## 📊 Summary
 
@@ -11,7 +11,7 @@
 | Remaining | 43,361 |
 | Completion | 33.2% |
 | Forward agent | a.json (4,900 / 4,900) ✅ |
-| Backward agent | v.json (920 / 1,058) |
+| Backward agent | v.json (1,048 / 1,058) |
 
 ## 📋 File Progress
 
@@ -22,7 +22,7 @@
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
 | a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
-| b.json | 3,601 | 1,167 | ███████░░░░░░░░░░░░░ 32% | → in_progress |
+| b.json | 3,601 | 1,292 | █████████░░░░░░░░░░░ 36% | → in_progress |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
 | e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
@@ -42,19 +42,19 @@
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
 | u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
-| v.json | 1,058 | 920 | ██████████████████░ 87% | ← in_progress |
+| v.json | 1,058 | 1,048 | ███████████████████░ 99% | ← in_progress |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **8,597** | **13.2%** | |
+| **Total** | **64,867** | **8,722** | **13.4%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-b-0025 | b.json | 467–491 | ⬜ pending | — |
-| ← Backward | B-v-0046 | v.json | 0–0 | ⬜ pending | — |
+| → Forward | F-b-0030 | b.json | 592–616 | ⬜ pending | — |
+| ← Backward | B-v-0051 | v.json | 676–508 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
@@ -94,6 +94,11 @@
 | B-v-0043 | v.json | 78–49 | 25 | mavis-cron | mavis-cron | ✅ done |
 | B-v-0044 | v.json | 46–20 | 25 | mavis-cron | mavis-cron | ✅ done |
 | B-v-0045 | v.json | 19–1 | 15 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0046 | v.json | 1057–1029 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0047 | v.json | 1028–1002 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0048 | v.json | 999–974 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0049 | v.json | 973–940 | 25 | mavis-cron | mavis-cron | ✅ done |
+| B-v-0050 | v.json | 937–677 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0005 | b.json | 90–114 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0006 | b.json | 115–139 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0007 | b.json | 140–164 | 25 | mavis-cron | mavis-cron | ✅ done |
@@ -109,6 +114,11 @@
 | F-b-0022 | b.json | 392–416 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0023 | b.json | 417–441 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0024 | b.json | 442–466 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0025 | b.json | 467–491 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0026 | b.json | 492–516 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0027 | b.json | 517–541 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0028 | b.json | 542–566 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0029 | b.json | 567–591 | 25 | mavis-cron | mavis-cron | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
