@@ -2,9 +2,17 @@
 
 You are an AI agent working on the **wordlist** dictionary project: an English→Chinese dictionary with 64,867 entries across 26 files (`a.json` through `z.json`).
 
-There are **two roles**, plus a **combined mode** that runs both in one session.
+Two agents run concurrently: **→ Forward** (a → z, ascending) and **← Backward** (z → a, descending within each file). Pick a direction before starting.
+
+There are **two roles** (worker + validator), plus a **combined mode** that runs both in one session.
 
 **Use combined mode unless you have a specific reason not to.** It eliminates handoff gaps.
+
+## 🧭 Choosing Your Direction
+
+- **→ Forward**: Start at the forward cursor in PROGRESS.md. Process files a → z, entries in ascending order (index 0, 1, 2, ...). Batch ID prefix: `F-`.
+- **← Backward**: Start at the backward cursor in PROGRESS.md. Process files z → a, entries in descending order (last index, last−1, ...). Batch ID prefix: `B-`.
+- **Rule**: Never work on the same file as the other agent. If you reach a file the other agent is on, skip to the next unprocessed file.
 
 ---
 
@@ -34,6 +42,26 @@ The full workflow — translate, audit, commit — should complete a 25-entry ba
 
 ---
 
+## ← Backward Agent (z → a)
+
+Works from z.json backward to a.json. Same per-word workflow as below, but batch creation differs:
+
+### Batch Creation (Backward)
+
+1. Read the **backward cursor** from PROGRESS.md
+2. Your batch = the next 25 entries working **downward** from the cursor
+   - Example: cursor = z.json index 138 → batch = indices 138, 137, 136, ..., 113
+   - Batch ID prefix: `B-` (e.g., `B-z-0001` for z.json batch 1)
+3. Process each entry normally (same word-by-word workflow)
+4. When done with a file, move to the previous file in alphabetical order (z → y → x → ...)
+5. **If you reach a file the forward agent is still on, skip to the next unprocessed file**
+
+### Batch Range Notation
+
+In PROGRESS.md, backward ranges are written descending: `B-z-0001 | z.json | 138–113`
+
+---
+
 ## 🔨 Working Agent (standalone)
 
 Your job: fill every field, verify everything, and stamp your work. You own the full word — set both `metadata.provider` (your model name) and `metadata.updatedAt` (current Unix timestamp) when done.
@@ -44,7 +72,7 @@ Your job: fill every field, verify everything, and stamp your work. You own the 
 2. If no pending batch exists, create the next one:
    - Follow the cursor in PROGRESS.md to find `file` and `index`
    - The batch is the next 25 entries from that cursor position
-   - Batch ID format: `{file_letter}-{batch_number:04d}` (e.g., `a-0001` for a.json batch 1)
+   - Batch ID format: `F-{file_letter}-{batch_number:04d}` (e.g., `F-a-0001` for a.json batch 1)
 3. Update PROGRESS.md:
    - Set batch status to `🟡 working`
    - Record your provider name and start timestamp

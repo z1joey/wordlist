@@ -3,10 +3,10 @@
     "word": "y",
     "pronunciation": {
       "us": {
-        "ipa": "ˈɪtrɪəm"
+        "ipa": "waɪ"
       },
       "uk": {
-        "ipa": "ˈɪtrɪəm"
+        "ipa": "waɪ"
       }
     },
     "forms": {},
@@ -29,18 +29,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yacca",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjækə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjækə"
       }
     },
     "forms": {},
@@ -61,8 +61,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -111,18 +111,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yachting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɒtɪŋ"
       }
     },
     "forms": {},
@@ -141,7 +141,7 @@
             "examples": [
               {
                 "text": "I enjoy yachting on the Atlantic off the coast of Florida.",
-                "translation": ""
+                "translation": "夏天我们经常去驾艇航行。"
               }
             ]
           }
@@ -150,18 +150,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yachtsman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑtsmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɒtsmən"
       }
     },
     "forms": {},
@@ -182,18 +182,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yack",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jæk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jæk"
       }
     },
     "forms": {
@@ -217,7 +217,7 @@
             "examples": [
               {
                 "text": "Quiet your yack.",
-                "translation": ""
+                "translation": "别再喋喋不休了！"
               }
             ]
           }
@@ -233,7 +233,7 @@
             "examples": [
               {
                 "text": "The kids were yacking about their trip to the zoo.",
-                "translation": ""
+                "translation": "别再喋喋不休了！"
               }
             ]
           }
@@ -242,18 +242,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yagi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːɡiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːɡiː"
       }
     },
     "forms": {},
@@ -266,7 +266,7 @@
           {
             "id": "yagi-noun-1",
             "definition": "a sharply directional antenna",
-            "translation": "",
+            "translation": "八木天线（定向天线）",
             "examples": [
               {
                 "text": "We pointed the yagi toward the signal's source.",
@@ -279,18 +279,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yahoo",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɑhu"
+        "ipa": "ˈjɑhuː"
       },
       "uk": {
-        "ipa": "jɑ:ˈhu"
+        "ipa": "jɑːˈhuː"
       }
     },
     "forms": {},
@@ -309,7 +309,7 @@
             "examples": [
               {
                 "text": "These yahoos keep driving down the street at 70 mph.",
-                "translation": ""
+                "translation": "那个粗鲁的家伙在聚会上大喊大叫。"
               }
             ]
           },
@@ -320,7 +320,7 @@
             "examples": [
               {
                 "text": "This bar is full of yahoos.",
-                "translation": ""
+                "translation": "那个粗鲁的家伙在聚会上大喊大叫。"
               }
             ]
           }
@@ -329,8 +329,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -379,7 +379,7 @@
             "examples": [
               {
                 "text": "I was yakking away about my grandchildren with a glass of whiskey on the porch.",
-                "translation": ""
+                "translation": "他们在那里一直喧哗好几个小时。"
               }
             ]
           }
@@ -393,18 +393,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yakuza",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɑːˈkuːzɑː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɑːˈkuːzɑː"
       }
     },
     "forms": {},
@@ -441,18 +441,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yall",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɔːl"
       }
     },
     "forms": {},
@@ -465,7 +465,7 @@
           {
             "id": "yall-pronoun-1",
             "definition": "second person plural pronoun, contraction of \"you all\"",
-            "translation": "",
+            "translation": "你们大家（口语）",
             "examples": [
               {
                 "text": "I don't know about y'all, but I'm ready for bed.",
@@ -478,8 +478,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -528,18 +528,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yammer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjæmər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjæmə"
       }
     },
     "forms": {
@@ -563,7 +563,7 @@
             "examples": [
               {
                 "text": "The kids yammered about getting socks for Christmas again.",
-                "translation": ""
+                "translation": "员工们整天抱怨新政策。"
               }
             ]
           },
@@ -574,7 +574,7 @@
             "examples": [
               {
                 "text": "The yammering coyotes kept us awake in the tent all night long.",
-                "translation": ""
+                "translation": "员工们整天抱怨新政策。"
               }
             ]
           }
@@ -583,8 +583,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -611,7 +611,7 @@
             "examples": [
               {
                 "text": "Yin and yang together produce everything that comes into existence, according to some.",
-                "translation": ""
+                "translation": "道家认为宇宙由阴阳两种力量组成。"
               }
             ]
           }
@@ -620,8 +620,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -654,7 +654,7 @@
             "examples": [
               {
                 "text": "The yank on the rope caught me off guard.",
-                "translation": ""
+                "translation": "他猛地一拉就把钉子拔了出来。"
               }
             ]
           },
@@ -665,7 +665,7 @@
             "examples": [
               {
                 "text": "This cafe is full of drunken yanks.",
-                "translation": ""
+                "translation": "他猛地一拉就把钉子拔了出来。"
               }
             ]
           }
@@ -681,7 +681,7 @@
             "examples": [
               {
                 "text": "I yanked the table cloth off the table, leaving the plates and silverware in place.",
-                "translation": ""
+                "translation": "他猛地一拉就把钉子拔了出来。"
               }
             ]
           }
@@ -699,18 +699,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yankee",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjæŋki"
+        "ipa": "ˈjæŋkiː"
       },
       "uk": {
-        "ipa": "ˈjæŋkɪ"
+        "ipa": "ˈjæŋkiː"
       }
     },
     "forms": {},
@@ -727,7 +727,7 @@
             "examples": [
               {
                 "text": "I don't care for Yankee food.",
-                "translation": ""
+                "translation": "纽约洋基队是美国职棒大联盟的球队。"
               }
             ]
           }
@@ -747,18 +747,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yanker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjæŋkər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjæŋkə"
       }
     },
     "forms": {},
@@ -781,18 +781,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jæp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jæp"
       }
     },
     "forms": {
@@ -841,18 +841,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yard",
     "pronunciation": {
       "us": {
-        "ipa": "jɑrd"
+        "ipa": "jɑːrd"
       },
       "uk": {
-        "ipa": "jɑ:d"
+        "ipa": "jɑːd"
       }
     },
     "forms": {},
@@ -894,7 +894,7 @@
             "examples": [
               {
                 "text": "it was a small house with almost no yard",
-                "translation": ""
+                "translation": "这块布料有三码长。"
               }
             ]
           },
@@ -911,7 +911,7 @@
             "examples": [
               {
                 "text": "they opened a repair yard on the edge of town",
-                "translation": ""
+                "translation": "这块布料有三码长。"
               }
             ]
           },
@@ -928,7 +928,7 @@
             "examples": [
               {
                 "text": "We'll need 1000 yards to finish this project.",
-                "translation": ""
+                "translation": "这块布料有三码长。"
               }
             ]
           },
@@ -954,18 +954,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardage",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɑrdɪdʒ"
+        "ipa": "ˈjɑːrdɪdʒ"
       },
       "uk": {
-        "ipa": "ˈjɑ:dɪdʒ"
+        "ipa": "ˈjɑːdɪdʒ"
       }
     },
     "forms": {},
@@ -982,7 +982,7 @@
             "examples": [
               {
                 "text": "What is the yardage of this golf course?",
-                "translation": ""
+                "translation": "这项工程需要大量的土方量。"
               }
             ]
           }
@@ -991,18 +991,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardarm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdɑːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdɑːm"
       }
     },
     "forms": {},
@@ -1015,11 +1015,11 @@
           {
             "id": "yardarm-noun-1",
             "definition": "either end of the yard of a square-rigged ship",
-            "translation": "",
+            "translation": "帆桁端（帆船上的横桁两端）",
             "examples": [
               {
                 "text": "Go up on the yardarm and have a look.",
-                "translation": ""
+                "translation": "水手们在帆桁端挂上了信号灯。"
               }
             ]
           }
@@ -1028,18 +1028,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardbird",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdbɜːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdbɜːd"
       }
     },
     "forms": {},
@@ -1058,7 +1058,7 @@
             "examples": [
               {
                 "text": "Some thought the yardbirds would never amount to anything.",
-                "translation": ""
+                "translation": "那个新兵在基础训练中很努力。"
               }
             ]
           },
@@ -1069,7 +1069,7 @@
             "examples": [
               {
                 "text": "Looks like we have a new yard bird to collect cigarette butts in the parking lot.",
-                "translation": ""
+                "translation": "那个新兵在基础训练中很努力。"
               }
             ]
           }
@@ -1078,18 +1078,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdə"
       }
     },
     "forms": {},
@@ -1121,18 +1121,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardgrass",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdɡræs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdɡrɑːs"
       }
     },
     "forms": {},
@@ -1153,18 +1153,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardie",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdiː"
       }
     },
     "forms": {},
@@ -1190,18 +1190,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdmən"
       }
     },
     "forms": {},
@@ -1238,18 +1238,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardmaster",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrdmæstər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːdmɑːstə"
       }
     },
     "forms": {},
@@ -1272,18 +1272,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yardstick",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɑrdstɪk"
+        "ipa": "ˈjɑːrdstɪk"
       },
       "uk": {
-        "ipa": "ˈjɑ:dstɪk"
+        "ipa": "ˈjɑːdstɪk"
       }
     },
     "forms": {},
@@ -1317,18 +1317,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarmelke",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrməlkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːməlkə"
       }
     },
     "forms": {},
@@ -1354,18 +1354,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarmulka",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrmʊlkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːmʊlkə"
       }
     },
     "forms": {},
@@ -1391,18 +1391,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarmulke",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɑːrmʊlk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɑːmʊlk"
       }
     },
     "forms": {},
@@ -1428,18 +1428,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarn",
     "pronunciation": {
       "us": {
-        "ipa": "jɑrn"
+        "ipa": "jɑːrn"
       },
       "uk": {
-        "ipa": "jɑ:n"
+        "ipa": "jɑːn"
       }
     },
     "forms": {
@@ -1494,18 +1494,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yarrow",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjæroʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjærəʊ"
       }
     },
     "forms": {},
@@ -1528,18 +1528,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yashmac",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjæʃmæk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjæʃmæk"
       }
     },
     "forms": {},
@@ -1567,18 +1567,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yashmak",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjæʃmæk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjæʃmæk"
       }
     },
     "forms": {},
@@ -1601,18 +1601,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yataghan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjætəɡæn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjætəɡæn"
       }
     },
     "forms": {},
@@ -1638,18 +1638,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yatobyo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɑːˈtoʊbiːjoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɑːˈtəʊbiːjəʊ"
       }
     },
     "forms": {},
@@ -1677,18 +1677,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yaup",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɔːp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɔːp"
       }
     },
     "forms": {
@@ -1720,18 +1720,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yautia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jaʊˈtiːə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jaʊˈtiːə"
       }
     },
     "forms": {},
@@ -1756,18 +1756,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yaw",
     "pronunciation": {
       "us": {
-        "ipa": "jɔ"
+        "ipa": "jɔː"
       },
       "uk": {
-        "ipa": "jɔ:"
+        "ipa": "jɔː"
       }
     },
     "forms": {
@@ -1793,7 +1793,7 @@
             "examples": [
               {
                 "text": "The yaw of the plane was affected by the unbalanced thrust.",
-                "translation": ""
+                "translation": "飞机在强风中发生了偏航。"
               }
             ]
           },
@@ -1815,7 +1815,7 @@
             "examples": [
               {
                 "text": "The plane yawed to the left to match the new heading.",
-                "translation": ""
+                "translation": "飞机在强风中发生了偏航。"
               }
             ]
           },
@@ -1826,7 +1826,7 @@
             "examples": [
               {
                 "text": "The ship yawed when the huge waves hit it.",
-                "translation": ""
+                "translation": "飞机在强风中发生了偏航。"
               }
             ]
           },
@@ -1837,7 +1837,7 @@
             "examples": [
               {
                 "text": "The car with the flat started to yaw away from the road.",
-                "translation": ""
+                "translation": "飞机在强风中发生了偏航。"
               }
             ]
           },
@@ -1848,7 +1848,7 @@
             "examples": [
               {
                 "text": "The chasm yawed in front of them.",
-                "translation": ""
+                "translation": "飞机在强风中发生了偏航。"
               }
             ]
           }
@@ -1862,18 +1862,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yawl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɔːl"
       }
     },
     "forms": {
@@ -1922,18 +1922,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yawn",
     "pronunciation": {
       "us": {
-        "ipa": "jɔn"
+        "ipa": "jɔːn"
       },
       "uk": {
-        "ipa": "jɔ:n"
+        "ipa": "jɔːn"
       }
     },
     "forms": {
@@ -1994,18 +1994,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yawner",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɔːnər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɔːnə"
       }
     },
     "forms": {},
@@ -2031,18 +2031,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yawning",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɔːnɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɔːnɪŋ"
       }
     },
     "forms": {},
@@ -2109,18 +2109,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yawp",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɔːp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɔːp"
       }
     },
     "forms": {
@@ -2144,7 +2144,7 @@
             "examples": [
               {
                 "text": "The children yawped to their parents about eating brussels sprouts.",
-                "translation": ""
+                "translation": "醉汉在酒吧里大声喊叫。"
               }
             ]
           },
@@ -2155,7 +2155,7 @@
             "examples": [
               {
                 "text": "The students were yawping at a party.",
-                "translation": ""
+                "translation": "醉汉在酒吧里大声喊叫。"
               }
             ]
           }
@@ -2164,18 +2164,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yaws",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɔːz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɔːz"
       }
     },
     "forms": {},
@@ -2199,15 +2199,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yea",
     "pronunciation": {
       "us": {
-        "ipa": "je"
+        "ipa": "jeɪ"
       },
       "uk": {
         "ipa": "jeɪ"
@@ -2255,18 +2255,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeah",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɛə"
+        "ipa": "jɛə"
       },
       "uk": {
-        "ipa": "jeə"
+        "ipa": "jɛə"
       }
     },
     "forms": {},
@@ -2281,7 +2281,7 @@
           {
             "id": "yeah-adverb-1",
             "definition": "casual way of answering yes",
-            "translation": "",
+            "translation": "是的（yes的口语形式）",
             "examples": [
               {
                 "text": "Yeah, I agree.",
@@ -2294,18 +2294,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "year",
     "pronunciation": {
       "us": {
-        "ipa": "jɪɚ"
+        "ipa": "jɪər"
       },
       "uk": {
-        "ipa": "jɪə(r)"
+        "ipa": "jɪə"
       }
     },
     "forms": {},
@@ -2334,7 +2334,7 @@
             "examples": [
               {
                 "text": "a Martian year takes 687 of our days",
-                "translation": ""
+                "translation": "新年快乐！"
               }
             ]
           },
@@ -2345,7 +2345,7 @@
             "examples": [
               {
                 "text": "I am four years old.",
-                "translation": ""
+                "translation": "新年快乐！"
               }
             ]
           },
@@ -2356,7 +2356,7 @@
             "examples": [
               {
                 "text": "a school year",
-                "translation": ""
+                "translation": "新年快乐！"
               }
             ]
           }
@@ -2430,18 +2430,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearbook",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɪrbʊk"
+        "ipa": "ˈjɪərbʊk"
       },
       "uk": {
-        "ipa": "ˈjɪəbuk"
+        "ipa": "ˈjɪəbʊk"
       }
     },
     "forms": {},
@@ -2458,7 +2458,7 @@
             "examples": [
               {
                 "text": "Yearbooks are being sold for $65 dollars in the cafeteria this week.",
-                "translation": ""
+                "translation": "我们班买了一本年鉴纪念毕业。"
               }
             ]
           }
@@ -2467,15 +2467,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearling",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɪrlɪŋ"
+        "ipa": "ˈjɪərlɪŋ"
       },
       "uk": {
         "ipa": "ˈjɪəlɪŋ"
@@ -2494,7 +2494,7 @@
           {
             "id": "yearling-noun-1",
             "definition": "an animal in its second year",
-            "translation": "",
+            "translation": "一岁幼畜；周岁动物",
             "examples": []
           },
           {
@@ -2514,18 +2514,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearlong",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɪərlɔːŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɪəlɒŋ"
       }
     },
     "forms": {},
@@ -2542,7 +2542,7 @@
             "examples": [
               {
                 "text": "I am attending yearlong courses in Latin.",
-                "translation": ""
+                "translation": "这个项目将持续一年。"
               }
             ]
           }
@@ -2551,18 +2551,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearly",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɪrli"
+        "ipa": "ˈjɪərliː"
       },
       "uk": {
-        "ipa": "ˈjɜ:lɪ"
+        "ipa": "ˈjɪəlɪ"
       }
     },
     "forms": {},
@@ -2613,17 +2613,17 @@
     "phrases": [],
     "metadata": {
       "provider": "MiniMax-M2.7-highspeed",
-      "updatedAt": 1782477000
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearn",
     "pronunciation": {
       "us": {
-        "ipa": "jɚn"
+        "ipa": "jɜːrn"
       },
       "uk": {
-        "ipa": "jɜ:n"
+        "ipa": "jɜːn"
       }
     },
     "forms": {
@@ -2652,7 +2652,7 @@
             "examples": [
               {
                 "text": "I yearn for them.",
-                "translation": ""
+                "translation": "海外游子渴望回到故乡。"
               }
             ]
           },
@@ -2663,7 +2663,7 @@
             "examples": [
               {
                 "text": "I yearn to go on a trip abroad.",
-                "translation": ""
+                "translation": "海外游子渴望回到故乡。"
               }
             ]
           },
@@ -2674,7 +2674,7 @@
             "examples": [
               {
                 "text": "The old couple yearned for simpler times.",
-                "translation": ""
+                "translation": "海外游子渴望回到故乡。"
               }
             ]
           }
@@ -2688,18 +2688,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearner",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɜːrnər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɜːnə"
       }
     },
     "forms": {},
@@ -2727,18 +2727,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearning",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɚnɪŋ"
+        "ipa": "ˈjɜːrnɪŋ"
       },
       "uk": {
-        "ipa": "ˈjɜ:nɪŋ"
+        "ipa": "ˈjɜːnɪŋ"
       }
     },
     "forms": {},
@@ -2757,7 +2757,7 @@
             "examples": [
               {
                 "text": "This yearning for travel will not go away.",
-                "translation": ""
+                "translation": "她对家乡的渴望与日俱增。"
               }
             ]
           }
@@ -2766,18 +2766,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yearningly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɜːrnɪŋliː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɜːnɪŋlɪ"
       }
     },
     "forms": {},
@@ -2805,18 +2805,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeast",
     "pronunciation": {
       "us": {
-        "ipa": "jist"
+        "ipa": "jiːst"
       },
       "uk": {
-        "ipa": "ji:st"
+        "ipa": "jiːst"
       }
     },
     "forms": {},
@@ -2848,18 +2848,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeastlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjiːstlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjiːstlaɪk"
       }
     },
     "forms": {},
@@ -2882,18 +2882,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeasty",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjiːstiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjiːstɪ"
       }
     },
     "forms": {},
@@ -2931,18 +2931,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeatsian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjeɪtsiən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeɪtsɪən"
       }
     },
     "forms": {},
@@ -2968,8 +2968,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -3010,7 +3010,7 @@
             "examples": [
               {
                 "text": "They let loose a yell when they saw the party.",
-                "translation": ""
+                "translation": "球迷们大声喊叫为球队加油。"
               }
             ]
           },
@@ -3021,7 +3021,7 @@
             "examples": [
               {
                 "text": "The crowd let out an angry yell.",
-                "translation": ""
+                "translation": "球迷们大声喊叫为球队加油。"
               }
             ]
           }
@@ -3037,7 +3037,7 @@
             "examples": [
               {
                 "text": "You don't have to yell the directions--I can hear you just fine!",
-                "translation": ""
+                "translation": "球迷们大声喊叫为球队加油。"
               }
             ]
           },
@@ -3048,7 +3048,7 @@
             "examples": [
               {
                 "text": "The team yelled to the fans when they scored.",
-                "translation": ""
+                "translation": "球迷们大声喊叫为球队加油。"
               }
             ]
           }
@@ -3078,18 +3078,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yelled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɛld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jeld"
       }
     },
     "forms": {},
@@ -3108,7 +3108,7 @@
             "examples": [
               {
                 "text": "Your yelled warning was of no use; the car still didn't have time to stop.",
-                "translation": ""
+                "translation": "老师大声训斥了那个学生。"
               }
             ]
           }
@@ -3117,18 +3117,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeller",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjelə"
       }
     },
     "forms": {},
@@ -3156,18 +3156,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yelling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjelɪŋ"
       }
     },
     "forms": {},
@@ -3190,15 +3190,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellow",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjeloʊ"
+        "ipa": "ˈjɛloʊ"
       },
       "uk": {
         "ipa": "ˈjeləʊ"
@@ -3258,7 +3258,7 @@
             "examples": [
               {
                 "text": "the little yellow stain of treason-M.W.Straight",
-                "translation": ""
+                "translation": "她穿了一件黄色的连衣裙。"
               }
             ]
           },
@@ -3269,7 +3269,7 @@
             "examples": [
               {
                 "text": "yellowed parchment",
-                "translation": ""
+                "translation": "她穿了一件黄色的连衣裙。"
               }
             ]
           }
@@ -3296,7 +3296,7 @@
             "examples": [
               {
                 "text": "The pages of the book began to yellow",
-                "translation": ""
+                "translation": "她穿了一件黄色的连衣裙。"
               }
             ]
           }
@@ -3314,18 +3314,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowbird",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊbɜːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊbɜːd"
       }
     },
     "forms": {},
@@ -3354,18 +3354,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowcake",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊkeɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊkeɪk"
       }
     },
     "forms": {},
@@ -3391,15 +3391,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowed",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɛlod"
+        "ipa": "ˈjɛloʊd"
       },
       "uk": {
         "ipa": "ˈjeləʊd"
@@ -3430,18 +3430,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowfin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊfɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊfɪn"
       }
     },
     "forms": {},
@@ -3462,18 +3462,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowhammer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊhæmər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊhæmə"
       }
     },
     "forms": {},
@@ -3500,15 +3500,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowish",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjeloʊɪʃ"
+        "ipa": "ˈjɛloʊɪʃ"
       },
       "uk": {
         "ipa": "ˈjeləʊɪʃ"
@@ -3537,18 +3537,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊnəs"
       }
     },
     "forms": {},
@@ -3587,18 +3587,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowtail",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊteɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊteɪl"
       }
     },
     "forms": {},
@@ -3625,18 +3625,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yellowwood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛloʊwʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjeləʊwʊd"
       }
     },
     "forms": {},
@@ -3663,15 +3663,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yelp",
     "pronunciation": {
       "us": {
-        "ipa": "jelp"
+        "ipa": "jɛlp"
       },
       "uk": {
         "ipa": "jelp"
@@ -3700,7 +3700,7 @@
             "examples": [
               {
                 "text": "The yelp pierced the silent night sky and made its way through the streets of Chicago.",
-                "translation": ""
+                "translation": "狗对着邮递员发出一声尖叫。"
               }
             ]
           }
@@ -3716,7 +3716,7 @@
             "examples": [
               {
                 "text": "The puppies yelped when they heard the garage door open up.",
-                "translation": ""
+                "translation": "狗对着邮递员发出一声尖叫。"
               }
             ]
           }
@@ -3725,18 +3725,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yelping",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛlpɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjelpɪŋ"
       }
     },
     "forms": {},
@@ -3764,18 +3764,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yemeni",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛməniː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjemənɪ"
       }
     },
     "forms": {},
@@ -3792,7 +3792,7 @@
             "examples": [
               {
                 "text": "The Yemeni mountains provide a harsh living environment.",
-                "translation": ""
+                "translation": "也门美食融合了中东和非洲的烹饪风格。"
               }
             ]
           }
@@ -3801,8 +3801,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -3859,18 +3859,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yenta",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛntə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjentə"
       }
     },
     "forms": {},
@@ -3887,7 +3887,7 @@
             "examples": [
               {
                 "text": "The party was full of insufferable yentas.",
-                "translation": ""
+                "translation": "那个爱管闲事的女人总是打听别人的事情。"
               }
             ]
           },
@@ -3898,7 +3898,7 @@
             "examples": [
               {
                 "text": "I won't let you grow up to be a yenta!",
-                "translation": ""
+                "translation": "那个爱管闲事的女人总是打听别人的事情。"
               }
             ]
           }
@@ -3907,8 +3907,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -3949,18 +3949,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeomanry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊmənriː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊmənrɪ"
       }
     },
     "forms": {},
@@ -3997,8 +3997,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -4030,7 +4030,7 @@
             "examples": [
               {
                 "text": "I was hoping for a yes.",
-                "translation": ""
+                "translation": "是的，我同意你的看法。"
               }
             ]
           }
@@ -4039,18 +4039,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeshiva",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jəˈʃiːvə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jəˈʃiːvə"
       }
     },
     "forms": {},
@@ -4073,18 +4073,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeshivah",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jəˈʃiːvɑː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jəˈʃiːvɑː"
       }
     },
     "forms": {},
@@ -4107,15 +4107,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yesterday",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjestɚde"
+        "ipa": "ˈjɛstərdeɪ"
       },
       "uk": {
         "ipa": "ˈjestədeɪ"
@@ -4140,7 +4140,7 @@
             "examples": [
               {
                 "text": "Yesterday, the weather was beautiful.",
-                "translation": ""
+                "translation": "我昨天去看了一场电影。"
               }
             ]
           },
@@ -4151,7 +4151,7 @@
             "examples": [
               {
                 "text": "The election was news yesterday.",
-                "translation": ""
+                "translation": "我昨天去看了一场电影。"
               }
             ]
           }
@@ -4167,7 +4167,7 @@
             "examples": [
               {
                 "text": "The news was in yesterday's newspapers.",
-                "translation": ""
+                "translation": "我昨天去看了一场电影。"
               }
             ]
           },
@@ -4178,7 +4178,7 @@
             "examples": [
               {
                 "text": "Yesterday's solutions are not good enough.",
-                "translation": ""
+                "translation": "我昨天去看了一场电影。"
               }
             ]
           }
@@ -4187,18 +4187,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yesteryear",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɛstərjɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjestəjɪə"
       }
     },
     "forms": {},
@@ -4217,7 +4217,7 @@
             "examples": [
               {
                 "text": "We have not heard that song since yesteryear.",
-                "translation": ""
+                "translation": "往昔的美好时光令人怀念。"
               }
             ]
           }
@@ -4226,8 +4226,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -4260,7 +4260,7 @@
             "examples": [
               {
                 "text": "We aim for yet better results.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           },
@@ -4271,7 +4271,7 @@
             "examples": [
               {
                 "text": "You are right, yet I still disagree.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           },
@@ -4282,7 +4282,7 @@
             "examples": [
               {
                 "text": "I have yet to see the results.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           },
@@ -4293,7 +4293,7 @@
             "examples": [
               {
                 "text": "Yet you have not lived up to expectations.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           },
@@ -4304,7 +4304,7 @@
             "examples": [
               {
                 "text": "The violinist was the best yet.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           },
@@ -4315,7 +4315,7 @@
             "examples": [
               {
                 "text": "The gardeners longed for the flowers that were yet to show themselves.",
-                "translation": ""
+                "translation": "我还没做完作业。"
               }
             ]
           }
@@ -4324,15 +4324,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yeti",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɛti"
+        "ipa": "ˈjeɪtiː"
       },
       "uk": {
         "ipa": "ˈjetɪ"
@@ -4348,11 +4348,11 @@
           {
             "id": "yeti-noun-1",
             "definition": "a large hairy humanoid creature said to live in the Himalayas",
-            "translation": "",
+            "translation": "雪人（传说生物）",
             "examples": [
               {
                 "text": "The Everest expedition came to an untimely end upon being devoured by a Yeti.",
-                "translation": ""
+                "translation": "喜马拉雅山的雪人传说吸引了无数探险者。"
               }
             ]
           }
@@ -4361,18 +4361,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yew",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "juː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "juː"
       }
     },
     "forms": {},
@@ -4389,7 +4389,7 @@
             "examples": [
               {
                 "text": "I especially like the durable fine-grained light brown or red wood of the English yew for cabinetwork and archery bows.",
-                "translation": ""
+                "translation": "墓地旁种着几棵古老的紫杉。"
               }
             ]
           }
@@ -4398,18 +4398,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɪd"
       }
     },
     "forms": {},
@@ -4434,7 +4434,7 @@
             "examples": [
               {
                 "text": "We were shocked and offended when they called us yids.",
-                "translation": ""
+                "translation": "不要用那个贬义词。"
               }
             ]
           }
@@ -4443,18 +4443,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yield",
     "pronunciation": {
       "us": {
-        "ipa": "jild"
+        "ipa": "jiːld"
       },
       "uk": {
-        "ipa": "ji:ld"
+        "ipa": "jiːld"
       }
     },
     "forms": {
@@ -4523,7 +4523,7 @@
             "examples": [
               {
                 "text": "The door yielded to repeated blows with a battering ram",
-                "translation": ""
+                "translation": "这块地的玉米产量很高。"
               }
             ]
           },
@@ -4705,18 +4705,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yielder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjiːldər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjiːldə"
       }
     },
     "forms": {},
@@ -4735,7 +4735,7 @@
             "examples": [
               {
                 "text": "The conquerers met with no yielders in their contested invasion.",
-                "translation": ""
+                "translation": "这位农民是镇上最高的玉米产量者。"
               }
             ]
           }
@@ -4744,18 +4744,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yielding",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjildɪŋ"
+        "ipa": "ˈjiːldɪŋ"
       },
       "uk": {
-        "ipa": "ˈji:ldɪŋ"
+        "ipa": "ˈjiːldɪŋ"
       }
     },
     "forms": {},
@@ -4832,18 +4832,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yieldingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjiːldɪŋliː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjiːldɪŋlɪ"
       }
     },
     "forms": {},
@@ -4871,8 +4871,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -4899,7 +4899,7 @@
             "examples": [
               {
                 "text": "The interaction of yin and yang maintains the harmony of the universe, according to some.",
-                "translation": ""
+                "translation": "道家认为阴阳互补才能达到平衡。"
               }
             ]
           }
@@ -4917,8 +4917,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -4968,18 +4968,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yips",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɪps"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɪps"
       }
     },
     "forms": {},
@@ -5005,18 +5005,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "ylem",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈaɪlɛm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈaɪlem"
       }
     },
     "forms": {},
@@ -5042,18 +5042,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "joʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jəʊ"
       }
     },
     "forms": {},
@@ -5079,18 +5079,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yob",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɒb"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɒb"
       }
     },
     "forms": {},
@@ -5118,18 +5118,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yobbo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjɒboʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjɒbəʊ"
       }
     },
     "forms": {},
@@ -5157,18 +5157,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yobibit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊbɪbɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊbɪbɪt"
       }
     },
     "forms": {},
@@ -5194,18 +5194,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yobibyte",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊbɪbaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊbɪbaɪt"
       }
     },
     "forms": {},
@@ -5233,18 +5233,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yobo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊboʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊbəʊ"
       }
     },
     "forms": {},
@@ -5272,18 +5272,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yodel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊdəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊdəl"
       }
     },
     "forms": {
@@ -5306,7 +5306,7 @@
             "examples": [
               {
                 "text": "The student's yodel projected quite a distance.",
-                "translation": ""
+                "translation": "瑞士牧羊人用岳得尔调唱法在山谷间传递消息。"
               }
             ]
           }
@@ -5322,7 +5322,7 @@
             "examples": [
               {
                 "text": "I started my music career yodeling on street corners for change.",
-                "translation": ""
+                "translation": "瑞士牧羊人用岳得尔调唱法在山谷间传递消息。"
               }
             ]
           }
@@ -5331,18 +5331,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yodeling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊdəlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊdəlɪŋ"
       }
     },
     "forms": {},
@@ -5368,18 +5368,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yodeller",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊdələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊdələ"
       }
     },
     "forms": {},
@@ -5405,18 +5405,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yodh",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "joʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jəʊd"
       }
     },
     "forms": {},
@@ -5433,7 +5433,7 @@
             "examples": [
               {
                 "text": "I have trouble pronouncing yodh.",
-                "translation": ""
+                "translation": "希伯来字母yodh是第10个字母。"
               }
             ]
           }
@@ -5442,15 +5442,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yoga",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjoʊgə"
+        "ipa": "ˈjoʊɡə"
       },
       "uk": {
         "ipa": "ˈjəʊɡə"
@@ -5472,7 +5472,7 @@
             "examples": [
               {
                 "text": "I always feel calm after practicing yoga.",
-                "translation": ""
+                "translation": "我每天早上练瑜伽来保持健康。"
               }
             ]
           }
@@ -5481,18 +5481,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yoghourt",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjogɚt"
+        "ipa": "ˈjoʊɡərt"
       },
       "uk": {
-        "ipa": "ˈjəʊgət"
+        "ipa": "ˈjəʊɡət"
       }
     },
     "forms": {},
@@ -5513,18 +5513,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yoghurt",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjoʊgət"
+        "ipa": "ˈjoʊɡərt"
       },
       "uk": {
-        "ipa": "ˈjəʊgɜ:t"
+        "ipa": "ˈjəʊɡət"
       }
     },
     "forms": {},
@@ -5552,18 +5552,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yogi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊɡiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊɡiː"
       }
     },
     "forms": {},
@@ -5580,7 +5580,7 @@
             "examples": [
               {
                 "text": "My yogi taught me how to stretch and meditate.",
-                "translation": ""
+                "translation": "那位瑜伽大师已经修行了五十年。"
               }
             ]
           }
@@ -5589,18 +5589,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yogic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊɡɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊɡɪk"
       }
     },
     "forms": {},
@@ -5615,7 +5615,7 @@
           {
             "id": "yogic-adjective-1",
             "definition": "of or relating to yoga",
-            "translation": "关联的",
+            "translation": "瑜伽的",
             "examples": [
               {
                 "text": "Yogic exercises have trimmed my belly.",
@@ -5628,18 +5628,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yogistic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "joʊˈɡɪstɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jəʊˈɡɪstɪk"
       }
     },
     "forms": {},
@@ -5662,18 +5662,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yogurt",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjoɡət"
+        "ipa": "ˈjoʊɡərt"
       },
       "uk": {
-        "ipa": "ˈjɒɡət"
+        "ipa": "ˈjəʊɡət"
       }
     },
     "forms": {},
@@ -5699,8 +5699,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -5739,7 +5739,7 @@
             "examples": [
               {
                 "text": "The oxen were used to pulling the plow with the yoke.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5750,7 +5750,7 @@
             "examples": [
               {
                 "text": "The tailor had to patch the yoke of my shirt.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5761,7 +5761,7 @@
             "examples": [
               {
                 "text": "The yoke between the parts was firm after the glue dried.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5772,7 +5772,7 @@
             "examples": [
               {
                 "text": "The farmer carried buckets of water with a yoke back to the house.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5783,7 +5783,7 @@
             "examples": [
               {
                 "text": "The wagon was pulled by a yoke of oxen.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5794,7 +5794,7 @@
             "examples": [
               {
                 "text": "The third broke, but we still have a yoke.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5805,7 +5805,7 @@
             "examples": [
               {
                 "text": "The populace was under the yoke of a tyrant.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5816,7 +5816,7 @@
             "examples": [
               {
                 "text": "The pilot pulled back on the yoke to straighten out the plane's path.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           }
@@ -5832,7 +5832,7 @@
             "examples": [
               {
                 "text": "The peasant yoked the horse after putting its blinders on.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5843,7 +5843,7 @@
             "examples": [
               {
                 "text": "You will need to yoke the oxen together.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           },
@@ -5854,7 +5854,7 @@
             "examples": [
               {
                 "text": "We were yoked before competing in the three-legged race.",
-                "translation": ""
+                "translation": "农民把轭套在两头牛身上。"
               }
             ]
           }
@@ -5876,15 +5876,15 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yokel",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjoʊkl"
+        "ipa": "ˈjoʊkəl"
       },
       "uk": {
         "ipa": "ˈjəʊkəl"
@@ -5908,7 +5908,7 @@
             "examples": [
               {
                 "text": "They looked like yokels, but were in fact college professors.",
-                "translation": ""
+                "translation": "那个乡巴佬第一次进城。"
               }
             ]
           }
@@ -5917,18 +5917,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yokelish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊkəlɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊkəlɪʃ"
       }
     },
     "forms": {},
@@ -5956,8 +5956,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -5997,18 +5997,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yolo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjoʊloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjəʊləʊ"
       }
     },
     "forms": {},
@@ -6021,7 +6021,7 @@
           {
             "id": "yolo-phrase-1",
             "definition": "shortened form of \"you only live once\"",
-            "translation": "",
+            "translation": "你只活一次（网络用语）",
             "examples": []
           }
         ]
@@ -6029,18 +6029,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yon",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jɒn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jɒn"
       }
     },
     "forms": {},
@@ -6068,18 +6068,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yonder",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjɑndɚ(r)"
+        "ipa": "ˈjɒndər"
       },
       "uk": {
-        "ipa": "ˈjɒndə(r)"
+        "ipa": "ˈjɒndə"
       }
     },
     "forms": {},
@@ -6098,7 +6098,7 @@
             "examples": [
               {
                 "text": "yonder valley",
-                "translation": ""
+                "translation": "看那边的山！"
               }
             ]
           }
@@ -6114,7 +6114,7 @@
             "examples": [
               {
                 "text": "the house yonder",
-                "translation": ""
+                "translation": "看那边的山！"
               }
             ]
           }
@@ -6123,18 +6123,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yore",
     "pronunciation": {
       "us": {
-        "ipa": "jɔr"
+        "ipa": "jɔːr"
       },
       "uk": {
-        "ipa": "jɔ:"
+        "ipa": "jɔː"
       }
     },
     "forms": {},
@@ -6147,11 +6147,11 @@
           {
             "id": "yore-noun-1",
             "definition": "time long past",
-            "translation": "时间长的过去的",
+            "translation": "很久以前；昔日",
             "examples": [
               {
                 "text": "The card games of yore are mostly forgotten.",
-                "translation": ""
+                "translation": "昔日的好时光令人怀念。"
               }
             ]
           }
@@ -6160,18 +6160,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yottabit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "yottabit"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "yottabit"
       }
     },
     "forms": {},
@@ -6184,7 +6184,7 @@
           {
             "id": "yottabit-noun-1",
             "definition": "a unit of information equal to 1000 zettabits or 10^24 bits",
-            "translation": "",
+            "translation": "a unit of information equal to 10^24 bits",
             "examples": [
               {
                 "text": "I am calculating how many yottabits of information our company has.",
@@ -6197,18 +6197,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542756
     }
   },
   {
     "word": "yottabyte",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "yottabyte"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "yottabyte"
       }
     },
     "forms": {},
@@ -6223,7 +6223,7 @@
           {
             "id": "yottabyte-noun-1",
             "definition": "a unit of information equal to 1024 zebibytes or 2^80 bytes",
-            "translation": "",
+            "translation": "a unit of information equal to 10^24 bytes",
             "examples": []
           },
           {
@@ -6237,18 +6237,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542754
     }
   },
   {
     "word": "yottasecond",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "yottasecond"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "yottasecond"
       }
     },
     "forms": {},
@@ -6261,7 +6261,7 @@
           {
             "id": "yottasecond-noun-1",
             "definition": "a period of time equal to one septillion seconds, or 10^24",
-            "translation": "",
+            "translation": "a unit of time equal to 10^24 seconds",
             "examples": []
           }
         ]
@@ -6269,24 +6269,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542751
     }
   },
   {
     "word": "young",
     "pronunciation": {
       "us": {
-        "ipa": "jʌŋ"
+        "ipa": "young"
       },
       "uk": {
-        "ipa": "jʌŋ"
+        "ipa": "young"
       }
     },
     "forms": {},
     "tags": [
-      "gk",
-      "zk"
+      "cet4",
+      "gk"
     ],
     "synonyms": [
       "immature",
@@ -6305,19 +6305,19 @@
           {
             "id": "young-adjective-1",
             "definition": "(of crops) harvested at an early stage of development",
-            "translation": "年轻的",
+            "translation": "having lived or existed for only a short time",
             "examples": []
           },
           {
             "id": "young-adjective-2",
             "definition": "not tried or tested by experience",
-            "translation": "年轻的",
+            "translation": "not yet mature",
             "examples": []
           },
           {
             "id": "young-adjective-3",
             "definition": "being in its early stage",
-            "translation": "年轻的",
+            "translation": "characteristic of youth",
             "examples": [
               {
                 "text": "a young industry",
@@ -6382,18 +6382,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542749
     }
   },
   {
     "word": "younger",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjʌŋɡɚ"
+        "ipa": "younger"
       },
       "uk": {
-        "ipa": "ˈjʌŋɡə"
+        "ipa": "younger"
       }
     },
     "forms": {},
@@ -6406,7 +6406,7 @@
           {
             "id": "younger-adjective-1",
             "definition": "used of the younger of two persons of the same name especially used to distinguish a son from his father",
-            "translation": "",
+            "translation": "younger person, comparative of young",
             "examples": []
           }
         ]
@@ -6414,18 +6414,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542746
     }
   },
   {
     "word": "youngish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "youngish"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "youngish"
       }
     },
     "forms": {},
@@ -6438,7 +6438,7 @@
           {
             "id": "youngish-adjective-1",
             "definition": "somewhat young",
-            "translation": "有点年轻的",
+            "translation": "somewhat young",
             "examples": [
               {
                 "text": "Their modern haircut contributed to their youngish appearance.",
@@ -6451,18 +6451,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542744
     }
   },
   {
     "word": "youngness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "youngness"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "youngness"
       }
     },
     "forms": {},
@@ -6475,7 +6475,7 @@
           {
             "id": "youngness-noun-1",
             "definition": "the opposite of oldness",
-            "translation": "",
+            "translation": "the state of being young",
             "examples": [
               {
                 "text": "The player's youngness was apparent.",
@@ -6488,27 +6488,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542741
     }
   },
   {
     "word": "youngster",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjʌŋstɚ"
+        "ipa": "youngster"
       },
       "uk": {
-        "ipa": "ˈjʌŋstə"
+        "ipa": "youngster"
       }
     },
     "forms": {},
     "tags": [
-      "cet4",
-      "cet6",
-      "ielts",
-      "ky",
-      "toefl"
+      "cet4"
     ],
     "synonyms": [
       "nestling"
@@ -6520,7 +6516,7 @@
           {
             "id": "youngster-noun-1",
             "definition": "a young person",
-            "translation": "年轻人",
+            "translation": "a young person",
             "examples": [
               {
                 "text": "I was suspicious of the youngsters who were eyeballing my merchandise.",
@@ -6533,18 +6529,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542737
     }
   },
   {
     "word": "younker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "younker"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "younker"
       }
     },
     "forms": {},
@@ -6557,7 +6553,7 @@
           {
             "id": "younker-noun-1",
             "definition": "a young person, especially a young man or boy",
-            "translation": "",
+            "translation": "a young man",
             "examples": [
               {
                 "text": "The younkers won't stop playing in the road.",
@@ -6570,26 +6566,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2-0-lite-260428",
+      "updatedAt": 1782542735
     }
   },
   {
     "word": "youth",
     "pronunciation": {
       "us": {
-        "ipa": "juθ"
+        "ipa": "juːθ"
       },
       "uk": {
-        "ipa": "ju:θ"
+        "ipa": "juːθ"
       }
     },
     "forms": {},
     "tags": [
       "cet4",
-      "cet6",
-      "gk",
-      "ielts",
       "ky"
     ],
     "synonyms": [
@@ -6604,13 +6597,13 @@
           {
             "id": "youth-noun-1",
             "definition": "the freshness and vitality characteristic of a young person",
-            "translation": "青年",
+            "translation": "the time of life between childhood and maturity",
             "examples": []
           },
           {
             "id": "youth-noun-2",
             "definition": "young people collectively",
-            "translation": "青年",
+            "translation": "young people collectively",
             "examples": []
           },
           {
@@ -6647,24 +6640,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "youthful",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjuθfəl"
+        "ipa": "ˈjuːθfʊl"
       },
       "uk": {
-        "ipa": "ˈˈju:θful"
+        "ipa": "ˈjuːθfʊl"
       }
     },
     "forms": {},
     "tags": [
-      "cet4",
-      "cet6"
+      "cet4"
     ],
     "synonyms": [
       "young"
@@ -6676,7 +6668,7 @@
           {
             "id": "youthful-adjective-1",
             "definition": "suggestive of youth",
-            "translation": "",
+            "translation": "young or characteristic of young people",
             "examples": [
               {
                 "text": "Your youthful good looks will be an advantage in the modeling world.",
@@ -6689,18 +6681,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "youthfully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːθfʊliː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːθfʊlɪ"
       }
     },
     "forms": {},
@@ -6713,7 +6705,7 @@
           {
             "id": "youthfully-adverb-1",
             "definition": "in a youthful manner",
-            "translation": "",
+            "translation": "年轻地；朝气蓬勃地",
             "examples": [
               {
                 "text": "I am still youthfully enthusiastic.",
@@ -6726,18 +6718,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "youthfulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːθfʊlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːθfʊlnəs"
       }
     },
     "forms": {},
@@ -6752,7 +6744,7 @@
           {
             "id": "youthfulness-noun-1",
             "definition": "the freshness and vitality characteristic of a young person",
-            "translation": "",
+            "translation": "the quality of being young",
             "examples": [
               {
                 "text": "Your youthfulness continues to stay with you despite your ever-increasing age.",
@@ -6765,8 +6757,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -6799,7 +6791,7 @@
           {
             "id": "yowl-noun-1",
             "definition": "a very loud utterance (like the sound of an animal)",
-            "translation": "",
+            "translation": "a loud prolonged cry",
             "examples": []
           }
         ]
@@ -6824,18 +6816,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "ytterbium",
     "pronunciation": {
       "us": {
-        "ipa": "ɪˈtɚbiəm"
+        "ipa": "ɪˈtɜːrbiəm"
       },
       "uk": {
-        "ipa": "ɪˈtɜ:bɪəm"
+        "ipa": "ɪˈtɜːbɪəm"
       }
     },
     "forms": {},
@@ -6848,7 +6840,7 @@
           {
             "id": "ytterbium-noun-1",
             "definition": "a soft silvery metallic element",
-            "translation": "铟",
+            "translation": "Ytterbium, a chemical element",
             "examples": []
           }
         ]
@@ -6856,8 +6848,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -6880,7 +6872,7 @@
           {
             "id": "yttrium-noun-1",
             "definition": "a silvery metallic element that is common in rare-earth minerals",
-            "translation": "铒",
+            "translation": "钇（化学元素）",
             "examples": []
           }
         ]
@@ -6888,22 +6880,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yuan",
     "pronunciation": {
       "us": {
-        "ipa": "juˈɑn"
+        "ipa": "juˈɑːn"
       },
       "uk": {
-        "ipa": "juˈɑ:n"
+        "ipa": "juˈɑːn"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gk"
+    ],
     "synonyms": [],
     "entries": [
       {
@@ -6912,7 +6906,7 @@
           {
             "id": "yuan-noun-1",
             "definition": "the basic unit of money in China",
-            "translation": "",
+            "translation": "元（中国货币单位）",
             "examples": []
           }
         ]
@@ -6920,18 +6914,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yucca",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʌkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʌkə"
       }
     },
     "forms": {},
@@ -6944,7 +6938,7 @@
           {
             "id": "yucca-noun-1",
             "definition": "any of several evergreen plants of the genus Yucca, typically characterized by tall, stout stems and a terminal cluster of white flowers",
-            "translation": "",
+            "translation": "丝兰属植物（北美产的一种庭院观赏植物）",
             "examples": [
               {
                 "text": "In certain climates, yucca grows wild year-round.",
@@ -6957,15 +6951,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yucky",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjʌki"
+        "ipa": "ˈjʌkiː"
       },
       "uk": {
         "ipa": "ˈjʌkɪ"
@@ -6983,11 +6977,11 @@
           {
             "id": "yucky-adjective-1",
             "definition": "unappealing or unappetizing",
-            "translation": "",
+            "translation": "难吃的，令人恶心的；讨厌的，令人不悦的",
             "examples": [
               {
                 "text": "The calamari looked yucky from where I was sitting.",
-                "translation": ""
+                "translation": "这汤味道糟透了。"
               }
             ]
           }
@@ -6996,18 +6990,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yugoslav",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjuɡoʊˌslɑv"
+        "ipa": "ˈjuːɡoʊslɑːv"
       },
       "uk": {
-        "ipa": "ˈju:ɡəʊˌslɑ:v"
+        "ipa": "ˈjuːɡəʊslɑːv"
       }
     },
     "forms": {},
@@ -7022,7 +7016,7 @@
           {
             "id": "yugoslav-adjective-1",
             "definition": "of, relating to, or characteristic of the former country of Yugoslavia, its people, or its languages",
-            "translation": "",
+            "translation": "南斯拉夫的；南斯拉夫人",
             "examples": [
               {
                 "text": "I had some great Yugoslav wine the other evening.",
@@ -7035,18 +7029,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yugoslavian",
     "pronunciation": {
       "us": {
-        "ipa": "ˌjuɡoˈslɑviən"
+        "ipa": "ˌjuːɡoʊˈslɑːviən"
       },
       "uk": {
-        "ipa": "ˌju:ɡəʊˈslɒvɪən"
+        "ipa": "ˌjuːɡəʊˈslɑːvɪən"
       }
     },
     "forms": {},
@@ -7061,7 +7055,7 @@
           {
             "id": "yugoslavian-adjective-1",
             "definition": "of or relating to or characteristic of the former country of Yugoslavia or its people or languages",
-            "translation": "语言的",
+            "translation": "南斯拉夫的；南斯拉夫人的；南斯拉夫语的",
             "examples": [
               {
                 "text": "Yugoslavian wine",
@@ -7074,18 +7068,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yuman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːmən"
       }
     },
     "forms": {},
@@ -7098,7 +7092,7 @@
           {
             "id": "yuman-adjective-1",
             "definition": "of or relating to the language or culture of the Yuma people",
-            "translation": "人民的",
+            "translation": "尤马族（北美印第安人的一支）；尤马语",
             "examples": [
               {
                 "text": "Yuman settlements were commonly small and not permanent.",
@@ -7127,15 +7121,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yummy",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjʌmi"
+        "ipa": "ˈjʌmiː"
       },
       "uk": {
         "ipa": "ˈjʌmɪ"
@@ -7155,7 +7149,7 @@
           {
             "id": "yummy-adjective-1",
             "definition": "extremely pleasing to the sense of taste",
-            "translation": "美味的",
+            "translation": "美味的，好吃的（口语，常用来形容食物）",
             "examples": [
               {
                 "text": "These seared scallops are yummy.",
@@ -7168,22 +7162,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yuppie",
     "pronunciation": {
       "us": {
-        "ipa": "ˈjʌpi"
+        "ipa": "ˈjʌpiː"
       },
       "uk": {
         "ipa": "ˈjʌpɪ"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "ielts"
+    ],
     "synonyms": [],
     "entries": [
       {
@@ -7192,11 +7188,11 @@
           {
             "id": "yuppie-noun-1",
             "definition": "a young upwardly mobile professional individual",
-            "translation": "",
+            "translation": "雅皮士，指属于富裕职业阶层的年轻都市人",
             "examples": [
               {
                 "text": "The yuppies loved meeting at coffee shops to talk.",
-                "translation": ""
+                "translation": "他作为雅皮士过着舒适的都市生活。"
               }
             ]
           }
@@ -7205,18 +7201,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "yurt",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊərt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊət"
       }
     },
     "forms": {},
@@ -7229,11 +7225,11 @@
           {
             "id": "yurt-noun-1",
             "definition": "a circular domed dwelling that is portable and self-supporting",
-            "translation": "",
+            "translation": "蒙古包（一种可移动的圆形圆顶游牧住所）",
             "examples": [
               {
                 "text": "I built a yurt in my backyard for the summer.",
-                "translation": ""
+                "translation": "我夏天在后院建了一个蒙古包。"
               }
             ]
           }
@@ -7242,8 +7238,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   }
 ]

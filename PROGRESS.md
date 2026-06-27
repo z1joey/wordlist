@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 3920 | **← Backward**: y.json index 148 | **Updated**: 1782542521
+> **→ Forward**: a.json index 3920 | **← Backward**: y.json index 123 | **Updated**: 1782544200
 
 ## 📊 Summary
 
@@ -11,7 +11,7 @@
 | Remaining | 60,349 |
 | Completion | 6.96% |
 | Forward agent | a.json (4,379 / 4,900) |
-| Backward agent | y.json (0 / 149) |
+| Backward agent | y.json (25 / 149) |
 
 ## 📋 File Progress
 
@@ -45,22 +45,22 @@
 | v.json | 1,058 | 0 | ···················· 0% | ⬜ pending |
 | w.json | 1,306 | 0 | ···················· 0% | ⬜ pending |
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
-| y.json | 149 | 0 | ···················· 0% | ⬜ pending |
+| y.json | 149 | 25 | ████ 17% | ← in_progress |
 | z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **4,493** | **6.93%** | |
+| **Total** | **64,867** | **4,518** | **6.96%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0156 | a.json | 3895–3919 | ✅ done | MiniMax-M2.7-highspeed |
 | → Forward | F-a-0157 | a.json | 3920–3944 | ⬜ pending | — |
-| ← Backward | B-y-0001 | y.json | 148–124 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-y-0002 | y.json | 123–99 | ⬜ pending | — |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| B-y-0001 | y.json | 148–124 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
 | F-a-0156 | a.json | 3895–3919 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | B-z-0001 | z.json | 138–113 | 26 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
