@@ -51,9 +51,9 @@
 | Field | Value |
 |-------|-------|
 | Batch ID | a-0097 |
-| Status | ⬜ pending |
-| Worker | — |
-| Started | — |
+| Status | 🟡 working |
+| Worker | MiniMax-M2.7-highspeed |
+| Started | 1782522600 |
 
 ## 📝 Last Batch
 
