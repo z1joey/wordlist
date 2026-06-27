@@ -1,24 +1,27 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 3895 | **Updated**: 1790000000
+> **→ Forward**: a.json index 3895 | **← Backward**: z.json index 112 | **Updated**: 1782541604
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,406 |
-| Remaining | 60,461 |
-| Completion | 6.79% |
-| Current file | a.json (4,406 / 4,900) |
+| Reviewed & validated | 4,416 |
+| Remaining | 60,451 |
+| Completion | 6.81% |
+| Forward agent | a.json (4,354 / 4,900) |
+| Backward agent | z.json (62 / 139) |
 
 ## 📋 File Progress
 
-> **Only the current file (a.json) is being processed. Do NOT update Done counts for files that haven't been reached yet. b–z are 0.**
+> **Two agents**: → Forward (ascending: a → z). ← Backward (descending within each file: last index → first).  
+> **Rule**: Never two agents on the same file at the same time. Only update the row for files you worked on.  
+> If both agents reach the same file, the backward agent skips to the next unprocessed file.
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,406 | ██████████████████ 90% | 🔄 in_progress |
+| a.json | 4,900 | 4,354 | █████████████████ 89% | → in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -43,24 +46,24 @@
 | w.json | 1,306 | 0 | ···················· 0% | ⬜ pending |
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
-| z.json | 139 | 0 | ···················· 0% | ⬜ pending |
-| **Total** | **64,867** | **4,281** | **6.60%** | |
+| z.json | 139 | 62 | █████████░░░░░░░░ 45% | ← in_progress |
+| **Total** | **64,867** | **4,416** | **6.81%** | |
 
-## 🔄 Current Batch
+## 🔄 Current Batches
 
-> No batch currently in progress.
+| Direction | Batch ID | File | Range | Status | Worker |
+|-----------|----------|------|-------|--------|--------|
+| → Forward | F-a-0156 | a.json | 3895–3919 | ⬜ pending | — |
+| ← Backward | B-z-0001 | z.json | 138–113 | ✅ done | MiniMax-M2.7-highspeed |
 
-## 📝 Last Batch
+## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
-| a-0151 | a.json | 3770–3794 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0152 | a.json | 3795–3819 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0153 | a.json | 3820–3844 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0154 | a.json | 3845–3869 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0155 | a.json | 3870–3894 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0001 | z.json | 138–113 | 26 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
-> **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
+> **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
