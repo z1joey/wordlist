@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 3895 | **← Backward**: y.json index 148 | **Updated**: 1782541604
+> **→ Forward**: a.json index 3920 | **← Backward**: y.json index 148 | **Updated**: 1782542521
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,493 |
-| Remaining | 60,374 |
-| Completion | 6.93% |
-| Forward agent | a.json (4,354 / 4,900) |
+| Reviewed & validated | 4,518 |
+| Remaining | 60,349 |
+| Completion | 6.96% |
+| Forward agent | a.json (4,379 / 4,900) |
 | Backward agent | y.json (0 / 149) |
 
 ## 📋 File Progress
@@ -21,7 +21,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,354 | █████████████████ 89% | → in_progress |
+| a.json | 4,900 | 4,379 | █████████████████ 89% | → in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -53,13 +53,15 @@
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0156 | a.json | 3895–3919 | ⬜ pending | — |
+| → Forward | F-a-0156 | a.json | 3895–3919 | ✅ done | MiniMax-M2.7-highspeed |
+| → Forward | F-a-0157 | a.json | 3920–3944 | ⬜ pending | — |
 | ← Backward | B-y-0001 | y.json | 148–124 | 🟡 working | MiniMax-M2.7-highspeed |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| F-a-0156 | a.json | 3895–3919 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | B-z-0001 | z.json | 138–113 | 26 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | B-z-0002 | z.json | 112–88 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
