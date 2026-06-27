@@ -3,10 +3,10 @@
     "word": "x",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ɛks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ɛks"
       }
     },
     "forms": {},
@@ -158,10 +158,10 @@
     "word": "xanthate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzænθeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzænθeɪt"
       }
     },
     "forms": {},
@@ -174,7 +174,7 @@
           {
             "id": "xanthate-noun-1",
             "definition": "a salt or ester of xanthic acid",
-            "translation": "",
+            "translation": "黄原酸盐（用于浮选的化学试剂）",
             "examples": []
           }
         ]
@@ -182,7 +182,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -190,10 +190,10 @@
     "word": "xanthelasma",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzænθəˈlæzmə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzænθəˈlæzmə"
       }
     },
     "forms": {},
@@ -206,7 +206,7 @@
           {
             "id": "xanthelasma-noun-1",
             "definition": "xanthoma of the eyelids",
-            "translation": "",
+            "translation": "睑黄瘤；黄斑瘤（眼睑上的黄色扁平斑）",
             "examples": []
           }
         ]
@@ -214,7 +214,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -222,10 +222,10 @@
     "word": "xanthemia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zænˈθiːmiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zænˈθiːmiə"
       }
     },
     "forms": {},
@@ -240,11 +240,11 @@
           {
             "id": "xanthemia-noun-1",
             "definition": "excess carotene in the blood stream",
-            "translation": "",
+            "translation": "胡萝卜素血症（血中胡萝卜素过多）",
             "examples": [
               {
                 "text": "Eating too many carrots had contributed to the child's xanthemia.",
-                "translation": ""
+                "translation": "吃了太多胡萝卜导致这孩子患上了胡萝卜素血症。"
               }
             ]
           }
@@ -253,7 +253,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -261,10 +261,10 @@
     "word": "xanthine",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzænθiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzænθiːn"
       }
     },
     "forms": {},
@@ -277,7 +277,7 @@
           {
             "id": "xanthine-noun-1",
             "definition": "crystalline oxidation product of the metabolism of nucleoproteins",
-            "translation": "",
+            "translation": "黄嘌呤（核蛋白代谢的氧化产物）",
             "examples": [
               {
                 "text": "Once generated from guanine, xanthine is often turned into uric acid.",
@@ -290,7 +290,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -298,10 +298,10 @@
     "word": "xanthoma",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zænˈθoʊmə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zænˈθəʊmə"
       }
     },
     "forms": {},
@@ -314,11 +314,11 @@
           {
             "id": "xanthoma-noun-1",
             "definition": "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back",
-            "translation": "",
+            "translation": "黄瘤；黄色瘤（眼睑等处出现的黄色扁平丘疹）",
             "examples": [
               {
                 "text": "The patient is suffering from xanthoma.",
-                "translation": ""
+                "translation": "这位病人患有黄瘤病。"
               }
             ]
           }
@@ -327,7 +327,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -335,10 +335,10 @@
     "word": "xanthomatosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzænθəməˈtoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzænθəməˈtəʊsɪs"
       }
     },
     "forms": {},
@@ -351,7 +351,7 @@
           {
             "id": "xanthomatosis-noun-1",
             "definition": "widespread xanthomas (especially on elbows and knees)",
-            "translation": "",
+            "translation": "黄瘤病（皮肤广泛出现黄色结节）",
             "examples": []
           }
         ]
@@ -359,7 +359,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -367,10 +367,10 @@
     "word": "xanthomonad",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zænˈθɒmənæd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zænˈθɒmənæd"
       }
     },
     "forms": {},
@@ -383,11 +383,11 @@
           {
             "id": "xanthomonad-noun-1",
             "definition": "bacteria producing yellow non-water-soluble pigments",
-            "translation": "",
+            "translation": "黄单胞菌（可产生黄色色素的细菌）",
             "examples": [
               {
                 "text": "I cultured a flask full of xanthomonad.",
-                "translation": ""
+                "translation": "我培养了满满一烧瓶的黄单胞菌。"
               }
             ]
           }
@@ -396,7 +396,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -404,10 +404,10 @@
     "word": "xanthophyl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzænθəfɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzænθəfɪl"
       }
     },
     "forms": {},
@@ -422,7 +422,7 @@
           {
             "id": "xanthophyl-noun-1",
             "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
-            "translation": "",
+            "translation": "叶黄素（xanthophyll的变体拼写）",
             "examples": []
           }
         ]
@@ -430,7 +430,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -438,10 +438,10 @@
     "word": "xanthophyll",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzænθəfɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzænθəfɪl"
       }
     },
     "forms": {},
@@ -457,7 +457,7 @@
           {
             "id": "xanthophyll-noun-1",
             "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
-            "translation": "",
+            "translation": "叶黄素（植物中的黄色类胡萝卜素）",
             "examples": []
           }
         ]
@@ -465,7 +465,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -473,10 +473,10 @@
     "word": "xanthopsia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zænˈθɒpsiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zænˈθɒpsiə"
       }
     },
     "forms": {},
@@ -489,11 +489,11 @@
           {
             "id": "xanthopsia-noun-1",
             "definition": "visual defect in which objects appear to have a yellowish hue",
-            "translation": "",
+            "translation": "黄视症（视物呈黄色的视觉障碍）",
             "examples": [
               {
                 "text": "The drug digitalin is thought to cause xanthopsia.",
-                "translation": ""
+                "translation": "地高辛这种药物被认为会导致黄视症。"
               }
             ]
           }
@@ -502,7 +502,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -510,10 +510,10 @@
     "word": "xanthosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zænˈθoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zænˈθəʊsɪs"
       }
     },
     "forms": {},
@@ -526,11 +526,11 @@
           {
             "id": "xanthosis-noun-1",
             "definition": "an abnormal yellow discoloration of the skin",
-            "translation": "",
+            "translation": "黄变症；皮肤黄染（因胡萝卜素增多导致的皮肤黄色素沉着）",
             "examples": [
               {
                 "text": "The child was so unhealthy that the skin displayed xanthosis.",
-                "translation": ""
+                "translation": "这孩子身体很不健康，皮肤出现了黄变症。"
               }
             ]
           }
@@ -539,7 +539,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -547,10 +547,10 @@
     "word": "xanthous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzænθəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzænθəs"
       }
     },
     "forms": {},
@@ -586,10 +586,10 @@
     "word": "xc",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪnti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪnti"
       }
     },
     "forms": {},
@@ -620,10 +620,10 @@
     "word": "xci",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtijun"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtijun"
       }
     },
     "forms": {},
@@ -652,10 +652,10 @@
     "word": "xciii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtiθriː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtiθriː"
       }
     },
     "forms": {},
@@ -684,10 +684,10 @@
     "word": "xciv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtifɔː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtifɔː"
       }
     },
     "forms": {},
@@ -700,7 +700,7 @@
           {
             "id": "xciv-adjective-1",
             "definition": "nintey-four in Roman numerals",
-            "translation": "",
+            "translation": "罗马数字94",
             "examples": []
           }
         ]
@@ -708,7 +708,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -716,10 +716,10 @@
     "word": "xcl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪntinʌndrɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪntinʌndrɛd"
       }
     },
     "forms": {},
@@ -748,10 +748,10 @@
     "word": "xcv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtifaɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtifaɪv"
       }
     },
     "forms": {},
@@ -780,10 +780,10 @@
     "word": "xcvi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtisɪks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtisɪks"
       }
     },
     "forms": {},
@@ -812,10 +812,10 @@
     "word": "xcvii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtisevən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtisevən"
       }
     },
     "forms": {},
@@ -828,7 +828,7 @@
           {
             "id": "xcvii-adjective-1",
             "definition": "the number 97 in Roman numerals",
-            "translation": "",
+            "translation": "罗马数字97",
             "examples": [
               {
                 "text": "It's my xcvii birthday, Augustus!",
@@ -841,7 +841,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -849,10 +849,10 @@
     "word": "xcviii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈnaɪtijeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈnaɪtijeɪt"
       }
     },
     "forms": {},
