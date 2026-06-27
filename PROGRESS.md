@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 3995 | **← Backward**: x.json index 91 | **Updated**: 1782543783
+> **→ Forward**: a.json index 3995 | **← Backward**: x.json index 66 | **Updated**: 1782544147
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,742 |
-| Remaining | 60,125 |
-| Completion | 7.31% |
+| Reviewed & validated | 4,767 |
+| Remaining | 60,100 |
+| Completion | 7.35% |
 | Forward agent | a.json (4,454 / 4,900) |
-| Backward agent | x.json (0 / 92) |
+| Backward agent | x.json (25 / 92) |
 
 ## 📋 File Progress
 
@@ -44,17 +44,17 @@
 | u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
 | v.json | 1,058 | 0 | ···················· 0% | ⬜ pending |
 | w.json | 1,306 | 0 | ···················· 0% | ⬜ pending |
-| x.json | 92 | 0 | ···················· 0% | ← in_progress |
+| x.json | 92 | 25 | ████████ 27% | ← in_progress |
 | y.json | 149 | 149 | ████████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **4,742** | **7.31%** | |
+| **Total** | **64,867** | **4,767** | **7.35%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-a-0160 | a.json | 3995–4019 | ⬜ pending | — |
-| ← Backward | B-x-0001 | x.json | 91–67 | ⬜ pending | — |
+| ← Backward | B-x-0001 | x.json | 91–67 | ✅ done | doubao-seed-2.0-lite |
 
 ## 📝 Last Batches
 

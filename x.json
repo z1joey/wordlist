@@ -881,10 +881,10 @@
     "word": "xenogeneic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzenoʊdʒəˈneɪɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzenəʊdʒəˈneɪɪk"
       }
     },
     "forms": {},
@@ -897,11 +897,11 @@
           {
             "id": "xenogeneic-adjective-1",
             "definition": "denoting or relating to cells or tissues from individuals belonging to different species",
-            "translation": "",
+            "translation": "异种的",
             "examples": [
               {
                 "text": "The xenogenic reactions of trees and mosses is quite fascinating.",
-                "translation": ""
+                "translation": "树木和苔藓之间的异种反应相当令人着迷。"
               }
             ]
           }
@@ -910,18 +910,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenogenesis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzenoʊˈdʒenəsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzenəʊˈdʒenɪsɪs"
       }
     },
     "forms": {},
@@ -934,11 +934,11 @@
           {
             "id": "xenogenesis-noun-1",
             "definition": "the production of offspring that is distinct from either parent",
-            "translation": "",
+            "translation": "异源生殖",
             "examples": [
               {
                 "text": "The two creatures did not look alike, but were thought to be different stages in xenogenesis.",
-                "translation": ""
+                "translation": "这两种生物看起来并不相像，但被认为是异源生殖过程中的不同阶段。"
               }
             ]
           }
@@ -947,18 +947,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenograft",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzenoʊɡræft"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzenəʊɡrɑːft"
       }
     },
     "forms": {},
@@ -973,11 +973,11 @@
           {
             "id": "xenograft-noun-1",
             "definition": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
-            "translation": "组织",
+            "translation": "异种移植物",
             "examples": [
               {
                 "text": "The surgeons used skin from a pig as a xenograft.",
-                "translation": ""
+                "translation": "外科医生使用猪皮作为异种移植物。"
               }
             ]
           }
@@ -986,18 +986,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenolith",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzenəlɪθ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzenəlɪθ"
       }
     },
     "forms": {},
@@ -1010,7 +1010,7 @@
           {
             "id": "xenolith-noun-1",
             "definition": "a piece of rock of different origin from the igneous rock in which it is embedded",
-            "translation": "",
+            "translation": "捕虏岩",
             "examples": []
           }
         ]
@@ -1018,8 +1018,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
@@ -1046,7 +1046,7 @@
             "examples": [
               {
                 "text": "The canister was filled with xenon.",
-                "translation": ""
+                "translation": "罐子里装满了氙气。"
               }
             ]
           }
@@ -1055,8 +1055,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
@@ -1085,7 +1085,7 @@
             "examples": [
               {
                 "text": "I think your xenophobia might be cured by a trip abroad.",
-                "translation": ""
+                "translation": "我觉得你的仇外心理可以通过一次出国旅行得到改善。"
               }
             ]
           }
@@ -1094,8 +1094,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
@@ -1122,7 +1122,7 @@
             "examples": [
               {
                 "text": "Those remarks make it pretty clear how xenophobic you are.",
-                "translation": ""
+                "translation": "这些言论非常清楚地表明你有多么仇外。"
               }
             ]
           }
@@ -1131,18 +1131,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenotime",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzenətaɪm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzenətaɪm"
       }
     },
     "forms": {},
@@ -1155,7 +1155,7 @@
           {
             "id": "xenotime-noun-1",
             "definition": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
-            "translation": "",
+            "translation": "磷钇矿",
             "examples": []
           }
         ]
@@ -1163,18 +1163,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenotransplant",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzenoʊˈtrænsplænt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzenəʊˈtrænsplɑːnt"
       }
     },
     "forms": {},
@@ -1189,7 +1189,7 @@
           {
             "id": "xenotransplant-noun-1",
             "definition": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
-            "translation": "",
+            "translation": "异种移植",
             "examples": []
           }
         ]
@@ -1197,18 +1197,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xenotransplantation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzenoʊˌtrænsplænˈteɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzenəʊˌtrænsplɑːnˈteɪʃən"
       }
     },
     "forms": {},
@@ -1223,11 +1223,11 @@
           {
             "id": "xenotransplantation-noun-1",
             "definition": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
-            "translation": "",
+            "translation": "异种移植术",
             "examples": [
               {
                 "text": "The comparable sizes of organs in pigs and humans means that xenotransplantation could be feasible.",
-                "translation": ""
+                "translation": "猪和人类器官尺寸相近，这意味着异种移植术可能是可行的。"
               }
             ]
           }
@@ -1236,18 +1236,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xeric",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪrɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪərɪk"
       }
     },
     "forms": {},
@@ -1260,11 +1260,11 @@
           {
             "id": "xeric-adjective-1",
             "definition": "being deficient in moisture",
-            "translation": "",
+            "translation": "干旱的",
             "examples": [
               {
                 "text": "The Sahara desert is a xeric environment – it rarely rains there.",
-                "translation": ""
+                "translation": "撒哈拉沙漠是干旱环境——那里很少下雨。"
               }
             ]
           }
@@ -1273,18 +1273,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xeroderma",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊˈdɜːrmə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəʊˈdɜːmə"
       }
     },
     "forms": {},
@@ -1299,7 +1299,7 @@
           {
             "id": "xeroderma-noun-1",
             "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
-            "translation": "",
+            "translation": "干皮病",
             "examples": []
           }
         ]
@@ -1307,18 +1307,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerodermia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊˈdɜːrmiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəʊˈdɜːmiə"
       }
     },
     "forms": {},
@@ -1333,7 +1333,7 @@
           {
             "id": "xerodermia-noun-1",
             "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
-            "translation": "",
+            "translation": "干皮病",
             "examples": []
           }
         ]
@@ -1341,18 +1341,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerographic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊˈɡræfɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəʊˈɡræfɪk"
       }
     },
     "forms": {},
@@ -1369,7 +1369,7 @@
             "examples": [
               {
                 "text": "Our xerographic machine was on the fritz.",
-                "translation": ""
+                "translation": "我们的静电复印机出故障了。"
               }
             ]
           }
@@ -1378,18 +1378,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerography",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪˈrɑːɡrəfi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪˈɒɡrəfi"
       }
     },
     "forms": {},
@@ -1402,11 +1402,11 @@
           {
             "id": "xerography-noun-1",
             "definition": "forming an image by the action of light on a specially coated charged plate",
-            "translation": "静电复印",
+            "translation": "静电复印术",
             "examples": [
               {
                 "text": "The machine used xerography to print copies.",
-                "translation": ""
+                "translation": "这台机器使用静电复印术打印复印件。"
               }
             ]
           }
@@ -1415,18 +1415,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xeroma",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪˈroʊmə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪˈrəʊmə"
       }
     },
     "forms": {},
@@ -1441,11 +1441,11 @@
           {
             "id": "xeroma-noun-1",
             "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
-            "translation": "",
+            "translation": "干眼病",
             "examples": [
               {
                 "text": "Your eyes have a condition called xeroma.",
-                "translation": ""
+                "translation": "你的眼睛得了一种叫干眼病的病。"
               }
             ]
           }
@@ -1454,18 +1454,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerophile",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈziroʊfaɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪərəfaɪl"
       }
     },
     "forms": {},
@@ -1478,11 +1478,11 @@
           {
             "id": "xerophile-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "植物",
+            "translation": "喜旱植物",
             "examples": [
               {
                 "text": "Cacti are some of the most well-known xerophiles.",
-                "translation": ""
+                "translation": "仙人掌是一些最广为人知的喜旱植物。"
               }
             ]
           }
@@ -1491,18 +1491,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerophthalmia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊfˈθælmiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəfˈθælmiə"
       }
     },
     "forms": {},
@@ -1518,7 +1518,7 @@
           {
             "id": "xerophthalmia-noun-1",
             "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
-            "translation": "",
+            "translation": "眼干燥症",
             "examples": []
           }
         ]
@@ -1526,18 +1526,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerophthalmus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊfˈθælməs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəfˈθælməs"
       }
     },
     "forms": {},
@@ -1552,7 +1552,7 @@
           {
             "id": "xerophthalmus-noun-1",
             "definition": "abnormal dryness of the conjunctiva and cornea of the eyes",
-            "translation": "",
+            "translation": "眼干燥症",
             "examples": []
           }
         ]
@@ -1560,8 +1560,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
@@ -1586,11 +1586,11 @@
           {
             "id": "xerophyte-noun-1",
             "definition": "plant adapted for life with a limited supply of water",
-            "translation": "植物",
+            "translation": "旱生植物",
             "examples": [
               {
                 "text": "The gardener loved the easy maintenance of the xerophyte.",
-                "translation": ""
+                "translation": "园丁喜欢这种旱生植物易于养护的特性。"
               }
             ]
           }
@@ -1599,18 +1599,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerophytic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzɪrəˈfɪtɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəˈfɪtɪk"
       }
     },
     "forms": {},
@@ -1623,11 +1623,11 @@
           {
             "id": "xerophytic-adjective-1",
             "definition": "adapted to a dry environment",
-            "translation": "",
+            "translation": "适旱的",
             "examples": [
               {
                 "text": "Cacti are xerophytic plants.",
-                "translation": ""
+                "translation": "仙人掌是适旱植物。"
               }
             ]
           }
@@ -1636,18 +1636,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xeroradiography",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊˌreɪdiˈɑːɡrəfi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəʊˌreɪdiˈɒɡrəfi"
       }
     },
     "forms": {},
@@ -1660,11 +1660,11 @@
           {
             "id": "xeroradiography-noun-1",
             "definition": "radiography using X-rays and xerographic techniques",
-            "translation": "",
+            "translation": "干静电摄影法",
             "examples": [
               {
                 "text": "The radiologist specialized in xeroradiography.",
-                "translation": ""
+                "translation": "这位放射科医生专门研究干静电摄影法。"
               }
             ]
           }
@@ -1673,18 +1673,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerostomia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌziroʊˈstoʊmiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪərəʊˈstəʊmiə"
       }
     },
     "forms": {},
@@ -1697,7 +1697,7 @@
           {
             "id": "xerostomia-noun-1",
             "definition": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
-            "translation": "",
+            "translation": "口干症",
             "examples": []
           }
         ]
@@ -1705,18 +1705,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xerotes",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈziroʊtiz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪərətiːz"
       }
     },
     "forms": {},
@@ -1731,11 +1731,11 @@
           {
             "id": "xerotes-noun-1",
             "definition": "the condition of not containing or being covered by a liquid, especially water",
-            "translation": "",
+            "translation": "干燥",
             "examples": [
               {
                 "text": "The xerotes of the skin was helped by applying a wax.",
-                "translation": ""
+                "translation": "涂抹蜡质有助于改善皮肤干燥。"
               }
             ]
           }
@@ -1744,8 +1744,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
