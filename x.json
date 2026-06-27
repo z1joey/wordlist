@@ -1771,7 +1771,7 @@
           {
             "id": "xerox-noun-1",
             "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
-            "translation": "施乐复印",
+            "translation": "施乐复印机",
             "examples": []
           }
         ]
@@ -1779,8 +1779,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
@@ -1808,7 +1808,7 @@
           {
             "id": "xerox-noun-1",
             "definition": "a copy made by a xerographic printer",
-            "translation": "施乐复印",
+            "translation": "施乐复印件",
             "examples": []
           }
         ]
@@ -1827,18 +1827,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zaɪ"
       }
     },
     "forms": {},
@@ -1872,18 +1872,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "twɛlv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "twɛlv"
       }
     },
     "forms": {},
@@ -1906,18 +1906,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xiii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "θɜːrˈtiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "θɜːˈtiːn"
       }
     },
     "forms": {},
@@ -1940,18 +1940,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xiv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrˈtiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːˈtiːn"
       }
     },
     "forms": {},
@@ -1974,18 +1974,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xix",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌnaɪnˈtiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌnaɪnˈtiːn"
       }
     },
     "forms": {},
@@ -2008,18 +2008,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈfɔːrti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈfɔːti"
       }
     },
     "forms": {},
@@ -2042,18 +2042,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xlii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈtu"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈtuː"
       }
     },
     "forms": {},
@@ -2066,7 +2066,7 @@
           {
             "id": "xlii-adjective-1",
             "definition": "the Roman numeral for 42",
-            "translation": "罗马数字42",
+            "translation": "罗马数字四十二",
             "examples": []
           }
         ]
@@ -2074,18 +2074,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xliii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈθriː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈθriː"
       }
     },
     "forms": {},
@@ -2098,7 +2098,7 @@
           {
             "id": "xliii-adjective-1",
             "definition": "the Roman numeral for 43",
-            "translation": "罗马数字43",
+            "translation": "罗马数字四十三",
             "examples": []
           }
         ]
@@ -2106,18 +2106,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xliv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈfɔːr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈfɔː"
       }
     },
     "forms": {},
@@ -2130,7 +2130,7 @@
           {
             "id": "xliv-adjective-1",
             "definition": "the Roman numeral for 44",
-            "translation": "罗马数字44",
+            "translation": "罗马数字四十四",
             "examples": []
           }
         ]
@@ -2138,18 +2138,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xlv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈfaɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈfaɪv"
       }
     },
     "forms": {},
@@ -2162,7 +2162,7 @@
           {
             "id": "xlv-adjective-1",
             "definition": "the Roman numeral for 45",
-            "translation": "罗马数字45",
+            "translation": "罗马数字四十五",
             "examples": []
           }
         ]
@@ -2170,18 +2170,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xlvi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈsɪks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈsɪks"
       }
     },
     "forms": {},
@@ -2194,7 +2194,7 @@
           {
             "id": "xlvi-adjective-1",
             "definition": "the Roman numeral for 46",
-            "translation": "罗马数字46",
+            "translation": "罗马数字四十六",
             "examples": []
           }
         ]
@@ -2202,18 +2202,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xlvii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈsɛvən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈsɛvən"
       }
     },
     "forms": {},
@@ -2226,7 +2226,7 @@
           {
             "id": "xlvii-adjective-1",
             "definition": "the Roman numeral for 47",
-            "translation": "罗马数字47",
+            "translation": "罗马数字四十七",
             "examples": []
           }
         ]
@@ -2234,18 +2234,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xlviii",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɔːrtiˈeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɔːtiˈeɪt"
       }
     },
     "forms": {},
@@ -2258,7 +2258,7 @@
           {
             "id": "xlviii-adjective-1",
             "definition": "the Roman numeral for 48",
-            "translation": "罗马数字48",
+            "translation": "罗马数字四十八",
             "examples": []
           }
         ]
@@ -2266,18 +2266,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
     "word": "xv",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌfɪfˈtiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌfɪfˈtiːn"
       }
     },
     "forms": {},
@@ -2292,7 +2292,7 @@
           {
             "id": "xv-adjective-1",
             "definition": "the Roman numeral for 15",
-            "translation": "罗马数字15",
+            "translation": "罗马数字十五",
             "examples": []
           }
         ]
@@ -2300,8 +2300,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "doubao-seed-2.0-lite",
+      "updatedAt": 1782544147
     }
   },
   {
