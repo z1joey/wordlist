@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 2920 | **Updated**: 1782525780
+> **Cursor**: a.json → index 3020 | **Updated**: 1782527620
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 18,619 |
-| Remaining | 46,272 |
-| Completion | 28.7% |
-| Current file | a.json (3,895 / 4,900) |
+| Reviewed & validated | 18,719 |
+| Remaining | 46,148 |
+| Completion | 28.9% |
+| Current file | a.json (3,995 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 3,895 | ██████████████████░░░░ 79.5% | 🔄 in_progress |
+| a.json | 4,900 | 3,995 | ███████████████████░░░ 81.5% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -44,7 +44,7 @@
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
 | z.json | 139 | 0 | ···················· 0% | ⬜ pending |
-| **Total** | **64867** | **18619** | **28.7%** | |
+| **Total** | **64867** | **18719** | **28.9%** | |
 
 ## 🔄 Current Batch
 
@@ -66,6 +66,10 @@
 | a-0114 | a.json | 2845–2869 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0115 | a.json | 2870–2894 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0116 | a.json | 2895–2919 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0117 | a.json | 2920–2944 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0118 | a.json | 2945–2969 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0119 | a.json | 2970–2994 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0120 | a.json | 2995–3019 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
