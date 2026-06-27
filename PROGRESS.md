@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 2620 | **Updated**: 1782524400
+> **Cursor**: a.json → index 2595 | **Updated**: 1782524400
 
 ## 📊 Summary
 
