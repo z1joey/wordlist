@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 3520 | **Updated**: 1782536762
+> **Cursor**: a.json → index 3620 | **Updated**: 1800000000
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 19,190 |
-| Remaining | 45,677 |
-| Completion | 29.6% |
-| Current file | a.json (4,290 / 4,900) |
+| Reviewed & validated | 19,290 |
+| Remaining | 45,577 |
+| Completion | 29.7% |
+| Current file | a.json (4,390 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,290 | ██████████████████░░ 87.6% | 🔄 in_progress |
+| a.json | 4,900 | 4,390 | ███████████████████░ 89.6% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -90,6 +90,10 @@
 | a-0138 | a.json | 3445–3469 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0139 | a.json | 3470–3494 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0140 | a.json | 3495–3519 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0141 | a.json | 3520–3544 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
+| a-0142 | a.json | 3545–3569 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
+| a-0143 | a.json | 3570–3594 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
+| a-0144 | a.json | 3595–3619 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
