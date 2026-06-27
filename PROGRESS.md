@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4095 | **← Backward**: w.json index 1205 | **Updated**: 1782544640
+> **→ Forward**: a.json index 4095 | **← Backward**: w.json index 1030 | **Updated**: 1782544640
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,989 |  (was 4,867; +122 this session: x.json +39, w.json +83 newly filled)
-| Remaining | 59,878 |
-| Completion | 7.69% |
+| Reviewed & validated | 5,139 |  (was 4,989; +150 this session: w.json +150 newly filled)
+| Remaining | 59,728 |
+| Completion | 7.92% |
 | Forward agent | a.json (4,554 / 4,900) |
-| Backward agent | x.json (64 / 92) → w.json (304 / 1,306) |
+| Backward agent | w.json (454 / 1,306) |
 
 ## 📋 File Progress
 
@@ -43,11 +43,11 @@
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
 | u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
 | v.json | 1,058 | 0 | ···················· 0% | ⬜ pending |
-| w.json | 1,306 | 304 | █████ 23% | ← in_progress |
+| w.json | 1,306 | 454 | ██████ 35% | ← in_progress |
 | x.json | 92 | 64 | ███████ 70% | ← in_progress |
 | y.json | 149 | 149 | ████████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **4,989** | **7.69%** | |
+| **Total** | **64,867** | **5,139** | **7.92%** | |
 
 ## 🔄 Current Batches
 
@@ -56,17 +56,18 @@
 | → Forward | F-a-0163 | a.json | 4070–4094 | ✅ done | doubao-seed-2.0-lite |
 | → Forward | F-a-0164 | a.json | 4095–4119 | 🟡 working | doubao-seed-2.0-lite |
 | ← Backward | B-w-0005 | w.json | 1205–1181 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0006 | w.json | 1180–1156 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0007 | w.json | 1155–1131 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0008 | w.json | 1130–1106 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0009 | w.json | 1105–1081 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0010 | w.json | 1080–1056 | 🟡 working | MiniMax-M2.7-highspeed |
-| ← Backward | B-w-0011 | w.json | 1055–1031 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0006 | w.json | 1180–1156 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0007 | w.json | 1155–1131 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0008 | w.json | 1130–1106 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0009 | w.json | 1105–1081 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0010 | w.json | 1080–1056 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0011 | w.json | 1055–1031 | ✅ done | MiniMax-M2.7-highspeed |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Status |
 |-------|------|-------|-------|--------|--------|
+| B-w-0006 to B-w-0011 | w.json | 1180–1031 | 150 | MiniMax-M2.7-highspeed | ✅ done |
 | B-x-0002 | x.json | 66–42 | 25 | doubao-seed-2.0-lite | ✅ done |
 | B-x-0003 | x.json | 41–17 | 25 | MiniMax-M2.7-highspeed | ✅ done |
 | B-x-0004 | x.json | 16–0 | 17 | MiniMax-M2.7-highspeed | ✅ done |

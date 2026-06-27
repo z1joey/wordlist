@@ -50660,16 +50660,17 @@
     "word": "womanlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊmənˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊmənˌlaɪk"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "womanliness"
+      "feminine",
+      "womanly"
     ],
     "entries": [
       {
@@ -50678,7 +50679,7 @@
           {
             "id": "womanlike-adjective-1",
             "definition": "resembling a woman",
-            "translation": "",
+            "translation": "像女人的；有女性特征的",
             "examples": [
               {
                 "text": "a womanlike stone image",
@@ -50702,24 +50703,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "womanliness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊmənlɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊmənlɪnəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "womanlike"
+      "femininity",
+      "womanhood"
     ],
     "entries": [
       {
@@ -50728,7 +50730,7 @@
           {
             "id": "womanliness-noun-1",
             "definition": "the trait of being womanly",
-            "translation": "",
+            "translation": "女性气质；女子气；温柔",
             "examples": []
           }
         ]
@@ -50736,8 +50738,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -50753,7 +50755,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "feminine"
+      "feminine",
+      "ladylike"
     ],
     "entries": [
       {
@@ -50762,7 +50765,7 @@
           {
             "id": "womanly-adjective-1",
             "definition": "befitting or characteristic of a woman especially a mature woman",
-            "translation": "女人地",
+            "translation": "有女子气质的；女性化的；温柔的",
             "examples": [
               {
                 "text": "womanly virtues of gentleness and compassion",
@@ -50775,8 +50778,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -50801,7 +50804,7 @@
           {
             "id": "womb-noun-1",
             "definition": "a hollow muscular organ in the pelvic cavity of females",
-            "translation": "",
+            "translation": "子宫；发源地；摇篮",
             "examples": []
           }
         ]
@@ -50814,23 +50817,25 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wombat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɑmbæt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒmbæt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "marsupial"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -50838,7 +50843,7 @@
           {
             "id": "wombat-noun-1",
             "definition": "burrowing herbivorous Australian marsupials about the size of a badger",
-            "translation": "",
+            "translation": "袋熊（澳洲有袋类动物）",
             "examples": []
           }
         ]
@@ -50846,8 +50851,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -50861,8 +50866,15 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "cet4",
+      "gk"
+    ],
+    "synonyms": [
+      "gained",
+      "earned",
+      "received"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -50870,7 +50882,7 @@
           {
             "id": "won-adjective-1",
             "definition": "not subject to defeat",
-            "translation": "",
+            "translation": "赢的；获奖的；获胜的（win的过去式和过去分词）",
             "examples": [
               {
                 "text": "with that move it's a won game",
@@ -50917,8 +50929,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -50932,25 +50944,18 @@
       }
     },
     "forms": {
-      "past": "wondered",
       "gerund": "wondering",
+      "past": "wondered",
       "pastParticiple": "wondered"
     },
     "tags": [
       "cet4",
-      "cet6",
-      "gk",
-      "ky",
-      "toefl",
-      "zk"
+      "gk"
     ],
     "synonyms": [
-      "admiration",
-      "curiosity",
-      "enquire",
-      "inquire",
       "marvel",
-      "question"
+      "awe",
+      "amazement"
     ],
     "entries": [
       {
@@ -50959,7 +50964,7 @@
           {
             "id": "wonder-noun-1",
             "definition": "a state in which you want to learn more about something",
-            "translation": "想知道",
+            "translation": "奇迹；惊奇；疑惑；想知道",
             "examples": []
           },
           {
@@ -51026,23 +51031,25 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonderberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərˌberi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndəˌberi"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "hybrid berry"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51050,7 +51057,7 @@
           {
             "id": "wonderberry-noun-1",
             "definition": "improved garden variety of black nightshade having small edible orange or black berries",
-            "translation": "",
+            "translation": "奇迹浆果（鹅莓和黑醋栗的杂交品种）",
             "examples": []
           }
         ]
@@ -51058,24 +51065,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "wonderer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndərə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "marveller"
+      "marveler"
     ],
     "entries": [
       {
@@ -51084,7 +51091,7 @@
           {
             "id": "wonderer-noun-1",
             "definition": "someone filled with admiration and awe",
-            "translation": "",
+            "translation": "惊叹者；好奇的人",
             "examples": []
           },
           {
@@ -51098,8 +51105,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
@@ -51138,8 +51145,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
@@ -51155,13 +51162,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "marvellously",
       "marvelously",
-      "superbly",
-      "terrifically",
-      "toppingly",
-      "wondrous",
-      "wondrously"
+      "splendidly",
+      "greatly"
     ],
     "entries": [
       {
@@ -51170,7 +51173,7 @@
           {
             "id": "wonderfully-adverb-1",
             "definition": "(used as an intensifier) extremely well",
-            "translation": "精彩的地",
+            "translation": "精彩地；极好地；惊人地",
             "examples": []
           }
         ]
@@ -51178,24 +51181,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonderfulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərfəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndəfəlnəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "admirability"
+      "marvelousness"
     ],
     "entries": [
       {
@@ -51204,7 +51207,7 @@
           {
             "id": "wonderfulness-noun-1",
             "definition": "admirable excellence",
-            "translation": "",
+            "translation": "精彩；奇妙；美好",
             "examples": []
           }
         ]
@@ -51212,24 +51215,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wondering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndərɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "inquisitive"
+      "curious",
+      "puzzled",
+      "intrigued"
     ],
     "entries": [
       {
@@ -51238,7 +51243,7 @@
           {
             "id": "wondering-adjective-1",
             "definition": "showing curiosity",
-            "translation": "想知道",
+            "translation": "感到惊讶的；好奇的；疑惑不解的",
             "examples": []
           }
         ]
@@ -51246,24 +51251,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "wonderingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndərɪŋli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "questioningly"
+      "in wonder",
+      "curiously"
     ],
     "entries": [
       {
@@ -51272,7 +51278,7 @@
           {
             "id": "wonderingly-adverb-1",
             "definition": "in a curious and questioning manner",
-            "translation": "",
+            "translation": "好奇地；疑惑地；惊讶地",
             "examples": []
           }
         ]
@@ -51280,8 +51286,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51296,7 +51302,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "fantasy world",
+      "fairyland"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51304,7 +51313,7 @@
           {
             "id": "wonderland-noun-1",
             "definition": "an imaginary realm of marvels or wonders",
-            "translation": "",
+            "translation": "奇境；仙境；童话世界",
             "examples": []
           },
           {
@@ -51318,24 +51327,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonderment",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndəmənt"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "admiration"
+      "awe",
+      "amazement",
+      "marvel"
     ],
     "entries": [
       {
@@ -51344,7 +51355,7 @@
           {
             "id": "wonderment-noun-1",
             "definition": "the feeling aroused by something strange and surprising",
-            "translation": "",
+            "translation": "惊叹；奇妙；好奇心；疑惑",
             "examples": []
           }
         ]
@@ -51352,23 +51363,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "wonderworking",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndərˌwɜːrkɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndəˌwɜːkɪŋ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "miracle-working",
+      "marvelous"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -51376,7 +51390,7 @@
           {
             "id": "wonderworking-adjective-1",
             "definition": "performing or able to perform wonders or miracles",
-            "translation": "",
+            "translation": "创造奇迹的；奇妙无比的",
             "examples": []
           }
         ]
@@ -51384,8 +51398,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51401,16 +51415,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "fantastic",
-      "grand",
-      "howling",
-      "marvellous",
-      "marvelous",
-      "rattling",
-      "terrific",
-      "tremendous",
       "wonderful",
-      "wonderfully"
+      "marvelous",
+      "miraculous"
     ],
     "entries": [
       {
@@ -51419,7 +51426,7 @@
           {
             "id": "wondrous-adjective-1",
             "definition": "extraordinarily good or great",
-            "translation": "",
+            "translation": "惊人的；奇妙的；令人惊叹的",
             "examples": []
           }
         ]
@@ -51438,24 +51445,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wondrously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌndrəsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʌndrəsli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "wonderfully"
+      "marvelously",
+      "amazingly"
     ],
     "entries": [
       {
@@ -51464,7 +51472,7 @@
           {
             "id": "wondrously-adverb-1",
             "definition": "(used as an intensifier) extremely well",
-            "translation": "",
+            "translation": "极其；惊人地；美妙地",
             "examples": []
           }
         ]
@@ -51472,24 +51480,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonk",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɒŋk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɒŋk"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "grind"
+      "studier",
+      "policy nerd"
     ],
     "entries": [
       {
@@ -51498,7 +51507,7 @@
           {
             "id": "wonk-noun-1",
             "definition": "an insignificant student who is ridiculed as being affected or boringly studious",
-            "translation": "",
+            "translation": "书呆子；死读书的人；政策狂热者",
             "examples": []
           }
         ]
@@ -51506,24 +51515,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonky",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɒŋki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒŋki"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "askew",
+      "unsteady",
+      "wobbly",
       "rickety"
     ],
     "entries": [
@@ -51533,7 +51543,7 @@
           {
             "id": "wonky-adjective-1",
             "definition": "inclined to shake as from weakness or defect",
-            "translation": "",
+            "translation": "不稳的；晃晃悠悠的；不牢靠的",
             "examples": []
           },
           {
@@ -51547,8 +51557,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51562,11 +51572,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "habit"
+      "accustomed",
+      "used",
+      "prone"
     ],
     "entries": [
       {
@@ -51575,7 +51585,7 @@
           {
             "id": "wont-noun-1",
             "definition": "an established custom",
-            "translation": "",
+            "translation": "惯于；倾向于；习惯于",
             "examples": []
           }
         ]
@@ -51588,8 +51598,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51605,7 +51615,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "accustomed"
+      "accustomed",
+      "used",
+      "habituated"
     ],
     "entries": [
       {
@@ -51614,7 +51626,7 @@
           {
             "id": "wonted-adjective-1",
             "definition": "commonly used or practiced",
-            "translation": "",
+            "translation": "习惯了的；惯常的",
             "examples": []
           }
         ]
@@ -51622,23 +51634,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
     "word": "wonton",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌnˌtɑn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒnˌtɒn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "dumpling"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51646,7 +51660,7 @@
           {
             "id": "wonton-noun-1",
             "definition": "a soup with won ton dumplings",
-            "translation": "",
+            "translation": "馄饨（中式面食）",
             "examples": []
           },
           {
@@ -51660,8 +51674,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51675,16 +51689,15 @@
       }
     },
     "forms": {
-      "pastParticiple": "wooed",
       "gerund": "wooing",
-      "past": "wooed"
+      "past": "wooed",
+      "pastParticiple": "wooed"
     },
-    "tags": [
-      "gk",
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "court"
+      "court",
+      "pursue",
+      "sue for"
     ],
     "entries": [
       {
@@ -51693,7 +51706,7 @@
           {
             "id": "woo-verb-1",
             "definition": "make amorous advances towards",
-            "translation": "制造",
+            "translation": "追求；向…求爱；恳求；争取（支持）",
             "examples": []
           },
           {
@@ -51717,8 +51730,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547815
     }
   },
   {
@@ -51734,16 +51747,12 @@
     "forms": {},
     "tags": [
       "cet4",
-      "cet6",
-      "gk",
-      "ielts",
-      "ky",
-      "zk"
+      "gk"
     ],
     "synonyms": [
-      "forest",
-      "woods",
-      "woodwind"
+      "timber",
+      "lumber",
+      "forest"
     ],
     "entries": [
       {
@@ -51752,7 +51761,7 @@
           {
             "id": "wood-noun-1",
             "definition": "a golf club with a long shaft used to hit long shots",
-            "translation": "木头",
+            "translation": "木头；木材；树林",
             "examples": [
               {
                 "text": "originally made with a wooden head",
@@ -51796,23 +51805,26 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodbine",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌbaɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌbaɪn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "honeysuckle",
+      "Virginia creeper"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51820,7 +51832,7 @@
           {
             "id": "woodbine-noun-1",
             "definition": "European twining honeysuckle with fragrant red and yellow-white flowers",
-            "translation": "",
+            "translation": "忍冬；常春藤；多花蔷薇",
             "examples": []
           },
           {
@@ -51834,24 +51846,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodborer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌbɔːrər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌbɔːrə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "borer"
+      "borer",
+      "beetle larva"
     ],
     "entries": [
       {
@@ -51860,7 +51873,7 @@
           {
             "id": "woodborer-noun-1",
             "definition": "any of various insects or larvae or mollusks that bore into wood",
-            "translation": "",
+            "translation": "蛀木虫；木蛀虫；木材穿孔虫",
             "examples": []
           }
         ]
@@ -51868,24 +51881,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodcarver",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkɑrvər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkɑːvə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "carver"
+      "sculptor",
+      "artisan"
     ],
     "entries": [
       {
@@ -51894,7 +51908,7 @@
           {
             "id": "woodcarver-noun-1",
             "definition": "makes decorative wooden panels",
-            "translation": "",
+            "translation": "木雕师；木雕工匠",
             "examples": []
           }
         ]
@@ -51902,8 +51916,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -51918,7 +51932,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "wood sculpture",
+      "carving"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51926,7 +51943,7 @@
           {
             "id": "woodcarving-noun-1",
             "definition": "a carving created by carving wood",
-            "translation": "",
+            "translation": "木雕；木雕品；木刻术",
             "examples": []
           }
         ]
@@ -51939,8 +51956,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -51956,7 +51973,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "groundhog"
+      "groundhog",
+      "whistle pig"
     ],
     "entries": [
       {
@@ -51965,7 +51983,7 @@
           {
             "id": "woodchuck-noun-1",
             "definition": "reddish brown North American marmot",
-            "translation": "",
+            "translation": "土拨鼠（北美的一种旱獭）",
             "examples": []
           }
         ]
@@ -51973,23 +51991,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodcock",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkɑk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkɒk"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "snipe family"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51997,7 +52017,7 @@
           {
             "id": "woodcock-noun-1",
             "definition": "game bird of the sandpiper family that resembles a snipe",
-            "translation": "",
+            "translation": "山鹬；丘鹬（一种涉禽）",
             "examples": []
           }
         ]
@@ -52005,23 +52025,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodcraft",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkræft"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkrɑːft"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "woodsmanship",
+      "forestcraft"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52029,7 +52052,7 @@
           {
             "id": "woodcraft-noun-1",
             "definition": "skill in carving or fashioning objects from wood",
-            "translation": "",
+            "translation": "森林知识；木工手艺；野外生存技能",
             "examples": []
           },
           {
@@ -52048,24 +52071,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodcreeper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkriːpər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌkriːpə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodhewer"
+      "treecreeper"
     ],
     "entries": [
       {
@@ -52074,7 +52097,7 @@
           {
             "id": "woodcreeper-noun-1",
             "definition": "any of numerous South American and Central American birds with a curved bill and stiffened tail feathers that climb and feed like woodpeckers",
-            "translation": "",
+            "translation": "旋木雀（一种攀缘鸟类）",
             "examples": []
           }
         ]
@@ -52082,8 +52105,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52097,10 +52120,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
+    "tags": [],
+    "synonyms": [
+      "wood engraving",
+      "linocut"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52108,7 +52132,7 @@
           {
             "id": "woodcut-noun-1",
             "definition": "engraving consisting of a block of wood with a design cut into it",
-            "translation": "",
+            "translation": "木刻；木版画；木雕印刷品",
             "examples": []
           },
           {
@@ -52122,8 +52146,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52138,7 +52162,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "lumberjack",
+      "woodman"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52146,7 +52173,7 @@
           {
             "id": "woodcutter-noun-1",
             "definition": "cuts down trees and chops wood as a job",
-            "translation": "",
+            "translation": "伐木工；砍柴人；木匠",
             "examples": []
           }
         ]
@@ -52154,8 +52181,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52170,7 +52197,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "forested",
+      "wooded area"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -52178,7 +52208,7 @@
           {
             "id": "wooded-adjective-1",
             "definition": "covered with growing trees and bushes etc",
-            "translation": "木头",
+            "translation": "树木繁茂的；有林木的",
             "examples": [
               {
                 "text": "wooded land",
@@ -52191,8 +52221,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52249,24 +52279,26 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "woodenly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdnli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdnli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "gracelessly"
+      "stiffly",
+      "awkwardly",
+      "rigidly"
     ],
     "entries": [
       {
@@ -52275,7 +52307,7 @@
           {
             "id": "woodenly-adverb-1",
             "definition": "without grace",
-            "translation": "木制的地",
+            "translation": "木然地；僵硬地；笨拙地",
             "examples": []
           }
         ]
@@ -52283,23 +52315,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "woodenness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊndənnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdnəs"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "stiffness",
+      "awkwardness"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52307,7 +52342,7 @@
           {
             "id": "woodenness-noun-1",
             "definition": "the quality of being wooden and awkward",
-            "translation": "",
+            "translation": "木头质；生硬；死板",
             "examples": [
               {
                 "text": "They criticized the woodenness of the acting.",
@@ -52320,23 +52355,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodenware",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdnˌwer"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdnˌweə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "kitchenware"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52344,7 +52381,7 @@
           {
             "id": "woodenware-noun-1",
             "definition": "ware for domestic use made of wood",
-            "translation": "",
+            "translation": "木制餐具；木制家用器具",
             "examples": []
           }
         ]
@@ -52352,23 +52389,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodfern",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌfɜːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌfɜːn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "fern",
+      "Dryopteris"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52376,7 +52416,7 @@
           {
             "id": "woodfern-noun-1",
             "definition": "any of various ferns of the genus Dryopteris",
-            "translation": "",
+            "translation": "木蕨；鳞毛蕨属植物",
             "examples": []
           }
         ]
@@ -52384,23 +52424,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodgrain",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌɡreɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌɡreɪn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "grain"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52408,7 +52450,7 @@
           {
             "id": "woodgrain-noun-1",
             "definition": "texture produced by the fibers in wood",
-            "translation": "",
+            "translation": "木纹；木材纹理",
             "examples": []
           }
         ]
@@ -52416,24 +52458,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodgraining",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌɡreɪnɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌɡreɪnɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "graining"
+      "grain pattern"
     ],
     "entries": [
       {
@@ -52442,7 +52484,7 @@
           {
             "id": "woodgraining-noun-1",
             "definition": "a texture like that of wood",
-            "translation": "",
+            "translation": "木纹；木材纹理",
             "examples": []
           }
         ]
@@ -52450,24 +52492,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodhewer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌhjuːər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌhjuːə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodcreeper"
+      "woodpecker",
+      "ovenbird"
     ],
     "entries": [
       {
@@ -52476,7 +52519,7 @@
           {
             "id": "woodhewer-noun-1",
             "definition": "any of numerous South American and Central American birds with a curved bill and stiffened tail feathers that climb and feed like woodpeckers",
-            "translation": "",
+            "translation": "啄木鸟（美洲的一种鸟）",
             "examples": []
           }
         ]
@@ -52484,24 +52527,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdinəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodsiness"
+      "woodedness",
+      " ligneous nature"
     ],
     "entries": [
       {
@@ -52510,7 +52554,7 @@
           {
             "id": "woodiness-noun-1",
             "definition": "texture produced by the fibers in wood",
-            "translation": "",
+            "translation": "木质；木本性质",
             "examples": []
           },
           {
@@ -52524,8 +52568,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52541,7 +52585,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "timber"
+      "forest",
+      "woods",
+      "timberland"
     ],
     "entries": [
       {
@@ -52550,7 +52596,7 @@
           {
             "id": "woodland-noun-1",
             "definition": "land that is covered with trees and shrubs",
-            "translation": "",
+            "translation": "林地；森林； woodland",
             "examples": []
           }
         ]
@@ -52558,24 +52604,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodlet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdlət"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdlət"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "grove"
+      "small grove",
+      "copse"
     ],
     "entries": [
       {
@@ -52584,7 +52631,7 @@
           {
             "id": "woodlet-noun-1",
             "definition": "garden consisting of a small cultivated wood without undergrowth",
-            "translation": "",
+            "translation": "小林子；小树林；矮林",
             "examples": []
           }
         ]
@@ -52592,24 +52639,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodlouse",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌlaʊs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌlaʊs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "slater"
+      "sowbug",
+      "pillbug"
     ],
     "entries": [
       {
@@ -52618,7 +52666,7 @@
           {
             "id": "woodlouse-noun-1",
             "definition": "any of various small terrestrial isopods having a flat elliptical segmented body",
-            "translation": "",
+            "translation": "潮虫；鼠妇（一种陆生等足目动物）",
             "examples": []
           }
         ]
@@ -52626,25 +52674,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
     "word": "woodman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdmən"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodsman",
-      "woodworker"
+      "woodcutter",
+      "lumberjack",
+      "forester"
     ],
     "entries": [
       {
@@ -52653,7 +52702,7 @@
           {
             "id": "woodman-noun-1",
             "definition": "makes things out of wood",
-            "translation": "",
+            "translation": "伐木工；木匠；熟悉森林的人",
             "examples": []
           },
           {
@@ -52667,8 +52716,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547771
     }
   },
   {
@@ -52682,11 +52731,9 @@
       }
     },
     "forms": {},
-    "tags": [
-      "cet6"
-    ],
+    "tags": [],
     "synonyms": [
-      "pecker"
+      "bird"
     ],
     "entries": [
       {
@@ -52695,7 +52742,7 @@
           {
             "id": "woodpecker-noun-1",
             "definition": "bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for insects",
-            "translation": "鸟",
+            "translation": "啄木鸟",
             "examples": []
           }
         ]
@@ -52703,23 +52750,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodpile",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌpaɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌpaɪl"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "fuel pile",
+      "log pile"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52727,7 +52777,7 @@
           {
             "id": "woodpile-noun-1",
             "definition": "a pile or stack of wood to be used for fuel",
-            "translation": "",
+            "translation": "柴堆；木柴堆；薪柴堆",
             "examples": []
           }
         ]
@@ -52735,23 +52785,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodruff",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdrʌf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdrʌf"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "sweet woodruff",
+      "Asperula"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52759,7 +52812,7 @@
           {
             "id": "woodruff-noun-1",
             "definition": "any plant of the genus Asperula",
-            "translation": "",
+            "translation": "香车叶草；染色草（一种芳香草本植物）",
             "examples": []
           },
           {
@@ -52773,8 +52826,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -52788,12 +52841,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "ielts",
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "wood"
+      "forest",
+      "glade",
+      "timberland"
     ],
     "entries": [
       {
@@ -52802,7 +52854,7 @@
           {
             "id": "woods-noun-1",
             "definition": "the trees and other plants in a large densely wooded area",
-            "translation": "木头",
+            "translation": "森林；树林；林木",
             "examples": []
           }
         ]
@@ -52810,23 +52862,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodscrew",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌskruː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌskruː"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "wood screw"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52834,7 +52888,7 @@
           {
             "id": "woodscrew-noun-1",
             "definition": "a metal screw that tapers to a point so that it can be driven into wood with a screwdriver",
-            "translation": "",
+            "translation": "木螺丝；木螺钉",
             "examples": []
           }
         ]
@@ -52842,23 +52896,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodshed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌʃed"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌʃed"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "fuel shed",
+      "log shed"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52866,7 +52923,7 @@
           {
             "id": "woodshed-noun-1",
             "definition": "a shed for storing firewood or garden tools",
-            "translation": "",
+            "translation": "柴房；薪柴棚；木料棚",
             "examples": []
           }
         ]
@@ -52874,23 +52931,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodsia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdsiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdsiə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "ferns"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -52898,7 +52957,7 @@
           {
             "id": "woodsia-noun-1",
             "definition": "any fern of the genus Woodsia",
-            "translation": "",
+            "translation": "岩蕨属（蕨类植物）",
             "examples": []
           }
         ]
@@ -52906,24 +52965,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodsiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdizinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdizinəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodiness"
+      "woodedness"
     ],
     "entries": [
       {
@@ -52932,7 +52991,7 @@
           {
             "id": "woodsiness-noun-1",
             "definition": "the quality of abounding in trees",
-            "translation": "",
+            "translation": "木质；木本性质；树林繁茂",
             "examples": []
           }
         ]
@@ -52940,25 +52999,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodsman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdzmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdzmən"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodman",
-      "woodworker"
+      "forester",
+      "lumberjack",
+      "woodcutter"
     ],
     "entries": [
       {
@@ -52967,7 +53027,7 @@
           {
             "id": "woodsman-noun-1",
             "definition": "makes things out of wood",
-            "translation": "",
+            "translation": "林中人；伐木工；熟悉森林的人",
             "examples": []
           },
           {
@@ -52981,24 +53041,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodsy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdzi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdzi"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "arboreous"
+      "sylvan",
+      "foresty",
+      "woodland"
     ],
     "entries": [
       {
@@ -53007,7 +53069,7 @@
           {
             "id": "woodsy-adjective-1",
             "definition": "abounding in trees",
-            "translation": "",
+            "translation": "树林的；像森林的；林木茂密的",
             "examples": []
           },
           {
@@ -53026,24 +53088,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodwaxen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwæksən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwæksən"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "whin"
+      "woodwax"
     ],
     "entries": [
       {
@@ -53052,7 +53114,7 @@
           {
             "id": "woodwaxen-noun-1",
             "definition": "small Eurasian shrub having clusters of yellow flowers that yield a dye",
-            "translation": "",
+            "translation": "（植物）染料木；黄木犀草",
             "examples": []
           }
         ]
@@ -53060,8 +53122,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53077,7 +53139,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "wood"
+      "wind instrument",
+      "flute family"
     ],
     "entries": [
       {
@@ -53086,7 +53149,7 @@
           {
             "id": "woodwind-noun-1",
             "definition": "any wind instrument other than the brass instruments",
-            "translation": "",
+            "translation": "木管乐器；木管乐",
             "examples": []
           }
         ]
@@ -53094,8 +53157,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53121,7 +53184,7 @@
           {
             "id": "woodwork-noun-1",
             "definition": "the craft of a carpenter: making things out of wood",
-            "translation": "",
+            "translation": "木制品；木工；木结构件",
             "examples": []
           },
           {
@@ -53140,25 +53203,25 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodworker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwɜːrkər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwɜːkə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodman",
-      "woodsman"
+      "carpenter",
+      "joiner"
     ],
     "entries": [
       {
@@ -53167,7 +53230,7 @@
           {
             "id": "woodworker-noun-1",
             "definition": "makes things out of wood",
-            "translation": "",
+            "translation": "木匠；木工；木艺师",
             "examples": []
           }
         ]
@@ -53175,8 +53238,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53192,7 +53255,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woodwork"
+      "carpentry",
+      "joinery"
     ],
     "entries": [
       {
@@ -53201,7 +53265,7 @@
           {
             "id": "woodworking-noun-1",
             "definition": "the craft of a carpenter: making things out of wood",
-            "translation": "",
+            "translation": "木工；木艺；木工活",
             "examples": []
           }
         ]
@@ -53209,23 +53273,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woodworm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwɜːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊdˌwɜːm"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "wood-boring larva",
+      "woodworm beetle larva"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53233,7 +53300,7 @@
           {
             "id": "woodworm-noun-1",
             "definition": "a larva of a woodborer",
-            "translation": "",
+            "translation": "蛀木虫；木蛀虫；蛀蚀木头的幼虫",
             "examples": []
           }
         ]
@@ -53241,8 +53308,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53258,7 +53325,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "arboreous"
+      "wooded",
+      "forested",
+      " ligneous"
     ],
     "entries": [
       {
@@ -53267,7 +53336,7 @@
           {
             "id": "woody-adjective-1",
             "definition": "made hard like wood as the result of the deposition of lignin in the cell walls",
-            "translation": "",
+            "translation": "树木茂密的；木本的；木质的",
             "examples": []
           },
           {
@@ -53292,24 +53361,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "wooer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwuːər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwuːə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "suer"
+      "suitor",
+      "courter"
     ],
     "entries": [
       {
@@ -53318,7 +53388,7 @@
           {
             "id": "wooer-noun-1",
             "definition": "a man who courts a woman",
-            "translation": "",
+            "translation": "追求者；求爱者；追求女人的人",
             "examples": []
           }
         ]
@@ -53326,8 +53396,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53340,10 +53410,14 @@
         "ipa": "wu:f"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "woofing",
+      "past": "woofed",
+      "pastParticiple": "woofed"
+    },
     "tags": [],
     "synonyms": [
-      "pick"
+      "bark"
     ],
     "entries": [
       {
@@ -53352,7 +53426,7 @@
           {
             "id": "woof-noun-1",
             "definition": "the yarn woven across the warp yarn in weaving",
-            "translation": "",
+            "translation": "（狗的）低吠声；汪汪声",
             "examples": []
           }
         ]
@@ -53360,23 +53434,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woofer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwuːfər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwuːfə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bass speaker",
+      "subwoofer"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53384,7 +53461,7 @@
           {
             "id": "woofer-noun-1",
             "definition": "a loudspeaker that reproduces lower audio frequency sounds",
-            "translation": "",
+            "translation": "低音扬声器；低音喇叭",
             "examples": []
           }
         ]
@@ -53392,24 +53469,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "wooing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwuːɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwuːɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "suit"
+      "courting",
+      "seducing"
     ],
     "entries": [
       {
@@ -53418,7 +53496,7 @@
           {
             "id": "wooing-noun-1",
             "definition": "a man's courting of a woman",
-            "translation": "",
+            "translation": "求爱；追求；讨好",
             "examples": []
           }
         ]
@@ -53426,8 +53504,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
@@ -53492,8 +53570,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
@@ -53544,24 +53622,29 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "woolgather",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðə"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "woolgathering",
+      "past": "woolgathered",
+      "pastParticiple": "woolgathered"
+    },
     "tags": [],
     "synonyms": [
-      "dream"
+      "daydream",
+      "fantasize"
     ],
     "entries": [
       {
@@ -53570,7 +53653,7 @@
           {
             "id": "woolgather-verb-1",
             "definition": "have a daydream",
-            "translation": "",
+            "translation": "心不在焉；胡思乱想；发呆",
             "examples": []
           }
         ]
@@ -53578,23 +53661,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woolgatherer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðərər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðərə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "dreamer",
       "daydreamer"
     ],
     "entries": [
@@ -53604,7 +53688,7 @@
           {
             "id": "woolgatherer-noun-1",
             "definition": "someone who indulges in idle or absentminded daydreaming",
-            "translation": "",
+            "translation": "做白日梦的人；心不在焉的人",
             "examples": []
           }
         ]
@@ -53612,24 +53696,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547729
     }
   },
   {
     "word": "woolgathering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðərɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌɡæðərɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "dreamy"
+      "daydreaming",
+      "reverie",
+      "absent-mindedness"
     ],
     "entries": [
       {
@@ -53638,7 +53724,7 @@
           {
             "id": "woolgathering-adjective-1",
             "definition": "dreamy in mood or nature",
-            "translation": "",
+            "translation": "心不在焉；白日梦；胡思乱想",
             "examples": [
               {
                 "text": "a woolgathering moment",
@@ -53662,8 +53748,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -53677,12 +53763,10 @@
       }
     },
     "forms": {},
-    "tags": [
-      "cet4",
-      "cet6",
-      "gk"
+    "tags": [],
+    "synonyms": [
+      "woolen"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -53690,7 +53774,7 @@
           {
             "id": "woollen-adjective-1",
             "definition": "of or related to or made of wool",
-            "translation": "羊毛的",
+            "translation": "羊毛（制）的；毛料的",
             "examples": [
               {
                 "text": "The woollen sweater was itchy around my neck.",
@@ -53714,8 +53798,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -53729,17 +53813,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "addled",
-      "befuddled",
-      "flocculent",
-      "lanate",
-      "muddled",
-      "muzzy",
-      "wooly"
+      "fuzzy",
+      "shaggy",
+      "hairy"
     ],
     "entries": [
       {
@@ -53748,7 +53826,7 @@
           {
             "id": "woolly-adjective-1",
             "definition": "covered with dense cottony hairs or hairlike filaments",
-            "translation": "羊毛地",
+            "translation": "羊毛（制）的；毛茸茸的；模糊的",
             "examples": [
               {
                 "text": "the woolly aphid has a lanate coat resembling cotton",
@@ -53784,23 +53862,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "woolsorter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌsɔːrtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌsɔːtə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "wool grader"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53808,7 +53888,7 @@
           {
             "id": "woolsorter-noun-1",
             "definition": "a person who sorts wool into different grades",
-            "translation": "",
+            "translation": "羊毛分级工；拣毛工",
             "examples": []
           }
         ]
@@ -53816,8 +53896,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -53833,7 +53913,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "woolly"
+      "woolly",
+      "fuzzy"
     ],
     "entries": [
       {
@@ -53842,7 +53923,7 @@
           {
             "id": "wooly-adjective-1",
             "definition": "covered with dense often matted or curly hairs",
-            "translation": "",
+            "translation": "羊毛制的；毛茸茸的",
             "examples": []
           },
           {
@@ -53862,18 +53943,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "woosh",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wʊʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wʊʃ"
       }
     },
     "forms": {
@@ -53883,7 +53964,8 @@
     },
     "tags": [],
     "synonyms": [
-      "whoosh"
+      "whoosh",
+      "swish"
     ],
     "entries": [
       {
@@ -53892,7 +53974,7 @@
           {
             "id": "woosh-verb-1",
             "definition": "move with a sibilant sound",
-            "translation": "",
+            "translation": "（气流快速通过的）嗖声；呼呼声",
             "examples": []
           }
         ]
@@ -53900,24 +53982,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "woozy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwuːzi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊzi"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "dizzy"
+      "dizzy",
+      "faint",
+      "lightheaded"
     ],
     "entries": [
       {
@@ -53926,7 +54010,7 @@
           {
             "id": "woozy-adjective-1",
             "definition": "having or causing a whirling sensation",
-            "translation": "",
+            "translation": "头晕目眩的；恶心的；晕乎乎的",
             "examples": []
           }
         ]
@@ -53934,27 +54018,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɑp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɒp"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "dago",
-      "ginzo",
-      "greaseball"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -53962,7 +54042,7 @@
           {
             "id": "wop-noun-1",
             "definition": "offensive term for a person of Italian descent",
-            "translation": "",
+            "translation": "（冒犯性俚语）意大利裔美国人",
             "examples": [
               {
                 "text": "The word \"wop\" gets tossed around often in war films. ",
@@ -53975,8 +54055,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -53990,18 +54070,19 @@
       }
     },
     "forms": {
-      "pastParticiple": "worded",
       "gerund": "wording",
-      "past": "worded"
+      "past": "worded",
+      "pastParticiple": "worded"
     },
     "tags": [
+      "cet4",
       "gk",
       "zk"
     ],
     "synonyms": [
-      "intelligence",
-      "parole",
-      "phrase"
+      "term",
+      "expression",
+      "vocable"
     ],
     "entries": [
       {
@@ -54010,7 +54091,7 @@
           {
             "id": "word-noun-1",
             "definition": "a unit of language that native speakers can identify",
-            "translation": "单词",
+            "translation": "单词；词语；话语",
             "examples": [
               {
                 "text": "Words are the blocks from which sentences are made.",
@@ -54129,23 +54210,26 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordbook",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdˌbʊk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdˌbʊk"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "dictionary",
+      "vocabulary book"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54153,7 +54237,7 @@
           {
             "id": "wordbook-noun-1",
             "definition": "a reference book containing words (usually with their meanings)",
-            "translation": "",
+            "translation": "词汇本；单词册；词典",
             "examples": []
           }
         ]
@@ -54161,23 +54245,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordfinder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdˌfaɪndər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdˌfaɪndə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "word list",
+      "glossary"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54185,7 +54272,7 @@
           {
             "id": "wordfinder-noun-1",
             "definition": "a thesaurus organized to help you find the word you want but cannot think of",
-            "translation": "",
+            "translation": "词汇手册；词语查找器",
             "examples": []
           }
         ]
@@ -54193,24 +54280,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdɪli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "verbosely"
+      "verbosely",
+      "at length"
     ],
     "entries": [
       {
@@ -54219,7 +54307,7 @@
           {
             "id": "wordily-adverb-1",
             "definition": "in a verbose manner",
-            "translation": "",
+            "translation": "冗长地；啰嗦地",
             "examples": []
           }
         ]
@@ -54227,23 +54315,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdinəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "verbosity",
       "prolixity"
     ],
     "entries": [
@@ -54253,7 +54342,7 @@
           {
             "id": "wordiness-noun-1",
             "definition": "boring verbosity",
-            "translation": "",
+            "translation": "冗长；啰嗦；文字堆砌",
             "examples": []
           }
         ]
@@ -54261,8 +54350,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -54276,11 +54365,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "ielts"
-    ],
+    "tags": [],
     "synonyms": [
-      "phrasing"
+      "phrasing",
+      "diction",
+      "expression"
     ],
     "entries": [
       {
@@ -54289,7 +54378,7 @@
           {
             "id": "wording-noun-1",
             "definition": "the manner in which something is expressed in words",
-            "translation": "单词",
+            "translation": "措辞；用词；表述方式",
             "examples": []
           }
         ]
@@ -54297,8 +54386,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -54314,7 +54403,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "mute"
+      "silent",
+      "mute",
+      "speechless"
     ],
     "entries": [
       {
@@ -54323,7 +54414,7 @@
           {
             "id": "wordless-adjective-1",
             "definition": "expressed without speech",
-            "translation": "",
+            "translation": "无言的；沉默的；词穷的",
             "examples": []
           }
         ]
@@ -54331,24 +54422,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordlessly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdləsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdləsli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "mutely"
+      "silently",
+      "mutely",
+      "tacitly"
     ],
     "entries": [
       {
@@ -54357,7 +54450,7 @@
           {
             "id": "wordlessly-adverb-1",
             "definition": "without speaking",
-            "translation": "",
+            "translation": "无言地；沉默地；缄口地",
             "examples": []
           }
         ]
@@ -54365,23 +54458,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordmonger",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdˌmʌŋɡər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdˌmʌŋɡə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "word dealer",
+      "phrasemonger"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54389,7 +54485,7 @@
           {
             "id": "wordmonger-noun-1",
             "definition": "a writer who uses language carelessly or pretentiously with little regard for meaning",
-            "translation": "",
+            "translation": "舞文弄墨者；靠耍嘴皮子的人",
             "examples": []
           }
         ]
@@ -54397,23 +54493,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordnet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdˌnet"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdˌnet"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "lexical database"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54421,7 +54519,7 @@
           {
             "id": "wordnet-noun-1",
             "definition": "any of the machine-readable lexical databases modeled after the Princeton WordNet",
-            "translation": "",
+            "translation": "词网（普林斯顿词汇网络数据库）",
             "examples": []
           }
         ]
@@ -54429,24 +54527,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordplay",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrdˌpleɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːdˌpleɪ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "pun"
+      "pun",
+      "paronomasia"
     ],
     "entries": [
       {
@@ -54455,7 +54554,7 @@
           {
             "id": "wordplay-noun-1",
             "definition": "a humorous play on words",
-            "translation": "",
+            "translation": "文字游戏；双关语；俏皮话",
             "examples": []
           }
         ]
@@ -54463,8 +54562,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -54548,8 +54647,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
@@ -54564,7 +54663,11 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "writer",
+      "author",
+      "linguist"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54572,7 +54675,7 @@
           {
             "id": "wordsmith-noun-1",
             "definition": "a fluent and prolific writer",
-            "translation": "",
+            "translation": "文字匠；语言艺术家；擅长写作的人",
             "examples": []
           }
         ]
@@ -54580,18 +54683,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "wordsworthian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwɜːrdsˈwɜːrθiən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwɜːdzˈwɜːθiən"
       }
     },
     "forms": {},
@@ -54604,7 +54707,7 @@
           {
             "id": "wordsworthian-adjective-1",
             "definition": "in the manner of William Wordsworth",
-            "translation": "",
+            "translation": "（英国诗人）华兹华斯（风格）的",
             "examples": []
           }
         ]
@@ -54612,8 +54715,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -54629,7 +54732,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "windy"
+      "verbose",
+      "prolix",
+      "long-winded"
     ],
     "entries": [
       {
@@ -54638,7 +54743,7 @@
           {
             "id": "wordy-adjective-1",
             "definition": "using or containing too many words",
-            "translation": "",
+            "translation": "冗长的；啰嗦的；文字多的",
             "examples": []
           }
         ]
@@ -54646,8 +54751,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -54666,30 +54771,14 @@
       "pastParticiple": "worked"
     },
     "tags": [
+      "cet4",
       "gk",
       "zk"
     ],
     "synonyms": [
-      "act",
-      "crop",
-      "cultivate",
-      "employment",
-      "exercise",
-      "exploit",
-      "ferment",
-      "knead",
-      "lick",
-      "make",
-      "oeuvre",
-      "play",
-      "process",
-      "run",
-      "shape",
-      "study",
-      "turn",
-      "uniformise",
-      "uniformize",
-      "workplace"
+      "labor",
+      "job",
+      "employment"
     ],
     "entries": [
       {
@@ -54698,7 +54787,7 @@
           {
             "id": "work-noun-1",
             "definition": "activity directed toward making or doing something",
-            "translation": "工作",
+            "translation": "工作；劳动；职业",
             "examples": [
               {
                 "text": "I checked several points needing further work.",
@@ -55366,8 +55455,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
@@ -55383,7 +55472,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "viable"
+      "feasible",
+      "viable",
+      "possible"
     ],
     "entries": [
       {
@@ -55392,7 +55483,7 @@
           {
             "id": "workable-adjective-1",
             "definition": "capable of being done with means at hand and circumstances as they are",
-            "translation": "能够被",
+            "translation": "可行的；行得通的；可加工的",
             "examples": []
           }
         ]
@@ -55400,24 +55491,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547688
     }
   },
   {
     "word": "workaday",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkəˌdeɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkədeɪ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "everyday"
+      "everyday",
+      "ordinary",
+      "mundane"
     ],
     "entries": [
       {
@@ -55426,7 +55519,7 @@
           {
             "id": "workaday-adjective-1",
             "definition": "found in the ordinary course of events",
-            "translation": "",
+            "translation": "日常的；普通的；平凡的",
             "examples": []
           }
         ]
@@ -55434,8 +55527,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55450,7 +55543,9 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "work addict"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55458,7 +55553,7 @@
           {
             "id": "workaholic-noun-1",
             "definition": "person with a compulsive need to work",
-            "translation": "",
+            "translation": "工作狂；对工作上瘾的人",
             "examples": []
           }
         ]
@@ -55466,23 +55561,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workaholism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwɜːrkəˈhɒlɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwɜːkəˈhɒlɪzəm"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "work addiction"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55490,7 +55587,7 @@
           {
             "id": "workaholism-noun-1",
             "definition": "compulsiveness about working",
-            "translation": "",
+            "translation": "工作狂；沉迷工作；工作成瘾",
             "examples": []
           }
         ]
@@ -55498,24 +55595,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workbag",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌbæɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌbæɡ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "workbasket"
+      "tote bag"
     ],
     "entries": [
       {
@@ -55524,7 +55621,7 @@
           {
             "id": "workbag-noun-1",
             "definition": "container for holding implements and materials for work (especially for sewing)",
-            "translation": "容器",
+            "translation": "工具袋；针线袋；工作包",
             "examples": []
           }
         ]
@@ -55532,25 +55629,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workbasket",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌbæskɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌbɑːskɪt"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "workbag",
-      "workbox"
+      "sewing basket"
     ],
     "entries": [
       {
@@ -55559,7 +55655,7 @@
           {
             "id": "workbasket-noun-1",
             "definition": "container for holding implements and materials for work (especially for sewing)",
-            "translation": "容器",
+            "translation": "针线篮；缝纫篮；工作篮",
             "examples": []
           }
         ]
@@ -55567,8 +55663,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55584,7 +55680,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bench"
+      "bench",
+      "work table"
     ],
     "entries": [
       {
@@ -55593,7 +55690,7 @@
           {
             "id": "workbench-noun-1",
             "definition": "a strong worktable for a carpenter or mechanic",
-            "translation": "",
+            "translation": "工作台；钳工台；操作台",
             "examples": []
           }
         ]
@@ -55601,23 +55698,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workboard",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌbɔːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌbɔːd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "work surface"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55625,7 +55724,7 @@
           {
             "id": "workboard-noun-1",
             "definition": "a horizontal board that provides a supported surface for manual work",
-            "translation": "",
+            "translation": "工作台板；操作板",
             "examples": []
           }
         ]
@@ -55633,8 +55732,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55649,7 +55748,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "exercise book",
+      "study guide"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55657,7 +55759,7 @@
           {
             "id": "workbook-noun-1",
             "definition": "a student's book or booklet containing problems with spaces for solving them",
-            "translation": "",
+            "translation": "练习册；工作手册；学习指南",
             "examples": []
           }
         ]
@@ -55665,24 +55767,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workbox",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌbɑks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌbɒks"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "workbasket"
+      "toolbox"
     ],
     "entries": [
       {
@@ -55691,7 +55793,7 @@
           {
             "id": "workbox-noun-1",
             "definition": "container for holding implements and materials for work (especially for sewing)",
-            "translation": "容器",
+            "translation": "工具盒；针线盒；工作箱",
             "examples": []
           }
         ]
@@ -55699,8 +55801,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55725,7 +55827,7 @@
           {
             "id": "workday-noun-1",
             "definition": "the amount of time that a worker must work for an agreed daily wage",
-            "translation": "工作日的工作量",
+            "translation": "工作日；白天的工作时间",
             "examples": []
           },
           {
@@ -55739,8 +55841,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55772,7 +55874,7 @@
           {
             "id": "worker-noun-1",
             "definition": "sterile member of a colony of social insects that forages for food and cares for the larvae",
-            "translation": "工人",
+            "translation": "工人；劳动者；工作者",
             "examples": []
           },
           {
@@ -55808,24 +55910,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workfellow",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌfoʊloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌfəʊləʊ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "colleague"
+      "colleague",
+      "coworker"
     ],
     "entries": [
       {
@@ -55834,7 +55937,7 @@
           {
             "id": "workfellow-noun-1",
             "definition": "an associate that one works with",
-            "translation": "",
+            "translation": "同事；协作工人",
             "examples": []
           }
         ]
@@ -55842,23 +55945,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workflow",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌfloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌfləʊ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "process",
+      "procedure"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55866,7 +55972,7 @@
           {
             "id": "workflow-noun-1",
             "definition": "progress (or rate of progress) in work being done",
-            "translation": "",
+            "translation": "工作流程；业务流程",
             "examples": []
           }
         ]
@@ -55874,8 +55980,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55902,7 +56008,7 @@
           {
             "id": "workforce-noun-1",
             "definition": "the force of workers available",
-            "translation": "工人可用的的力",
+            "translation": "劳动力；职工总数；人手",
             "examples": []
           }
         ]
@@ -55910,8 +56016,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55934,7 +56040,7 @@
           {
             "id": "workhorse-noun-1",
             "definition": "a horse used for plowing and hauling and other heavy labor",
-            "translation": "",
+            "translation": "重活马；吃苦耐劳的人；老黄牛",
             "examples": []
           },
           {
@@ -55953,8 +56059,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -55969,7 +56075,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "poorhouse",
+      "almshouse"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -55977,7 +56086,7 @@
           {
             "id": "workhouse-noun-1",
             "definition": "a county jail that holds prisoners for periods up to 18 months",
-            "translation": "",
+            "translation": "济贫院；贫民习艺所",
             "examples": []
           },
           {
@@ -55991,8 +56100,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56007,11 +56116,11 @@
     },
     "forms": {},
     "tags": [
-      "ielts"
+      "cet4"
     ],
     "synonyms": [
-      "running",
-      "workings"
+      "functioning",
+      "operational"
     ],
     "entries": [
       {
@@ -56020,7 +56129,7 @@
           {
             "id": "working-adjective-1",
             "definition": "serving to permit or facilitate further work or activity",
-            "translation": "工作的",
+            "translation": "工作（的）；劳动（的）；运作（的）",
             "examples": [
               {
                 "text": "discussed the working draft of a peace treaty",
@@ -56182,24 +56291,25 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workingman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkɪŋˌmæn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkɪŋˌmæn"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "workman"
+      "worker",
+      "laborer"
     ],
     "entries": [
       {
@@ -56208,7 +56318,7 @@
           {
             "id": "workingman-noun-1",
             "definition": "an employee who performs manual or industrial labor",
-            "translation": "",
+            "translation": "工人；体力劳动者；蓝领",
             "examples": []
           }
         ]
@@ -56216,25 +56326,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
     "word": "workings",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkɪŋz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkɪŋz"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "working",
-      "works"
+      "mechanism",
+      "inner workings"
     ],
     "entries": [
       {
@@ -56243,7 +56353,7 @@
           {
             "id": "workings-noun-1",
             "definition": "a mine or quarry that is being or has been worked",
-            "translation": "工作的",
+            "translation": "运作方式；内部机理；运转部分",
             "examples": []
           },
           {
@@ -56262,8 +56372,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56277,11 +56387,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "ielts",
-      "toefl"
+    "tags": [],
+    "synonyms": [
+      "work volume",
+      "task load"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56289,7 +56399,7 @@
           {
             "id": "workload-noun-1",
             "definition": "work that a person is expected to do in a specified time",
-            "translation": "",
+            "translation": "工作量；工作负担",
             "examples": []
           }
         ]
@@ -56297,8 +56407,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56312,12 +56422,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "cet4",
-      "cet6"
-    ],
+    "tags": [],
     "synonyms": [
-      "workingman"
+      "laborer",
+      "artisan",
+      "craftsman"
     ],
     "entries": [
       {
@@ -56326,7 +56435,7 @@
           {
             "id": "workman-noun-1",
             "definition": "an employee who performs manual or industrial labor",
-            "translation": "",
+            "translation": "工人；工匠；手艺人",
             "examples": []
           }
         ]
@@ -56334,8 +56443,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56350,7 +56459,11 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "skilled",
+      "professional",
+      "competent"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -56358,7 +56471,7 @@
           {
             "id": "workmanlike-adjective-1",
             "definition": "worthy of a good workman",
-            "translation": "",
+            "translation": "技艺精湛的；专业的；像工匠一样的",
             "examples": []
           }
         ]
@@ -56366,8 +56479,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56383,7 +56496,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "craft"
+      "craftsmanship",
+      "artisanship"
     ],
     "entries": [
       {
@@ -56392,7 +56506,7 @@
           {
             "id": "workmanship-noun-1",
             "definition": "skill in an occupation or trade",
-            "translation": "",
+            "translation": "手艺；工艺；做工作品",
             "examples": []
           }
         ]
@@ -56400,8 +56514,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56415,10 +56529,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gk"
+    "tags": [],
+    "synonyms": [
+      "colleague",
+      "coworker"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56426,7 +56541,7 @@
           {
             "id": "workmate-noun-1",
             "definition": "a fellow worker",
-            "translation": "一个同伴工人",
+            "translation": "同事；工友；一起工作的人",
             "examples": []
           }
         ]
@@ -56434,8 +56549,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56448,10 +56563,15 @@
         "ipa": "ˈwɜ:kaʊt"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "working out",
+      "past": "worked out",
+      "pastParticiple": "worked out"
+    },
     "tags": [],
     "synonyms": [
-      "exercise"
+      "exercise session",
+      "training"
     ],
     "entries": [
       {
@@ -56460,7 +56580,7 @@
           {
             "id": "workout-noun-1",
             "definition": "the activity of exerting your muscles in various ways to keep fit",
-            "translation": "",
+            "translation": "锻炼；健身训练；练习",
             "examples": []
           }
         ]
@@ -56468,8 +56588,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547643
     }
   },
   {
@@ -56483,10 +56603,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "cet6"
+    "tags": [],
+    "synonyms": [
+      "item",
+      "product"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56494,7 +56615,7 @@
           {
             "id": "workpiece-noun-1",
             "definition": "work consisting of a piece of metal being machined",
-            "translation": "",
+            "translation": "工件；毛坯；待加工件",
             "examples": []
           }
         ]
@@ -56502,8 +56623,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56538,8 +56659,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
@@ -56562,7 +56683,7 @@
           {
             "id": "workroom-noun-1",
             "definition": "room where work is done",
-            "translation": "房间",
+            "translation": "工场；工作间；作坊",
             "examples": [
               {
                 "text": "The workroom had lots of tools and benches to use for work.",
@@ -56575,8 +56696,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56591,12 +56712,13 @@
     },
     "forms": {},
     "tags": [
-      "gk"
+      "cet4"
     ],
     "synonyms": [
-      "deeds",
+      "factory",
       "plant",
-      "workings"
+      "labor",
+      "operation"
     ],
     "entries": [
       {
@@ -56605,7 +56727,7 @@
           {
             "id": "works-noun-1",
             "definition": "performance of moral or religious acts",
-            "translation": "工作",
+            "translation": "工厂；工件；著作；工厂（复数）",
             "examples": []
           },
           {
@@ -56688,8 +56810,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56712,7 +56834,7 @@
           {
             "id": "worksheet-noun-1",
             "definition": "a sheet of paper with multiple columns",
-            "translation": "",
+            "translation": "工作表；练习卷；作业纸",
             "examples": []
           },
           {
@@ -56731,8 +56853,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56781,23 +56903,25 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547841
     }
   },
   {
     "word": "workspace",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌspeɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌspeɪs"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "work area"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56805,7 +56929,7 @@
           {
             "id": "workspace-noun-1",
             "definition": "space allocated for your work (as in an office)",
-            "translation": "",
+            "translation": "工作空间；工作区域",
             "examples": []
           }
         ]
@@ -56813,8 +56937,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56837,7 +56961,7 @@
           {
             "id": "workstation-noun-1",
             "definition": "a desktop digital computer that is conventionally considered to be more powerful than a microcomputer",
-            "translation": "",
+            "translation": "工作站；电脑工作站",
             "examples": []
           }
         ]
@@ -56845,8 +56969,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56869,7 +56993,7 @@
           {
             "id": "worktable-noun-1",
             "definition": "a table designed for a particular task",
-            "translation": "",
+            "translation": "工作台；操作台",
             "examples": []
           }
         ]
@@ -56877,8 +57001,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -56901,7 +57025,7 @@
           {
             "id": "workwear-noun-1",
             "definition": "heavy-duty clothes for manual or physical work",
-            "translation": "",
+            "translation": "工作服；工装",
             "examples": []
           }
         ]
@@ -56909,25 +57033,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
     "word": "workweek",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrkˌwiːk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːkˌwiːk"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "week"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -56935,7 +57057,7 @@
           {
             "id": "workweek-noun-1",
             "definition": "hours or days of work in a calendar week",
-            "translation": "",
+            "translation": "工作周（一周的工作时间）",
             "examples": []
           }
         ]
@@ -56943,35 +57065,29 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
     "word": "world",
     "pronunciation": {
       "us": {
-        "ipa": "wɚld"
+        "ipa": "wɜːrld"
       },
       "uk": {
-        "ipa": "wɜ:ld"
+        "ipa": "wɜːld"
       }
     },
     "forms": {},
     "tags": [
-      "gk",
-      "ielts",
-      "zk"
+      "cet4",
+      "gk"
     ],
     "synonyms": [
-      "creation",
-      "domain",
       "earth",
       "globe",
-      "man",
-      "public",
-      "reality",
-      "worldwide"
+      "universe"
     ],
     "entries": [
       {
@@ -56980,7 +57096,7 @@
           {
             "id": "world-adjective-1",
             "definition": "involving the entire earth",
-            "translation": "世界",
+            "translation": "世界；地球；天下",
             "examples": []
           }
         ]
@@ -57066,28 +57182,25 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
     "word": "world-wide",
     "pronunciation": {
       "us": {
-        "ipa": "ˈwɚldˌwaɪd"
+        "ipa": "ˈwɜːrldˌwaɪd"
       },
       "uk": {
-        "ipa": "ˈwɜ:ldwaɪd"
+        "ipa": "ˈwɜːldˌwaɪd"
       }
     },
     "forms": {},
-    "tags": [
-      "cet4",
-      "cet6"
-    ],
+    "tags": [],
     "synonyms": [
-      "general",
-      "worldwide"
+      "global",
+      "universal"
     ],
     "entries": [
       {
@@ -57096,7 +57209,7 @@
           {
             "id": "world-wide-adjective-1",
             "definition": "of worldwide scope or applicability",
-            "translation": "范围的",
+            "translation": "全世界的；影响遍及全球的",
             "examples": []
           },
           {
@@ -57116,8 +57229,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
@@ -57133,7 +57246,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "sophistication"
+      "earthliness",
+      "materialism",
+      "worldlymindedness"
     ],
     "entries": [
       {
@@ -57142,7 +57257,7 @@
           {
             "id": "worldliness-noun-1",
             "definition": "concern with worldly affairs to the neglect of spiritual needs",
-            "translation": "",
+            "translation": "世俗；世故；物质主义",
             "examples": [
               {
                 "text": "I disliked the worldliness of many of the bishops.",
@@ -57161,24 +57276,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
     "word": "worldling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrldlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːldlɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "tellurian"
+      "earthling",
+      "mortal"
     ],
     "entries": [
       {
@@ -57187,7 +57303,7 @@
           {
             "id": "worldling-noun-1",
             "definition": "an inhabitant of the earth",
-            "translation": "",
+            "translation": "凡人；俗人；尘世之人",
             "examples": []
           },
           {
@@ -57201,27 +57317,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547603
     }
   },
   {
     "word": "worldly",
     "pronunciation": {
       "us": {
-        "ipa": "ˈwɚldli"
+        "ipa": "ˈwɜːrldli"
       },
       "uk": {
-        "ipa": "ˈwɜ:ldlɪ"
+        "ipa": "ˈwɜːldli"
       }
     },
     "forms": {},
-    "tags": [
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "blase",
-      "secular"
+      "earthly",
+      "secular",
+      "material"
     ],
     "entries": [
       {
@@ -57230,7 +57345,7 @@
           {
             "id": "worldly-adjective-1",
             "definition": "very sophisticated especially because of surfeit",
-            "translation": "世界地",
+            "translation": "世俗的；世间的；追名逐利的",
             "examples": []
           },
           {
@@ -57249,32 +57364,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547572
     }
   },
   {
     "word": "worldwide",
     "pronunciation": {
       "us": {
-        "ipa": "ˈwɚldwaɪd"
+        "ipa": "ˈwɜːrldˌwaɪd"
       },
       "uk": {
-        "ipa": "ˈwɜ:ldwaɪd"
+        "ipa": "ˈwɜːldˌwaɪd"
       }
     },
     "forms": {},
-    "tags": [
-      "cet4",
-      "gk",
-      "ky",
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "general",
       "global",
-      "planetary",
-      "world"
+      "universal",
+      "international"
     ],
     "entries": [
       {
@@ -57283,7 +57392,7 @@
           {
             "id": "worldwide-adjective-1",
             "definition": "of worldwide scope or applicability",
-            "translation": "范围的",
+            "translation": "全世界的；全球范围的",
             "examples": []
           },
           {
@@ -57308,36 +57417,33 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547572
     }
   },
   {
     "word": "worm",
     "pronunciation": {
       "us": {
-        "ipa": "wɚm"
+        "ipa": "wɜːrm"
       },
       "uk": {
-        "ipa": "wɜ:m"
+        "ipa": "wɜːm"
       }
     },
     "forms": {
-      "past": "wormed",
       "gerund": "worming",
+      "past": "wormed",
       "pastParticiple": "wormed"
     },
     "tags": [
       "cet4",
-      "cet6",
-      "gk",
-      "ky",
-      "toefl"
+      "gk"
     ],
     "synonyms": [
       "insect",
-      "louse",
-      "twist"
+      "larva",
+      "parasite"
     ],
     "entries": [
       {
@@ -57346,7 +57452,7 @@
           {
             "id": "worm-noun-1",
             "definition": "any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes",
-            "translation": "蠕虫",
+            "translation": "蠕虫；蚯蚓；肠虫（寄生虫）",
             "examples": []
           },
           {
@@ -57426,23 +57532,26 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547572
     }
   },
   {
     "word": "wormcast",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmˌkæst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmˌkɑːst"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "earthworm cast",
+      "vermicast"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57450,7 +57559,7 @@
           {
             "id": "wormcast-noun-1",
             "definition": "fossil trail of a worm",
-            "translation": "",
+            "translation": "蚯蚓粪；蚓粪（蚯蚓排出的泥土）",
             "examples": []
           },
           {
@@ -57464,23 +57573,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547572
     }
   },
   {
     "word": "wormhole",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmˌhoʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmˌhəʊl"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "burrow",
+      "tunnel"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57488,7 +57600,7 @@
           {
             "id": "wormhole-noun-1",
             "definition": "hole made by a burrowing worm",
-            "translation": "",
+            "translation": "虫孔；虫眼（虫子咬出的洞）",
             "examples": []
           }
         ]
@@ -57496,24 +57608,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547572
     }
   },
   {
     "word": "wormlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmˌlaɪk"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cringing"
+      "cringing",
+      "groveling",
+      "vermiculate"
     ],
     "entries": [
       {
@@ -57522,7 +57636,7 @@
           {
             "id": "wormlike-adjective-1",
             "definition": "totally submissive",
-            "translation": "",
+            "translation": "蠕虫般的；蠕动的；像虫一样爬行的",
             "examples": []
           }
         ]
@@ -57530,23 +57644,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547541
     }
   },
   {
     "word": "wormseed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmˌsiːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmˌsiːd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "Chenopodium ambrosioides",
+      "Mexican tea"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57554,7 +57671,7 @@
           {
             "id": "wormseed-noun-1",
             "definition": "rank-smelling tropical American pigweed",
-            "translation": "",
+            "translation": "土荆芥（一种散发难闻气味的热带藜属植物）",
             "examples": []
           }
         ]
@@ -57562,23 +57679,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547541
     }
   },
   {
     "word": "wormwood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmˌwʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmˌwʊd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "absinthe",
+      "bitterness"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -57586,32 +57706,39 @@
           {
             "id": "wormwood-noun-1",
             "definition": "any of several low composite herbs of the genera Artemisia or Seriphidium",
-            "translation": "",
-            "examples": []
+            "translation": "苦艾；（尤指）洋艾（一种苦涩芳香植物，用于酿制苦艾酒）",
+            "examples": [
+              {
+                "text": "The experience left a taste of wormwood in his mouth.",
+                "translation": "那段经历让他满嘴苦涩。"
+              }
+            ]
           }
         ]
       }
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547541
     }
   },
   {
     "word": "wormy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɜːrmi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɜːmi"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cringing"
+      "cringing",
+      "groveling",
+      "worm-eaten"
     ],
     "entries": [
       {
@@ -57620,22 +57747,22 @@
           {
             "id": "wormy-adjective-1",
             "definition": "totally submissive",
-            "translation": "",
+            "translation": "谄媚的；奴性的；卑躬屈膝的",
             "examples": [
               {
                 "text": "The wormy aide did whatever the mayor asked.",
-                "translation": ""
+                "translation": "那个卑躬屈膝的助手对市长言听计从。"
               }
             ]
           },
           {
             "id": "wormy-adjective-2",
             "definition": "infested with or damaged by worms",
-            "translation": "",
+            "translation": "虫蛀的；被虫损坏的；有虫的",
             "examples": [
               {
                 "text": "The buried treasure was too wormy to be valuable.",
-                "translation": ""
+                "translation": "那批埋藏的宝藏虫蛀太多，已无收藏价值。"
               }
             ]
           }
@@ -57644,26 +57771,32 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547541
     }
   },
   {
     "word": "worn",
     "pronunciation": {
       "us": {
-        "ipa": "wɔrn"
+        "ipa": "wɔːrn"
       },
       "uk": {
-        "ipa": "wɔ:n"
+        "ipa": "wɔːn"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "wearing",
+      "past": "wore",
+      "pastParticiple": "worn"
+    },
     "tags": [
       "gk"
     ],
     "synonyms": [
-      "haggard"
+      "haggard",
+      "shattered",
+      "fatigued"
     ],
     "entries": [
       {
@@ -57692,52 +57825,52 @@
     "phrases": [
       {
         "text": "worn away",
-        "translation": ""
+        "translation": "（使）磨损；（使）磨灭；（使）侵蚀"
       },
       {
         "text": "worn down",
-        "translation": ""
+        "translation": "疲惫不堪的；用旧的；消磨的"
       },
       {
         "text": "worn in",
-        "translation": ""
+        "translation": "磨合的；穿旧的"
       },
       {
         "text": "worn in journal",
-        "translation": ""
+        "translation": "日志磨损"
       },
       {
         "text": "worn off",
-        "translation": ""
+        "translation": "逐渐消失；消退"
       },
       {
         "text": "worn on",
-        "translation": ""
+        "translation": "继续；持续"
       },
       {
         "text": "worn out",
-        "translation": ""
+        "translation": "精疲力竭的；用旧的；穿破的"
       },
       {
         "text": "worn to a frazzle",
-        "translation": ""
+        "translation": "极度疲惫；累得不行"
       },
       {
         "text": "worn to a shadow",
-        "translation": ""
+        "translation": "瘦得皮包骨头；憔悴不堪"
       },
       {
         "text": "worn to a thread",
-        "translation": ""
+        "translation": "破旧不堪；穿到只剩线头"
       },
       {
         "text": "worn to the thread",
-        "translation": ""
+        "translation": "破旧不堪；穿到只剩线头"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782547541
     }
   },
   {
