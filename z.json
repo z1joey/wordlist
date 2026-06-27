@@ -3,10 +3,10 @@
     "word": "z",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ziː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɛd"
       }
     },
     "forms": {},
@@ -19,11 +19,11 @@
           {
             "id": "z-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "罗马字母表的第26个字母",
+            "translation": "字母Z",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "translation": ""
+                "translation": "英国人把'Z'叫zed，苏格兰人叫ezed，但美国人叫zee。"
               }
             ]
           }
@@ -32,18 +32,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zabaglione",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzæbəlˈjoʊni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzæbəˈljəʊni"
       }
     },
     "forms": {},
@@ -58,7 +58,7 @@
           {
             "id": "zabaglione-noun-1",
             "definition": "light foamy custard-like dessert served hot or chilled",
-            "translation": "",
+            "translation": "意式蛋奶酒；萨巴永蛋黄酱甜点",
             "examples": []
           }
         ]
@@ -66,18 +66,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zaftig",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɑːftɪɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɑːftɪɡ"
       }
     },
     "forms": {},
@@ -92,11 +92,11 @@
           {
             "id": "zaftig-adjective-1",
             "definition": "a woman being healthily plump and vigorous",
-            "translation": "",
+            "translation": "身材丰满健康的",
             "examples": [
               {
                 "text": "The leading actress was a zaftig brunette.",
-                "translation": ""
+                "translation": "女主角是一位身材丰满、充满活力的棕发女子。"
               }
             ]
           }
@@ -105,18 +105,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zag",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zæɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zæɡ"
       }
     },
     "forms": {},
@@ -131,11 +131,11 @@
           {
             "id": "zag-noun-1",
             "definition": "an angular shape characterized by sharp turns in alternating directions",
-            "translation": "",
+            "translation": "急转；急弯",
             "examples": [
               {
                 "text": "The zags ran down the whole entire body of the shirt and looked bad when worn with striped pants.",
-                "translation": ""
+                "translation": "之字形的褶皱贯穿整件衬衫，配条纹裤子看起来很糟糕。"
               }
             ]
           }
@@ -144,15 +144,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zaire",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzaɪɪɚ"
+        "ipa": "ˈzaɪɪr"
       },
       "uk": {
         "ipa": "ˈzaɪɪə"
@@ -168,11 +168,11 @@
           {
             "id": "zaire-noun-1",
             "definition": "the basic unit of money in Zaire",
-            "translation": "",
+            "translation": "扎伊尔（刚果货币单位）",
             "examples": [
               {
                 "text": "I have a zaire left over from my trip to Zaire.",
-                "translation": ""
+                "translation": "我从去扎伊尔的旅行中剩下一扎伊尔。"
               }
             ]
           }
@@ -181,18 +181,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zairean",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɑːˈɪriən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɑːˈɪəriən"
       }
     },
     "forms": {},
@@ -207,11 +207,11 @@
           {
             "id": "zairean-adjective-1",
             "definition": "of or relating to or characteristic of Zaire or its people",
-            "translation": "人民的",
+            "translation": "扎伊尔的；扎伊尔人的",
             "examples": [
               {
                 "text": "Zairean elections",
-                "translation": ""
+                "translation": "扎伊尔选举正在进行。"
               }
             ]
           }
@@ -220,18 +220,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zairese",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzaɪəˈriːz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzaɪəˈriːz"
       }
     },
     "forms": {},
@@ -246,11 +246,11 @@
           {
             "id": "zairese-adjective-1",
             "definition": "of, relating to, or characteristic of Zaire or its people",
-            "translation": "",
+            "translation": "扎伊尔的；扎伊尔人的",
             "examples": [
               {
                 "text": "Full political control of the Zairese people was taken under the dictatorship ruled by Mobutu Sese Seko.",
-                "translation": ""
+                "translation": "蒙博托·塞塞·塞科独裁政权完全控制了扎伊尔人民。"
               }
             ]
           }
@@ -259,18 +259,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zakat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɑːˈkɑːt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zækˈæt"
       }
     },
     "forms": {},
@@ -283,11 +283,11 @@
           {
             "id": "zakat-noun-1",
             "definition": "an Islamic religious tax",
-            "translation": "",
+            "translation": "天课（伊斯兰教义中的施舍税）",
             "examples": [
               {
                 "text": "The zakat is earmarked for the poor and disabled.",
-                "translation": ""
+                "translation": "天课专用于帮助穷人和残疾人。"
               }
             ]
           }
@@ -296,18 +296,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zamang",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zəˈmæŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəˈmæŋ"
       }
     },
     "forms": {},
@@ -320,11 +320,11 @@
           {
             "id": "zamang-noun-1",
             "definition": "large ornamental tropical American tree with bipinnate leaves and globose clusters of flowers with crimson stamens and seed pods that are eaten by cattle",
-            "translation": "",
+            "translation": "大叶合欢树（热带美洲观赏树）",
             "examples": [
               {
                 "text": "The landscapers put the zamang near the cattle paddock.",
-                "translation": ""
+                "translation": "景观设计师把大叶合欢树种植在牛围栏附近。"
               }
             ]
           }
@@ -333,18 +333,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zambian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzæmbiən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzæmbɪən"
       }
     },
     "forms": {},
@@ -357,11 +357,11 @@
           {
             "id": "zambian-adjective-1",
             "definition": "of or relating to or characteristic of Zambia or its people",
-            "translation": "人民的",
+            "translation": "赞比亚的；赞比亚人的",
             "examples": [
               {
                 "text": "The Zambian restaurant makes a great maize porridge called nshima.",
-                "translation": ""
+                "translation": "那家赞比亚餐厅做的南非白玉米粥（nshima）非常好吃。"
               }
             ]
           }
@@ -370,18 +370,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zamboni",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zæmˈboʊni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zæmˈbəʊni"
       }
     },
     "forms": {},
@@ -394,11 +394,11 @@
           {
             "id": "zamboni-noun-1",
             "definition": "the trademark for a machine that smooths the ice in an ice-skating rink",
-            "translation": "",
+            "translation": "浇冰机",
             "examples": [
               {
                 "text": "My favourite part of any curling game is watching the Zamboni go around and around the rink.",
-                "translation": ""
+                "translation": "我最喜欢看冰壶比赛中浇冰机在冰场上来回运作。"
               }
             ]
           }
@@ -407,15 +407,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zany",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzeni"
+        "ipa": "ˈzeɪni"
       },
       "uk": {
         "ipa": "ˈzeɪnɪ"
@@ -433,11 +433,11 @@
           {
             "id": "zany-adjective-1",
             "definition": "ludicrous, foolish, like a clown",
-            "translation": "",
+            "translation": "滑稽可笑的；小丑般的",
             "examples": [
               {
                 "text": "The entertainer was known for their zany antics.",
-                "translation": ""
+                "translation": "这位艺人以滑稽的噱头闻名。 / 那个小丑在旧喜剧中负责逗笑观众。"
               }
             ]
           }
@@ -449,11 +449,11 @@
           {
             "id": "zany-noun-1",
             "definition": "a buffoon in one of the old comedies, or someone who is a stupid incompetent fool",
-            "translation": "",
+            "translation": "丑角；笨蛋",
             "examples": [
               {
                 "text": "The zany is funny.",
-                "translation": ""
+                "translation": "这位艺人以滑稽的噱头闻名。 / 那个小丑在旧喜剧中负责逗笑观众。"
               }
             ]
           }
@@ -462,8 +462,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -494,11 +494,11 @@
           {
             "id": "zap-noun-1",
             "definition": "a sudden event that imparts energy or excitement, usually with a dramatic impact",
-            "translation": "",
+            "translation": "冲击；能量爆发",
             "examples": [
               {
                 "text": "they gave it another zap of radiation",
-                "translation": ""
+                "translation": "他们又用辐射照射了一下。 / 微波炉加热食物非常方便。 / 空中打击敌军！ / 他被电击致死。 / 这档节目用一些震撼场景突然袭击观众。"
               }
             ]
           }
@@ -510,34 +510,34 @@
           {
             "id": "zap-verb-1",
             "definition": "cook or heat in a microwave oven",
-            "translation": "",
+            "translation": "用微波炉加热",
             "examples": []
           },
           {
             "id": "zap-verb-2",
             "definition": "strike at with firepower or bombs",
-            "translation": "罢工",
+            "translation": "用火力攻击；轰炸",
             "examples": [
               {
                 "text": "zap the enemy",
-                "translation": ""
+                "translation": "他们又用辐射照射了一下。 / 微波炉加热食物非常方便。 / 空中打击敌军！ / 他被电击致死。 / 这档节目用一些震撼场景突然袭击观众。"
               }
             ]
           },
           {
             "id": "zap-verb-3",
             "definition": "kill with or as if with a burst of gunfire or electric current or as if by shooting",
-            "translation": "",
+            "translation": "电击致死；以枪弹杀死",
             "examples": []
           },
           {
             "id": "zap-verb-4",
             "definition": "strike suddenly and with force",
-            "translation": "罢工",
+            "translation": "突然猛击",
             "examples": [
               {
                 "text": "This show zaps the viewers with some shocking scenes",
-                "translation": ""
+                "translation": "他们又用辐射照射了一下。 / 微波炉加热食物非常方便。 / 空中打击敌军！ / 他被电击致死。 / 这档节目用一些震撼场景突然袭击观众。"
               }
             ]
           }
@@ -546,18 +546,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zapotec",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzæpoʊtɛk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzæpəʊtɛk"
       }
     },
     "forms": {},
@@ -570,11 +570,11 @@
           {
             "id": "zapotec-adjective-1",
             "definition": "of or relating to the language or culture of the Zapotec people",
-            "translation": "人民的",
+            "translation": "萨波蒂克人的；萨波蒂克文化的",
             "examples": [
               {
                 "text": "The linguists were interested in the development of Zapotec language.",
-                "translation": ""
+                "translation": "语言学家对萨波蒂克语的发展很感兴趣。"
               }
             ]
           }
@@ -583,15 +583,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zapper",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzæpɚ"
+        "ipa": "ˈzæpər"
       },
       "uk": {
         "ipa": "ˈzæpə"
@@ -607,11 +607,11 @@
           {
             "id": "zapper-noun-1",
             "definition": "an electrical device that can injure or kill by means of electric currents",
-            "translation": "",
+            "translation": "电击器；电杀器",
             "examples": [
               {
                 "text": "Buying that bug zapper was the best decision I ever made.",
-                "translation": ""
+                "translation": "买了那个电击器是我做过的最正确的决定。"
               }
             ]
           }
@@ -620,18 +620,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zarf",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɑːrf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɑːf"
       }
     },
     "forms": {},
@@ -644,11 +644,11 @@
           {
             "id": "zarf-noun-1",
             "definition": "an ornamental metal cup-shaped holder for a hot coffee cup",
-            "translation": "",
+            "translation": "金属咖啡杯套（装饰性）",
             "examples": [
               {
                 "text": "I put my coffee into the zarf, and then everyone looked at me funny.",
-                "translation": ""
+                "translation": "我把咖啡放进了金属杯套里，然后所有人都用奇怪的眼神看我。"
               }
             ]
           }
@@ -657,18 +657,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zax",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zæks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zæks"
       }
     },
     "forms": {},
@@ -681,11 +681,11 @@
           {
             "id": "zax-noun-1",
             "definition": "a tool used in roofing, a slate knife",
-            "translation": "",
+            "translation": "石板瓦刀；屋顶石板切割工具",
             "examples": [
               {
                 "text": "I spent a hard day atop my neighbor's house, wielding my zax against the roof tiles.",
-                "translation": ""
+                "translation": "我在邻居屋顶上挥动石板瓦刀，辛苦地干了一天。"
               }
             ]
           }
@@ -694,18 +694,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zayin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɑːjɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɑːjɪn"
       }
     },
     "forms": {},
@@ -722,7 +722,7 @@
             "examples": [
               {
                 "text": "I always forget zayin when I am practicing the alphabet.",
-                "translation": ""
+                "translation": "我练习字母表时总是忘记zayin。"
               }
             ]
           }
@@ -731,18 +731,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeal",
     "pronunciation": {
       "us": {
-        "ipa": "zil"
+        "ipa": "ziːl"
       },
       "uk": {
-        "ipa": "zi:l"
+        "ipa": "ziːl"
       }
     },
     "forms": {},
@@ -763,33 +763,33 @@
           {
             "id": "zeal-noun-1",
             "definition": "prompt willingness",
-            "translation": "迅速的意愿",
+            "translation": "热忱；热情",
             "examples": [
               {
                 "text": "Your zeal for the task was apparent in the way you promptly volunteered.",
-                "translation": ""
+                "translation": "你对任务的热情从你立即自愿承担的样子就能看出来。 / 我对诉讼有绝对的狂热。 / 你怎么能质疑我对事业的热情？"
               }
             ]
           },
           {
             "id": "zeal-noun-2",
             "definition": "excessive fervor to do something or accomplish some end",
-            "translation": "",
+            "translation": "狂热；过度热忱",
             "examples": [
               {
                 "text": "I have an absolute zeal for litigation.",
-                "translation": ""
+                "translation": "你对任务的热情从你立即自愿承担的样子就能看出来。 / 我对诉讼有绝对的狂热。 / 你怎么能质疑我对事业的热情？"
               }
             ]
           },
           {
             "id": "zeal-noun-3",
             "definition": "a feeling of strong eagerness, usually in favor of a person or cause",
-            "translation": "",
+            "translation": "强烈渴望",
             "examples": [
               {
                 "text": "How dare you question my zeal for the cause?",
-                "translation": ""
+                "translation": "你对任务的热情从你立即自愿承担的样子就能看出来。 / 我对诉讼有绝对的狂热。 / 你怎么能质疑我对事业的热情？"
               }
             ]
           }
@@ -798,8 +798,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -826,11 +826,11 @@
           {
             "id": "zealot-noun-1",
             "definition": "a fervent and even militant proponent of something",
-            "translation": "",
+            "translation": "狂热分子；激烈倡导者",
             "examples": [
               {
                 "text": "The sect was full of zealots.",
-                "translation": ""
+                "translation": "那个教派充满了狂热分子。"
               }
             ]
           }
@@ -839,8 +839,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -867,11 +867,11 @@
           {
             "id": "zealotry-noun-1",
             "definition": "excessive intolerance of opposing views",
-            "translation": "",
+            "translation": "极端偏执；狂热盲从",
             "examples": [
               {
                 "text": "The party's zealotry was a turn off for many voters.",
-                "translation": ""
+                "translation": "该党的狂热令许多选民反感。"
               }
             ]
           }
@@ -880,8 +880,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -910,11 +910,11 @@
           {
             "id": "zealous-adjective-1",
             "definition": "marked by active interest and enthusiasm",
-            "translation": "",
+            "translation": "热心的；积极的",
             "examples": [
               {
                 "text": "The teacher enjoyed having such zealous students.",
-                "translation": ""
+                "translation": "老师很享受有这样热情的学生。"
               }
             ]
           }
@@ -923,18 +923,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zealously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛləsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzeləslɪ"
       }
     },
     "forms": {},
@@ -947,11 +947,11 @@
           {
             "id": "zealously-adverb-1",
             "definition": "in a passionate manner",
-            "translation": "",
+            "translation": "热情地；热心地",
             "examples": [
               {
                 "text": "I worked zealously to raise funds for the literacy project.",
-                "translation": ""
+                "translation": "我热情地为识字项目筹款。"
               }
             ]
           }
@@ -960,18 +960,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zebibit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛbɪbɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzebɪbɪt"
       }
     },
     "forms": {},
@@ -984,11 +984,11 @@
           {
             "id": "zebibit-noun-1",
             "definition": "a unit of information equal to 1024 exbibits or 2^70 bits",
-            "translation": "",
+            "translation": "泽比比特（信息单位，相当于2^70比特）",
             "examples": [
               {
                 "text": "The data company had zebibits of data.",
-                "translation": ""
+                "translation": "那家数据公司拥有泽比比特级的数据量。"
               }
             ]
           }
@@ -997,18 +997,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zebibyte",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛbɪbaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzebɪbaɪt"
       }
     },
     "forms": {},
@@ -1023,11 +1023,11 @@
           {
             "id": "zebibyte-noun-1",
             "definition": "a unit of information equal to 1024 exbibytes or 2^70 bytes",
-            "translation": "",
+            "translation": "泽比字节（信息单位，相当于2^70字节）",
             "examples": [
               {
                 "text": "I measured the data in zebibytes.",
-                "translation": ""
+                "translation": "我用泽比字节来衡量数据量。"
               }
             ]
           }
@@ -1036,15 +1036,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zebra",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzibrə"
+        "ipa": "ˈziːbrə"
       },
       "uk": {
         "ipa": "ˈzebrə"
@@ -1079,18 +1079,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zebrawood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈziːbrəwʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzebrəwʊd"
       }
     },
     "forms": {},
@@ -1103,13 +1103,13 @@
           {
             "id": "zebrawood-noun-1",
             "definition": "any of various trees or shrubs having mottled or striped wood",
-            "translation": "",
+            "translation": "斑纹木植物",
             "examples": []
           },
           {
             "id": "zebrawood-noun-2",
             "definition": "handsomely striped or mottled wood of the zebrawood tree",
-            "translation": "",
+            "translation": "斑纹木（装饰用木材）",
             "examples": []
           }
         ]
@@ -1117,18 +1117,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zebu",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛbjuː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzebjuː"
       }
     },
     "forms": {},
@@ -1141,11 +1141,11 @@
           {
             "id": "zebu-noun-1",
             "definition": "a domesticated ox having a humped back, long horns, and a large dewlap",
-            "translation": "",
+            "translation": "瘤牛；驼峰牛",
             "examples": [
               {
                 "text": "The farmer has been raising zebu in southern India for the last twelve years.",
-                "translation": ""
+                "translation": "这位农民在印度南部养殖瘤牛已经十二年了。"
               }
             ]
           }
@@ -1154,18 +1154,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɛd"
       }
     },
     "forms": {},
@@ -1178,11 +1178,11 @@
           {
             "id": "zed-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "罗马字母表的第26个字母",
+            "translation": "字母Z（英式拼写）",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "translation": ""
+                "translation": "英国人把'Z'叫zed，苏格兰人叫ezed，但美国人叫zee。"
               }
             ]
           }
@@ -1191,18 +1191,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ziː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ziː"
       }
     },
     "forms": {},
@@ -1215,11 +1215,11 @@
           {
             "id": "zee-noun-1",
             "definition": "the 26th letter of the Roman alphabet",
-            "translation": "罗马字母表的第26个字母",
+            "translation": "字母Z（美式拼写）",
             "examples": [
               {
                 "text": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
-                "translation": ""
+                "translation": "英国人把'Z'叫zed，苏格兰人叫ezed，但美国人叫zee。"
               }
             ]
           }
@@ -1228,18 +1228,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeitgeist",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzaɪtgaɪst"
+        "ipa": "ˈzaɪtɡaɪst"
       },
       "uk": {
-        "ipa": "ˈzaɪtgaɪst"
+        "ipa": "ˈzaɪtɡaɪst"
       }
     },
     "forms": {},
@@ -1252,11 +1252,11 @@
           {
             "id": "zeitgeist-noun-1",
             "definition": "the spirit of the time",
-            "translation": "",
+            "translation": "时代精神；时代潮流",
             "examples": [
               {
                 "text": "The new film really fits the Zeitgeist.",
-                "translation": ""
+                "translation": "这部新电影真正切合了时代精神。"
               }
             ]
           }
@@ -1265,8 +1265,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -1292,22 +1292,22 @@
           {
             "id": "zenith-noun-1",
             "definition": "highest point, peak",
-            "translation": "",
+            "translation": "顶点；最高点",
             "examples": [
               {
                 "text": "We reached the zenith exhausted but triumphant.",
-                "translation": ""
+                "translation": "我们筋疲力尽但成功地达到了顶峰。 / 天文学家把注意力集中在天顶上。"
               }
             ]
           },
           {
             "id": "zenith-noun-2",
             "definition": "in astronomy, the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected",
-            "translation": "",
+            "translation": "天顶",
             "examples": [
               {
                 "text": "The astronomers focused their attention on the zenith.",
-                "translation": ""
+                "translation": "天文学家把注意力集中在天顶位置。"
               }
             ]
           }
@@ -1316,18 +1316,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zenithal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛnɪθəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzenɪθəl"
       }
     },
     "forms": {},
@@ -1340,11 +1340,11 @@
           {
             "id": "zenithal-adjective-1",
             "definition": "relating to or located at or near the zenith",
-            "translation": "近的的",
+            "translation": "天顶的；顶点的",
             "examples": [
               {
                 "text": "The star is zenithal.",
-                "translation": ""
+                "translation": "那颗星位于天顶。"
               }
             ]
           }
@@ -1353,18 +1353,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeolite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈziːəlaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈziːəlaɪt"
       }
     },
     "forms": {},
@@ -1377,11 +1377,11 @@
           {
             "id": "zeolite-noun-1",
             "definition": "any of a family of glassy minerals analogous to feldspar containing hydrated aluminum silicates of calcium or sodium or potassium",
-            "translation": "",
+            "translation": "沸石（矿物）",
             "examples": [
               {
                 "text": "The zeolite was easy to identify for the amateur geologist.",
-                "translation": ""
+                "translation": "那位业余地质学家很容易就辨认出了沸石。"
               }
             ]
           }
@@ -1390,18 +1390,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zep",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɛp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɛp"
       }
     },
     "forms": {},
@@ -1416,11 +1416,11 @@
           {
             "id": "zep-noun-1",
             "definition": "a large sandwich made of a long crusty roll split lengthwise and filled with meats, cheese, tomato, onion, lettuce, and condiments",
-            "translation": "",
+            "translation": "巨型三明治；长卷三明治",
             "examples": [
               {
                 "text": "Let's grab a zep at the corner store.",
-                "translation": ""
+                "translation": "我们去街角的商店买了个巨型三明治。"
               }
             ]
           }
@@ -1429,15 +1429,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zephyr",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɛfɚ"
+        "ipa": "ˈzɛfər"
       },
       "uk": {
         "ipa": "ˈzefə"
@@ -1457,11 +1457,11 @@
           {
             "id": "zephyr-noun-1",
             "definition": "a slight wind, usually refreshing",
-            "translation": "",
+            "translation": "微风；和风",
             "examples": [
               {
                 "text": "What a nice zephyr we have today.",
-                "translation": ""
+                "translation": "今天的微风真舒服啊。"
               }
             ]
           }
@@ -1470,18 +1470,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeppelin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛptəlɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɛptəlɪn"
       }
     },
     "forms": {},
@@ -1494,11 +1494,11 @@
           {
             "id": "zeppelin-noun-1",
             "definition": "a large rigid dirigible designed to carry passengers or bombs",
-            "translation": "",
+            "translation": "齐柏林飞艇",
             "examples": [
               {
                 "text": "The zeppelin has a troubled history in aviation.",
-                "translation": ""
+                "translation": "齐柏林飞艇在航空史上有一段坎坷的历史。"
               }
             ]
           }
@@ -1507,15 +1507,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zero",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɪro"
+        "ipa": "ˈzɪroʊ"
       },
       "uk": {
         "ipa": "ˈzɪərəʊ"
@@ -1544,30 +1544,30 @@
           {
             "id": "zero-adjective-1",
             "definition": "indicating the absence of any or all units under consideration",
-            "translation": "零",
+            "translation": "零的",
             "examples": [
               {
                 "text": "a zero score",
-                "translation": ""
+                "translation": "零分。 / 我在200码的距离校准了步枪的归零点。"
               }
             ]
           },
           {
             "id": "zero-adjective-2",
             "definition": "indicating an initial point or origin",
-            "translation": "零",
+            "translation": "零点的；起点的",
             "examples": []
           },
           {
             "id": "zero-adjective-3",
             "definition": "of or relating to the null set (a set with no members)",
-            "translation": "成员的",
+            "translation": "零集合的",
             "examples": []
           },
           {
             "id": "zero-adjective-4",
             "definition": "having no measurable or otherwise determinable value",
-            "translation": "零",
+            "translation": "无价值的；零的",
             "examples": []
           }
         ]
@@ -1578,19 +1578,19 @@
           {
             "id": "zero-noun-1",
             "definition": "the sight setting that will cause a projectile to hit the center of the target with no wind blowing",
-            "translation": "零",
+            "translation": "归零；瞄准点",
             "examples": []
           },
           {
             "id": "zero-noun-2",
             "definition": "the point on a scale from which positive or negative numerical quantities can be measured",
-            "translation": "零",
+            "translation": "零位；零点",
             "examples": []
           },
           {
             "id": "zero-noun-3",
             "definition": "a quantity of no importance",
-            "translation": "零",
+            "translation": "无关紧要的数量",
             "examples": []
           },
           {
@@ -1607,18 +1607,18 @@
           {
             "id": "zero-verb-1",
             "definition": "adjust, as by firing under test conditions, the zero of a gun",
-            "translation": "零",
+            "translation": "调整（枪械）归零",
             "examples": [
               {
                 "text": "I zeroed in my rifle at 200 yards.",
-                "translation": ""
+                "translation": "零分。 / 我在200码的距离校准了步枪的归零点。"
               }
             ]
           },
           {
             "id": "zero-verb-2",
             "definition": "adjust (an instrument or device) to zero value",
-            "translation": "零",
+            "translation": "将…调至零位",
             "examples": []
           }
         ]
@@ -1647,18 +1647,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeroth",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪroʊθ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪərəθ"
       }
     },
     "forms": {},
@@ -1671,11 +1671,11 @@
           {
             "id": "zeroth-adjective-1",
             "definition": "preceding even the first",
-            "translation": "",
+            "translation": "第零的；先于第一的",
             "examples": [
               {
                 "text": "It is the zeroth hour on this project and we have a lot to get done.",
-                "translation": ""
+                "translation": "这个项目正处于最初阶段，我们有很多工作要做。"
               }
             ]
           }
@@ -1684,8 +1684,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -1722,13 +1722,13 @@
           {
             "id": "zest-noun-1",
             "definition": "a tart spicy quality",
-            "translation": "",
+            "translation": "风味；趣味",
             "examples": []
           },
           {
             "id": "zest-noun-2",
             "definition": "vigorous and enthusiastic enjoyment",
-            "translation": "",
+            "translation": "热情；兴致",
             "examples": []
           }
         ]
@@ -1739,7 +1739,7 @@
           {
             "id": "zest-verb-1",
             "definition": "add herbs or spices to",
-            "translation": "",
+            "translation": "给…加调料",
             "examples": []
           }
         ]
@@ -1747,18 +1747,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zestful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛstfʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzestfʊl"
       }
     },
     "forms": {},
@@ -1773,11 +1773,11 @@
           {
             "id": "zestful-adjective-1",
             "definition": "marked by spirited enjoyment",
-            "translation": "",
+            "translation": "兴致勃勃的；热情的",
             "examples": [
               {
                 "text": "The hedonists devoted themselves to a zestful enjoyment of life.",
-                "translation": ""
+                "translation": "享乐主义者们致力于尽情享受生活。"
               }
             ]
           }
@@ -1786,18 +1786,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zestfully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛstfəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzestfəlɪ"
       }
     },
     "forms": {},
@@ -1812,11 +1812,11 @@
           {
             "id": "zestfully-adverb-1",
             "definition": "vigorously and with enthusiastic enjoyment",
-            "translation": "",
+            "translation": "兴致勃勃地；热情地",
             "examples": [
               {
                 "text": "I scrubbed the floors of the new apartment zestfully.",
-                "translation": ""
+                "translation": "我兴致勃勃地打扫新公寓的地板。"
               }
             ]
           }
@@ -1825,18 +1825,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zestfulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛstfʊlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzestfʊlnəs"
       }
     },
     "forms": {},
@@ -1851,11 +1851,11 @@
           {
             "id": "zestfulness-noun-1",
             "definition": "vigorous and enthusiastic enjoyment",
-            "translation": "",
+            "translation": "热情；兴致勃勃",
             "examples": [
               {
                 "text": "Your zestfulness is contagious!",
-                "translation": ""
+                "translation": "你的热情真有感染力！"
               }
             ]
           }
@@ -1864,18 +1864,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zestily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛstɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzestɪlɪ"
       }
     },
     "forms": {},
@@ -1890,11 +1890,11 @@
           {
             "id": "zestily-adverb-1",
             "definition": "with zest ",
-            "translation": "",
+            "translation": "有兴致地；热情地",
             "examples": [
               {
                 "text": "The street artist performed zestily for the enthusiastic crowd.",
-                "translation": ""
+                "translation": "街头艺人为热情的观众卖力地表演。"
               }
             ]
           }
@@ -1903,15 +1903,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zesty",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzesti"
+        "ipa": "ˈzɛsti"
       },
       "uk": {
         "ipa": "ˈzestɪ"
@@ -1932,22 +1932,22 @@
           {
             "id": "zesty-adjective-1",
             "definition": "marked by spirited enjoyment",
-            "translation": "",
+            "translation": "兴致勃勃的；活跃的",
             "examples": [
               {
                 "text": "The zesty entertainers did back-flips for the crowd.",
-                "translation": ""
+                "translation": "那些兴致勃勃的演员为观众表演了翻筋斗。 / 酸橙派美味又爽口。"
               }
             ]
           },
           {
             "id": "zesty-adjective-2",
             "definition": "having an agreeably pungent taste",
-            "translation": "",
+            "translation": "味道浓郁的；辛辣可口的",
             "examples": [
               {
                 "text": "The lime pie was delicious and zesty.",
-                "translation": ""
+                "translation": "酸橙派美味可口，酸辣适中。"
               }
             ]
           }
@@ -1956,18 +1956,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeta",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzeɪtə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈziːtə"
       }
     },
     "forms": {},
@@ -1984,7 +1984,7 @@
             "examples": [
               {
                 "text": "Zeta would be a cool name for a cat.",
-                "translation": ""
+                "translation": "Zeta会是一个很酷的猫名字。"
               }
             ]
           }
@@ -1993,18 +1993,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zettabit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛtəbɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzetəbɪt"
       }
     },
     "forms": {},
@@ -2017,11 +2017,11 @@
           {
             "id": "zettabit-noun-1",
             "definition": "a unit of information equal to 1000 exabits or 10^21 bits",
-            "translation": "",
+            "translation": "泽塔比特（信息单位）",
             "examples": [
               {
                 "text": "Hard drives are not yet capable of storing zettabits of data, but future hardware technology may one day allow such storage possibilities.",
-                "translation": ""
+                "translation": "硬盘目前还无法存储泽塔比特级的数据，但未来的硬件技术也许有一天能够实现这样的存储。"
               }
             ]
           }
@@ -2030,18 +2030,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zettabyte",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɛtəbaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzetəbaɪt"
       }
     },
     "forms": {},
@@ -2056,13 +2056,13 @@
           {
             "id": "zettabyte-noun-1",
             "definition": "a unit of information equal to 1024 exbibytes or 2^70 bytes",
-            "translation": "",
+            "translation": "泽塔字节（2^70字节）",
             "examples": []
           },
           {
             "id": "zettabyte-noun-2",
             "definition": "a unit of information equal to 1000 exabytes or 10^21 bytes",
-            "translation": "",
+            "translation": "泽塔字节（10^21字节）",
             "examples": []
           }
         ]
@@ -2070,18 +2070,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zeugma",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzjuːɡmə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzjuːɡmə"
       }
     },
     "forms": {},
@@ -2094,11 +2094,11 @@
           {
             "id": "zeugma-noun-1",
             "definition": "use of a word to govern two or more words though appropriate to only one",
-            "translation": "",
+            "translation": "轭式修饰法（修辞）",
             "examples": [
               {
                 "text": "'The Pickwicks took their hats and their leave' is an example of zeugma.",
-                "translation": ""
+                "translation": "'The Pickwicks took their hats and their leave'（皮克威克一家戴上帽子然后离开了）就是轭式修饰法的例子。"
               }
             ]
           }
@@ -2107,18 +2107,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zig",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪɡ"
       }
     },
     "forms": {},
@@ -2133,11 +2133,11 @@
           {
             "id": "zig-noun-1",
             "definition": "an angular shape characterized by sharp turns in alternating directions",
-            "translation": "",
+            "translation": "急转；急弯",
             "examples": [
               {
                 "text": "The zig was cut in the wood without a pattern.",
-                "translation": ""
+                "translation": "木头上没有图案就被切出了锯齿形。"
               }
             ]
           }
@@ -2146,18 +2146,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "ziggurat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪɡəræt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪɡəræt"
       }
     },
     "forms": {},
@@ -2170,11 +2170,11 @@
           {
             "id": "ziggurat-noun-1",
             "definition": "a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
-            "translation": "",
+            "translation": "塔庙；古代亚述/巴比伦的阶梯金字塔",
             "examples": [
               {
                 "text": "It is quite impressive to stand in front of a zikurat.",
-                "translation": ""
+                "translation": "站在古老的塔庙前令人印象深刻。"
               }
             ]
           }
@@ -2183,15 +2183,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zigzag",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɪɡˌzæɡ"
+        "ipa": "ˈzɪɡzæɡ"
       },
       "uk": {
         "ipa": "ˈzɪɡzæɡ"
@@ -2219,7 +2219,7 @@
           {
             "id": "zigzag-adjective-1",
             "definition": "having short sharp turns or angles",
-            "translation": "",
+            "translation": "锯齿形的；之字形的",
             "examples": []
           }
         ]
@@ -2230,11 +2230,11 @@
           {
             "id": "zigzag-adverb-1",
             "definition": "in a zigzag course or on a zigzag path",
-            "translation": "",
+            "translation": "曲折地；成Z字形地",
             "examples": [
               {
                 "text": "birds flew zigzag across the blue sky",
-                "translation": ""
+                "translation": "鸟儿在蓝天上呈之字形飞翔。 / 河流蜿蜒穿过乡间。"
               }
             ]
           }
@@ -2246,7 +2246,7 @@
           {
             "id": "zigzag-noun-1",
             "definition": "an angular shape characterized by sharp turns in alternating directions",
-            "translation": "",
+            "translation": "锯齿形；Z字形；之字形",
             "examples": []
           }
         ]
@@ -2257,11 +2257,11 @@
           {
             "id": "zigzag-verb-1",
             "definition": "travel along a zigzag path",
-            "translation": "",
+            "translation": "曲折前行；呈之字形移动",
             "examples": [
               {
                 "text": "The river zigzags through the countryside",
-                "translation": ""
+                "translation": "鸟儿在蓝天上呈之字形飞翔。 / 河流蜿蜒穿过乡间。"
               }
             ]
           }
@@ -2270,18 +2270,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zikkurat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪkəræt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪkəræt"
       }
     },
     "forms": {},
@@ -2294,11 +2294,11 @@
           {
             "id": "zikkurat-noun-1",
             "definition": "a rectangularly tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
-            "translation": "",
+            "translation": "塔庙（与ziggurat同）",
             "examples": [
               {
                 "text": "A super-sized ziggurat was built in Uruk for the goddess Inanna.",
-                "translation": ""
+                "translation": "乌尔克的超级大塔庙是为女神伊南娜建造的。"
               }
             ]
           }
@@ -2307,18 +2307,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zikurat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪkjʊræt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪkjʊræt"
       }
     },
     "forms": {},
@@ -2331,11 +2331,11 @@
           {
             "id": "zikurat-noun-1",
             "definition": "a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
-            "translation": "",
+            "translation": "塔庙（与ziggurat同）",
             "examples": [
               {
                 "text": "It is quite impressive to stand in front of a zikurat.",
-                "translation": ""
+                "translation": "站在塔庙前令人印象深刻。"
               }
             ]
           }
@@ -2344,8 +2344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2370,11 +2370,11 @@
           {
             "id": "zilch-noun-1",
             "definition": "a quantity of no importance",
-            "translation": "",
+            "translation": "零；无；无关紧要的东西",
             "examples": [
               {
                 "text": "My roommate ate my pizza and left me with zilch.",
-                "translation": ""
+                "translation": "室友吃掉了我的披萨，只给我剩了个寂寞。"
               }
             ]
           }
@@ -2383,18 +2383,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zill",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪl"
       }
     },
     "forms": {},
@@ -2407,11 +2407,11 @@
           {
             "id": "zill-noun-1",
             "definition": "one of a pair of small metallic cymbals worn on the thumb and middle finger",
-            "translation": "",
+            "translation": "指钹；拇指和中指上戴的小金属钹",
             "examples": [
               {
                 "text": "I broke a zill at the party last night.",
-                "translation": ""
+                "translation": "昨晚我在派对上弄断了一根指钹。"
               }
             ]
           }
@@ -2420,18 +2420,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zillion",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪljən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪljən"
       }
     },
     "forms": {},
@@ -2450,11 +2450,11 @@
           {
             "id": "zillion-adjective-1",
             "definition": "very large indeterminate number",
-            "translation": "",
+            "translation": "极大的数目；无数",
             "examples": [
               {
                 "text": "a zillion people were there",
-                "translation": ""
+                "translation": "那里有数以万计的人。 / 他们有无数的新创业想法。"
               }
             ]
           }
@@ -2466,11 +2466,11 @@
           {
             "id": "zillion-noun-1",
             "definition": "a very large indefinite number, usually hyperbole",
-            "translation": "",
+            "translation": "无限大数（夸张用法）",
             "examples": [
               {
                 "text": "They have a zillion ideas for new ventures.",
-                "translation": ""
+                "translation": "那里有数以万计的人。 / 他们有无数的新创业想法。"
               }
             ]
           }
@@ -2479,18 +2479,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zimbabwean",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzɪmbˈɑːbweɪən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzɪmbæbˈweɪən"
       }
     },
     "forms": {},
@@ -2503,11 +2503,11 @@
           {
             "id": "zimbabwean-adjective-1",
             "definition": "of or relating to or characteristic of Zimbabwe or its people",
-            "translation": "人民的",
+            "translation": "津巴布韦的",
             "examples": [
               {
                 "text": "The Zimbabwean president has been in office for a long time.",
-                "translation": ""
+                "translation": "津巴布韦总统已经执政很长时间了。 / 那个津巴布韦人出生在高原上。"
               }
             ]
           }
@@ -2519,11 +2519,11 @@
           {
             "id": "zimbabwean-noun-1",
             "definition": "a person from Zimbabwe or of Zimbabwean descent",
-            "translation": "",
+            "translation": "津巴布韦人",
             "examples": [
               {
                 "text": "The Zimbabwean was born on the high veld.",
-                "translation": ""
+                "translation": "津巴布韦总统已经执政很长时间了。 / 那个津巴布韦人出生在高原上。"
               }
             ]
           }
@@ -2532,8 +2532,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2564,7 +2564,7 @@
           {
             "id": "zinc-noun-1",
             "definition": "a bluish-white lustrous metallic element",
-            "translation": "锌",
+            "translation": "锌（化学元素）",
             "examples": []
           }
         ]
@@ -2575,7 +2575,7 @@
           {
             "id": "zinc-verb-1",
             "definition": "coat or cover with zinc",
-            "translation": "锌",
+            "translation": "镀锌",
             "examples": []
           }
         ]
@@ -2583,18 +2583,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zinfandel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪnfændɛl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪnfændel"
       }
     },
     "forms": {},
@@ -2607,11 +2607,11 @@
           {
             "id": "zinfandel-noun-1",
             "definition": "dry fruity red wine from California",
-            "translation": "",
+            "translation": "金芬黛葡萄酒（加州产干红）",
             "examples": [
               {
                 "text": "In the summer, I love a good zinfandel.",
-                "translation": ""
+                "translation": "夏天我喜欢喝一杯上好的金芬黛红葡萄酒。"
               }
             ]
           }
@@ -2620,8 +2620,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2646,22 +2646,22 @@
           {
             "id": "zing-noun-1",
             "definition": "the activeness of an energetic personality",
-            "translation": "",
+            "translation": "活力；精力",
             "examples": [
               {
                 "text": "The new member has lots of zing.",
-                "translation": ""
+                "translation": "新成员充满了活力。 / 子弹呼啸而过的嗖声吓了我一跳。"
               }
             ]
           },
           {
             "id": "zing-noun-2",
             "definition": "a brief high-pitched buzzing or humming sound",
-            "translation": "",
+            "translation": "尖锐的嗡嗡声；嗖的一声",
             "examples": [
               {
                 "text": "The zing of the passing bullet startled me.",
-                "translation": ""
+                "translation": "新成员充满了活力。 / 子弹呼啸而过的嗖声吓了我一跳。"
               }
             ]
           }
@@ -2675,15 +2675,15 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zinger",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɪŋɚ"
+        "ipa": "ˈzɪŋər"
       },
       "uk": {
         "ipa": "ˈzɪŋə"
@@ -2699,11 +2699,11 @@
           {
             "id": "zinger-noun-1",
             "definition": "a striking, amusing or caustic remark",
-            "translation": "",
+            "translation": "尖锐的评论；妙语",
             "examples": [
               {
                 "text": "I always greet people with a new zinger.",
-                "translation": ""
+                "translation": "我总是用新的妙语跟人打招呼。"
               }
             ]
           }
@@ -2712,18 +2712,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zinnwaldite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪnwɔːldaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪnwɔːldaɪt"
       }
     },
     "forms": {},
@@ -2736,11 +2736,11 @@
           {
             "id": "zinnwaldite-noun-1",
             "definition": "a mica containing iron and lithium",
-            "translation": "",
+            "translation": "铁锂云母（矿物）",
             "examples": [
               {
                 "text": "The zinnwaldite was found in an underground quartz vein.",
-                "translation": ""
+                "translation": "铁锂云母是在地下石英矿脉中发现的。"
               }
             ]
           }
@@ -2749,8 +2749,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2773,11 +2773,11 @@
           {
             "id": "zionist-adjective-1",
             "definition": "relating to or characteristic of a supporter of Zionism",
-            "translation": "支持者的",
+            "translation": "锡安主义的；犹太复国主义的",
             "examples": [
               {
                 "text": "The Zionist leader was despised in Palestine.",
-                "translation": ""
+                "translation": "那位锡安主义领袖在巴勒斯坦受到憎恨。"
               }
             ]
           }
@@ -2786,8 +2786,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2905,8 +2905,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -2990,8 +2990,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -3047,18 +3047,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zippo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪpoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪpəʊ"
       }
     },
     "forms": {},
@@ -3073,11 +3073,11 @@
           {
             "id": "zippo-noun-1",
             "definition": "a quantity of no importance",
-            "translation": "",
+            "translation": "零；无；微不足道的东西",
             "examples": [
               {
                 "text": "We got zippo going on here, it's so boring.",
-                "translation": ""
+                "translation": "口袋里空空如也，什么都没有。"
               }
             ]
           }
@@ -3086,18 +3086,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zippy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪpi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪpɪ"
       }
     },
     "forms": {},
@@ -3113,22 +3113,22 @@
           {
             "id": "zippy-adjective-1",
             "definition": "marked by lively action",
-            "translation": "",
+            "translation": "精力充沛的；动作轻快的",
             "examples": [
               {
                 "text": "The zippy animations were eye catching.",
-                "translation": ""
+                "translation": "那辆赛车动力十足，在赛道上飞驰。"
               }
             ]
           },
           {
             "id": "zippy-adjective-2",
             "definition": "quick and energetic",
-            "translation": "",
+            "translation": "敏捷的；活力十足的",
             "examples": [
               {
                 "text": "The children were zippy after their nap.",
-                "translation": ""
+                "translation": "那辆赛车动力十足，在赛道上飞驰。"
               }
             ]
           }
@@ -3137,18 +3137,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zircon",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɝkɑn"
+        "ipa": "ˈzɜːrkɒn"
       },
       "uk": {
-        "ipa": "ˈzɜ:kɒn"
+        "ipa": "ˈzɜːkɒn"
       }
     },
     "forms": {},
@@ -3161,11 +3161,11 @@
           {
             "id": "zircon-noun-1",
             "definition": "a common mineral occurring in small crystals",
-            "translation": "",
+            "translation": "锆石",
             "examples": [
               {
                 "text": "chief source of zirconium",
-                "translation": ""
+                "translation": "这颗锆石光彩夺目。"
               }
             ]
           }
@@ -3174,18 +3174,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zirconia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɜːrˈkoʊniə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɜːˈkəʊnɪə"
       }
     },
     "forms": {},
@@ -3198,11 +3198,11 @@
           {
             "id": "zirconia-noun-1",
             "definition": "a white crystalline oxide",
-            "translation": "",
+            "translation": "氧化锆",
             "examples": [
               {
                 "text": "It was not easy to tell the zirconia ring apart from the diamond ring.",
-                "translation": ""
+                "translation": "氧化锆是一种重要的工业材料。"
               }
             ]
           }
@@ -3211,18 +3211,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zirconium",
     "pronunciation": {
       "us": {
-        "ipa": "zɚˈkoʊniəm"
+        "ipa": "zɜːrˈkoʊniəm"
       },
       "uk": {
-        "ipa": "zɜ:ˈkəʊnɪəm"
+        "ipa": "zɜːˈkəʊnɪəm"
       }
     },
     "forms": {},
@@ -3248,18 +3248,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪt"
       }
     },
     "forms": {},
@@ -3274,11 +3274,11 @@
           {
             "id": "zit-noun-1",
             "definition": "a small and inflamed elevation of the skin caused by the collection of excess oils in pores",
-            "translation": "",
+            "translation": "青春痘；粉刺",
             "examples": [
               {
                 "text": "The zit is full of pus and therefore needs to be popped to relieve the tension on the surrounding skin.",
-                "translation": ""
+                "translation": "我脸上长了一颗大青春痘。"
               }
             ]
           }
@@ -3287,18 +3287,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zither",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɪθɚ"
+        "ipa": "ˈzɪθər"
       },
       "uk": {
-        "ipa": "ˈzɪðə(r)"
+        "ipa": "ˈzɪðə"
       }
     },
     "forms": {},
@@ -3313,11 +3313,11 @@
           {
             "id": "zither-noun-1",
             "definition": "a musical stringed instrument with strings stretched over a flat sounding board",
-            "translation": "",
+            "translation": "齐特琴（弦乐器）",
             "examples": [
               {
                 "text": "The band wanted a new zither player.",
-                "translation": ""
+                "translation": "她在音乐会上演奏了齐特琴。"
               }
             ]
           }
@@ -3326,18 +3326,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zithern",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɪθərn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɪðən"
       }
     },
     "forms": {},
@@ -3352,11 +3352,11 @@
           {
             "id": "zithern-noun-1",
             "definition": "a musical stringed instrument with strings stretched over a flat sounding board",
-            "translation": "",
+            "translation": "齐特琴的一种",
             "examples": [
               {
                 "text": "I bought a zithern while on vacation in Germany.",
-                "translation": ""
+                "translation": "他用齐特琴演奏了一首古老的民谣。"
               }
             ]
           }
@@ -3365,18 +3365,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "ziti",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈziːtiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈziːtiː"
       }
     },
     "forms": {},
@@ -3389,11 +3389,11 @@
           {
             "id": "ziti-noun-1",
             "definition": "medium-sized tubular pasta in short pieces",
-            "translation": "",
+            "translation": "短管形意大利面",
             "examples": [
               {
                 "text": "The chef used too much ziti in the pasta dish.",
-                "translation": ""
+                "translation": "晚餐准备了番茄酱意面配通心粉。"
               }
             ]
           }
@@ -3402,18 +3402,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zizz",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zɪz"
       }
     },
     "forms": {},
@@ -3426,22 +3426,22 @@
           {
             "id": "zizz-noun-1",
             "definition": "a nap or short period of sleeping",
-            "translation": "",
+            "translation": "小睡；短眠",
             "examples": [
               {
                 "text": "Arthur's taking a short zizz.",
-                "translation": ""
+                "translation": "我午睡时听到了远处传来的嗡嗡声。"
               }
             ]
           },
           {
             "id": "zizz-noun-2",
             "definition": "a buzzing or whizzing sound",
-            "translation": "",
+            "translation": "嗡嗡声；嗖嗖声",
             "examples": [
               {
                 "text": "A nasty zizz in the engine.",
-                "translation": ""
+                "translation": "引擎发出了一阵刺耳的嗡嗡声。"
               }
             ]
           }
@@ -3450,18 +3450,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zloty",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzlɒti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzlɒtɪ"
       }
     },
     "forms": {},
@@ -3474,11 +3474,11 @@
           {
             "id": "zloty-noun-1",
             "definition": "the basic unit of money in Poland",
-            "translation": "",
+            "translation": "兹罗提（波兰货币单位）",
             "examples": [
               {
                 "text": "Most shops will convert a zloty to dollars.",
-                "translation": ""
+                "translation": "我需要把美元兑换成兹罗提。"
               }
             ]
           }
@@ -3487,18 +3487,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoanthropy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zoʊˈænθrəpi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəʊˈænθrəpɪ"
       }
     },
     "forms": {},
@@ -3511,11 +3511,11 @@
           {
             "id": "zoanthropy-noun-1",
             "definition": "the delusion that you have assumed the form of an animal",
-            "translation": "",
+            "translation": "变兽妄想（精神病）",
             "examples": [
               {
                 "text": "The patient is exhibiting signs of zoanthropy, for example barking like a dog.",
-                "translation": ""
+                "translation": "这种精神疾病让患者相信自己是一只动物。"
               }
             ]
           }
@@ -3524,15 +3524,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zodiac",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzodɪæk"
+        "ipa": "ˈzoʊdiæk"
       },
       "uk": {
         "ipa": "ˈzəʊdɪæk"
@@ -3548,22 +3548,22 @@
           {
             "id": "zodiac-noun-1",
             "definition": "in astrology, a circular diagram representing the 12 zodiacal constellations and showing their signs",
-            "translation": "",
+            "translation": "黄道十二宫图",
             "examples": [
               {
                 "text": "The new agers had a zodiac on the wall of their living room.",
-                "translation": ""
+                "translation": "天蝎座是黄道十二星座之一。"
               }
             ]
           },
           {
             "id": "zodiac-noun-2",
             "definition": "a belt-shaped region in the heavens on either side to the ecliptic",
-            "translation": "",
+            "translation": "黄道带",
             "examples": [
               {
                 "text": "We tried to find a zodiac in the night sky.",
-                "translation": ""
+                "translation": "天蝎座是黄道十二星座之一。"
               }
             ]
           }
@@ -3572,18 +3572,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zodiacal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zoʊˈdaɪəkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəʊˈdaɪəkəl"
       }
     },
     "forms": {},
@@ -3600,7 +3600,7 @@
             "examples": [
               {
                 "text": "The zodiacal constellations are spread out through the sky.",
-                "translation": ""
+                "translation": "黄道带在占星术中非常重要。"
               }
             ]
           }
@@ -3609,18 +3609,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoftig",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɒftɪɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɒftɪɡ"
       }
     },
     "forms": {},
@@ -3635,11 +3635,11 @@
           {
             "id": "zoftig-adjective-1",
             "definition": "healthily plump and vigorous, usually referring to a woman",
-            "translation": "",
+            "translation": "身材丰满健康的",
             "examples": [
               {
                 "text": "The artist mostly painted zoftig figures.",
-                "translation": ""
+                "translation": "那位模特身材丰满、充满活力。"
               }
             ]
           }
@@ -3648,18 +3648,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊɪk"
       }
     },
     "forms": {},
@@ -3672,11 +3672,11 @@
           {
             "id": "zoic-adjective-1",
             "definition": "pertaining to animals or animal life or action",
-            "translation": "生命的",
+            "translation": "动物的；动物生命的",
             "examples": [
               {
                 "text": "There is zoic evidence in the fossil record.",
-                "translation": ""
+                "translation": "古生代是地球历史上动物生命繁盛的时期。"
               }
             ]
           }
@@ -3685,18 +3685,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zolaesque",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊləˈɛsk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊləˈesk"
       }
     },
     "forms": {},
@@ -3709,11 +3709,11 @@
           {
             "id": "zolaesque-adjective-1",
             "definition": "in the manner of Emile Zola",
-            "translation": "",
+            "translation": "左拉风格的；自然主义写作手法的",
             "examples": [
               {
                 "text": "This book is truly Zolaesque.",
-                "translation": ""
+                "translation": "这部小说采用了典型的左拉式自然主义写作风格。"
               }
             ]
           }
@@ -3722,18 +3722,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zombi",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɒmbi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɒmbɪ"
       }
     },
     "forms": {},
@@ -3748,55 +3748,55 @@
           {
             "id": "zombi-noun-1",
             "definition": "a cocktail made up of several kinds of rum with fruit juice and usually apricot liqueur",
-            "translation": "",
+            "translation": "朗姆鸡尾酒（多种朗姆酒混合果汁）",
             "examples": [
               {
                 "text": "After one too many zombies at the tiki bar, I stumbled home.",
-                "translation": ""
+                "translation": "那个巫师用巫术让尸体站起来。"
               }
             ]
           },
           {
             "id": "zombi-noun-2",
             "definition": "someone who acts or responds in a mechanical or apathetic way",
-            "translation": "",
+            "translation": "麻木不仁的人；机械般行动的人",
             "examples": [
               {
                 "text": "The workforce was a group of zombies.",
-                "translation": ""
+                "translation": "在海地，巫毒教信徒崇拜僵尸。"
               }
             ]
           },
           {
             "id": "zombi-noun-3",
             "definition": "a dead body that has been brought back to life by a supernatural force",
-            "translation": "",
+            "translation": "僵尸；还魂尸",
             "examples": [
               {
                 "text": "Some of my favourite horror films contain zombies.",
-                "translation": ""
+                "translation": "在海地，巫毒教信徒崇拜僵尸。"
               }
             ]
           },
           {
             "id": "zombi-noun-4",
             "definition": "a god of voodoo cults of African origin, worshipped especially in the West Indies",
-            "translation": "",
+            "translation": "巫毒教的神（源自非洲）",
             "examples": [
               {
                 "text": "Even though I grew up in the Caribbean, I didn't worship the zombie.",
-                "translation": ""
+                "translation": "在海地，巫毒教信徒崇拜僵尸。"
               }
             ]
           },
           {
             "id": "zombi-noun-5",
             "definition": "in voodooism, a spirit or supernatural force that reanimates a dead body",
-            "translation": "",
+            "translation": "巫毒教中使尸体复活的精神力量",
             "examples": [
               {
                 "text": "The spell was cast – the zombie would enter the body of the dead relative.",
-                "translation": ""
+                "translation": "在海地，巫毒教信徒崇拜僵尸。"
               }
             ]
           }
@@ -3805,15 +3805,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zombie",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzɑmbi"
+        "ipa": "ˈzɒmbi"
       },
       "uk": {
         "ipa": "ˈzɒmbɪ"
@@ -3831,55 +3831,55 @@
           {
             "id": "zombie-noun-1",
             "definition": "a cocktail made up of several kinds of rum with fruit juice and usually apricot liqueur",
-            "translation": "",
+            "translation": "朗姆鸡尾酒（多种朗姆酒混合果汁）",
             "examples": [
               {
                 "text": "After one too many zombies at the tiki bar, I stumbled home.",
-                "translation": ""
+                "translation": "这部电影讲的是一个从坟墓里爬出来的僵尸的故事。"
               }
             ]
           },
           {
             "id": "zombie-noun-2",
             "definition": "someone who acts or responds in a mechanical or apathetic way",
-            "translation": "",
+            "translation": "麻木不仁的人；机械般行动的人",
             "examples": [
               {
                 "text": "The workforce was a group of zombies.",
-                "translation": ""
+                "translation": "这部电影讲的是一个从坟墓里爬出来的僵尸的故事。"
               }
             ]
           },
           {
             "id": "zombie-noun-3",
             "definition": "a dead body that has been brought back to life by a supernatural force",
-            "translation": "",
+            "translation": "僵尸；还魂尸",
             "examples": [
               {
                 "text": "Some of my favourite horror films contain zombies.",
-                "translation": ""
+                "translation": "这部电影讲的是一个从坟墓里爬出来的僵尸的故事。"
               }
             ]
           },
           {
             "id": "zombie-noun-4",
             "definition": "a god of voodoo cults of African origin, worshipped especially in the West Indies",
-            "translation": "",
+            "translation": "巫毒教的神（源自非洲）",
             "examples": [
               {
                 "text": "Even though I grew up in the Caribbean, I didn't worship the zombie.",
-                "translation": ""
+                "translation": "这部电影讲的是一个从坟墓里爬出来的僵尸的故事。"
               }
             ]
           },
           {
             "id": "zombie-noun-5",
             "definition": "in voodooism, a spirit or supernatural force that reanimates a dead body",
-            "translation": "",
+            "translation": "巫毒教中使尸体复活的精神力量",
             "examples": [
               {
                 "text": "The spell was cast – the zombie would enter the body of the dead relative.",
-                "translation": ""
+                "translation": "这部电影讲的是一个从坟墓里爬出来的僵尸的故事。"
               }
             ]
           }
@@ -3888,18 +3888,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zona",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊnə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊnə"
       }
     },
     "forms": {},
@@ -3914,7 +3914,7 @@
           {
             "id": "zona-noun-1",
             "definition": "in anatomy, any encircling or beltlike structure",
-            "translation": "",
+            "translation": "区；带；解剖学术语指环绕或带状结构",
             "examples": []
           }
         ]
@@ -3922,18 +3922,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zonal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊnəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊnəl"
       }
     },
     "forms": {},
@@ -3948,11 +3948,11 @@
           {
             "id": "zonal-adjective-1",
             "definition": "associated with or divided into zones",
-            "translation": "",
+            "translation": "分区的；区域性的",
             "examples": [
               {
                 "text": "The zonal pattern of this painting hides its complexity.",
-                "translation": ""
+                "translation": "这个地区有明显的分区特征。"
               }
             ]
           },
@@ -3963,7 +3963,7 @@
             "examples": [
               {
                 "text": "The zonal nature of our sales is troubling.",
-                "translation": ""
+                "translation": "这个地区有明显的农业分区。"
               }
             ]
           }
@@ -3972,18 +3972,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zonary",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊnəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊnərɪ"
       }
     },
     "forms": {},
@@ -4006,8 +4006,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
@@ -4045,25 +4045,25 @@
           {
             "id": "zone-noun-1",
             "definition": "(anatomy) any encircling or beltlike structure",
-            "translation": "区域",
+            "translation": "解剖带；环绕组织",
             "examples": []
           },
           {
             "id": "zone-noun-2",
             "definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
-            "translation": "区域",
+            "translation": "区域；地带",
             "examples": []
           },
           {
             "id": "zone-noun-3",
             "definition": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
-            "translation": "区域",
+            "translation": "地球带；气候带",
             "examples": []
           },
           {
             "id": "zone-noun-4",
             "definition": "a locally circumscribed place characterized by some distinctive features",
-            "translation": "区域",
+            "translation": "分区；专用区",
             "examples": []
           }
         ]
@@ -4074,13 +4074,13 @@
           {
             "id": "zone-verb-1",
             "definition": "separate or apportion into sections",
-            "translation": "分开的",
+            "translation": "把…分区；划分",
             "examples": []
           },
           {
             "id": "zone-verb-2",
             "definition": "regulate housing in",
-            "translation": "区域",
+            "translation": "对…实行住房分区管理",
             "examples": []
           }
         ]
@@ -4097,15 +4097,15 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoning",
     "pronunciation": {
       "us": {
-        "ipa": "ˈzonɪŋ"
+        "ipa": "ˈzoʊnɪŋ"
       },
       "uk": {
         "ipa": "ˈzəʊnɪŋ"
@@ -4125,7 +4125,7 @@
             "examples": [
               {
                 "text": "We need to change the zoning on the south side to allow for a new distillery.",
-                "translation": ""
+                "translation": "城市规划中的分区很重要。"
               }
             ]
           }
@@ -4139,18 +4139,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zonula",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɒnjʊlə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɒnjʊlə"
       }
     },
     "forms": {},
@@ -4165,11 +4165,11 @@
           {
             "id": "zonula-noun-1",
             "definition": "small beltlike zone",
-            "translation": "",
+            "translation": "小带；小区域（尤指眼睛的纤维带）",
             "examples": [
               {
                 "text": "This zonula is known for its fauna.",
-                "translation": ""
+                "translation": "睫状小带在眼睛的晶状体调节中起重要作用。"
               }
             ]
           }
@@ -4178,18 +4178,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zonule",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzɒnjuːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzɒnjuːl"
       }
     },
     "forms": {},
@@ -4204,7 +4204,7 @@
           {
             "id": "zonule-noun-1",
             "definition": "small beltlike zone",
-            "translation": "",
+            "translation": "小带；小区域",
             "examples": []
           }
         ]
@@ -4212,18 +4212,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoo",
     "pronunciation": {
       "us": {
-        "ipa": "zu"
+        "ipa": "zuː"
       },
       "uk": {
-        "ipa": "zu:"
+        "ipa": "zuː"
       }
     },
     "forms": {},
@@ -4246,7 +4246,7 @@
             "examples": [
               {
                 "text": "The children like to visit the zoo, especially the monkey cage.",
-                "translation": ""
+                "translation": "我们今天去动物园看熊猫。"
               }
             ]
           }
@@ -4255,18 +4255,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zooerastia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈræstiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈræstɪə"
       }
     },
     "forms": {},
@@ -4281,11 +4281,11 @@
           {
             "id": "zooerastia-noun-1",
             "definition": "sexual activity between a person and an animal",
-            "translation": "",
+            "translation": "兽交",
             "examples": [
               {
                 "text": "Zooerastia is a crime in many jurisdictions.",
-                "translation": ""
+                "translation": "这种异常性行为在许多国家都是非法的。"
               }
             ]
           }
@@ -4294,18 +4294,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zooerasty",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈræsti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈræstɪ"
       }
     },
     "forms": {},
@@ -4320,11 +4320,11 @@
           {
             "id": "zooerasty-noun-1",
             "definition": "sexual activity between a person and an animal",
-            "translation": "",
+            "translation": "兽交",
             "examples": [
               {
                 "text": "Zooerasty is illegal in many places.",
-                "translation": ""
+                "translation": "那名患者的恋兽癖使他们入狱。"
               }
             ]
           }
@@ -4333,18 +4333,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zooid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊɔɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊɔɪd"
       }
     },
     "forms": {},
@@ -4357,11 +4357,11 @@
           {
             "id": "zooid-noun-1",
             "definition": "one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan",
-            "translation": "",
+            "translation": "个员；游动孢子（群体动物中独立存在的个体）",
             "examples": [
               {
                 "text": "Zooids form colonial animals.",
-                "translation": ""
+                "translation": "这些游动孢子在水中自由移动。"
               }
             ]
           }
@@ -4370,18 +4370,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zookeeper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzuːkiːpər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzuːkiːpə"
       }
     },
     "forms": {},
@@ -4394,11 +4394,11 @@
           {
             "id": "zookeeper-noun-1",
             "definition": "the chief person responsible for a zoological garden",
-            "translation": "",
+            "translation": "动物园管理员",
             "examples": [
               {
                 "text": "Zoo keepers have many tasks.",
-                "translation": ""
+                "translation": "那位动物园管理员负责喂养所有的动物。"
               }
             ]
           }
@@ -4407,18 +4407,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoolatry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zoʊˈɒlətri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəʊˈɒlətrɪ"
       }
     },
     "forms": {},
@@ -4431,7 +4431,7 @@
           {
             "id": "zoolatry-noun-1",
             "definition": "the worship of animals",
-            "translation": "",
+            "translation": "动物崇拜",
             "examples": []
           }
         ]
@@ -4439,15 +4439,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoological",
     "pronunciation": {
       "us": {
-        "ipa": "ˌzoʊəˈlɑdʒɪkl"
+        "ipa": "ˌzoʊəˈlɒdʒɪkəl"
       },
       "uk": {
         "ipa": "ˌzəʊəˈlɒdʒɪkəl"
@@ -4467,18 +4467,18 @@
             "examples": [
               {
                 "text": "The zoological garden receives hundreds of visitors per day.",
-                "translation": ""
+                "translation": "那位科学家在动物学领域做出了重要贡献。"
               }
             ]
           },
           {
             "id": "zoological-adjective-2",
             "definition": "concerning the study of animals and their classification and properties",
-            "translation": "",
+            "translation": "动物学的；与动物研究相关的",
             "examples": [
               {
                 "text": "Zoological research has led to many interesting discoveries.",
-                "translation": ""
+                "translation": "那位科学家在动物学领域做出了重要贡献。"
               }
             ]
           }
@@ -4487,15 +4487,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoologist",
     "pronunciation": {
       "us": {
-        "ipa": "zoʊˈɑlədʒɪst"
+        "ipa": "zoʊˈɒlədʒɪst"
       },
       "uk": {
         "ipa": "zəʊˈɒlədʒɪst"
@@ -4511,7 +4511,7 @@
           {
             "id": "zoologist-noun-1",
             "definition": "a specialist in the branch of biology dealing with animals",
-            "translation": "",
+            "translation": "动物学家",
             "examples": []
           }
         ]
@@ -4519,15 +4519,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoology",
     "pronunciation": {
       "us": {
-        "ipa": "zoʊˈɑlədʒi"
+        "ipa": "zoʊˈɒlədʒi"
       },
       "uk": {
         "ipa": "zəʊˈɒlədʒɪ"
@@ -4547,22 +4547,22 @@
           {
             "id": "zoology-noun-1",
             "definition": "the branch of biology that studies animals",
-            "translation": "",
+            "translation": "动物学",
             "examples": [
               {
                 "text": "I studied zoology for two semesters before I changed majors.",
-                "translation": ""
+                "translation": "我学了两个学期的动物学后换了专业。 / 这个地区的动物种类令人惊叹。"
               }
             ]
           },
           {
             "id": "zoology-noun-2",
             "definition": "all the animal life in a particular region or period",
-            "translation": "",
+            "translation": "（某地区或时期的）动物区系",
             "examples": [
               {
                 "text": "The zoology in this area is amazing.",
-                "translation": ""
+                "translation": "我学了两个学期的动物学后换了专业。 / 这个地区的动物种类令人惊叹。"
               }
             ]
           }
@@ -4571,18 +4571,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoom",
     "pronunciation": {
       "us": {
-        "ipa": "zum"
+        "ipa": "zuːm"
       },
       "uk": {
-        "ipa": "zu:m"
+        "ipa": "zuːm"
       }
     },
     "forms": {
@@ -4605,13 +4605,13 @@
           {
             "id": "zoom-noun-1",
             "definition": "the act of rising upward into the air",
-            "translation": "急速上升；陡升",
+            "translation": "陡升；急速上升",
             "examples": []
           },
           {
             "id": "zoom-noun-2",
             "definition": "a rapid rise",
-            "translation": "一个迅速的上升",
+            "translation": "快速上升",
             "examples": []
           }
         ]
@@ -4622,19 +4622,19 @@
           {
             "id": "zoom-verb-1",
             "definition": "rise rapidly",
-            "translation": "上升迅速地",
+            "translation": "迅速上升",
             "examples": []
           },
           {
             "id": "zoom-verb-2",
             "definition": "move along very quickly",
-            "translation": "快速移动；疾行",
+            "translation": "快速移动",
             "examples": []
           },
           {
             "id": "zoom-verb-3",
             "definition": "move with a low humming noise",
-            "translation": "嗡嗡地移动",
+            "translation": "嗡嗡作响地移动",
             "examples": []
           }
         ]
@@ -4679,18 +4679,18 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoomastigote",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈmæstɪɡoʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈmæstɪɡəʊt"
       }
     },
     "forms": {},
@@ -4703,7 +4703,7 @@
           {
             "id": "zoomastigote-noun-1",
             "definition": "flagellate protozoan lacking photosynthesis and other plant-like characteristics",
-            "translation": "",
+            "translation": "鞭毛原虫（无光合作用）",
             "examples": []
           }
         ]
@@ -4711,18 +4711,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoomorphism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈmɔːrfɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈmɔːfɪzəm"
       }
     },
     "forms": {},
@@ -4735,11 +4735,11 @@
           {
             "id": "zoomorphism-noun-1",
             "definition": "the attribution of animal forms or qualities to a god",
-            "translation": "",
+            "translation": "动物拟人论；（神的）动物化",
             "examples": [
               {
                 "text": "Ancient cultures often practiced zoomorphism.",
-                "translation": ""
+                "translation": "古代文化经常实行动物拟人论。"
               }
             ]
           }
@@ -4753,18 +4753,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoonosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈnoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈnəʊsɪs"
       }
     },
     "forms": {},
@@ -4777,7 +4777,7 @@
           {
             "id": "zoonosis-noun-1",
             "definition": "an animal disease that can be transmitted to humans",
-            "translation": "",
+            "translation": "人畜共通传染病；动物传染病",
             "examples": []
           }
         ]
@@ -4785,18 +4785,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoonotic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈnɒtɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈnɒtɪk"
       }
     },
     "forms": {},
@@ -4809,11 +4809,11 @@
           {
             "id": "zoonotic-adjective-1",
             "definition": "of or relating to or constituting zoonosis",
-            "translation": "构成的",
+            "translation": "人畜共通传染病的",
             "examples": [
               {
                 "text": "The Ebola virus is believed to be zoonotic in nature.",
-                "translation": ""
+                "translation": "埃博拉病毒被认为是人畜共通传染病。"
               }
             ]
           }
@@ -4822,18 +4822,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoophagous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zoʊˈɒfəɡəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəʊˈɒfəɡəs"
       }
     },
     "forms": {},
@@ -4846,11 +4846,11 @@
           {
             "id": "zoophagous-adjective-1",
             "definition": "of animals, carnivorous",
-            "translation": "",
+            "translation": "肉食性的；食肉的",
             "examples": [
               {
                 "text": "Wolves are zoophagous.",
-                "translation": ""
+                "translation": "狼是肉食性动物。"
               }
             ]
           }
@@ -4859,18 +4859,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoophilia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈfɪliə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈfɪlɪə"
       }
     },
     "forms": {},
@@ -4885,7 +4885,7 @@
           {
             "id": "zoophilia-noun-1",
             "definition": "a sexual attraction to animals",
-            "translation": "",
+            "translation": "恋兽癖",
             "examples": []
           }
         ]
@@ -4893,18 +4893,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoophilism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "zoʊˈɒfɪlɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "zəʊˈɒfɪlɪzəm"
       }
     },
     "forms": {},
@@ -4919,11 +4919,11 @@
           {
             "id": "zoophilism-noun-1",
             "definition": "a sexual attraction to animals",
-            "translation": "",
+            "translation": "恋兽癖",
             "examples": [
               {
                 "text": "The patient's zoophilism landed them in jail.",
-                "translation": ""
+                "translation": "患者的恋兽癖使他们入狱。"
               }
             ]
           }
@@ -4932,18 +4932,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoophobia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌzoʊəˈfoʊbiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌzəʊəˈfəʊbɪə"
       }
     },
     "forms": {},
@@ -4956,11 +4956,11 @@
           {
             "id": "zoophobia-noun-1",
             "definition": "a morbid fear of animals",
-            "translation": "",
+            "translation": "动物恐惧症",
             "examples": [
               {
                 "text": "My nibling suffers from zoophobia.",
-                "translation": ""
+                "translation": "我的侄子患有动物恐惧症。"
               }
             ]
           }
@@ -4969,18 +4969,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zoophyte",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈzoʊəfaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈzəʊəfaɪt"
       }
     },
     "forms": {},
@@ -4993,11 +4993,11 @@
           {
             "id": "zoophyte-noun-1",
             "definition": "any of various invertebrate animals resembling a plant such as a sea anemone or coral or sponge",
-            "translation": "",
+            "translation": "植形动物（如海葵、珊瑚等）",
             "examples": [
               {
                 "text": "I study the development of zoophytes.",
-                "translation": ""
+                "translation": "我研究植形动物的发育过程。"
               }
             ]
           }
@@ -5006,18 +5006,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {
     "word": "zooplankton",
     "pronunciation": {
       "us": {
-        "ipa": "ˌzoʊrˈplæŋktən"
+        "ipa": "ˈzoʊəplæŋktən"
       },
       "uk": {
-        "ipa": "ˌzəʊəˈplæŋktən"
+        "ipa": "ˈzəʊəplæŋktən"
       }
     },
     "forms": {},
@@ -5030,11 +5030,11 @@
           {
             "id": "zooplankton-noun-1",
             "definition": "animal constituent of plankton",
-            "translation": "",
+            "translation": "浮游动物",
             "examples": [
               {
                 "text": "The zooplankton were thriving in the toxin-free environment.",
-                "translation": ""
+                "translation": "浮游动物在无毒环境中繁衍生息。"
               }
             ]
           }
@@ -5043,8 +5043,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782541604
     }
   },
   {

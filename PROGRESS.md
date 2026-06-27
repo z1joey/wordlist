@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 3895 | **← Backward**: z.json index 112 | **Updated**: 1782541604
+> **→ Forward**: a.json index 3895 | **← Backward**: y.json index 148 | **Updated**: 1782541604
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,416 |
-| Remaining | 60,451 |
-| Completion | 6.81% |
+| Reviewed & validated | 4,493 |
+| Remaining | 60,374 |
+| Completion | 6.93% |
 | Forward agent | a.json (4,354 / 4,900) |
-| Backward agent | z.json (62 / 139) |
+| Backward agent | y.json (0 / 149) |
 
 ## 📋 File Progress
 
@@ -46,15 +46,15 @@
 | w.json | 1,306 | 0 | ···················· 0% | ⬜ pending |
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
-| z.json | 139 | 62 | █████████░░░░░░░░ 45% | ← in_progress |
-| **Total** | **64,867** | **4,416** | **6.81%** | |
+| z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
+| **Total** | **64,867** | **4,493** | **6.93%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-a-0156 | a.json | 3895–3919 | ⬜ pending | — |
-| ← Backward | B-z-0001 | z.json | 138–113 | ✅ done | MiniMax-M2.7-highspeed |
+| ← Backward | B-y-0001 | y.json | 148–124 | 🟡 working | MiniMax-M2.7-highspeed |
 
 ## 📝 Last Batches
 
@@ -62,6 +62,11 @@
 |-------|------|-------|-------|--------|-----------|--------|
 | F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | B-z-0001 | z.json | 138–113 | 26 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0002 | z.json | 112–88 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0003 | z.json | 87–63 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0004 | z.json | 62–38 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0005 | z.json | 37–13 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| B-z-0006 | z.json | 12–0 | 13 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
