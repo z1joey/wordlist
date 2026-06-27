@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 3620 | **Updated**: 1800000000
+> **Cursor**: a.json → index 3770 | **Updated**: 1782540426
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 19,290 |
-| Remaining | 45,577 |
-| Completion | 29.7% |
-| Current file | a.json (4,390 / 4,900) |
+| Reviewed & validated | 19,340 |
+| Remaining | 45,527 |
+| Completion | 29.8% |
+| Current file | a.json (4,540 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,390 | ███████████████████░ 89.6% | 🔄 in_progress |
+| a.json | 4,900 | 4,540 | ████████████████████ 92.7% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -44,7 +44,7 @@
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
 | z.json | 139 | 0 | ···················· 0% | ⬜ pending |
-| **Total** | **64867** | **19190** | **29.6%** | |
+| **Total** | **64867** | **19340** | **29.8%** | |
 
 ## 🔄 Current Batch
 
@@ -94,6 +94,12 @@
 | a-0142 | a.json | 3545–3569 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
 | a-0143 | a.json | 3570–3594 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
 | a-0144 | a.json | 3595–3619 | 25 | MiniMax-Code | MiniMax-Code | ✅ done |
+| a-0145 | a.json | 3620–3644 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0146 | a.json | 3645–3669 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0147 | a.json | 3670–3694 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0148 | a.json | 3695–3719 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0149 | a.json | 3720–3744 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
