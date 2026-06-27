@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 2745 | **Updated**: 1782522478
+> **Cursor**: a.json → index 2745 | **Updated**: 1782620000
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
-| Total entries | 64867 |
-| Reviewed & validated | 18386 |
-| Remaining | 46481 |
-| Completion | 28.3% |
-| Current file | a.json (3638 / 4,900) |
+| Total entries | 64,867 |
+| Reviewed & validated | 18,444 |
+| Remaining | 46,423 |
+| Completion | 28.4% |
+| Current file | a.json (3,720 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 3638 | ████████░░░░░░░░░░░░░ 74.2% | 🔄 in_progress |
+| a.json | 4,900 | 3,720 | ████████████████░░░░ 75.9% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -44,7 +44,7 @@
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
 | z.json | 139 | 0 | ···················· 0% | ⬜ pending |
-| **Total** | **64867** | **18386** | **28.3%** | |
+| **Total** | **64867** | **18444** | **28.4%** | |
 
 ## 🔄 Current Batch
 
@@ -54,10 +54,11 @@
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
-| a-0106 | a.json | 2645–2669 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0107 | a.json | 2670–2694 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0108 | a.json | 2695–2719 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| a-0109 | a.json | 2720–2744 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0105 | a.json | 2620–2644 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0106 | a.json | 2645–2669 | 25 | doubao-seed-2.0-lite | doubao-seed-2.0-lite | ✅ done |
+| a-0107 | a.json | 2670–2694 | 25 | doubao-seed-2.0-lite | doubao-seed-2.0-lite | ✅ done |
+| a-0108 | a.json | 2695–2719 | 25 | doubao-seed-2.0-lite | doubao-seed-2.0-lite | ✅ done |
+| a-0109 | a.json | 2720–2744 | 25 | doubao-seed-2.0-lite | doubao-seed-2.0-lite | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
