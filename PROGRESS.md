@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4445 | **← Backward**: v.json index ??? | **Updated**: 1782564043
+> **→ Forward**: a.json index 4445 | **← Backward**: v.json index 932 | **Updated**: 1782565536
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 31,979 |
-| Remaining | 32,888 |
-| Completion | 49.30% |
+| Reviewed & validated | 32,078 |
+| Remaining | 32,789 |
+| Completion | 49.45% |
 | Forward agent | a.json (4,562 / 4,900) |
-| Backward agent | v.json (475 / 1,058) |
+| Backward agent | v.json (349 / 1,058) |
 
 ## 📋 File Progress
 
@@ -42,19 +42,19 @@
 | s.json | 7,019 | 3,152 | ████████░░░░░░░░░ 45% | ⬜ pending |
 | t.json | 3,227 | 1,372 | ████████░░░░░░░░░ 43% | ⬜ pending |
 | u.json | 2,578 | 946 | ███████░░░░░░░░░░ 37% | ⬜ pending |
-| v.json | 1,058 | 475 | █████░░░░░░░░░░░ 45% | ← in_progress |
+| v.json | 1,058 | 349 | █████░░░░░░░░░░░ 33% | ← in_progress |
 | w.json | 1,306 | 1,259 | █████████████████░ 96% | ⚠️ pending (47 empties) |
 | x.json | 92 | 66 | █████████████░░░░░ 72% | ⚠️ pending (26 empties) |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **31,979** | **█████░░░░░░░░░░░░░ 49%** | |
+| **Total** | **64,867** | **32,078** | **█████░░░░░░░░░░░░░ 49%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-a-0178 | a.json | 4445–4469 | ⬜ pending | — |
-| ← Backward | B-v-000? | v.json | ??? | ⬜ pending | — |
+| ← Backward | B-v-0011 | v.json | 932–908 | ⬜ pending | — |
 
 ## 📝 Last Batches
 
@@ -62,6 +62,7 @@
 |-------|------|-------|-------|--------|--------|
 | F-a-0173 to F-a-0177 | a.json | 4320–4444 | 125 | MiniMax-M3 | ✅ done |
 | B-v-0001 to B-v-0005 | v.json | 1057–933 | 125 | Mavis cron | ✅ done |
+| B-v-0006 to B-v-0010 | v.json | 1057–933 | 125 | Mavis cron | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
