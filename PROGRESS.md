@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 2595 | **Updated**: 1782524400
+> **Cursor**: a.json → index 2645 | **Updated**: 1782526200
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 3,668 |
-| Remaining | 61,199 |
-| Completion | 5.65% |
-| Current file | a.json (3,668 / 4,900) |
+| Reviewed & validated | 3,693 |
+| Remaining | 61,174 |
+| Completion | 5.69% |
+| Current file | a.json (3,693 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 3,668 | ███████████████████░░░░░░░░ 74.86% | 🔄 in_progress |
+| a.json | 4,900 | 3,693 | ███████████████████░░░░░░░░ 75.37% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ······················ 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ······················ 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ······················ 0% | ⬜ pending |
@@ -50,10 +50,10 @@
 
 | Field | Value |
 |-------|-------|
-| Batch ID | a-0105 |
-| Status | 🟡 working |
-| Worker | doubao-seed-2-0-lite-260428 |
-| Started | 1782524400 |
+| Batch ID | a-0106 |
+| Status | ✅ done |
+| Worker | MiniMax-M2.7-highspeed |
+| Started | 1782526200 |
 
 ## 📝 Last Batch
 
@@ -76,6 +76,8 @@
 | a-0102 | a.json | 2520–2544 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
 | a-0103 | a.json | 2545–2569 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
 | a-0104 | a.json | 2570–2594 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
+| a-0105 | a.json | 2595–2619 | 25 | doubao-seed-2-0-lite-260428 | doubao-seed-2-0-lite-260428 | ✅ done |
+| a-0106 | a.json | 2620–2644 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
