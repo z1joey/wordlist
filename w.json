@@ -14506,10 +14506,10 @@
     "word": "waterman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəmən"
       }
     },
     "forms": {},
@@ -14532,7 +14532,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14556,7 +14556,7 @@
           {
             "id": "watermark-noun-1",
             "definition": "a distinguishing mark impressed on paper during manufacture",
-            "translation": "",
+            "translation": "水印（纸张上的隐形图案）",
             "examples": [
               {
                 "text": "My stationary has a custom watermark.",
@@ -14567,7 +14567,7 @@
           {
             "id": "watermark-noun-2",
             "definition": "a line marking the level reached by a body of water",
-            "translation": "",
+            "translation": "水位标记；潮汐标记",
             "examples": [
               {
                 "text": "Take a look at the watermark from the flood of 1997.",
@@ -14580,7 +14580,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14653,7 +14653,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14689,7 +14689,7 @@
           {
             "id": "waterproof-adjective-1",
             "definition": "not permitting the passage of water",
-            "translation": "",
+            "translation": "防水的；防水材料；雨衣（名词）",
             "examples": []
           }
         ]
@@ -14700,7 +14700,7 @@
           {
             "id": "waterproof-noun-1",
             "definition": "a water-resistant coat",
-            "translation": "",
+            "translation": "防水的；防水材料；雨衣（名词）",
             "examples": []
           },
           {
@@ -14733,10 +14733,10 @@
     "word": "waterproofed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌpruːft"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəpruːft"
       }
     },
     "forms": {},
@@ -14751,7 +14751,7 @@
           {
             "id": "waterproofed-adjective-1",
             "definition": "not permitting the passage of water",
-            "translation": "",
+            "translation": "防水的；已做防水处理的",
             "examples": []
           }
         ]
@@ -14759,7 +14759,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14767,10 +14767,10 @@
     "word": "waterproofing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɔːtərˈpruːfɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɔːtəˈpruːfɪŋ"
       }
     },
     "forms": {},
@@ -14799,7 +14799,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14849,10 +14849,10 @@
     "word": "waterscape",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌskeɪp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəskeɪp"
       }
     },
     "forms": {},
@@ -14875,7 +14875,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14904,7 +14904,7 @@
           {
             "id": "watershed-noun-1",
             "definition": "an event marking a unique or important historical change of course or one on which important developments depend",
-            "translation": "",
+            "translation": "分水岭（地理）；流域分界",
             "examples": [
               {
                 "text": "the agreement was a watershed in the history of both nations",
@@ -14915,7 +14915,7 @@
           {
             "id": "watershed-noun-2",
             "definition": "the entire geographical area drained by a river and its tributaries",
-            "translation": "",
+            "translation": "事件；时期（具有历史意义的转折点）",
             "examples": []
           },
           {
@@ -14929,7 +14929,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14937,10 +14937,10 @@
     "word": "waterside",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌsaɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəsaɪd"
       }
     },
     "forms": {},
@@ -14961,7 +14961,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -14969,10 +14969,10 @@
     "word": "waterskin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌskɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəskɪn"
       }
     },
     "forms": {},
@@ -14985,7 +14985,7 @@
           {
             "id": "waterskin-noun-1",
             "definition": "a container of skin for holding water",
-            "translation": "",
+            "translation": "水龙卷；海上龙卷风（经过水面的龙卷风）",
             "examples": []
           }
         ]
@@ -14993,7 +14993,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15072,13 +15072,13 @@
           {
             "id": "watertight-adjective-1",
             "definition": "without flaws or loopholes",
-            "translation": "",
+            "translation": "防水的；不透水的（形容词）",
             "examples": []
           },
           {
             "id": "watertight-adjective-2",
             "definition": "not allowing water to pass in or out",
-            "translation": "",
+            "translation": "无懈可击的；完美的",
             "examples": []
           }
         ]
@@ -15086,7 +15086,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15126,7 +15126,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15134,10 +15134,10 @@
     "word": "waterweed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌwiːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəwiːd"
       }
     },
     "forms": {},
@@ -15158,7 +15158,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15196,7 +15196,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15204,10 +15204,10 @@
     "word": "waterworks",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌwɜːrks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəwɜːks"
       }
     },
     "forms": {},
@@ -15234,7 +15234,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15242,10 +15242,10 @@
     "word": "waterworn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɔːtərˌwɔːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɔːtəwɔːn"
       }
     },
     "forms": {},
@@ -15266,7 +15266,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15375,7 +15375,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15383,10 +15383,10 @@
     "word": "wattage",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɑtɪdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒtɪdʒ"
       }
     },
     "forms": {},
@@ -15407,7 +15407,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15437,13 +15437,13 @@
           {
             "id": "wattle-noun-1",
             "definition": "framework consisting of stakes interwoven with branches to form a fence",
-            "translation": "",
+            "translation": "栅栏；篱笆（由枝条编织而成）",
             "examples": []
           },
           {
             "id": "wattle-noun-2",
             "definition": "a fleshy wrinkled and often brightly colored fold of skin hanging from the neck or throat of certain birds (chickens and turkeys) or lizards",
-            "translation": "",
+            "translation": "垂肉；肉垂（鸟类的皮瓣，常为鲜艳颜色）",
             "examples": []
           },
           {
@@ -15460,7 +15460,7 @@
           {
             "id": "wattle-verb-1",
             "definition": "interlace to form wattle",
-            "translation": "",
+            "translation": "栅栏；篱笆（由枝条编织而成）",
             "examples": []
           },
           {
@@ -15482,10 +15482,10 @@
     "word": "wattmeter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɑtˌmiːtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒtmiːtə"
       }
     },
     "forms": {},
@@ -15506,7 +15506,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15799,7 +15799,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15807,10 +15807,10 @@
     "word": "waveform",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvˌfɔːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvfɔːm"
       }
     },
     "forms": {},
@@ -15831,7 +15831,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15839,10 +15839,10 @@
     "word": "wavefront",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvˌfrʌnt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvfrʌnt"
       }
     },
     "forms": {},
@@ -15863,7 +15863,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15871,10 +15871,10 @@
     "word": "waveguide",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvˌɡaɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvɡaɪd"
       }
     },
     "forms": {},
@@ -15887,7 +15887,7 @@
           {
             "id": "waveguide-noun-1",
             "definition": "a hollow metal conductor that provides a path to guide microwaves",
-            "translation": "",
+            "translation": "波导；波导管（传输电磁波的金属管）",
             "examples": []
           }
         ]
@@ -15895,7 +15895,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15984,7 +15984,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -15992,10 +15992,10 @@
     "word": "wavelike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvlaɪk"
       }
     },
     "forms": {},
@@ -16018,7 +16018,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16062,13 +16062,13 @@
           {
             "id": "waver-noun-1",
             "definition": "the act of moving back and forth",
-            "translation": "",
+            "translation": "摇晃；摇摆（犹豫的动作）",
             "examples": []
           },
           {
             "id": "waver-noun-2",
             "definition": "the act of pausing uncertainly",
-            "translation": "",
+            "translation": "踌躇；犹豫不决",
             "examples": []
           },
           {
@@ -16085,13 +16085,13 @@
           {
             "id": "waver-verb-1",
             "definition": "be unsure or weak",
-            "translation": "",
+            "translation": "摇晃；摇摆（犹豫的动作）",
             "examples": []
           },
           {
             "id": "waver-verb-2",
             "definition": "give off unsteady sounds, alternating in amplitude or frequency",
-            "translation": "",
+            "translation": "踌躇；犹豫不决",
             "examples": []
           },
           {
@@ -16142,7 +16142,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16150,10 +16150,10 @@
     "word": "waverer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvərər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvərə"
       }
     },
     "forms": {},
@@ -16178,7 +16178,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16186,10 +16186,10 @@
     "word": "wavering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvərɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvərɪŋ"
       }
     },
     "forms": {},
@@ -16231,7 +16231,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16239,10 +16239,10 @@
     "word": "waviness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪvinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪvɪnəs"
       }
     },
     "forms": {},
@@ -16257,7 +16257,7 @@
           {
             "id": "waviness-noun-1",
             "definition": "unevenness produced by waves or wrinkles",
-            "translation": "",
+            "translation": "波形；起伏度（物理/头发）",
             "examples": []
           },
           {
@@ -16271,7 +16271,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16377,10 +16377,10 @@
     "word": "waw",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɔː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɔː"
       }
     },
     "forms": {},
@@ -16409,10 +16409,10 @@
     "word": "wawl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɔːl"
       }
     },
     "forms": {
@@ -16527,10 +16527,10 @@
     "word": "waxberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌberi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksberɪ"
       }
     },
     "forms": {},
@@ -16560,7 +16560,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16597,7 +16597,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16605,10 +16605,10 @@
     "word": "waxen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksən"
       }
     },
     "forms": {},
@@ -16648,7 +16648,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16656,10 +16656,10 @@
     "word": "waxflower",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌflaʊər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksflaʊə"
       }
     },
     "forms": {},
@@ -16672,13 +16672,13 @@
           {
             "id": "waxflower-noun-1",
             "definition": "small waxy white or pinkish-white saprophytic woodland plant having scalelike leaves and a nodding flower",
-            "translation": "",
+            "translation": "蜡质花；蜡质花植物（花瓣有蜡质感的花）",
             "examples": []
           },
           {
             "id": "waxflower-noun-2",
             "definition": "epiphytic clusia of British Guiana",
-            "translation": "",
+            "translation": "多花克雷西亚（附生植物）",
             "examples": []
           },
           {
@@ -16692,7 +16692,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16700,10 +16700,10 @@
     "word": "waxiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksɪnəs"
       }
     },
     "forms": {},
@@ -16716,7 +16716,7 @@
           {
             "id": "waxiness-noun-1",
             "definition": "the quality of being made of wax or covered with wax",
-            "translation": "",
+            "translation": "蜡质；柔软性（waxen的特质）",
             "examples": []
           }
         ]
@@ -16724,7 +16724,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16783,7 +16783,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16791,10 +16791,10 @@
     "word": "waxlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækslaɪk"
       }
     },
     "forms": {},
@@ -16817,7 +16817,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16825,10 +16825,10 @@
     "word": "waxmallow",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌmæloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksmæləʊ"
       }
     },
     "forms": {},
@@ -16849,7 +16849,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16857,10 +16857,10 @@
     "word": "waxwing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌwɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækswɪŋ"
       }
     },
     "forms": {},
@@ -16873,7 +16873,7 @@
           {
             "id": "waxwing-noun-1",
             "definition": "brown velvety-plumaged songbirds of the northern hemisphere having crested heads and red waxy wing tips",
-            "translation": "",
+            "translation": "太平鸟；蜡翅鸟（翅羽有蜡质红点）",
             "examples": []
           }
         ]
@@ -16881,7 +16881,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16889,10 +16889,10 @@
     "word": "waxwork",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksˌwɜːrk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækswɜːk"
       }
     },
     "forms": {},
@@ -16921,7 +16921,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -16988,10 +16988,10 @@
     "word": "waxycap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæksiˌkæp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæksɪkæp"
       }
     },
     "forms": {},
@@ -17004,7 +17004,7 @@
           {
             "id": "waxycap-noun-1",
             "definition": "any fungus of the family Hygrophoraceae having gills that are more or less waxy in appearance",
-            "translation": "",
+            "translation": "蜡伞菌（真菌科 Hygrophoraceae，有蜡质子实层）",
             "examples": []
           }
         ]
@@ -17012,7 +17012,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17247,7 +17247,7 @@
           {
             "id": "waybill-noun-1",
             "definition": "a receipt given by the carrier to the shipper acknowledging receipt of the goods being shipped and specifying the terms of delivery",
-            "translation": "",
+            "translation": "运货单（承运人签发的收据）",
             "examples": []
           }
         ]
@@ -17255,7 +17255,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17295,7 +17295,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17303,10 +17303,10 @@
     "word": "wayfaring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪˌferɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪfeərɪŋ"
       }
     },
     "forms": {},
@@ -17340,7 +17340,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17380,7 +17380,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17503,7 +17503,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17881,10 +17881,10 @@
     "word": "weakener",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːkənər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːkənə"
       }
     },
     "forms": {},
@@ -17897,7 +17897,7 @@
           {
             "id": "weakener-noun-1",
             "definition": "that which weakens or causes a loss of strength",
-            "translation": "",
+            "translation": "削弱者；使弱化的事物",
             "examples": [
               {
                 "text": "doubt is a great weakener of resolve",
@@ -17910,7 +17910,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -17980,10 +17980,10 @@
     "word": "weakfish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːkfɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːkfɪʃ"
       }
     },
     "forms": {},
@@ -17996,13 +17996,13 @@
           {
             "id": "weakfish-noun-1",
             "definition": "food and game fish of North American coastal waters with a mouth from which hooks easily tear out",
-            "translation": "",
+            "translation": "黑斑犬牙石首鱼（食用和游钓鱼）",
             "examples": []
           },
           {
             "id": "weakfish-noun-2",
             "definition": "lean flesh of food and game fishes of the Atlantic coast of the United States",
-            "translation": "",
+            "translation": "弱鱼的肉（可食用的鱼肉）",
             "examples": []
           }
         ]
@@ -18010,7 +18010,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18036,7 +18036,7 @@
           {
             "id": "weakling-noun-1",
             "definition": "a person who is physically weak and ineffectual",
-            "translation": "",
+            "translation": "体弱的人；懦弱的人",
             "examples": []
           }
         ]
@@ -18044,7 +18044,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18210,7 +18210,7 @@
           {
             "id": "weal-noun-1",
             "definition": "a raised mark on the skin (as produced by the blow of a whip)",
-            "translation": "",
+            "translation": "皮肤红肿；伤痕（被鞭打或撞击后）",
             "examples": []
           }
         ]
@@ -18218,7 +18218,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18226,10 +18226,10 @@
     "word": "weald",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːld"
       }
     },
     "forms": {},
@@ -18250,7 +18250,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18323,10 +18323,10 @@
     "word": "wealthily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlθɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelθɪlɪ"
       }
     },
     "forms": {},
@@ -18339,7 +18339,7 @@
           {
             "id": "wealthily-adverb-1",
             "definition": "with riches",
-            "translation": "",
+            "translation": "富裕地；阔绰地",
             "examples": []
           }
         ]
@@ -18347,7 +18347,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18355,10 +18355,10 @@
     "word": "wealthiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlθɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelθɪnəs"
       }
     },
     "forms": {},
@@ -18452,7 +18452,7 @@
           {
             "id": "wean-verb-1",
             "definition": "gradually deprive an infant or young mammal of mother's milk",
-            "translation": "",
+            "translation": "断奶（停止母乳喂养）",
             "examples": [
               {
                 "text": "I weaned the baby at a year old and introduced solid food.",
@@ -18463,7 +18463,7 @@
           {
             "id": "wean-verb-2",
             "definition": "detach the affections of",
-            "translation": "",
+            "translation": "使断绝；使戒除（习惯或情感依赖）",
             "examples": []
           }
         ]
@@ -18476,7 +18476,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18484,10 +18484,10 @@
     "word": "weaned",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːnd"
       }
     },
     "forms": {},
@@ -18522,7 +18522,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18530,10 +18530,10 @@
     "word": "weaning",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːnɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːnɪŋ"
       }
     },
     "forms": {},
@@ -18565,7 +18565,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -18800,7 +18800,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19021,10 +19021,10 @@
     "word": "wearable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛrəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweərəbl"
       }
     },
     "forms": {},
@@ -19063,7 +19063,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19087,7 +19087,7 @@
           {
             "id": "wearer-noun-1",
             "definition": "a person who wears or carries or displays something as a body covering or accessory",
-            "translation": "",
+            "translation": "穿戴者；穿用者（穿某物的人）",
             "examples": [
               {
                 "text": "The monarch is the wearer of the crown.",
@@ -19100,7 +19100,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19108,10 +19108,10 @@
     "word": "wearied",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪrid"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪərɪd"
       }
     },
     "forms": {},
@@ -19134,7 +19134,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19168,7 +19168,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19196,7 +19196,7 @@
           {
             "id": "weariness-noun-1",
             "definition": "temporary loss of strength and energy resulting from hard physical or mental work",
-            "translation": "",
+            "translation": "疲倦；疲劳（精神或身体的劳累感）",
             "examples": []
           }
         ]
@@ -19204,7 +19204,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19319,7 +19319,7 @@
           {
             "id": "wearisome-adjective-1",
             "definition": "so lacking in interest as to cause mental weariness",
-            "translation": "",
+            "translation": "令人疲倦的；无聊的（令人精神疲劳）",
             "examples": []
           }
         ]
@@ -19327,7 +19327,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19412,10 +19412,10 @@
     "word": "wearying",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪriɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪərɪɪŋ"
       }
     },
     "forms": {},
@@ -19438,7 +19438,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19464,13 +19464,13 @@
           {
             "id": "weasel-noun-1",
             "definition": "small carnivorous mammal with short legs and elongated body and neck",
-            "translation": "",
+            "translation": "黄鼠狼（小型食肉哺乳动物）",
             "examples": []
           },
           {
             "id": "weasel-noun-2",
             "definition": "a person who is regarded as treacherous or sneaky",
-            "translation": "",
+            "translation": "狡猾的人；卑鄙的人（贬义）",
             "examples": []
           }
         ]
@@ -19483,7 +19483,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19620,10 +19620,10 @@
     "word": "weatherboard",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌbɔːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəbɔːd"
       }
     },
     "forms": {},
@@ -19639,13 +19639,13 @@
           {
             "id": "weatherboard-noun-1",
             "definition": "the side toward the wind",
-            "translation": "",
+            "translation": "迎风面；向风侧（航海）",
             "examples": []
           },
           {
             "id": "weatherboard-noun-2",
             "definition": "a long thin board with one edge thicker than the other",
-            "translation": "",
+            "translation": "护板；风雨板（建筑外墙材料）",
             "examples": []
           }
         ]
@@ -19653,7 +19653,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19661,10 +19661,10 @@
     "word": "weatherboarding",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌbɔːrdɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəbɔːdɪŋ"
       }
     },
     "forms": {},
@@ -19679,7 +19679,7 @@
           {
             "id": "weatherboarding-noun-1",
             "definition": "a long thin board with one edge thicker than the other",
-            "translation": "",
+            "translation": "护板；风雨板安装（建筑施工）",
             "examples": []
           }
         ]
@@ -19687,7 +19687,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19711,7 +19711,7 @@
           {
             "id": "weathercock-noun-1",
             "definition": "weathervane with a vane in the form of a rooster",
-            "translation": "",
+            "translation": "风向标（公鸡形顶饰）",
             "examples": []
           }
         ]
@@ -19719,7 +19719,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19764,10 +19764,10 @@
     "word": "weatherglass",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌɡlæs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəɡlɑːs"
       }
     },
     "forms": {},
@@ -19780,7 +19780,7 @@
           {
             "id": "weatherglass-noun-1",
             "definition": "a simple barometer for indicating changes in atmospheric pressure",
-            "translation": "",
+            "translation": "迎风航行的（能抢风行驶）",
             "examples": []
           }
         ]
@@ -19788,7 +19788,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19796,10 +19796,10 @@
     "word": "weatherliness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərlɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəlɪnəs"
       }
     },
     "forms": {},
@@ -19825,7 +19825,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19833,10 +19833,10 @@
     "word": "weatherly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəlɪ"
       }
     },
     "forms": {},
@@ -19899,10 +19899,10 @@
     "word": "weatherproof",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌpruːf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəpruːf"
       }
     },
     "forms": {
@@ -19919,7 +19919,7 @@
           {
             "id": "weatherproof-adjective-1",
             "definition": "able to withstand exposure to weather without damage",
-            "translation": "",
+            "translation": "防风雨的；能抵御各种天气的",
             "examples": [
               {
                 "text": "weatherproof electric wiring",
@@ -19951,10 +19951,10 @@
     "word": "weatherstrip",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌstrɪp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəstrɪp"
       }
     },
     "forms": {},
@@ -19991,7 +19991,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -19999,10 +19999,10 @@
     "word": "weatherstripping",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌstrɪpɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəstrɪpɪŋ"
       }
     },
     "forms": {},
@@ -20023,7 +20023,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20031,10 +20031,10 @@
     "word": "weathervane",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðərˌveɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəveɪn"
       }
     },
     "forms": {},
@@ -20057,7 +20057,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20065,10 +20065,10 @@
     "word": "weatherworn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛðəˌwɔːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðəwɔːn"
       }
     },
     "forms": {},
@@ -20089,7 +20089,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20128,7 +20128,7 @@
           {
             "id": "weave-noun-1",
             "definition": "pattern of weaving or structure of a fabric",
-            "translation": "",
+            "translation": "编织；织法；织物",
             "examples": []
           }
         ]
@@ -20139,7 +20139,7 @@
           {
             "id": "weave-verb-1",
             "definition": "interlace by or as if by weaving",
-            "translation": "",
+            "translation": "编织；织法；织物",
             "examples": []
           },
           {
@@ -20215,13 +20215,13 @@
           {
             "id": "weaver-noun-1",
             "definition": "finch-like African and Asian colonial birds noted for their elaborately woven nests",
-            "translation": "",
+            "translation": "织布鸟（非洲和亚洲的群居雀形目鸟）",
             "examples": []
           },
           {
             "id": "weaver-noun-2",
             "definition": "a craftsman who weaves cloth",
-            "translation": "",
+            "translation": "织工；编织者（手艺人）",
             "examples": []
           }
         ]
@@ -20229,7 +20229,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20265,7 +20265,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20289,7 +20289,7 @@
           {
             "id": "weaving-noun-1",
             "definition": "creating fabric",
-            "translation": "",
+            "translation": "织布；纺织（制作布料的动作）",
             "examples": []
           }
         ]
@@ -20297,7 +20297,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20422,13 +20422,13 @@
           {
             "id": "webbed-adjective-1",
             "definition": "having open interstices or resembling a web",
-            "translation": "",
+            "translation": "有蹼的（脚）",
             "examples": []
           },
           {
             "id": "webbed-adjective-2",
             "definition": "(of the feet of some animals) having the digits connected by a thin fold of skin",
-            "translation": "",
+            "translation": "网状的；多孔的",
             "examples": []
           }
         ]
@@ -20436,7 +20436,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20444,10 +20444,10 @@
     "word": "webbing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwebɪŋ"
       }
     },
     "forms": {},
@@ -20460,13 +20460,13 @@
           {
             "id": "webbing-noun-1",
             "definition": "a strong fabric woven in strips",
-            "translation": "",
+            "translation": "织带；安全带材料（工业）",
             "examples": []
           },
           {
             "id": "webbing-noun-2",
             "definition": "a narrow closely woven tape",
-            "translation": "",
+            "translation": "窄条织带（加固用）",
             "examples": []
           },
           {
@@ -20485,7 +20485,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20493,10 +20493,10 @@
     "word": "webby",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwebɪ"
       }
     },
     "forms": {},
@@ -20511,7 +20511,7 @@
           {
             "id": "webby-adjective-1",
             "definition": "having open interstices or resembling a web",
-            "translation": "",
+            "translation": "网状的；像网的（形容词）",
             "examples": []
           }
         ]
@@ -20519,7 +20519,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20551,7 +20551,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20575,7 +20575,7 @@
           {
             "id": "weber-noun-1",
             "definition": "a unit of magnetic flux equal to 100,000,000 maxwells",
-            "translation": "",
+            "translation": "韦伯（磁通量单位Wb = 10⁸麦克斯韦）",
             "examples": []
           }
         ]
@@ -20583,7 +20583,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20591,10 +20591,10 @@
     "word": "webfoot",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbˌfʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwebfʊt"
       }
     },
     "forms": {},
@@ -20615,7 +20615,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20623,10 +20623,10 @@
     "word": "weblike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweblaɪk"
       }
     },
     "forms": {},
@@ -20649,7 +20649,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20657,10 +20657,10 @@
     "word": "webmaster",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbˌmæstər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwebmɑːstə"
       }
     },
     "forms": {},
@@ -20681,7 +20681,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20713,7 +20713,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20757,10 +20757,10 @@
     "word": "webworm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛbˌwɜːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwebwɜːm"
       }
     },
     "forms": {},
@@ -20781,7 +20781,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20887,7 +20887,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -20950,10 +20950,10 @@
     "word": "wedel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈveɪdəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveɪdəl"
       }
     },
     "forms": {},
@@ -20974,7 +20974,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21013,13 +21013,13 @@
           {
             "id": "wedge-noun-1",
             "definition": "a block of wood used to prevent the sliding or rolling of a heavy object",
-            "translation": "",
+            "translation": "楔子；三角木（阻止滑动或分裂）",
             "examples": []
           },
           {
             "id": "wedge-noun-2",
             "definition": "something solid that is usable as an inclined plane (shaped like a V) that can be pushed between two things to separate them",
-            "translation": "",
+            "translation": "楔形物；V形物（可作为楔形代用品）",
             "examples": []
           },
           {
@@ -21060,13 +21060,13 @@
           {
             "id": "wedge-verb-1",
             "definition": "squeeze like a wedge into a tight space",
-            "translation": "",
+            "translation": "楔子；三角木（阻止滑动或分裂）",
             "examples": []
           },
           {
             "id": "wedge-verb-2",
             "definition": "put, fix, force, or implant",
-            "translation": "",
+            "translation": "楔形物；V形物（可作为楔形代用品）",
             "examples": []
           }
         ]
@@ -21099,7 +21099,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21142,7 +21142,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21150,10 +21150,10 @@
     "word": "wedged",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɛdʒd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wedʒd"
       }
     },
     "forms": {},
@@ -21176,7 +21176,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21184,10 +21184,10 @@
     "word": "wedgie",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛdʒi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwedʒɪ"
       }
     },
     "forms": {},
@@ -21200,7 +21200,7 @@
           {
             "id": "wedgie-noun-1",
             "definition": "a shoe with a wedge heel",
-            "translation": "",
+            "translation": "楔形后跟女鞋（跟部为楔形的女鞋）",
             "examples": []
           }
         ]
@@ -21208,7 +21208,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21420,10 +21420,10 @@
     "word": "weeder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːdər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːdə"
       }
     },
     "forms": {},
@@ -21450,7 +21450,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21458,10 +21458,10 @@
     "word": "weedkiller",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːdˌkɪlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːdkɪlə"
       }
     },
     "forms": {},
@@ -21484,7 +21484,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21492,10 +21492,10 @@
     "word": "weedless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːdləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːdlɪs"
       }
     },
     "forms": {},
@@ -21586,13 +21586,13 @@
           {
             "id": "weedy-adjective-1",
             "definition": "being very thin",
-            "translation": "",
+            "translation": "体弱的；瘦弱的（指人）",
             "examples": []
           },
           {
             "id": "weedy-adjective-2",
             "definition": "abounding with or resembling weeds",
-            "translation": "",
+            "translation": "杂草丛生的（指土地）",
             "examples": [
               {
                 "text": "a weedy path",
@@ -21605,7 +21605,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21791,10 +21791,10 @@
     "word": "weekender",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːkˈɛndər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːkˈendə"
       }
     },
     "forms": {},
@@ -21807,13 +21807,13 @@
           {
             "id": "weekender-noun-1",
             "definition": "a small suitcase to carry clothing and accessories for a weekend trip",
-            "translation": "",
+            "translation": "周末旅行包（装周末度假衣物的短途旅行箱）",
             "examples": []
           },
           {
             "id": "weekender-noun-2",
             "definition": "someone who vacations on a weekend",
-            "translation": "",
+            "translation": "周末度假者；周末出城的人",
             "examples": []
           }
         ]
@@ -21821,7 +21821,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21829,10 +21829,10 @@
     "word": "weeklong",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːkˌlɔŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːklɒŋ"
       }
     },
     "forms": {},
@@ -21845,7 +21845,7 @@
           {
             "id": "weeklong-adjective-1",
             "definition": "lasting through a week",
-            "translation": "",
+            "translation": "持续一周的；长达一周的",
             "examples": [
               {
                 "text": "We took a weeklong vacation.",
@@ -21858,7 +21858,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
