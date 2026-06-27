@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4320 | **← Backward**: v.json index 932 | **Updated**: 1751185800
+> **→ Forward**: a.json index 4445 | **← Backward**: v.json index ??? | **Updated**: 1782564043
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 31,919 |
-| Remaining | 32,948 |
-| Completion | 49.21% |
-| Forward agent | a.json (4,492 / 4,900) |
-| Backward agent | v.json (487 / 1,058) |
+| Reviewed & validated | 31,979 |
+| Remaining | 32,888 |
+| Completion | 49.30% |
+| Forward agent | a.json (4,562 / 4,900) |
+| Backward agent | v.json (475 / 1,058) |
 
 ## 📋 File Progress
 
@@ -21,7 +21,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,492 | █████████████████░ 92% | → in_progress |
+| a.json | 4,900 | 4,562 | █████████████████░ 93% | → in_progress |
 | b.json | 3,601 | 1,445 | ███████░░░░░░░░░░ 40% | ⬜ pending |
 | c.json | 6,275 | 2,717 | ████████░░░░░░░░░ 43% | ⬜ pending |
 | d.json | 3,729 | 1,809 | █████████░░░░░░░░ 49% | ⬜ pending |
@@ -42,26 +42,25 @@
 | s.json | 7,019 | 3,152 | ████████░░░░░░░░░ 45% | ⬜ pending |
 | t.json | 3,227 | 1,372 | ████████░░░░░░░░░ 43% | ⬜ pending |
 | u.json | 2,578 | 946 | ███████░░░░░░░░░░ 37% | ⬜ pending |
-| v.json | 1,058 | 487 | ████████░░░░░░░░░ 46% | ← in_progress |
-| w.json | 1,306 | 1,257 | █████████████████░ 96% | ⚠️ pending (49 empties) |
+| v.json | 1,058 | 475 | █████░░░░░░░░░░░ 45% | ← in_progress |
+| w.json | 1,306 | 1,259 | █████████████████░ 96% | ⚠️ pending (47 empties) |
 | x.json | 92 | 66 | █████████████░░░░░ 72% | ⚠️ pending (26 empties) |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **31,919** | **█████░░░░░░░░░░░░░ 49%** | |
+| **Total** | **64,867** | **31,979** | **█████░░░░░░░░░░░░░ 49%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0173 | a.json | 4320–4344 | ⬜ pending | — |
-| ← Backward | B-v-0006 | v.json | 932–908 | ⬜ pending | — |
+| → Forward | F-a-0178 | a.json | 4445–4469 | ⬜ pending | — |
+| ← Backward | B-v-000? | v.json | ??? | ⬜ pending | — |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Status |
 |-------|------|-------|-------|--------|--------|
-| F-a-0165 to F-a-0172 | a.json | 4120–4319 | 200 | MiniMax-M2.7-highspeed | ✅ done |
-| B-w-0050 to B-w-0058 | w.json | 80–1 / 633–1205 | 345 | MiniMax-M2.7-highspeed | ✅ done |
+| F-a-0173 to F-a-0177 | a.json | 4320–4444 | 125 | MiniMax-M3 | ✅ done |
 | B-v-0001 to B-v-0005 | v.json | 1057–933 | 125 | Mavis cron | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
