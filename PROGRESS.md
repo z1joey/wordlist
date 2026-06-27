@@ -56,6 +56,12 @@
 | → Forward | F-a-0163 | a.json | 4070–4094 | ✅ done | doubao-seed-2.0-lite |
 | → Forward | F-a-0164 | a.json | 4095–4119 | 🟡 working | doubao-seed-2.0-lite |
 | ← Backward | B-w-0005 | w.json | 1205–1181 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0006 | w.json | 1180–1156 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0007 | w.json | 1155–1131 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0008 | w.json | 1130–1106 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0009 | w.json | 1105–1081 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0010 | w.json | 1080–1056 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0011 | w.json | 1055–1031 | 🟡 working | MiniMax-M2.7-highspeed |
 
 ## 📝 Last Batches
 
