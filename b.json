@@ -16084,10 +16084,10 @@
     "word": "bandaged",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪdʒ"
       }
     },
     "forms": {},
@@ -16102,7 +16102,7 @@
           {
             "id": "bandaged-adjective-1",
             "definition": "covered or wrapped with a bandage",
-            "translation": "",
+            "translation": "用绷带包扎的",
             "examples": [
               {
                 "text": "The bandaged wound on the back of my head hurt badly.",
@@ -16120,18 +16120,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandaging",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪdʒɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪdʒɪŋ"
       }
     },
     "forms": {},
@@ -16146,7 +16146,7 @@
           {
             "id": "bandaging-noun-1",
             "definition": "the act of applying a bandage",
-            "translation": "",
+            "translation": "绷带包扎",
             "examples": []
           }
         ]
@@ -16159,8 +16159,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16242,10 +16242,10 @@
     "word": "bandbox",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændbɑks"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændbɒks"
       }
     },
     "forms": {},
@@ -16258,7 +16258,7 @@
           {
             "id": "bandbox-noun-1",
             "definition": "a light cylindrical box for holding light articles of attire (especially hats)",
-            "translation": "",
+            "translation": "圆筒形纸盒",
             "examples": []
           }
         ]
@@ -16266,18 +16266,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandeau",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bænˈdoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændəʊ"
       }
     },
     "forms": {},
@@ -16292,7 +16292,7 @@
           {
             "id": "bandeau-noun-1",
             "definition": "an undergarment worn by women to support their breasts",
-            "translation": "",
+            "translation": "束发带",
             "examples": []
           }
         ]
@@ -16300,18 +16300,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪd"
       }
     },
     "forms": {},
@@ -16364,18 +16364,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandelet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændəlɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændəlɪt"
       }
     },
     "forms": {},
@@ -16390,7 +16390,7 @@
           {
             "id": "bandelet-noun-1",
             "definition": "molding in the form of a ring",
-            "translation": "",
+            "translation": "小带子",
             "examples": []
           }
         ]
@@ -16398,18 +16398,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandelette",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɛt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɛt"
       }
     },
     "forms": {},
@@ -16424,7 +16424,7 @@
           {
             "id": "bandelette-noun-1",
             "definition": "molding in the form of a ring",
-            "translation": "",
+            "translation": "小绷带",
             "examples": []
           }
         ]
@@ -16432,18 +16432,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banderilla",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbændəˈriːjə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbændəˈrɪlə"
       }
     },
     "forms": {},
@@ -16456,7 +16456,7 @@
           {
             "id": "banderilla-noun-1",
             "definition": "a decorated dart that is implanted in the neck or shoulders of the bull during a bull fight",
-            "translation": "",
+            "translation": "装饰标枪（斗牛用）",
             "examples": []
           }
         ]
@@ -16464,18 +16464,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banderillero",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbændərɪˈljɛəroʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbændərɪˈljɛərəʊ"
       }
     },
     "forms": {},
@@ -16488,7 +16488,7 @@
           {
             "id": "banderillero-noun-1",
             "definition": "the bullfighter who implants decorated darts (banderillas) into the neck or shoulders of the bull during a bull fight",
-            "translation": "",
+            "translation": "装饰标枪手（斗牛士）",
             "examples": []
           }
         ]
@@ -16496,18 +16496,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandicoot",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪkuːt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪkuːt"
       }
     },
     "forms": {},
@@ -16520,7 +16520,7 @@
           {
             "id": "bandicoot-noun-1",
             "definition": "any of various agile ratlike terrestrial marsupials of Australia and adjacent islands",
-            "translation": "",
+            "translation": "袋狸",
             "examples": []
           }
         ]
@@ -16528,18 +16528,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banding",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪŋ"
       }
     },
     "forms": {},
@@ -16575,8 +16575,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16620,10 +16620,10 @@
     "word": "banditry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændɪtri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændɪtri"
       }
     },
     "forms": {},
@@ -16636,7 +16636,7 @@
           {
             "id": "banditry-noun-1",
             "definition": "the practice of plundering in gangs",
-            "translation": "",
+            "translation": "盗匪行为",
             "examples": []
           }
         ]
@@ -16644,8 +16644,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16686,10 +16686,10 @@
     "word": "bandlet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændlɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændlɪt"
       }
     },
     "forms": {},
@@ -16704,7 +16704,7 @@
           {
             "id": "bandlet-noun-1",
             "definition": "molding in the form of a ring",
-            "translation": "",
+            "translation": "小带子",
             "examples": []
           }
         ]
@@ -16712,8 +16712,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16754,10 +16754,10 @@
     "word": "bandoleer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɪə"
       }
     },
     "forms": {},
@@ -16772,7 +16772,7 @@
           {
             "id": "bandoleer-noun-1",
             "definition": "a broad cartridge belt worn over the shoulder by soldiers",
-            "translation": "",
+            "translation": "子弹带",
             "examples": []
           }
         ]
@@ -16780,18 +16780,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandolier",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbændəˈlɪə"
       }
     },
     "forms": {},
@@ -16806,7 +16806,7 @@
           {
             "id": "bandolier-noun-1",
             "definition": "a broad cartridge belt worn over the shoulder by soldiers",
-            "translation": "",
+            "translation": "子弹带",
             "examples": []
           }
         ]
@@ -16814,18 +16814,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandoneon",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bænˈdoʊniən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bænˈdəʊniən"
       }
     },
     "forms": {},
@@ -16838,7 +16838,7 @@
           {
             "id": "bandoneon-noun-1",
             "definition": "a type of concertina popular in South America",
-            "translation": "",
+            "translation": "班多钮手风琴（阿根廷）",
             "examples": []
           }
         ]
@@ -16846,18 +16846,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandsaw",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændsɔː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændsɔː"
       }
     },
     "forms": {},
@@ -16870,7 +16870,7 @@
           {
             "id": "bandsaw-noun-1",
             "definition": "an endless saw consisting of a toothed metal band that is driven around two wheels",
-            "translation": "",
+            "translation": "带锯",
             "examples": []
           }
         ]
@@ -16878,18 +16878,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bandsman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændsmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændsmən"
       }
     },
     "forms": {},
@@ -16902,7 +16902,7 @@
           {
             "id": "bandsman-noun-1",
             "definition": "a player in a band (especially a military band)",
-            "translation": "",
+            "translation": "军乐队成员",
             "examples": []
           }
         ]
@@ -16910,8 +16910,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16957,10 +16957,10 @@
     "word": "bandtail",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændteɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændteɪl"
       }
     },
     "forms": {},
@@ -16973,7 +16973,7 @@
           {
             "id": "bandtail-noun-1",
             "definition": "wild pigeon of western North America",
-            "translation": "",
+            "translation": "带尾鸟",
             "examples": []
           }
         ]
@@ -16981,8 +16981,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17161,10 +17161,10 @@
     "word": "bandyleg",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbændiˌleɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbændiˌleɡ"
       }
     },
     "forms": {},
@@ -17179,7 +17179,7 @@
           {
             "id": "bandyleg-noun-1",
             "definition": "a leg bowed outward at the knee (or below the knee)",
-            "translation": "",
+            "translation": "弯腿",
             "examples": []
           }
         ]
@@ -17187,8 +17187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17236,10 +17236,10 @@
     "word": "baneberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪnberi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪnberi"
       }
     },
     "forms": {},
@@ -17252,13 +17252,13 @@
           {
             "id": "baneberry-noun-1",
             "definition": "a plant of the genus Actaea having acrid poisonous berries",
-            "translation": "",
+            "translation": "类叶升麻属植物",
             "examples": []
           },
           {
             "id": "baneberry-noun-2",
             "definition": "a poisonous berry of a plant of the genus Actaea",
-            "translation": "",
+            "translation": "有毒浆果",
             "examples": []
           }
         ]
@@ -17266,8 +17266,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17315,10 +17315,10 @@
     "word": "banefully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪnfəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪnfəli"
       }
     },
     "forms": {},
@@ -17333,7 +17333,7 @@
           {
             "id": "banefully-adverb-1",
             "definition": "in a noxiously baneful way",
-            "translation": "",
+            "translation": "有害地",
             "examples": [
               {
                 "text": "this banefully poisoned climate",
@@ -17346,8 +17346,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17584,10 +17584,10 @@
     "word": "banger",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋə"
       }
     },
     "forms": {},
@@ -17602,13 +17602,13 @@
           {
             "id": "banger-noun-1",
             "definition": "firework consisting of a small explosive charge and fuse in a heavy paper casing",
-            "translation": "",
+            "translation": "香肠",
             "examples": []
           },
           {
             "id": "banger-noun-2",
             "definition": "(British informal) pork sausage",
-            "translation": "",
+            "translation": "警车",
             "examples": []
           }
         ]
@@ -17616,18 +17616,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banging",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋɪŋ"
       }
     },
     "forms": {},
@@ -17643,7 +17643,7 @@
           {
             "id": "banging-adjective-1",
             "definition": "(used informally) very large",
-            "translation": "",
+            "translation": "砰然的",
             "examples": []
           }
         ]
@@ -17654,7 +17654,7 @@
           {
             "id": "banging-noun-1",
             "definition": "the act of subjecting to strong attack",
-            "translation": "",
+            "translation": "猛烈的",
             "examples": []
           },
           {
@@ -17697,8 +17697,8 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17783,10 +17783,10 @@
     "word": "bangtail",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋteɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋteɪl"
       }
     },
     "forms": {},
@@ -17801,7 +17801,7 @@
           {
             "id": "bangtail-noun-1",
             "definition": "a horse bred for racing",
-            "translation": "",
+            "translation": "剪尾羊",
             "examples": []
           }
         ]
@@ -17809,18 +17809,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæniən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæniən"
       }
     },
     "forms": {},
@@ -17835,13 +17835,13 @@
           {
             "id": "banian-noun-1",
             "definition": "a loose fitting jacket",
-            "translation": "",
+            "translation": "榕树",
             "examples": []
           },
           {
             "id": "banian-noun-2",
             "definition": "East Indian tree that puts out aerial shoots that grow down into the soil forming additional trunks",
-            "translation": "",
+            "translation": "印度商人",
             "examples": []
           }
         ]
@@ -17849,8 +17849,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18334,10 +18334,10 @@
     "word": "bankable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋkəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋkəbəl"
       }
     },
     "forms": {},
@@ -18350,7 +18350,7 @@
           {
             "id": "bankable-adjective-1",
             "definition": "acceptable to or at a bank",
-            "translation": "",
+            "translation": "可兑现的",
             "examples": [
               {
                 "text": "bankable funds",
@@ -18361,7 +18361,7 @@
           {
             "id": "bankable-adjective-2",
             "definition": "guaranteed to bring a profit",
-            "translation": "",
+            "translation": "可靠的",
             "examples": [
               {
                 "text": "without bankable stars the film script aroused no interest",
@@ -18374,18 +18374,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bankbook",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋkbʊk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋkbʊk"
       }
     },
     "forms": {},
@@ -18400,7 +18400,7 @@
           {
             "id": "bankbook-noun-1",
             "definition": "a record of deposits and withdrawals and interest held by depositors at certain banks",
-            "translation": "",
+            "translation": "银行存折",
             "examples": []
           }
         ]
@@ -18408,8 +18408,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18739,10 +18739,10 @@
     "word": "banksia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋksiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋksiə"
       }
     },
     "forms": {},
@@ -18755,7 +18755,7 @@
           {
             "id": "banksia-noun-1",
             "definition": "any shrub or tree of the genus Banksia having alternate leathery leaves apetalous yellow flowers often in showy heads and conelike fruit with winged seeds",
-            "translation": "",
+            "translation": "班克木（澳大利亚植物）",
             "examples": []
           }
         ]
@@ -18763,8 +18763,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18868,10 +18868,10 @@
     "word": "banneret",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænərɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænərɪt"
       }
     },
     "forms": {},
@@ -18884,7 +18884,7 @@
           {
             "id": "banneret-noun-1",
             "definition": "a knight honored for valor",
-            "translation": "",
+            "translation": "小旗",
             "examples": []
           }
         ]
@@ -18892,18 +18892,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bannerlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænərˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænəˌlaɪk"
       }
     },
     "forms": {},
@@ -18916,7 +18916,7 @@
           {
             "id": "bannerlike-adverb-1",
             "definition": "like a flag or decorative paper or cloth",
-            "translation": "",
+            "translation": "像旗帜的",
             "examples": [
               {
                 "text": "The child grabbed the hat and waved it at us bannerlike.",
@@ -18929,18 +18929,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banning",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænɪŋ"
       }
     },
     "forms": {},
@@ -18955,7 +18955,7 @@
           {
             "id": "banning-noun-1",
             "definition": "an official prohibition or edict against something",
-            "translation": "",
+            "translation": "禁止",
             "examples": []
           }
         ]
@@ -18963,18 +18963,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bannister",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænɪstər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænɪstə"
       }
     },
     "forms": {},
@@ -18992,7 +18992,7 @@
           {
             "id": "bannister-noun-1",
             "definition": "a railing at the side of a staircase or balcony to prevent people from falling",
-            "translation": "",
+            "translation": "楼梯栏杆",
             "examples": []
           }
         ]
@@ -19000,18 +19000,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bannock",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænək"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænək"
       }
     },
     "forms": {},
@@ -19024,7 +19024,7 @@
           {
             "id": "bannock-noun-1",
             "definition": "a flat bread made of oat or barley flour",
-            "translation": "",
+            "translation": "燕麦饼",
             "examples": []
           }
         ]
@@ -19032,8 +19032,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19156,10 +19156,10 @@
     "word": "banqueting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæŋkwɪtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæŋkwɪtɪŋ"
       }
     },
     "forms": {},
@@ -19174,7 +19174,7 @@
           {
             "id": "banqueting-noun-1",
             "definition": "eating an elaborate meal (often accompanied by entertainment)",
-            "translation": "",
+            "translation": "参加宴会",
             "examples": []
           }
         ]
@@ -19182,18 +19182,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banquette",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæŋˈkɛt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bæŋˈkɛt"
       }
     },
     "forms": {},
@@ -19206,7 +19206,7 @@
           {
             "id": "banquette-noun-1",
             "definition": "an upholstered bench",
-            "translation": "",
+            "translation": "射击踏垛",
             "examples": []
           }
         ]
@@ -19214,18 +19214,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banshee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bænˈʃiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bænˈʃiː"
       }
     },
     "forms": {},
@@ -19240,7 +19240,7 @@
           {
             "id": "banshee-noun-1",
             "definition": "(Irish folklore) a female spirit who wails to warn of impending death",
-            "translation": "",
+            "translation": "报丧女妖",
             "examples": []
           }
         ]
@@ -19248,18 +19248,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banshie",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bænˈʃiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bænˈʃiː"
       }
     },
     "forms": {},
@@ -19274,7 +19274,7 @@
           {
             "id": "banshie-noun-1",
             "definition": "(Irish folklore) a female spirit who wails to warn of impending death",
-            "translation": "",
+            "translation": "报丧女妖",
             "examples": []
           }
         ]
@@ -19282,18 +19282,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bantam",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntəm"
       }
     },
     "forms": {},
@@ -19308,7 +19308,7 @@
           {
             "id": "bantam-adjective-1",
             "definition": "very small",
-            "translation": "",
+            "translation": "矮脚鸡",
             "examples": []
           }
         ]
@@ -19319,7 +19319,7 @@
           {
             "id": "bantam-noun-1",
             "definition": "any of various small breeds of fowl",
-            "translation": "",
+            "translation": "小个子",
             "examples": []
           }
         ]
@@ -19327,18 +19327,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bantamweight",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntəmweɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntəmweɪt"
       }
     },
     "forms": {},
@@ -19351,13 +19351,13 @@
           {
             "id": "bantamweight-noun-1",
             "definition": "an amateur boxer who weighs no more than 119 pounds",
-            "translation": "",
+            "translation": "最轻量级运动员",
             "examples": []
           },
           {
             "id": "bantamweight-noun-2",
             "definition": "weighs 115-126 pounds",
-            "translation": "",
+            "translation": "羽量级拳击手",
             "examples": []
           }
         ]
@@ -19365,18 +19365,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banteng",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænteŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbænteŋ"
       }
     },
     "forms": {},
@@ -19392,7 +19392,7 @@
           {
             "id": "banteng-noun-1",
             "definition": "wild ox of the Malay Archipelago",
-            "translation": "",
+            "translation": "亚洲野生牛",
             "examples": []
           }
         ]
@@ -19400,8 +19400,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19510,10 +19510,10 @@
     "word": "banteringly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntərɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntərɪŋli"
       }
     },
     "forms": {},
@@ -19526,7 +19526,7 @@
           {
             "id": "banteringly-adverb-1",
             "definition": "in a bantering fashion",
-            "translation": "",
+            "translation": "打趣地",
             "examples": [
               {
                 "text": "We spoke to them banteringly.",
@@ -19539,18 +19539,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntɪŋ"
       }
     },
     "forms": {},
@@ -19565,7 +19565,7 @@
           {
             "id": "banting-noun-1",
             "definition": "wild ox of the Malay Archipelago",
-            "translation": "",
+            "translation": "减肥疗法",
             "examples": []
           }
         ]
@@ -19573,18 +19573,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bantoid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntɔɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntɔɪd"
       }
     },
     "forms": {},
@@ -19610,18 +19610,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bantu",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæntuː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæntuː"
       }
     },
     "forms": {},
@@ -19647,18 +19647,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banyan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbænjən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæniən"
       }
     },
     "forms": {},
@@ -19673,13 +19673,13 @@
           {
             "id": "banyan-noun-1",
             "definition": "a loose fitting jacket",
-            "translation": "",
+            "translation": "榕树",
             "examples": []
           },
           {
             "id": "banyan-noun-2",
             "definition": "East Indian tree that puts out aerial shoots that grow down into the soil forming additional trunks",
-            "translation": "",
+            "translation": "印度商人",
             "examples": []
           }
         ]
@@ -19687,18 +19687,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "banzai",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːnˈzaɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bænˈzaɪ"
       }
     },
     "forms": {},
@@ -19711,7 +19711,7 @@
           {
             "id": "banzai-noun-1",
             "definition": "a Japanese cheer of enthusiasm or triumph",
-            "translation": "",
+            "translation": "万岁",
             "examples": []
           }
         ]
@@ -19719,18 +19719,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "baobab",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪoʊbæb"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪəʊbæb"
       }
     },
     "forms": {},
@@ -19743,7 +19743,7 @@
           {
             "id": "baobab-noun-1",
             "definition": "African tree having an exceedingly thick trunk and fruit that resembles a gourd and has an edible pulp called monkey bread",
-            "translation": "",
+            "translation": "猴面包树",
             "examples": []
           }
         ]
@@ -19751,18 +19751,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "bap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bæp"
       }
     },
     "forms": {},
@@ -19775,7 +19775,7 @@
           {
             "id": "bap-noun-1",
             "definition": "a small loaf or roll of soft bread",
-            "translation": "",
+            "translation": "软面包卷（苏格兰）",
             "examples": []
           }
         ]
@@ -19783,8 +19783,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19834,10 +19834,10 @@
     "word": "baptised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæpˈtaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæptɪzd"
       }
     },
     "forms": {},
@@ -19852,7 +19852,7 @@
           {
             "id": "baptised-adjective-1",
             "definition": "having undergone the Christian ritual of baptism",
-            "translation": "",
+            "translation": "接受洗礼的",
             "examples": []
           }
         ]
@@ -19860,8 +19860,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19905,10 +19905,10 @@
     "word": "baptismal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæpˈtɪzməl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bæpˈtɪzməl"
       }
     },
     "forms": {},
@@ -19934,18 +19934,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "baptistery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæptɪstəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæptɪstri"
       }
     },
     "forms": {},
@@ -19958,7 +19958,7 @@
           {
             "id": "baptistery-noun-1",
             "definition": "bowl for baptismal water",
-            "translation": "",
+            "translation": "洗礼堂",
             "examples": []
           }
         ]
@@ -19966,18 +19966,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "baptistic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæpˈtɪstɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bæpˈtɪstɪk"
       }
     },
     "forms": {},
@@ -19998,18 +19998,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "baptistry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbæptɪstri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæptɪstri"
       }
     },
     "forms": {},
@@ -20022,7 +20022,7 @@
           {
             "id": "baptistry-noun-1",
             "definition": "bowl for baptismal water",
-            "translation": "",
+            "translation": "洗礼堂",
             "examples": []
           }
         ]
@@ -20030,8 +20030,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20094,10 +20094,10 @@
     "word": "baptized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bæpˈtaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbæptɪzd"
       }
     },
     "forms": {},
@@ -20112,7 +20112,7 @@
           {
             "id": "baptized-adjective-1",
             "definition": "having undergone the Christian ritual of baptism",
-            "translation": "",
+            "translation": "接受洗礼的",
             "examples": []
           }
         ]
@@ -20120,8 +20120,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20420,10 +20420,10 @@
     "word": "baranduki",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbærənˈduːki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbærənˈduːki"
       }
     },
     "forms": {},
@@ -20438,7 +20438,7 @@
           {
             "id": "baranduki-noun-1",
             "definition": "terrestrial Siberian squirrel",
-            "translation": "",
+            "translation": "獾狸",
             "examples": []
           }
         ]
@@ -20446,8 +20446,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20530,10 +20530,10 @@
     "word": "barbacan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbəkən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbəkən"
       }
     },
     "forms": {},
@@ -20548,7 +20548,7 @@
           {
             "id": "barbacan-noun-1",
             "definition": "a tower that is part of a defensive structure, such as a castle",
-            "translation": "",
+            "translation": "外堡",
             "examples": [
               {
                 "text": "Soldiers kept watch in the barbacan. ",
@@ -20561,18 +20561,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbadian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbeɪdiən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈbeɪdiən"
       }
     },
     "forms": {},
@@ -20598,8 +20598,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20714,10 +20714,10 @@
     "word": "barbarisation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɑːrbərɪˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɑːbərɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -20732,7 +20732,7 @@
           {
             "id": "barbarisation-noun-1",
             "definition": "an act that makes people primitive and uncivilized",
-            "translation": "",
+            "translation": "野蛮化",
             "examples": []
           }
         ]
@@ -20740,18 +20740,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbarise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbəraɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbəraɪz"
       }
     },
     "forms": {},
@@ -20764,7 +20764,7 @@
           {
             "id": "barbarise-verb-1",
             "definition": "to make crude or savage in behavior or speech",
-            "translation": "",
+            "translation": "使野蛮",
             "examples": [
               {
                 "text": "The years in prison have barbarized the youngster.",
@@ -20775,7 +20775,7 @@
           {
             "id": "barbarise-verb-2",
             "definition": "to become crude, savage or barbaric in behavior or language",
-            "translation": "",
+            "translation": "使粗俗",
             "examples": [
               {
                 "text": "Children barbarized the dinner table.",
@@ -20788,8 +20788,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20871,10 +20871,10 @@
     "word": "barbarization",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɑːrbərɪˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɑːbərɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -20889,7 +20889,7 @@
           {
             "id": "barbarization-noun-1",
             "definition": "an act that makes people primitive and uncivilized",
-            "translation": "",
+            "translation": "野蛮化",
             "examples": []
           }
         ]
@@ -20897,18 +20897,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbarize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbəraɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbəraɪz"
       }
     },
     "forms": {
@@ -20925,7 +20925,7 @@
           {
             "id": "barbarize-verb-1",
             "definition": "to make crude or savage in behavior or speech",
-            "translation": "",
+            "translation": "使野蛮",
             "examples": [
               {
                 "text": "The years in prison have barbarized the youngster.",
@@ -20936,7 +20936,7 @@
           {
             "id": "barbarize-verb-2",
             "definition": "to become crude, savage or barbaric in behavior or language",
-            "translation": "",
+            "translation": "使粗俗",
             "examples": [
               {
                 "text": "Children barbarized the dinner table.",
@@ -20949,8 +20949,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21004,10 +21004,10 @@
     "word": "barbarously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbərəsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbərəsli"
       }
     },
     "forms": {},
@@ -21020,7 +21020,7 @@
           {
             "id": "barbarously-adverb-1",
             "definition": "in a barbarous manner",
-            "translation": "",
+            "translation": "野蛮地",
             "examples": [
               {
                 "text": "they were barbarously murdered",
@@ -21033,18 +21033,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbarousness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbərəsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbərəsnəs"
       }
     },
     "forms": {},
@@ -21059,7 +21059,7 @@
           {
             "id": "barbarousness-noun-1",
             "definition": "the quality of being shockingly cruel and inhumane",
-            "translation": "",
+            "translation": "野蛮",
             "examples": []
           }
         ]
@@ -21067,18 +21067,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbasco",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbæskoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈbæskəʊ"
       }
     },
     "forms": {},
@@ -21093,7 +21093,7 @@
           {
             "id": "barbasco-noun-1",
             "definition": "West Indian shrub or small tree having leathery saponaceous leaves and extremely hard wood",
-            "translation": "",
+            "translation": "巴巴斯科鱼毒",
             "examples": []
           }
         ]
@@ -21101,18 +21101,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈbeɪt"
       }
     },
     "forms": {},
@@ -21127,7 +21127,7 @@
           {
             "id": "barbate-adjective-1",
             "definition": "having hair on the cheeks and chin",
-            "translation": "",
+            "translation": "须状的",
             "examples": []
           }
         ]
@@ -21135,8 +21135,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21249,10 +21249,10 @@
     "word": "barbecuing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbɪkjuːɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbɪkjuːɪŋ"
       }
     },
     "forms": {},
@@ -21265,7 +21265,7 @@
           {
             "id": "barbecuing-noun-1",
             "definition": "roasting a large piece of meat on a revolving spit out of doors over an open fire",
-            "translation": "",
+            "translation": "烧烤",
             "examples": []
           }
         ]
@@ -21273,8 +21273,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21330,10 +21330,10 @@
     "word": "barbel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbəl"
       }
     },
     "forms": {},
@@ -21348,7 +21348,7 @@
           {
             "id": "barbel-noun-1",
             "definition": "slender tactile process on the jaws of a fish",
-            "translation": "",
+            "translation": "触须",
             "examples": []
           }
         ]
@@ -21356,8 +21356,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21396,10 +21396,10 @@
     "word": "barbellate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbɛleɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈbɛleɪt"
       }
     },
     "forms": {},
@@ -21414,7 +21414,7 @@
           {
             "id": "barbellate-adjective-1",
             "definition": "having or covered with protective barbs or quills or spines or thorns or setae etc.",
-            "translation": "",
+            "translation": "有硬刺的",
             "examples": []
           }
         ]
@@ -21422,8 +21422,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21550,10 +21550,10 @@
     "word": "barberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbəri"
       }
     },
     "forms": {},
@@ -21566,7 +21566,7 @@
           {
             "id": "barberry-noun-1",
             "definition": "any of numerous plants of the genus Berberis having prickly stems and yellow flowers followed by small red berries",
-            "translation": "",
+            "translation": "伏牛花",
             "examples": []
           }
         ]
@@ -21574,8 +21574,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21616,10 +21616,10 @@
     "word": "barbet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbɪt"
       }
     },
     "forms": {},
@@ -21632,7 +21632,7 @@
           {
             "id": "barbet-noun-1",
             "definition": "small brightly colored stout-billed tropical bird having short weak wings",
-            "translation": "",
+            "translation": "须鹟",
             "examples": []
           }
         ]
@@ -21640,18 +21640,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbette",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbɛt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɑːˈbɛt"
       }
     },
     "forms": {},
@@ -21664,7 +21664,7 @@
           {
             "id": "barbette-noun-1",
             "definition": "(formerly) a mound of earth inside a fort from which heavy gun can be fired over the parapet",
-            "translation": "",
+            "translation": "炮台",
             "examples": []
           }
         ]
@@ -21672,18 +21672,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbican",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbɪkən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbɪkən"
       }
     },
     "forms": {},
@@ -21698,7 +21698,7 @@
           {
             "id": "barbican-noun-1",
             "definition": "a tower that is part of a defensive structure (such as a castle)",
-            "translation": "",
+            "translation": "外堡",
             "examples": []
           }
         ]
@@ -21706,18 +21706,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbital",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbɪtɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbɪtɒl"
       }
     },
     "forms": {},
@@ -21734,7 +21734,7 @@
           {
             "id": "barbital-noun-1",
             "definition": "a barbiturate used as a hypnotic",
-            "translation": "",
+            "translation": "巴比妥（镇静剂）",
             "examples": []
           }
         ]
@@ -21742,18 +21742,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
     "word": "barbitone",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɑːrbɪtoʊn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbɪtəʊn"
       }
     },
     "forms": {},
@@ -21768,7 +21768,7 @@
           {
             "id": "barbitone-noun-1",
             "definition": "a barbiturate used as a hypnotic",
-            "translation": "",
+            "translation": "巴比通（镇静剂）",
             "examples": []
           }
         ]
@@ -21776,8 +21776,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21816,10 +21816,10 @@
     "word": "barbu",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɑːrˈbuː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɑːbuː"
       }
     },
     "forms": {},
@@ -21832,7 +21832,7 @@
           {
             "id": "barbu-noun-1",
             "definition": "found along western Atlantic coast",
-            "translation": "",
+            "translation": "无须鳕",
             "examples": []
           }
         ]
@@ -21840,8 +21840,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "mavis-cron",
+      "updatedAt": 1751137200
     }
   },
   {

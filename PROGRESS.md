@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 342 | **← Backward**: v.json index 0 | **Updated**: 1751137200
+> **→ Forward**: b.json index 467 | **← Backward**: v.json index 0 | **Updated**: 1751137200
 
 ## 📊 Summary
 
@@ -22,7 +22,7 @@
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
 | a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
-| b.json | 3,601 | 1,091 | ██████░░░░░░░░░░░░░░ 30% | → in_progress |
+| b.json | 3,601 | 1,167 | ███████░░░░░░░░░░░░░ 32% | → in_progress |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
 | e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
@@ -53,7 +53,7 @@
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-b-0020 | b.json | 342–366 | ⬜ pending | — |
+| → Forward | F-b-0025 | b.json | 467–491 | ⬜ pending | — |
 | ← Backward | B-v-0046 | v.json | 0–0 | ⬜ pending | — |
 
 ## 📝 Last Batch
@@ -104,6 +104,11 @@
 | F-b-0012 | b.json | 265–289 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0013 | b.json | 290–314 | 25 | mavis-cron | mavis-cron | ✅ done |
 | F-b-0014 | b.json | 315–339 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0020 | b.json | 342–366 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0021 | b.json | 367–391 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0022 | b.json | 392–416 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0023 | b.json | 417–441 | 25 | mavis-cron | mavis-cron | ✅ done |
+| F-b-0024 | b.json | 442–466 | 25 | mavis-cron | mavis-cron | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
