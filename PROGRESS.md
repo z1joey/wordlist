@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **Cursor**: a.json → index 3320 | **Updated**: 1782532927
+> **Cursor**: a.json → index 3420 | **Updated**: 1782534660
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 18,990 |
-| Remaining | 45,877 |
-| Completion | 29.3% |
-| Current file | a.json (4,090 / 4,900) |
+| Reviewed & validated | 19,090 |
+| Remaining | 45,777 |
+| Completion | 29.4% |
+| Current file | a.json (4,190 / 4,900) |
 
 ## 📋 File Progress
 
@@ -18,7 +18,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,090 | █████████████████░░░ 83.5% | 🔄 in_progress |
+| a.json | 4,900 | 4,190 | █████████████████░░░ 85.5% | 🔄 in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -44,7 +44,7 @@
 | x.json | 92 | 0 | ···················· 0% | ⬜ pending |
 | y.json | 149 | 0 | ···················· 0% | ⬜ pending |
 | z.json | 139 | 0 | ···················· 0% | ⬜ pending |
-| **Total** | **64867** | **18990** | **29.3%** | |
+| **Total** | **64867** | **19090** | **29.4%** | |
 
 ## 🔄 Current Batch
 
@@ -82,6 +82,10 @@
 | a-0130 | a.json | 3245–3269 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0131 | a.json | 3270–3294 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | a-0132 | a.json | 3295–3319 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0133 | a.json | 3320–3344 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0134 | a.json | 3345–3369 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0135 | a.json | 3370–3394 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| a-0136 | a.json | 3395–3419 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursor is derived from actual data — always trust the data files over batch history.
 
