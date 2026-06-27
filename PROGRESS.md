@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 3995 | **← Backward**: x.json index 66 | **Updated**: 1782544147
+> **→ Forward**: a.json index 4070 | **← Backward**: x.json index 66 | **Updated**: 1751392235
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 4,767 |
-| Remaining | 60,100 |
-| Completion | 7.35% |
-| Forward agent | a.json (4,454 / 4,900) |
+| Reviewed & validated | 4,842 |
+| Remaining | 60,025 |
+| Completion | 7.46% |
+| Forward agent | a.json (4,529 / 4,900) |
 | Backward agent | x.json (25 / 92) |
 
 ## 📋 File Progress
@@ -21,7 +21,7 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,454 | █████████████████ 91% | → in_progress |
+| a.json | 4,900 | 4,529 | ██████████████████ 92% | → in_progress |
 | b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
@@ -47,19 +47,21 @@
 | x.json | 92 | 25 | ████████ 27% | ← in_progress |
 | y.json | 149 | 149 | ████████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **4,767** | **7.35%** | |
+| **Total** | **64,867** | **4,842** | **7.46%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0160 | a.json | 3995–4019 | ⬜ pending | — |
-| ← Backward | B-x-0001 | x.json | 91–67 | ✅ done | doubao-seed-2.0-lite |
+| → Forward | F-a-0163 | a.json | 4070–4094 | ⬜ pending | — |
+| ← Backward | B-x-0002 | x.json | 66–42 | 🟡 working | doubao-seed-2.0-lite |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| F-a-0160 to F-a-0162 | a.json | 3995–4069 | 75 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
+| F-a-0157 to F-a-0159 | a.json | 3920–3994 | 75 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | B-y-0001 to B-y-0005 | y.json | 148–24 | 125 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | F-a-0156 | a.json | 3895–3919 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 | F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
