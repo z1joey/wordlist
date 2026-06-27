@@ -43626,7 +43626,7 @@
           {
             "id": "wingspan-noun-1",
             "definition": "linear distance between the extremities of an airfoil",
-            "translation": "",
+            "translation": "翼展（鸟类两翅尖端的距离）",
             "examples": []
           }
         ]
@@ -43634,7 +43634,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -43642,10 +43642,10 @@
     "word": "wingspread",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪŋˌsprɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪŋˌsprɛd"
       }
     },
     "forms": {},
@@ -43660,7 +43660,7 @@
           {
             "id": "wingspread-noun-1",
             "definition": "linear distance between the extremities of an airfoil",
-            "translation": "",
+            "translation": "翼展（鸟类或昆虫两翅展开的距离）",
             "examples": [
               {
                 "text": "This plane has a huge wingspread.",
@@ -43671,7 +43671,7 @@
           {
             "id": "wingspread-noun-2",
             "definition": "distance between the tips of the wings, as of a bird or insect, when fully extended",
-            "translation": "",
+            "translation": "展翅；扩展",
             "examples": [
               {
                 "text": "Eagles have large wingspreads.",
@@ -43684,7 +43684,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -43692,10 +43692,10 @@
     "word": "wingstem",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪŋˌstɛm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪŋˌstɛm"
       }
     },
     "forms": {},
@@ -43708,7 +43708,7 @@
           {
             "id": "wingstem-noun-1",
             "definition": "perennial herb with showy yellow flowers",
-            "translation": "",
+            "translation": "翼茎草（菊科灌木植物，产于北美）",
             "examples": []
           }
         ]
@@ -43716,7 +43716,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -43756,19 +43756,19 @@
           {
             "id": "wink-noun-1",
             "definition": "a reflex that closes and opens the eyes rapidly",
-            "translation": "",
+            "translation": "眨眼；眼色（快速的眼睑开合）",
             "examples": []
           },
           {
             "id": "wink-noun-2",
             "definition": "closing one eye quickly as a signal",
-            "translation": "",
+            "translation": "瞬间；一眨眼（一瞬间的时间）",
             "examples": []
           },
           {
             "id": "wink-noun-3",
             "definition": "a very short time (as the time it takes the eye to blink or the heart to beat)",
-            "translation": "",
+            "translation": "眨眼；闪烁；瞬间",
             "examples": []
           }
         ]
@@ -43779,13 +43779,13 @@
           {
             "id": "wink-verb-1",
             "definition": "briefly shut the eyes",
-            "translation": "",
+            "translation": "眨眼；眼色（快速的眼睑开合）",
             "examples": []
           },
           {
             "id": "wink-verb-2",
             "definition": "signal by winking",
-            "translation": "",
+            "translation": "瞬间；一眨眼（一瞬间的时间）",
             "examples": [
               {
                 "text": "I winked at them.",
@@ -43802,7 +43802,7 @@
           {
             "id": "wink-verb-4",
             "definition": "gleam or glow intermittently",
-            "translation": "",
+            "translation": "wink",
             "examples": []
           }
         ]
@@ -43839,10 +43839,10 @@
     "word": "winker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪŋkər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪŋkə"
       }
     },
     "forms": {},
@@ -43857,13 +43857,13 @@
           {
             "id": "winker-noun-1",
             "definition": "blind consisting of a leather eyepatch sewn to the side of the halter that prevents a horse from seeing something on either side",
-            "translation": "",
+            "translation": "眨眼者；眨眼示意者",
             "examples": []
           },
           {
             "id": "winker-noun-2",
             "definition": "a person who winks",
-            "translation": "",
+            "translation": "转向灯；方向指示灯（马车或汽车的）",
             "examples": []
           }
         ]
@@ -43871,7 +43871,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -43879,10 +43879,10 @@
     "word": "winking",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪŋkɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪŋkɪŋ"
       }
     },
     "forms": {},
@@ -43898,7 +43898,7 @@
           {
             "id": "winking-adjective-1",
             "definition": "closing the eyes intermittently and rapidly",
-            "translation": "",
+            "translation": "眨眼的；闪烁的（快速开合的）",
             "examples": []
           }
         ]
@@ -43909,7 +43909,7 @@
           {
             "id": "winking-noun-1",
             "definition": "a reflex that closes and opens the eyes rapidly",
-            "translation": "",
+            "translation": "眨眼的；闪烁的（快速开合的）",
             "examples": []
           }
         ]
@@ -43922,7 +43922,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -43957,13 +43957,13 @@
           {
             "id": "winkle-noun-1",
             "definition": "edible marine gastropod",
-            "translation": "",
+            "translation": "海螺（可食用的海生螺类）",
             "examples": []
           },
           {
             "id": "winkle-noun-2",
             "definition": "small edible marine snail",
-            "translation": "",
+            "translation": "海螺肉；食用螺",
             "examples": []
           }
         ]
@@ -43980,13 +43980,13 @@
           {
             "id": "winkle-verb-2",
             "definition": "gleam or glow intermittently",
-            "translation": "",
+            "translation": "海螺肉；食用螺",
             "examples": []
           },
           {
             "id": "winkle-verb-3",
             "definition": "emit or reflect light in a flickering manner",
-            "translation": "",
+            "translation": "winkle",
             "examples": [
               {
                 "text": "Does a constellation twinkle more brightly than a single star?",
@@ -44012,10 +44012,10 @@
     "word": "winless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnlɪs"
       }
     },
     "forms": {},
@@ -44028,7 +44028,7 @@
           {
             "id": "winless-adjective-1",
             "definition": "having no wins",
-            "translation": "",
+            "translation": "未赢过的；全败的（从未获胜的）",
             "examples": [
               {
                 "text": "the team had a very disappointing winless season",
@@ -44041,7 +44041,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44119,13 +44119,13 @@
           {
             "id": "winning-adjective-1",
             "definition": "very attractive",
-            "translation": "",
+            "translation": "获胜的；赢的（在竞争或比赛中取胜的）",
             "examples": []
           },
           {
             "id": "winning-adjective-2",
             "definition": "having won",
-            "translation": "",
+            "translation": "迷人的；可爱的（具有吸引力的）",
             "examples": []
           }
         ]
@@ -44136,7 +44136,7 @@
           {
             "id": "winning-noun-1",
             "definition": "succeeding with great difficulty",
-            "translation": "",
+            "translation": "获胜的；赢的（在竞争或比赛中取胜的）",
             "examples": [
               {
                 "text": "winning is not everything",
@@ -44162,7 +44162,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44188,7 +44188,7 @@
           {
             "id": "winnings-noun-1",
             "definition": "something won (especially money)",
-            "translation": "",
+            "translation": "奖金；奖品（比赛中赢得的钱或物品）",
             "examples": []
           }
         ]
@@ -44196,7 +44196,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44229,7 +44229,7 @@
           {
             "id": "winnow-noun-1",
             "definition": "the act of separating grain from chaff",
-            "translation": "",
+            "translation": "簸谷；风选；筛选",
             "examples": [
               {
                 "text": "the winnowing was done by women",
@@ -44245,7 +44245,7 @@
           {
             "id": "winnow-verb-1",
             "definition": "blow away or off with a current of air",
-            "translation": "",
+            "translation": "簸谷；筛选；精选",
             "examples": [
               {
                 "text": "winnow chaff",
@@ -44256,7 +44256,7 @@
           {
             "id": "winnow-verb-2",
             "definition": "select desirable parts from a group or list",
-            "translation": "",
+            "translation": "簸谷；筛选；精选",
             "examples": []
           },
           {
@@ -44273,7 +44273,7 @@
           {
             "id": "winnow-verb-4",
             "definition": "blow on like wind",
-            "translation": "",
+            "translation": "簸谷；筛选；精选",
             "examples": [
               {
                 "text": "The wind was winnowing my hair.",
@@ -44303,10 +44303,10 @@
     "word": "winnowing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnoʊɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnəʊɪŋ"
       }
     },
     "forms": {},
@@ -44322,7 +44322,7 @@
           {
             "id": "winnowing-noun-1",
             "definition": "the act of separating grain from chaff",
-            "translation": "",
+            "translation": "簸谷；风选（用风分离谷粒和糠壳）",
             "examples": [
               {
                 "text": "the winnowing was done by women",
@@ -44344,7 +44344,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44352,10 +44352,10 @@
     "word": "wino",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪnoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪnəʊ"
       }
     },
     "forms": {},
@@ -44370,7 +44370,7 @@
           {
             "id": "wino-noun-1",
             "definition": "a chronic drinker",
-            "translation": "",
+            "translation": "酒鬼；醉汉（尤指喝葡萄酒成瘾的人）",
             "examples": []
           }
         ]
@@ -44378,7 +44378,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44404,7 +44404,7 @@
           {
             "id": "winsome-adjective-1",
             "definition": "charming in a childlike or naive way",
-            "translation": "",
+            "translation": "迷人的；可爱的；动人的（具有魅力和吸引力的）",
             "examples": []
           }
         ]
@@ -44412,7 +44412,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44420,10 +44420,10 @@
     "word": "winsomely",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnsəmli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnsəmlɪ"
       }
     },
     "forms": {},
@@ -44438,7 +44438,7 @@
           {
             "id": "winsomely-adverb-1",
             "definition": "in an engaging manner",
-            "translation": "",
+            "translation": "迷人地；可爱地；动人地",
             "examples": []
           }
         ]
@@ -44446,7 +44446,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44454,10 +44454,10 @@
     "word": "winsomeness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪnsəmnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪnsəmnəs"
       }
     },
     "forms": {},
@@ -44470,7 +44470,7 @@
           {
             "id": "winsomeness-noun-1",
             "definition": "childlike charm or appeal",
-            "translation": "",
+            "translation": "迷人的魅力；可爱动人（令人愉悦的吸引力和亲切感）",
             "examples": []
           }
         ]
@@ -44478,7 +44478,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44554,10 +44554,10 @@
     "word": "winterberry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪntərˌberi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪntəˌberɪ"
       }
     },
     "forms": {},
@@ -44572,7 +44572,7 @@
           {
             "id": "winterberry-noun-1",
             "definition": "deciduous shrub of southeastern and central United States",
-            "translation": "",
+            "translation": "美洲冬青（冬季结鲜红色浆果的灌木）",
             "examples": []
           }
         ]
@@ -44580,7 +44580,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44588,10 +44588,10 @@
     "word": "wintergreen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪntərˌɡriːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪntəˌɡriːn"
       }
     },
     "forms": {},
@@ -44611,7 +44611,7 @@
           {
             "id": "wintergreen-noun-1",
             "definition": "spicy red berrylike fruit",
-            "translation": "",
+            "translation": "白珠树属（杜鹃花科植物）",
             "examples": [
               {
                 "text": "source of wintergreen oil",
@@ -44622,13 +44622,13 @@
           {
             "id": "wintergreen-noun-2",
             "definition": "creeping shrub of eastern North America having white bell-shaped flowers followed by spicy red berrylike fruit and shiny aromatic leaves that yield wintergreen oil",
-            "translation": "",
+            "translation": "冬青油；冬青香精（从白珠树提取的芳香油）",
             "examples": []
           },
           {
             "id": "wintergreen-noun-3",
             "definition": "any of several evergreen perennials of the genus Pyrola",
-            "translation": "",
+            "translation": "白珠树；冬青；冬青油",
             "examples": []
           }
         ]
@@ -44636,7 +44636,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44644,10 +44644,10 @@
     "word": "winterise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪntərˌaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪntəraɪz"
       }
     },
     "forms": {},
@@ -44660,7 +44660,7 @@
           {
             "id": "winterise-verb-1",
             "definition": "prepare for winter",
-            "translation": "",
+            "translation": "为…作过冬准备（英式拼写）",
             "examples": [
               {
                 "text": "winterize cars",
@@ -44673,7 +44673,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44701,7 +44701,7 @@
           {
             "id": "winterize-verb-1",
             "definition": "prepare for winter",
-            "translation": "",
+            "translation": "为…作过冬准备；使适应冬季使用",
             "examples": [
               {
                 "text": "winterize cars",
@@ -44714,7 +44714,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44740,7 +44740,7 @@
           {
             "id": "wintertime-noun-1",
             "definition": "the coldest season of the year",
-            "translation": "",
+            "translation": "冬季；冬天",
             "examples": []
           }
         ]
@@ -44748,7 +44748,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -44756,10 +44756,10 @@
     "word": "wintery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪntəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪntərɪ"
       }
     },
     "forms": {},
@@ -44783,7 +44783,7 @@
           {
             "id": "wintery-adjective-2",
             "definition": "devoid of warmth and cordiality",
-            "translation": "",
+            "translation": "寒冷无情的；冷淡的",
             "examples": [
               {
                 "text": "Their wintry attitude was harsh.",
@@ -44831,7 +44831,7 @@
           {
             "id": "wintry-adjective-2",
             "definition": "devoid of warmth and cordiality",
-            "translation": "",
+            "translation": "冷淡的；冷漠的（态度不热情的）",
             "examples": [
               {
                 "text": "Their wintry attitude was harsh.",
@@ -44852,10 +44852,10 @@
     "word": "winy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪnɪ"
       }
     },
     "forms": {},
@@ -44870,7 +44870,7 @@
           {
             "id": "winy-adjective-1",
             "definition": "having the taste of wine",
-            "translation": "",
+            "translation": "葡萄酒味的；似酒的",
             "examples": [
               {
                 "text": "a rich winy taste",
@@ -44883,7 +44883,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45050,7 +45050,7 @@
           {
             "id": "wipeout-noun-1",
             "definition": "a spill in some sport, as a fall from a bicycle, while skiing or being capsized on a surfboard",
-            "translation": "",
+            "translation": "冲浪翻覆；落水（冲浪运动中失去平衡跌入水中）",
             "examples": [
               {
                 "text": "The wipeout looked like it hurt! ",
@@ -45061,7 +45061,7 @@
           {
             "id": "wipeout-noun-2",
             "definition": "an event (or the result of an event) that completely destroys something",
-            "translation": "",
+            "translation": "彻底失败；覆灭（全军覆没）",
             "examples": []
           }
         ]
@@ -45069,7 +45069,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45093,19 +45093,19 @@
           {
             "id": "wiper-noun-1",
             "definition": "a mechanical device that cleans the windshield",
-            "translation": "",
+            "translation": "雨刷；刮水器（汽车挡风玻璃上的清洁装置）",
             "examples": []
           },
           {
             "id": "wiper-noun-2",
             "definition": "contact consisting of a conducting arm that rotates over a series of fixed contacts and comes to rest on an outlet",
-            "translation": "",
+            "translation": "擦拭者；擦拭布",
             "examples": []
           },
           {
             "id": "wiper-noun-3",
             "definition": "a worker who wipes",
-            "translation": "",
+            "translation": "雨刷；擦拭者；抹布",
             "examples": []
           }
         ]
@@ -45113,7 +45113,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45360,10 +45360,10 @@
     "word": "wirehair",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrˌher"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəˌheə"
       }
     },
     "forms": {},
@@ -45376,7 +45376,7 @@
           {
             "id": "wirehair-noun-1",
             "definition": "a terrier with wiry hair",
-            "translation": "",
+            "translation": "硬毛猎狐犬（一种梗犬品种）",
             "examples": []
           }
         ]
@@ -45384,7 +45384,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45414,7 +45414,7 @@
           {
             "id": "wireless-adjective-1",
             "definition": "having no wires",
-            "translation": "",
+            "translation": "无线的；无线电的（不通过电线连接的）",
             "examples": [
               {
                 "text": "a wireless security system",
@@ -45430,25 +45430,25 @@
           {
             "id": "wireless-noun-1",
             "definition": "a communication system based on broadcasting electromagnetic waves",
-            "translation": "",
+            "translation": "无线的；无线电的（不通过电线连接的）",
             "examples": []
           },
           {
             "id": "wireless-noun-2",
             "definition": "an electronic receiver that detects and demodulates and amplifies transmitted signals",
-            "translation": "",
+            "translation": "无线电设备；无线电话",
             "examples": []
           },
           {
             "id": "wireless-noun-3",
             "definition": "transmission by radio waves",
-            "translation": "",
+            "translation": "无线电；无线设备",
             "examples": []
           },
           {
             "id": "wireless-noun-4",
             "definition": "medium for communication",
-            "translation": "",
+            "translation": "无线电；无线设备",
             "examples": []
           }
         ]
@@ -45456,7 +45456,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45464,10 +45464,10 @@
     "word": "wireman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəmən"
       }
     },
     "forms": {},
@@ -45482,7 +45482,7 @@
           {
             "id": "wireman-noun-1",
             "definition": "a worker who installs and repairs electric wiring",
-            "translation": "",
+            "translation": "线路工；架线工；电工（铺设或维护电线的工人）",
             "examples": []
           }
         ]
@@ -45490,7 +45490,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45498,10 +45498,10 @@
     "word": "wirer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəə"
       }
     },
     "forms": {},
@@ -45516,13 +45516,13 @@
           {
             "id": "wirer-noun-1",
             "definition": "a worker who installs and repairs electric wiring",
-            "translation": "",
+            "translation": "布线者；架线工（安装电线的人）",
             "examples": []
           },
           {
             "id": "wirer-noun-2",
             "definition": "someone who sends a telegram",
-            "translation": "",
+            "translation": "捕鸟器（用铁丝制作的陷阱）",
             "examples": []
           }
         ]
@@ -45530,7 +45530,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45562,7 +45562,7 @@
           {
             "id": "wiretap-noun-1",
             "definition": "the act of tapping a telephone or telegraph line to get information",
-            "translation": "",
+            "translation": "窃听；搭线窃听",
             "examples": []
           }
         ]
@@ -45589,10 +45589,10 @@
     "word": "wiretapper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrˌtæpər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəˌtæpə"
       }
     },
     "forms": {},
@@ -45607,7 +45607,7 @@
           {
             "id": "wiretapper-noun-1",
             "definition": "someone who wiretaps a telephone or telegraph wire",
-            "translation": "",
+            "translation": "窃听者；搭线窃听者（非法截取通讯的人）",
             "examples": []
           }
         ]
@@ -45615,7 +45615,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45623,10 +45623,10 @@
     "word": "wirework",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrˌwɜːrk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəˌwɜːk"
       }
     },
     "forms": {},
@@ -45641,7 +45641,7 @@
           {
             "id": "wirework-noun-1",
             "definition": "mesh netting made of wires",
-            "translation": "",
+            "translation": "金属丝工艺；铁丝网制品（用金属丝编织或制作的物品）",
             "examples": []
           }
         ]
@@ -45649,7 +45649,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45657,10 +45657,10 @@
     "word": "wireworm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrˌwɜːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪəˌwɜːm"
       }
     },
     "forms": {},
@@ -45673,7 +45673,7 @@
           {
             "id": "wireworm-noun-1",
             "definition": "wormlike larva of various elaterid beetles",
-            "translation": "",
+            "translation": "金针虫；线虫（叩头虫的幼虫，是农业害虫）",
             "examples": []
           }
         ]
@@ -45681,7 +45681,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45689,10 +45689,10 @@
     "word": "wiriness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪrɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪərɪnəs"
       }
     },
     "forms": {},
@@ -45705,7 +45705,7 @@
           {
             "id": "wiriness-noun-1",
             "definition": "the property of being lean and tough and sinewy",
-            "translation": "",
+            "translation": "精瘦；结实（身体瘦而有力）",
             "examples": []
           }
         ]
@@ -45713,7 +45713,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -45793,7 +45793,7 @@
           {
             "id": "wiry-adjective-2",
             "definition": "lean and sinewy",
-            "translation": "",
+            "translation": "精瘦的；坚韧的；钢丝般的",
             "examples": []
           },
           {
@@ -45995,7 +45995,7 @@
           {
             "id": "wiseacre-noun-1",
             "definition": "an upstart who makes conceited, sardonic, insolent comments",
-            "translation": "",
+            "translation": "自作聪明的人；自以为是者",
             "examples": []
           }
         ]
@@ -46003,7 +46003,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46011,10 +46011,10 @@
     "word": "wisecrack",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪzˌkræk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪzˌkræk"
       }
     },
     "forms": {
@@ -46033,7 +46033,7 @@
           {
             "id": "wisecrack-noun-1",
             "definition": "witty remark",
-            "translation": "",
+            "translation": "俏皮话；妙语；格言",
             "examples": []
           }
         ]
@@ -46099,10 +46099,10 @@
     "word": "wiseness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪznəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪznəs"
       }
     },
     "forms": {},
@@ -46117,13 +46117,13 @@
           {
             "id": "wiseness-noun-1",
             "definition": "the trait of utilizing knowledge and experience with common sense and insight",
-            "translation": "",
+            "translation": "明智；聪慧（古语或方言）",
             "examples": []
           },
           {
             "id": "wiseness-noun-2",
             "definition": "the quality of being prudent and sensible",
-            "translation": "",
+            "translation": "狡黠；机灵",
             "examples": []
           }
         ]
@@ -46131,7 +46131,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46139,10 +46139,10 @@
     "word": "wisenheimer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪzənˌhaɪmər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪzənˌhaɪmə"
       }
     },
     "forms": {},
@@ -46155,7 +46155,7 @@
           {
             "id": "wisenheimer-noun-1",
             "definition": "an upstart who makes conceited, sardonic, insolent comments",
-            "translation": "",
+            "translation": "自以为是的人；自作聪明者（故作高深的人）",
             "examples": []
           }
         ]
@@ -46163,7 +46163,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46171,10 +46171,10 @@
     "word": "wisent",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈviːzənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈviːzənt"
       }
     },
     "forms": {},
@@ -46189,7 +46189,7 @@
           {
             "id": "wisent-noun-1",
             "definition": "European bison having a smaller and higher head than the North American bison",
-            "translation": "",
+            "translation": "欧洲野牛（欧洲本土的野生牛科动物）",
             "examples": []
           }
         ]
@@ -46197,7 +46197,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46368,10 +46368,10 @@
     "word": "wishbone",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪʃˌboʊn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪʃˌbəʊn"
       }
     },
     "forms": {},
@@ -46384,7 +46384,7 @@
           {
             "id": "wishbone-noun-1",
             "definition": "the furcula of a domestic fowl",
-            "translation": "",
+            "translation": "许愿骨（禽类胸骨，民俗中两人各拉一端许愿）",
             "examples": []
           }
         ]
@@ -46392,7 +46392,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46419,13 +46419,13 @@
           {
             "id": "wishful-adjective-1",
             "definition": "desiring or striving for recognition or advancement",
-            "translation": "",
+            "translation": "渴望的；憧憬的（带有强烈愿望的）",
             "examples": []
           },
           {
             "id": "wishful-adjective-2",
             "definition": "having or expressing desire for something",
-            "translation": "",
+            "translation": "一厢情愿的（不切实际的期望）",
             "examples": []
           }
         ]
@@ -46433,7 +46433,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46441,10 +46441,10 @@
     "word": "wishfully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪʃfəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪʃfəlɪ"
       }
     },
     "forms": {},
@@ -46457,7 +46457,7 @@
           {
             "id": "wishfully-adverb-1",
             "definition": "in a wishful manner",
-            "translation": "",
+            "translation": "渴望地；憧憬地；一厢情愿地",
             "examples": [
               {
                 "text": "They wishfully indulged in dreams of fame.",
@@ -46470,7 +46470,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46478,10 +46478,10 @@
     "word": "wishfulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪʃfəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪʃfəlnəs"
       }
     },
     "forms": {},
@@ -46494,7 +46494,7 @@
           {
             "id": "wishfulness-noun-1",
             "definition": "an unrealistic yearning",
-            "translation": "",
+            "translation": "愿望；憧憬；渴望（一厢情愿的想法）",
             "examples": []
           }
         ]
@@ -46502,7 +46502,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46510,10 +46510,10 @@
     "word": "wishing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪʃɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪʃɪŋ"
       }
     },
     "forms": {},
@@ -46569,19 +46569,19 @@
           {
             "id": "wisp-noun-1",
             "definition": "a flock of snipe",
-            "translation": "",
+            "translation": "一缕；一小束（细长的少量）",
             "examples": []
           },
           {
             "id": "wisp-noun-2",
             "definition": "a small bundle of straw or hay",
-            "translation": "",
+            "translation": "轻微的迹象；蛛丝马迹",
             "examples": []
           },
           {
             "id": "wisp-noun-3",
             "definition": "a small person",
-            "translation": "",
+            "translation": "一缕；小束；轻微的迹象",
             "examples": [
               {
                 "text": "a mere wisp of a girl",
@@ -46592,7 +46592,7 @@
           {
             "id": "wisp-noun-4",
             "definition": "a small tuft or lock",
-            "translation": "",
+            "translation": "一缕；小束；轻微的迹象",
             "examples": [
               {
                 "text": "wisps of hair",
@@ -46605,7 +46605,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46613,10 +46613,10 @@
     "word": "wisplike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪspˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪspˌlaɪk"
       }
     },
     "forms": {},
@@ -46631,7 +46631,7 @@
           {
             "id": "wisplike-adjective-1",
             "definition": "thin and weak",
-            "translation": "",
+            "translation": "似细缕的；如一缕青烟般的",
             "examples": []
           }
         ]
@@ -46639,7 +46639,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46668,13 +46668,13 @@
           {
             "id": "wispy-adjective-1",
             "definition": "lacking clarity or distinctness",
-            "translation": "",
+            "translation": "纤细的；一缕缕的（细而模糊的）",
             "examples": []
           },
           {
             "id": "wispy-adjective-2",
             "definition": "thin and weak",
-            "translation": "",
+            "translation": "虚弱无力的（不健壮的）",
             "examples": [
               {
                 "text": "a wispy little fellow with small hands and feet- Edmund Wilson",
@@ -46687,7 +46687,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46695,10 +46695,10 @@
     "word": "wistaria",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪˈsteəriə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪˈstɑːriə"
       }
     },
     "forms": {},
@@ -46713,7 +46713,7 @@
           {
             "id": "wistaria-noun-1",
             "definition": "any flowering vine of the genus Wisteria",
-            "translation": "",
+            "translation": "紫藤（wisteria的旧拼写变体）",
             "examples": []
           }
         ]
@@ -46721,7 +46721,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46729,10 +46729,10 @@
     "word": "wisteria",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪˈstɪriə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪˈstɪəriə"
       }
     },
     "forms": {},
@@ -46747,7 +46747,7 @@
           {
             "id": "wisteria-noun-1",
             "definition": "any flowering vine of the genus Wisteria",
-            "translation": "",
+            "translation": "紫藤（豆科攀援藤本植物，花蓝紫色下垂）",
             "examples": []
           }
         ]
@@ -46755,7 +46755,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46784,7 +46784,7 @@
           {
             "id": "wistful-adjective-1",
             "definition": "showing pensive sadness",
-            "translation": "",
+            "translation": "惆怅的；渴望的；眷恋的",
             "examples": [
               {
                 "text": "the sensitive and wistful response of a poet to the gentler phases of beauty",
@@ -46797,7 +46797,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46821,7 +46821,7 @@
           {
             "id": "wistfully-adverb-1",
             "definition": "in a wistful manner",
-            "translation": "",
+            "translation": "惆怅地；渴望地；眷恋地",
             "examples": [
               {
                 "text": "I thought wistfully of my beloved when looking at their favorite outfit.",
@@ -46834,7 +46834,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46858,7 +46858,7 @@
           {
             "id": "wistfulness-noun-1",
             "definition": "a sadly pensive longing",
-            "translation": "",
+            "translation": "渴望；惆怅；眷恋",
             "examples": []
           }
         ]
@@ -46866,7 +46866,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -46956,25 +46956,25 @@
           {
             "id": "witch-noun-1",
             "definition": "a being (usually female) imagined to have special powers derived from the devil",
-            "translation": "",
+            "translation": "女巫；巫婆（据说会施魔法的女人）",
             "examples": []
           },
           {
             "id": "witch-noun-2",
             "definition": "a female sorcerer or magician",
-            "translation": "",
+            "translation": "丑老太婆；讨厌的女人（含贬义）",
             "examples": []
           },
           {
             "id": "witch-noun-3",
             "definition": "an ugly evil-looking old woman",
-            "translation": "",
+            "translation": "女巫；巫婆；迷人的女人",
             "examples": []
           },
           {
             "id": "witch-noun-4",
             "definition": "a believer in Wicca",
-            "translation": "",
+            "translation": "女巫；巫婆；迷人的女人",
             "examples": []
           }
         ]
@@ -46985,7 +46985,7 @@
           {
             "id": "witch-verb-1",
             "definition": "cast a spell over someone or something",
-            "translation": "",
+            "translation": "女巫；巫婆（据说会施魔法的女人）",
             "examples": []
           }
         ]
@@ -46993,7 +46993,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47019,7 +47019,7 @@
           {
             "id": "witchcraft-noun-1",
             "definition": "the art of sorcery",
-            "translation": "",
+            "translation": "巫术；魔法；妖术",
             "examples": []
           }
         ]
@@ -47027,7 +47027,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47035,10 +47035,10 @@
     "word": "witchery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃərɪ"
       }
     },
     "forms": {},
@@ -47053,7 +47053,7 @@
           {
             "id": "witchery-noun-1",
             "definition": "the art of sorcery",
-            "translation": "",
+            "translation": "巫术；魔法；魅力",
             "examples": []
           }
         ]
@@ -47061,7 +47061,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47069,10 +47069,10 @@
     "word": "witchgrass",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃˌɡræs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃˌɡrɑːs"
       }
     },
     "forms": {},
@@ -47085,13 +47085,13 @@
           {
             "id": "witchgrass-noun-1",
             "definition": "European grass spreading rapidly by creeping rhizomes",
-            "translation": "",
+            "translation": "匍匐冰草（一种恶性杂草）",
             "examples": []
           },
           {
             "id": "witchgrass-noun-2",
             "definition": "North American grass with slender brushy panicles",
-            "translation": "",
+            "translation": "（引申）令人讨厌的缠绕者",
             "examples": []
           }
         ]
@@ -47099,7 +47099,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47107,10 +47107,10 @@
     "word": "witching",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃɪŋ"
       }
     },
     "forms": {},
@@ -47125,7 +47125,7 @@
           {
             "id": "witching-adjective-1",
             "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
-            "translation": "",
+            "translation": "巫术的；魔法的（与女巫或魔法相关的）",
             "examples": []
           }
         ]
@@ -47136,7 +47136,7 @@
           {
             "id": "witching-noun-1",
             "definition": "the use or practice of witchcraft",
-            "translation": "",
+            "translation": "巫术的；魔法的（与女巫或魔法相关的）",
             "examples": []
           }
         ]
@@ -47144,7 +47144,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47152,10 +47152,10 @@
     "word": "witchlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtʃˌlaɪk"
       }
     },
     "forms": {},
@@ -47168,7 +47168,7 @@
           {
             "id": "witchlike-adjective-1",
             "definition": "being or having the character of witchcraft",
-            "translation": "",
+            "translation": "似女巫的；巫术般的；阴险的",
             "examples": []
           }
         ]
@@ -47176,7 +47176,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47184,10 +47184,10 @@
     "word": "withal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪˈðɔːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪˈðɔːl"
       }
     },
     "forms": {},
@@ -47202,13 +47202,13 @@
           {
             "id": "withal-adverb-1",
             "definition": "despite anything to the contrary (usually following a concession)",
-            "translation": "",
+            "translation": "此外；而且；加之（在已有基础上补充）",
             "examples": []
           },
           {
             "id": "withal-adverb-2",
             "definition": "together with this",
-            "translation": "",
+            "translation": "然而；但是（表示转折）",
             "examples": []
           }
         ]
@@ -47216,7 +47216,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47460,10 +47460,10 @@
     "word": "withdrawer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪðˈdrɔːər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪðˈdrɔːə"
       }
     },
     "forms": {},
@@ -47476,37 +47476,37 @@
           {
             "id": "withdrawer-noun-1",
             "definition": "a depositor who withdraws funds previously deposited",
-            "translation": "",
+            "translation": "撤退者；撤回者（从某处或某活动中退出的人）",
             "examples": []
           },
           {
             "id": "withdrawer-noun-2",
             "definition": "a student who withdraws from the educational institution in which he or she was enrolled",
-            "translation": "",
+            "translation": "提款人（从账户中取款的人）",
             "examples": []
           },
           {
             "id": "withdrawer-noun-3",
             "definition": "a contestant who withdraws from competition",
-            "translation": "",
+            "translation": "withdrawer",
             "examples": []
           },
           {
             "id": "withdrawer-noun-4",
             "definition": "a drug addict who is discontinuing the use of narcotics",
-            "translation": "",
+            "translation": "withdrawer",
             "examples": []
           },
           {
             "id": "withdrawer-noun-5",
             "definition": "an individualist who withdraws from social interaction",
-            "translation": "",
+            "translation": "withdrawer",
             "examples": []
           },
           {
             "id": "withdrawer-noun-6",
             "definition": "an authority who withdraws permission",
-            "translation": "",
+            "translation": "withdrawer",
             "examples": []
           }
         ]
@@ -47514,7 +47514,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47541,13 +47541,13 @@
           {
             "id": "withdrawn-adjective-1",
             "definition": "tending to reserve or introspection",
-            "translation": "",
+            "translation": "离群的；孤僻的；不善社交的（性格内向退缩的）",
             "examples": []
           },
           {
             "id": "withdrawn-adjective-2",
             "definition": "withdrawn from society",
-            "translation": "",
+            "translation": "撤回的；取出的（被取走或带回的）",
             "examples": []
           }
         ]
@@ -47555,7 +47555,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47563,10 +47563,10 @@
     "word": "withdrawnness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪðˈdrɔːnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪðˈdrɔːnəs"
       }
     },
     "forms": {},
@@ -47581,7 +47581,7 @@
           {
             "id": "withdrawnness-noun-1",
             "definition": "a disposition to be distant and unsympathetic in manner",
-            "translation": "",
+            "translation": "孤僻；沉默寡言（退缩、不愿与人交往的状态）",
             "examples": []
           }
         ]
@@ -47589,7 +47589,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47597,10 +47597,10 @@
     "word": "withe",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪð"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪð"
       }
     },
     "forms": {},
@@ -47615,13 +47615,13 @@
           {
             "id": "withe-noun-1",
             "definition": "band or rope made of twisted twigs or stems",
-            "translation": "",
+            "translation": "柳枝；细枝条（用于绑扎的细长枝条）",
             "examples": []
           },
           {
             "id": "withe-noun-2",
             "definition": "strong flexible twig",
-            "translation": "",
+            "translation": "用柳条捆扎（动词用法）",
             "examples": []
           }
         ]
@@ -47629,7 +47629,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47665,13 +47665,13 @@
           {
             "id": "wither-verb-1",
             "definition": "wither, as with a loss of moisture",
-            "translation": "",
+            "translation": "枯萎；凋谢（植物等失去水分而干枯）",
             "examples": []
           },
           {
             "id": "wither-verb-2",
             "definition": "lose freshness, vigor, or vitality",
-            "translation": "",
+            "translation": "衰弱；凋零（逐渐失去活力或影响力）",
             "examples": []
           }
         ]
@@ -47692,7 +47692,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47700,10 +47700,10 @@
     "word": "withered",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪðərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪðəd"
       }
     },
     "forms": {},
@@ -47718,13 +47718,13 @@
           {
             "id": "withered-adjective-1",
             "definition": "lean and wrinkled by shrinkage as from age or illness",
-            "translation": "",
+            "translation": "枯萎的；干瘪的（失去水分或生机的）",
             "examples": []
           },
           {
             "id": "withered-adjective-2",
             "definition": "(used especially of vegetation) having lost all moisture",
-            "translation": "",
+            "translation": "萎缩的；衰败的（身体部位因老化而萎缩的）",
             "examples": []
           }
         ]
@@ -47732,7 +47732,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47760,13 +47760,13 @@
           {
             "id": "withering-adjective-1",
             "definition": "wreaking or capable of wreaking complete destruction",
-            "translation": "",
+            "translation": "枯萎的；萎缩的（失去水分而干枯的）",
             "examples": []
           },
           {
             "id": "withering-adjective-2",
             "definition": "making light of",
-            "translation": "",
+            "translation": "使枯萎的；讽刺的（令人尴尬或羞愧的）",
             "examples": []
           }
         ]
@@ -47777,7 +47777,7 @@
           {
             "id": "withering-noun-1",
             "definition": "any weakening or degeneration (especially through lack of use)",
-            "translation": "",
+            "translation": "枯萎的；萎缩的（失去水分而干枯的）",
             "examples": []
           }
         ]
@@ -47785,7 +47785,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47793,10 +47793,10 @@
     "word": "witheringly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪðərɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪðərɪŋlɪ"
       }
     },
     "forms": {},
@@ -47809,7 +47809,7 @@
           {
             "id": "witheringly-adverb-1",
             "definition": "in a withering manner",
-            "translation": "",
+            "translation": "witheringly",
             "examples": [
               {
                 "text": "guns fired witheringly at the railroad cars",
@@ -47822,7 +47822,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47830,10 +47830,10 @@
     "word": "withers",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪðərz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪðəz"
       }
     },
     "forms": {},
@@ -47846,7 +47846,7 @@
           {
             "id": "withers-noun-1",
             "definition": "the highest part of the back at the base of the neck of various animals especially draft animals",
-            "translation": "",
+            "translation": "withers",
             "examples": []
           }
         ]
@@ -47854,7 +47854,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -47896,7 +47896,7 @@
           {
             "id": "withhold-verb-2",
             "definition": "retain and refrain from disbursing",
-            "translation": "",
+            "translation": "withhold",
             "examples": []
           }
         ]
@@ -47917,10 +47917,10 @@
     "word": "withholder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪðˈhoʊldər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪðˈhəʊldə"
       }
     },
     "forms": {},
@@ -47939,7 +47939,7 @@
           {
             "id": "withholder-noun-2",
             "definition": "a person who refrains from granting",
-            "translation": "",
+            "translation": "withholder",
             "examples": [
               {
                 "text": "a withholder of payments",
@@ -47976,13 +47976,13 @@
           {
             "id": "withholding-noun-1",
             "definition": "the act of deducting from an employee's salary",
-            "translation": "",
+            "translation": "扣缴；扣留（扣住不发）",
             "examples": []
           },
           {
             "id": "withholding-noun-2",
             "definition": "the act of holding back or keeping within your possession or control",
-            "translation": "",
+            "translation": "抑制；克制（情感或行动的抑制）",
             "examples": [
               {
                 "text": "They resented my withholding permission.",
@@ -47993,7 +47993,7 @@
           {
             "id": "withholding-noun-3",
             "definition": "income tax withheld from employees' wages and paid directly to the government by the employer",
-            "translation": "",
+            "translation": "withholding",
             "examples": []
           }
         ]
@@ -48006,7 +48006,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48160,10 +48160,10 @@
     "word": "withstander",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪðˈstændər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪðˈstændə"
       }
     },
     "forms": {},
@@ -48178,13 +48178,13 @@
           {
             "id": "withstander-noun-1",
             "definition": "a fighter who holds out against attack",
-            "translation": "",
+            "translation": "抵抗者；抗拒者（抵制或反抗的人）",
             "examples": []
           },
           {
             "id": "withstander-noun-2",
             "definition": "an opponent who resists with force or resolution",
-            "translation": "",
+            "translation": "耐受力（承受力）",
             "examples": [
               {
                 "text": "obstinate withstanders of innovation",
@@ -48197,7 +48197,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48205,10 +48205,10 @@
     "word": "withy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪði"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪðɪ"
       }
     },
     "forms": {},
@@ -48223,7 +48223,7 @@
           {
             "id": "withy-noun-1",
             "definition": "strong flexible twig",
-            "translation": "",
+            "translation": "柳枝；柳条（细长有韧性的枝条，用于绑扎）",
             "examples": []
           }
         ]
@@ -48231,7 +48231,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48257,7 +48257,7 @@
           {
             "id": "witless-adjective-1",
             "definition": "(of especially persons) lacking sense or understanding or judgment",
-            "translation": "",
+            "translation": "没有智慧的；愚蠢的；愚笨的",
             "examples": []
           }
         ]
@@ -48265,7 +48265,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48273,10 +48273,10 @@
     "word": "witloof",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtˌloʊf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtˌluːf"
       }
     },
     "forms": {},
@@ -48291,13 +48291,13 @@
           {
             "id": "witloof-noun-1",
             "definition": "young broad-leaved endive plant deprived of light to form a narrow whitish head",
-            "translation": "",
+            "translation": "菊苣（一种叶菜，可食用）",
             "examples": []
           },
           {
             "id": "witloof-noun-2",
             "definition": "widely cultivated herb with leaves valued as salad green",
-            "translation": "",
+            "translation": "菊苣根（可作为咖啡代用品）",
             "examples": []
           }
         ]
@@ -48305,7 +48305,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48444,10 +48444,10 @@
     "word": "witnesser",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtnɪsər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtnɪsə"
       }
     },
     "forms": {},
@@ -48462,7 +48462,7 @@
           {
             "id": "witnesser-noun-1",
             "definition": "someone who sees an event and reports what happened",
-            "translation": "",
+            "translation": "目击者；证人",
             "examples": []
           }
         ]
@@ -48470,7 +48470,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48517,10 +48517,10 @@
     "word": "wittgensteinian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɪtɡɛnˈʃaɪniən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌvɪtɡɛnˈʃaɪniən"
       }
     },
     "forms": {},
@@ -48533,7 +48533,7 @@
           {
             "id": "wittgensteinian-adjective-1",
             "definition": "in the manner of Ludwig Wittgenstein",
-            "translation": "",
+            "translation": "维特根斯坦哲学的；与维特根斯坦思想相关的",
             "examples": []
           }
         ]
@@ -48541,7 +48541,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48569,7 +48569,7 @@
           {
             "id": "witticism-noun-1",
             "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
-            "translation": "",
+            "translation": "俏皮话；妙语；打趣的话",
             "examples": [
               {
                 "text": "The aphorist was known for their witticisms.",
@@ -48582,7 +48582,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48590,10 +48590,10 @@
     "word": "wittily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪlɪ"
       }
     },
     "forms": {},
@@ -48606,7 +48606,7 @@
           {
             "id": "wittily-adverb-1",
             "definition": "in a clever and facetious manner",
-            "translation": "",
+            "translation": "机智地；俏皮地；诙谐地",
             "examples": [
               {
                 "text": "We wished they would wittily chime into our conversation.",
@@ -48619,7 +48619,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48627,10 +48627,10 @@
     "word": "wittiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪnəs"
       }
     },
     "forms": {},
@@ -48645,7 +48645,7 @@
           {
             "id": "wittiness-noun-1",
             "definition": "a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter",
-            "translation": "",
+            "translation": "机智；诙谐；妙语连珠",
             "examples": []
           }
         ]
@@ -48653,7 +48653,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48661,10 +48661,10 @@
     "word": "witting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtɪŋ"
       }
     },
     "forms": {},
@@ -48679,7 +48679,7 @@
           {
             "id": "witting-adjective-1",
             "definition": "aware or knowing",
-            "translation": "",
+            "translation": "知情的；故意的（有意识地知晓的）",
             "examples": [
               {
                 "text": "a witting tool of the Communists",
@@ -48690,7 +48690,7 @@
           {
             "id": "witting-adjective-2",
             "definition": "intentionally conceived",
-            "translation": "",
+            "translation": "有意的；故意的（有意图、有目的的）",
             "examples": []
           }
         ]
@@ -48698,7 +48698,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48724,7 +48724,7 @@
           {
             "id": "wittingly-adverb-1",
             "definition": "with full knowledge and deliberation",
-            "translation": "",
+            "translation": "故意地；知情地",
             "examples": [
               {
                 "text": "They wittingly deleted the references.",
@@ -48737,7 +48737,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48745,10 +48745,10 @@
     "word": "wittol",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪtəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪtɒl"
       }
     },
     "forms": {},
@@ -48761,7 +48761,7 @@
           {
             "id": "wittol-noun-1",
             "definition": "an archaic term for a cuckold who knows about his wife's infidelity but tolerates it",
-            "translation": "",
+            "translation": "甘愿戴绿帽子的丈夫（古语）",
             "examples": []
           }
         ]
@@ -48769,7 +48769,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48796,7 +48796,7 @@
           {
             "id": "witty-adjective-1",
             "definition": "combining clever conception and facetious expression",
-            "translation": "",
+            "translation": "机智的；诙谐的；妙趣横生的",
             "examples": [
               {
                 "text": "Your sermons were unpredictably witty and satirical while remaining eloquent.",
@@ -48809,7 +48809,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48817,10 +48817,10 @@
     "word": "wive",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "waɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "waɪv"
       }
     },
     "forms": {
@@ -48837,13 +48837,13 @@
           {
             "id": "wive-verb-1",
             "definition": "provide with a wife",
-            "translation": "",
+            "translation": "娶（妻）；为…娶妻",
             "examples": []
           },
           {
             "id": "wive-verb-2",
             "definition": "marry a woman, take a wife",
-            "translation": "",
+            "translation": "嫁人（女子出嫁）",
             "examples": []
           },
           {
@@ -48865,10 +48865,10 @@
     "word": "wivern",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪvɜːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪvɜːn"
       }
     },
     "forms": {},
@@ -48883,7 +48883,7 @@
           {
             "id": "wivern-noun-1",
             "definition": "a fire-breathing dragon used in medieval heraldry",
-            "translation": "",
+            "translation": "双足飞龙；维恩龙（欧洲纹章中的喷火双足龙形怪兽）",
             "examples": []
           }
         ]
@@ -48891,7 +48891,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48899,10 +48899,10 @@
     "word": "wiz",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɪz"
       }
     },
     "forms": {},
@@ -48917,7 +48917,7 @@
           {
             "id": "wiz-noun-1",
             "definition": "someone who is dazzlingly skilled in any field",
-            "translation": "",
+            "translation": "高手；行家（在某领域极具才能的人）",
             "examples": []
           }
         ]
@@ -48925,7 +48925,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48956,7 +48956,7 @@
           {
             "id": "wizard-adjective-1",
             "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
-            "translation": "",
+            "translation": "巫术的；男巫的",
             "examples": []
           }
         ]
@@ -48967,13 +48967,13 @@
           {
             "id": "wizard-noun-1",
             "definition": "someone who is dazzlingly skilled in any field",
-            "translation": "",
+            "translation": "男巫；术士；奇才",
             "examples": []
           },
           {
             "id": "wizard-noun-2",
             "definition": "one who practices magic or sorcery",
-            "translation": "",
+            "translation": "男巫；术士；奇才",
             "examples": []
           }
         ]
@@ -48981,7 +48981,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -48989,10 +48989,10 @@
     "word": "wizardly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪzərdli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪzədlɪ"
       }
     },
     "forms": {},
@@ -49007,7 +49007,7 @@
           {
             "id": "wizardly-adjective-1",
             "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
-            "translation": "",
+            "translation": "男巫的；巫术的",
             "examples": []
           }
         ]
@@ -49015,7 +49015,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49043,7 +49043,7 @@
           {
             "id": "wizardry-noun-1",
             "definition": "the practice of magic by a wizard",
-            "translation": "",
+            "translation": "巫术；魔法（使用魔法的能力或实践）",
             "examples": [
               {
                 "text": "The kids practiced wizardry with wands and brooms.",
@@ -49054,7 +49054,7 @@
           {
             "id": "wizardry-noun-2",
             "definition": "exceptional creative ability",
-            "translation": "",
+            "translation": "非凡技巧；精湛技艺（非魔法的出色技能）",
             "examples": []
           }
         ]
@@ -49062,7 +49062,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49090,7 +49090,7 @@
           {
             "id": "wizen-adjective-1",
             "definition": "lean and wrinkled by shrinkage as from age or illness",
-            "translation": "",
+            "translation": "枯萎的；干瘪的",
             "examples": []
           }
         ]
@@ -49098,7 +49098,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49126,7 +49126,7 @@
           {
             "id": "wizened-adjective-1",
             "definition": "lean and wrinkled by shrinkage as from age or illness",
-            "translation": "",
+            "translation": "干瘪的；枯萎的；布满皱纹的",
             "examples": []
           }
         ]
@@ -49134,7 +49134,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49142,10 +49142,10 @@
     "word": "wlan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪˌlæn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪˌlæn"
       }
     },
     "forms": {},
@@ -49158,7 +49158,7 @@
           {
             "id": "wlan-noun-1",
             "definition": "a local area network that uses high frequency radio signals to transmit and receive data over distances of a few hundred feet",
-            "translation": "",
+            "translation": "无线局域网（wireless local area network）",
             "examples": []
           }
         ]
@@ -49166,7 +49166,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49174,10 +49174,10 @@
     "word": "wmd",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌdʌbəljuːˈɛmˈdiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌdʌbəljuːˈɛmˈdiː"
       }
     },
     "forms": {},
@@ -49190,7 +49190,7 @@
           {
             "id": "wmd-noun-1",
             "definition": "a weapon that kills or injures civilian as well as military personnel (nuclear and chemical and biological weapons)",
-            "translation": "",
+            "translation": "大规模杀伤性武器（weapons of mass destruction）",
             "examples": []
           }
         ]
@@ -49198,7 +49198,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49206,10 +49206,10 @@
     "word": "woad",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "woʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wəʊd"
       }
     },
     "forms": {},
@@ -49222,13 +49222,13 @@
           {
             "id": "woad-noun-1",
             "definition": "any of several herbs of the genus Isatis",
-            "translation": "",
+            "translation": "菘蓝（可制作蓝色染料的植物）",
             "examples": []
           },
           {
             "id": "woad-noun-2",
             "definition": "a blue dyestuff obtained from the woad plant",
-            "translation": "",
+            "translation": "靛蓝色（由菘蓝提取的染料颜色）",
             "examples": []
           }
         ]
@@ -49236,7 +49236,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49244,10 +49244,10 @@
     "word": "woadwaxen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwoʊdˌwæksən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwəʊdˌwæksən"
       }
     },
     "forms": {},
@@ -49262,7 +49262,7 @@
           {
             "id": "woadwaxen-noun-1",
             "definition": "small Eurasian shrub having clusters of yellow flowers that yield a dye",
-            "translation": "",
+            "translation": "染料木（一种可提取蓝色染料的植物）",
             "examples": []
           }
         ]
@@ -49270,7 +49270,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49304,7 +49304,7 @@
           {
             "id": "wobble-noun-1",
             "definition": "an unsteady rocking motion",
-            "translation": "",
+            "translation": "摇晃；摆动（不稳定地移动）",
             "examples": []
           }
         ]
@@ -49315,7 +49315,7 @@
           {
             "id": "wobble-verb-1",
             "definition": "move unsteadily",
-            "translation": "",
+            "translation": "摇晃；摆动（不稳定地移动）",
             "examples": [
               {
                 "text": "My knees wobbled.",
@@ -49326,7 +49326,7 @@
           {
             "id": "wobble-verb-2",
             "definition": "to tremble or shake",
-            "translation": "",
+            "translation": "犹豫；动摇（立场或决心的不稳定）",
             "examples": [
               {
                 "text": "My voice wobbled with restrained emotion.",
@@ -49337,7 +49337,7 @@
           {
             "id": "wobble-verb-3",
             "definition": "move sideways or in an unsteady way",
-            "translation": "",
+            "translation": "摇晃；摆动",
             "examples": []
           }
         ]
@@ -49345,7 +49345,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49353,10 +49353,10 @@
     "word": "wobbler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɑːblər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒblə"
       }
     },
     "forms": {},
@@ -49369,7 +49369,7 @@
           {
             "id": "wobbler-noun-1",
             "definition": "something that wobbles",
-            "translation": "",
+            "translation": "摇摆者；摇摆物；不稳定的人",
             "examples": []
           }
         ]
@@ -49377,7 +49377,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49401,7 +49401,7 @@
           {
             "id": "wobbling-adjective-1",
             "definition": "(of sound) fluctuating unsteadily",
-            "translation": "",
+            "translation": "摇晃的；摆动的",
             "examples": [
               {
                 "text": "a low-pitched wobbling sound",
@@ -49414,7 +49414,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49440,7 +49440,7 @@
           {
             "id": "wobbly-adjective-1",
             "definition": "inclined to shake as from weakness or defect",
-            "translation": "",
+            "translation": "摇晃的；不稳定的",
             "examples": []
           }
         ]
@@ -49448,7 +49448,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49478,13 +49478,13 @@
           {
             "id": "woe-noun-1",
             "definition": "intense mournfulness",
-            "translation": "",
+            "translation": "悲伤；悲痛（深切的忧伤和痛苦）",
             "examples": []
           },
           {
             "id": "woe-noun-2",
             "definition": "misery resulting from affliction",
-            "translation": "",
+            "translation": "灾难；祸患（严重的不幸或困境）",
             "examples": []
           }
         ]
@@ -49497,7 +49497,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49535,7 +49535,7 @@
           {
             "id": "woebegone-adjective-2",
             "definition": "worn and broken down by hard use",
-            "translation": "",
+            "translation": "愁容满面的；哀伤的；凄凉的",
             "examples": []
           }
         ]
@@ -49610,7 +49610,7 @@
           {
             "id": "woefully-adverb-1",
             "definition": "in an unfortunate or deplorable manner",
-            "translation": "",
+            "translation": "悲哀地；不幸地；极度地（表示程度）",
             "examples": []
           }
         ]
@@ -49618,7 +49618,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49626,10 +49626,10 @@
     "word": "woefulness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwoʊfəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwəʊfəlnəs"
       }
     },
     "forms": {},
@@ -49644,7 +49644,7 @@
           {
             "id": "woefulness-noun-1",
             "definition": "intense mournfulness",
-            "translation": "",
+            "translation": "悲哀；悲惨；不幸",
             "examples": []
           }
         ]
@@ -49652,7 +49652,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49660,10 +49660,10 @@
     "word": "wog",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɒɡ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wɒɡ"
       }
     },
     "forms": {},
@@ -49676,7 +49676,7 @@
           {
             "id": "wog-noun-1",
             "definition": "(offensive British slang) term used by the British to refer to people of color from Africa or Asia",
-            "translation": "",
+            "translation": "小人物；小虫子（俚语，含贬义）",
             "examples": []
           }
         ]
@@ -49684,7 +49684,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49708,7 +49708,7 @@
           {
             "id": "wok-noun-1",
             "definition": "pan with a convex bottom",
-            "translation": "",
+            "translation": "镬；炒菜锅（中国式圆底锅）",
             "examples": []
           }
         ]
@@ -49716,7 +49716,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49724,10 +49724,10 @@
     "word": "wold",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "woʊld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wəʊld"
       }
     },
     "forms": {},
@@ -49740,7 +49740,7 @@
           {
             "id": "wold-noun-1",
             "definition": "a tract of open rolling country (especially upland)",
-            "translation": "",
+            "translation": "丘陵地；荒野（无树的丘陵地区）",
             "examples": []
           }
         ]
@@ -49748,7 +49748,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49834,10 +49834,10 @@
     "word": "wolfbane",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌbeɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌbeɪn"
       }
     },
     "forms": {},
@@ -49852,7 +49852,7 @@
           {
             "id": "wolfbane-noun-1",
             "definition": "poisonous Eurasian perennial herb with broad rounded leaves and yellow flowers and fibrous rootstock",
-            "translation": "",
+            "translation": "附子草；乌头（有毒植物）",
             "examples": []
           }
         ]
@@ -49860,7 +49860,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49868,10 +49868,10 @@
     "word": "wolffish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌfɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlˌfɪʃ"
       }
     },
     "forms": {},
@@ -49886,13 +49886,13 @@
           {
             "id": "wolffish-noun-1",
             "definition": "large elongate scaleless oceanic fishes with sharp teeth and a long dorsal fin that resembles a sail",
-            "translation": "",
+            "translation": "狼鱼（北大西洋深海鱼，学名Anarhichas）",
             "examples": []
           },
           {
             "id": "wolffish-noun-2",
             "definition": "large ferocious northern deep-sea food fishes with strong teeth and no pelvic fins",
-            "translation": "",
+            "translation": "狼鱼（另一种名称）",
             "examples": []
           }
         ]
@@ -49900,7 +49900,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49908,10 +49908,10 @@
     "word": "wolfhound",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌhaʊnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌhaʊnd"
       }
     },
     "forms": {},
@@ -49924,7 +49924,7 @@
           {
             "id": "wolfhound-noun-1",
             "definition": "the largest breed of dogs",
-            "translation": "",
+            "translation": "猎狼犬（一种大型犬，用于猎狼）",
             "examples": []
           }
         ]
@@ -49932,7 +49932,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49959,13 +49959,13 @@
           {
             "id": "wolfish-adjective-1",
             "definition": "devouring or craving food in great quantities",
-            "translation": "",
+            "translation": "狼似的；贪婪凶狠的",
             "examples": []
           },
           {
             "id": "wolfish-adjective-2",
             "definition": "resembling or characteristic (or considered characteristic) of a wolf",
-            "translation": "",
+            "translation": "狼似的；贪婪凶狠的",
             "examples": []
           }
         ]
@@ -49973,7 +49973,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -49981,10 +49981,10 @@
     "word": "wolfishly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfɪʃli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfɪʃlɪ"
       }
     },
     "forms": {},
@@ -49997,7 +49997,7 @@
           {
             "id": "wolfishly-adverb-1",
             "definition": "in the manner of a wolf",
-            "translation": "",
+            "translation": "贪婪地；凶狠地",
             "examples": []
           }
         ]
@@ -50005,7 +50005,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50013,10 +50013,10 @@
     "word": "wolflike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌlaɪk"
       }
     },
     "forms": {},
@@ -50031,7 +50031,7 @@
           {
             "id": "wolflike-adjective-1",
             "definition": "resembling or characteristic (or considered characteristic) of a wolf",
-            "translation": "",
+            "translation": "似狼的；贪婪的",
             "examples": [
               {
                 "text": "ran in wolflike packs",
@@ -50044,7 +50044,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50052,10 +50052,10 @@
     "word": "wolfman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌmæn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfˌmæn"
       }
     },
     "forms": {},
@@ -50070,7 +50070,7 @@
           {
             "id": "wolfman-noun-1",
             "definition": "a monster able to change appearance from human to wolf and back again",
-            "translation": "",
+            "translation": "狼人（人形狼怪）",
             "examples": []
           }
         ]
@@ -50078,7 +50078,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50086,10 +50086,10 @@
     "word": "wolfram",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfrəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfrəm"
       }
     },
     "forms": {},
@@ -50104,7 +50104,7 @@
           {
             "id": "wolfram-noun-1",
             "definition": "a heavy grey-white metallic element",
-            "translation": "",
+            "translation": "钨（化学元素，符号W）；铇",
             "examples": []
           }
         ]
@@ -50112,7 +50112,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50120,10 +50120,10 @@
     "word": "wolframite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfrəˌmaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfrəmaɪt"
       }
     },
     "forms": {},
@@ -50136,7 +50136,7 @@
           {
             "id": "wolframite-noun-1",
             "definition": "a mineral consisting of iron and manganese tungstate in crystalline form",
-            "translation": "",
+            "translation": "黑钨矿；钨锰铁矿（一种重要的钨矿石）",
             "examples": []
           }
         ]
@@ -50144,7 +50144,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50152,10 +50152,10 @@
     "word": "wolfsbane",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊlfsˌbeɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊlfsˌbeɪn"
       }
     },
     "forms": {},
@@ -50170,7 +50170,7 @@
           {
             "id": "wolfsbane-noun-1",
             "definition": "poisonous Eurasian perennial herb with broad rounded leaves and yellow flowers and fibrous rootstock",
-            "translation": "",
+            "translation": "附子草；狼毒（一种有毒植物，旧时常用于毒杀狼）",
             "examples": []
           }
         ]
@@ -50178,7 +50178,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50186,10 +50186,10 @@
     "word": "wollastonite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwʊləˈstəʊnaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwʊləˈstənaɪt"
       }
     },
     "forms": {},
@@ -50202,7 +50202,7 @@
           {
             "id": "wollastonite-noun-1",
             "definition": "a white or greyish mineral typically found in metamorphic limestone",
-            "translation": "",
+            "translation": "硅灰石（一种白色矿物，主要成分为硅酸钙）",
             "examples": []
           }
         ]
@@ -50219,7 +50219,7 @@
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50246,13 +50246,13 @@
           {
             "id": "wolverine-noun-1",
             "definition": "stocky shaggy-coated North American carnivorous mammal",
-            "translation": "",
+            "translation": "貂熊；狼獾（北美森林中的大型食肉动物，学名Gulo gulo）",
             "examples": []
           },
           {
             "id": "wolverine-noun-2",
             "definition": "musteline mammal of northern Eurasia",
-            "translation": "",
+            "translation": "（漫威角色）金刚狼",
             "examples": []
           }
         ]
@@ -50260,7 +50260,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50389,7 +50389,7 @@
           {
             "id": "womanhood-noun-2",
             "definition": "women as a class",
-            "translation": "",
+            "translation": "女性（总称）；女子成年期",
             "examples": [
               {
                 "text": "it's an insult to American womanhood",
@@ -50416,10 +50416,10 @@
     "word": "womanise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪz"
       }
     },
     "forms": {},
@@ -50434,7 +50434,7 @@
           {
             "id": "womanise-verb-1",
             "definition": "have amorous affairs",
-            "translation": "",
+            "translation": "玩弄女性（英式拼写）",
             "examples": []
           }
         ]
@@ -50442,7 +50442,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50450,10 +50450,10 @@
     "word": "womaniser",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪzə"
       }
     },
     "forms": {},
@@ -50468,7 +50468,7 @@
           {
             "id": "womaniser-noun-1",
             "definition": "a man who likes many women and has short sexual relationships with them",
-            "translation": "",
+            "translation": "玩弄女性者（英式拼写）",
             "examples": []
           }
         ]
@@ -50476,7 +50476,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50484,10 +50484,10 @@
     "word": "womanish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊmənɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊmənɪʃ"
       }
     },
     "forms": {},
@@ -50500,7 +50500,7 @@
           {
             "id": "womanish-adjective-1",
             "definition": "having characteristics associated with women and considered undesirable in men",
-            "translation": "",
+            "translation": "女子气的；女人似的（贬义，形容男子）",
             "examples": [
               {
                 "text": "womanish tears",
@@ -50513,7 +50513,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50521,10 +50521,10 @@
     "word": "womanishness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊmənɪʃnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊmənɪʃnəs"
       }
     },
     "forms": {},
@@ -50539,7 +50539,7 @@
           {
             "id": "womanishness-noun-1",
             "definition": "the trait of being effeminate (derogatory of a man)",
-            "translation": "",
+            "translation": "女子气；娘娘腔",
             "examples": []
           }
         ]
@@ -50547,7 +50547,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50555,10 +50555,10 @@
     "word": "womanize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪz"
       }
     },
     "forms": {
@@ -50577,7 +50577,7 @@
           {
             "id": "womanize-verb-1",
             "definition": "have amorous affairs",
-            "translation": "",
+            "translation": "玩弄女性；拈花惹草",
             "examples": []
           }
         ]
@@ -50585,7 +50585,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50593,10 +50593,10 @@
     "word": "womanizer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊməˌnaɪzə"
       }
     },
     "forms": {},
@@ -50612,7 +50612,7 @@
           {
             "id": "womanizer-noun-1",
             "definition": "a man who likes many women and has short sexual relationships with them",
-            "translation": "",
+            "translation": "玩弄女性者；拈花惹草的男人",
             "examples": []
           }
         ]
@@ -50620,7 +50620,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -50628,10 +50628,10 @@
     "word": "womankind",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʊmənˌkaɪnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwʊmənˌkaɪnd"
       }
     },
     "forms": {},
@@ -50644,7 +50644,7 @@
           {
             "id": "womankind-noun-1",
             "definition": "women as distinguished from men",
-            "translation": "",
+            "translation": "人类（女性）；女性群体（与男性相对的人类女性部分）",
             "examples": []
           }
         ]
@@ -50652,7 +50652,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
