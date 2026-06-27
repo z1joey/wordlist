@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4095 | **← Backward**: w.json index 580 | **Updated**: 1782553194
+> **→ Forward**: a.json in_progress | **← Backward**: w.json index 430 | **Updated**: 1782555072
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 5,530 |  (was 5,380; +150 this run: w.json +150, indices 730–581) |
-| Remaining | 59,337 |
-| Completion | 8.53% |
-| Forward agent | a.json (4,554 / 4,900) |
-| Backward agent | w.json (932 / 1,306) |
+| Reviewed & validated | 20,065 |
+| Remaining | 44,802 |
+| Completion | 30.93% |
+| Forward agent | a.json (4,467 / 4,900) |
+| Backward agent | w.json (874 / 1,306) |
 
 ## 📋 File Progress
 
@@ -21,68 +21,49 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,554 | ██████████████████ 93% | → in_progress |
-| b.json | 3,601 | 0 | ···················· 0% | ⬜ pending |
-| c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
-| d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
-| e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
-| f.json | 2,472 | 0 | ···················· 0% | ⬜ pending |
-| g.json | 1,990 | 0 | ···················· 0% | ⬜ pending |
-| h.json | 2,510 | 0 | ···················· 0% | ⬜ pending |
-| i.json | 2,686 | 0 | ···················· 0% | ⬜ pending |
-| j.json | 482 | 0 | ···················· 0% | ⬜ pending |
-| k.json | 588 | 0 | ···················· 0% | ⬜ pending |
-| l.json | 2,083 | 0 | ···················· 0% | ⬜ pending |
-| m.json | 3,549 | 0 | ···················· 0% | ⬜ pending |
-| n.json | 1,598 | 0 | ···················· 0% | ⬜ pending |
-| o.json | 1,588 | 0 | ···················· 0% | ⬜ pending |
-| p.json | 5,427 | 0 | ···················· 0% | ⬜ pending |
-| q.json | 293 | 0 | ···················· 0% | ⬜ pending |
-| r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
-| s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
-| t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
-| u.json | 2,578 | 0 | ···················· 0% | ⬜ pending |
-| v.json | 1,058 | 0 | ···················· 0% | ⬜ pending |
-| w.json | 1,306 | 932 | ████████████████ 71% | ← in_progress |
-| x.json | 92 | 64 | ███████ 70% | ← in_progress |
+| a.json | 4,900 | 4,467 | ██████████████████ 91% | → in_progress |
+| b.json | 3,601 | 821 | ████ 23% | → in_progress |
+| c.json | 6,275 | 1,533 | ██████ 24% | → in_progress |
+| d.json | 3,729 | 966 | █████ 26% | → in_progress |
+| e.json | 2,639 | 722 | ███████ 27% | → in_progress |
+| f.json | 2,472 | 706 | ███████ 29% | → in_progress |
+| g.json | 1,990 | 454 | ██████ 23% | → in_progress |
+| h.json | 2,510 | 594 | ██████ 24% | → in_progress |
+| i.json | 2,686 | 700 | ██████ 26% | → in_progress |
+| j.json | 482 | 125 | ███████ 26% | → in_progress |
+| k.json | 588 | 96 | ████ 16% | → in_progress |
+| l.json | 2,083 | 509 | █████ 24% | → in_progress |
+| m.json | 3,549 | 838 | █████ 24% | → in_progress |
+| n.json | 1,598 | 375 | █████ 23% | → in_progress |
+| o.json | 1,588 | 387 | ██████ 24% | → in_progress |
+| p.json | 5,427 | 1,295 | █████ 24% | → in_progress |
+| q.json | 293 | 61 | █████ 21% | → in_progress |
+| r.json | 2,889 | 880 | ██████ 30% | → in_progress |
+| s.json | 7,019 | 1,798 | ██████ 26% | → in_progress |
+| t.json | 3,227 | 746 | █████ 23% | → in_progress |
+| u.json | 2,578 | 492 | ████ 19% | → in_progress |
+| v.json | 1,058 | 254 | █████ 24% | → in_progress |
+| w.json | 1,306 | 874 | ████████████ 67% | ← in_progress |
+| x.json | 92 | 84 | ███████████ 91% | ← in_progress |
 | y.json | 149 | 149 | ████████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ████████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **5,530** | **8.53%** | |
+| **Total** | **64,867** | **20,065** | **30.93%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0163 | a.json | 4070–4094 | ✅ done | doubao-seed-2.0-lite |
-| → Forward | F-a-0164 | a.json | 4095–4119 | 🟡 working | doubao-seed-2.0-lite |
-| ← Backward | B-w-0024 to B-w-0029 | w.json | 730–581 | 🟡 working | MiniMax-M2.7-highspeed |
+| ← Backward | B-w-0030 to B-w-0035 | w.json | 580–431 | ✅ done | MiniMax-M2.7-highspeed |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Status |
 |-------|------|-------|-------|--------|--------|
+| B-w-0030 to B-w-0035 | w.json | 580–431 | 150 | MiniMax-M2.7-highspeed | ✅ done |
 | B-w-0024 to B-w-0029 | w.json | 730–581 | 150 | MiniMax-M2.7-highspeed | ✅ done |
 | B-w-0018 to B-w-0023 | w.json | 880–731 | 150 | MiniMax-M2.7-highspeed | ✅ done |
 | B-w-0012 to B-w-0017 | w.json | 1030–881 | 150 | MiniMax-M2.7-highspeed | ✅ done |
 | B-w-0006 to B-w-0011 | w.json | 1180–1031 | 150 | MiniMax-M2.7-highspeed | ✅ done |
-| B-x-0002 | x.json | 66–42 | 25 | doubao-seed-2.0-lite | ✅ done |
-| B-x-0003 | x.json | 41–17 | 25 | MiniMax-M2.7-highspeed | ✅ done |
-| B-x-0004 | x.json | 16–0 | 17 | MiniMax-M2.7-highspeed | ✅ done |
-| B-w-0001 | w.json | 1305–1281 | 25 | MiniMax-M2.7-highspeed | ✅ done |
-| B-w-0002 | w.json | 1280–1256 | 25 | MiniMax-M2.7-highspeed | ✅ done |
-| B-w-0003 | w.json | 1255–1231 | 25 | MiniMax-M2.7-highspeed | ✅ done |
-| B-w-0004 | w.json | 1230–1206 | 25 | MiniMax-M2.7-highspeed | ✅ done |
-| F-a-0160 to F-a-0162 | a.json | 3995–4069 | 75 | MiniMax-M2.7-highspeed | ✅ done |
-| F-a-0157 to F-a-0159 | a.json | 3920–3994 | 75 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-y-0001 to B-y-0005 | y.json | 148–24 | 125 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| F-a-0156 | a.json | 3895–3919 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| F-a-0150 | a.json | 3745–3769 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0001 | z.json | 138–113 | 26 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0002 | z.json | 112–88 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0003 | z.json | 87–63 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0004 | z.json | 62–38 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0005 | z.json | 37–13 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-z-0006 | z.json | 12–0 | 13 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 

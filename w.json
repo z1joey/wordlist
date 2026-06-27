@@ -21892,7 +21892,7 @@
           {
             "id": "weekly-adjective-1",
             "definition": "of or occurring every seven days",
-            "translation": "天的",
+            "translation": "每周的；周刊的；按周计算的",
             "examples": [
               {
                 "text": "a weekly visit",
@@ -21924,7 +21924,7 @@
           {
             "id": "weekly-noun-1",
             "definition": "a periodical that is published every week (or 52 issues per year)",
-            "translation": "每周的",
+            "translation": "周刊；周报（每周出版一次的刊物）",
             "examples": []
           }
         ]
@@ -21956,7 +21956,7 @@
           {
             "id": "weeknight-noun-1",
             "definition": "any night of the week except Saturday or Sunday",
-            "translation": "",
+            "translation": "工作日的晚上；平日夜晚（周六日除外）",
             "examples": []
           }
         ]
@@ -21964,7 +21964,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -21972,10 +21972,10 @@
     "word": "weeness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːinəs"
       }
     },
     "forms": {},
@@ -21990,7 +21990,7 @@
           {
             "id": "weeness-noun-1",
             "definition": "the property of being very small in size",
-            "translation": "",
+            "translation": "微小；渺小（事物的性质）",
             "examples": []
           }
         ]
@@ -21998,7 +21998,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22006,10 +22006,10 @@
     "word": "weenie",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːnɪ"
       }
     },
     "forms": {},
@@ -22024,7 +22024,7 @@
           {
             "id": "weenie-noun-1",
             "definition": "a smooth-textured sausage of minced beef or pork usually smoked",
-            "translation": "",
+            "translation": "小红肠；熏香肠（牛肉或猪肉制成的烟熏香肠）",
             "examples": []
           }
         ]
@@ -22032,7 +22032,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22040,10 +22040,10 @@
     "word": "weensy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːnzi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːnsɪ"
       }
     },
     "forms": {},
@@ -22058,7 +22058,7 @@
           {
             "id": "weensy-adjective-1",
             "definition": "(used informally) very small",
-            "translation": "",
+            "translation": "极小的；微小的（非正式）",
             "examples": []
           }
         ]
@@ -22066,7 +22066,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22074,10 +22074,10 @@
     "word": "weeny",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːnɪ"
       }
     },
     "forms": {},
@@ -22092,7 +22092,7 @@
           {
             "id": "weeny-adjective-1",
             "definition": "(used informally) very small",
-            "translation": "",
+            "translation": "极小的；小小的（非正式，口语）",
             "examples": []
           }
         ]
@@ -22100,7 +22100,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22145,31 +22145,31 @@
     "phrases": [
       {
         "text": "weep about",
-        "translation": ""
+        "translation": "为…哭泣；因…而流泪"
       },
       {
         "text": "weep at",
-        "translation": ""
+        "translation": "为…哭泣；对…流泪"
       },
       {
         "text": "weep away",
-        "translation": ""
+        "translation": "不断哭泣；哭个不停"
       },
       {
         "text": "weep out",
-        "translation": ""
+        "translation": "哭诉；哭着说出"
       },
       {
         "text": "weep over",
-        "translation": ""
+        "translation": "为…悲伤；对…痛惜"
       },
       {
         "text": "weep through sorrow",
-        "translation": ""
+        "translation": "因悲伤而哭泣"
       },
       {
         "text": "weep with joy",
-        "translation": ""
+        "translation": "喜极而泣"
       }
     ],
     "metadata": {
@@ -22181,10 +22181,10 @@
     "word": "weeper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːpər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːpə"
       }
     },
     "forms": {},
@@ -22199,13 +22199,13 @@
           {
             "id": "weeper-noun-1",
             "definition": "a hired mourner",
-            "translation": "",
+            "translation": "受雇的哭丧人；职业吊丧者",
             "examples": []
           },
           {
             "id": "weeper-noun-2",
             "definition": "a person who weeps",
-            "translation": "",
+            "translation": "哭泣者；爱哭的人",
             "examples": []
           }
         ]
@@ -22213,7 +22213,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22221,10 +22221,10 @@
     "word": "weepiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːpɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːpɪnəs"
       }
     },
     "forms": {},
@@ -22239,7 +22239,7 @@
           {
             "id": "weepiness-noun-1",
             "definition": "sadness expressed by weeping",
-            "translation": "",
+            "translation": "爱哭；易哭；动不动就哭",
             "examples": []
           }
         ]
@@ -22247,7 +22247,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22278,13 +22278,13 @@
           {
             "id": "weeping-adjective-1",
             "definition": "having branches or flower heads that bend downward",
-            "translation": "",
+            "translation": "下垂的；垂枝的（植物）",
             "examples": []
           },
           {
             "id": "weeping-adjective-2",
             "definition": "showing sorrow",
-            "translation": "",
+            "translation": "悲哀的；悲伤的表情的",
             "examples": []
           }
         ]
@@ -22295,7 +22295,7 @@
           {
             "id": "weeping-noun-1",
             "definition": "the process of shedding tears (usually accompanied by sobs or other inarticulate sounds)",
-            "translation": "",
+            "translation": "哭泣；流泪",
             "examples": []
           }
         ]
@@ -22303,7 +22303,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22311,10 +22311,10 @@
     "word": "weepy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːpi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːpɪ"
       }
     },
     "forms": {},
@@ -22327,7 +22327,7 @@
           {
             "id": "weepy-adjective-1",
             "definition": "liable to weep easily",
-            "translation": "",
+            "translation": "爱哭的；动不动就哭的",
             "examples": []
           }
         ]
@@ -22335,7 +22335,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22359,7 +22359,7 @@
           {
             "id": "weevil-noun-1",
             "definition": "any of several families of mostly small beetles that feed on plants and plant products",
-            "translation": "",
+            "translation": "象鼻虫；豆象（鞘翅目害虫）",
             "examples": []
           }
         ]
@@ -22367,7 +22367,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22375,10 +22375,10 @@
     "word": "weewee",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːwiː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːwiː"
       }
     },
     "forms": {},
@@ -22393,7 +22393,7 @@
           {
             "id": "weewee-noun-1",
             "definition": "liquid excretory product",
-            "translation": "",
+            "translation": "小便；尿尿（委婉语）",
             "examples": []
           }
         ]
@@ -22401,7 +22401,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22427,7 +22427,7 @@
           {
             "id": "weft-noun-1",
             "definition": "the yarn woven across the warp yarn in weaving",
-            "translation": "",
+            "translation": "纬线；横向纱线（纺织）",
             "examples": []
           }
         ]
@@ -22435,7 +22435,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22443,10 +22443,10 @@
     "word": "weigela",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "waɪˈdʒiːlə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "waɪˈdʒiːlə"
       }
     },
     "forms": {},
@@ -22459,7 +22459,7 @@
           {
             "id": "weigela-noun-1",
             "definition": "deciduous shrub widely cultivated for its white or pink or red flowers",
-            "translation": "",
+            "translation": "锦带花；猥实属灌木（观赏植物）",
             "examples": []
           }
         ]
@@ -22467,7 +22467,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22506,13 +22506,13 @@
           {
             "id": "weigh-verb-1",
             "definition": "show consideration for",
-            "translation": "展示",
+            "translation": "称重；称…的重量；掂量",
             "examples": []
           },
           {
             "id": "weigh-verb-2",
             "definition": "have weight",
-            "translation": "称重",
+            "translation": "权衡；考虑（利弊）",
             "examples": [
               {
                 "text": "have import, carry weight",
@@ -22523,7 +22523,7 @@
           {
             "id": "weigh-verb-3",
             "definition": "to be oppressive or burdensome",
-            "translation": "称重",
+            "translation": "有分量；有影响力",
             "examples": [
               {
                 "text": "The possible outcomes weigh heavily on their minds.",
@@ -22534,7 +22534,7 @@
           {
             "id": "weigh-verb-4",
             "definition": "determine the weight of",
-            "translation": "称重",
+            "translation": "称得重量为…；重达",
             "examples": [
               {
                 "text": "The butcher weighed the chicken",
@@ -22545,7 +22545,7 @@
           {
             "id": "weigh-verb-5",
             "definition": "have a certain weight",
-            "translation": "称重",
+            "translation": "起航；出发（船）",
             "examples": []
           }
         ]
@@ -22558,7 +22558,7 @@
       },
       {
         "text": "weigh by volume",
-        "translation": ""
+        "translation": "按体积计量"
       },
       {
         "text": "weigh down",
@@ -22566,15 +22566,15 @@
       },
       {
         "text": "weigh in",
-        "translation": ""
+        "translation": "称重；参加比赛前量体重"
       },
       {
         "text": "weigh in at",
-        "translation": ""
+        "translation": "称重为…；重量为…"
       },
       {
         "text": "weigh in with",
-        "translation": ""
+        "translation": "提出（意见）；补充（观点）"
       },
       {
         "text": "weigh off",
@@ -22582,31 +22582,31 @@
       },
       {
         "text": "weigh on",
-        "translation": ""
+        "translation": "压在…上；使心情沉重"
       },
       {
         "text": "weigh on sb",
-        "translation": ""
+        "translation": "使某人感到压力/内疚"
       },
       {
         "text": "weigh on sth",
-        "translation": ""
+        "translation": "影响；作用于某事物"
       },
       {
         "text": "weigh out",
-        "translation": ""
+        "translation": "称出；量出（一定重量）"
       },
       {
         "text": "weigh up",
-        "translation": ""
+        "translation": "仔细考虑；权衡"
       },
       {
         "text": "weigh up the pros and cons",
-        "translation": ""
+        "translation": "权衡利弊"
       },
       {
         "text": "weigh with",
-        "translation": ""
+        "translation": "与…相称；与…比较"
       }
     ],
     "metadata": {
@@ -22618,10 +22618,10 @@
     "word": "weighbridge",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪˌbrɪdʒ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪbrɪdʒ"
       }
     },
     "forms": {},
@@ -22634,7 +22634,7 @@
           {
             "id": "weighbridge-noun-1",
             "definition": "platform scale flush with a roadway for weighing vehicles and cattle etc",
-            "translation": "",
+            "translation": "地秤；车辆衡；轨道衡（公路用称重设备）",
             "examples": []
           }
         ]
@@ -22642,7 +22642,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22650,10 +22650,10 @@
     "word": "weigher",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪə"
       }
     },
     "forms": {},
@@ -22666,7 +22666,7 @@
           {
             "id": "weigher-noun-1",
             "definition": "an official who weighs and records the weight",
-            "translation": "",
+            "translation": "称重员；过磅员；计量官",
             "examples": []
           }
         ]
@@ -22674,7 +22674,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -22682,10 +22682,10 @@
     "word": "weighing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪɪŋ"
       }
     },
     "forms": {},
@@ -22700,7 +22700,7 @@
           {
             "id": "weighing-noun-1",
             "definition": "careful consideration",
-            "translation": "称重",
+            "translation": "称重；衡重；测量重量",
             "examples": []
           }
         ]
@@ -22713,15 +22713,15 @@
       },
       {
         "text": "weighing by difference",
-        "translation": ""
+        "translation": "差减称量法"
       },
       {
         "text": "weighing by swings",
-        "translation": ""
+        "translation": "摆动称量法"
       },
       {
         "text": "weighing by transposition",
-        "translation": ""
+        "translation": "置换称量法"
       },
       {
         "text": "weighing down",
@@ -22729,19 +22729,19 @@
       },
       {
         "text": "weighing in",
-        "translation": ""
+        "translation": "称重；比赛前量体重"
       },
       {
         "text": "weighing into",
-        "translation": ""
+        "translation": "参与；介入（讨论）"
       },
       {
         "text": "weighing on",
-        "translation": ""
+        "translation": "压在身上；使心情沉重"
       },
       {
         "text": "weighing out",
-        "translation": ""
+        "translation": "称出；量出"
       }
     ],
     "metadata": {
@@ -22783,25 +22783,25 @@
           {
             "id": "weight-noun-1",
             "definition": "an artifact that is heavy",
-            "translation": "重量",
+            "translation": "重量；体重；分量",
             "examples": []
           },
           {
             "id": "weight-noun-2",
             "definition": "sports equipment used in calisthenic exercises and weightlifting",
-            "translation": "重量",
+            "translation": "砝码；秤砣",
             "examples": []
           },
           {
             "id": "weight-noun-3",
             "definition": "the vertical force exerted by a mass as a result of gravity",
-            "translation": "重量",
+            "translation": "重担；负担；压力",
             "examples": []
           },
           {
             "id": "weight-noun-4",
             "definition": "the relative importance granted to something",
-            "translation": "重量",
+            "translation": "重要性；分量；影响力",
             "examples": [
               {
                 "text": "Their opinion carries great weight.",
@@ -22812,7 +22812,7 @@
           {
             "id": "weight-noun-5",
             "definition": "an oppressive feeling of heavy force",
-            "translation": "重量",
+            "translation": "体重级别（运动员）",
             "examples": [
               {
                 "text": "bowed down by the weight of responsibility",
@@ -22823,7 +22823,7 @@
           {
             "id": "weight-noun-6",
             "definition": "a statistical coefficient assigned to elements of a frequency distribution in order to represent their relative importance",
-            "translation": "重量",
+            "translation": "加权值；权重（统计学）",
             "examples": [
               {
                 "text": "The weight placed on harmful outcomes was far larger than the weight placed on cost.",
@@ -22834,7 +22834,7 @@
           {
             "id": "weight-noun-7",
             "definition": "a unit used to measure weight",
-            "translation": "重量",
+            "translation": "重力；地球引力",
             "examples": [
               {
                 "text": "They placed two weights in the scale pan.",
@@ -22845,7 +22845,7 @@
           {
             "id": "weight-noun-8",
             "definition": "a system of units used to express the weight of something",
-            "translation": "重量",
+            "translation": "重块；镇纸；哑铃",
             "examples": []
           }
         ]
@@ -22856,13 +22856,13 @@
           {
             "id": "weight-verb-1",
             "definition": "present with a bias",
-            "translation": "现在的",
+            "translation": "加重量于…；使负重",
             "examples": []
           },
           {
             "id": "weight-verb-2",
             "definition": "weight down with a load",
-            "translation": "重量",
+            "translation": "使加权；赋予权重",
             "examples": []
           }
         ]
@@ -22875,31 +22875,31 @@
       },
       {
         "text": "weight at recruitment",
-        "translation": ""
+        "translation": "招募时的体重"
       },
       {
         "text": "weight at time of survey",
-        "translation": ""
+        "translation": "调查时的体重"
       },
       {
         "text": "weight by",
-        "translation": ""
+        "translation": "按…计量；根据…加权"
       },
       {
         "text": "weight by draft",
-        "translation": ""
+        "translation": "按吃水深度计量"
       },
       {
         "text": "weight by flow",
-        "translation": ""
+        "translation": "按流量加权"
       },
       {
         "text": "weight by volume",
-        "translation": ""
+        "translation": "按体积重量计费"
       },
       {
         "text": "weight by weight",
-        "translation": ""
+        "translation": "按重量（计费）"
       },
       {
         "text": "weight down",
@@ -22907,71 +22907,71 @@
       },
       {
         "text": "weight in average",
-        "translation": ""
+        "translation": "平均权重；平均重量"
       },
       {
         "text": "weight in excess",
-        "translation": ""
+        "translation": "超重；多余重量"
       },
       {
         "text": "weight in index",
-        "translation": ""
+        "translation": "指数权重"
       },
       {
         "text": "weight in lag scheme",
-        "translation": ""
+        "translation": "滞后方案权重"
       },
       {
         "text": "weight in least square",
-        "translation": ""
+        "translation": "最小二乘权重"
       },
       {
         "text": "weight in volume",
-        "translation": ""
+        "translation": "体积重量；体积比"
       },
       {
         "text": "weight in weight",
-        "translation": ""
+        "translation": "重量系数"
       },
       {
         "text": "weight in wet base",
-        "translation": ""
+        "translation": "湿基重量"
       },
       {
         "text": "weight in wet case",
-        "translation": ""
+        "translation": "湿重；湿态重量"
       },
       {
         "text": "weight in working order",
-        "translation": ""
+        "translation": "工作重量；运转重量"
       },
       {
         "text": "weight on bit",
-        "translation": ""
+        "translation": "钻头压力；钻压"
       },
       {
         "text": "weight on board",
-        "translation": ""
+        "translation": "船上重量"
       },
       {
         "text": "weight on drivers",
-        "translation": ""
+        "translation": "驱动轮轴重"
       },
       {
         "text": "weight on wheels",
-        "translation": ""
+        "translation": "轮上重量；轮载重"
       },
       {
         "text": "weight on wheels (wow)",
-        "translation": ""
+        "translation": "轮上重量（俚语）"
       },
       {
         "text": "weight to power ratio of solar array",
-        "translation": ""
+        "translation": "太阳能电池阵重功比"
       },
       {
         "text": "weight with",
-        "translation": ""
+        "translation": "加重物于…；用…增加重量"
       }
     ],
     "metadata": {
@@ -23001,7 +23001,7 @@
           {
             "id": "weighted-adjective-1",
             "definition": "adjusted to reflect value or proportion",
-            "translation": "重量",
+            "translation": "加权的；有权重的（统计学）",
             "examples": [
               {
                 "text": "Votes weighted according to the size of constituencies.",
@@ -23012,7 +23012,7 @@
           {
             "id": "weighted-adjective-2",
             "definition": "made heavy or weighted down with weariness",
-            "translation": "重量",
+            "translation": "受重力影响的；沉重的",
             "examples": [
               {
                 "text": "This situation is weighted.",
@@ -23026,15 +23026,15 @@
     "phrases": [
       {
         "text": "weighted in points method",
-        "translation": ""
+        "translation": "加权评分法"
       },
       {
         "text": "weighted round robin",
-        "translation": ""
+        "translation": "加权轮询调度"
       },
       {
         "text": "weighted round robin queuing",
-        "translation": ""
+        "translation": "加权轮询队列"
       }
     ],
     "metadata": {
@@ -23046,10 +23046,10 @@
     "word": "weightily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪtɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪtɪlɪ"
       }
     },
     "forms": {},
@@ -23064,7 +23064,7 @@
           {
             "id": "weightily-adverb-1",
             "definition": "as something very heavy",
-            "translation": "",
+            "translation": "沉重地；像重物一样地",
             "examples": [
               {
                 "text": "I moved weightily on my feet.",
@@ -23075,7 +23075,7 @@
           {
             "id": "weightily-adverb-2",
             "definition": "in a serious manner",
-            "translation": "",
+            "translation": "严肃地；郑重地",
             "examples": [
               {
                 "text": "the speech was weighty and it was weightily delivered",
@@ -23088,7 +23088,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23096,10 +23096,10 @@
     "word": "weightiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪtinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪtɪnəs"
       }
     },
     "forms": {},
@@ -23115,13 +23115,13 @@
           {
             "id": "weightiness-noun-1",
             "definition": "the property of being comparatively great in weight",
-            "translation": "",
+            "translation": "沉重；重量感；分量重",
             "examples": []
           },
           {
             "id": "weightiness-noun-2",
             "definition": "the relative importance granted to something",
-            "translation": "",
+            "translation": "重要性；重大（比喻义）",
             "examples": []
           }
         ]
@@ -23129,7 +23129,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23155,7 +23155,7 @@
           {
             "id": "weighting-noun-1",
             "definition": "(statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance",
-            "translation": "重量",
+            "translation": "配重；加权；加重",
             "examples": []
           }
         ]
@@ -23187,7 +23187,7 @@
           {
             "id": "weightless-adjective-1",
             "definition": "having little or no weight or apparent gravitational pull",
-            "translation": "",
+            "translation": "失重的；无重量的；在失重状态下",
             "examples": []
           }
         ]
@@ -23195,7 +23195,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23221,7 +23221,7 @@
           {
             "id": "weightlessness-noun-1",
             "definition": "the property of being comparatively small in weight",
-            "translation": "",
+            "translation": "失重；失重状态（太空感受）",
             "examples": []
           }
         ]
@@ -23229,7 +23229,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23237,10 +23237,10 @@
     "word": "weightlift",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪtˌlɪft"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪtlɪft"
       }
     },
     "forms": {},
@@ -23256,7 +23256,7 @@
           {
             "id": "weightlift-noun-1",
             "definition": "bodybuilding by exercise that involves lifting weights",
-            "translation": "",
+            "translation": "举重；举重运动",
             "examples": []
           }
         ]
@@ -23267,7 +23267,7 @@
           {
             "id": "weightlift-verb-1",
             "definition": "lift weights",
-            "translation": "举起重量",
+            "translation": "举重；进行举重",
             "examples": []
           }
         ]
@@ -23283,10 +23283,10 @@
     "word": "weightlifter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪtˌlɪftər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪtlɪftə"
       }
     },
     "forms": {},
@@ -23301,7 +23301,7 @@
           {
             "id": "weightlifter-noun-1",
             "definition": "an athlete who lifts barbells",
-            "translation": "",
+            "translation": "举重运动员；举重选手",
             "examples": []
           }
         ]
@@ -23309,7 +23309,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23335,7 +23335,7 @@
           {
             "id": "weightlifting-noun-1",
             "definition": "bodybuilding by exercise that involves lifting weights",
-            "translation": "",
+            "translation": "举重；举重运动",
             "examples": []
           }
         ]
@@ -23343,7 +23343,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23371,7 +23371,7 @@
           {
             "id": "weighty-adjective-1",
             "definition": "excessively fat",
-            "translation": "",
+            "translation": "重的；沉甸甸的；分量重的",
             "examples": [
               {
                 "text": "a weighty man",
@@ -23382,25 +23382,25 @@
           {
             "id": "weighty-adjective-2",
             "definition": "having relatively great weight",
-            "translation": "",
+            "translation": "沉重的；负担重的（精神上）",
             "examples": []
           },
           {
             "id": "weighty-adjective-3",
             "definition": "weighing heavily on the spirit",
-            "translation": "",
+            "translation": "有说服力的；有分量的；重要的",
             "examples": []
           },
           {
             "id": "weighty-adjective-4",
             "definition": "of great gravity or crucial import",
-            "translation": "进口的",
+            "translation": "重大的；关键的；严重的",
             "examples": []
           },
           {
             "id": "weighty-adjective-5",
             "definition": "powerfully persuasive",
-            "translation": "",
+            "translation": "具有说服力的；令人信服的",
             "examples": []
           }
         ]
@@ -23432,13 +23432,13 @@
           {
             "id": "weir-noun-1",
             "definition": "a low dam built across a stream to raise its level or divert its flow",
-            "translation": "",
+            "translation": "堰；水坝；拦河坝（在溪流中筑起以提高水位或分流）",
             "examples": []
           },
           {
             "id": "weir-noun-2",
             "definition": "a fence or wattle built across a stream to catch or retain fish",
-            "translation": "",
+            "translation": "鱼堰；拦鱼栅（横跨溪流拦截鱼类的栅栏）",
             "examples": []
           }
         ]
@@ -23447,19 +23447,19 @@
     "phrases": [
       {
         "text": "weir with a free fall",
-        "translation": ""
+        "translation": "自由跌水堰"
       },
       {
         "text": "weir with free fall",
-        "translation": ""
+        "translation": "自由跌水堰"
       },
       {
         "text": "weir with horizontal wooden sluice",
-        "translation": ""
+        "translation": "水平木闸门堰"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23492,13 +23492,13 @@
           {
             "id": "weird-adjective-1",
             "definition": "strikingly odd or unusual",
-            "translation": "",
+            "translation": "奇怪的；怪异的；不可思议的",
             "examples": []
           },
           {
             "id": "weird-adjective-2",
             "definition": "suggesting the operation of supernatural influences",
-            "translation": "",
+            "translation": "超自然的；神秘诡异的；令人毛骨悚然的",
             "examples": []
           }
         ]
@@ -23507,11 +23507,11 @@
     "phrases": [
       {
         "text": "weird out",
-        "translation": ""
+        "translation": "吓坏了；感到诡异（俚语）"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23519,10 +23519,10 @@
     "word": "weirdie",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪərdi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪədɪ"
       }
     },
     "forms": {},
@@ -23537,7 +23537,7 @@
           {
             "id": "weirdie-noun-1",
             "definition": "someone unpleasantly strange or eccentric",
-            "translation": "",
+            "translation": "怪人；古怪的家伙",
             "examples": []
           }
         ]
@@ -23545,7 +23545,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23553,10 +23553,10 @@
     "word": "weirdly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪərdli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪədlɪ"
       }
     },
     "forms": {},
@@ -23569,7 +23569,7 @@
           {
             "id": "weirdly-adverb-1",
             "definition": "in a weird manner",
-            "translation": "",
+            "translation": "奇怪地；古怪地；离奇地",
             "examples": [
               {
                 "text": "Some people thought I was dressed weirdly.",
@@ -23582,7 +23582,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23590,10 +23590,10 @@
     "word": "weirdness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪərdnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪədnəs"
       }
     },
     "forms": {},
@@ -23608,7 +23608,7 @@
           {
             "id": "weirdness-noun-1",
             "definition": "strikingly out of the ordinary",
-            "translation": "",
+            "translation": "奇怪；怪异；古怪",
             "examples": []
           }
         ]
@@ -23616,7 +23616,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23643,13 +23643,13 @@
           {
             "id": "weirdo-noun-1",
             "definition": "someone deranged and possibly dangerous",
-            "translation": "",
+            "translation": "怪人；行为古怪的人；疯子",
             "examples": []
           },
           {
             "id": "weirdo-noun-2",
             "definition": "someone unpleasantly strange or eccentric",
-            "translation": "",
+            "translation": "令人不快的人；行为异常者",
             "examples": []
           }
         ]
@@ -23657,7 +23657,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23665,10 +23665,10 @@
     "word": "weirdy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɪərdi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɪədɪ"
       }
     },
     "forms": {},
@@ -23683,7 +23683,7 @@
           {
             "id": "weirdy-noun-1",
             "definition": "someone unpleasantly strange or eccentric",
-            "translation": "",
+            "translation": "怪人（weirdie的变体）",
             "examples": []
           }
         ]
@@ -23691,7 +23691,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23699,10 +23699,10 @@
     "word": "weisenheimer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwaɪzənˌhaɪmər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwaɪzənˌhaɪmə"
       }
     },
     "forms": {},
@@ -23715,7 +23715,7 @@
           {
             "id": "weisenheimer-noun-1",
             "definition": "an upstart who makes conceited, sardonic, insolent comments",
-            "translation": "",
+            "translation": "自作聪明的人；自以为是者（戏谑）",
             "examples": []
           }
         ]
@@ -23723,7 +23723,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23731,10 +23731,10 @@
     "word": "weissbier",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvaɪsˌbɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvaɪsˌbɪə"
       }
     },
     "forms": {},
@@ -23747,7 +23747,7 @@
           {
             "id": "weissbier-noun-1",
             "definition": "a general name for beers made from wheat by top fermentation",
-            "translation": "",
+            "translation": "白啤酒（德语 Weissbier，小麦啤酒）",
             "examples": []
           }
         ]
@@ -23755,7 +23755,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23763,10 +23763,10 @@
     "word": "weizenbier",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvaɪtsənˌbɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈvaɪtsənˌbɪə"
       }
     },
     "forms": {},
@@ -23779,7 +23779,7 @@
           {
             "id": "weizenbier-noun-1",
             "definition": "a general name in southern Germany for wheat beers",
-            "translation": "",
+            "translation": "小麦啤酒（德语 Weizenbier）",
             "examples": [
               {
                 "text": "After cycling through Bavaria, I stopped for a nice glass of a local Weizenbier.",
@@ -23792,7 +23792,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23800,10 +23800,10 @@
     "word": "weka",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪkə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪkə"
       }
     },
     "forms": {},
@@ -23816,7 +23816,7 @@
           {
             "id": "weka-noun-1",
             "definition": "flightless New Zealand rail of thievish disposition having short wings each with a spur used in fighting",
-            "translation": "",
+            "translation": "新西兰木鸽；维卡鸟（新西兰特有鸟类）",
             "examples": []
           }
         ]
@@ -23824,7 +23824,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23832,10 +23832,10 @@
     "word": "welch",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɛltʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "weltʃ"
       }
     },
     "forms": {},
@@ -23850,7 +23850,7 @@
           {
             "id": "welch-verb-1",
             "definition": "cheat by avoiding payment of a gambling debt",
-            "translation": "",
+            "translation": "赖账；食言；背弃承诺（输了赌注不付款）",
             "examples": []
           }
         ]
@@ -23859,11 +23859,11 @@
     "phrases": [
       {
         "text": "welch on",
-        "translation": ""
+        "translation": "赖账；食言（背弃承诺）"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23871,10 +23871,10 @@
     "word": "welcher",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛltʃər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweltʃə"
       }
     },
     "forms": {},
@@ -23889,7 +23889,7 @@
           {
             "id": "welcher-noun-1",
             "definition": "someone who swindles you by not repaying a debt or wager",
-            "translation": "",
+            "translation": "赖账者；赌赖（不付款者）",
             "examples": []
           }
         ]
@@ -23897,7 +23897,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -23930,7 +23930,7 @@
           {
             "id": "welcome-adjective-1",
             "definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
-            "translation": "欢迎",
+            "translation": "受欢迎的；被欣然接受的",
             "examples": [
               {
                 "text": "a welcome relief",
@@ -23946,7 +23946,7 @@
           {
             "id": "welcome-noun-1",
             "definition": "a greeting or reception",
-            "translation": "欢迎",
+            "translation": "欢迎；款待；迎接",
             "examples": [
               {
                 "text": "the proposal got a warm welcome",
@@ -23973,7 +23973,7 @@
           {
             "id": "welcome-verb-1",
             "definition": "bid welcome to",
-            "translation": "欢迎",
+            "translation": "欢迎；迎接；款待",
             "examples": []
           },
           {
@@ -24003,31 +24003,31 @@
       },
       {
         "text": "welcome in",
-        "translation": ""
+        "translation": "欢迎…进入；迎接"
       },
       {
         "text": "welcome in the new year",
-        "translation": ""
+        "translation": "迎接新年"
       },
       {
         "text": "welcome to",
-        "translation": ""
+        "translation": "欢迎来到…"
       },
       {
         "text": "welcome to my life",
-        "translation": ""
+        "translation": "欢迎进入我的生活"
       },
       {
         "text": "welcome to the jungle",
-        "translation": ""
+        "translation": "欢迎来到丛林（欢迎来到残酷世界）"
       },
       {
         "text": "welcome with",
-        "translation": ""
+        "translation": "用…欢迎；以…迎接"
       },
       {
         "text": "welcome with open arms",
-        "translation": ""
+        "translation": "热烈欢迎；张开双臂欢迎"
       }
     ],
     "metadata": {
@@ -24039,10 +24039,10 @@
     "word": "welcomer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlkəmər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelkəmə"
       }
     },
     "forms": {},
@@ -24057,7 +24057,7 @@
           {
             "id": "welcomer-noun-1",
             "definition": "a person who greets",
-            "translation": "问候的人",
+            "translation": "欢迎者；迎接者；接待者",
             "examples": []
           }
         ]
@@ -24089,7 +24089,7 @@
           {
             "id": "welcoming-adjective-1",
             "definition": "very cordial",
-            "translation": "欢迎",
+            "translation": "欢迎的；热情接待的；好客的",
             "examples": [
               {
                 "text": "a welcoming smile",
@@ -24137,7 +24137,7 @@
           {
             "id": "weld-noun-1",
             "definition": "a metal joint formed by softening with heat and fusing or hammering together",
-            "translation": "焊接点",
+            "translation": "焊接点；焊缝",
             "examples": []
           },
           {
@@ -24154,7 +24154,7 @@
           {
             "id": "weld-verb-1",
             "definition": "unite closely or intimately",
-            "translation": "紧密结合",
+            "translation": "焊接；熔接；使结合",
             "examples": [
               {
                 "text": "Your gratitude welded me to you.",
@@ -24179,23 +24179,23 @@
     "phrases": [
       {
         "text": "weld in nozzle",
-        "translation": ""
+        "translation": "焊入喷嘴"
       },
       {
         "text": "weld into",
-        "translation": ""
+        "translation": "焊入；焊接进"
       },
       {
         "text": "weld on",
-        "translation": ""
+        "translation": "焊上；焊接在…上"
       },
       {
         "text": "weld on bottom",
-        "translation": ""
+        "translation": "焊在底部"
       },
       {
         "text": "weld up",
-        "translation": ""
+        "translation": "焊接；补焊"
       }
     ],
     "metadata": {
@@ -24223,7 +24223,7 @@
           {
             "id": "welder-noun-1",
             "definition": "joins pieces of metal by welding them together",
-            "translation": "",
+            "translation": "焊工；焊接机；气焊工",
             "examples": []
           }
         ]
@@ -24232,15 +24232,15 @@
     "phrases": [
       {
         "text": "welder with condenser",
-        "translation": ""
+        "translation": "带电容器的焊工"
       },
       {
         "text": "welder with taps",
-        "translation": ""
+        "translation": "带阀门的焊接工"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24264,7 +24264,7 @@
           {
             "id": "welding-noun-1",
             "definition": "fastening two pieces of metal together by softening with heat and applying pressure",
-            "translation": "",
+            "translation": "焊接；焊接作业；焊接工艺",
             "examples": []
           }
         ]
@@ -24273,59 +24273,59 @@
     "phrases": [
       {
         "text": "welding between pipe connect",
-        "translation": ""
+        "translation": "管接头焊接"
       },
       {
         "text": "welding by both sides",
-        "translation": ""
+        "translation": "双面焊接"
       },
       {
         "text": "welding by forging",
-        "translation": ""
+        "translation": "锻焊；锻接"
       },
       {
         "text": "welding by induction heating",
-        "translation": ""
+        "translation": "感应加热焊接"
       },
       {
         "text": "welding by one side",
-        "translation": ""
+        "translation": "单面焊接"
       },
       {
         "text": "welding on",
-        "translation": ""
+        "translation": "焊上"
       },
       {
         "text": "welding on bottom",
-        "translation": ""
+        "translation": "底板焊接"
       },
       {
         "text": "welding up",
-        "translation": ""
+        "translation": "补焊；焊满"
       },
       {
         "text": "welding with backing",
-        "translation": ""
+        "translation": "垫板焊接"
       },
       {
         "text": "welding with flux backing",
-        "translation": ""
+        "translation": "焊剂垫板焊接"
       },
       {
         "text": "welding with pressure",
-        "translation": ""
+        "translation": "加压焊接"
       },
       {
         "text": "welding with waving",
-        "translation": ""
+        "translation": "摆动焊接"
       },
       {
         "text": "welding with weaving",
-        "translation": ""
+        "translation": "运条焊接；蛇形焊接"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24333,10 +24333,10 @@
     "word": "weldment",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛldmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweldmənt"
       }
     },
     "forms": {},
@@ -24349,7 +24349,7 @@
           {
             "id": "weldment-noun-1",
             "definition": "an assembly of parts welded together",
-            "translation": "",
+            "translation": "焊接件；焊接组合件",
             "examples": []
           }
         ]
@@ -24357,7 +24357,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24394,7 +24394,7 @@
           {
             "id": "welfare-noun-1",
             "definition": "governmental provision of economic assistance to persons in need",
-            "translation": "福利",
+            "translation": "福利；社会救助；社会保障",
             "examples": [
               {
                 "text": "They are on welfare for the sake of their children.",
@@ -24405,7 +24405,7 @@
           {
             "id": "welfare-noun-2",
             "definition": "something that aids or promotes well-being",
-            "translation": "福利",
+            "translation": "幸福；安康（well-being的缩写）",
             "examples": []
           },
           {
@@ -24427,10 +24427,10 @@
     "word": "welfarist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlˌferɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelˌferɪst"
       }
     },
     "forms": {},
@@ -24443,7 +24443,7 @@
           {
             "id": "welfarist-adjective-1",
             "definition": "of or relating to a welfare state",
-            "translation": "状态的",
+            "translation": "福利主义的",
             "examples": []
           }
         ]
@@ -24459,10 +24459,10 @@
     "word": "welkin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlkɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelkɪn"
       }
     },
     "forms": {},
@@ -24477,7 +24477,7 @@
           {
             "id": "welkin-noun-1",
             "definition": "the apparent surface of the imaginary sphere on which celestial bodies appear to be projected",
-            "translation": "",
+            "translation": "天空；苍穹（诗歌用语）",
             "examples": []
           }
         ]
@@ -24485,7 +24485,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24526,13 +24526,13 @@
           {
             "id": "well-adjective-1",
             "definition": "wise or advantageous and hence advisable",
-            "translation": "好",
+            "translation": "健康的；身体好的；痊愈的",
             "examples": []
           },
           {
             "id": "well-adjective-2",
             "definition": "resulting favorably",
-            "translation": "好",
+            "translation": "恰当的；合适的",
             "examples": []
           },
           {
@@ -24554,7 +24554,7 @@
           {
             "id": "well-adverb-1",
             "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
-            "translation": "好",
+            "translation": "好；很好；满意地",
             "examples": [
               {
                 "text": "the children behaved well",
@@ -24565,7 +24565,7 @@
           {
             "id": "well-adverb-2",
             "definition": "without unusual distress or resentment",
-            "translation": "好",
+            "translation": "相当地；颇为",
             "examples": []
           },
           {
@@ -24682,7 +24682,7 @@
           {
             "id": "well-noun-1",
             "definition": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
-            "translation": "好",
+            "translation": "井；水井；油井",
             "examples": []
           },
           {
@@ -24745,7 +24745,7 @@
       },
       {
         "text": "well at ease",
-        "translation": ""
+        "translation": "舒适；放松；安心"
       },
       {
         "text": "well away",
@@ -24753,7 +24753,7 @@
       },
       {
         "text": "well before",
-        "translation": ""
+        "translation": "远在…之前"
       },
       {
         "text": "well down",
@@ -24761,11 +24761,11 @@
       },
       {
         "text": "well in",
-        "translation": ""
+        "translation": "精通；擅长；在…方面很好"
       },
       {
         "text": "well in advance",
-        "translation": ""
+        "translation": "提前；预先很久"
       },
       {
         "text": "well off",
@@ -24773,51 +24773,51 @@
       },
       {
         "text": "well on the beam",
-        "translation": ""
+        "translation": "正确；思路清晰（俚语）"
       },
       {
         "text": "well out",
-        "translation": ""
+        "translation": "涌出；流出"
       },
       {
         "text": "well out of",
-        "translation": ""
+        "translation": "巧妙地避开；远远超出"
       },
       {
         "text": "well out of it",
-        "translation": ""
+        "translation": "远远超出；巧妙地脱身"
       },
       {
         "text": "well out of rid of them",
-        "translation": ""
+        "translation": "远远超过；摆脱"
       },
       {
         "text": "well out of something",
-        "translation": ""
+        "translation": "远超某事物"
       },
       {
         "text": "well over",
-        "translation": ""
+        "translation": "远超；大大超过"
       },
       {
         "text": "well to do",
-        "translation": ""
+        "translation": "富裕；家境小康"
       },
       {
         "text": "well up",
-        "translation": ""
+        "translation": "涌起；涌现（情感）"
       },
       {
         "text": "well up for",
-        "translation": ""
+        "translation": "渴望；期待"
       },
       {
         "text": "well up in",
-        "translation": ""
+        "translation": "精通；在…方面很擅长"
       },
       {
         "text": "well up on",
-        "translation": ""
+        "translation": "对…很了解；精通"
       }
     ],
     "metadata": {
@@ -24849,7 +24849,7 @@
           {
             "id": "well-being-noun-1",
             "definition": "a contented state of being happy and healthy and prosperous",
-            "translation": "好存在",
+            "translation": "幸福；健康；安乐（身心良好的状态）",
             "examples": []
           }
         ]
@@ -24883,13 +24883,13 @@
           {
             "id": "well-groomed-adjective-1",
             "definition": "having your hair neatly brushed and combed",
-            "translation": "",
+            "translation": "发型整齐的；梳理整齐的（毛发）",
             "examples": []
           },
           {
             "id": "well-groomed-adjective-2",
             "definition": "having tasteful clothing and being scrupulously neat",
-            "translation": "",
+            "translation": "仪表整洁的；穿着考究的；一丝不苟的",
             "examples": []
           }
         ]
@@ -24897,7 +24897,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24924,13 +24924,13 @@
           {
             "id": "well-known-adjective-1",
             "definition": "frequently experienced",
-            "translation": "频繁地有经验的",
+            "translation": "频繁经历的；经常遇到的",
             "examples": []
           },
           {
             "id": "well-known-adjective-2",
             "definition": "widely or fully known",
-            "translation": "",
+            "translation": "著名的；众所周知的；熟知的",
             "examples": [
               {
                 "text": "a well-known politician",
@@ -24969,7 +24969,7 @@
           {
             "id": "wellbeing-noun-1",
             "definition": "a contented state of being happy and healthy and prosperous",
-            "translation": "",
+            "translation": "幸福；健康；安乐",
             "examples": []
           }
         ]
@@ -24977,7 +24977,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -24985,10 +24985,10 @@
     "word": "wellborn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwɛlˈbɔːrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwelˈbɔːn"
       }
     },
     "forms": {},
@@ -25001,7 +25001,7 @@
           {
             "id": "wellborn-adjective-1",
             "definition": "of good or upper-class lineage",
-            "translation": "上方的班级的",
+            "translation": "出身名门的；贵族出身的",
             "examples": [
               {
                 "text": "a rich and wellborn husband",
@@ -25022,10 +25022,10 @@
     "word": "wellerism",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlərˌɪzəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelərˌɪzəm"
       }
     },
     "forms": {},
@@ -25038,7 +25038,7 @@
           {
             "id": "wellerism-noun-1",
             "definition": "a comparison comprising a well-known quotation followed by a facetious sequel",
-            "translation": "",
+            "translation": "自我嘲讽式幽默（以自己的话回应别人的话）",
             "examples": []
           }
         ]
@@ -25046,7 +25046,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25054,10 +25054,10 @@
     "word": "wellhead",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlˌhɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelˌhed"
       }
     },
     "forms": {},
@@ -25072,13 +25072,13 @@
           {
             "id": "wellhead-noun-1",
             "definition": "a structure built over a well",
-            "translation": "",
+            "translation": "井口；井盖；井架",
             "examples": []
           },
           {
             "id": "wellhead-noun-2",
             "definition": "the source of water for a well",
-            "translation": "",
+            "translation": "泉源；源头；根源",
             "examples": []
           }
         ]
@@ -25087,11 +25087,11 @@
     "phrases": [
       {
         "text": "wellhead back pressure",
-        "translation": ""
+        "translation": "井口背压；井口回压（石油工程）"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25117,7 +25117,7 @@
           {
             "id": "wellness-noun-1",
             "definition": "a healthy state of wellbeing free from disease",
-            "translation": "",
+            "translation": "健康；身心健康（的状态）",
             "examples": []
           }
         ]
@@ -25125,7 +25125,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25133,10 +25133,10 @@
     "word": "wellpoint",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlˌpɔɪnt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelˌpɔɪnt"
       }
     },
     "forms": {},
@@ -25149,7 +25149,7 @@
           {
             "id": "wellpoint-noun-1",
             "definition": "a perforated tube driven into the ground to collect water from the surrounding area",
-            "translation": "",
+            "translation": "井点；集水点（工程降水术语）",
             "examples": []
           }
         ]
@@ -25157,7 +25157,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25165,10 +25165,10 @@
     "word": "wellspring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlˌsprɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelˌsprɪŋ"
       }
     },
     "forms": {},
@@ -25185,13 +25185,13 @@
           {
             "id": "wellspring-noun-1",
             "definition": "an abundant source",
-            "translation": "",
+            "translation": "泉源；水源；源源不断的供给",
             "examples": []
           },
           {
             "id": "wellspring-noun-2",
             "definition": "the source of water for a well",
-            "translation": "",
+            "translation": "根源；来源；宝库",
             "examples": []
           }
         ]
@@ -25199,7 +25199,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25247,7 +25247,7 @@
           {
             "id": "welsh-noun-1",
             "definition": "the Welsh language",
-            "translation": "",
+            "translation": "井口；水源地；源头",
             "examples": [
               {
                 "text": "The tourist could not understand the Welsh on the signs, but they could read the English text.",
@@ -25261,11 +25261,11 @@
     "phrases": [
       {
         "text": "welsh on",
-        "translation": ""
+        "translation": "赖账；食言（背弃承诺）"
       },
       {
         "text": "welsh on",
-        "translation": ""
+        "translation": "赖账；食言（背弃承诺）"
       }
     ],
     "metadata": {
@@ -25301,7 +25301,7 @@
           {
             "id": "welsh-verb-1",
             "definition": "cheat by avoiding payment of a gambling debt",
-            "translation": "",
+            "translation": "自我嘲讽式幽默（wellerism）",
             "examples": []
           }
         ]
@@ -25310,15 +25310,15 @@
     "phrases": [
       {
         "text": "welsh on",
-        "translation": ""
+        "translation": "赖账；食言（背弃承诺）"
       },
       {
         "text": "welsh on",
-        "translation": ""
+        "translation": "赖账；食言（背弃承诺）"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25326,10 +25326,10 @@
     "word": "welsher",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlʃər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelʃə"
       }
     },
     "forms": {},
@@ -25344,7 +25344,7 @@
           {
             "id": "welsher-noun-1",
             "definition": "someone who swindles you by not repaying a debt or wager",
-            "translation": "",
+            "translation": "出身名门的；贵族出身的",
             "examples": []
           }
         ]
@@ -25352,7 +25352,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25383,13 +25383,13 @@
           {
             "id": "welt-noun-1",
             "definition": "a raised or strengthened seam",
-            "translation": "",
+            "translation": "衬垫条；贴边（服装上的装饰条）",
             "examples": []
           },
           {
             "id": "welt-noun-2",
             "definition": "a raised mark on the skin (as produced by the blow of a whip)",
-            "translation": "",
+            "translation": "皮肤上被鞭子打出的红痕；鞭痕；肿痕",
             "examples": []
           }
         ]
@@ -25400,7 +25400,7 @@
           {
             "id": "welt-verb-1",
             "definition": "put a welt on",
-            "translation": "",
+            "translation": "给…加衬垫条",
             "examples": [
               {
                 "text": "welt the shoes",
@@ -25411,7 +25411,7 @@
           {
             "id": "welt-verb-2",
             "definition": "beat severely with a whip or rod",
-            "translation": "打",
+            "translation": "痛打；狠抽（用鞭子）",
             "examples": []
           }
         ]
@@ -25427,10 +25427,10 @@
     "word": "weltanschauung",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌvɛltˌɑːnˈʃaʊʊŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌveltˌɑːnˈʃaʊʊŋ"
       }
     },
     "forms": {},
@@ -25443,7 +25443,7 @@
           {
             "id": "weltanschauung-noun-1",
             "definition": "a comprehensive view of the world and human life",
-            "translation": "",
+            "translation": "世界观；人生观（德语）",
             "examples": []
           }
         ]
@@ -25451,7 +25451,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25484,7 +25484,7 @@
           {
             "id": "welter-noun-1",
             "definition": "a confused multitude of things",
-            "translation": "",
+            "translation": "混乱；杂乱；众多事物的混杂",
             "examples": []
           }
         ]
@@ -25495,7 +25495,7 @@
           {
             "id": "welter-verb-1",
             "definition": "be immersed in",
-            "translation": "",
+            "translation": "沉溺；浸没；浸泡（welter in something）",
             "examples": [
               {
                 "text": "welter in work",
@@ -25506,13 +25506,13 @@
           {
             "id": "welter-verb-2",
             "definition": "roll around, 'pigs were wallowing in the mud'",
-            "translation": "",
+            "translation": "打滚；翻滚（猪在泥里打滚）",
             "examples": []
           },
           {
             "id": "welter-verb-3",
             "definition": "toss, roll, or rise and fall in an uncontrolled way",
-            "translation": "",
+            "translation": "翻腾；剧烈起伏；汹涌澎湃",
             "examples": [
               {
                 "text": "The shipwrecked survivors weltered in the sea for hours",
@@ -25526,15 +25526,15 @@
     "phrases": [
       {
         "text": "welter in",
-        "translation": ""
+        "translation": "沉溺于；在…中打滚"
       },
       {
         "text": "welter in blood",
-        "translation": ""
+        "translation": "在血泊中翻滚"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25542,10 +25542,10 @@
     "word": "welterweight",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛltərˌweɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweltəˌweɪt"
       }
     },
     "forms": {},
@@ -25558,25 +25558,25 @@
           {
             "id": "welterweight-noun-1",
             "definition": "a professional boxer who weighs between 141 and 147 pounds",
-            "translation": "",
+            "translation": "次中量级职业拳击手（141-147磅）",
             "examples": []
           },
           {
             "id": "welterweight-noun-2",
             "definition": "a wrestler who weighs 154-172 pounds",
-            "translation": "",
+            "translation": "次中量级摔跤手（154-172磅）",
             "examples": []
           },
           {
             "id": "welterweight-noun-3",
             "definition": "an amateur boxer who weighs no more than 148 pounds",
-            "translation": "",
+            "translation": "次中量级业余拳击手（不超过148磅）",
             "examples": []
           },
           {
             "id": "welterweight-noun-4",
             "definition": "a weight of 28 pounds",
-            "translation": "",
+            "translation": "28磅的重量（古英国重量单位）",
             "examples": []
           }
         ]
@@ -25584,7 +25584,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25592,10 +25592,10 @@
     "word": "weltschmerz",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈvɛltˌʃmɛrts"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈveltˌʃmɜːts"
       }
     },
     "forms": {},
@@ -25608,7 +25608,7 @@
           {
             "id": "weltschmerz-noun-1",
             "definition": "sadness on thinking about the evils of the world",
-            "translation": "",
+            "translation": "悲观厌世；世界痛苦（德语，理想与现实不符的忧郁）",
             "examples": []
           }
         ]
@@ -25616,7 +25616,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25624,10 +25624,10 @@
     "word": "welwitschia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛlˌwɪtʃiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwelˌwɪtʃiə"
       }
     },
     "forms": {},
@@ -25640,7 +25640,7 @@
           {
             "id": "welwitschia-noun-1",
             "definition": "curious plant of arid regions of southwestern Africa having a yard-high and yard-wide trunk like a turnip with a deep taproot and two large persistent woody straplike leaves growing from the base",
-            "translation": "",
+            "translation": "百岁兰；千岁兰（非洲沙漠中的奇特耐旱植物）",
             "examples": []
           }
         ]
@@ -25648,7 +25648,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25656,10 +25656,10 @@
     "word": "wen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wɛn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wen"
       }
     },
     "forms": {},
@@ -25672,7 +25672,7 @@
           {
             "id": "wen-noun-1",
             "definition": "a common cyst of the skin",
-            "translation": "",
+            "translation": "粉瘤；皮脂腺囊肿（医学）",
             "examples": []
           }
         ]
@@ -25680,7 +25680,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25710,7 +25710,7 @@
           {
             "id": "wench-noun-1",
             "definition": "informal terms for a (young) woman",
-            "translation": "",
+            "translation": "嫖客（古语贬义）",
             "examples": []
           }
         ]
@@ -25721,7 +25721,7 @@
           {
             "id": "wench-verb-1",
             "definition": "frequent prostitutes",
-            "translation": "",
+            "translation": "嫖客（古语贬义）",
             "examples": []
           }
         ]
@@ -25729,7 +25729,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25737,10 +25737,10 @@
     "word": "wencher",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛntʃər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwentʃə"
       }
     },
     "forms": {},
@@ -25753,7 +25753,7 @@
           {
             "id": "wencher-noun-1",
             "definition": "someone who patronizes prostitutes",
-            "translation": "",
+            "translation": "乡间姑娘；侍女；（古语贬义）",
             "examples": []
           }
         ]
@@ -25761,7 +25761,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25789,7 +25789,7 @@
           {
             "id": "wend-verb-1",
             "definition": "direct one's course or way",
-            "translation": "",
+            "translation": "行走；缓行；前往（wend one's way = 漫步）",
             "examples": [
               {
                 "text": "wend your way through the crowds",
@@ -25802,7 +25802,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25810,10 +25810,10 @@
     "word": "werewolf",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwerˌwʊlf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweəwʊlf"
       }
     },
     "forms": {},
@@ -25829,7 +25829,7 @@
           {
             "id": "werewolf-noun-1",
             "definition": "a monster able to change appearance from human to wolf and back again",
-            "translation": "",
+            "translation": "狼人（传说中月圆时变成狼的人）",
             "examples": []
           }
         ]
@@ -25837,7 +25837,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -25845,10 +25845,10 @@
     "word": "wesleyan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛzliən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwezliən"
       }
     },
     "forms": {},
@@ -25863,7 +25863,7 @@
           {
             "id": "wesleyan-adjective-1",
             "definition": "of or pertaining to or characteristic of the branch of Protestantism adhering to the views of Wesley",
-            "translation": "观点的",
+            "translation": "卫理公会派的；约翰·卫斯理式的",
             "examples": []
           }
         ]
@@ -25901,7 +25901,7 @@
           {
             "id": "west-adjective-1",
             "definition": "situated in or facing or moving toward the west",
-            "translation": "西方",
+            "translation": "西方的；西部的；来自西边的",
             "examples": []
           }
         ]
@@ -25912,7 +25912,7 @@
           {
             "id": "west-adverb-1",
             "definition": "to, toward, or in the west",
-            "translation": "西方",
+            "translation": "向西；朝西；在西方",
             "examples": [
               {
                 "text": "we moved west to Arizona",
@@ -25928,7 +25928,7 @@
           {
             "id": "west-noun-1",
             "definition": "a location in the western part of a country, region, or city",
-            "translation": "西方",
+            "translation": "西方；西部；西边",
             "examples": []
           },
           {
@@ -25949,11 +25949,11 @@
     "phrases": [
       {
         "text": "west by north",
-        "translation": ""
+        "translation": "西偏北（航海罗盘方向）"
       },
       {
         "text": "west by south",
-        "translation": ""
+        "translation": "西偏南（航海罗盘方向）"
       }
     ],
     "metadata": {
@@ -25965,10 +25965,10 @@
     "word": "westbound",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛstˌbaʊnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestbaʊnd"
       }
     },
     "forms": {},
@@ -25983,7 +25983,7 @@
           {
             "id": "westbound-adjective-1",
             "definition": "moving toward the west",
-            "translation": "",
+            "translation": "西行的；向西驶去的（交通）",
             "examples": [
               {
                 "text": "westbound pioneers",
@@ -25996,7 +25996,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26004,10 +26004,10 @@
     "word": "wester",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwestər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestə"
       }
     },
     "forms": {},
@@ -26020,7 +26020,7 @@
           {
             "id": "wester-noun-1",
             "definition": "wind that blows from west to east",
-            "translation": "",
+            "translation": "西风；来自西方的风",
             "examples": []
           }
         ]
@@ -26028,7 +26028,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26036,10 +26036,10 @@
     "word": "westerly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwestərli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestəlɪ"
       }
     },
     "forms": {},
@@ -26055,13 +26055,13 @@
           {
             "id": "westerly-adjective-1",
             "definition": "moving toward the west",
-            "translation": "",
+            "translation": "向西的；来自西边的（风）",
             "examples": []
           },
           {
             "id": "westerly-adjective-2",
             "definition": "of wind",
-            "translation": "风的",
+            "translation": "西风的；吹西风的",
             "examples": []
           }
         ]
@@ -26072,7 +26072,7 @@
           {
             "id": "westerly-adverb-1",
             "definition": "from the west",
-            "translation": "",
+            "translation": "来自西方地；从西边",
             "examples": [
               {
                 "text": "the wind blew westerly",
@@ -26083,7 +26083,7 @@
           {
             "id": "westerly-adverb-2",
             "definition": "toward the west",
-            "translation": "",
+            "translation": "向西地；朝西方向",
             "examples": [
               {
                 "text": "we began to steer away westerly- Daniel Defoe",
@@ -26099,7 +26099,7 @@
           {
             "id": "westerly-noun-1",
             "definition": "the winds from the west that occur in the temperate zones of the Earth",
-            "translation": "",
+            "translation": "西风（温带地区从西边吹来的风）",
             "examples": []
           }
         ]
@@ -26137,7 +26137,7 @@
           {
             "id": "western-adjective-1",
             "definition": "lying toward or situated in the west",
-            "translation": "西方的",
+            "translation": "西方的；西部地区的；美国的",
             "examples": [
               {
                 "text": "our company's western office",
@@ -26148,19 +26148,19 @@
           {
             "id": "western-adjective-2",
             "definition": "of wind",
-            "translation": "风的",
+            "translation": "西风的；从西边吹来的",
             "examples": []
           },
           {
             "id": "western-adjective-3",
             "definition": "relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts",
-            "translation": "部分的",
+            "translation": "部分西方的；部分西化的",
             "examples": []
           },
           {
             "id": "western-adjective-4",
             "definition": "of or characteristic of regions of the United States west of the Mississippi River",
-            "translation": "河流的",
+            "translation": "河流西岸的（位于河流西侧）",
             "examples": []
           }
         ]
@@ -26171,7 +26171,7 @@
           {
             "id": "western-noun-1",
             "definition": "a sandwich made from a western omelet",
-            "translation": "西方的",
+            "translation": "西部片；西部电影",
             "examples": []
           }
         ]
@@ -26206,7 +26206,7 @@
           {
             "id": "westerner-noun-1",
             "definition": "an inhabitant of a western area",
-            "translation": "西方人",
+            "translation": "西方人；欧美人；住在西部的人",
             "examples": []
           }
         ]
@@ -26222,10 +26222,10 @@
     "word": "westernisation",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwestərnaɪˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwestənaɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -26238,7 +26238,7 @@
           {
             "id": "westernisation-noun-1",
             "definition": "assimilation of Western culture",
-            "translation": "",
+            "translation": "（英式）西方化；西化（等于westernization）",
             "examples": [
               {
                 "text": "Westernization has brought many changes in music to other parts of the world.",
@@ -26251,7 +26251,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26278,7 +26278,7 @@
           {
             "id": "westernise-verb-1",
             "definition": "make western in character",
-            "translation": "制造",
+            "translation": "（英式）使西方化；使西化",
             "examples": []
           }
         ]
@@ -26294,10 +26294,10 @@
     "word": "westernization",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwestərnɪˈzeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwestənaɪˈzeɪʃən"
       }
     },
     "forms": {},
@@ -26310,7 +26310,7 @@
           {
             "id": "westernization-noun-1",
             "definition": "assimilation of Western culture",
-            "translation": "",
+            "translation": "西方化；西化（吸收西方文化制度）",
             "examples": [
               {
                 "text": "Westernization has brought many changes in music to other parts of the world.",
@@ -26323,7 +26323,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26354,7 +26354,7 @@
           {
             "id": "westernize-verb-1",
             "definition": "make western in character",
-            "translation": "制造",
+            "translation": "使西方化；使西化",
             "examples": []
           }
         ]
@@ -26370,10 +26370,10 @@
     "word": "westernmost",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛstərnˌmoʊst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestənˌməʊst"
       }
     },
     "forms": {},
@@ -26388,7 +26388,7 @@
           {
             "id": "westernmost-adjective-1",
             "definition": "farthest to the west",
-            "translation": "",
+            "translation": "最西端的（western + most）",
             "examples": []
           }
         ]
@@ -26396,7 +26396,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26404,10 +26404,10 @@
     "word": "westmost",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛstˌmoʊst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestˌməʊst"
       }
     },
     "forms": {},
@@ -26422,7 +26422,7 @@
           {
             "id": "westmost-adjective-1",
             "definition": "farthest to the west",
-            "translation": "",
+            "translation": "最西端的；最西的",
             "examples": []
           }
         ]
@@ -26430,7 +26430,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26438,10 +26438,10 @@
     "word": "westside",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛstsaɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwestsɪd"
       }
     },
     "forms": {},
@@ -26499,7 +26499,7 @@
           {
             "id": "westward-adjective-1",
             "definition": "moving toward the west",
-            "translation": "",
+            "translation": "向西的；朝西的（形容词/副词）",
             "examples": []
           }
         ]
@@ -26510,7 +26510,7 @@
           {
             "id": "westward-adverb-1",
             "definition": "toward the west",
-            "translation": "",
+            "translation": "向西的；朝西的（形容词/副词）",
             "examples": [
               {
                 "text": "they traveled westward toward the setting sun",
@@ -26526,7 +26526,7 @@
           {
             "id": "westward-noun-1",
             "definition": "the cardinal compass point that is a 270 degrees",
-            "translation": "",
+            "translation": "向西的；朝西的（形容词/副词）",
             "examples": []
           }
         ]
@@ -26534,7 +26534,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26711,11 +26711,11 @@
       },
       {
         "text": "wet back boiler",
-        "translation": ""
+        "translation": "回热锅炉"
       },
       {
         "text": "wet behind the ears",
-        "translation": ""
+        "translation": "乳臭未干；幼稚；没经验"
       },
       {
         "text": "wet down",
@@ -26727,15 +26727,15 @@
       },
       {
         "text": "wet on dry",
-        "translation": ""
+        "translation": "湿对干（印刷术语）"
       },
       {
         "text": "wet on wet printing",
-        "translation": ""
+        "translation": "湿压湿印刷"
       },
       {
         "text": "wet out",
-        "translation": ""
+        "translation": "润湿；浸透"
       },
       {
         "text": "wet through",
@@ -26743,19 +26743,19 @@
       },
       {
         "text": "wet to the skin",
-        "translation": ""
+        "translation": "浑身湿透"
       },
       {
         "text": "wet up",
-        "translation": ""
+        "translation": "润湿；弄湿"
       },
       {
         "text": "wet with damp",
-        "translation": ""
+        "translation": "用潮气弄湿"
       },
       {
         "text": "wet with sweat",
-        "translation": ""
+        "translation": "汗湿；汗流浃背"
       }
     ],
     "metadata": {
@@ -26767,10 +26767,10 @@
     "word": "wetback",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛtˌbæk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwetˌbæk"
       }
     },
     "forms": {},
@@ -26785,7 +26785,7 @@
           {
             "id": "wetback-noun-1",
             "definition": "(ethnic slur) offensive term for a person of Mexican descent",
-            "translation": "",
+            "translation": "湿的；潮湿的；湿润的",
             "examples": []
           }
         ]
@@ -26793,7 +26793,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26801,10 +26801,10 @@
     "word": "wether",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweðər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweðə"
       }
     },
     "forms": {},
@@ -26817,7 +26817,7 @@
           {
             "id": "wether-noun-1",
             "definition": "male sheep especially a castrated one",
-            "translation": "",
+            "translation": "非法移民（贬义，边境用语）",
             "examples": []
           }
         ]
@@ -26825,7 +26825,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26851,7 +26851,7 @@
           {
             "id": "wetland-noun-1",
             "definition": "a low area where the land is saturated with water",
-            "translation": "",
+            "translation": "湿地；沼泽地（生态区）",
             "examples": []
           }
         ]
@@ -26859,7 +26859,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26867,10 +26867,10 @@
     "word": "wetness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛtnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwetnəs"
       }
     },
     "forms": {},
@@ -26883,7 +26883,7 @@
           {
             "id": "wetness-noun-1",
             "definition": "the condition of containing or being covered by a liquid, especially water",
-            "translation": "",
+            "translation": "潮湿；湿润（的状态）",
             "examples": [
               {
                 "text": "They confirmed the wetness of the swimming trunks.",
@@ -26896,7 +26896,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26904,10 +26904,10 @@
     "word": "wetnurse",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛtˌnɜːrs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwetˌnɜːs"
       }
     },
     "forms": {},
@@ -26922,7 +26922,7 @@
           {
             "id": "wetnurse-noun-1",
             "definition": "a woman hired to suckle a child of someone else",
-            "translation": "",
+            "translation": "奶妈；乳母（受雇喂养婴儿）",
             "examples": []
           }
         ]
@@ -26930,7 +26930,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26957,19 +26957,19 @@
           {
             "id": "wetter-noun-1",
             "definition": "someone suffering from enuresis",
-            "translation": "",
+            "translation": "更湿的（wet的比较级）",
             "examples": []
           },
           {
             "id": "wetter-noun-2",
             "definition": "a workman who wets the work in a manufacturing process",
-            "translation": "",
+            "translation": "润湿剂；降低液体表面张力的化学剂",
             "examples": []
           },
           {
             "id": "wetter-noun-3",
             "definition": "a chemical agent capable of reducing the surface tension of a liquid in which it is dissolved",
-            "translation": "",
+            "translation": "润湿剂；表面活性剂（降低液体表面张力的化学物质）",
             "examples": []
           }
         ]
@@ -26977,7 +26977,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -26985,10 +26985,10 @@
     "word": "wetting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwɛtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwetɪŋ"
       }
     },
     "forms": {},
@@ -27009,7 +27009,7 @@
           {
             "id": "wetting-noun-2",
             "definition": "a euphemism for urination",
-            "translation": "",
+            "translation": "排尿（委婉语；小便的礼貌说法）",
             "examples": []
           }
         ]
@@ -27048,7 +27048,7 @@
           {
             "id": "whack-noun-1",
             "definition": "the act of hitting vigorously",
-            "translation": "",
+            "translation": "重击；猛打；（俚）一份；尝试",
             "examples": [
               {
                 "text": "I gave the table a whack.",
@@ -27059,7 +27059,7 @@
           {
             "id": "whack-noun-2",
             "definition": "the sound made by a sharp swift blow",
-            "translation": "",
+            "translation": "猛击声；重击的响声；啪的一声",
             "examples": []
           }
         ]
@@ -27084,15 +27084,15 @@
     "phrases": [
       {
         "text": "whack off",
-        "translation": ""
+        "translation": "（粗俗）手淫；割断"
       },
       {
         "text": "whack out",
-        "translation": ""
+        "translation": "猛击；使震惊"
       },
       {
         "text": "whack up",
-        "translation": ""
+        "translation": "分摊；分配"
       }
     ],
     "metadata": {
@@ -27120,7 +27120,7 @@
           {
             "id": "whacked-adjective-1",
             "definition": "(British informal) exhausted or worn out",
-            "translation": "",
+            "translation": "疲惫的；累坏了的（口语）",
             "examples": []
           }
         ]
@@ -27129,19 +27129,19 @@
     "phrases": [
       {
         "text": "whacked off",
-        "translation": ""
+        "translation": "（俚）非常生气；恼火"
       },
       {
         "text": "whacked out",
-        "translation": ""
+        "translation": "筋疲力尽；累垮"
       },
       {
         "text": "whacked to the wide",
-        "translation": ""
+        "translation": "彻底疲惫；完全崩溃"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27149,10 +27149,10 @@
     "word": "whacker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwækər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækə"
       }
     },
     "forms": {},
@@ -27167,7 +27167,7 @@
           {
             "id": "whacker-noun-1",
             "definition": "something especially big or impressive of its kind",
-            "translation": "",
+            "translation": "大家伙；大谎言（俚语）",
             "examples": []
           }
         ]
@@ -27175,7 +27175,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27183,10 +27183,10 @@
     "word": "whacking",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwækɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækɪŋ"
       }
     },
     "forms": {},
@@ -27202,7 +27202,7 @@
           {
             "id": "whacking-adjective-1",
             "definition": "(British informal) enormous",
-            "translation": "",
+            "translation": "猛击的；极大的；猛烈的（口语）",
             "examples": [
               {
                 "text": "a whacking phone bill",
@@ -27234,7 +27234,7 @@
           {
             "id": "whacking-noun-1",
             "definition": "the act of inflicting corporal punishment with repeated blows",
-            "translation": "",
+            "translation": "猛击的；极大的；猛烈的（口语）",
             "examples": []
           }
         ]
@@ -27250,10 +27250,10 @@
     "word": "whacko",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwækoʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækəʊ"
       }
     },
     "forms": {},
@@ -27268,7 +27268,7 @@
           {
             "id": "whacko-noun-1",
             "definition": "a person who is regarded as eccentric or mad",
-            "translation": "",
+            "translation": "古怪的人；疯子（俚语）",
             "examples": []
           }
         ]
@@ -27276,7 +27276,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27284,10 +27284,10 @@
     "word": "whacky",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæki"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwækɪ"
       }
     },
     "forms": {},
@@ -27303,13 +27303,13 @@
           {
             "id": "whacky-adjective-1",
             "definition": "informal or slang terms for mentally irregular",
-            "translation": "",
+            "translation": "古怪的；疯狂可笑的（口语）",
             "examples": []
           },
           {
             "id": "whacky-adjective-2",
             "definition": "ludicrous, foolish",
-            "translation": "",
+            "translation": "荒唐的；愚蠢可笑的；可笑的",
             "examples": []
           }
         ]
@@ -27317,7 +27317,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27382,7 +27382,7 @@
     "phrases": [
       {
         "text": "whale at",
-        "translation": ""
+        "translation": "猛击；痛打"
       },
       {
         "text": "whale away",
@@ -27390,7 +27390,7 @@
       },
       {
         "text": "whale back steamer",
-        "translation": ""
+        "translation": "鲸背式蒸汽船"
       },
       {
         "text": "whale back vessel",
@@ -27398,15 +27398,15 @@
       },
       {
         "text": "whale in kiln colour",
-        "translation": ""
+        "translation": "窑干着色"
       },
       {
         "text": "whale into",
-        "translation": ""
+        "translation": "猛攻；痛打"
       },
       {
         "text": "whale on",
-        "translation": ""
+        "translation": "痛打；狠揍"
       }
     ],
     "metadata": {
@@ -27418,10 +27418,10 @@
     "word": "whaleboat",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪlboʊt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪlbəʊt"
       }
     },
     "forms": {},
@@ -27434,7 +27434,7 @@
           {
             "id": "whaleboat-noun-1",
             "definition": "a long narrow boat designed for quick turning and use in rough seas",
-            "translation": "",
+            "translation": "捕鲸艇；小型捕鲸船",
             "examples": []
           }
         ]
@@ -27442,7 +27442,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27450,10 +27450,10 @@
     "word": "whalebone",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪlboʊn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪlbəʊn"
       }
     },
     "forms": {},
@@ -27468,7 +27468,7 @@
           {
             "id": "whalebone-noun-1",
             "definition": "a horny material from the upper jaws of certain whales",
-            "translation": "",
+            "translation": "鲸须；鲸骨（工艺品材料）",
             "examples": []
           }
         ]
@@ -27476,7 +27476,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27484,10 +27484,10 @@
     "word": "whaler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪlə"
       }
     },
     "forms": {},
@@ -27500,13 +27500,13 @@
           {
             "id": "whaler-noun-1",
             "definition": "a ship engaged in whale fishing",
-            "translation": "",
+            "translation": "捕鲸人；鲸炮手",
             "examples": []
           },
           {
             "id": "whaler-noun-2",
             "definition": "a seaman who works on a ship that hunts whales",
-            "translation": "",
+            "translation": "捕鲸船员；鲸船水手（在捕鲸船上工作的船员）",
             "examples": []
           }
         ]
@@ -27514,7 +27514,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27522,10 +27522,10 @@
     "word": "whalesucker",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈweɪlˌsʌkər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈweɪlˌsʌkə"
       }
     },
     "forms": {},
@@ -27538,7 +27538,7 @@
           {
             "id": "whalesucker-noun-1",
             "definition": "large blue Pacific remora that attaches to whales and dolphins",
-            "translation": "",
+            "translation": "鲸鱼吸盘鱼（寄生鱼）",
             "examples": []
           }
         ]
@@ -27546,7 +27546,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27592,10 +27592,10 @@
     "word": "whammy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwæmi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwæmɪ"
       }
     },
     "forms": {},
@@ -27610,13 +27610,13 @@
           {
             "id": "whammy-noun-1",
             "definition": "an evil spell",
-            "translation": "",
+            "translation": "霉运；双重打击（口语）",
             "examples": []
           },
           {
             "id": "whammy-noun-2",
             "definition": "a serious or devastating setback",
-            "translation": "",
+            "translation": "沉重的打击；严重挫折；双重厄运（口语）",
             "examples": []
           }
         ]
@@ -27624,7 +27624,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27632,10 +27632,10 @@
     "word": "whang",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wæŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wæŋ"
       }
     },
     "forms": {
@@ -27654,7 +27654,7 @@
           {
             "id": "whang-noun-1",
             "definition": "the act of hitting vigorously",
-            "translation": "",
+            "translation": "猛敲；用力拉；（n）重击声",
             "examples": []
           }
         ]
@@ -27665,7 +27665,7 @@
           {
             "id": "whang-verb-1",
             "definition": "attack forcefully",
-            "translation": "",
+            "translation": "猛敲；用力拉；（n）重击声",
             "examples": [
               {
                 "text": "whang away at the school reform plan",
@@ -27676,7 +27676,7 @@
           {
             "id": "whang-verb-2",
             "definition": "propel or hit with force",
-            "translation": "",
+            "translation": "用力推；猛力击打；推进",
             "examples": [
               {
                 "text": "whang the ball",
@@ -27703,10 +27703,10 @@
     "word": "whap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wæp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wæp"
       }
     },
     "forms": {
@@ -27766,7 +27766,7 @@
           {
             "id": "wharf-noun-1",
             "definition": "a platform built out from the shore into the water and supported by piles",
-            "translation": "",
+            "translation": "码头；停泊处；靠岸",
             "examples": []
           }
         ]
@@ -27777,7 +27777,7 @@
           {
             "id": "wharf-verb-1",
             "definition": "moor at a wharf",
-            "translation": "",
+            "translation": "码头；停泊处；靠岸",
             "examples": [
               {
                 "text": "The ship was wharfed",
@@ -27788,7 +27788,7 @@
           {
             "id": "wharf-verb-2",
             "definition": "come into or dock at a wharf",
-            "translation": "",
+            "translation": "把…存入码头仓库",
             "examples": [
               {
                 "text": "the big ship wharfed in the evening",
@@ -27799,7 +27799,7 @@
           {
             "id": "wharf-verb-3",
             "definition": "discharge at a wharf",
-            "translation": "",
+            "translation": "为…建码头",
             "examples": [
               {
                 "text": "wharf the passengers",
@@ -27810,13 +27810,13 @@
           {
             "id": "wharf-verb-4",
             "definition": "store on a wharf",
-            "translation": "",
+            "translation": "把存放在码头仓库；在码头堆放货物",
             "examples": []
           },
           {
             "id": "wharf-verb-5",
             "definition": "provide with a wharf",
-            "translation": "",
+            "translation": "为建造码头；为提供码头设施",
             "examples": []
           }
         ]
@@ -27824,7 +27824,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27851,13 +27851,13 @@
           {
             "id": "wharfage-noun-1",
             "definition": "a platform built out from the shore into the water and supported by piles",
-            "translation": "",
+            "translation": "码头费；码头使用费",
             "examples": []
           },
           {
             "id": "wharfage-noun-2",
             "definition": "a fee charged for the use of a wharf or quay",
-            "translation": "",
+            "translation": "码头费；码头使用费；停泊费（使用码头设施的费用）",
             "examples": []
           }
         ]
@@ -27865,7 +27865,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27873,10 +27873,10 @@
     "word": "whatchamacallit",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwʌtʃəməˈkɔːlɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwɒtʃəməˈkɒlɪt"
       }
     },
     "forms": {},
@@ -27891,7 +27891,7 @@
           {
             "id": "whatchamacallit-noun-1",
             "definition": "something unspecified whose name is either forgotten or not known",
-            "translation": "",
+            "translation": "那个叫什么来着（东西）",
             "examples": []
           }
         ]
@@ -27899,7 +27899,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -27907,10 +27907,10 @@
     "word": "whatchamacallum",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌwʌtʃəməˈkɔːləm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌwɒtʃəməˈkɒləm"
       }
     },
     "forms": {},
@@ -27925,7 +27925,7 @@
           {
             "id": "whatchamacallum-noun-1",
             "definition": "something unspecified whose name is either forgotten or not known",
-            "translation": "",
+            "translation": "那个叫什么（人/东西）；记不住名字的",
             "examples": [
               {
                 "text": "I can't find the green whatchamacallum; do you know where I left it?",
@@ -27938,7 +27938,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28003,7 +28003,7 @@
           {
             "id": "whatnot-noun-1",
             "definition": "miscellaneous curios",
-            "translation": "",
+            "translation": "陈列架；诸如此类（口语）",
             "examples": []
           }
         ]
@@ -28011,7 +28011,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28019,10 +28019,10 @@
     "word": "whatsis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwʌtsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwɒtsɪs"
       }
     },
     "forms": {},
@@ -28037,7 +28037,7 @@
           {
             "id": "whatsis-noun-1",
             "definition": "something unspecified whose name is either forgotten or not known",
-            "translation": "",
+            "translation": "那个叫什么来着；说不出名的东西",
             "examples": []
           }
         ]
@@ -28045,7 +28045,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28090,10 +28090,10 @@
     "word": "wheal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːl"
       }
     },
     "forms": {},
@@ -28108,7 +28108,7 @@
           {
             "id": "wheal-noun-1",
             "definition": "a raised mark on the skin, as produced by the blow of a whip",
-            "translation": "",
+            "translation": "风团；荨麻疹（皮肤症状）",
             "examples": [
               {
                 "text": "The victim's back had numerous wheals.",
@@ -28121,7 +28121,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28182,10 +28182,10 @@
     "word": "wheatear",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtɪər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtɪə"
       }
     },
     "forms": {},
@@ -28198,7 +28198,7 @@
           {
             "id": "wheatear-noun-1",
             "definition": "small songbird of northern America and Eurasia having a distinctive white rump",
-            "translation": "",
+            "translation": "麦穗鹨（鸟类）",
             "examples": []
           }
         ]
@@ -28206,7 +28206,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28214,10 +28214,10 @@
     "word": "wheaten",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtn"
       }
     },
     "forms": {},
@@ -28253,10 +28253,10 @@
     "word": "wheatfield",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtfiːld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtfiːld"
       }
     },
     "forms": {},
@@ -28269,7 +28269,7 @@
           {
             "id": "wheatfield-noun-1",
             "definition": "a field planted with wheat",
-            "translation": "",
+            "translation": "麦田（小麦种植地）",
             "examples": []
           }
         ]
@@ -28277,7 +28277,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28285,10 +28285,10 @@
     "word": "wheatflake",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtfleɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtfleɪk"
       }
     },
     "forms": {},
@@ -28301,7 +28301,7 @@
           {
             "id": "wheatflake-noun-1",
             "definition": "crisp flake made from wheat",
-            "translation": "",
+            "translation": "麦片；小麦薄片（早餐）",
             "examples": []
           }
         ]
@@ -28309,7 +28309,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28317,10 +28317,10 @@
     "word": "wheatgrass",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtɡræs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtɡrɑːs"
       }
     },
     "forms": {},
@@ -28333,7 +28333,7 @@
           {
             "id": "wheatgrass-noun-1",
             "definition": "a grass of the genus Agropyron",
-            "translation": "",
+            "translation": "小麦草（可榨汁的植物）",
             "examples": []
           }
         ]
@@ -28341,7 +28341,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28349,10 +28349,10 @@
     "word": "wheatworm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːtwɜːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːtwɜːm"
       }
     },
     "forms": {},
@@ -28365,7 +28365,7 @@
           {
             "id": "wheatworm-noun-1",
             "definition": "small roundworm parasitic on wheat",
-            "translation": "",
+            "translation": "小麦线虫（农业害虫）",
             "examples": []
           }
         ]
@@ -28373,7 +28373,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28406,7 +28406,7 @@
           {
             "id": "wheedle-verb-1",
             "definition": "influence or urge by gentle urging, caressing, or flattering",
-            "translation": "",
+            "translation": "哄骗；诱骗；用甜言蜜语套取",
             "examples": []
           }
         ]
@@ -28415,15 +28415,15 @@
     "phrases": [
       {
         "text": "wheedle into",
-        "translation": ""
+        "translation": "哄骗…做…；诱骗某人做某事"
       },
       {
         "text": "wheedle out",
-        "translation": ""
+        "translation": "哄骗…放弃…；骗取"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28431,10 +28431,10 @@
     "word": "wheedler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːdlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːdlə"
       }
     },
     "forms": {},
@@ -28449,7 +28449,7 @@
           {
             "id": "wheedler-noun-1",
             "definition": "someone who tries to persuade by blandishment and coaxing",
-            "translation": "",
+            "translation": "哄骗者；善于讨好的人",
             "examples": []
           }
         ]
@@ -28457,7 +28457,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28465,10 +28465,10 @@
     "word": "wheedling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːdlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːdlɪŋ"
       }
     },
     "forms": {},
@@ -28483,7 +28483,7 @@
           {
             "id": "wheedling-noun-1",
             "definition": "the act of urging by means of teasing or flattery",
-            "translation": "",
+            "translation": "哄骗的；诱骗的（现在分词/形容词）",
             "examples": []
           }
         ]
@@ -28491,7 +28491,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28624,11 +28624,11 @@
       },
       {
         "text": "wheel out",
-        "translation": ""
+        "translation": "搬出；拿出（老论点等）"
       },
       {
         "text": "wheel out of round",
-        "translation": ""
+        "translation": "轮子失圆；不圆"
       },
       {
         "text": "wheel round",
@@ -28636,7 +28636,7 @@
       },
       {
         "text": "wheel up",
-        "translation": ""
+        "translation": "推上；推上来"
       }
     ],
     "metadata": {
@@ -28670,7 +28670,7 @@
           {
             "id": "wheelbarrow-noun-1",
             "definition": "a cart for carrying small loads",
-            "translation": "",
+            "translation": "独轮手推车；单轮车",
             "examples": []
           }
         ]
@@ -28681,7 +28681,7 @@
           {
             "id": "wheelbarrow-verb-1",
             "definition": "transport in a wheelbarrow",
-            "translation": "",
+            "translation": "独轮手推车；单轮车",
             "examples": []
           }
         ]
@@ -28689,7 +28689,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28697,10 +28697,10 @@
     "word": "wheelbase",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːlbeɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːlbeɪs"
       }
     },
     "forms": {},
@@ -28713,7 +28713,7 @@
           {
             "id": "wheelbase-noun-1",
             "definition": "the distance from the center of a car's front wheel to the rear axle",
-            "translation": "",
+            "translation": "轮椅（残疾或伤病者代步）",
             "examples": []
           }
         ]
@@ -28721,7 +28721,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28745,7 +28745,7 @@
           {
             "id": "wheelchair-noun-1",
             "definition": "a movable chair mounted on large wheels",
-            "translation": "",
+            "translation": "轴距（汽车底盘参数）",
             "examples": []
           }
         ]
@@ -28753,7 +28753,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28761,10 +28761,10 @@
     "word": "wheeled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "wiːld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "wiːld"
       }
     },
     "forms": {},
@@ -28786,7 +28786,7 @@
     "phrases": [
       {
         "text": "wheeled out",
-        "translation": ""
+        "translation": "搬出（论点）；搬出（旧货）"
       }
     ],
     "metadata": {
@@ -28819,25 +28819,25 @@
           {
             "id": "wheeler-noun-1",
             "definition": "a draft horse harnessed behind others and nearest the wheels of a vehicle",
-            "translation": "",
+            "translation": "有轮子的；有轮装置的",
             "examples": []
           },
           {
             "id": "wheeler-noun-2",
             "definition": "a person who rides a bicycle",
-            "translation": "",
+            "translation": "列队最外端的人；侧翼",
             "examples": []
           },
           {
             "id": "wheeler-noun-3",
             "definition": "the man at the outermost end of the rank in wheeling",
-            "translation": "",
+            "translation": "木轮工匠；制轮工",
             "examples": []
           },
           {
             "id": "wheeler-noun-4",
             "definition": "someone who makes and repairs wooden wheels",
-            "translation": "",
+            "translation": "木轮工匠；制轮工（制造和修理木轮的工匠）",
             "examples": []
           }
         ]
@@ -28845,7 +28845,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28871,7 +28871,7 @@
           {
             "id": "wheelhouse-noun-1",
             "definition": "an enclosed compartment from which a vessel can be navigated",
-            "translation": "",
+            "translation": "滚动；行驶；转弯（动词）",
             "examples": []
           }
         ]
@@ -28879,7 +28879,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28887,10 +28887,10 @@
     "word": "wheeling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːlɪŋ"
       }
     },
     "forms": {},
@@ -28914,7 +28914,7 @@
     "phrases": [
       {
         "text": "wheeling out",
-        "translation": ""
+        "translation": "搬出；搬走"
       }
     ],
     "metadata": {
@@ -28926,10 +28926,10 @@
     "word": "wheelless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːlləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːlləs"
       }
     },
     "forms": {},
@@ -28942,7 +28942,7 @@
           {
             "id": "wheelless-adjective-1",
             "definition": "having no wheels or having no wheeled vehicles",
-            "translation": "",
+            "translation": "车轮匠；制轮工（传统手工艺）",
             "examples": [
               {
                 "text": "dragging a wheelless stoneboat filled with rocks",
@@ -28955,7 +28955,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28963,10 +28963,10 @@
     "word": "wheelwork",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːlwɜːrk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːlwɜːk"
       }
     },
     "forms": {},
@@ -28979,7 +28979,7 @@
           {
             "id": "wheelwork-noun-1",
             "definition": "mechanical device including an arrangement of wheel in a machine (especially a train of gears)",
-            "translation": "",
+            "translation": "齿轮传动系统；轮系（机械）",
             "examples": []
           }
         ]
@@ -28987,7 +28987,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -28995,10 +28995,10 @@
     "word": "wheelwright",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːlraɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːlraɪt"
       }
     },
     "forms": {},
@@ -29013,7 +29013,7 @@
           {
             "id": "wheelwright-noun-1",
             "definition": "someone who makes and repairs wooden wheels",
-            "translation": "",
+            "translation": "无轮的；缺少轮子的",
             "examples": []
           }
         ]
@@ -29021,7 +29021,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -29049,13 +29049,13 @@
           {
             "id": "wheeze-noun-1",
             "definition": "breathing with a husky or whistling sound",
-            "translation": "",
+            "translation": "喘息；发出呼哧声（动词）；（名词）喘息声",
             "examples": []
           },
           {
             "id": "wheeze-noun-2",
             "definition": "(Briticism) a clever or amusing scheme or trick",
-            "translation": "",
+            "translation": "（英式俚语）妙计；鬼主意；花招（巧妙幽默的主意）",
             "examples": [
               {
                 "text": "a clever wheeze probably succeeded in neutralizing the German espionage threat",
@@ -29071,7 +29071,7 @@
           {
             "id": "wheeze-verb-1",
             "definition": "breathe with difficulty",
-            "translation": "",
+            "translation": "喘息；发出呼哧声（动词）；（名词）喘息声",
             "examples": []
           }
         ]
@@ -29080,11 +29080,11 @@
     "phrases": [
       {
         "text": "wheeze out",
-        "translation": ""
+        "translation": "喘息着说出；喘着气说"
       }
     ],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -29092,10 +29092,10 @@
     "word": "wheezily",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪlɪ"
       }
     },
     "forms": {},
@@ -29110,7 +29110,7 @@
           {
             "id": "wheezily-adverb-1",
             "definition": "with a wheeze",
-            "translation": "",
+            "translation": "喘息地；发出喘息地（副词）",
             "examples": [
               {
                 "text": "They talked wheezily after regaining their strength.",
@@ -29123,7 +29123,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -29131,10 +29131,10 @@
     "word": "wheeziness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːzinəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːzinəs"
       }
     },
     "forms": {},
@@ -29147,7 +29147,7 @@
           {
             "id": "wheeziness-noun-1",
             "definition": "presence of abnormal high-pitched sound heard with a stethoscope when an airway is blocked (as in asthma or chronic bronchitis)",
-            "translation": "",
+            "translation": "易喘息的；爱喘息的（性格/体质）",
             "examples": []
           }
         ]
@@ -29155,7 +29155,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1782201857
     }
   },
@@ -29163,10 +29163,10 @@
     "word": "wheezing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈwiːzɪŋ"
       }
     },
     "forms": {},
