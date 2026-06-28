@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 772 | **← Backward**: u.json index 2282 | **Updated**: 1751276262
+> **→ Forward**: b.json index 772 | **← Backward**: u.json index 2282 | **Updated**: 1751277858
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 10,377 |
-| Remaining | 54,490 |
-| Completion | 16.0% |
-| Forward agent | b.json (1,450 / 3,601) |
+| Reviewed & validated | 11,008 |
+| Remaining | 53,859 |
+| Completion | 17.0% |
+| Forward agent | b.json (2,081 / 3,601) |
 | Backward agent | u.json (1,283 / 2,578) |
 
 ## 📋 File Progress
@@ -18,7 +18,7 @@
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
 | a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
-| b.json | 3,601 | 1,450 | ████████░░░░░░░░░░ 40% | → in_progress |
+| b.json | 3,601 | 2,081 | ███████████░░░░░░░░░ 58% | → in_progress |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
 | e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
@@ -43,19 +43,20 @@
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **10,377** | **16.0%** | |
+| **Total** | **64,867** | **11,008** | **17.0%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status |
 |-----------|----------|------|-------|--------|
-| → Forward | F-b-0001 | b.json | 344–368 | ⬜ pending |
+| → Forward | F-b-0001 | b.json | 772–796 | ⬜ pending |
 | ← Backward | B-u-0081 | u.json | 2281–2257 | ⬜ pending |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| F-b-0001–0005 | b.json | 344–468 | 125 | (already complete) | — | ✅ already done |
 | — | a.json | IPA fix | 101 | deepseek-v4-pro | deepseek-v4-pro | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
