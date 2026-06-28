@@ -11368,8 +11368,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11409,15 +11409,11 @@
       {
         "text": "vat under brine",
         "translation": "盐水中的桶"
-      },
-      {
-        "text": "vat under brine",
-        "translation": "盐水中的桶"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11458,12 +11454,12 @@
       },
       {
         "text": "vat under brine",
-        "translation": ""
+        "translation": "盐水桶"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763692800
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11499,8 +11495,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11538,8 +11534,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11576,8 +11572,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11615,8 +11611,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11652,8 +11648,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11689,8 +11685,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11721,8 +11717,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11785,17 +11781,17 @@
           {
             "id": "vault-verb-1",
             "definition": "bound vigorously",
-            "translation": "",
+            "translation": "跳跃；撑竿跳",
             "examples": []
           },
           {
             "id": "vault-verb-2",
             "definition": "to jump across or leap over an obstacle",
-            "translation": "",
+            "translation": "跳过；跃过",
             "examples": [
               {
                 "text": "When we discovered there was no other way to get around the rock but over it, we decided to vault.",
-                "translation": ""
+                "translation": "当我们发现除了翻过岩石别无他法时，我们决定跳过去。"
               }
             ]
           }
@@ -11804,8 +11800,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11843,8 +11839,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11875,8 +11871,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -11918,33 +11914,33 @@
           {
             "id": "vaulting-noun-1",
             "definition": "a light leap by a horse in which both hind legs leave the ground before the forelegs come down",
-            "translation": "",
+            "translation": "（马术中的）后肢跃起",
             "examples": [
               {
                 "text": "This horse's vaulting is superb.",
-                "translation": ""
+                "translation": "这匹马的跃起动作非常出色。"
               }
             ]
           },
           {
             "id": "vaulting-noun-2",
             "definition": "in architecture, a vaulted structure",
-            "translation": "",
+            "translation": "拱顶结构；穹窿",
             "examples": [
               {
                 "text": "Arches and vaulting are typical during this time period.",
-                "translation": ""
+                "translation": "拱门和穹顶结构是这个时期的典型特征。"
               }
             ]
           },
           {
             "id": "vaulting-noun-3",
             "definition": "the act of leaping over something",
-            "translation": "",
+            "translation": "跳跃；撑杆跳",
             "examples": [
               {
                 "text": "Vaulting is something I practice along with other parkour moves.",
-                "translation": ""
+                "translation": "跳跃是我与其他跑酷动作一起练习的项目。"
               }
             ]
           }
@@ -11953,8 +11949,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12010,8 +12006,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12049,8 +12045,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12088,8 +12084,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12125,8 +12121,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12162,8 +12158,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12199,8 +12195,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12236,18 +12232,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762550400
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "veal",
     "pronunciation": {
       "us": {
-        "ipa": "vil"
+        "ipa": "viːl"
       },
       "uk": {
-        "ipa": "vi:l"
+        "ipa": "viːl"
       }
     },
     "forms": {},
@@ -12270,8 +12266,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12346,8 +12342,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12378,8 +12374,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12402,11 +12398,11 @@
           {
             "id": "vedic-adjective-1",
             "definition": "of or relating to the Vedas or to the ancient Sanskrit in which they were written",
-            "translation": "古代的的",
+            "translation": "吠陀的；吠陀经典的",
             "examples": [
               {
                 "text": "Vedic literature is studied at universities around the world.",
-                "translation": ""
+                "translation": "吠陀文献在世界各地的大学中都有研究。"
               }
             ]
           }
@@ -12415,15 +12411,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "veer",
     "pronunciation": {
       "us": {
-        "ipa": "vɪɚ"
+        "ipa": "vɪr"
       },
       "uk": {
         "ipa": "vɪə"
@@ -12448,11 +12444,11 @@
           {
             "id": "veer-verb-1",
             "definition": "to shift to a clockwise direction",
-            "translation": "",
+            "translation": "（风等）转向；（方向）改变",
             "examples": [
               {
                 "text": "The wind veered.",
-                "translation": ""
+                "translation": "风转向了。"
               }
             ]
           },
@@ -12463,7 +12459,7 @@
             "examples": [
               {
                 "text": "The car veered suddenly.",
-                "translation": ""
+                "translation": "汽车突然转向。"
               }
             ]
           }
@@ -12473,28 +12469,28 @@
     "phrases": [
       {
         "text": "veer away",
-        "translation": ""
+        "translation": "突然转向；偏离"
       },
       {
         "text": "veer away from",
-        "translation": ""
+        "translation": "偏离；突然改变"
       },
       {
         "text": "veer off",
-        "translation": ""
+        "translation": "偏离正道"
       },
       {
         "text": "veer off course",
-        "translation": ""
+        "translation": "偏离航线"
       },
       {
         "text": "veer out",
-        "translation": ""
+        "translation": "向外转向"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12537,8 +12533,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12569,8 +12565,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12614,8 +12610,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12646,15 +12642,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "vegetable",
     "pronunciation": {
       "us": {
-        "ipa": "ˈvɛdʒtəbəl"
+        "ipa": "ˈvedʒtəbl"
       },
       "uk": {
         "ipa": "ˈvedʒtəbl"
@@ -12677,13 +12673,13 @@
           {
             "id": "vegetable-noun-1",
             "definition": "edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant",
-            "translation": "蔬菜",
+            "translation": "蔬菜（可食用的植物各部分）",
             "examples": []
           },
           {
             "id": "vegetable-noun-2",
             "definition": "any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf of spinach or the seeds of bean plants or the flower buds of broccoli or cauliflower",
-            "translation": "蔬菜",
+            "translation": "蔬菜作物；种植的可食用植物",
             "examples": []
           }
         ]
@@ -12692,16 +12688,16 @@
     "phrases": [
       {
         "text": "vegetable down",
-        "translation": "蔬菜向下"
+        "translation": "植物绒毛"
       },
       {
         "text": "vegetable in chili",
-        "translation": ""
+        "translation": "辣味蔬菜"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12724,17 +12720,17 @@
           {
             "id": "vegetal-adjective-1",
             "definition": "(of reproduction) characterized by asexual processes",
-            "translation": "以…为特征",
+            "translation": "植物无性繁殖的",
             "examples": []
           },
           {
             "id": "vegetal-adjective-2",
             "definition": "composed of vegetation or plants",
-            "translation": "",
+            "translation": "植物的；蔬菜的；植被的",
             "examples": [
               {
                 "text": "regions rich in vegetal products",
-                "translation": ""
+                "translation": "盛产植物产品的地区"
               }
             ]
           }
@@ -12743,8 +12739,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12779,8 +12775,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12816,8 +12812,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12846,77 +12842,77 @@
           {
             "id": "vegetate-verb-1",
             "definition": "to engage in passive relaxation",
-            "translation": "",
+            "translation": "过无聊懒散的生活；消磨时间",
             "examples": [
               {
                 "text": "After a hard day's work, I vegetate in front of the television.",
-                "translation": ""
+                "translation": "一天辛苦工作后，我在电视机前消磨时间。"
               }
             ]
           },
           {
             "id": "vegetate-verb-2",
             "definition": "to propagate asexually",
-            "translation": "",
+            "translation": "无性繁殖；营养繁殖",
             "examples": [
               {
                 "text": "The bacterial growth vegetated.",
-                "translation": ""
+                "translation": "细菌群无性繁殖了。"
               }
             ]
           },
           {
             "id": "vegetate-verb-3",
             "definition": "to grow or spread abnormally",
-            "translation": "",
+            "translation": "异常生长；增生",
             "examples": [
               {
                 "text": "Warts and polyps can vegetate if not removed.",
-                "translation": ""
+                "translation": "如果不切除，疣和息肉可能会增生。"
               }
             ]
           },
           {
             "id": "vegetate-verb-4",
             "definition": "to grow like a plant",
-            "translation": "生长喜欢一个植物",
+            "translation": "像植物般生长",
             "examples": [
               {
                 "text": "This fungus usually vegetates vigorously.",
-                "translation": ""
+                "translation": "这种真菌通常生长茂盛。"
               }
             ]
           },
           {
             "id": "vegetate-verb-5",
             "definition": "to produce vegetation",
-            "translation": "产生；实现",
+            "translation": "（植物）繁茂生长",
             "examples": [
               {
                 "text": "The fields vegetate vigorously.",
-                "translation": ""
+                "translation": "田野里植物繁茂生长。"
               }
             ]
           },
           {
             "id": "vegetate-verb-6",
             "definition": "to establish vegetation on",
-            "translation": "",
+            "translation": "在…上种植植被",
             "examples": [
               {
                 "text": "They vegetated the hills behind their house to prevent erosion.",
-                "translation": ""
+                "translation": "他们在屋后的山坡上种植植被以防止水土流失。"
               }
             ]
           },
           {
             "id": "vegetate-verb-7",
             "definition": "to lead a passive existence without using one's body or mind",
-            "translation": "",
+            "translation": "过浑浑噩噩的生活",
             "examples": [
               {
                 "text": "The patient has been vegetating for months.",
-                "translation": ""
+                "translation": "这个病人已经浑浑噩噩地过了好几个月了。"
               }
             ]
           }
@@ -12925,8 +12921,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -12997,8 +12993,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13034,8 +13030,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13058,55 +13054,55 @@
           {
             "id": "vegetative-adjective-1",
             "definition": "characterized by an asexual reproductive processes in plants",
-            "translation": "以…为特征",
+            "translation": "植物无性繁殖的；营养体生长的",
             "examples": [
               {
                 "text": "The vegetative plant sends out runners to spread itself.",
-                "translation": ""
+                "translation": "这种营养体生长的植物通过长出匍匐茎来繁殖。"
               }
             ]
           },
           {
             "id": "vegetative-adjective-2",
             "definition": "relating to involuntary bodily functions",
-            "translation": "功能的",
+            "translation": "植物功能的；生长的",
             "examples": [
               {
                 "text": "Vegetative functions such as digestion or growth or circulation keep animals alive even when they are unconscious.",
-                "translation": ""
+                "translation": "消化、生长或血液循环等植物功能即使在植物无意识时也能维持其生命。"
               }
             ]
           },
           {
             "id": "vegetative-adjective-3",
             "definition": "composed of vegetation or plants",
-            "translation": "",
+            "translation": "植物的；由植物组成的",
             "examples": [
               {
                 "text": "My diet is entirely vegetative.",
-                "translation": ""
+                "translation": "我的饮食完全是素食。"
               }
             ]
           },
           {
             "id": "vegetative-adjective-4",
             "definition": "of or relating to an activity that is passive and monotonous",
-            "translation": "被动的的",
+            "translation": "被动单调的；无聊的",
             "examples": [
               {
                 "text": "We don't want to live a dull, vegetative lifestyle.",
-                "translation": ""
+                "translation": "我们不想过一种枯燥、单调的生活方式。"
               }
             ]
           },
           {
             "id": "vegetative-adjective-5",
             "definition": "lacking any cognitive function, including any awareness of oneself or the outside world",
-            "translation": "",
+            "translation": "植物人状态的；无意识的",
             "examples": [
               {
                 "text": "After sustained massive head trauma, the patient was alive, but in a vegetative state.",
-                "translation": ""
+                "translation": "持续的重度头部创伤后，病人还活着，但已处于植物人状态。"
               }
             ]
           }
@@ -13115,8 +13111,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13139,7 +13135,7 @@
           {
             "id": "vegetive-adjective-1",
             "definition": "of or relating to an activity that is passive and monotonous",
-            "translation": "被动的的",
+            "translation": "被动单调的； vegetive的",
             "examples": []
           }
         ]
@@ -13147,8 +13143,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13187,8 +13183,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13233,8 +13229,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniAx-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13262,11 +13258,11 @@
           {
             "id": "vehement-adjective-1",
             "definition": "marked by extreme intensity of emotions or convictions",
-            "translation": "",
+            "translation": "激烈的；猛烈的；（情感等）强烈的",
             "examples": [
               {
                 "text": "I will vehemently deny that!",
-                "translation": ""
+                "translation": "我会强烈否认这一点！"
               }
             ]
           },
@@ -13277,7 +13273,7 @@
             "examples": [
               {
                 "text": "Yesterday there were vehement deluges of rain.",
-                "translation": ""
+                "translation": "昨天有猛烈的暴雨。"
               }
             ]
           }
@@ -13286,8 +13282,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13314,7 +13310,7 @@
             "examples": [
               {
                 "text": "I vehemently denied the accusations against my sibling.",
-                "translation": ""
+                "translation": "我激烈地否认了对我兄弟姐妹的指控。"
               }
             ]
           }
@@ -13323,8 +13319,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13368,7 +13364,7 @@
             "examples": [
               {
                 "text": "Their editorials provided a vehicle for their political views.",
-                "translation": ""
+                "translation": "他们的社论为政治观点提供了表达的载体。"
               }
             ]
           },
@@ -13379,7 +13375,7 @@
             "examples": [
               {
                 "text": "The vehicle for the ebola outbreak was discovered to be an unwashed hospital sheet.",
-                "translation": ""
+                "translation": "埃博拉疫情的传播媒介被证实是一条未清洗的医院床单。"
               }
             ]
           },
@@ -13395,12 +13391,12 @@
     "phrases": [
       {
         "text": "vehicle in use",
-        "translation": ""
+        "translation": "使用中的车辆"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782374657
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13431,15 +13427,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "veil",
     "pronunciation": {
       "us": {
-        "ipa": "vel"
+        "ipa": "veɪl"
       },
       "uk": {
         "ipa": "veɪl"
@@ -13508,7 +13504,7 @@
             "examples": [
               {
                 "text": "women in Afghanistan veil their faces",
-                "translation": ""
+                "translation": "阿富汗的妇女用面纱遮脸。"
               }
             ]
           }
@@ -13517,15 +13513,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782374657
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "veiled",
     "pronunciation": {
       "us": {
-        "ipa": "veld"
+        "ipa": "veɪld"
       },
       "uk": {
         "ipa": "veɪld"
@@ -13565,8 +13561,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13604,8 +13600,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13639,7 +13635,7 @@
           {
             "id": "vein-noun-1",
             "definition": "one of the horny ribs that stiffen and support the wing of an insect",
-            "translation": "静脉",
+            "translation": "（昆虫的）翅脉",
             "examples": []
           },
           {
@@ -13649,31 +13645,31 @@
             "examples": [
               {
                 "text": "all veins except the pulmonary vein carry unaerated blood",
-                "translation": ""
+                "translation": "除肺静脉外，所有静脉都输送未充氧血液"
               }
             ]
           },
           {
             "id": "vein-noun-3",
             "definition": "a distinctive style or manner",
-            "translation": "静脉",
+            "translation": "风格；方式；语调",
             "examples": [
               {
                 "text": "They continued in this vein for several minutes.",
-                "translation": ""
+                "translation": "他们继续以这种风格谈了几分钟。"
               }
             ]
           },
           {
             "id": "vein-noun-4",
             "definition": "a layer of ore between layers of rock",
-            "translation": "静脉",
+            "translation": "矿脉；岩脉",
             "examples": []
           },
           {
             "id": "vein-noun-5",
             "definition": "any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ",
-            "translation": "静脉",
+            "translation": "（植物的）叶脉；纹理",
             "examples": []
           }
         ]
@@ -13684,7 +13680,7 @@
           {
             "id": "vein-verb-1",
             "definition": "make a veinlike pattern",
-            "translation": "制造",
+            "translation": "使形成脉络；像静脉般分布",
             "examples": []
           }
         ]
@@ -13692,8 +13688,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13716,7 +13712,7 @@
           {
             "id": "veinal-adjective-1",
             "definition": "relating to the veins of plants",
-            "translation": "植物的",
+            "translation": "植物叶脉的；与植物静脉相关的",
             "examples": []
           }
         ]
@@ -13724,8 +13720,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13748,7 +13744,7 @@
           {
             "id": "veined-adjective-1",
             "definition": "having or showing markings that resemble veins",
-            "translation": "静脉",
+            "translation": "有静脉纹的；叶脉状的",
             "examples": []
           }
         ]
@@ -13756,8 +13752,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13786,7 +13782,7 @@
           {
             "id": "velar-adjective-2",
             "definition": "of or relating to the velum",
-            "translation": "关联的",
+            "translation": "软腭的；帆状膜的",
             "examples": []
           }
         ]
@@ -13797,7 +13793,7 @@
           {
             "id": "velar-noun-1",
             "definition": "a consonant produced with the back of the tongue touching or near the soft palate",
-            "translation": "",
+            "translation": "软腭音（如cat中的k，gun中的g，sing中的ng）",
             "examples": []
           }
         ]
@@ -13805,8 +13801,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13833,7 +13829,7 @@
             "examples": [
               {
                 "text": "Velcro your shoes closed.",
-                "translation": ""
+                "translation": "用魔术贴系好你的鞋子。"
               }
             ]
           }
@@ -13842,8 +13838,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782574512
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13874,8 +13870,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782574512
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13906,8 +13902,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782574512
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13954,8 +13950,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782574512
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -13988,7 +13984,7 @@
           {
             "id": "vellicate-verb-2",
             "definition": "to touch a body part lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements",
-            "translation": "分离；分开",
+            "translation": "轻触；挠痒；使产生酥痒感",
             "examples": []
           }
         ]
@@ -13996,8 +13992,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14035,8 +14031,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782574512
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14083,8 +14079,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763404800
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14123,8 +14119,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14151,7 +14147,7 @@
             "examples": [
               {
                 "text": "Velociraptors became famous after they were featured in a motion picture.",
-                "translation": ""
+                "translation": "伶盗龙在电影中出现后一举成名。"
               }
             ]
           }
@@ -14160,8 +14156,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14197,7 +14193,7 @@
             "examples": [
               {
                 "text": "We learned to calculate velocity in school.",
-                "translation": ""
+                "translation": "我们在学校学习如何计算速度。"
               }
             ]
           }
@@ -14207,40 +14203,40 @@
     "phrases": [
       {
         "text": "velocity along rotor diameter",
-        "translation": ""
+        "translation": "转子直径方向的速度"
       },
       {
         "text": "velocity at burnout",
-        "translation": ""
+        "translation": "燃尽时的速度"
       },
       {
         "text": "velocity at impact",
-        "translation": ""
+        "translation": "冲击速度；撞击速度"
       },
       {
         "text": "velocity in pipes",
-        "translation": ""
+        "translation": "管道流速"
       },
       {
         "text": "velocity through screen",
-        "translation": "速度通过屏幕"
+        "translation": "筛网通过速度"
       },
       {
         "text": "velocity to height ratio",
-        "translation": ""
+        "translation": "速度与高度比"
       },
       {
         "text": "velocity to prevent erosion",
-        "translation": ""
+        "translation": "防侵蚀速度"
       },
       {
         "text": "velocity to prevent plant growth",
-        "translation": ""
+        "translation": "防止植物生长的流速"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14271,8 +14267,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14305,8 +14301,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14339,8 +14335,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14371,8 +14367,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14399,7 +14395,7 @@
             "examples": [
               {
                 "text": "In humans, the soft palate is an example of a velum.",
-                "translation": ""
+                "translation": "在人体中，软腭就是帆状膜的一个例子。"
               }
             ]
           },
@@ -14410,7 +14406,7 @@
             "examples": [
               {
                 "text": "The velum blocked the sun for miles.",
-                "translation": ""
+                "translation": "那片薄幕状云层遮挡了数英里的阳光。"
               }
             ]
           }
@@ -14419,8 +14415,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14465,7 +14461,7 @@
           {
             "id": "velvet-noun-1",
             "definition": "a silky densely piled fabric with a plain back",
-            "translation": "",
+            "translation": "天鹅绒；丝绒",
             "examples": []
           }
         ]
@@ -14473,8 +14469,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14505,8 +14501,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14545,8 +14541,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14579,8 +14575,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14627,8 +14623,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14664,8 +14660,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14675,7 +14671,7 @@
         "ipa": "ˈvinəl"
       },
       "uk": {
-        "ipa": "ˈvi:nl"
+        "ipa": "ˈviːnl"
       }
     },
     "forms": {},
@@ -14690,11 +14686,11 @@
           {
             "id": "venal-adjective-1",
             "definition": "capable of being corrupted",
-            "translation": "能够被",
+            "translation": "贪污腐败的；唯利是图的",
             "examples": [
               {
                 "text": "Last time venal politicians got into office multiple problems arose.",
-                "translation": ""
+                "translation": "上次那些贪官上任后，出现了很多问题。"
               }
             ]
           }
@@ -14703,8 +14699,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14740,8 +14736,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14770,7 +14766,7 @@
             "examples": [
               {
                 "text": "The bankers acted venally are were punished in accordance with the law.",
-                "translation": ""
+                "translation": "那些贪污腐败的银行家们受到了法律的制裁。"
               }
             ]
           }
@@ -14779,8 +14775,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767225600
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14803,11 +14799,11 @@
           {
             "id": "venatic-adjective-1",
             "definition": "of or relating to hunting",
-            "translation": "打猎的",
+            "translation": "狩猎的；以狩猎为生的",
             "examples": [
               {
                 "text": "Humans lived a venatic lifestyle before agriculture revolutionized the world.",
-                "translation": ""
+                "translation": "在农业改变世界之前，人类过着狩猎的生活。"
               }
             ]
           }
@@ -14816,8 +14812,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14854,8 +14850,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14878,11 +14874,11 @@
           {
             "id": "venatorial-adjective-1",
             "definition": "of or relating to hunting",
-            "translation": "打猎的",
+            "translation": "狩猎的；与打猎有关的",
             "examples": [
               {
                 "text": "Their venatorial skills have slowly gotten better over the past year as a result of the constant practice.",
-                "translation": ""
+                "translation": "经过一年的不断练习，他们的狩猎技能慢慢提高了。"
               }
             ]
           }
@@ -14891,8 +14887,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14902,7 +14898,7 @@
         "ipa": "vend"
       },
       "uk": {
-        "ipa": "vend"
+        "ipa": "vɛnd"
       }
     },
     "forms": {
@@ -14925,7 +14921,7 @@
             "examples": [
               {
                 "text": "We vend all of the midwest.",
-                "translation": ""
+                "translation": "我们把货物销售到整个中西部地区。"
               }
             ]
           }
@@ -14934,8 +14930,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -14973,8 +14969,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15012,8 +15008,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15051,8 +15047,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15085,8 +15081,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15124,8 +15120,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15160,8 +15156,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15194,8 +15190,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15226,7 +15222,7 @@
             "examples": [
               {
                 "text": "There were over 500 venders at the flea market last weekend.",
-                "translation": ""
+                "translation": "上周末的跳蚤市场有超过500个小贩。"
               }
             ]
           }
@@ -15240,8 +15236,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15274,8 +15270,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15308,7 +15304,7 @@
             "examples": [
               {
                 "text": "This veneer needs to dry a bit more.",
-                "translation": ""
+                "translation": "这层饰面需要再多晾干一会儿。"
               }
             ]
           }
@@ -15320,11 +15316,11 @@
           {
             "id": "veneer-verb-1",
             "definition": "to cover with veneer",
-            "translation": "",
+            "translation": "给家具镶饰面以保护它",
             "examples": [
               {
                 "text": "Veneer the furniture to protect it.",
-                "translation": ""
+                "translation": "给家具贴上饰面以保护它。"
               }
             ]
           }
@@ -15333,8 +15329,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15371,8 +15367,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15403,8 +15399,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15435,18 +15431,18 @@
             "examples": [
               {
                 "text": "The venerable judge retired after a successful career.",
-                "translation": ""
+                "translation": "那位德高望重的法官在成功的职业生涯后退休了。"
               }
             ]
           },
           {
             "id": "venerable-adjective-2",
             "definition": "impressive by reason of age",
-            "translation": "",
+            "translation": "（因年迈而）令人敬重的；年高德劭的",
             "examples": [
               {
                 "text": "A venerable sage with white hair and beard appeared in my dreams.",
-                "translation": ""
+                "translation": "一位白发白须、令人敬重的智者在我的梦中出现。"
               }
             ]
           }
@@ -15455,8 +15451,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15483,7 +15479,7 @@
             "examples": [
               {
                 "text": "Our leader's venerableness is undeniable.",
-                "translation": ""
+                "translation": "我们领袖的崇高品德是不可否认的。"
               }
             ]
           }
@@ -15492,8 +15488,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15530,7 +15526,7 @@
             "examples": [
               {
                 "text": "The subjects venerated the dictator outwardly out of fear.",
-                "translation": ""
+                "translation": "臣民们出于恐惧表面上尊敬这位独裁者。"
               }
             ]
           }
@@ -15539,8 +15535,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15567,7 +15563,7 @@
             "examples": [
               {
                 "text": "The venerating tone of the leader's eulogy seemed appropriate.",
-                "translation": ""
+                "translation": "领袖悼词中表达敬意的语气似乎是恰当的。"
               }
             ]
           }
@@ -15576,8 +15572,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15607,7 +15603,7 @@
           {
             "id": "veneration-noun-1",
             "definition": "religious zeal",
-            "translation": "",
+            "translation": "宗教虔诚；崇拜",
             "examples": []
           },
           {
@@ -15621,8 +15617,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15649,7 +15645,7 @@
             "examples": [
               {
                 "text": "Many venerators gathered around the leader's grave.",
-                "translation": ""
+                "translation": "许多敬仰者聚集在这位领导人的墓前。"
               }
             ]
           }
@@ -15658,8 +15654,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15684,7 +15680,7 @@
           {
             "id": "venereal-adjective-1",
             "definition": "of or relating to the external sex organs",
-            "translation": "器官的",
+            "translation": "性器官的；生殖器的",
             "examples": []
           }
         ]
@@ -15692,8 +15688,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15724,8 +15720,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15758,8 +15754,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15782,11 +15778,11 @@
           {
             "id": "venetian-adjective-1",
             "definition": "of or relating to or characteristic of Venice or its people",
-            "translation": "人民的",
+            "translation": "威尼斯的；威尼斯人的",
             "examples": [
               {
                 "text": "Venetian glass is popular all over the world for its beautiful colors.",
-                "translation": ""
+                "translation": "威尼斯玻璃因其美丽的色彩而享誉世界。"
               }
             ]
           }
@@ -15795,8 +15791,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15819,11 +15815,11 @@
           {
             "id": "venezuelan-adjective-1",
             "definition": "of or relating to or characteristic of Venezuela or its people",
-            "translation": "人民的",
+            "translation": "委内瑞拉的",
             "examples": [
               {
                 "text": "Venezuelan oil prices are kept artificially low through government regulations.",
-                "translation": ""
+                "translation": "委内瑞拉的油价通过政府 regulation保持在人为的低水平。"
               }
             ]
           }
@@ -15832,8 +15828,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15866,7 +15862,7 @@
             "examples": [
               {
                 "text": "I would have my vengeance over my assailant, in this life or the next.",
-                "translation": ""
+                "translation": "无论今生还是来世，我都要向袭击我的人复仇。"
               }
             ]
           }
@@ -15875,8 +15871,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15905,7 +15901,7 @@
             "examples": [
               {
                 "text": "The vengeful mob attacked the palace.",
-                "translation": ""
+                "translation": "复仇心切的暴民袭击了宫殿。"
               }
             ]
           }
@@ -15914,8 +15910,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15942,7 +15938,7 @@
             "examples": [
               {
                 "text": "The unhappy lover acted vengefully.",
-                "translation": ""
+                "translation": "那位悲伤的恋人做出了报复性的行为。"
               }
             ]
           }
@@ -15951,8 +15947,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -15981,7 +15977,7 @@
             "examples": [
               {
                 "text": "Your vengefulness is understandable after your parents' murder, but you should let the police do their job.",
-                "translation": ""
+                "translation": "父母被谋杀后，你的复仇心理可以理解，但你应该让警察来处理。"
               }
             ]
           }
@@ -15990,8 +15986,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16023,7 +16019,7 @@
             "examples": [
               {
                 "text": "It was only a venial error.",
-                "translation": ""
+                "translation": "这只是一个容易原谅的小错误。"
               }
             ]
           },
@@ -16034,7 +16030,7 @@
             "examples": [
               {
                 "text": "It was considered a venial sin.",
-                "translation": ""
+                "translation": "这被认为是轻微的罪过。"
               }
             ]
           }
@@ -16043,8 +16039,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16075,8 +16071,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16109,8 +16105,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16133,11 +16129,11 @@
           {
             "id": "venison-noun-1",
             "definition": "meat from a deer used as food",
-            "translation": "肉从一个鹿用过的一个食物",
+            "translation": "鹿肉",
             "examples": [
               {
                 "text": "I grilled some venison for dinner.",
-                "translation": ""
+                "translation": "我晚餐烤了鹿肉。"
               }
             ]
           }
@@ -16146,8 +16142,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16180,8 +16176,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16212,8 +16208,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16245,7 +16241,7 @@
             "examples": [
               {
                 "text": "I had a lot of venom for my blackmailers.",
-                "translation": ""
+                "translation": "我对敲诈者满怀怨恨。"
               }
             ]
           },
@@ -16256,7 +16252,7 @@
             "examples": [
               {
                 "text": "The author's venom was apparent in the cruel words they chose to describe their detractors.",
-                "translation": ""
+                "translation": "作者的恶意从他们描述批评者的刻薄话语中表露无遗。"
               }
             ]
           },
@@ -16267,7 +16263,7 @@
             "examples": [
               {
                 "text": "The cobra's venom can kill a human being.",
-                "translation": ""
+                "translation": "眼镜蛇的毒液可以杀死一个人。"
               }
             ]
           }
@@ -16276,8 +16272,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16300,11 +16296,11 @@
           {
             "id": "venomed-adjective-1",
             "definition": "full of malice or hate",
-            "translation": "充满",
+            "translation": "满怀恶意的；恶毒满满的",
             "examples": [
               {
                 "text": "Your venomed remarks are unwelcome at the dinner table.",
-                "translation": ""
+                "translation": "你这番恶毒的话在餐桌上是不受欢迎的。"
               }
             ]
           },
@@ -16315,7 +16311,7 @@
             "examples": [
               {
                 "text": "The venomed snake bite sent me to the hospital.",
-                "translation": ""
+                "translation": "被毒蛇咬了一口让我进了医院。"
               }
             ]
           }
@@ -16324,8 +16320,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16357,7 +16353,7 @@
             "examples": [
               {
                 "text": "Your venomous actions are ignoble.",
-                "translation": ""
+                "translation": "你恶毒的行为是不光彩的。"
               }
             ]
           },
@@ -16368,7 +16364,7 @@
             "examples": [
               {
                 "text": "The snake is venomous.",
-                "translation": ""
+                "translation": "这条蛇有毒。"
               }
             ]
           }
@@ -16377,8 +16373,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763616000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16407,7 +16403,7 @@
             "examples": [
               {
                 "text": "You spoke venomously of our friends.",
-                "translation": ""
+                "translation": "你恶毒地谈论我们的朋友。"
               }
             ]
           }
@@ -16416,8 +16412,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16444,7 +16440,7 @@
             "examples": [
               {
                 "text": "The venose painting was made without a brush.",
-                "translation": ""
+                "translation": "这幅有静脉纹理的画是不用画笔画的。"
               }
             ]
           }
@@ -16453,15 +16449,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "venous",
     "pronunciation": {
       "us": {
-        "ipa": "ˈvinəs"
+        "ipa": "ˈvɛnəs"
       },
       "uk": {
         "ipa": "ˈvi:nəs"
@@ -16481,7 +16477,7 @@
             "examples": [
               {
                 "text": "The venous inflammation was more serious than it seemed.",
-                "translation": ""
+                "translation": "静脉炎症比看起来更严重。"
               }
             ]
           }
@@ -16491,19 +16487,19 @@
     "phrases": [
       {
         "text": "venous to venous bypass",
-        "translation": ""
+        "translation": "静脉-静脉搭桥术"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "vent",
     "pronunciation": {
       "us": {
-        "ipa": "vɛnt"
+        "ipa": "ˈvɛnt"
       },
       "uk": {
         "ipa": "vent"
@@ -16569,17 +16565,17 @@
           {
             "id": "vent-verb-1",
             "definition": "expose to cool or cold air so as to cool or freshen",
-            "translation": "",
+            "translation": "使通风；排放（气体）",
             "examples": []
           },
           {
             "id": "vent-verb-2",
             "definition": "give expression or utterance to",
-            "translation": "",
+            "translation": "发泄（情感）；表达",
             "examples": [
               {
                 "text": "They vented their anger.",
-                "translation": ""
+                "translation": "他们发泄了愤怒。"
               }
             ]
           }
@@ -16601,8 +16597,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16635,8 +16631,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16659,11 +16655,11 @@
           {
             "id": "vented-adjective-1",
             "definition": "supplied with a vent or vents for intake of air or discharge of gases or moisture",
-            "translation": "有通风口的",
+            "translation": "有通风口的；装有排气孔的",
             "examples": [
               {
                 "text": "I made sure my attic was well vented to avoid condensation.",
-                "translation": ""
+                "translation": "我确保阁楼有良好的通风以防止凝结水。"
               }
             ]
           }
@@ -16672,8 +16668,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16696,33 +16692,33 @@
           {
             "id": "venter-noun-1",
             "definition": "an individual, often a woman, with offspring",
-            "translation": "母体",
+            "translation": "母亲；育有子女者",
             "examples": [
               {
                 "text": "The venter had four babies.",
-                "translation": ""
+                "translation": "这位母亲育有四个孩子。"
               }
             ]
           },
           {
             "id": "venter-noun-2",
             "definition": "a hollow region of an area that protrudes, such as the region of the body of a vertebrate between the thorax and the pelvis or the womb",
-            "translation": "腹部",
+            "translation": "腹部；（脊椎动物的）腹腔；子宫",
             "examples": [
               {
                 "text": "The venter of the patient was covered in splotches.",
-                "translation": ""
+                "translation": "病人的腹部布满斑点。"
               }
             ]
           },
           {
             "id": "venter-noun-3",
             "definition": "a speaker who expresses or gives vent to a personal opinion or grievance",
-            "translation": "发声者",
+            "translation": "发泄不满者；倾诉者",
             "examples": [
               {
                 "text": "The town meeting was filled with venters who were against the new building project.",
-                "translation": ""
+                "translation": "镇民大会上挤满了反对新建筑项目的抱怨者。"
               }
             ]
           }
@@ -16731,8 +16727,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -16765,15 +16761,15 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763251200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
     "word": "ventilate",
     "pronunciation": {
       "us": {
-        "ipa": "vɛntɪlet"
+        "ipa": "ˈvɛntɪleɪt"
       },
       "uk": {
         "ipa": "ˈventɪleɪt"
@@ -16802,55 +16798,55 @@
           {
             "id": "ventilate-verb-1",
             "definition": "to expose to cool or cold air so as to cool or freshen",
-            "translation": "暴露在凉爽或冷空气中以冷却或清新",
+            "translation": "使通风；使空气流通",
             "examples": [
               {
                 "text": "Many Europeans like to ventilate rooms with fresh air, even in the dead of winter.",
-                "translation": ""
+                "translation": "许多欧洲人喜欢用新鲜空气给房间通风，即使在严冬也是如此。"
               }
             ]
           },
           {
             "id": "ventilate-verb-2",
             "definition": "to furnish with an opening to allow air to circulate or gas to escape",
-            "translation": "",
+            "translation": "给……安装通风装置；使……通风",
             "examples": [
               {
                 "text": "We ventilated the basement.",
-                "translation": ""
+                "translation": "我们给地下室安装了通风设备。"
               }
             ]
           },
           {
             "id": "ventilate-verb-3",
             "definition": "to give expression or utterance to",
-            "translation": "",
+            "translation": "表达；吐露",
             "examples": [
               {
                 "text": "They ventilated their deepest secrets to their psychologists.",
-                "translation": ""
+                "translation": "他们向心理医生倾诉了内心最深的秘密。"
               }
             ]
           },
           {
             "id": "ventilate-verb-4",
             "definition": "to circulate through and freshen",
-            "translation": "",
+            "translation": "使空气流通；使通风",
             "examples": [
               {
                 "text": "The gust of air ventilated the room.",
-                "translation": ""
+                "translation": "一阵风吹来，使房间空气流通起来。"
               }
             ]
           },
           {
             "id": "ventilate-verb-5",
             "definition": "to expose to the circulation of fresh air so as to retard spoilage",
-            "translation": "",
+            "translation": "使（粮食等）通风以防霉变",
             "examples": [
               {
                 "text": "Wheat should be well ventilated.",
-                "translation": ""
+                "translation": "小麦应该充分通风以防止霉变。"
               }
             ]
           }
@@ -16859,8 +16855,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782566400
     }
   },
   {
@@ -22495,7 +22491,7 @@
           {
             "id": "vesicate-verb-1",
             "definition": "to get blistered",
-            "translation": "",
+            "translation": "使起水疱；起疱",
             "examples": [
               {
                 "text": "This area is vesicating.",
@@ -25069,7 +25065,7 @@
           {
             "id": "vibes-noun-1",
             "definition": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound",
-            "translation": "",
+            "translation": "电颤琴（一种类似木琴的打击乐器，共鸣箱内有金属条和旋转盘，可产生颤音效果）",
             "examples": []
           }
         ]
@@ -25103,7 +25099,7 @@
           {
             "id": "vibist-noun-1",
             "definition": "a musician who plays the vibraphone",
-            "translation": "",
+            "translation": "电颤琴演奏者；颤音琴手",
             "examples": []
           }
         ]
@@ -25137,7 +25133,7 @@
           {
             "id": "vibraharp-noun-1",
             "definition": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound",
-            "translation": "",
+            "translation": "电颤琴；颤音琴",
             "examples": []
           }
         ]
@@ -25173,7 +25169,7 @@
           {
             "id": "vibrancy-noun-1",
             "definition": "having the character of a loud deep sound",
-            "translation": "",
+            "translation": "响亮深沉；洪亮；震动力",
             "examples": [
               {
                 "text": "This amplifier has excellent vibrancy.",
@@ -25272,7 +25268,7 @@
           {
             "id": "vibraphone-noun-1",
             "definition": "a percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce a vibrato sound",
-            "translation": "",
+            "translation": "电颤琴；颤音琴",
             "examples": []
           }
         ]
@@ -25306,7 +25302,7 @@
           {
             "id": "vibraphonist-noun-1",
             "definition": "a musician who plays the vibraphone",
-            "translation": "",
+            "translation": "电颤琴演奏者；颤音琴演奏家",
             "examples": []
           }
         ]
@@ -29228,7 +29224,7 @@
           {
             "id": "vigour-noun-1",
             "definition": "an imaginative lively style, especially a style of writing",
-            "translation": "",
+            "translation": "（尤指写作风格的）生动有力；气势磅礴",
             "examples": [
               {
                 "text": "The writer's vigour made reading their work a real joy.",
@@ -29239,7 +29235,7 @@
           {
             "id": "vigour-noun-2",
             "definition": "active strength of body or mind",
-            "translation": "",
+            "translation": "体力或精神的旺盛活力",
             "examples": [
               {
                 "text": "The footballer was well known for their vigour.",
@@ -29250,7 +29246,7 @@
           {
             "id": "vigour-noun-3",
             "definition": "forceful exertion",
-            "translation": "",
+            "translation": "强劲的用力；奋力",
             "examples": [
               {
                 "text": "Your vigour on the pitch does not go unnoticed.",
@@ -29954,13 +29950,13 @@
           {
             "id": "villainy-noun-1",
             "definition": "a criminal or vicious act",
-            "translation": "",
+            "translation": "罪行；恶行",
             "examples": []
           },
           {
             "id": "villainy-noun-2",
             "definition": "the quality of evil by virtue of villainous behavior",
-            "translation": "",
+            "translation": "邪恶；罪恶的本质",
             "examples": []
           }
         ]
@@ -29992,7 +29988,7 @@
           {
             "id": "villein-noun-1",
             "definition": "a person who is bound to the land and owned by the feudal lord",
-            "translation": "",
+            "translation": "农奴；隶农",
             "examples": [
               {
                 "text": "The villeins tended the fields for most of summer.",
