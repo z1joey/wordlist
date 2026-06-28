@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4695 | **← Backward**: v.json index 130 | **Updated**: 1751219564
+> **→ Forward**: b.json index 469 | **← Backward**: u.json index 2406 | **Updated**: 1782640618
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 9,668 |
-| Remaining | 55,199 |
-| Completion | 14.9% |
-| Forward agent | a.json (4,852 / 4,900) |
-| Backward agent | v.json (1,180 / 1,058) |
+| Reviewed & validated | 9,829 |
+| Remaining | 55,038 |
+| Completion | 15.2% |
+| Forward agent | b.json (1,575 / 3,601) |
+| Backward agent | u.json (610 / 2,578) |
 
 ## 📋 File Progress
 
@@ -21,8 +21,8 @@
 
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
-| a.json | 4,900 | 4,852 | █████████████████ 99% | → in_progress |
-| b.json | 3,601 | 1,450 | ████████░░░░░░░░░░ 40% | ⬜ pending (a.json not finished) |
+| a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
+| b.json | 3,601 | 1,575 | █████████░░░░░░░░░ 44% | → in_progress |
 | c.json | 6,275 | 0 | ···················· 0% | ⬜ pending |
 | d.json | 3,729 | 0 | ···················· 0% | ⬜ pending |
 | e.json | 2,639 | 0 | ···················· 0% | ⬜ pending |
@@ -41,41 +41,26 @@
 | r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
-| u.json | 2,578 | 610 | ████░░░░░░░░░░░░░ 24% | ⬜ pending (v.json not finished) |
-| v.json | 1,058 | 1,180 | ███████████████████ 100%+ | ← in_progress |
+| u.json | 2,578 | 610 | ████░░░░░░░░░░░░░ 24% | ← in_progress |
+| v.json | 1,058 | 1,058 | ███████████████████ 100% | ✅ done |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **9,668** | **14.9%** | |
+| **Total** | **64,867** | **9,704** | **15.0%** | |
 
 ## 🔄 Current Batches
 
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
-| → Forward | F-a-0188 | a.json | 4695–4719 | ⬜ pending | — |
-| ← Backward | B-v-0062 | v.json | 130–106 | ⬜ pending | — |
+| → Forward | F-b-0006 | b.json | 469–493 | ⬜ pending | — |
+| ← Backward | B-u-0001 | u.json | 2406–2382 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
-| F-a-0183 | a.json | 4570–4594 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| F-a-0184 | a.json | 4595–4619 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| F-a-0185 | a.json | 4620–4644 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| F-a-0186 | a.json | 4645–4669 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| F-a-0187 | a.json | 4670–4694 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| F-a-0182 | a.json | 4545–4569 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-v-0052 | v.json | 380–356 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0053 | v.json | 355–331 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0054 | v.json | 330–306 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0055 | v.json | 305–281 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0056 | v.json | 280–256 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0057 | v.json | 255–231 | 25 | cron-backward | — | ✅ done |
-| B-v-0058 | v.json | 230–206 | 25 | cron-backward | — | ✅ done |
-| B-v-0059 | v.json | 205–181 | 25 | cron-backward | — | ✅ done |
-| B-v-0060 | v.json | 180–156 | 25 | cron-backward | — | ✅ done |
-| B-v-0061 | v.json | 155–131 | 25 | cron-backward | — | ✅ done |
+| — | a.json | final entries | 20 | deepseek-v4-pro | deepseek-v4-pro | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 

@@ -16185,7 +16185,7 @@
           {
             "id": "bandana-noun-1",
             "definition": "large and brightly colored handkerchief",
-            "translation": "",
+            "translation": "大头巾（色彩鲜艳的大手帕）",
             "examples": []
           }
         ]
@@ -16193,8 +16193,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16221,11 +16221,11 @@
           {
             "id": "bandanna-noun-1",
             "definition": "large and brightly colored handkerchief",
-            "translation": "",
+            "translation": "大头巾（色彩鲜艳的大手帕）",
             "examples": [
               {
                 "text": "I wore a blue bandanna.",
-                "translation": ""
+                "translation": "我戴了一条蓝色大头巾。"
               }
             ]
           }
@@ -16234,8 +16234,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16266,7 +16266,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16292,7 +16292,7 @@
           {
             "id": "bandeau-noun-1",
             "definition": "an undergarment worn by women to support their breasts",
-            "translation": "束发带",
+            "translation": "无肩带胸罩；束胸带",
             "examples": []
           }
         ]
@@ -16300,7 +16300,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16324,33 +16324,33 @@
           {
             "id": "banded-adjective-1",
             "definition": "identified with a band especially around a leg",
-            "translation": "乐队",
+            "translation": "有条纹的；有带子的",
             "examples": [
               {
                 "text": "They kept watch for the return of their banded birds.",
-                "translation": ""
+                "translation": "他们守望着带纹鸟儿的归来。"
               }
             ]
           },
           {
             "id": "banded-adjective-2",
             "definition": "characterized by a band of especially white around the body",
-            "translation": "以…为特征",
+            "translation": "有环纹的；有色带的",
             "examples": [
               {
                 "text": "The banded cattle grazed in the open field.",
-                "translation": ""
+                "translation": "这些带纹的牛在空旷的田野里吃草。"
               }
             ]
           },
           {
             "id": "banded-adjective-3",
             "definition": "marked with bands or strips of contrasting color or texture",
-            "translation": "乐队",
+            "translation": "带状的；条纹状的",
             "examples": [
               {
                 "text": "We came across a banded rock on our hike.",
-                "translation": ""
+                "translation": "我们在徒步旅行中遇到了一块带状岩石。"
               }
             ]
           }
@@ -16360,11 +16360,11 @@
     "phrases": [
       {
         "text": "banded together",
-        "translation": "乐队一起"
+        "translation": "联合起来；团结起来"
       }
     ],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16398,7 +16398,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16432,7 +16432,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16464,7 +16464,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16496,7 +16496,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16528,7 +16528,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16556,13 +16556,13 @@
           {
             "id": "banding-noun-1",
             "definition": "an adornment consisting of a strip of a contrasting color or material",
-            "translation": "乐队",
+            "translation": "色带；条纹；装饰带",
             "examples": []
           },
           {
             "id": "banding-noun-2",
             "definition": "a stripe or stripes of contrasting color",
-            "translation": "乐队",
+            "translation": "条纹；色带",
             "examples": []
           }
         ]
@@ -16571,11 +16571,11 @@
     "phrases": [
       {
         "text": "banding up",
-        "translation": ""
+        "translation": "联合起来；结伙"
       }
     ],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16604,7 +16604,7 @@
           {
             "id": "bandit-noun-1",
             "definition": "an armed thief who is (usually) a member of a band",
-            "translation": "",
+            "translation": "土匪；强盗；匪徒",
             "examples": []
           }
         ]
@@ -16612,8 +16612,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16644,7 +16644,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16670,7 +16670,7 @@
           {
             "id": "bandleader-noun-1",
             "definition": "the leader of a dance band",
-            "translation": "一个跳舞乐队的领袖",
+            "translation": "乐队指挥；舞厅乐队领奏",
             "examples": []
           }
         ]
@@ -16678,8 +16678,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16712,7 +16712,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16738,7 +16738,7 @@
           {
             "id": "bandmaster-noun-1",
             "definition": "the conductor of a band",
-            "translation": "",
+            "translation": "军乐队指挥；乐队指挥",
             "examples": []
           }
         ]
@@ -16746,8 +16746,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16780,7 +16780,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16814,7 +16814,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16846,7 +16846,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16878,7 +16878,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16910,7 +16910,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -16936,11 +16936,11 @@
           {
             "id": "bandstand-noun-1",
             "definition": "a platform where a band can play in the open air",
-            "translation": "",
+            "translation": "露天音乐台；广场音乐亭",
             "examples": [
               {
                 "text": "The bandstand was full of musicians who played beautiful music into the night.",
-                "translation": ""
+                "translation": "音乐台上挤满了乐手，他们演奏着优美的音乐直至深夜。"
               }
             ]
           }
@@ -16949,8 +16949,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -16981,7 +16981,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17005,22 +17005,22 @@
           {
             "id": "bandwagon-noun-1",
             "definition": "a large ornate wagon for carrying a musical band",
-            "translation": "",
+            "translation": "（装饰华丽的）乐队彩车；马戏团乐队车",
             "examples": [
               {
                 "text": "the gaudy bandwagon led the circus parade",
-                "translation": ""
+                "translation": "花哨的乐队彩车走在马戏团游行队伍的前面"
               }
             ]
           },
           {
             "id": "bandwagon-noun-2",
             "definition": "a popular trend that attracts growing support",
-            "translation": "",
+            "translation": "跟风潮；潮流；浪潮",
             "examples": [
               {
                 "text": "when they saw how things were going everybody jumped on the bandwagon",
-                "translation": ""
+                "translation": "当他们看到形势的发展后，所有人都趋之若鹜"
               }
             ]
           }
@@ -17029,8 +17029,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17062,12 +17062,12 @@
     "phrases": [
       {
         "text": "bandwidth on demand",
-        "translation": ""
+        "translation": "按需带宽；弹性带宽"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17098,7 +17098,7 @@
           {
             "id": "bandy-adjective-1",
             "definition": "have legs that curve outward at the knees",
-            "translation": "",
+            "translation": "腿外翻的；膝外翻的",
             "examples": []
           }
         ]
@@ -17109,33 +17109,33 @@
           {
             "id": "bandy-verb-1",
             "definition": "to discuss lightly",
-            "translation": "",
+            "translation": "随便谈论；轻率讨论",
             "examples": [
               {
                 "text": "Don't bandy about such topics.",
-                "translation": ""
+                "translation": "不要轻率地讨论这样的话题。"
               }
             ]
           },
           {
             "id": "bandy-verb-2",
             "definition": "to exchange blows",
-            "translation": "交换吹",
+            "translation": "互殴；对打",
             "examples": [
               {
                 "text": "They boxers bandied for ten rounds.",
-                "translation": ""
+                "translation": "拳击手们互殴了十个回合。"
               }
             ]
           },
           {
             "id": "bandy-verb-3",
             "definition": "to toss or strike a ball back and forth",
-            "translation": "",
+            "translation": "来回投掷；来回击打",
             "examples": [
               {
                 "text": "We bandied the ball around for fun.",
-                "translation": ""
+                "translation": "我们来回击球取乐。"
               }
             ]
           }
@@ -17145,16 +17145,16 @@
     "phrases": [
       {
         "text": "bandy about",
-        "translation": ""
+        "translation": "传播；散布"
       },
       {
         "text": "bandy with",
-        "translation": ""
+        "translation": "与…辩论；与…争辩"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17187,7 +17187,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17215,11 +17215,11 @@
           {
             "id": "bane-noun-1",
             "definition": "something causing misery or death",
-            "translation": "",
+            "translation": "祸根；灾难的根源",
             "examples": [
               {
                 "text": "That new pop song is the bane of my existence.",
-                "translation": ""
+                "translation": "那首新流行歌曲是我生活的克星。"
               }
             ]
           }
@@ -17228,8 +17228,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17266,7 +17266,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17293,13 +17293,13 @@
           {
             "id": "baneful-adjective-1",
             "definition": "deadly or sinister",
-            "translation": "",
+            "translation": "致命的；阴险的",
             "examples": []
           },
           {
             "id": "baneful-adjective-2",
             "definition": "exceedingly harmful",
-            "translation": "",
+            "translation": "极其有害的",
             "examples": []
           }
         ]
@@ -17307,8 +17307,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17337,7 +17337,7 @@
             "examples": [
               {
                 "text": "this banefully poisoned climate",
-                "translation": ""
+                "translation": "这个充满毒害的环境"
               }
             ]
           }
@@ -17346,7 +17346,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17407,13 +17407,21 @@
             "id": "bang-noun-1",
             "definition": "a conspicuous success",
             "translation": "巨大的成功",
-            "examples": []
+            "examples": [
+              {
+                "translation": "我敲了敲鼓。"
+              }
+            ]
           },
           {
             "id": "bang-noun-2",
             "definition": "a border of hair that is cut short and hangs across the forehead",
             "translation": "刘海",
-            "examples": []
+            "examples": [
+              {
+                "translation": "我砰地关上门，冲进房间。"
+              }
+            ]
           },
           {
             "id": "bang-noun-3",
@@ -17434,7 +17442,7 @@
             "examples": [
               {
                 "text": "they got a great bang out of it",
-                "translation": "他们从中得到了巨大的乐趣。"
+                "translation": "其中一人敲响了我床边的窗框"
               }
             ]
           }
@@ -17504,80 +17512,80 @@
     "phrases": [
       {
         "text": "bang about",
-        "translation": ""
+        "translation": "四处猛敲"
       },
       {
         "text": "bang against",
-        "translation": ""
+        "translation": "砰地撞上"
       },
       {
         "text": "bang around",
-        "translation": ""
+        "translation": "四处奔波"
       },
       {
         "text": "bang at",
-        "translation": ""
+        "translation": "砰砰敲门"
       },
       {
         "text": "bang away",
-        "translation": ""
+        "translation": "持续猛击"
       },
       {
         "text": "bang away at",
-        "translation": ""
+        "translation": "猛攻；持续打击"
       },
       {
         "text": "bang in",
-        "translation": ""
+        "translation": "砰地击中要害"
       },
       {
         "text": "bang in the centre",
-        "translation": ""
+        "translation": "正中心脏位置"
       },
       {
         "text": "bang in the middle",
-        "translation": ""
+        "translation": "正中中心"
       },
       {
         "text": "bang in the middle (of)",
-        "translation": ""
+        "translation": "正好在...中心"
       },
       {
         "text": "bang into",
-        "translation": ""
+        "translation": "撞上；碰到"
       },
       {
         "text": "bang off",
-        "translation": ""
+        "translation": "立刻离开"
       },
       {
         "text": "bang on",
-        "translation": ""
+        "translation": "完全正确；击中要害"
       },
       {
         "text": "bang on about",
-        "translation": ""
+        "translation": "絮絮叨叨"
       },
       {
         "text": "bang out",
-        "translation": ""
+        "translation": "敲出（乐曲）；赶制"
       },
       {
         "text": "bang to",
-        "translation": ""
+        "translation": "砰地关上"
       },
       {
         "text": "bang up",
-        "translation": ""
+        "translation": "撞伤；猛击"
       },
       {
         "text": "bang up against",
-        "translation": ""
+        "translation": "猛然撞上"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17602,13 +17610,13 @@
           {
             "id": "banger-noun-1",
             "definition": "firework consisting of a small explosive charge and fuse in a heavy paper casing",
-            "translation": "香肠",
+            "translation": "鞭炮；爆竹",
             "examples": []
           },
           {
             "id": "banger-noun-2",
             "definition": "(British informal) pork sausage",
-            "translation": "警车",
+            "translation": "（英式英语）香肠",
             "examples": []
           }
         ]
@@ -17616,7 +17624,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17643,7 +17651,7 @@
           {
             "id": "banging-adjective-1",
             "definition": "(used informally) very large",
-            "translation": "砰然的",
+            "translation": "巨大的；超大尺码的",
             "examples": []
           }
         ]
@@ -17654,13 +17662,13 @@
           {
             "id": "banging-noun-1",
             "definition": "the act of subjecting to strong attack",
-            "translation": "猛烈的",
+            "translation": "猛击；痛击",
             "examples": []
           },
           {
             "id": "banging-noun-2",
             "definition": "a continuing very loud noise",
-            "translation": "",
+            "translation": "持续的巨响；砰砰声",
             "examples": []
           }
         ]
@@ -17669,35 +17677,35 @@
     "phrases": [
       {
         "text": "banging about",
-        "translation": ""
+        "translation": "四处猛敲"
       },
       {
         "text": "banging around",
-        "translation": ""
+        "translation": "四处猛敲"
       },
       {
         "text": "banging into",
-        "translation": ""
+        "translation": "猛撞到"
       },
       {
         "text": "banging off",
-        "translation": ""
+        "translation": "突然离开"
       },
       {
         "text": "banging on",
-        "translation": ""
+        "translation": "大声敲击"
       },
       {
         "text": "banging out",
-        "translation": ""
+        "translation": "敲出（乐曲）"
       },
       {
         "text": "banging up",
-        "translation": ""
+        "translation": "猛撞；猛击"
       }
     ],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17721,11 +17729,11 @@
           {
             "id": "bangladeshi-adjective-1",
             "definition": "of or relating to or characteristic of Bangladesh or its people or language",
-            "translation": "语言的",
+            "translation": "孟加拉国的；孟加拉人的",
             "examples": [
               {
                 "text": "Bangladeshi dialects",
-                "translation": ""
+                "translation": "孟加拉方言"
               }
             ]
           }
@@ -17734,8 +17742,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17761,13 +17769,13 @@
           {
             "id": "bangle-noun-1",
             "definition": "cheap showy jewelry or ornament on clothing",
-            "translation": "",
+            "translation": "廉价华丽的首饰；装饰品",
             "examples": []
           },
           {
             "id": "bangle-noun-2",
             "definition": "jewelry worn around the wrist for decoration",
-            "translation": "",
+            "translation": "手镯；脚镯",
             "examples": []
           }
         ]
@@ -17775,8 +17783,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17801,7 +17809,7 @@
           {
             "id": "bangtail-noun-1",
             "definition": "a horse bred for racing",
-            "translation": "剪尾羊",
+            "translation": "赛马",
             "examples": []
           }
         ]
@@ -17809,7 +17817,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17835,13 +17843,13 @@
           {
             "id": "banian-noun-1",
             "definition": "a loose fitting jacket",
-            "translation": "榕树",
+            "translation": "（印度）宽松夹克；罩衫",
             "examples": []
           },
           {
             "id": "banian-noun-2",
             "definition": "East Indian tree that puts out aerial shoots that grow down into the soil forming additional trunks",
-            "translation": "印度商人",
+            "translation": "（印度）榕树；孟加拉榕",
             "examples": []
           }
         ]
@@ -17849,7 +17857,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -17885,44 +17893,44 @@
           {
             "id": "banish-verb-1",
             "definition": "to drive away",
-            "translation": "开车离开",
+            "translation": "驱赶；赶走",
             "examples": [
               {
                 "text": "I banish bad thoughts from my mind.",
-                "translation": ""
+                "translation": "我从心中驱走了不好的念头。"
               }
             ]
           },
           {
             "id": "banish-verb-2",
             "definition": "to expel, as if by official decree",
-            "translation": "",
+            "translation": "驱逐；流放",
             "examples": [
               {
                 "text": "I was banished from my own country.",
-                "translation": ""
+                "translation": "我被驱逐出祖国。"
               }
             ]
           },
           {
             "id": "banish-verb-3",
             "definition": "to expel from a community or group",
-            "translation": "",
+            "translation": "逐出；开除",
             "examples": [
               {
                 "text": "Their family banished them for marrying a member of the other religion.",
-                "translation": ""
+                "translation": "他们的家族因与异教成员通婚而将他们逐出。"
               }
             ]
           },
           {
             "id": "banish-verb-4",
             "definition": "to ban from a place of residence, as for punishment",
-            "translation": "",
+            "translation": "放逐；流放",
             "examples": [
               {
                 "text": "I banished them from our restaurant.",
-                "translation": ""
+                "translation": "我把他们从餐馆赶出去了。"
               }
             ]
           }
@@ -17932,12 +17940,12 @@
     "phrases": [
       {
         "text": "banish to",
-        "translation": ""
+        "translation": "放逐到..."
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -17964,17 +17972,17 @@
           {
             "id": "banishment-noun-1",
             "definition": "rejection by means of an act of banishing or proscribing someone",
-            "translation": "",
+            "translation": "流放；驱逐",
             "examples": []
           },
           {
             "id": "banishment-noun-2",
             "definition": "the state of being banished, ostracized,or otherwise excluded from society by general consent",
-            "translation": "…的状态",
+            "translation": "被流放的状态；被排斥的状态",
             "examples": [
               {
                 "text": "They left home after their banishment from the town.",
-                "translation": ""
+                "translation": "他们被逐出小镇后离开了家。"
               }
             ]
           }
@@ -17983,8 +17991,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18011,7 +18019,7 @@
           {
             "id": "banister-noun-1",
             "definition": "a railing at the side of a staircase or balcony to prevent people from falling",
-            "translation": "",
+            "translation": "楼梯扶手；阳台栏杆",
             "examples": []
           }
         ]
@@ -18019,8 +18027,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18043,7 +18051,7 @@
           {
             "id": "banjo-noun-1",
             "definition": "a stringed instrument of the guitar family that has long neck and circular body",
-            "translation": "",
+            "translation": "班卓琴；五弦琴",
             "examples": []
           }
         ]
@@ -18051,8 +18059,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18091,7 +18099,7 @@
           {
             "id": "bank-noun-1",
             "definition": "a flight maneuver",
-            "translation": "银行",
+            "translation": "倾斜转弯；倾斜动作",
             "examples": []
           },
           {
@@ -18101,18 +18109,18 @@
             "examples": [
               {
                 "text": "the bank is on the corner of Nassau and Witherspoon",
-                "translation": ""
+                "translation": "银行在拿骚街和威瑟斯普恩街的拐角处"
               }
             ]
           },
           {
             "id": "bank-noun-3",
             "definition": "a container, usually with a slot in the top, for keeping money at home",
-            "translation": "银行",
+            "translation": "存钱罐；扑满",
             "examples": [
               {
                 "text": "I used to have a bank shaped like a pig. ",
-                "translation": ""
+                "translation": "我以前有一个猪形的存钱罐。"
               }
             ]
           },
@@ -18123,47 +18131,47 @@
             "examples": [
               {
                 "text": "They cashed a check at the bank.",
-                "translation": ""
+                "translation": "他们在银行兑现了一张支票。"
               }
             ]
           },
           {
             "id": "bank-noun-5",
             "definition": "an arrangement of similar objects in a row or in tiers",
-            "translation": "银行",
+            "translation": "一排；一组",
             "examples": [
               {
                 "text": "They operated a bank of switches.",
-                "translation": ""
+                "translation": "他们操作着一排开关。"
               }
             ]
           },
           {
             "id": "bank-noun-6",
             "definition": "a long ridge or pile",
-            "translation": "银行",
+            "translation": "堤；岸",
             "examples": [
               {
                 "text": "a huge bank of earth",
-                "translation": ""
+                "translation": "一大堆土"
               }
             ]
           },
           {
             "id": "bank-noun-7",
             "definition": "sloping land (especially the slope beside a body of water)",
-            "translation": "银行",
+            "translation": "（河）岸；堤岸",
             "examples": [
               {
                 "text": "they pulled the canoe up on the bank",
-                "translation": ""
+                "translation": "他们把独木舟拖上岸"
               }
             ]
           },
           {
             "id": "bank-noun-8",
             "definition": "a slope in the turn of a road or track",
-            "translation": "银行",
+            "translation": "（道路的）倾斜弯道",
             "examples": []
           },
           {
@@ -18191,88 +18199,88 @@
           {
             "id": "bank-verb-1",
             "definition": "to have confidence or faith in",
-            "translation": "银行",
+            "translation": "指望；依赖",
             "examples": [
               {
                 "text": "I banked on their intentions.",
-                "translation": ""
+                "translation": "我相信他们的意图。"
               }
             ]
           },
           {
             "id": "bank-verb-2",
             "definition": "to cover with ashes so to control the rate of burning",
-            "translation": "银行",
+            "translation": "用灰覆盖控制燃烧",
             "examples": [
               {
                 "text": "The fire fighters are going to bank the blaze.",
-                "translation": ""
+                "translation": "消防员要用灰烬压住火势。"
               }
             ]
           },
           {
             "id": "bank-verb-3",
             "definition": "to enclose with a bank",
-            "translation": "银行",
+            "translation": "筑堤；围起来",
             "examples": [
               {
                 "text": "The highway engineers banked the sharp curves on the road.",
-                "translation": ""
+                "translation": "公路工程师们在道路的急转弯处筑起了坡道。"
               }
             ]
           },
           {
             "id": "bank-verb-4",
             "definition": "to tip laterally",
-            "translation": "银行",
+            "translation": "使倾斜；使转向",
             "examples": [
               {
                 "text": "The pilot had to bank the aircraft.",
-                "translation": ""
+                "translation": "飞行员不得不使飞机倾斜。"
               }
             ]
           },
           {
             "id": "bank-verb-5",
             "definition": "to put into a bank account",
-            "translation": "放入",
+            "translation": "把…存入银行",
             "examples": [
               {
                 "text": "I banked my paycheck.",
-                "translation": ""
+                "translation": "我把工资存进银行。"
               }
             ]
           },
           {
             "id": "bank-verb-6",
             "definition": "to be in the banking business",
-            "translation": "银行",
+            "translation": "从事银行业",
             "examples": [
               {
                 "text": "Should we be banking at all?",
-                "translation": ""
+                "translation": "我们应该做银行业吗？"
               }
             ]
           },
           {
             "id": "bank-verb-7",
             "definition": "to act as the banker in a game or in gambling",
-            "translation": "银行",
+            "translation": "做庄家；做银行",
             "examples": [
               {
                 "text": "Do you want to bank?",
-                "translation": ""
+                "translation": "你想做庄吗？"
               }
             ]
           },
           {
             "id": "bank-verb-8",
             "definition": "to do business with a bank or keep an account at a bank",
-            "translation": "银行",
+            "translation": "在银行开户；在银行办理业务",
             "examples": [
               {
                 "text": "Where do you bank in this town?",
-                "translation": ""
+                "translation": "你在镇上的哪家银行开户？"
               }
             ]
           }
@@ -18282,7 +18290,7 @@
     "phrases": [
       {
         "text": "bank at",
-        "translation": ""
+        "translation": "在…银行开户"
       },
       {
         "text": "Bank in Liechtenstein",
@@ -18290,27 +18298,27 @@
       },
       {
         "text": "bank on",
-        "translation": ""
+        "translation": "指望；依赖"
       },
       {
         "text": "bank out",
-        "translation": ""
+        "translation": "把…存入银行"
       },
       {
         "text": "bank to bank l/c",
-        "translation": ""
+        "translation": "在列支敦士登的银行"
       },
       {
         "text": "bank to turn technique",
-        "translation": ""
+        "translation": "银行间信用证"
       },
       {
         "text": "bank up",
-        "translation": ""
+        "translation": "转弯技术"
       },
       {
         "text": "bank upon",
-        "translation": "银行在...上"
+        "translation": "堆积；积聚"
       },
       {
         "text": "bank with",
@@ -18318,16 +18326,19 @@
       },
       {
         "text": "bank with credits opened",
-        "translation": ""
+        "translation": "与…有银行业务关系"
       },
       {
         "text": "bank with whom the credits opened",
-        "translation": ""
+        "translation": "开证银行"
+      },
+      {
+        "translation": "开证银行"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18354,7 +18365,7 @@
             "examples": [
               {
                 "text": "bankable funds",
-                "translation": ""
+                "translation": "可用支票提取的资金"
               }
             ]
           },
@@ -18365,7 +18376,7 @@
             "examples": [
               {
                 "text": "without bankable stars the film script aroused no interest",
-                "translation": ""
+                "translation": "没有大明星的保证，这部电影剧本没有引起任何兴趣"
               }
             ]
           }
@@ -18374,7 +18385,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -18408,7 +18419,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -18435,13 +18446,13 @@
           {
             "id": "banker-noun-1",
             "definition": "the person in charge of the bank in a gambling game",
-            "translation": "",
+            "translation": "（赌局的）庄家；主持人",
             "examples": []
           },
           {
             "id": "banker-noun-2",
             "definition": "a financier who owns or is an executive in a bank",
-            "translation": "",
+            "translation": "银行家；金融业者",
             "examples": []
           }
         ]
@@ -18449,8 +18460,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18475,13 +18486,13 @@
           {
             "id": "banking-noun-1",
             "definition": "transacting business with a bank",
-            "translation": "银行业",
+            "translation": "银行业务；与银行交易",
             "examples": []
           },
           {
             "id": "banking-noun-2",
             "definition": "engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.",
-            "translation": "银行业",
+            "translation": "银行业；银行经营",
             "examples": []
           }
         ]
@@ -18490,20 +18501,20 @@
     "phrases": [
       {
         "text": "banking by phone",
-        "translation": ""
+        "translation": "电话银行业务"
       },
       {
         "text": "banking on",
-        "translation": ""
+        "translation": "指望；依赖"
       },
       {
         "text": "banking up",
-        "translation": ""
+        "translation": "堆积；积聚"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18528,7 +18539,7 @@
           {
             "id": "banknote-noun-1",
             "definition": "a piece of paper money (especially one issued by a central bank)",
-            "translation": "",
+            "translation": "纸币；钞票",
             "examples": []
           }
         ]
@@ -18536,8 +18547,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18566,7 +18577,7 @@
           {
             "id": "bankroll-noun-1",
             "definition": "a roll of currency notes (often taken as the resources of a person or business etc.)",
-            "translation": "",
+            "translation": "资金；现金储备",
             "examples": []
           }
         ]
@@ -18577,11 +18588,11 @@
           {
             "id": "bankroll-verb-1",
             "definition": "to provide with sufficient funds",
-            "translation": "",
+            "translation": "资助；为…提供资金",
             "examples": [
               {
                 "text": "My best friend bankrolled my restaurant opening.",
-                "translation": ""
+                "translation": "我最好的朋友资助了我开餐馆。"
               }
             ]
           }
@@ -18590,8 +18601,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18627,11 +18638,11 @@
           {
             "id": "bankrupt-adjective-1",
             "definition": "financially ruined",
-            "translation": "破产的",
+            "translation": "破产的；无力偿债的",
             "examples": [
               {
                 "text": "a bankrupt company",
-                "translation": ""
+                "translation": "一家破产的公司"
               }
             ]
           }
@@ -18643,7 +18654,7 @@
           {
             "id": "bankrupt-noun-1",
             "definition": "someone who has insufficient assets to cover their debts",
-            "translation": "破产的",
+            "translation": "破产者；无力偿债的人",
             "examples": []
           }
         ]
@@ -18654,11 +18665,11 @@
           {
             "id": "bankrupt-verb-1",
             "definition": "to reduce to financial ruin",
-            "translation": "破产的",
+            "translation": "使破产；使无力偿债",
             "examples": [
               {
                 "text": "I bankrupt my opponents in Monopoly.",
-                "translation": ""
+                "translation": "我在大富翁游戏中让对手破产了。"
               }
             ]
           }
@@ -18668,12 +18679,12 @@
     "phrases": [
       {
         "text": "bankrupt in",
-        "translation": ""
+        "translation": "完全缺乏；完全丧失"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18701,28 +18712,28 @@
           {
             "id": "bankruptcy-noun-1",
             "definition": "a legal process intended to insure equality among the creditors of a corporation declared to be insolvent",
-            "translation": "",
+            "translation": "破产程序；清算程序",
             "examples": []
           },
           {
             "id": "bankruptcy-noun-2",
             "definition": "inability to discharge all your debts as they come due",
-            "translation": "",
+            "translation": "破产；无力偿债",
             "examples": [
               {
                 "text": "the company had to declare bankruptcy",
-                "translation": ""
+                "translation": "公司不得不宣布破产"
               }
             ]
           },
           {
             "id": "bankruptcy-noun-3",
             "definition": "a state of complete lack of some abstract property",
-            "translation": "",
+            "translation": "（某种品质的）完全丧失",
             "examples": [
               {
                 "text": "spiritual bankruptcy",
-                "translation": ""
+                "translation": "精神上的破产"
               }
             ]
           }
@@ -18731,8 +18742,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18763,7 +18774,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -18789,7 +18800,7 @@
           {
             "id": "banned-adjective-1",
             "definition": "forbidden by law",
-            "translation": "",
+            "translation": "被禁止的；被取缔的",
             "examples": []
           }
         ]
@@ -18797,8 +18808,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18829,7 +18840,7 @@
           {
             "id": "banner-adjective-1",
             "definition": "unusually good",
-            "translation": "",
+            "translation": "杰出的；优秀的",
             "examples": []
           }
         ]
@@ -18840,19 +18851,19 @@
           {
             "id": "banner-noun-1",
             "definition": "long strip of cloth or paper used for decoration or advertising",
-            "translation": "",
+            "translation": "横幅；旗帜",
             "examples": []
           },
           {
             "id": "banner-noun-2",
             "definition": "any distinctive flag",
-            "translation": "",
+            "translation": "旗帜；旗号",
             "examples": []
           },
           {
             "id": "banner-noun-3",
             "definition": "a newspaper headline that runs across the full page",
-            "translation": "",
+            "translation": "（报纸的）通栏大标题",
             "examples": []
           }
         ]
@@ -18860,8 +18871,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -18884,7 +18895,7 @@
           {
             "id": "banneret-noun-1",
             "definition": "a knight honored for valor",
-            "translation": "小旗",
+            "translation": "（因英勇而被授予骑士称号的）骑士",
             "examples": []
           }
         ]
@@ -18892,7 +18903,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -18920,7 +18931,7 @@
             "examples": [
               {
                 "text": "The child grabbed the hat and waved it at us bannerlike.",
-                "translation": ""
+                "translation": "孩子抓住帽子，像旗帜一样朝我们挥舞。"
               }
             ]
           }
@@ -18929,7 +18940,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -18963,7 +18974,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19000,7 +19011,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19032,7 +19043,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19056,7 +19067,7 @@
           {
             "id": "banns-noun-1",
             "definition": "a public announcement of a proposed marriage",
-            "translation": "",
+            "translation": "婚礼公告；结婚预告",
             "examples": []
           }
         ]
@@ -19064,8 +19075,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19102,18 +19113,18 @@
           {
             "id": "banquet-noun-1",
             "definition": "a meal that is well prepared and greatly enjoyed",
-            "translation": "",
+            "translation": "盛宴；豪华宴会",
             "examples": [
               {
                 "text": "a banquet for the graduating seniors",
-                "translation": ""
+                "translation": "为毕业班学生举办的盛宴"
               }
             ]
           },
           {
             "id": "banquet-noun-2",
             "definition": "a ceremonial dinner party for many people",
-            "translation": "",
+            "translation": "正式宴会",
             "examples": []
           }
         ]
@@ -19124,22 +19135,22 @@
           {
             "id": "banquet-verb-1",
             "definition": "to partake in a feast or banquet",
-            "translation": "",
+            "translation": "出席宴会；参加盛宴",
             "examples": [
               {
                 "text": "I banquet as often as possible.",
-                "translation": ""
+                "translation": "我尽可能经常地参加宴会。"
               }
             ]
           },
           {
             "id": "banquet-verb-2",
             "definition": "to provide a feast or banquet for",
-            "translation": "",
+            "translation": "设宴款待",
             "examples": [
               {
                 "text": "We banqueted our guests with the finest things we could afford.",
-                "translation": ""
+                "translation": "我们用最好的东西宴请客人。"
               }
             ]
           }
@@ -19148,8 +19159,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19174,7 +19185,7 @@
           {
             "id": "banqueting-noun-1",
             "definition": "eating an elaborate meal (often accompanied by entertainment)",
-            "translation": "参加宴会",
+            "translation": "宴会；盛宴",
             "examples": []
           }
         ]
@@ -19182,7 +19193,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19308,7 +19319,7 @@
           {
             "id": "bantam-adjective-1",
             "definition": "very small",
-            "translation": "矮脚鸡",
+            "translation": "矮小的；小型的",
             "examples": []
           }
         ]
@@ -19319,7 +19330,7 @@
           {
             "id": "bantam-noun-1",
             "definition": "any of various small breeds of fowl",
-            "translation": "小个子",
+            "translation": "矮脚鸡；小型鸡",
             "examples": []
           }
         ]
@@ -19327,7 +19338,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19365,7 +19376,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19400,7 +19411,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19432,7 +19443,7 @@
           {
             "id": "banter-noun-1",
             "definition": "light teasing repartee",
-            "translation": "",
+            "translation": "打趣；调侃；戏谑",
             "examples": []
           }
         ]
@@ -19443,11 +19454,11 @@
           {
             "id": "banter-verb-1",
             "definition": "to be silly or tease one another",
-            "translation": "",
+            "translation": "打趣；互相调侃",
             "examples": [
               {
                 "text": "I love to banter with my best friends.",
-                "translation": ""
+                "translation": "我喜欢和我最好的朋友们互相打趣。"
               }
             ]
           }
@@ -19457,16 +19468,16 @@
     "phrases": [
       {
         "text": "banter out of",
-        "translation": ""
+        "translation": "通过调侃摆脱"
       },
       {
         "text": "banter with",
-        "translation": ""
+        "translation": "与…打趣；与…调侃"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19489,11 +19500,11 @@
           {
             "id": "bantering-adjective-1",
             "definition": "cleverly amusing in tone",
-            "translation": "",
+            "translation": "调侃的；打趣的",
             "examples": [
               {
                 "text": "a bantering tone",
-                "translation": ""
+                "translation": "调侃的语气"
               }
             ]
           }
@@ -19502,8 +19513,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19565,7 +19576,7 @@
           {
             "id": "banting-noun-1",
             "definition": "wild ox of the Malay Archipelago",
-            "translation": "减肥疗法",
+            "translation": "亚洲野生牛；爪哇野牛",
             "examples": []
           }
         ]
@@ -19573,7 +19584,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19597,11 +19608,11 @@
           {
             "id": "bantoid-adjective-1",
             "definition": "relating to or designating languages that possess characteristics of Bantu",
-            "translation": "特征的",
+            "translation": "班图语的；类班图语的",
             "examples": [
               {
                 "text": "Bantoid languages",
-                "translation": ""
+                "translation": "班图语言"
               }
             ]
           }
@@ -19610,7 +19621,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19634,11 +19645,11 @@
           {
             "id": "bantu-adjective-1",
             "definition": "of or relating to the African people who speak one of the Bantoid languages or to their culture",
-            "translation": "文化的",
+            "translation": "班图人的；班图文化的",
             "examples": [
               {
                 "text": "the Bantu population of Sierra Leone",
-                "translation": ""
+                "translation": "塞拉利昂的班图人口"
               }
             ]
           }
@@ -19647,7 +19658,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19673,13 +19684,13 @@
           {
             "id": "banyan-noun-1",
             "definition": "a loose fitting jacket",
-            "translation": "榕树",
+            "translation": "（印度）宽松夹克；罩衫",
             "examples": []
           },
           {
             "id": "banyan-noun-2",
             "definition": "East Indian tree that puts out aerial shoots that grow down into the soil forming additional trunks",
-            "translation": "印度商人",
+            "translation": "（印度）榕树；孟加拉榕",
             "examples": []
           }
         ]
@@ -19687,7 +19698,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19719,7 +19730,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19751,7 +19762,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19783,7 +19794,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19813,11 +19824,11 @@
           {
             "id": "baptise-verb-1",
             "definition": "to administer baptism to",
-            "translation": "",
+            "translation": "给…施洗",
             "examples": [
               {
                 "text": "The parents had the child baptized.",
-                "translation": ""
+                "translation": "父母让孩子接受了洗礼。"
               }
             ]
           }
@@ -19826,8 +19837,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19860,7 +19871,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19884,11 +19895,11 @@
           {
             "id": "baptism-noun-1",
             "definition": "a Christian sacrament signifying spiritual cleansing and rebirth",
-            "translation": "",
+            "translation": "洗礼；浸礼",
             "examples": [
               {
                 "text": "Most churches baptize infants but some insist on adult baptism.",
-                "translation": ""
+                "translation": "大多数教堂为婴儿施洗，但有些坚持成人洗礼。"
               }
             ]
           }
@@ -19897,8 +19908,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -19921,11 +19932,11 @@
           {
             "id": "baptismal-adjective-1",
             "definition": "of or relating to baptism",
-            "translation": "关联的",
+            "translation": "洗礼的；浸礼的",
             "examples": [
               {
                 "text": "baptismal font",
-                "translation": ""
+                "translation": "洗礼池"
               }
             ]
           }
@@ -19934,7 +19945,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19966,7 +19977,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -19990,7 +20001,7 @@
           {
             "id": "baptistic-adjective-1",
             "definition": "of or pertaining to or characteristic of the Baptist church",
-            "translation": "教堂的",
+            "translation": "浸礼宗的；洗礼的",
             "examples": []
           }
         ]
@@ -19998,7 +20009,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20030,7 +20041,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20060,11 +20071,11 @@
           {
             "id": "baptize-verb-1",
             "definition": "to administer baptism to",
-            "translation": "",
+            "translation": "给…施洗；为…举行浸礼",
             "examples": [
               {
                 "text": "The parents had the child baptized.",
-                "translation": ""
+                "translation": "父母让孩子接受了洗礼。"
               }
             ]
           }
@@ -20074,20 +20085,20 @@
     "phrases": [
       {
         "text": "baptize by",
-        "translation": ""
+        "translation": "通过…方式施洗"
       },
       {
         "text": "baptize into",
-        "translation": ""
+        "translation": "施洗成为…成员"
       },
       {
         "text": "baptize with",
-        "translation": ""
+        "translation": "用…施洗"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20120,7 +20131,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20368,11 +20379,11 @@
     "phrases": [
       {
         "text": "bar in",
-        "translation": ""
+        "translation": "关在门内"
       },
       {
         "text": "bar out",
-        "translation": ""
+        "translation": "关在门外"
       },
       {
         "text": "bar round section",
@@ -20380,40 +20391,40 @@
       },
       {
         "text": "bar to",
-        "translation": ""
+        "translation": "通往…的障碍"
       },
       {
         "text": "bar to bar test",
-        "translation": ""
+        "translation": "逐条测试"
       },
       {
         "text": "bar to divorce",
-        "translation": ""
+        "translation": "离婚障碍"
       },
       {
         "text": "bar to patent grant",
-        "translation": ""
+        "translation": "专利授予障碍"
       },
       {
         "text": "bar up",
-        "translation": ""
+        "translation": "用栏杆拦住"
       },
       {
         "text": "bar with",
-        "translation": ""
+        "translation": "用…拦住"
       },
       {
         "text": "bar with ball and eye",
-        "translation": ""
+        "translation": "带球和眼的球杆"
       },
       {
         "text": "bar with hooked end",
-        "translation": ""
+        "translation": "带钩端的球杆"
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782374657
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20446,7 +20457,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20480,25 +20491,25 @@
           {
             "id": "barb-noun-1",
             "definition": "one of the parallel filaments projecting from the main shaft of a feather",
-            "translation": "",
+            "translation": "羽支；羽毛的细毛",
             "examples": []
           },
           {
             "id": "barb-noun-2",
             "definition": "a subsidiary point facing opposite from the main point that makes an arrowhead or spear hard to remove",
-            "translation": "",
+            "translation": "倒刺；箭矢的倒钩",
             "examples": []
           },
           {
             "id": "barb-noun-3",
             "definition": "the pointed part of barbed wire",
-            "translation": "",
+            "translation": "铁丝网的刺；倒刺铁丝",
             "examples": []
           },
           {
             "id": "barb-noun-4",
             "definition": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
-            "translation": "",
+            "translation": "尖刻的话；讽刺",
             "examples": []
           }
         ]
@@ -20509,11 +20520,11 @@
           {
             "id": "barb-verb-1",
             "definition": "to add barbs to something",
-            "translation": "",
+            "translation": "装倒刺；使成倒钩状",
             "examples": [
               {
                 "text": "I barbed the wire to make it more effective.",
-                "translation": ""
+                "translation": "我在铁丝网上装了倒刺以增强效果。"
               }
             ]
           }
@@ -20522,8 +20533,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20552,7 +20563,7 @@
             "examples": [
               {
                 "text": "Soldiers kept watch in the barbacan. ",
-                "translation": ""
+                "translation": "士兵们在外堡值守。"
               }
             ]
           }
@@ -20561,7 +20572,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20585,11 +20596,11 @@
           {
             "id": "barbadian-adjective-1",
             "definition": "of or relating to or characteristic of Barbados or its inhabitants",
-            "translation": "居民的",
+            "translation": "巴巴多斯的；巴巴多斯人的",
             "examples": [
               {
                 "text": "a Barbadian vacation",
-                "translation": ""
+                "translation": "巴巴多斯之旅"
               }
             ]
           }
@@ -20598,7 +20609,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20631,11 +20642,11 @@
           {
             "id": "barbarian-adjective-1",
             "definition": "without civilizing influences",
-            "translation": "",
+            "translation": "野蛮的；未开化的",
             "examples": [
               {
                 "text": "barbarian invaders",
-                "translation": ""
+                "translation": "野蛮的入侵者"
               }
             ]
           }
@@ -20647,13 +20658,13 @@
           {
             "id": "barbarian-noun-1",
             "definition": "a crude uncouth ill-bred person lacking culture or refinement",
-            "translation": "粗鲁无教养的人",
+            "translation": "粗鲁无礼的人；没教养的人",
             "examples": []
           },
           {
             "id": "barbarian-noun-2",
             "definition": "a member of an uncivilized people",
-            "translation": "",
+            "translation": "野蛮人；未开化的人",
             "examples": []
           }
         ]
@@ -20661,8 +20672,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20687,17 +20698,17 @@
           {
             "id": "barbaric-adjective-1",
             "definition": "without civilizing influences",
-            "translation": "",
+            "translation": "野蛮的；残暴的",
             "examples": []
           },
           {
             "id": "barbaric-adjective-2",
             "definition": "unrestrained and crudely rich",
-            "translation": "",
+            "translation": "粗俗的；华丽而粗糙的",
             "examples": [
               {
                 "text": "barbaric use of color or ornament",
-                "translation": ""
+                "translation": "对颜色或装饰的粗俗使用"
               }
             ]
           }
@@ -20706,8 +20717,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20740,7 +20751,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20788,7 +20799,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20814,7 +20825,7 @@
           {
             "id": "barbarism-noun-1",
             "definition": "a brutal barbarous savage act",
-            "translation": "",
+            "translation": "暴行；野蛮行为",
             "examples": []
           }
         ]
@@ -20822,8 +20833,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20849,13 +20860,13 @@
           {
             "id": "barbarity-noun-1",
             "definition": "a brutal barbarous savage act",
-            "translation": "",
+            "translation": "暴行；残忍行为",
             "examples": []
           },
           {
             "id": "barbarity-noun-2",
             "definition": "the quality of being shockingly cruel and inhumane",
-            "translation": "",
+            "translation": "残暴；残酷",
             "examples": []
           }
         ]
@@ -20863,8 +20874,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -20897,7 +20908,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20949,7 +20960,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -20977,17 +20988,17 @@
           {
             "id": "barbarous-adjective-1",
             "definition": "primitive in customs and culture",
-            "translation": "",
+            "translation": "野蛮的；未开化的",
             "examples": []
           },
           {
             "id": "barbarous-adjective-2",
             "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
-            "translation": "",
+            "translation": "残忍的；残暴的",
             "examples": [
               {
                 "text": "a barbarous crime",
-                "translation": ""
+                "translation": "残暴的罪行"
               }
             ]
           }
@@ -20996,8 +21007,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21024,7 +21035,7 @@
             "examples": [
               {
                 "text": "they were barbarously murdered",
-                "translation": ""
+                "translation": "他们被残忍地杀害了"
               }
             ]
           }
@@ -21033,7 +21044,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21067,7 +21078,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21101,7 +21112,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21135,7 +21146,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21207,8 +21218,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21233,7 +21244,7 @@
           {
             "id": "barbecued-adjective-1",
             "definition": "cooked over an outdoor grill",
-            "translation": "",
+            "translation": "烧烤的；炙烤的",
             "examples": []
           }
         ]
@@ -21241,8 +21252,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21273,7 +21284,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21303,17 +21314,17 @@
           {
             "id": "barbed-adjective-1",
             "definition": "having or covered with protective barbs or quills or spines or thorns or setae etc.",
-            "translation": "",
+            "translation": "有倒刺的；有倒钩的",
             "examples": []
           },
           {
             "id": "barbed-adjective-2",
             "definition": "capable of wounding",
-            "translation": "",
+            "translation": "尖锐的；刺人的",
             "examples": [
               {
                 "text": "a barbed compliment",
-                "translation": ""
+                "translation": "带刺的恭维；挖苦的话"
               }
             ]
           }
@@ -21322,8 +21333,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21356,7 +21367,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21380,7 +21391,7 @@
           {
             "id": "barbell-noun-1",
             "definition": "a bar to which heavy discs are attached at each end",
-            "translation": "",
+            "translation": "杠铃",
             "examples": []
           }
         ]
@@ -21388,8 +21399,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21422,7 +21433,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21448,19 +21459,19 @@
           {
             "id": "barbeque-noun-1",
             "definition": "a rack to hold meat for cooking over hot charcoal usually out of doors",
-            "translation": "",
+            "translation": "（户外烧烤用的）烤架",
             "examples": []
           },
           {
             "id": "barbeque-noun-2",
             "definition": "a cookout in which food is cooked over an open fire",
-            "translation": "",
+            "translation": "烧烤野餐",
             "examples": []
           },
           {
             "id": "barbeque-noun-3",
             "definition": "meat that has been barbecued or grilled in a highly seasoned sauce",
-            "translation": "",
+            "translation": "烧烤食物",
             "examples": []
           }
         ]
@@ -21471,11 +21482,11 @@
           {
             "id": "barbeque-verb-1",
             "definition": "to cook outdoors on a barbecue grill",
-            "translation": "",
+            "translation": "在户外烧烤",
             "examples": [
               {
                 "text": "I barbeque ribs whenever I can.",
-                "translation": ""
+                "translation": "只要有机会我就烤排骨。"
               }
             ]
           }
@@ -21484,8 +21495,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21542,8 +21553,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21574,7 +21585,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21608,8 +21619,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21640,7 +21651,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21672,7 +21683,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21706,7 +21717,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21742,7 +21753,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21776,7 +21787,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21800,7 +21811,7 @@
           {
             "id": "barbiturate-noun-1",
             "definition": "organic compound having powerful soporific effect",
-            "translation": "",
+            "translation": "巴比妥类药物；镇静剂",
             "examples": []
           }
         ]
@@ -21808,8 +21819,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21840,7 +21851,7 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "mavis-cron",
+      "provider": "MiniMax-M2.7-highspeed",
       "updatedAt": 1751137200
     }
   },
@@ -21874,8 +21885,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782579687
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
@@ -21908,8 +21919,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782579687
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1751137200
     }
   },
   {
