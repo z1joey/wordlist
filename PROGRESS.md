@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4570 | **← Backward**: v.json index 255 | **Updated**: 1782566400
+> **→ Forward**: a.json index 4570 | **← Backward**: u.json index 2577 | **Updated**: 1782568800
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 9,710 |
-| Remaining | 55,157 |
+| Reviewed & validated | 9,735 |
+| Remaining | 55,132 |
 | Completion | 15.0% |
 | Forward agent | a.json (4,784 / 4,900) |
-| Backward agent | v.json (1,180 / 1,058) |
+| Backward agent | u.json (414 / 2,578) |
 
 ## 📋 File Progress
 
@@ -41,8 +41,8 @@
 | r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
-| u.json | 2,578 | 610 | ████░░░░░░░░░░░░░ 24% | ⬜ pending (v.json not finished) |
-| v.json | 1,058 | 1,180 | ███████████████████ 100%+ | ← in_progress |
+| u.json | 2,578 | 414 | ███░░░░░░░░░░░░░░ 16% | ← in_progress |
+| v.json | 1,058 | 1,058 | ███████████████████ 100% | ✅ done |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
@@ -54,18 +54,18 @@
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-a-0183 | a.json | 4570–4594 | ⬜ pending | — |
-| ← Backward | B-v-0057 | v.json | 255–231 | ⬜ pending | — |
+| ← Backward | B-u-0001 | u.json | 2577–2553 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
 | F-a-0182 | a.json | 4545–4569 | 25 | MiniMax-M2.7-highspeed | MiniMax-M2.7-highspeed | ✅ done |
-| B-v-0052 | v.json | 380–356 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0053 | v.json | 355–331 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0054 | v.json | 330–306 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0055 | v.json | 305–281 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
-| B-v-0056 | v.json | 280–256 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
+| B-v-0057 | v.json | 255–231 | 25 | mavis-cron | — | ✅ done |
+| B-v-0058 | v.json | 230–206 | 25 | mavis-cron | — | ✅ done |
+| B-v-0059 | v.json | 205–181 | 25 | mavis-cron | — | ✅ done |
+| B-v-0060 | v.json | 180–156 | 25 | mavis-cron | — | ✅ done |
+| B-v-0061 | v.json | 155–131 | 25 | mavis-cron | — | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
