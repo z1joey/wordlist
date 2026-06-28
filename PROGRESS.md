@@ -1,6 +1,6 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: a.json index 4695 | **← Backward**: v.json index 255 | **Updated**: 1782639850
+> **→ Forward**: a.json index 4695 | **← Backward**: v.json index 130 | **Updated**: 1751219564
 
 ## 📊 Summary
 
@@ -54,7 +54,7 @@
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-a-0188 | a.json | 4695–4719 | ⬜ pending | — |
-| ← Backward | B-v-0057 | v.json | 255–231 | ⬜ pending | — |
+| ← Backward | B-v-0062 | v.json | 130–106 | ⬜ pending | — |
 
 ## 📝 Last Batch
 
@@ -71,6 +71,11 @@
 | B-v-0054 | v.json | 330–306 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
 | B-v-0055 | v.json | 305–281 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
 | B-v-0056 | v.json | 280–256 | 25 | MiniMax-M2.7-highspeed | — | ✅ done |
+| B-v-0057 | v.json | 255–231 | 25 | cron-backward | — | ✅ done |
+| B-v-0058 | v.json | 230–206 | 25 | cron-backward | — | ✅ done |
+| B-v-0059 | v.json | 205–181 | 25 | cron-backward | — | ✅ done |
+| B-v-0060 | v.json | 180–156 | 25 | cron-backward | — | ✅ done |
+| B-v-0061 | v.json | 155–131 | 25 | cron-backward | — | ✅ done |
 
 > **Note**: Batch history may be unreliable. The cursors are derived from actual data — always trust the data files.
 
