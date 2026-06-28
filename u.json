@@ -95047,10 +95047,10 @@
     "word": "upthrust",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌpθrʌst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌpθrʌst"
       }
     },
     "forms": {},
@@ -95065,7 +95065,7 @@
           {
             "id": "upthrust-noun-1",
             "definition": "(geology) a rise of land to a higher elevation (as in the process of mountain building)",
-            "translation": "",
+            "translation": "上冲断层；上升推力",
             "examples": []
           }
         ]
@@ -95073,18 +95073,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uptick",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌptɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌptɪk"
       }
     },
     "forms": {},
@@ -95097,7 +95097,7 @@
           {
             "id": "uptick-noun-1",
             "definition": "a transaction in the stock market at a price above the price of the preceding transaction",
-            "translation": "",
+            "translation": "上升；报升；股价上涨",
             "examples": []
           }
         ]
@@ -95105,8 +95105,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -95133,7 +95133,7 @@
           {
             "id": "uptight-adjective-1",
             "definition": "being in a tense state",
-            "translation": "",
+            "translation": "紧张的；焦虑的；拘谨的",
             "examples": []
           }
         ]
@@ -95141,18 +95141,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uptime",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌptaɪm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌptaɪm"
       }
     },
     "forms": {},
@@ -95165,7 +95165,7 @@
           {
             "id": "uptime-noun-1",
             "definition": "a period of time when something (as a machine or factory) is functioning and available for use",
-            "translation": "",
+            "translation": "正常运行时间；可用时间",
             "examples": []
           }
         ]
@@ -95173,8 +95173,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -95256,7 +95256,7 @@
           {
             "id": "upturn-noun-1",
             "definition": "an upward movement or trend as in business activity",
-            "translation": "",
+            "translation": "上升；好转；上扬趋势",
             "examples": []
           }
         ]
@@ -95265,16 +95265,16 @@
     "phrases": [
       {
         "text": "upturn in business",
-        "translation": ""
+        "translation": "业务好转"
       },
       {
         "text": "upturn in the economy",
-        "translation": ""
+        "translation": "经济复苏"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -95300,13 +95300,13 @@
           {
             "id": "upturned-adjective-1",
             "definition": "(used of noses) turned up at the end",
-            "translation": "",
+            "translation": "向上翘起的（指鼻子等末端朝上）",
             "examples": []
           },
           {
             "id": "upturned-adjective-2",
             "definition": "having been turned so that the bottom is no longer the bottom",
-            "translation": "",
+            "translation": "翻转的；倒置的",
             "examples": []
           }
         ]
@@ -95314,8 +95314,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -95408,7 +95408,7 @@
           {
             "id": "upwardly-adverb-1",
             "definition": "spatially or metaphorically from a lower to a higher position",
-            "translation": "",
+            "translation": "向上地；上升地",
             "examples": []
           }
         ]
@@ -95416,8 +95416,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -95469,10 +95469,10 @@
     "word": "upwind",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌpˈwɪnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌpˈwɪnd"
       }
     },
     "forms": {},
@@ -95488,7 +95488,7 @@
           {
             "id": "upwind-adjective-1",
             "definition": "towards the side exposed to wind",
-            "translation": "",
+            "translation": "迎风的；逆风的",
             "examples": []
           }
         ]
@@ -95518,8 +95518,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
@@ -95542,7 +95542,7 @@
           {
             "id": "uracil-noun-1",
             "definition": "a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine",
-            "translation": "",
+            "translation": "尿嘧啶",
             "examples": []
           }
         ]
@@ -95550,18 +95550,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "uraemia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈrimiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈriːmiə"
       }
     },
     "forms": {},
@@ -95576,7 +95576,7 @@
           {
             "id": "uraemia-noun-1",
             "definition": "accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine",
-            "translation": "",
+            "translation": "尿毒症",
             "examples": []
           }
         ]
@@ -95584,18 +95584,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1762502400
     }
   },
   {
     "word": "uraemic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈriːmɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈriːmɪk"
       }
     },
     "forms": {},
@@ -95626,10 +95626,10 @@
     "word": "uranalysis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnæləsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnæləsɪs"
       }
     },
     "forms": {},
@@ -95644,7 +95644,7 @@
           {
             "id": "uranalysis-noun-1",
             "definition": "(medicine) the chemical analysis of urine (for medical diagnosis)",
-            "translation": "",
+            "translation": "尿液分析",
             "examples": []
           }
         ]
@@ -95652,18 +95652,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uraninite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈrænɪnaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈrænɪnaɪt"
       }
     },
     "forms": {},
@@ -95678,7 +95678,7 @@
           {
             "id": "uraninite-noun-1",
             "definition": "a mineral consisting of uranium oxide and trace amounts of radium and thorium and polonium and lead and helium",
-            "translation": "",
+            "translation": "沥青铀矿",
             "examples": [
               {
                 "text": "uraninite in massive form is called pitchblende which is the chief uranium ore",
@@ -95691,8 +95691,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -95733,10 +95733,10 @@
     "word": "uranologist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnɒlədʒɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnɒlədʒɪst"
       }
     },
     "forms": {},
@@ -95751,7 +95751,7 @@
           {
             "id": "uranologist-noun-1",
             "definition": "a physicist who studies astronomy",
-            "translation": "",
+            "translation": "天文学家",
             "examples": []
           }
         ]
@@ -95759,18 +95759,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uranology",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnɒlədʒi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈnɒlədʒi"
       }
     },
     "forms": {},
@@ -95785,7 +95785,7 @@
           {
             "id": "uranology-noun-1",
             "definition": "the branch of physics that studies celestial bodies and the universe as a whole",
-            "translation": "",
+            "translation": "天文学",
             "examples": []
           }
         ]
@@ -95793,18 +95793,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uranoplasty",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərənoʊˌplæsti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərənəʊˌplæsti"
       }
     },
     "forms": {},
@@ -95817,7 +95817,7 @@
           {
             "id": "uranoplasty-noun-1",
             "definition": "surgical correction of a defect of the palate",
-            "translation": "",
+            "translation": "腭成形术",
             "examples": []
           }
         ]
@@ -95825,18 +95825,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "uranyl",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərənɪl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərənɪl"
       }
     },
     "forms": {},
@@ -95849,7 +95849,7 @@
           {
             "id": "uranyl-noun-1",
             "definition": "the bivalent radical UO2 which forms salts with acids",
-            "translation": "",
+            "translation": "铀酰；二氧铀基",
             "examples": []
           }
         ]
@@ -95857,18 +95857,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "urarthritis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərɑːrˈθraɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɑːˈθraɪtɪs"
       }
     },
     "forms": {},
@@ -95883,7 +95883,7 @@
           {
             "id": "urarthritis-noun-1",
             "definition": "a painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints",
-            "translation": "",
+            "translation": "痛风性关节炎",
             "examples": []
           }
         ]
@@ -95891,18 +95891,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "urate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊəreɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊəreɪt"
       }
     },
     "forms": {},
@@ -95915,7 +95915,7 @@
           {
             "id": "urate-noun-1",
             "definition": "a salt of uric acid",
-            "translation": "",
+            "translation": "尿酸盐",
             "examples": []
           }
         ]
@@ -95923,18 +95923,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "uratemia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈtiːmiə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈtiːmiə"
       }
     },
     "forms": {},
@@ -95947,7 +95947,7 @@
           {
             "id": "uratemia-noun-1",
             "definition": "presence of abnormal amounts of uric acid salts in the blood",
-            "translation": "",
+            "translation": "尿酸盐血症",
             "examples": []
           }
         ]
@@ -95955,18 +95955,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "uraturia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈtʊəriə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈtjʊəriə"
       }
     },
     "forms": {},
@@ -95979,7 +95979,7 @@
           {
             "id": "uraturia-noun-1",
             "definition": "presence of abnormally large amounts of uric acid in the urine",
-            "translation": "",
+            "translation": "尿酸盐尿",
             "examples": []
           }
         ]
@@ -95987,8 +95987,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -96069,7 +96069,7 @@
           {
             "id": "urbane-adjective-1",
             "definition": "showing a high degree of refinement and the assurance that comes from wide social experience",
-            "translation": "",
+            "translation": "温文尔雅的",
             "examples": []
           }
         ]
@@ -96077,18 +96077,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "urbanely",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ɜrˈbeɪnli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ɜːˈbeɪnli"
       }
     },
     "forms": {},
@@ -96101,7 +96101,7 @@
           {
             "id": "urbanely-adverb-1",
             "definition": "in an urbane manner",
-            "translation": "",
+            "translation": "文雅地",
             "examples": [
               {
                 "text": "`I had tea occasionally with the Duke,' said Mr. Eggers urbanely",
@@ -96114,8 +96114,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -96140,13 +96140,13 @@
           {
             "id": "urbanisation-noun-1",
             "definition": "the social process whereby cities grow and societies become more urban",
-            "translation": "",
+            "translation": "城市化",
             "examples": []
           },
           {
             "id": "urbanisation-noun-2",
             "definition": "the condition of being urbanized",
-            "translation": "",
+            "translation": "都市化",
             "examples": []
           }
         ]
@@ -96154,8 +96154,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -96178,7 +96178,7 @@
           {
             "id": "urbanise-verb-1",
             "definition": "to make more industrial or city-like",
-            "translation": "",
+            "translation": "使城市化",
             "examples": [
               {
                 "text": "The area was urbanized after many people moved in.",
@@ -96189,7 +96189,7 @@
           {
             "id": "urbanise-verb-2",
             "definition": "to impart urban habits, ways of life, or responsibilities upon",
-            "translation": "",
+            "translation": "使都市化",
             "examples": [
               {
                 "text": "People in outdoor cafes are urbanising birds by feeding them.",
@@ -96202,18 +96202,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "urbanised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈɜːrbənaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈɜːbənaɪzd"
       }
     },
     "forms": {},
@@ -96228,7 +96228,7 @@
           {
             "id": "urbanised-adjective-1",
             "definition": "made urban in nature",
-            "translation": "",
+            "translation": "都市化的",
             "examples": []
           }
         ]
@@ -96236,18 +96236,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
     "word": "urbanity",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ɜːrˈbænəti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ɜːˈbænəti"
       }
     },
     "forms": {},
@@ -96260,7 +96260,7 @@
           {
             "id": "urbanity-noun-1",
             "definition": "the quality or character of life in a city or town",
-            "translation": "",
+            "translation": "都市性",
             "examples": [
               {
                 "text": "there is an important difference between rusticity and urbanity",
@@ -96271,7 +96271,7 @@
           {
             "id": "urbanity-noun-2",
             "definition": "polished courtesy",
-            "translation": "",
+            "translation": "文雅有礼",
             "examples": []
           }
         ]
@@ -96279,8 +96279,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
@@ -96307,13 +96307,13 @@
           {
             "id": "urbanization-noun-1",
             "definition": "the social process whereby cities grow and societies become more urban",
-            "translation": "",
+            "translation": "城市化",
             "examples": []
           },
           {
             "id": "urbanization-noun-2",
             "definition": "the condition of being urbanized",
-            "translation": "",
+            "translation": "都市化状态",
             "examples": []
           }
         ]
@@ -96321,8 +96321,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
@@ -96351,7 +96351,7 @@
           {
             "id": "urbanize-verb-1",
             "definition": "to make more industrial or city-like",
-            "translation": "",
+            "translation": "使城市化",
             "examples": [
               {
                 "text": "The area was urbanized after many people moved in.",
@@ -96362,7 +96362,7 @@
           {
             "id": "urbanize-verb-2",
             "definition": "to impart urban habits, ways of life, or responsibilities upon",
-            "translation": "",
+            "translation": "使都市化",
             "examples": [
               {
                 "text": "People in outdoor cafes are urbanising birds by feeding them.",
@@ -96375,18 +96375,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
     "word": "urbanized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈɜːrbənaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈɜːbənaɪzd"
       }
     },
     "forms": {},
@@ -96401,7 +96401,7 @@
           {
             "id": "urbanized-adjective-1",
             "definition": "made urban in nature",
-            "translation": "",
+            "translation": "都市化的",
             "examples": []
           }
         ]
@@ -96409,18 +96409,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
     "word": "urceolate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈɜːrsiəleɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈɜːsiəleɪt"
       }
     },
     "forms": {},
@@ -96433,7 +96433,7 @@
           {
             "id": "urceolate-adjective-1",
             "definition": "urn-shaped",
-            "translation": "",
+            "translation": "瓮状的",
             "examples": []
           }
         ]
@@ -96441,18 +96441,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
     "word": "urceole",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈɜːrsiˌoʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈɜːsiˌəʊl"
       }
     },
     "forms": {},
@@ -96465,7 +96465,7 @@
           {
             "id": "urceole-noun-1",
             "definition": "a vessel that holds water for washing the hands",
-            "translation": "",
+            "translation": "洗手盆",
             "examples": []
           }
         ]
@@ -96473,8 +96473,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -96500,7 +96500,7 @@
           {
             "id": "urchin-noun-1",
             "definition": "poor and often mischievous city child",
-            "translation": "",
+            "translation": "顽童；街头流浪儿",
             "examples": []
           }
         ]
@@ -96508,8 +96508,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -96534,7 +96534,7 @@
           {
             "id": "urea-noun-1",
             "definition": "the chief solid component of mammalian urine",
-            "translation": "",
+            "translation": "尿素",
             "examples": []
           }
         ]
@@ -96542,18 +96542,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urease",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊrieɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərieɪs"
       }
     },
     "forms": {},
@@ -96566,7 +96566,7 @@
           {
             "id": "urease-noun-1",
             "definition": "an enzyme that catalyzes the hydrolysis of urea into carbon dioxide and ammonia",
-            "translation": "",
+            "translation": "脲酶",
             "examples": []
           }
         ]
@@ -96574,8 +96574,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -96602,7 +96602,7 @@
           {
             "id": "uremia-noun-1",
             "definition": "accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine",
-            "translation": "",
+            "translation": "尿毒症",
             "examples": []
           }
         ]
@@ -96610,8 +96610,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -96668,7 +96668,7 @@
           {
             "id": "ureter-noun-1",
             "definition": "either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder",
-            "translation": "",
+            "translation": "输尿管",
             "examples": [
               {
                 "text": "My ureters are inflamed.",
@@ -96681,18 +96681,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "ureteritis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrɪtəˈraɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪtəˈraɪtɪs"
       }
     },
     "forms": {},
@@ -96705,7 +96705,7 @@
           {
             "id": "ureteritis-noun-1",
             "definition": "inflammation of the ureter",
-            "translation": "",
+            "translation": "输尿管炎",
             "examples": []
           }
         ]
@@ -96713,18 +96713,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "ureterocele",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈriːtəroʊsiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈriːtərəʊsiːl"
       }
     },
     "forms": {},
@@ -96737,7 +96737,7 @@
           {
             "id": "ureterocele-noun-1",
             "definition": "prolapse of the end of the ureter into the bladder",
-            "translation": "",
+            "translation": "输尿管疝",
             "examples": []
           }
         ]
@@ -96745,18 +96745,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "ureterostenosis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˌriːtəroʊstəˈnoʊsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˌriːtərəʊstəˈnəʊsɪs"
       }
     },
     "forms": {},
@@ -96769,7 +96769,7 @@
           {
             "id": "ureterostenosis-noun-1",
             "definition": "stenosis of the ureter",
-            "translation": "",
+            "translation": "输尿管狭窄",
             "examples": []
           }
         ]
@@ -96777,18 +96777,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urethane",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊrəθeɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərəθeɪn"
       }
     },
     "forms": {},
@@ -96801,7 +96801,7 @@
           {
             "id": "urethane-noun-1",
             "definition": "an ester of carbamic acid",
-            "translation": "",
+            "translation": "氨基甲酸乙酯（尿烷，氨基甲酸的一种酯）",
             "examples": []
           }
         ]
@@ -96809,8 +96809,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -96833,7 +96833,7 @@
           {
             "id": "urethra-noun-1",
             "definition": "duct through which urine is discharged in most mammals and which serves as the male genital duct",
-            "translation": "",
+            "translation": "尿道（哺乳动物排尿的管道，在雄性中兼作生殖道）",
             "examples": []
           }
         ]
@@ -96841,18 +96841,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "urethral",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈriːθrəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊəˈriːθrəl"
       }
     },
     "forms": {},
@@ -96881,10 +96881,10 @@
     "word": "urethritis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrɪˈθraɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪˈθraɪtɪs"
       }
     },
     "forms": {},
@@ -96897,7 +96897,7 @@
           {
             "id": "urethritis-noun-1",
             "definition": "inflammation of the urethra",
-            "translation": "",
+            "translation": "尿道炎",
             "examples": []
           }
         ]
@@ -96905,18 +96905,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "urethrocele",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈriθrəsiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊəˈriːθrəsiːl"
       }
     },
     "forms": {},
@@ -96929,7 +96929,7 @@
           {
             "id": "urethrocele-noun-1",
             "definition": "prolapse of the urethra into the vagina",
-            "translation": "",
+            "translation": "尿道突出（尿道脱垂入阴道）",
             "examples": []
           }
         ]
@@ -96937,8 +96937,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
@@ -97251,10 +97251,10 @@
     "word": "urial",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʊriəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʊəriəl"
       }
     },
     "forms": {},
@@ -97267,7 +97267,7 @@
           {
             "id": "urial-noun-1",
             "definition": "bearded reddish sheep of southern Asia",
-            "translation": "",
+            "translation": "东方盘羊（一种产于南亚的有须红褐色野羊）",
             "examples": []
           }
         ]
@@ -97275,18 +97275,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uric",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊrɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərɪk"
       }
     },
     "forms": {},
@@ -97299,7 +97299,7 @@
           {
             "id": "uric-adjective-1",
             "definition": "in or relating to or obtained from urine",
-            "translation": "",
+            "translation": "尿的；与尿有关的；从尿中获得的",
             "examples": [
               {
                 "text": "uric acid",
@@ -97312,18 +97312,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uricaciduria",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrɪkˌæsɪˈdʊriə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪkˌæsɪˈdjʊəriə"
       }
     },
     "forms": {},
@@ -97336,7 +97336,7 @@
           {
             "id": "uricaciduria-noun-1",
             "definition": "presence of abnormal amounts of uric acid in the urine",
-            "translation": "",
+            "translation": "尿酸尿（尿中出现异常量的尿酸）",
             "examples": []
           }
         ]
@@ -97344,18 +97344,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764556800
     }
   },
   {
     "word": "uricosuric",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪkoʊˈsjʊərɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪkəʊˈsjʊərɪk"
       }
     },
     "forms": {},
@@ -97368,7 +97368,7 @@
           {
             "id": "uricosuric-adjective-1",
             "definition": "acting to increase the excretion of uric acid in the urine",
-            "translation": "",
+            "translation": "促尿酸排泄的",
             "examples": []
           }
         ]
@@ -97376,18 +97376,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "urinal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərənəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərənəl"
       }
     },
     "forms": {},
@@ -97400,7 +97400,7 @@
           {
             "id": "urinal-noun-1",
             "definition": "a plumbing fixture, usually attached to the wall, used by men to urinate",
-            "translation": "",
+            "translation": "小便池；尿壶",
             "examples": [
               {
                 "text": "It is good etiquette to not talk while at the urinal.",
@@ -97413,18 +97413,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "urinalysis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪˈnæləsɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərɪˈnæləsɪs"
       }
     },
     "forms": {},
@@ -97439,7 +97439,7 @@
           {
             "id": "urinalysis-noun-1",
             "definition": "(medicine) the chemical analysis of urine (for medical diagnosis)",
-            "translation": "",
+            "translation": "尿液分析；尿检",
             "examples": []
           }
         ]
@@ -97447,8 +97447,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -97515,13 +97515,13 @@
           {
             "id": "urinate-verb-1",
             "definition": "eliminate urine",
-            "translation": "",
+            "translation": "排尿；小便",
             "examples": []
           },
           {
             "id": "urinate-verb-2",
             "definition": "pass after the manner of urine",
-            "translation": "",
+            "translation": "以尿的方式排出",
             "examples": [
               {
                 "text": "The sick men urinated blood",
@@ -97534,8 +97534,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -97560,7 +97560,7 @@
           {
             "id": "urination-noun-1",
             "definition": "the discharge of urine",
-            "translation": "",
+            "translation": "排尿；小便",
             "examples": []
           }
         ]
@@ -97568,18 +97568,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "urinator",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərɪneɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərɪneɪtə"
       }
     },
     "forms": {},
@@ -97594,7 +97594,7 @@
           {
             "id": "urinator-noun-1",
             "definition": "a person who urinates",
-            "translation": "",
+            "translation": "排尿者；小便的人",
             "examples": []
           }
         ]
@@ -97602,8 +97602,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -97628,7 +97628,7 @@
           {
             "id": "urine-noun-1",
             "definition": "liquid excretory product",
-            "translation": "",
+            "translation": "尿液",
             "examples": [
               {
                 "text": "My urine was tested for impurities.",
@@ -97641,18 +97641,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "url",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌiː juː ɑːr ˈɛl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌiː juː ɑː ˈɛl"
       }
     },
     "forms": {},
@@ -97665,7 +97665,7 @@
           {
             "id": "url-noun-1",
             "definition": "the address of a web page on the world wide web",
-            "translation": "",
+            "translation": "网址；统一资源定位地址",
             "examples": []
           }
         ]
@@ -97673,8 +97673,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -97697,13 +97697,13 @@
           {
             "id": "urn-noun-1",
             "definition": "a large vase that usually has a pedestal or feet",
-            "translation": "",
+            "translation": "瓮",
             "examples": []
           },
           {
             "id": "urn-noun-2",
             "definition": "a large pot for making coffee or tea",
-            "translation": "",
+            "translation": "茶壶",
             "examples": []
           }
         ]
@@ -97711,18 +97711,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769904000
     }
   },
   {
     "word": "urobilin",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈbɪlɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈbɪlɪn"
       }
     },
     "forms": {},
@@ -97735,7 +97735,7 @@
           {
             "id": "urobilin-noun-1",
             "definition": "brown bile pigment formed from urobilinogens and found in feces and in small amounts in urine",
-            "translation": "",
+            "translation": "尿胆素",
             "examples": []
           }
         ]
@@ -97743,18 +97743,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urobilinogen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈbɪlɪnədʒən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈbɪlɪnədʒən"
       }
     },
     "forms": {},
@@ -97769,7 +97769,7 @@
           {
             "id": "urobilinogen-noun-1",
             "definition": "a chromogen formed in the intestine from the breakdown of bilirubin",
-            "translation": "",
+            "translation": "尿胆素原",
             "examples": []
           }
         ]
@@ -97777,18 +97777,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urocele",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərəsiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərəsiːl"
       }
     },
     "forms": {},
@@ -97801,7 +97801,7 @@
           {
             "id": "urocele-noun-1",
             "definition": "extravasation of urine into the scrotal sac",
-            "translation": "",
+            "translation": "阴囊尿外渗",
             "examples": []
           }
         ]
@@ -97809,18 +97809,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urochesia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈkiːziə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈkiːziə"
       }
     },
     "forms": {},
@@ -97835,7 +97835,7 @@
           {
             "id": "urochesia-noun-1",
             "definition": "passage of urine from the anus",
-            "translation": "",
+            "translation": "肛门排尿",
             "examples": []
           }
         ]
@@ -97843,18 +97843,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urochezia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈkiːziə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈkiːziə"
       }
     },
     "forms": {},
@@ -97869,7 +97869,7 @@
           {
             "id": "urochezia-noun-1",
             "definition": "passage of urine from the anus",
-            "translation": "",
+            "translation": "肛门排尿",
             "examples": []
           }
         ]
@@ -97877,18 +97877,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urochord",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərəkɔːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərəkɔːd"
       }
     },
     "forms": {},
@@ -97904,13 +97904,13 @@
           {
             "id": "urochord-noun-1",
             "definition": "a notochord of a larval tunicate typically confined to the caudal region",
-            "translation": "",
+            "translation": "尾索",
             "examples": []
           },
           {
             "id": "urochord-noun-2",
             "definition": "primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva",
-            "translation": "",
+            "translation": "尾索动物",
             "examples": []
           }
         ]
@@ -97918,18 +97918,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urochordate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊəroʊˈkɔːrdeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəʊˈkɔːdeɪt"
       }
     },
     "forms": {},
@@ -97944,7 +97944,7 @@
           {
             "id": "urochordate-noun-1",
             "definition": "primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva",
-            "translation": "",
+            "translation": "尾索动物",
             "examples": []
           }
         ]
@@ -97952,18 +97952,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urodele",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊərədiːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərədiːl"
       }
     },
     "forms": {},
@@ -97978,7 +97978,7 @@
           {
             "id": "urodele-noun-1",
             "definition": "amphibians that resemble lizards",
-            "translation": "",
+            "translation": "有尾目两栖动物",
             "examples": []
           }
         ]
@@ -97986,18 +97986,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "urodynia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrəˈdɪniə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈdɪniə"
       }
     },
     "forms": {},
@@ -98010,7 +98010,7 @@
           {
             "id": "urodynia-noun-1",
             "definition": "pain during urination",
-            "translation": "",
+            "translation": "排尿痛",
             "examples": []
           }
         ]
@@ -98018,18 +98018,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "urogenital",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrəˈdʒɛnɪtl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈdʒɛnɪtl"
       }
     },
     "forms": {},
@@ -98058,10 +98058,10 @@
     "word": "urokinase",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊrəˈkaɪneɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈkɪneɪz"
       }
     },
     "forms": {},
@@ -98074,7 +98074,7 @@
           {
             "id": "urokinase-noun-1",
             "definition": "protease produced in the kidney that converts plasminogen to plasmin and so initiates fibrinolysis",
-            "translation": "",
+            "translation": "尿激酶",
             "examples": []
           }
         ]
@@ -98082,18 +98082,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "urolith",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊrəlɪθ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərəlɪθ"
       }
     },
     "forms": {},
@@ -98106,7 +98106,7 @@
           {
             "id": "urolith-noun-1",
             "definition": "a urinary stone",
-            "translation": "",
+            "translation": "尿石",
             "examples": []
           }
         ]
@@ -98114,18 +98114,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "urologist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈrɑːlədʒɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈrɒlədʒɪst"
       }
     },
     "forms": {},
@@ -98138,7 +98138,7 @@
           {
             "id": "urologist-noun-1",
             "definition": "a specialist in urology",
-            "translation": "",
+            "translation": "泌尿科医生",
             "examples": []
           }
         ]
@@ -98146,8 +98146,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -98170,7 +98170,7 @@
           {
             "id": "urology-noun-1",
             "definition": "the branch of medicine that deals with the diagnosis and treatment of disorders of the urinary tract or urogenital system",
-            "translation": "",
+            "translation": "泌尿学",
             "examples": []
           }
         ]
@@ -98179,22 +98179,22 @@
     "phrases": [
       {
         "text": "urology in childhood",
-        "translation": ""
+        "translation": "儿童泌尿学"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "uropathy",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "jʊˈrɑːpəθi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "jʊˈrɒpəθi"
       }
     },
     "forms": {},
@@ -98207,7 +98207,7 @@
           {
             "id": "uropathy-noun-1",
             "definition": "any pathology of the urinary tract",
-            "translation": "",
+            "translation": "尿路病变",
             "examples": []
           }
         ]
@@ -98215,18 +98215,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
     "word": "uropygium",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈpɪdʒiəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjʊərəˈpɪdʒiəm"
       }
     },
     "forms": {},
@@ -98239,7 +98239,7 @@
           {
             "id": "uropygium-noun-1",
             "definition": "posterior part of a bird's body from which the tail feathers grow",
-            "translation": "",
+            "translation": "尾脂腺",
             "examples": []
           }
         ]
@@ -98247,8 +98247,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769900000
     }
   },
   {
@@ -98289,10 +98289,10 @@
     "word": "ursinia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ərˈsɪniə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "əˈsɪniə"
       }
     },
     "forms": {},
@@ -98305,7 +98305,7 @@
           {
             "id": "ursinia-noun-1",
             "definition": "any of various plants of the genus Ursinia grown for their yellow- or orange- or white-rayed flowers",
-            "translation": "",
+            "translation": "熊菊",
             "examples": []
           }
         ]
@@ -98313,8 +98313,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -98339,7 +98339,7 @@
           {
             "id": "urticaria-noun-1",
             "definition": "an itchy skin eruption characterized by weals with pale interiors and well-defined red margins",
-            "translation": "",
+            "translation": "荨麻疹",
             "examples": []
           }
         ]
@@ -98347,18 +98347,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "urticate",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈɜːrtɪkeɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈɜːtɪkeɪt"
       }
     },
     "forms": {
@@ -98377,13 +98377,13 @@
           {
             "id": "urticate-verb-1",
             "definition": "sting with or as with nettles and cause a stinging pain or sensation",
-            "translation": "",
+            "translation": "用荨麻刺",
             "examples": []
           },
           {
             "id": "urticate-verb-2",
             "definition": "whip with or as with nettles",
-            "translation": "",
+            "translation": "用荨麻抽打",
             "examples": []
           }
         ]
@@ -98391,18 +98391,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "urtication",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌɜːrtɪˈkeɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌɜːtɪˈkeɪʃən"
       }
     },
     "forms": {},
@@ -98418,13 +98418,13 @@
           {
             "id": "urtication-noun-1",
             "definition": "a sensation of having been stung by nettles",
-            "translation": "",
+            "translation": "刺痛感",
             "examples": []
           },
           {
             "id": "urtication-noun-2",
             "definition": "an itchy skin eruption characterized by weals with pale interiors and well-defined red margins",
-            "translation": "",
+            "translation": "荨麻疹",
             "examples": []
           }
         ]
@@ -98432,18 +98432,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
     "word": "uruguayan",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʊrəˈɡwaɪən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʊrəˈɡwaɪən"
       }
     },
     "forms": {},
@@ -98472,10 +98472,10 @@
     "word": "urus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjʊrəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjʊərəs"
       }
     },
     "forms": {},
@@ -98490,7 +98490,7 @@
           {
             "id": "urus-noun-1",
             "definition": "large recently extinct long-horned European wild ox",
-            "translation": "",
+            "translation": "原牛",
             "examples": []
           }
         ]
@@ -98498,8 +98498,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -98524,7 +98524,7 @@
           {
             "id": "usability-noun-1",
             "definition": "the quality of being able to provide good service",
-            "translation": "",
+            "translation": "可用性",
             "examples": []
           }
         ]
@@ -98533,12 +98533,12 @@
     "phrases": [
       {
         "text": "usability in evaluation of website",
-        "translation": ""
+        "translation": "网站评估中的可用性"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -98600,10 +98600,10 @@
     "word": "usableness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəlnəs"
       }
     },
     "forms": {},
@@ -98618,7 +98618,7 @@
           {
             "id": "usableness-noun-1",
             "definition": "the quality of being able to provide good service",
-            "translation": "",
+            "translation": "可用性",
             "examples": []
           }
         ]
@@ -98626,8 +98626,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764576000
     }
   },
   {
@@ -98692,10 +98692,10 @@
     "word": "usance",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːzəns"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːzəns"
       }
     },
     "forms": {},
@@ -98711,19 +98711,19 @@
           {
             "id": "usance-noun-1",
             "definition": "accepted or habitual practice",
-            "translation": "",
+            "translation": "惯例；习惯",
             "examples": []
           },
           {
             "id": "usance-noun-2",
             "definition": "(economics) the utilization of economic goods to satisfy needs or in manufacturing",
-            "translation": "",
+            "translation": "使用；利用",
             "examples": []
           },
           {
             "id": "usance-noun-3",
             "definition": "the period of time permitted by commercial usage for the payment of a bill of exchange (especially a foreign bill of exchange)",
-            "translation": "",
+            "translation": "（外汇）汇票支付期限",
             "examples": []
           }
         ]
@@ -98731,8 +98731,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -98942,10 +98942,10 @@
     "word": "useable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəl"
       }
     },
     "forms": {},
@@ -98961,13 +98961,13 @@
           {
             "id": "useable-adjective-1",
             "definition": "convenient for use or disposal",
-            "translation": "",
+            "translation": "合用的；便于使用的",
             "examples": []
           },
           {
             "id": "useable-adjective-2",
             "definition": "fit or ready for use or service",
-            "translation": "",
+            "translation": "可用的；适用的；准备就绪的",
             "examples": []
           },
           {
@@ -98989,10 +98989,10 @@
     "word": "useableness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːzəbəlnəs"
       }
     },
     "forms": {},
@@ -99007,7 +99007,7 @@
           {
             "id": "useableness-noun-1",
             "definition": "the quality of being able to provide good service",
-            "translation": "",
+            "translation": "可用性；适用性；合用",
             "examples": []
           }
         ]
@@ -99015,8 +99015,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763923200
     }
   },
   {
@@ -99171,10 +99171,10 @@
     "word": "usefully",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːsfəli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːsfəli"
       }
     },
     "forms": {},
@@ -99226,7 +99226,7 @@
           {
             "id": "usefulness-noun-1",
             "definition": "the quality of being of practical use",
-            "translation": "",
+            "translation": "有用；实用性；有益",
             "examples": [
               {
                 "text": "A broken clock has little usefulness.",
@@ -99239,8 +99239,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763923200
     }
   },
   {
@@ -99290,10 +99290,10 @@
     "word": "uselessly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːsləsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːsləsli"
       }
     },
     "forms": {},
@@ -99327,10 +99327,10 @@
     "word": "uselessness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːsləsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːsləsnəs"
       }
     },
     "forms": {},
@@ -99345,7 +99345,7 @@
           {
             "id": "uselessness-noun-1",
             "definition": "the quality of having no practical use",
-            "translation": "",
+            "translation": "无用；无价值；无益",
             "examples": []
           }
         ]
@@ -99353,8 +99353,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763923200
     }
   },
   {
@@ -99493,10 +99493,10 @@
     "word": "usherette",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌʃəˈrɛt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌʃəˈrɛt"
       }
     },
     "forms": {},
@@ -99509,7 +99509,7 @@
           {
             "id": "usherette-noun-1",
             "definition": "a female usher",
-            "translation": "",
+            "translation": "女引座员；女迎宾员",
             "examples": [
               {
                 "text": "The usherette took our tickets.",
@@ -99522,8 +99522,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763923200
     }
   },
   {
@@ -99662,10 +99662,10 @@
     "word": "usualness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːʒuəlnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːʒuəlnəs"
       }
     },
     "forms": {},
@@ -99678,7 +99678,7 @@
           {
             "id": "usualness-noun-1",
             "definition": "commonness by virtue of not being unusual",
-            "translation": "",
+            "translation": "平常；普通",
             "examples": []
           }
         ]
@@ -99686,18 +99686,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763923200
     }
   },
   {
     "word": "usufruct",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːzjuːfrʌkt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːzjuːfrʌkt"
       }
     },
     "forms": {},
@@ -99710,7 +99710,7 @@
           {
             "id": "usufruct-noun-1",
             "definition": "a legal right to use and derive profit from property belonging to someone else provided that the property itself is not injured in any way",
-            "translation": "",
+            "translation": "（在他人财产上的）收益权；用益权",
             "examples": []
           }
         ]
@@ -99718,18 +99718,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
     "word": "usufructuary",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjuːzjuːˈfrʌktʃueri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjuːzjuːˈfrʌktʃuəri"
       }
     },
     "forms": {},
@@ -99788,7 +99788,7 @@
           {
             "id": "usurer-noun-1",
             "definition": "someone who lends money at excessive rates of interest",
-            "translation": "",
+            "translation": "放高利贷者",
             "examples": []
           }
         ]
@@ -99796,8 +99796,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
@@ -99822,7 +99822,7 @@
           {
             "id": "usurious-adjective-1",
             "definition": "greatly exceeding bounds of reason or moderation",
-            "translation": "",
+            "translation": "（利率等）过高的；高利贷的",
             "examples": []
           }
         ]
@@ -99830,18 +99830,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
     "word": "usuriously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "juːˈʒʊriəsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "juːˈzjʊəriəsli"
       }
     },
     "forms": {},
@@ -99856,7 +99856,7 @@
           {
             "id": "usuriously-adverb-1",
             "definition": "to an exorbitant degree",
-            "translation": "",
+            "translation": "过高地；过度地（指利息等过分高昂）",
             "examples": []
           }
         ]
@@ -99864,8 +99864,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
@@ -99946,7 +99946,7 @@
           {
             "id": "usurpation-noun-1",
             "definition": "wrongfully seizing and holding (an office or powers) by force (especially the seizure of a throne or supreme authority)",
-            "translation": "",
+            "translation": "篡夺；篡位（尤指用武力夺取王位或最高权力）",
             "examples": [
               {
                 "text": "a succession of generals who ruled by usurpation",
@@ -99957,7 +99957,7 @@
           {
             "id": "usurpation-noun-2",
             "definition": "entry to another's property without right or permission",
-            "translation": "",
+            "translation": "非法侵占他人财产",
             "examples": []
           }
         ]
@@ -99965,18 +99965,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
     "word": "usurper",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "juːˈzɜːrpər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "juːˈzɜːpə(r)"
       }
     },
     "forms": {},
@@ -99991,7 +99991,7 @@
           {
             "id": "usurper-noun-1",
             "definition": "one who wrongfully or illegally seizes and holds the place of another",
-            "translation": "",
+            "translation": "篡位者；夺取（他人职位或地位）者",
             "examples": []
           }
         ]
@@ -99999,8 +99999,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
@@ -100028,13 +100028,13 @@
           {
             "id": "usury-noun-1",
             "definition": "the act of lending money at an exorbitant rate of interest",
-            "translation": "",
+            "translation": "高利贷行为",
             "examples": []
           },
           {
             "id": "usury-noun-2",
             "definition": "an exorbitant or unlawful rate of interest",
-            "translation": "",
+            "translation": "高额利息；非法的高利率",
             "examples": []
           }
         ]
@@ -100042,18 +100042,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
     "word": "ut",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌt"
       }
     },
     "forms": {},
@@ -100068,7 +100068,7 @@
           {
             "id": "ut-noun-1",
             "definition": "the syllable naming the first (tonic) note of any major scale in solmization",
-            "translation": "",
+            "translation": "(视唱练耳中大调音阶的第一音)Ut(首调唱名法的第一个唱名,即do)",
             "examples": []
           }
         ]
@@ -100077,22 +100077,22 @@
     "phrases": [
       {
         "text": "ut up",
-        "translation": ""
+        "translation": "做好准备；整装待发"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763875200
     }
   },
   {
     "word": "utahraptor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtɑːˌræptər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtɑːˌræptə"
       }
     },
     "forms": {},
@@ -100107,7 +100107,7 @@
           {
             "id": "utahraptor-noun-1",
             "definition": "large (20-ft) and swift carnivorous dinosaur having an upright slashing claw 15 inches long on each hind foot",
-            "translation": "",
+            "translation": "犹他盗龙",
             "examples": []
           }
         ]
@@ -100115,8 +100115,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
@@ -100214,7 +100214,7 @@
           {
             "id": "uterus-noun-1",
             "definition": "a hollow muscular organ in the pelvic cavity of females",
-            "translation": "",
+            "translation": "子宫",
             "examples": []
           }
         ]
@@ -100222,8 +100222,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
@@ -100248,7 +100248,7 @@
           {
             "id": "utile-adjective-1",
             "definition": "being of use or service",
-            "translation": "",
+            "translation": "有用的；有助益的",
             "examples": []
           }
         ]
@@ -100256,8 +100256,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
@@ -100320,7 +100320,7 @@
           {
             "id": "utilise-verb-1",
             "definition": "put into service",
-            "translation": "",
+            "translation": "利用；使用",
             "examples": []
           }
         ]
@@ -100328,18 +100328,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
     "word": "utilised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtɪlaɪzd"
       }
     },
     "forms": {},
@@ -100354,7 +100354,7 @@
           {
             "id": "utilised-adjective-1",
             "definition": "put to use",
-            "translation": "",
+            "translation": "已被利用的",
             "examples": []
           }
         ]
@@ -100362,18 +100362,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
     "word": "utiliser",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtɪlaɪzə"
       }
     },
     "forms": {},
@@ -100388,7 +100388,7 @@
           {
             "id": "utiliser-noun-1",
             "definition": "someone who puts to good use",
-            "translation": "",
+            "translation": "使用者",
             "examples": []
           }
         ]
@@ -100396,8 +100396,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
@@ -100484,7 +100484,7 @@
           {
             "id": "utilitarianism-noun-1",
             "definition": "doctrine that the useful is the good",
-            "translation": "",
+            "translation": "功利主义",
             "examples": []
           }
         ]
@@ -100492,8 +100492,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1770000000
     }
   },
   {
@@ -100592,10 +100592,10 @@
     "word": "utilizable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtɪlaɪzəbəl"
       }
     },
     "forms": {},
@@ -100721,10 +100721,10 @@
     "word": "utilized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzd"
       }
     },
     "forms": {},
@@ -100755,10 +100755,10 @@
     "word": "utilizer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtəlaɪzə(r)"
       }
     },
     "forms": {},
@@ -100773,7 +100773,7 @@
           {
             "id": "utilizer-noun-1",
             "definition": "someone who puts to good use",
-            "translation": "",
+            "translation": "使用者；利用者",
             "examples": [
               {
                 "text": "not all organisms are utilizers of oxygen",
@@ -100786,8 +100786,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -100883,13 +100883,13 @@
           {
             "id": "utopia-noun-1",
             "definition": "a work of fiction describing a utopia",
-            "translation": "",
+            "translation": "乌托邦作品；理想国的虚构作品",
             "examples": []
           },
           {
             "id": "utopia-noun-2",
             "definition": "ideally perfect state",
-            "translation": "",
+            "translation": "理想完美的境界；乌托邦",
             "examples": []
           }
         ]
@@ -100897,8 +100897,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -100995,10 +100995,10 @@
     "word": "utricle",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːtrɪkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːtrɪkəl"
       }
     },
     "forms": {},
@@ -101013,7 +101013,7 @@
           {
             "id": "utricle-noun-1",
             "definition": "a small pouch into which the semicircular canals open",
-            "translation": "",
+            "translation": "椭圆囊",
             "examples": []
           }
         ]
@@ -101021,18 +101021,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764470400
     }
   },
   {
     "word": "utriculus",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "juːˈtrɪkjələs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "juːˈtrɪkjʊləs"
       }
     },
     "forms": {},
@@ -101047,7 +101047,7 @@
           {
             "id": "utriculus-noun-1",
             "definition": "a small pouch into which the semicircular canals open",
-            "translation": "",
+            "translation": "椭圆囊（内耳中半规管开口的小囊）",
             "examples": []
           }
         ]
@@ -101055,8 +101055,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -101155,10 +101155,10 @@
     "word": "utterable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌtərəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌtərəbəl"
       }
     },
     "forms": {},
@@ -101207,7 +101207,7 @@
           {
             "id": "utterance-noun-1",
             "definition": "the use of uttered sounds for auditory communication",
-            "translation": "",
+            "translation": "发声；言语表达；话语",
             "examples": []
           }
         ]
@@ -101215,18 +101215,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uttered",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌtərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌtəd"
       }
     },
     "forms": {},
@@ -101241,7 +101241,7 @@
           {
             "id": "uttered-adjective-1",
             "definition": "communicated in words",
-            "translation": "",
+            "translation": "说出口的；用言辞表达的",
             "examples": [
               {
                 "text": "frequently uttered sentiments",
@@ -101254,18 +101254,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "utterer",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌtərər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌtərə(r)"
       }
     },
     "forms": {},
@@ -101280,19 +101280,19 @@
           {
             "id": "utterer-noun-1",
             "definition": "someone who expresses in language",
-            "translation": "",
+            "translation": "发言者；表达者",
             "examples": []
           },
           {
             "id": "utterer-noun-2",
             "definition": "someone who circulates forged banknotes or counterfeit coins",
-            "translation": "",
+            "translation": "伪钞或假币的流通者",
             "examples": []
           },
           {
             "id": "utterer-noun-3",
             "definition": "an organism that can utter vocal sounds",
-            "translation": "",
+            "translation": "能发出声音的生物",
             "examples": [
               {
                 "text": "an utterer of foul oaths",
@@ -101305,8 +101305,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -101403,10 +101403,10 @@
     "word": "utterness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌtərnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌtənəs"
       }
     },
     "forms": {},
@@ -101421,7 +101421,7 @@
           {
             "id": "utterness-noun-1",
             "definition": "the quality of being complete or utter or extreme",
-            "translation": "",
+            "translation": "全然；彻底；极端",
             "examples": []
           }
         ]
@@ -101429,8 +101429,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -101455,7 +101455,7 @@
           {
             "id": "uv-noun-1",
             "definition": "radiation lying in the ultraviolet range",
-            "translation": "",
+            "translation": "紫外线",
             "examples": []
           }
         ]
@@ -101463,18 +101463,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uvea",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪə"
       }
     },
     "forms": {},
@@ -101487,7 +101487,7 @@
           {
             "id": "uvea-noun-1",
             "definition": "the part of the eye that contains the iris and ciliary body and choroid",
-            "translation": "",
+            "translation": "葡萄膜",
             "examples": []
           }
         ]
@@ -101495,18 +101495,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uveal",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪəl"
       }
     },
     "forms": {},
@@ -101537,10 +101537,10 @@
     "word": "uveitis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjuːvɪˈaɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjuːvɪˈaɪtɪs"
       }
     },
     "forms": {},
@@ -101553,7 +101553,7 @@
           {
             "id": "uveitis-noun-1",
             "definition": "inflammation of the uvea of the eye",
-            "translation": "",
+            "translation": "葡萄膜炎",
             "examples": [
               {
                 "text": "The patient has uveitis.",
@@ -101567,22 +101567,22 @@
     "phrases": [
       {
         "text": "uveitis in brucellosis",
-        "translation": ""
+        "translation": "布鲁菌病性葡萄膜炎"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uveous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːvɪəs"
       }
     },
     "forms": {},
@@ -101629,7 +101629,7 @@
           {
             "id": "uvula-noun-1",
             "definition": "a small pendant fleshy lobe at the back of the soft palate",
-            "translation": "",
+            "translation": "悬雍垂",
             "examples": []
           }
         ]
@@ -101637,18 +101637,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uvular",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈjuːvjələr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈjuːvjələr"
       }
     },
     "forms": {},
@@ -101682,10 +101682,10 @@
     "word": "uvulitis",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjuːvjəˈlaɪtɪs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjuːvjəˈlaɪtɪs"
       }
     },
     "forms": {},
@@ -101698,7 +101698,7 @@
           {
             "id": "uvulitis-noun-1",
             "definition": "inflammation of the uvula",
-            "translation": "",
+            "translation": "悬雍垂炎",
             "examples": []
           }
         ]
@@ -101706,18 +101706,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "uvulopalatopharyngoplasty",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌjuːvjəloʊˌpælətoʊfəˈrɪŋɡoʊˌplæsti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌjuːvjəloʊˌpælətəʊfəˈrɪŋɡəʊˌplæsti"
       }
     },
     "forms": {},
@@ -101732,7 +101732,7 @@
           {
             "id": "uvulopalatopharyngoplasty-noun-1",
             "definition": "surgical resection of unnecessary palatal and oropharyngeal tissue to open the airway",
-            "translation": "",
+            "translation": "悬雍垂腭咽成形术",
             "examples": []
           }
         ]
@@ -101740,18 +101740,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uxor",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈʌksɔːr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈʌksɔːr"
       }
     },
     "forms": {},
@@ -101764,7 +101764,7 @@
           {
             "id": "uxor-noun-1",
             "definition": "(legal terminology) the Latin word for wife",
-            "translation": "",
+            "translation": "（法律术语）妻子（拉丁语）",
             "examples": []
           }
         ]
@@ -101772,18 +101772,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uxorial",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəl"
       }
     },
     "forms": {},
@@ -101798,7 +101798,7 @@
           {
             "id": "uxorial-adjective-1",
             "definition": "befitting or characteristic of a wife",
-            "translation": "",
+            "translation": "妻子的；适于妻子的",
             "examples": []
           }
         ]
@@ -101806,18 +101806,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uxoricide",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːrɪsaɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːrɪsaɪd"
       }
     },
     "forms": {},
@@ -101830,13 +101830,13 @@
           {
             "id": "uxoricide-noun-1",
             "definition": "the murder of a wife by her husband",
-            "translation": "",
+            "translation": "杀妻（行为）",
             "examples": []
           },
           {
             "id": "uxoricide-noun-2",
             "definition": "a husband who murders his wife",
-            "translation": "",
+            "translation": "杀妻者",
             "examples": []
           }
         ]
@@ -101844,8 +101844,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
@@ -101870,7 +101870,7 @@
           {
             "id": "uxorious-adjective-1",
             "definition": "foolishly fond of or submissive to your wife",
-            "translation": "",
+            "translation": "溺爱妻子的；过分顺从妻子的",
             "examples": []
           }
         ]
@@ -101878,18 +101878,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uxoriously",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəsli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəsli"
       }
     },
     "forms": {},
@@ -101902,7 +101902,7 @@
           {
             "id": "uxoriously-adverb-1",
             "definition": "in a loving and uxorious manner",
-            "translation": "",
+            "translation": "溺爱妻子地；过分顺从妻子地",
             "examples": [
               {
                 "text": "We kept deferring uxoriously to our friends.",
@@ -101915,18 +101915,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uxoriousness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌkˈsɔːriəsnəs"
       }
     },
     "forms": {},
@@ -101939,7 +101939,7 @@
           {
             "id": "uxoriousness-noun-1",
             "definition": "foolish fondness for or excessive submissiveness to one's wife",
-            "translation": "",
+            "translation": "对妻子过分顺从；对妻子的痴情",
             "examples": []
           }
         ]
@@ -101947,18 +101947,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1767225600
     }
   },
   {
     "word": "uzbekistani",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʊzˌbɛkɪˈstæni"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʊzˌbɛkɪˈstɑːni"
       }
     },
     "forms": {},
