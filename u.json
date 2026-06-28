@@ -90547,10 +90547,10 @@
     "word": "unyoke",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈjoʊk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈjəʊk"
       }
     },
     "forms": {
@@ -94192,15 +94192,15 @@
     "phrases": [
       {
         "text": "upset in blast furnace operation",
-        "translation": ""
+        "translation": "高炉操作的悬料"
       },
       {
         "text": "upset in pitch",
-        "translation": ""
+        "translation": "节距误差"
       },
       {
         "text": "upset in roll",
-        "translation": ""
+        "translation": "辊型误差"
       }
     ],
     "metadata": {
