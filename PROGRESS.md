@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 1092 | **← Backward**: u.json index 2023 | **Updated**: 1782569500
+> **→ Forward**: b.json index 1092 | **← Backward**: t.json index 3226 | **Updated**: 1782570100
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 10,521 |
-| Remaining | 54,346 |
-| Completion | 16.2% |
+| Reviewed & validated | 12,650 |
+| Remaining | 52,217 |
+| Completion | 19.5% |
 | Forward agent | b.json (1,848 / 3,601) |
-| Backward agent | u.json (929 / 2,578) |
+| Backward agent | t.json (0 / 3,227) |
 
 ## 📋 File Progress
 
@@ -41,13 +41,14 @@
 | r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
-| u.json | 2,578 | 929 | ███████░░░░░░░░ 36% | ← in_progress |
+| u.json | 2,578 | 2,578 | ███████████████████ 100% | ✅ done |
+| t.json | 3,227 | 0 | ···················· 0% | ← in_progress |
 | v.json | 1,058 | 1,058 | ███████████████████ 100% | ✅ done |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **10,271** | **15.8%** | |
+| **Total** | **64,867** | **12,650** | **19.5%** | |
 
 ## 🔄 Current Batches
 
