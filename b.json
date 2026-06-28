@@ -25181,7 +25181,7 @@
           {
             "id": "baroque-adjective-1",
             "definition": "having elaborate symmetrical ornamentation",
-            "translation": "",
+            "translation": "（建筑、艺术等）巴洛克风格的；装饰华丽且对称的",
             "examples": [
               {
                 "text": "the building...frantically baroque-William Dean Howells",
@@ -25192,7 +25192,7 @@
           {
             "id": "baroque-adjective-2",
             "definition": "of or relating to or characteristic of the elaborately ornamented style of architecture, art, and music popular in Europe between 1600 and 1750",
-            "translation": "1750的",
+            "translation": "（1600-1750年间）巴洛克风格的；与巴洛克时期建筑、艺术、音乐相关的",
             "examples": []
           }
         ]
@@ -25211,8 +25211,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782641127
     }
   },
   {
@@ -25240,7 +25240,7 @@
           {
             "id": "baroque-adjective-1",
             "definition": "of or relating to or characteristic of the elaborately ornamented style of architecture, art, and music popular in Europe between 1600 and 1750",
-            "translation": "巴洛克式的；具有精致对称装饰的",
+            "translation": "具有精致对称装饰的",
             "examples": []
           }
         ]
