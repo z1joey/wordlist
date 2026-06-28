@@ -51265,13 +51265,13 @@
           {
             "id": "beguine-noun-1",
             "definition": "a ballroom dance that originated in the French West Indies",
-            "translation": "",
+            "translation": "比津舞",
             "examples": []
           },
           {
             "id": "beguine-noun-2",
             "definition": "music written in the bolero rhythm of the beguine dance",
-            "translation": "",
+            "translation": "比津舞曲",
             "examples": []
           }
         ]
@@ -51303,7 +51303,7 @@
           {
             "id": "begum-noun-1",
             "definition": "a Muslim woman of high rank in India or Pakistan",
-            "translation": "",
+            "translation": "比古姆（印度或巴基斯坦的穆斯林贵妇）",
             "examples": []
           }
         ]
@@ -51593,7 +51593,7 @@
           {
             "id": "behaviorism-noun-1",
             "definition": "an approach to psychology that emphasizes observable measurable behavior",
-            "translation": "",
+            "translation": "行为主义",
             "examples": []
           }
         ]
@@ -54768,21 +54768,15 @@
     "word": "bellied",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlid"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlid"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bellying",
-      "bulbous",
-      "bulging",
-      "bulgy",
-      "protuberant"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -54790,13 +54784,13 @@
           {
             "id": "bellied-adjective-1",
             "definition": "having a belly",
-            "translation": "",
+            "translation": "有腹部的",
             "examples": []
           },
           {
             "id": "bellied-adjective-2",
             "definition": "curving outward",
-            "translation": "",
+            "translation": "向外鼓起的",
             "examples": []
           }
         ]
@@ -54805,16 +54799,16 @@
     "phrases": [
       {
         "text": "bellied out",
-        "translation": ""
+        "translation": "鼓出"
       },
       {
         "text": "bellied up",
-        "translation": ""
+        "translation": "靠拢；走近"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -54828,12 +54822,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "aggressiveness",
-      "belligerency"
+      "hostility",
+      "aggression",
+      "combativeness"
     ],
     "entries": [
       {
@@ -54848,7 +54841,7 @@
           {
             "id": "belligerence-noun-2",
             "definition": "hostile or warlike attitude or nature",
-            "translation": "",
+            "translation": "敌对或好斗的态度或本性",
             "examples": []
           }
         ]
@@ -54856,18 +54849,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belligerency",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈlɪdʒərənsi"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈlɪdʒərənsi"
       }
     },
     "forms": {},
@@ -54889,7 +54882,7 @@
           {
             "id": "belligerency-noun-2",
             "definition": "hostile or warlike attitude or nature",
-            "translation": "",
+            "translation": "敌对或好斗的态度或本性",
             "examples": []
           }
         ]
@@ -54913,15 +54906,16 @@
     },
     "forms": {},
     "tags": [
-      "toefl"
+      "cet6",
+      "gre",
+      "toefl",
+      "ielts"
     ],
     "synonyms": [
+      "hostile",
       "aggressive",
-      "battler",
-      "combatant",
-      "fighter",
-      "militant",
-      "scrapper"
+      "combative",
+      "warlike"
     ],
     "entries": [
       {
@@ -54936,7 +54930,7 @@
           {
             "id": "belligerent-adjective-2",
             "definition": "engaged in war",
-            "translation": "",
+            "translation": "交战中的；参战的",
             "examples": [
               {
                 "text": "belligerent (or warring) nations",
@@ -54965,25 +54959,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belligerently",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈlɪdʒərəntli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈlɪdʒərəntli"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "hostilely"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adverb",
@@ -54991,7 +54983,7 @@
           {
             "id": "belligerently-adverb-1",
             "definition": "with hostility",
-            "translation": "",
+            "translation": "带有敌意地；好斗地",
             "examples": []
           }
         ]
@@ -54999,18 +54991,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlɪŋ"
       }
     },
     "forms": {},
@@ -55034,7 +55026,7 @@
     "phrases": [
       {
         "text": "belling out",
-        "translation": ""
+        "translation": "向外鼓起；凸出"
       }
     ],
     "metadata": {
@@ -55055,7 +55047,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bellboy"
+      "bellhop",
+      "porter"
     ],
     "entries": [
       {
@@ -55064,7 +55057,7 @@
           {
             "id": "bellman-noun-1",
             "definition": "someone employed as an errand boy and luggage carrier around hotels",
-            "translation": "",
+            "translation": "酒店行李员；旅馆杂务工",
             "examples": []
           }
         ]
@@ -55072,8 +55065,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -55086,16 +55079,16 @@
         "ipa": "ˈbeləʊ"
       }
     },
-    "forms": {
-      "past": "bellowed",
-      "gerund": "bellowing",
-      "pastParticiple": "bellowed"
-    },
-    "tags": [],
+    "forms": {},
+    "tags": [
+      "cet6",
+      "toefl",
+      "ielts"
+    ],
     "synonyms": [
-      "bawl",
       "roar",
-      "roaring"
+      "shout",
+      "yell"
     ],
     "entries": [
       {
@@ -55104,7 +55097,7 @@
           {
             "id": "bellow-noun-1",
             "definition": "a very loud utterance, similar to the sound of an animal",
-            "translation": "",
+            "translation": "吼叫；怒吼；轰鸣声",
             "examples": [
               {
                 "text": "Their bellow filled the hallway.",
@@ -55145,40 +55138,41 @@
     "phrases": [
       {
         "text": "bellow at",
-        "translation": ""
+        "translation": "对…吼叫"
       },
       {
         "text": "bellow off",
-        "translation": ""
+        "translation": "吼叫着赶走"
       },
       {
         "text": "bellow out",
-        "translation": ""
+        "translation": "大声喊出"
       },
       {
         "text": "bellow with pain",
-        "translation": ""
+        "translation": "因疼痛而嚎叫"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellower",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛloʊər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛləʊə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "screamer"
+      "shouter",
+      "yeller"
     ],
     "entries": [
       {
@@ -55187,7 +55181,7 @@
           {
             "id": "bellower-noun-1",
             "definition": "someone who communicates vocally in a very loud voice",
-            "translation": "",
+            "translation": "大声吼叫者；咆哮者",
             "examples": []
           }
         ]
@@ -55195,24 +55189,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellowing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛloʊɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛləʊɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "roaring"
+      "roaring",
+      "shouting"
     ],
     "entries": [
       {
@@ -55221,7 +55216,7 @@
           {
             "id": "bellowing-noun-1",
             "definition": "a very loud utterance (like the sound of an animal)",
-            "translation": "",
+            "translation": "吼叫声；咆哮声",
             "examples": []
           }
         ]
@@ -55229,8 +55224,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -55255,7 +55250,7 @@
           {
             "id": "bellows-noun-1",
             "definition": "a mechanical device that blows a strong current of air",
-            "translation": "",
+            "translation": "风箱",
             "examples": []
           }
         ]
@@ -55263,18 +55258,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellpull",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌpʊl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlpʊl"
       }
     },
     "forms": {},
@@ -55287,7 +55282,7 @@
           {
             "id": "bellpull-noun-1",
             "definition": "a handle or cord that is pulled to ring a doorbell or a servant's bell etc.",
-            "translation": "",
+            "translation": "门铃拉索",
             "examples": []
           }
         ]
@@ -55295,8 +55290,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
@@ -55321,13 +55316,13 @@
           {
             "id": "bellwether-noun-1",
             "definition": "sheep that leads the herd often wearing a bell",
-            "translation": "",
+            "translation": "领头羊",
             "examples": []
           },
           {
             "id": "bellwether-noun-2",
             "definition": "someone who assumes leadership of a movement or activity",
-            "translation": "",
+            "translation": "领导者",
             "examples": []
           }
         ]
@@ -55335,18 +55330,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellwort",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌwɜrt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlwɜːt"
       }
     },
     "forms": {},
@@ -55359,7 +55354,7 @@
           {
             "id": "bellwort-noun-1",
             "definition": "any of various plants of the genus Uvularia having yellowish drooping bell-shaped flowers",
-            "translation": "",
+            "translation": "铃花",
             "examples": []
           }
         ]
@@ -55367,8 +55362,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
@@ -55513,7 +55508,7 @@
           {
             "id": "bellyache-noun-1",
             "definition": "an ache localized in the stomach or abdominal region",
-            "translation": "",
+            "translation": "肚子痛",
             "examples": []
           }
         ]
@@ -55545,10 +55540,10 @@
     "word": "bellyacher",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛliˌeɪkər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbelɪeɪkə(r)"
       }
     },
     "forms": {},
@@ -55563,7 +55558,7 @@
           {
             "id": "bellyacher-noun-1",
             "definition": "a person given to excessive complaints and crying and whining",
-            "translation": "",
+            "translation": "爱抱怨的人",
             "examples": []
           }
         ]
@@ -55571,18 +55566,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellyband",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛliˌbænd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbelɪbænd"
       }
     },
     "forms": {},
@@ -55595,13 +55590,13 @@
           {
             "id": "bellyband-noun-1",
             "definition": "a strap around the belly of a draft animal holding the shafts of a wagon",
-            "translation": "",
+            "translation": "腹带（套在役畜腹部固定车辕的带子）",
             "examples": []
           },
           {
             "id": "bellyband-noun-2",
             "definition": "a cloth band that is worn around the waist, as on infants until the navel has healed",
-            "translation": "",
+            "translation": "肚带（婴儿护脐布带）",
             "examples": [
               {
                 "text": "I love that new bellyband.",
@@ -55614,8 +55609,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
@@ -55640,7 +55635,7 @@
           {
             "id": "bellybutton-noun-1",
             "definition": "a scar where the umbilical cord was attached",
-            "translation": "",
+            "translation": "肚脐",
             "examples": []
           }
         ]
@@ -55648,8 +55643,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
@@ -55672,7 +55667,7 @@
           {
             "id": "bellyful-noun-1",
             "definition": "an undesirable overabundance",
-            "translation": "",
+            "translation": "过量",
             "examples": [
               {
                 "text": "a bellyful of your complaints",
@@ -55685,18 +55680,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellying",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛliɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbelɪɪŋ"
       }
     },
     "forms": {},
@@ -55711,7 +55706,7 @@
           {
             "id": "bellying-adjective-1",
             "definition": "curving outward",
-            "translation": "",
+            "translation": "鼓起的",
             "examples": []
           }
         ]
@@ -55728,18 +55723,18 @@
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellylaugh",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛliˌlæf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbelɪlɑːf"
       }
     },
     "forms": {},
@@ -55752,7 +55747,7 @@
           {
             "id": "bellylaugh-verb-1",
             "definition": "to laugh a deep, hearty laugh",
-            "translation": "",
+            "translation": "哈哈大笑",
             "examples": [
               {
                 "text": "I bellylaughed at that joke.",
@@ -55765,18 +55760,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
     "word": "bellyless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛliləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbelɪləs"
       }
     },
     "forms": {},
@@ -55789,7 +55784,7 @@
           {
             "id": "bellyless-adjective-1",
             "definition": "lacking a prominent belly",
-            "translation": "",
+            "translation": "无腹的",
             "examples": []
           }
         ]
@@ -55797,8 +55792,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643839
     }
   },
   {
