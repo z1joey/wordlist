@@ -1564,18 +1564,18 @@
           {
             "id": "vagabond-noun-1",
             "definition": "anything that resembles a vagabond in having no fixed place",
-            "translation": "",
+            "translation": "流浪者；漂泊者",
             "examples": [
               {
                 "text": "pirate ships were vagabonds of the sea",
-                "translation": ""
+                "translation": "海盗船是海上的流浪者。"
               }
             ]
           },
           {
             "id": "vagabond-noun-2",
             "definition": "a wanderer who has no established residence or visible means of support",
-            "translation": "",
+            "translation": "无家可归者；游民",
             "examples": []
           }
         ]
@@ -1586,7 +1586,7 @@
           {
             "id": "vagabond-verb-1",
             "definition": "move about aimlessly or without any destination, often in search of food or employment",
-            "translation": "",
+            "translation": "流浪；漂泊",
             "examples": []
           }
         ]
@@ -1594,8 +1594,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769900000
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568500
     }
   },
   {
@@ -1987,7 +1987,7 @@
           {
             "id": "vagrant-noun-1",
             "definition": "a wanderer who has no established residence or visible means of support",
-            "translation": "",
+            "translation": "流浪者；无固定居所的人；漂泊者",
             "examples": [
               {
                 "text": "The vagrants have set up temporary camp near the abandoned mall.",
@@ -2564,7 +2564,7 @@
           {
             "id": "valedictory-noun-1",
             "definition": "a farewell oration, especially one delivered during graduation exercises by an outstanding member of a graduating class",
-            "translation": "",
+            "translation": "告别辞；告别演说",
             "examples": [
               {
                 "text": "I studied the previous year's valedictory in order to prepare my own.",
@@ -2864,7 +2864,7 @@
           {
             "id": "valet-verb-1",
             "definition": "to serve as a personal attendant to",
-            "translation": "",
+            "translation": "侍候；为…提供贴身服务",
             "examples": [
               {
                 "text": "You do not need to valet for the ambassador.",
@@ -2914,7 +2914,7 @@
           {
             "id": "valetudinarian-noun-1",
             "definition": "weak or sickly person especially one morbidly concerned with his or her health",
-            "translation": "",
+            "translation": "体弱多病者；过分担心健康的人",
             "examples": []
           }
         ]
@@ -3289,13 +3289,13 @@
           {
             "id": "validate-verb-3",
             "definition": "give evidence for",
-            "translation": "",
+            "translation": "证实；证明有效",
             "examples": []
           },
           {
             "id": "validate-verb-4",
             "definition": "declare or make legally valid",
-            "translation": "",
+            "translation": "使合法化；批准",
             "examples": []
           }
         ]
@@ -5159,7 +5159,7 @@
           {
             "id": "vamp-verb-1",
             "definition": "provide (a shoe) with a new vamp",
-            "translation": "",
+            "translation": "给（鞋）换新鞋面；勾引；修补",
             "examples": [
               {
                 "text": "revamp my old boots",
@@ -5170,7 +5170,7 @@
           {
             "id": "vamp-verb-2",
             "definition": "act seductively with (someone)",
-            "translation": "",
+            "translation": "勾引；调情",
             "examples": []
           },
           {
@@ -8274,25 +8274,25 @@
           {
             "id": "variant-noun-1",
             "definition": "something a little different from others of the same type",
-            "translation": "",
+            "translation": "变体；变种；变式",
             "examples": []
           },
           {
             "id": "variant-noun-2",
             "definition": "a variable quantity that is random",
-            "translation": "",
+            "translation": "随机变量",
             "examples": []
           },
           {
             "id": "variant-noun-3",
             "definition": "an event that departs from expectations",
-            "translation": "",
+            "translation": "意外事件；偏离预期的事",
             "examples": []
           },
           {
             "id": "variant-noun-4",
             "definition": "(biology) a group of organisms within a species that differ in trivial ways from similar groups",
-            "translation": "",
+            "translation": "（生物）变种；变体",
             "examples": []
           }
         ]
@@ -9841,7 +9841,7 @@
           {
             "id": "varnish-verb-1",
             "definition": "to cover with varnish",
-            "translation": "",
+            "translation": "给…涂清漆；粉饰；掩饰",
             "examples": [
               {
                 "text": "I varnished the deck to make it waterproof.",
@@ -9938,7 +9938,7 @@
           {
             "id": "varsity-noun-1",
             "definition": "a team representing a college or university",
-            "translation": "",
+            "translation": "大学运动队；校队",
             "examples": [
               {
                 "text": "I played rugby on the varsity.",
@@ -9949,7 +9949,7 @@
           {
             "id": "varsity-noun-2",
             "definition": "an abbreviation of university",
-            "translation": "",
+            "translation": "大学（的简称）；高等院校",
             "examples": [
               {
                 "text": "Did you get into varsity this year?",
@@ -11038,8 +11038,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11072,8 +11072,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11106,8 +11106,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11138,8 +11138,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11170,8 +11170,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11204,8 +11204,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1769980800
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11234,7 +11234,7 @@
             "examples": [
               {
                 "text": "Their vassalage was imposed by force.",
-                "translation": ""
+                "translation": "他们的附庸地位是被武力强加的。"
               }
             ]
           }
@@ -11243,8 +11243,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763692800
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11275,11 +11275,11 @@
           {
             "id": "vast-adjective-1",
             "definition": "unusually great in size, amount, degree, extent, or scope",
-            "translation": "广阔的",
+            "translation": "广阔的；巨大的；庞大的",
             "examples": [
               {
                 "text": "The universe in unquestionably vast.",
-                "translation": ""
+                "translation": "宇宙无疑是广阔的。"
               }
             ]
           }
@@ -11288,8 +11288,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -11314,11 +11314,11 @@
           {
             "id": "vastly-adverb-1",
             "definition": "to an exceedingly great extent or degree",
-            "translation": "广阔的地",
+            "translation": "极大地；广阔地；程度极高",
             "examples": [
               {
                 "text": "We had vastly overestimated our resources and are now in a precarious situation.",
-                "translation": ""
+                "translation": "我们严重高估了自己的资源，现在处境岌岌可危。"
               }
             ]
           }
@@ -11327,8 +11327,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782567000
     }
   },
   {
@@ -17902,7 +17902,7 @@
           {
             "id": "veracious-adjective-2",
             "definition": "habitually speaking the truth",
-            "translation": "",
+            "translation": "诚实的；说实话的",
             "examples": [
               {
                 "text": "a veracious witness",
@@ -18687,11 +18687,11 @@
           {
             "id": "verbatim-adverb-1",
             "definition": "using exactly the same words",
-            "translation": "",
+            "translation": "逐字地；一字不差地",
             "examples": [
               {
                 "text": "The remarks were repeated verbatim.",
-                "translation": ""
+                "translation": "这些话被逐字重复了。"
               }
             ]
           }
@@ -19205,7 +19205,7 @@
           {
             "id": "verdigris-verb-1",
             "definition": "color verdigris",
-            "translation": "",
+            "translation": "生铜绿；使变成铜绿色",
             "examples": []
           }
         ]
@@ -19389,7 +19389,7 @@
           {
             "id": "verge-verb-1",
             "definition": "border on",
-            "translation": "",
+            "translation": "濒临；接近；几乎要",
             "examples": []
           }
         ]
@@ -20224,7 +20224,7 @@
           {
             "id": "vermiculate-verb-1",
             "definition": "to decorate with wavy or winding lines",
-            "translation": "",
+            "translation": "用蠕虫状线条装饰",
             "examples": [
               {
                 "text": "I vermiculated the wall in my kitchen.",
@@ -20603,7 +20603,7 @@
           {
             "id": "vernacular-noun-1",
             "definition": "the everyday speech of the people (as distinguished from literary language)",
-            "translation": "",
+            "translation": "本地语言；方言；白话",
             "examples": []
           },
           {
@@ -21122,11 +21122,11 @@
           {
             "id": "verse-verb-1",
             "definition": "familiarize through thorough study or experience",
-            "translation": "",
+            "translation": "精通；使熟悉",
             "examples": [
               {
                 "text": "I versed myself in Roman archeology.",
-                "translation": ""
+                "translation": "我精通罗马考古学。"
               }
             ]
           },
@@ -21632,11 +21632,11 @@
           {
             "id": "vertebrate-noun-1",
             "definition": "animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium",
-            "translation": "",
+            "translation": "脊椎动物",
             "examples": [
               {
                 "text": "Humans are vertebrates.",
-                "translation": ""
+                "translation": "人类是脊椎动物。"
               }
             ]
           }
@@ -22450,11 +22450,11 @@
           {
             "id": "vesicant-noun-1",
             "definition": "a chemical agent that causes blistering, especially mustard gas",
-            "translation": "",
+            "translation": "起疱剂；（尤指）芥子气",
             "examples": [
               {
                 "text": "The enemy released the vesicant over us.",
-                "translation": ""
+                "translation": "敌方向我们释放了起疱剂。"
               }
             ]
           }
@@ -22576,7 +22576,7 @@
           {
             "id": "vesicatory-noun-1",
             "definition": "a chemical agent that causes blistering (especially mustard gas)",
-            "translation": "",
+            "translation": "起疱剂；发疱药",
             "examples": []
           }
         ]
@@ -23191,11 +23191,11 @@
           {
             "id": "vestal-noun-1",
             "definition": "a chaste woman",
-            "translation": "",
+            "translation": "贞洁的女子；修女",
             "examples": [
               {
                 "text": "The vestals left the nunnery in neat lines.",
-                "translation": ""
+                "translation": "修女们整齐地离开修道院。"
               }
             ]
           }
@@ -23752,11 +23752,11 @@
           {
             "id": "vesture-verb-1",
             "definition": "to provide or cover with a cloak",
-            "translation": "",
+            "translation": "给…穿衣；覆盖",
             "examples": [
               {
                 "text": "They made sure to vesture before going out in the rain.",
-                "translation": ""
+                "translation": "他们在雨中出门前确保穿好了衣服。"
               }
             ]
           }
@@ -23889,7 +23889,7 @@
           {
             "id": "vet-verb-1",
             "definition": "to provide veterinary care for",
-            "translation": "",
+            "translation": "医治（动物）；兽医治疗",
             "examples": [
               {
                 "text": "The doctor vetted my sick parrot.",
@@ -23900,7 +23900,7 @@
           {
             "id": "vet-verb-2",
             "definition": "to provide someone with medical care",
-            "translation": "",
+            "translation": "为…提供医疗服务",
             "examples": [
               {
                 "text": "The doctor in training vetted the patient under the supervision of a more seasoned medic.",
@@ -23911,7 +23911,7 @@
           {
             "id": "vet-verb-3",
             "definition": "to examine carefully",
-            "translation": "",
+            "translation": "审查；仔细检查",
             "examples": [
               {
                 "text": "Someone should vet this report before it goes out.",
@@ -23922,7 +23922,7 @@
           {
             "id": "vet-verb-4",
             "definition": "to work as a veterinarian",
-            "translation": "",
+            "translation": "当兽医；从事兽医工作",
             "examples": [
               {
                 "text": "They vetted for the farms in the area for many years.",
@@ -24145,7 +24145,7 @@
           {
             "id": "veterinary-adjective-1",
             "definition": "of or relating to veterinarians or veterinary medicine",
-            "translation": "药物的",
+            "translation": "兽医的；动物医学的",
             "examples": []
           }
         ]
@@ -24156,7 +24156,7 @@
           {
             "id": "veterinary-noun-1",
             "definition": "a doctor who practices veterinary medicine",
-            "translation": "",
+            "translation": "兽医",
             "examples": []
           }
         ]
@@ -25217,22 +25217,22 @@
           {
             "id": "vibrant-adjective-2",
             "definition": "of sounds that are strong and resonating",
-            "translation": "强壮的的",
+            "translation": "（声音）洪亮的；共鸣的",
             "examples": [
               {
                 "text": "the men's vibrant voices",
-                "translation": ""
+                "translation": "男士们洪亮的声音"
               }
             ]
           },
           {
             "id": "vibrant-adjective-3",
             "definition": "vigorous and animated",
-            "translation": "",
+            "translation": "充满活力的；生机勃勃的；活跃的",
             "examples": [
               {
                 "text": "a vibrant group that challenged the system",
-                "translation": ""
+                "translation": "挑战体制的活跃群体"
               }
             ]
           }
@@ -27273,33 +27273,33 @@
           {
             "id": "victorian-adjective-1",
             "definition": "exaggeratedly proper",
-            "translation": "",
+            "translation": "故作正经的；过分规矩的",
             "examples": [
               {
                 "text": "Your victorian mannerisms are quite out of place at this sports bar.",
-                "translation": ""
+                "translation": "你这故作正经的举止在这种运动酒吧里非常不合时宜。"
               }
             ]
           },
           {
             "id": "victorian-adjective-2",
             "definition": "typical of the moral standards or conduct of the age of Queen Victoria",
-            "translation": "",
+            "translation": "维多利亚时代的；具有维多利亚时代特征的",
             "examples": [
               {
                 "text": "Victorian communications seem very formal to moderns.",
-                "translation": ""
+                "translation": "维多利亚时代的通讯方式在现代人看来非常正式。"
               }
             ]
           },
           {
             "id": "victorian-adjective-3",
             "definition": "of or relating to Queen Victoria of Great Britain or to the age in which she ruled",
-            "translation": "规则的",
+            "translation": "维多利亚女王的；与维多利亚时代相关的",
             "examples": [
               {
                 "text": "I enjoy a Victorian novel from time to time.",
-                "translation": ""
+                "translation": "我偶尔喜欢读维多利亚时代的小说。"
               }
             ]
           }
@@ -27308,8 +27308,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568000
     }
   },
   {
@@ -27492,7 +27492,7 @@
           {
             "id": "victual-verb-1",
             "definition": "to take in nourishment",
-            "translation": "",
+            "translation": "进食；摄取营养",
             "examples": [
               {
                 "text": "The sailors victualled after a long training session.",
@@ -27503,7 +27503,7 @@
           {
             "id": "victual-verb-2",
             "definition": "to lay in provisions",
-            "translation": "",
+            "translation": "储备食物；采购给养",
             "examples": [
               {
                 "text": "The vessel victualled before the long voyage.",
@@ -27514,7 +27514,7 @@
           {
             "id": "victual-verb-3",
             "definition": "to supply with food",
-            "translation": "",
+            "translation": "向…提供食物；供给口粮",
             "examples": [
               {
                 "text": "The population was victualed during the war.",
@@ -28125,22 +28125,22 @@
           {
             "id": "vietnamese-noun-1",
             "definition": "collectively, the people of Vietnam",
-            "translation": "",
+            "translation": "越南人（总称）",
             "examples": [
               {
                 "text": "The Vietnamese love coffee.",
-                "translation": ""
+                "translation": "越南人喜欢咖啡。"
               }
             ]
           },
           {
             "id": "vietnamese-noun-2",
             "definition": "the Vietnamese language",
-            "translation": "",
+            "translation": "越南语",
             "examples": [
               {
                 "text": "We spoke to the street vendors in Vietnamese.",
-                "translation": ""
+                "translation": "我们用越南语和街头小贩交谈。"
               }
             ]
           }
@@ -31960,7 +31960,7 @@
           {
             "id": "violet-adjective-1",
             "definition": "of a color intermediate between red and blue",
-            "translation": "蓝色的",
+            "translation": "紫色的；紫罗兰色的",
             "examples": []
           }
         ]
@@ -31971,13 +31971,13 @@
           {
             "id": "violet-noun-1",
             "definition": "a variable color that lies beyond blue in the spectrum",
-            "translation": "",
+            "translation": "紫罗兰色；紫色",
             "examples": []
           },
           {
             "id": "violet-noun-2",
             "definition": "any of numerous low-growing violas with small flowers",
-            "translation": "",
+            "translation": "堇菜；紫罗兰",
             "examples": []
           }
         ]
@@ -32580,17 +32580,6 @@
                 "translation": ""
               }
             ]
-          },
-          {
-            "id": "virgin-adjective-4",
-            "definition": "being unaffected by human intervention; natural",
-            "translation": "天然的；纯净的",
-            "examples": [
-              {
-                "text": "The virgin spring water was wonderful to drink.",
-                "translation": ""
-              }
-            ]
           }
         ]
       },
@@ -32600,11 +32589,11 @@
           {
             "id": "virgin-noun-1",
             "definition": "a person who has never had sexual intercourse; what defines sexual intercourse in this context varies widely in interpretation from person to person, and situation to situation; various factors include gender of participants, level of consent of participants, physical configuration, having reached orgasm or not, and other elements that might lead one to believe one is a virgin or not",
-            "translation": "",
+            "translation": "处女；童贞；未有过性行为的人",
             "examples": [
               {
                 "text": "I'm not sure if I'm a virgin or not.",
-                "translation": ""
+                "translation": "我不确定自己是否是处女。"
               }
             ]
           }
@@ -32672,7 +32661,7 @@
           {
             "id": "virginal-noun-1",
             "definition": "a legless rectangular harpsichord",
-            "translation": "",
+            "translation": "维吉尔娜琴（一种无腿矩形羽管键琴）",
             "examples": []
           }
         ]
@@ -33379,7 +33368,7 @@
           {
             "id": "virtu-noun-1",
             "definition": "objet d'art collectively (especially fine antiques)",
-            "translation": "",
+            "translation": "（珍贵）艺术品总称；（尤指）精美古玩",
             "examples": []
           },
           {
@@ -33391,7 +33380,7 @@
           {
             "id": "virtu-noun-3",
             "definition": "love of or taste for fine objects of art",
-            "translation": "",
+            "translation": "对精美艺术品的爱好；艺术品鉴赏",
             "examples": []
           }
         ]
@@ -33399,8 +33388,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568000
     }
   },
   {
@@ -33641,22 +33630,22 @@
           {
             "id": "virtuoso-noun-1",
             "definition": "someone who is exceptionally skilled in any field",
-            "translation": "",
+            "translation": "艺术大师；技艺超群的人",
             "examples": [
               {
                 "text": "The team was full of programming virtuosos.",
-                "translation": ""
+                "translation": "团队里满是编程高手。"
               }
             ]
           },
           {
             "id": "virtuoso-noun-2",
             "definition": "a musician who is a consummate master of technique and artistry",
-            "translation": "",
+            "translation": "（音乐）演奏大师；乐器高手",
             "examples": [
               {
                 "text": "My kids are both piano virtuosos.",
-                "translation": ""
+                "translation": "我的孩子们都是钢琴演奏大师。"
               }
             ]
           }
@@ -35678,13 +35667,13 @@
           {
             "id": "visionary-noun-1",
             "definition": "a person with unusual powers of foresight",
-            "translation": "",
+            "translation": "有远见的人；预见者",
             "examples": []
           },
           {
             "id": "visionary-noun-2",
             "definition": "a person given to fanciful speculations and enthusiasms with little regard for what is actually possible",
-            "translation": "",
+            "translation": "空想家；幻想者",
             "examples": []
           }
         ]
@@ -37955,13 +37944,13 @@
           {
             "id": "vitriol-verb-1",
             "definition": "subject to bitter verbal abuse",
-            "translation": "",
+            "translation": "用尖刻的话伤害；痛骂",
             "examples": []
           },
           {
             "id": "vitriol-verb-2",
             "definition": "expose to the effects of vitriol or injure with vitriol",
-            "translation": "",
+            "translation": "使受硫酸伤害；腐蚀",
             "examples": []
           }
         ]
@@ -39133,7 +39122,7 @@
           {
             "id": "vlog-verb-1",
             "definition": "to make or film a vlog",
-            "translation": "",
+            "translation": "拍摄视频日志；录制视频博客",
             "examples": [
               {
                 "text": "My arm got tired from the consistent vlogging that I did.",
@@ -39314,7 +39303,7 @@
           {
             "id": "vocal-noun-1",
             "definition": "music intended to be performed by one or more singers, usually with instrumental accompaniment",
-            "translation": "",
+            "translation": "声乐作品； vocal music",
             "examples": [
               {
                 "text": "Have you listened to the vocals I sent you?",
@@ -39966,7 +39955,7 @@
           {
             "id": "vocative-noun-1",
             "definition": "the case (in some inflected languages) used when the referent of the noun is being addressed",
-            "translation": "",
+            "translation": "（某些屈折语言的）呼格；与格",
             "examples": []
           }
         ]
@@ -40268,7 +40257,7 @@
           {
             "id": "vodoun-verb-1",
             "definition": "to bewitch by or as if by a voodoo",
-            "translation": "",
+            "translation": "用巫毒术迷惑；施巫术",
             "examples": [
               {
                 "text": "I witnessed them voodoo an enemy.",
@@ -40947,7 +40936,7 @@
             "examples": [
               {
                 "text": "the earth was without form, and void",
-                "translation": ""
+                "translation": "地球混沌空虚"
               }
             ]
           },
@@ -40958,7 +40947,7 @@
             "examples": [
               {
                 "text": "null and void",
-                "translation": ""
+                "translation": "无效"
               }
             ]
           }
@@ -40970,18 +40959,18 @@
           {
             "id": "void-noun-1",
             "definition": "an empty area or space",
-            "translation": "",
+            "translation": "空隙；空白；空间",
             "examples": [
               {
                 "text": "the huge desert voids",
-                "translation": ""
+                "translation": "巨大的沙漠空白地带"
               }
             ]
           },
           {
             "id": "void-noun-2",
             "definition": "the state of nonexistence",
-            "translation": "",
+            "translation": "虚无；不存在",
             "examples": []
           }
         ]
@@ -40992,7 +40981,7 @@
           {
             "id": "void-verb-1",
             "definition": "excrete or discharge from the body",
-            "translation": "",
+            "translation": "排泄；排出",
             "examples": []
           },
           {
@@ -41004,18 +40993,18 @@
           {
             "id": "void-verb-3",
             "definition": "clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of something",
-            "translation": "",
+            "translation": "使空；腾出；清除",
             "examples": [
               {
                 "text": "The chemist voided the glass bottle",
-                "translation": ""
+                "translation": "药剂清空了玻璃瓶"
               }
             ]
           },
           {
             "id": "void-verb-4",
             "definition": "declare invalid",
-            "translation": "",
+            "translation": "宣布…无效；废除",
             "examples": []
           }
         ]
@@ -41044,8 +41033,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782569000
     }
   },
   {
@@ -41432,7 +41421,7 @@
           {
             "id": "volatile-noun-1",
             "definition": "a volatile substance",
-            "translation": "",
+            "translation": "易挥发物质",
             "examples": []
           }
         ]
@@ -41750,7 +41739,7 @@
           {
             "id": "volcanic-adjective-2",
             "definition": "explosively unstable",
-            "translation": "",
+            "translation": "火山似的；暴烈的；猛烈的",
             "examples": [
               {
                 "text": "You have a volcanic temper for an adult.",
@@ -41996,22 +41985,22 @@
           {
             "id": "volition-noun-1",
             "definition": "the capability of conscious choice and decision and intention",
-            "translation": "",
+            "translation": "意志力；自主决定的能力",
             "examples": [
               {
                 "text": "the exercise of their volition we construe as revolt- George Meredith",
-                "translation": ""
+                "translation": "他们行使意志力我们理解为反抗——乔治·梅雷迪思"
               }
             ]
           },
           {
             "id": "volition-noun-2",
             "definition": "the act of making a choice",
-            "translation": "制造行为",
+            "translation": "选择；抉择",
             "examples": [
               {
                 "text": "followed my father of my own volition",
-                "translation": ""
+                "translation": "出于我自己的选择跟随了我的父亲"
               }
             ]
           }
@@ -42020,8 +42009,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568000
     }
   },
   {
@@ -42153,7 +42142,7 @@
           {
             "id": "volley-verb-1",
             "definition": "to utter rapidly",
-            "translation": "",
+            "translation": "连珠炮般说出；快速地说",
             "examples": [
               {
                 "text": "The taxi driver would often volley a string of curses at the traffic.",
@@ -42164,7 +42153,7 @@
           {
             "id": "volley-verb-2",
             "definition": "to make a volley",
-            "translation": "",
+            "translation": "截击；拦击",
             "examples": [
               {
                 "text": "The player volleyed the ball.",
@@ -42175,7 +42164,7 @@
           {
             "id": "volley-verb-3",
             "definition": "to discharge in, or as if in, a volley",
-            "translation": "",
+            "translation": "齐射；群起而攻",
             "examples": [
               {
                 "text": "The attackers volleyed gunshots at the civilians.",
@@ -42186,7 +42175,7 @@
           {
             "id": "volley-verb-4",
             "definition": "to hit before it touches the ground",
-            "translation": "",
+            "translation": "（球类）落地前击回",
             "examples": [
               {
                 "text": "The player volleyed the tennis ball.",
@@ -42197,7 +42186,7 @@
           {
             "id": "volley-verb-5",
             "definition": "to be dispersed in a volley",
-            "translation": "",
+            "translation": "四散；扩散",
             "examples": [
               {
                 "text": "Arrows volleyed overhead.",
@@ -43378,7 +43367,7 @@
           {
             "id": "voluptuary-noun-1",
             "definition": "a person addicted to luxury and pleasures of the senses",
-            "translation": "",
+            "translation": "酒色之徒；耽于享乐的人",
             "examples": []
           }
         ]
@@ -43583,7 +43572,7 @@
           {
             "id": "volute-noun-1",
             "definition": "a structure consisting of something wound in a continuous series of loops",
-            "translation": "",
+            "translation": "螺旋结构；涡旋形",
             "examples": [
               {
                 "text": "The slinky is a volute.",
@@ -43594,7 +43583,7 @@
           {
             "id": "volute-noun-2",
             "definition": "an ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center",
-            "translation": "",
+            "translation": "（建筑）涡卷装饰",
             "examples": [
               {
                 "text": "The volute is common in ancient architecture.",
@@ -43844,7 +43833,7 @@
           {
             "id": "vomit-verb-1",
             "definition": "eject the contents of the stomach through the mouth",
-            "translation": "",
+            "translation": "呕吐；吐出",
             "examples": [
               {
                 "text": "After drinking too much, the students vomited",
@@ -44119,7 +44108,7 @@
           {
             "id": "voodoo-verb-1",
             "definition": "to bewitch by or as if by a voodoo",
-            "translation": "",
+            "translation": "施巫术；用咒语迷惑",
             "examples": [
               {
                 "text": "I witnessed them voodoo an enemy.",
@@ -45285,7 +45274,7 @@
           {
             "id": "vow-verb-1",
             "definition": "to make a vow",
-            "translation": "",
+            "translation": "发誓；起誓",
             "examples": [
               {
                 "text": "I vowed to finish my novel by the end of the year.",
@@ -45296,7 +45285,7 @@
           {
             "id": "vow-verb-2",
             "definition": "to dedicate to a deity by a vow",
-            "translation": "",
+            "translation": "以誓约奉献；立誓",
             "examples": [
               {
                 "text": "At their ordination ceremony, the new clergy members vowed themselves to a life of service.",
@@ -45873,7 +45862,7 @@
           {
             "id": "vroom-verb-1",
             "definition": "to make a loud, roaring sound, as of a car engine, while moving",
-            "translation": "",
+            "translation": "（引擎）发出轰鸣声",
             "examples": []
           }
         ]
@@ -46246,25 +46235,25 @@
           {
             "id": "vulgar-adjective-1",
             "definition": "conspicuously and tastelessly indecent",
-            "translation": "",
+            "translation": "粗俗的；下流的；庸俗的",
             "examples": []
           },
           {
             "id": "vulgar-adjective-2",
             "definition": "being or characteristic of or appropriate to everyday language",
-            "translation": "",
+            "translation": "日常语言的；白话的；通俗的",
             "examples": []
           },
           {
             "id": "vulgar-adjective-3",
             "definition": "of or associated with the great masses of people",
-            "translation": "人民的",
+            "translation": "平民的；大众的；通俗的",
             "examples": []
           },
           {
             "id": "vulgar-adjective-4",
             "definition": "lacking refinement or cultivation or taste",
-            "translation": "",
+            "translation": "缺乏教养的；粗鲁的；品味低俗的",
             "examples": []
           }
         ]
@@ -46272,8 +46261,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568000
     }
   },
   {
@@ -46572,7 +46561,7 @@
           {
             "id": "vulgarization-noun-2",
             "definition": "the act of rendering something coarse and unrefined",
-            "translation": "",
+            "translation": "庸俗化；粗俗化",
             "examples": []
           }
         ]
@@ -46753,22 +46742,22 @@
           {
             "id": "vulnerability-noun-1",
             "definition": "susceptibility to injury or attack",
-            "translation": "",
+            "translation": "易受伤害；脆弱性",
             "examples": [
               {
                 "text": "The building's vulnerability lies primarily in its primitive wooden construction.",
-                "translation": ""
+                "translation": "这栋建筑的主要脆弱性在于其原始的木质结构。"
               }
             ]
           },
           {
             "id": "vulnerability-noun-2",
             "definition": "the state of being vulnerable or exposed",
-            "translation": "…的状态",
+            "translation": "易暴露的状态；处于脆弱境地",
             "examples": [
               {
                 "text": "Our vulnerability to litigation must be mitigated.",
-                "translation": ""
+                "translation": "我们必须降低诉讼风险。"
               }
             ]
           }
@@ -46778,12 +46767,12 @@
     "phrases": [
       {
         "text": "vulnerability to jamming",
-        "translation": ""
+        "translation": "易受干扰特性"
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "MiniMax-M2.7-highspeed",
+      "updatedAt": 1782568000
     }
   },
   {
