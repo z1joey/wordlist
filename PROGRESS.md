@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 967 | **← Backward**: u.json index 2148 | **Updated**: 1782642588
+> **→ Forward**: b.json index 967 | **← Backward**: u.json index 2023 | **Updated**: 1751229837
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 10,271 |
-| Remaining | 54,596 |
-| Completion | 15.8% |
+| Reviewed & validated | 10,396 |
+| Remaining | 54,471 |
+| Completion | 16.0% |
 | Forward agent | b.json (1,723 / 3,601) |
-| Backward agent | u.json (804 / 2,578) |
+| Backward agent | u.json (929 / 2,578) |
 
 ## 📋 File Progress
 
@@ -41,7 +41,7 @@
 | r.json | 2,889 | 0 | ···················· 0% | ⬜ pending |
 | s.json | 7,019 | 0 | ···················· 0% | ⬜ pending |
 | t.json | 3,227 | 0 | ···················· 0% | ⬜ pending |
-| u.json | 2,578 | 804 | ██████░░░░░░░░░░ 31% | ← in_progress |
+| u.json | 2,578 | 929 | ███████░░░░░░░░ 36% | ← in_progress |
 | v.json | 1,058 | 1,058 | ███████████████████ 100% | ✅ done |
 | w.json | 1,306 | 1,306 | ███████████████████ 100% | ✅ done |
 | x.json | 92 | 92 | ███████████████████ 100% | ✅ done |
@@ -54,7 +54,7 @@
 | Direction | Batch ID | File | Range | Status | Worker |
 |-----------|----------|------|-------|--------|--------|
 | → Forward | F-b-0045 | b.json | 967–991 | ⬜ pending | — |
-| ← Backward | B-u-0067–0071 | u.json | 2273–2149 | ✅ done | mavis-cron |
+| ← Backward | B-u-0072–0076 | u.json | 2148–2024 | ✅ done | mavis-cron |
 
 ## 📝 Last Batch
 

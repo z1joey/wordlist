@@ -44339,7 +44339,7 @@
       },
       {
         "text": "beats around the bush",
-        "translation": ""
+        "translation": "拐弯抹角"
       },
       {
         "text": "beats down",
@@ -44347,7 +44347,7 @@
       },
       {
         "text": "beats in",
-        "translation": ""
+        "translation": "打入"
       },
       {
         "text": "beats off",
@@ -44355,23 +44355,23 @@
       },
       {
         "text": "beats on",
-        "translation": ""
+        "translation": "敲打"
       },
       {
         "text": "beats out",
-        "translation": ""
+        "translation": "击败"
       },
       {
         "text": "beats to",
-        "translation": ""
+        "translation": "赶到"
       },
       {
         "text": "beats to the punch",
-        "translation": ""
+        "translation": "先发制人"
       },
       {
         "text": "beats up",
-        "translation": ""
+        "translation": "殴打"
       }
     ],
     "metadata": {
@@ -44393,7 +44393,8 @@
     "tags": [],
     "synonyms": [
       "boyfriend",
-      "gallant"
+      "suitor",
+      "dandy"
     ],
     "entries": [
       {
@@ -44402,13 +44403,13 @@
           {
             "id": "beau-noun-1",
             "definition": "a man who is the lover of a girl or young woman",
-            "translation": "",
+            "translation": "男友；情郎",
             "examples": []
           },
           {
             "id": "beau-noun-2",
             "definition": "a man who is much concerned with his dress and appearance",
-            "translation": "",
+            "translation": "花花公子；纨绔子弟",
             "examples": []
           }
         ]
@@ -44416,18 +44417,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beaugregory",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈboʊ ɡrɛɡəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbəʊ ɡrɛɡəri"
       }
     },
     "forms": {},
@@ -44440,7 +44441,7 @@
           {
             "id": "beaugregory-noun-1",
             "definition": "a blue and yellow damselfish of Bermuda and Florida and the West Indies",
-            "translation": "",
+            "translation": "蓝黄雀鲷（产于百慕大、佛罗里达和西印度群岛）",
             "examples": []
           }
         ]
@@ -44448,24 +44449,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beaut",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bjut"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bjuːt"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "beauty"
+      "beauty",
+      "winner",
+      "humdinger"
     ],
     "entries": [
       {
@@ -44474,7 +44477,7 @@
           {
             "id": "beaut-noun-1",
             "definition": "an outstanding example of its kind",
-            "translation": "",
+            "translation": "尤物；绝佳的东西",
             "examples": [
               {
                 "text": "Our roses were beauts.",
@@ -44487,23 +44490,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beauteous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbjutiəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbjuːtiəs"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "beautiful",
+      "lovely",
+      "comely"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -44511,7 +44518,7 @@
           {
             "id": "beauteous-adjective-1",
             "definition": "(poetic )beautiful, especially to the sight",
-            "translation": "",
+            "translation": "美丽的；赏心悦目的（诗意用语）",
             "examples": []
           }
         ]
@@ -44519,24 +44526,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beauteousness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbjutiəsnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbjuːtiəsnəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "comeliness"
+      "beauty",
+      "attractiveness",
+      "loveliness"
     ],
     "entries": [
       {
@@ -44545,7 +44554,7 @@
           {
             "id": "beauteousness-noun-1",
             "definition": "the quality of being good looking and attractive",
-            "translation": "",
+            "translation": "美丽；动人",
             "examples": [
               {
                 "text": "Their beauteousness was undeniable.",
@@ -44558,24 +44567,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beautician",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bjuˈtɪʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bjuːˈtɪʃən"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "cosmetician"
+      "cosmetologist"
     ],
     "entries": [
       {
@@ -44584,7 +44593,7 @@
           {
             "id": "beautician-noun-1",
             "definition": "someone who works in a beauty parlor",
-            "translation": "",
+            "translation": "美容师",
             "examples": [
               {
                 "text": "I need a new beautician to fix my hair.",
@@ -44597,8 +44606,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -44763,7 +44772,7 @@
           {
             "id": "beautify-verb-2",
             "definition": "to make more attractive by adding ornament, colour, etc.",
-            "translation": "",
+            "translation": "美化",
             "examples": [
               {
                 "text": "I beautified the lawn by adding a tasteful gnome.",
@@ -44774,7 +44783,7 @@
           {
             "id": "beautify-verb-3",
             "definition": "to be beautiful to look at",
-            "translation": "",
+            "translation": "变得美丽",
             "examples": [
               {
                 "text": "Not many would argue that my child is beautifying.",
@@ -44853,17 +44862,14 @@
         "ipa": "ˈbi:və"
       }
     },
-    "forms": {
-      "gerund": "beavering",
-      "past": "beavered",
-      "pastParticiple": "beavered"
-    },
+    "forms": {},
     "tags": [
-      "toefl"
+      "cet4",
+      "cet6",
+      "gk",
+      "zk"
     ],
-    "synonyms": [
-      "castor"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -44871,25 +44877,25 @@
           {
             "id": "beaver-noun-1",
             "definition": "large semiaquatic rodent with webbed hind feet and a broad flat tail",
-            "translation": "",
+            "translation": "海狸",
             "examples": []
           },
           {
             "id": "beaver-noun-2",
             "definition": "a hat made with the fur of a beaver (or similar material)",
-            "translation": "",
+            "translation": "海狸皮帽",
             "examples": []
           },
           {
             "id": "beaver-noun-3",
             "definition": "a movable piece of armor on a medieval helmet used to protect the lower face",
-            "translation": "",
+            "translation": "面甲",
             "examples": []
           },
           {
             "id": "beaver-noun-4",
             "definition": "a man's hat with a tall crown",
-            "translation": "",
+            "translation": "高顶礼帽",
             "examples": [
               {
                 "text": "usually covered with silk or with beaver fur",
@@ -44900,13 +44906,13 @@
           {
             "id": "beaver-noun-5",
             "definition": "a full beard",
-            "translation": "",
+            "translation": "络腮胡",
             "examples": []
           },
           {
             "id": "beaver-noun-6",
             "definition": "the soft brown fur of the beaver",
-            "translation": "",
+            "translation": "海狸毛皮",
             "examples": []
           }
         ]
@@ -44931,22 +44937,22 @@
     "phrases": [
       {
         "text": "beaver away",
-        "translation": ""
+        "translation": "埋头苦干"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bebop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːbɑːp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːbɒp"
       }
     },
     "forms": {},
@@ -44961,7 +44967,7 @@
           {
             "id": "bebop-noun-1",
             "definition": "an early form of modern jazz (originating around 1940)",
-            "translation": "",
+            "translation": "博普爵士乐",
             "examples": []
           }
         ]
@@ -44985,8 +44991,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -45036,15 +45042,19 @@
     "word": "becalmed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈkɑːmd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈkɑːmd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "stuck",
+      "motionless",
+      "windless"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -45052,7 +45062,7 @@
           {
             "id": "becalmed-adjective-1",
             "definition": "rendered motionless for lack of wind",
-            "translation": "",
+            "translation": "因无风而停止不动的",
             "examples": []
           }
         ]
@@ -45060,23 +45070,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bechamel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbeɪʃəˈmel"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbeɪʃəˈmel"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "white sauce"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45084,7 +45096,7 @@
           {
             "id": "bechamel-noun-1",
             "definition": "milk thickened with a butter and flour roux",
-            "translation": "",
+            "translation": "贝夏媚白酱",
             "examples": []
           }
         ]
@@ -45092,18 +45104,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bechance",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈtʃæns"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈtʃɑːns"
       }
     },
     "forms": {
@@ -45113,7 +45125,10 @@
     },
     "tags": [],
     "synonyms": [
-      "befall"
+      "happen",
+      "befall",
+      "occur",
+      "chance"
     ],
     "entries": [
       {
@@ -45122,7 +45137,7 @@
           {
             "id": "bechance-verb-1",
             "definition": "to happen, occur, or be the case in the course of events or by chance",
-            "translation": "",
+            "translation": "偶然发生",
             "examples": [
               {
                 "text": "I bechanced an incredible deal today.",
@@ -45133,7 +45148,7 @@
           {
             "id": "bechance-verb-2",
             "definition": "to become of",
-            "translation": "",
+            "translation": "降临于",
             "examples": [
               {
                 "text": "What bechanced our old high school clique.",
@@ -45146,18 +45161,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "becharm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈtʃɑːrm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈtʃɑːm"
       }
     },
     "forms": {},
@@ -45184,7 +45199,7 @@
           {
             "id": "becharm-verb-2",
             "definition": "to control by magic spells, as by practicing witchcraft",
-            "translation": "",
+            "translation": "用魔法迷惑",
             "examples": [
               {
                 "text": "I felt like they were becharming me.",
@@ -45212,8 +45227,15 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "cet6",
+      "ielts"
+    ],
+    "synonyms": [
+      "gesture",
+      "signal",
+      "summons"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45221,7 +45243,7 @@
           {
             "id": "beck-noun-1",
             "definition": "a beckoning gesture",
-            "translation": "",
+            "translation": "召唤的手势",
             "examples": []
           }
         ]
@@ -45229,23 +45251,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "becket",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛkɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛkɪt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "rope becket",
+      "seizing"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -45253,7 +45278,7 @@
           {
             "id": "becket-noun-1",
             "definition": "(nautical) a short line with an eye at one end and a knot at the other",
-            "translation": "",
+            "translation": "（航海）索环；绳套；系索扣",
             "examples": []
           }
         ]
@@ -45261,8 +45286,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -45293,7 +45318,7 @@
           {
             "id": "beckon-verb-1",
             "definition": "to signal with the hands or nod",
-            "translation": "",
+            "translation": "招手示意；点头示意",
             "examples": [
               {
                 "text": "I beckoned to the people sitting next to us.",
@@ -45304,7 +45329,7 @@
           {
             "id": "beckon-verb-2",
             "definition": "to summon with a wave, nod, or some other gesture",
-            "translation": "",
+            "translation": "召唤；示意",
             "examples": [
               {
                 "text": "They beckoned me once I entered the room.",
@@ -45329,11 +45354,11 @@
     "phrases": [
       {
         "text": "beckon to",
-        "translation": ""
+        "translation": "向…招手示意"
       },
       {
         "text": "beckon with",
-        "translation": ""
+        "translation": "用…示意"
       }
     ],
     "metadata": {
@@ -45345,20 +45370,24 @@
     "word": "becloud",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈklaʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈklaʊd"
       }
     },
     "forms": {
-      "pastParticiple": "beclouded",
+      "gerund": "beclouding",
       "past": "beclouded",
-      "gerund": "beclouding"
+      "pastParticiple": "beclouded"
     },
     "tags": [],
     "synonyms": [
-      "obscure"
+      "obscure",
+      "cloud",
+      "befog",
+      "dim",
+      "blur"
     ],
     "entries": [
       {
@@ -45367,7 +45396,7 @@
           {
             "id": "becloud-verb-1",
             "definition": "to make unclear or less visible",
-            "translation": "",
+            "translation": "使模糊；使朦胧；遮蔽",
             "examples": [
               {
                 "text": "The magician beclouded the wires holding up the levitating subject.",
@@ -45380,8 +45409,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -45516,7 +45545,7 @@
     "phrases": [
       {
         "text": "becoming to",
-        "translation": ""
+        "translation": "适合；相称"
       }
     ],
     "metadata": {
@@ -45528,10 +45557,10 @@
     "word": "becomingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈkʌmɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈkʌmɪŋli"
       }
     },
     "forms": {},
@@ -45544,7 +45573,7 @@
           {
             "id": "becomingly-adverb-1",
             "definition": "in a becoming manner",
-            "translation": "",
+            "translation": "合适地",
             "examples": [
               {
                 "text": "They were becomingly dressed for the occasion.",
@@ -45557,18 +45586,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "becomingness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈkʌmɪŋnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈkʌmɪŋnəs"
       }
     },
     "forms": {},
@@ -45581,7 +45610,7 @@
           {
             "id": "becomingness-noun-1",
             "definition": "the quality of being becoming",
-            "translation": "",
+            "translation": "合适性",
             "examples": []
           }
         ]
@@ -45589,8 +45618,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -45764,27 +45793,27 @@
       },
       {
         "text": "bed in",
-        "translation": ""
+        "translation": "安顿"
       },
       {
         "text": "bed out",
-        "translation": ""
+        "translation": "移栽"
       },
       {
         "text": "bed out young plants",
-        "translation": ""
+        "translation": "移栽幼苗"
       },
       {
         "text": "bed up",
-        "translation": ""
+        "translation": "上床睡觉"
       },
       {
         "text": "bed with",
-        "translation": ""
+        "translation": "与...同床"
       },
       {
         "text": "bed with drawers",
-        "translation": ""
+        "translation": "带抽屉的床"
       }
     ],
     "metadata": {
@@ -45847,9 +45876,7 @@
       "pastParticiple": "bedaubed"
     },
     "tags": [],
-    "synonyms": [
-      "besmear"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -45857,7 +45884,7 @@
           {
             "id": "bedaub-verb-1",
             "definition": "to spread or daub a surface",
-            "translation": "",
+            "translation": "涂抹",
             "examples": [
               {
                 "text": "They bedaub themselves with paint.",
@@ -45871,22 +45898,22 @@
     "phrases": [
       {
         "text": "bedaub with",
-        "translation": ""
+        "translation": "用...涂抹"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedaubed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdɔbd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdɔːbd"
       }
     },
     "forms": {},
@@ -45899,7 +45926,7 @@
           {
             "id": "bedaubed-adjective-1",
             "definition": "ornamented in a vulgar or showy fashion",
-            "translation": "",
+            "translation": "俗丽装饰的",
             "examples": []
           }
         ]
@@ -45907,25 +45934,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedaze",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdeɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdeɪz"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "bedazing",
+      "past": "bedazed",
+      "pastParticiple": "bedazed"
+    },
     "tags": [],
-    "synonyms": [
-      "daze"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -45933,7 +45962,7 @@
           {
             "id": "bedaze-verb-1",
             "definition": "to overcome as with astonishment or disbelief",
-            "translation": "",
+            "translation": "使茫然",
             "examples": [
               {
                 "text": "I was bedazed.",
@@ -45946,8 +45975,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -45961,13 +45990,14 @@
       }
     },
     "forms": {
-      "past": "bedazzled",
       "gerund": "bedazzling",
+      "past": "bedazzled",
       "pastParticiple": "bedazzled"
     },
     "tags": [],
     "synonyms": [
-      "dazzle"
+      "dazzle",
+      "blind"
     ],
     "entries": [
       {
@@ -45976,7 +46006,7 @@
           {
             "id": "bedazzle-verb-1",
             "definition": "to cause someone to lose clear vision, especially from intense light",
-            "translation": "",
+            "translation": "使眼花",
             "examples": [
               {
                 "text": "The glare coming from the water bedazzled me.",
@@ -45989,8 +46019,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46005,9 +46035,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "chinch"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -46015,7 +46043,7 @@
           {
             "id": "bedbug-noun-1",
             "definition": "bug of temperate regions that infests beds, clothes, cloth furniture, and other household items, and feeds on human blood",
-            "translation": "",
+            "translation": "臭虫",
             "examples": [
               {
                 "text": "My entire apartment is crawling with bedbugs.",
@@ -46028,24 +46056,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedchamber",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌtʃeɪmbər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌtʃeɪmbə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bedroom"
+      "bedroom",
+      "chamber"
     ],
     "entries": [
       {
@@ -46054,7 +46083,7 @@
           {
             "id": "bedchamber-noun-1",
             "definition": "a room used primarily for sleeping",
-            "translation": "",
+            "translation": "卧室",
             "examples": []
           }
         ]
@@ -46062,8 +46091,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46115,7 +46144,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "spread"
+      "bedspread",
+      "coverlet"
     ],
     "entries": [
       {
@@ -46124,7 +46154,7 @@
           {
             "id": "bedcover-noun-1",
             "definition": "decorative cover for a bed",
-            "translation": "",
+            "translation": "床罩；床盖",
             "examples": []
           }
         ]
@@ -46132,25 +46162,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdɪd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "stratified"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -46158,13 +46186,13 @@
           {
             "id": "bedded-adjective-1",
             "definition": "having a bed or beds as specified",
-            "translation": "",
+            "translation": "有……张床的；有床的",
             "examples": []
           },
           {
             "id": "bedded-adjective-2",
             "definition": "deposited or arranged in horizontal layers",
-            "translation": "",
+            "translation": "层状沉积的；分层排列的",
             "examples": []
           }
         ]
@@ -46173,30 +46201,30 @@
     "phrases": [
       {
         "text": "bedded down",
-        "translation": ""
+        "translation": "安顿下来睡觉"
       },
       {
         "text": "bedded in",
-        "translation": ""
+        "translation": "嵌入；装入"
       },
       {
         "text": "bedded out",
-        "translation": ""
+        "translation": "移栽到户外花坛"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedder",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdə"
       }
     },
     "forms": {},
@@ -46209,7 +46237,7 @@
           {
             "id": "bedder-noun-1",
             "definition": "an ornamental plant suitable for planting in a flowerbed",
-            "translation": "",
+            "translation": "适合种在花坛中的观赏植物",
             "examples": []
           }
         ]
@@ -46217,8 +46245,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46233,10 +46261,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "bedclothes",
-      "litter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -46244,13 +46269,13 @@
           {
             "id": "bedding-noun-1",
             "definition": "coverings that are used on a bed",
-            "translation": "",
+            "translation": "床上用品；寝具",
             "examples": []
           },
           {
             "id": "bedding-noun-2",
             "definition": "material used to provide a bed for animals",
-            "translation": "",
+            "translation": "铺草；垫料（动物铺垫物）",
             "examples": []
           }
         ]
@@ -46259,28 +46284,28 @@
     "phrases": [
       {
         "text": "bedding down",
-        "translation": ""
+        "translation": "安顿下来睡觉"
       },
       {
         "text": "bedding in",
-        "translation": ""
+        "translation": "磨合；嵌入"
       },
       {
         "text": "bedding in of bearings",
-        "translation": ""
+        "translation": "轴承的磨合"
       },
       {
         "text": "bedding on rubber cushions",
-        "translation": ""
+        "translation": "在橡胶垫上铺设"
       },
       {
         "text": "bedding out",
-        "translation": ""
+        "translation": "移栽到户外花坛"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46294,16 +46319,16 @@
       }
     },
     "forms": {
-      "pastParticiple": "bedecked",
       "gerund": "bedecking",
-      "past": "bedecked"
+      "past": "bedecked",
+      "pastParticiple": "bedecked"
     },
-    "tags": [
-      "gre",
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "deck"
+      "decorate",
+      "adorn",
+      "embellish",
+      "ornament"
     ],
     "entries": [
       {
@@ -46312,7 +46337,7 @@
           {
             "id": "bedeck-verb-1",
             "definition": "to decorate or embellish",
-            "translation": "",
+            "translation": "装饰；装扮",
             "examples": [
               {
                 "text": "I bedecked my room in the most gaudy things I could find.",
@@ -46326,22 +46351,22 @@
     "phrases": [
       {
         "text": "bedeck with",
-        "translation": ""
+        "translation": "用……装饰"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedesman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːdzmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːdzmən"
       }
     },
     "forms": {},
@@ -46356,7 +46381,7 @@
           {
             "id": "bedesman-noun-1",
             "definition": "a person who is paid to pray for the soul of another",
-            "translation": "",
+            "translation": "代祷人（受雇为他人灵魂祈祷的人）",
             "examples": []
           }
         ]
@@ -46364,18 +46389,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedevil",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdɛvəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdɛvəl"
       }
     },
     "forms": {
@@ -46406,7 +46431,7 @@
           {
             "id": "bedevil-verb-2",
             "definition": "to treat cruelly",
-            "translation": "",
+            "translation": "折磨；虐待",
             "examples": [
               {
                 "text": "They bedevil everyone around them.",
@@ -46427,17 +46452,15 @@
     "word": "bedevilment",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdɛvəlmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdɛvəlmənt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "badgering"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -46445,7 +46468,7 @@
           {
             "id": "bedevilment-noun-1",
             "definition": "the act of harassing someone",
-            "translation": "",
+            "translation": "困扰；折磨",
             "examples": []
           }
         ]
@@ -46453,18 +46476,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedew",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈduː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdjuː"
       }
     },
     "forms": {
@@ -46473,7 +46496,10 @@
       "pastParticiple": "bedewed"
     },
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "moisten",
+      "wet"
+    ],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -46481,7 +46507,7 @@
           {
             "id": "bedew-verb-1",
             "definition": "to cover with drops of dew or as with dew",
-            "translation": "",
+            "translation": "沾湿；沾上露珠",
             "examples": [
               {
                 "text": "The lawn bedews on summer mornings.",
@@ -46495,28 +46521,30 @@
     "phrases": [
       {
         "text": "bedew with",
-        "translation": ""
+        "translation": "被……沾湿；沾上……"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedewed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈduːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdjuːd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "dewy"
+      "dew-covered",
+      "moist",
+      "damp"
     ],
     "entries": [
       {
@@ -46525,7 +46553,7 @@
           {
             "id": "bedewed-adjective-1",
             "definition": "wet with dew",
-            "translation": "",
+            "translation": "被露水沾湿的",
             "examples": []
           }
         ]
@@ -46534,29 +46562,30 @@
     "phrases": [
       {
         "text": "bedewed with",
-        "translation": ""
+        "translation": "被……沾上露水"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedfast",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌfæst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdfɑːst"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bedrid",
-      "bedridden"
+      "bedridden",
+      "confined to bed",
+      "laid up"
     ],
     "entries": [
       {
@@ -46565,7 +46594,7 @@
           {
             "id": "bedfast-adjective-1",
             "definition": "confined to bed (by illness)",
-            "translation": "",
+            "translation": "因病卧床不起的",
             "examples": []
           }
         ]
@@ -46573,18 +46602,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedfellow",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌfɛloʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdfɛləʊ"
       }
     },
     "forms": {},
@@ -46597,7 +46626,7 @@
           {
             "id": "bedfellow-noun-1",
             "definition": "a person with whom you share a bed",
-            "translation": "",
+            "translation": "同床者",
             "examples": []
           },
           {
@@ -46624,10 +46653,10 @@
     "word": "bedframe",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌfreɪm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdfreɪm"
       }
     },
     "forms": {},
@@ -46658,15 +46687,18 @@
     "word": "bedground",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌɡraʊnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdɡraʊnd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bedding ground",
+      "camping ground"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -46674,7 +46706,7 @@
           {
             "id": "bedground-noun-1",
             "definition": "an area on which a drove of cattle or sheep can sleep for a night",
-            "translation": "",
+            "translation": "可供牛羊群过夜的圈栏地",
             "examples": []
           }
         ]
@@ -46682,23 +46714,30 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedhop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌhɑp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌhɒp"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "bedhopping",
+      "past": "bedhopped",
+      "pastParticiple": "bedhopped"
+    },
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "sleep around",
+      "fool around"
+    ],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -46706,7 +46745,7 @@
           {
             "id": "bedhop-verb-1",
             "definition": "to be sexually active with more than one partner",
-            "translation": "",
+            "translation": "与人私通；乱搞男女关系",
             "examples": [
               {
                 "text": "I've been bedhopping for the last year or so and I'm scared my partner will find out.",
@@ -46719,28 +46758,30 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedight",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdaɪt"
       }
     },
     "forms": {
       "gerund": "bedighting",
-      "past": "bedighted",
-      "pastParticiple": "bedighted"
+      "past": "bedight",
+      "pastParticiple": "bedight"
     },
     "tags": [],
     "synonyms": [
-      "deck"
+      "adorn",
+      "bedeck",
+      "equip"
     ],
     "entries": [
       {
@@ -46749,7 +46790,7 @@
           {
             "id": "bedight-verb-1",
             "definition": "to equip or bedeck ",
-            "translation": "",
+            "translation": "装备；装饰；打扮",
             "examples": [
               {
                 "text": "The knight was bedighted with the latest from the armory.",
@@ -46762,18 +46803,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedim",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdɪm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdɪm"
       }
     },
     "forms": {
@@ -46783,8 +46824,9 @@
     },
     "tags": [],
     "synonyms": [
-      "benight",
-      "obscure"
+      "obscure",
+      "dim",
+      "darken"
     ],
     "entries": [
       {
@@ -46793,7 +46835,7 @@
           {
             "id": "bedim-verb-1",
             "definition": "to make obscure or unclear",
-            "translation": "",
+            "translation": "使模糊；使不清楚",
             "examples": [
               {
                 "text": "Your clarification only bedims the situation.",
@@ -46804,7 +46846,7 @@
           {
             "id": "bedim-verb-2",
             "definition": "to make darker and difficult to perceive by sight",
-            "translation": "",
+            "translation": "使变暗；使难以看清",
             "examples": [
               {
                 "text": "The thick cigar smoke bedims the room.",
@@ -46818,27 +46860,31 @@
     "phrases": [
       {
         "text": "bedim with",
-        "translation": ""
+        "translation": "因……而变得模糊"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedimmed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdɪmd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdɪmd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "dimmed",
+      "obscured",
+      "faded"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -46846,7 +46892,7 @@
           {
             "id": "bedimmed-adjective-1",
             "definition": "made dim or indistinct",
-            "translation": "",
+            "translation": "变得暗淡的；变得模糊不清的",
             "examples": [
               {
                 "text": "a sun bedimmed by clouds",
@@ -46860,12 +46906,12 @@
     "phrases": [
       {
         "text": "bedimmed with",
-        "translation": ""
+        "translation": "因……而变得暗淡（或模糊）的"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46879,15 +46925,15 @@
       }
     },
     "forms": {
+      "gerund": "bedizening",
       "past": "bedizened",
-      "pastParticiple": "bedizened",
-      "gerund": "bedizening"
+      "pastParticiple": "bedizened"
     },
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "dizen"
+      "dress up",
+      "bedeck",
+      "decorate gaudily"
     ],
     "entries": [
       {
@@ -46896,7 +46942,7 @@
           {
             "id": "bedizen-verb-1",
             "definition": "to dress up garishly and tastelessly",
-            "translation": "",
+            "translation": "俗丽地打扮；穿得花里胡哨",
             "examples": [
               {
                 "text": "Don't bedizen yourself at the gala this year.",
@@ -46907,7 +46953,7 @@
           {
             "id": "bedizen-verb-2",
             "definition": "to decorate tastelessly",
-            "translation": "",
+            "translation": "俗气地装饰",
             "examples": [
               {
                 "text": "That decorator bedizens everything.",
@@ -46920,8 +46966,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -46972,10 +47018,14 @@
     },
     "forms": {},
     "tags": [
-      "gre"
+      "cet6",
+      "ielts"
     ],
     "synonyms": [
-      "chaos"
+      "chaos",
+      "uproar",
+      "mayhem",
+      "pandemonium"
     ],
     "entries": [
       {
@@ -46984,7 +47034,7 @@
           {
             "id": "bedlam-noun-1",
             "definition": "a state of extreme confusion and disorder",
-            "translation": "",
+            "translation": "极度混乱的状态；骚乱",
             "examples": []
           }
         ]
@@ -46992,23 +47042,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedlamite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdləˌmaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdləˌmaɪt"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "lunatic",
+      "madman",
+      "maniac"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47016,7 +47070,7 @@
           {
             "id": "bedlamite-noun-1",
             "definition": "an archaic term for a lunatic",
-            "translation": "",
+            "translation": "疯子；精神病人（古旧用语）",
             "examples": []
           }
         ]
@@ -47024,18 +47078,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedless",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdləs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdləs"
       }
     },
     "forms": {},
@@ -47076,8 +47130,14 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "cet6",
+      "ielts"
+    ],
+    "synonyms": [
+      "urinal",
+      "chamber pot"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47085,7 +47145,7 @@
           {
             "id": "bedpan-noun-1",
             "definition": "a shallow vessel used by a bedridden patient for defecation and urination",
-            "translation": "",
+            "translation": "便盆（卧床病人使用的）",
             "examples": []
           }
         ]
@@ -47093,23 +47153,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedpost",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌpoʊst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdpəʊst"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bedstraw"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47117,7 +47179,7 @@
           {
             "id": "bedpost-noun-1",
             "definition": "any of 4 vertical supports at the corners of a bedstead",
-            "translation": "",
+            "translation": "床柱",
             "examples": []
           }
         ]
@@ -47125,8 +47187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47146,7 +47208,8 @@
     },
     "tags": [],
     "synonyms": [
-      "draggle"
+      "drench",
+      "soil"
     ],
     "entries": [
       {
@@ -47155,7 +47218,7 @@
           {
             "id": "bedraggle-verb-1",
             "definition": "to make wet and dirty, as from rain",
-            "translation": "",
+            "translation": "使湿脏",
             "examples": [
               {
                 "text": "The torrential showers bedraggled our clothes.",
@@ -47168,8 +47231,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47183,15 +47246,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "derelict",
-      "dilapidated",
-      "draggled",
-      "ramshackle",
-      "tatterdemalion"
+      "soaked",
+      "disheveled",
+      "untidy"
     ],
     "entries": [
       {
@@ -47200,7 +47259,7 @@
           {
             "id": "bedraggled-adjective-1",
             "definition": "limp and soiled as if dragged in the mud",
-            "translation": "",
+            "translation": "湿漉漉的",
             "examples": [
               {
                 "text": "the beggar's bedraggled clothes",
@@ -47211,7 +47270,7 @@
           {
             "id": "bedraggled-adjective-2",
             "definition": "in deplorable condition",
-            "translation": "",
+            "translation": "狼狈不堪的",
             "examples": [
               {
                 "text": "a street of bedraggled tenements",
@@ -47224,23 +47283,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedrest",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌrɛst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdrɛst"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "confinement to bed"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47248,7 +47309,7 @@
           {
             "id": "bedrest-noun-1",
             "definition": "confinement to bed continuously (as in the case of some sick or injured persons)",
-            "translation": "",
+            "translation": "卧床休息",
             "examples": []
           }
         ]
@@ -47256,24 +47317,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedrid",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌrɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdrɪd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bedfast"
+      "bedridden",
+      "confined"
     ],
     "entries": [
       {
@@ -47282,7 +47344,7 @@
           {
             "id": "bedrid-adjective-1",
             "definition": "confined to bed (by illness)",
-            "translation": "",
+            "translation": "卧病在床的",
             "examples": []
           }
         ]
@@ -47290,8 +47352,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47307,7 +47369,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bedfast"
+      "bedrid",
+      "confined"
     ],
     "entries": [
       {
@@ -47316,7 +47379,7 @@
           {
             "id": "bedridden-adjective-1",
             "definition": "confined to bed (by illness)",
-            "translation": "",
+            "translation": "卧病在床的",
             "examples": []
           }
         ]
@@ -47324,8 +47387,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47339,11 +47402,10 @@
       }
     },
     "forms": {},
-    "tags": [
-      "toefl"
-    ],
+    "tags": [],
     "synonyms": [
-      "fundamentals"
+      "foundation",
+      "basics"
     ],
     "entries": [
       {
@@ -47352,13 +47414,13 @@
           {
             "id": "bedrock-noun-1",
             "definition": "principles from which other truths can be derived",
-            "translation": "",
+            "translation": "基本原理",
             "examples": []
           },
           {
             "id": "bedrock-noun-2",
             "definition": "solid unweathered rock lying beneath surface deposits of soil",
-            "translation": "",
+            "translation": "基岩",
             "examples": []
           }
         ]
@@ -47366,8 +47428,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47382,7 +47444,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "sleeping bag",
+      "bedding"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47390,7 +47455,7 @@
           {
             "id": "bedroll-noun-1",
             "definition": "bedding rolled up for carrying",
-            "translation": "",
+            "translation": "铺盖卷",
             "examples": []
           }
         ]
@@ -47398,8 +47463,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47453,7 +47518,9 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bedside manner"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47461,7 +47528,7 @@
           {
             "id": "bedside-noun-1",
             "definition": "space by the side of a bed, especially the bed of a sick or dying person",
-            "translation": "",
+            "translation": "床边",
             "examples": [
               {
                 "text": "The doctor stood at their bedside.",
@@ -47474,8 +47541,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47489,10 +47556,12 @@
       }
     },
     "forms": {},
-    "tags": [
-      "ielts"
+    "tags": [],
+    "synonyms": [
+      "bedsitter",
+      "studio flat",
+      "studio"
     ],
-    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47500,7 +47569,7 @@
           {
             "id": "bedsit-noun-1",
             "definition": "a furnished sitting room with sleeping accommodations (and some plumbing)",
-            "translation": "",
+            "translation": "卧室兼起居室（英式单间住所）",
             "examples": []
           }
         ]
@@ -47508,23 +47577,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedsitter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛdˈsɪtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛdˈsɪtə(r)"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "bedsit",
+      "studio flat",
+      "studio"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47532,7 +47605,7 @@
           {
             "id": "bedsitter-noun-1",
             "definition": "a furnished sitting room with sleeping accommodations (and some plumbing)",
-            "translation": "",
+            "translation": "卧室兼起居室（英式单间住所）",
             "examples": []
           }
         ]
@@ -47540,23 +47613,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedsore",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌsɔr"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdsɔː(r)"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "pressure sore",
+      "decubitus ulcer"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47564,7 +47640,7 @@
           {
             "id": "bedsore-noun-1",
             "definition": "a chronic ulcer of the skin caused by prolonged pressure on it (as in bedridden patients)",
-            "translation": "",
+            "translation": "褥疮",
             "examples": []
           }
         ]
@@ -47572,8 +47648,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47589,7 +47665,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "spread"
+      "coverlet",
+      "bedcover",
+      "counterpane"
     ],
     "entries": [
       {
@@ -47598,7 +47676,7 @@
           {
             "id": "bedspread-noun-1",
             "definition": "decorative cover for a bed",
-            "translation": "",
+            "translation": "床罩",
             "examples": []
           }
         ]
@@ -47606,23 +47684,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedspring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌsprɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdsprɪŋ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "spring"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47630,7 +47710,7 @@
           {
             "id": "bedspring-noun-1",
             "definition": "(usually plural) one of the springs holding up the mattress of a bed",
-            "translation": "",
+            "translation": "床弹簧（通常用复数）",
             "examples": []
           }
         ]
@@ -47638,8 +47718,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47680,10 +47760,10 @@
     "word": "bedstraw",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌstrɔ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdstrɔː"
       }
     },
     "forms": {},
@@ -47696,7 +47776,7 @@
           {
             "id": "bedstraw-noun-1",
             "definition": "any of several plants of the genus Galium",
-            "translation": "",
+            "translation": "拉拉藤属植物",
             "examples": []
           }
         ]
@@ -47704,8 +47784,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47728,7 +47808,7 @@
           {
             "id": "bedtime-noun-1",
             "definition": "the time you go to bed",
-            "translation": "",
+            "translation": "就寝时间",
             "examples": []
           }
         ]
@@ -47736,25 +47816,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "bedwetter",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌwɛtər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛdˌwɛtə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "wetter"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47762,7 +47840,7 @@
           {
             "id": "bedwetter-noun-1",
             "definition": "someone suffering from enuresis",
-            "translation": "",
+            "translation": "遗尿症患者",
             "examples": []
           }
         ]
@@ -47770,8 +47848,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47821,10 +47899,10 @@
     "word": "beebalm",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiˌbɑm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːbɑːm"
       }
     },
     "forms": {},
@@ -47837,19 +47915,19 @@
           {
             "id": "beebalm-noun-1",
             "definition": "bushy perennial Old World mint having small white or yellowish flowers and fragrant lemon-flavored leaves",
-            "translation": "",
+            "translation": "蜜蜂花",
             "examples": []
           },
           {
             "id": "beebalm-noun-2",
             "definition": "perennial aromatic herb of eastern North America having variously colored tubular flowers in dense showy heads",
-            "translation": "",
+            "translation": "美国薄荷",
             "examples": []
           },
           {
             "id": "beebalm-noun-3",
             "definition": "perennial herb of North America",
-            "translation": "",
+            "translation": "蜂香薄荷",
             "examples": []
           }
         ]
@@ -47857,25 +47935,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beebread",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiˌbrɛd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːbrɛd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "ambrosia"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47883,7 +47959,7 @@
           {
             "id": "beebread-noun-1",
             "definition": "a mixture of nectar and pollen prepared by worker bees and fed to larvae",
-            "translation": "",
+            "translation": "蜂粮",
             "examples": []
           }
         ]
@@ -47891,8 +47967,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -47907,9 +47983,7 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "beechwood"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -47917,13 +47991,13 @@
           {
             "id": "beech-noun-1",
             "definition": "any of several large deciduous trees with rounded spreading crowns and smooth grey bark and small sweet edible triangular nuts enclosed in burs",
-            "translation": "",
+            "translation": "山毛榉",
             "examples": []
           },
           {
             "id": "beech-noun-2",
             "definition": "wood of any of various beech trees",
-            "translation": "",
+            "translation": "山毛榉木材",
             "examples": []
           }
         ]
@@ -47931,18 +48005,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beechen",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbitʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːtʃən"
       }
     },
     "forms": {},
@@ -47955,7 +48029,7 @@
           {
             "id": "beechen-adjective-1",
             "definition": "consisting of or made of wood of the beech tree",
-            "translation": "",
+            "translation": "山毛榉木制的",
             "examples": []
           }
         ]
@@ -47963,18 +48037,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beechnut",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbitʃˌnʌt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːtʃnʌt"
       }
     },
     "forms": {},
@@ -47987,7 +48061,7 @@
           {
             "id": "beechnut-noun-1",
             "definition": "small sweet triangular nut of any of various beech trees",
-            "translation": "",
+            "translation": "山毛榉坚果",
             "examples": []
           }
         ]
@@ -47995,25 +48069,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beechwood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːtʃ.wʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːtʃ.wʊd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "beech"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48021,7 +48093,7 @@
           {
             "id": "beechwood-noun-1",
             "definition": "wood of any of various beech trees",
-            "translation": "",
+            "translation": "山毛榉木",
             "examples": []
           }
         ]
@@ -48029,8 +48101,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48105,11 +48177,11 @@
       },
       {
         "text": "beef on the bone",
-        "translation": ""
+        "translation": "带骨牛肉"
       },
       {
         "text": "beef on the hoof",
-        "translation": ""
+        "translation": "活牛"
       },
       {
         "text": "beef round casing",
@@ -48117,23 +48189,23 @@
       },
       {
         "text": "beef to the heel",
-        "translation": ""
+        "translation": "敦实的人"
       },
       {
         "text": "beef to the heel s",
-        "translation": ""
+        "translation": "敦实的人"
       },
       {
         "text": "beef to the heels",
-        "translation": ""
+        "translation": "敦实的人"
       },
       {
         "text": "beef up",
-        "translation": ""
+        "translation": "加强；补充"
       },
       {
         "text": "beef with broccoli",
-        "translation": ""
+        "translation": "西兰花牛肉"
       }
     ],
     "metadata": {
@@ -48145,17 +48217,15 @@
     "word": "beefalo",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiː.fə.loʊ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiː.fə.ləʊ"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "cattalo"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48163,7 +48233,7 @@
           {
             "id": "beefalo-noun-1",
             "definition": "hardy breed of cattle resulting from crossing domestic cattle with the American buffalo",
-            "translation": "",
+            "translation": "皮弗洛牛",
             "examples": []
           }
         ]
@@ -48171,18 +48241,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beefburger",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːf.bɜːr.ɡɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːf.bɜː.ɡə"
       }
     },
     "forms": {},
@@ -48197,7 +48267,7 @@
           {
             "id": "beefburger-noun-1",
             "definition": "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
-            "translation": "",
+            "translation": "牛肉汉堡",
             "examples": [
               {
                 "text": "I ordered the beefburger.",
@@ -48210,18 +48280,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beefcake",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːf.keɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːf.keɪk"
       }
     },
     "forms": {},
@@ -48234,7 +48304,7 @@
           {
             "id": "beefcake-noun-1",
             "definition": "a photograph of a muscular man in minimal attire",
-            "translation": "",
+            "translation": "健美男子照片",
             "examples": []
           }
         ]
@@ -48242,25 +48312,23 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beefeater",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːf.iː.tɚ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːf.iː.tə"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "yeoman"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48268,7 +48336,7 @@
           {
             "id": "beefeater-noun-1",
             "definition": "officer in the (ceremonial) bodyguard of the British monarch",
-            "translation": "",
+            "translation": "英国皇家禁卫军士兵",
             "examples": []
           }
         ]
@@ -48276,8 +48344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48292,7 +48360,9 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "steak"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48300,7 +48370,7 @@
           {
             "id": "beefsteak-noun-1",
             "definition": "a beef steak usually cooked by broiling",
-            "translation": "",
+            "translation": "牛排",
             "examples": []
           }
         ]
@@ -48308,18 +48378,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beefwood",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːf.wʊd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːf.wʊd"
       }
     },
     "forms": {},
@@ -48346,19 +48416,19 @@
           {
             "id": "beefwood-noun-3",
             "definition": "any of several Australian trees of the genus Casuarina yielding heavy hard red wood used in cabinetwork",
-            "translation": "",
+            "translation": "木麻黄属树木",
             "examples": []
           },
           {
             "id": "beefwood-noun-4",
             "definition": "any of several heavy hard reddish chiefly tropical woods of the families Casuarinaceae and Proteaceae",
-            "translation": "",
+            "translation": "木麻黄科及山龙眼科的硬红木材",
             "examples": []
           },
           {
             "id": "beefwood-noun-5",
             "definition": "a tropical hardwood tree yielding balata gum and heavy red timber",
-            "translation": "",
+            "translation": "产巴拉塔胶的热带硬木树",
             "examples": []
           }
         ]
@@ -48383,7 +48453,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "husky"
+      "muscular",
+      "burly",
+      "hefty"
     ],
     "entries": [
       {
@@ -48392,7 +48464,7 @@
           {
             "id": "beefy-adjective-1",
             "definition": "muscular and heavily built",
-            "translation": "",
+            "translation": "肌肉发达的；粗壮的",
             "examples": [
               {
                 "text": "I am a beefy wrestler.",
@@ -48405,8 +48477,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48460,7 +48532,7 @@
     "phrases": [
       {
         "text": "beehive round",
-        "translation": ""
+        "translation": "蜂窝式建筑"
       }
     ],
     "metadata": {
@@ -48481,8 +48553,7 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "apiarist",
-      "apiculturist"
+      "apiarist"
     ],
     "entries": [
       {
@@ -48491,7 +48562,7 @@
           {
             "id": "beekeeper-noun-1",
             "definition": "a farmer who keeps bees for their honey",
-            "translation": "",
+            "translation": "养蜂人",
             "examples": [
               {
                 "text": "Studies show that we need more bees and more beekeepers.",
@@ -48504,18 +48575,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beekeeping",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːˌkiːpɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːˌkiːpɪŋ"
       }
     },
     "forms": {},
@@ -48530,7 +48601,7 @@
           {
             "id": "beekeeping-noun-1",
             "definition": "the cultivation of bees on a commercial scale for the production of honey",
-            "translation": "",
+            "translation": "养蜂业",
             "examples": []
           }
         ]
@@ -48538,8 +48609,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48554,7 +48625,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "shortcut",
+      "direct route"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -48562,7 +48636,7 @@
           {
             "id": "beeline-noun-1",
             "definition": "the most direct route",
-            "translation": "",
+            "translation": "捷径",
             "examples": [
               {
                 "text": "They made a beeline for the bathroom.",
@@ -48575,8 +48649,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48589,14 +48663,11 @@
         "ipa": "bi:p"
       }
     },
-    "forms": {
-      "gerund": "beeping",
-      "past": "beeped",
-      "pastParticiple": "beeped"
-    },
+    "forms": {},
     "tags": [],
     "synonyms": [
-      "bleep"
+      "tone",
+      "signal"
     ],
     "entries": [
       {
@@ -48605,7 +48676,7 @@
           {
             "id": "beep-noun-1",
             "definition": "a short high tone produced as a signal or warning",
-            "translation": "",
+            "translation": "哔哔声",
             "examples": []
           }
         ]
@@ -48629,8 +48700,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48655,7 +48726,7 @@
           {
             "id": "beeper-noun-1",
             "definition": "an electronic device that generates a series of beeps when the person carrying it is being paged",
-            "translation": "",
+            "translation": "寻呼机",
             "examples": []
           }
         ]
@@ -48663,8 +48734,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48698,15 +48769,15 @@
     "phrases": [
       {
         "text": "beer on draft",
-        "translation": ""
+        "translation": "扎啤"
       },
       {
         "text": "beer on tap",
-        "translation": ""
+        "translation": "扎啤"
       },
       {
         "text": "beer up",
-        "translation": ""
+        "translation": "豪饮啤酒"
       }
     ],
     "metadata": {
@@ -48718,10 +48789,10 @@
     "word": "beery",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɪə.ri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɪə.ri"
       }
     },
     "forms": {},
@@ -48734,7 +48805,7 @@
           {
             "id": "beery-adjective-1",
             "definition": "smelling of beer",
-            "translation": "",
+            "translation": "有啤酒味的",
             "examples": [
               {
                 "text": "Have you been drinking? This room smells quite beery. ",
@@ -48747,8 +48818,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48761,11 +48832,7 @@
         "ipa": "ˈbi:zwæks"
       }
     },
-    "forms": {
-      "gerund": "beeswaxing",
-      "past": "beeswaxed",
-      "pastParticiple": "beeswaxed"
-    },
+    "forms": {},
     "tags": [],
     "synonyms": [],
     "entries": [
@@ -48775,7 +48842,7 @@
           {
             "id": "beeswax-noun-1",
             "definition": "a yellow to brown wax secreted by honeybees to build honeycombs",
-            "translation": "",
+            "translation": "蜂蜡",
             "examples": []
           }
         ]
@@ -48799,8 +48866,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -48833,7 +48900,7 @@
           {
             "id": "beet-noun-2",
             "definition": "biennial Eurasian plant usually having a swollen edible root",
-            "translation": "",
+            "translation": "甜菜；甜菜根",
             "examples": []
           }
         ]
@@ -48849,10 +48916,10 @@
     "word": "beethovenian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbeɪ.toʊˈviː.ni.ən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbeɪ.təʊˈviː.ni.ən"
       }
     },
     "forms": {},
@@ -48887,18 +48954,11 @@
         "ipa": "ˈbi:tl"
       }
     },
-    "forms": {
-      "gerund": "beetling",
-      "past": "beetled",
-      "pastParticiple": "beetled"
-    },
-    "tags": [
-      "cet6"
-    ],
+    "forms": {},
+    "tags": [],
     "synonyms": [
-      "beetling",
-      "mallet",
-      "overhang"
+      "jutting",
+      "overhanging"
     ],
     "entries": [
       {
@@ -48907,7 +48967,7 @@
           {
             "id": "beetle-adjective-1",
             "definition": "jutting or overhanging",
-            "translation": "",
+            "translation": "突出的；悬伸的",
             "examples": [
               {
                 "text": "beetle brows",
@@ -48976,29 +49036,27 @@
     "phrases": [
       {
         "text": "beetle off",
-        "translation": ""
+        "translation": "匆匆离开；急忙走开"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beetleweed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiː.təl.wiːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiː.təl.wiːd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "galaxy"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -49006,7 +49064,7 @@
           {
             "id": "beetleweed-noun-1",
             "definition": "tufted evergreen perennial herb having spikes of tiny white flowers and glossy green round to heart-shaped leaves that become coppery to maroon or purplish in fall",
-            "translation": "",
+            "translation": "平铺白珠树",
             "examples": []
           }
         ]
@@ -49014,24 +49072,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beetling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiː.tə.lɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiː.tə.lɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "beetle"
+      "jutting",
+      "overhanging"
     ],
     "entries": [
       {
@@ -49040,7 +49099,7 @@
           {
             "id": "beetling-adjective-1",
             "definition": "jutting or overhanging",
-            "translation": "",
+            "translation": "突出的；悬垂的",
             "examples": []
           }
         ]
@@ -49049,22 +49108,22 @@
     "phrases": [
       {
         "text": "beetling off",
-        "translation": ""
+        "translation": "匆匆离去"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "beetroot",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːt.ruːt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːt.ruːt"
       }
     },
     "forms": {},
@@ -49085,7 +49144,7 @@
           {
             "id": "beetroot-noun-2",
             "definition": "beet having a massively swollen red root",
-            "translation": "",
+            "translation": "甜菜根",
             "examples": []
           }
         ]
@@ -49108,15 +49167,17 @@
       }
     },
     "forms": {
+      "gerund": "befalling",
       "past": "befell",
-      "pastParticiple": "befallen",
-      "gerund": "befalling"
+      "pastParticiple": "befallen"
     },
-    "tags": [],
+    "tags": [
+      "cet6",
+      "gre"
+    ],
     "synonyms": [
-      "bechance",
-      "betide",
-      "happen"
+      "happen",
+      "occur"
     ],
     "entries": [
       {
@@ -49125,7 +49186,7 @@
           {
             "id": "befall-verb-1",
             "definition": "to happen, occur, or be the case in the course of events",
-            "translation": "",
+            "translation": "发生；降临",
             "examples": [
               {
                 "text": "The event that befell was unexpected.",
@@ -49136,7 +49197,7 @@
           {
             "id": "befall-verb-2",
             "definition": "to become of",
-            "translation": "",
+            "translation": "降临于；落到",
             "examples": [
               {
                 "text": "What befell them?",
@@ -49149,8 +49210,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49164,14 +49225,15 @@
       }
     },
     "forms": {
-      "past": "befitted",
       "gerund": "befitting",
+      "past": "befitted",
       "pastParticiple": "befitted"
     },
     "tags": [],
     "synonyms": [
-      "beseem",
-      "suit"
+      "suit",
+      "match",
+      "be appropriate to"
     ],
     "entries": [
       {
@@ -49180,7 +49242,7 @@
           {
             "id": "befit-verb-1",
             "definition": "to accord or comport with",
-            "translation": "",
+            "translation": "适合；与…相称",
             "examples": [
               {
                 "text": "That really befits you.",
@@ -49193,8 +49255,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49209,7 +49271,12 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "appropriate",
+      "suitable",
+      "apt",
+      "fitting"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -49217,7 +49284,7 @@
           {
             "id": "befitting-adjective-1",
             "definition": "appropriate to",
-            "translation": "",
+            "translation": "适宜的；适当的",
             "examples": [
               {
                 "text": "behavior befitting a father",
@@ -49230,24 +49297,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befittingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfɪtɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfɪtɪŋli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "appropriately"
+      "appropriately",
+      "suitably",
+      "aptly"
     ],
     "entries": [
       {
@@ -49256,7 +49325,7 @@
           {
             "id": "befittingly-adverb-1",
             "definition": "in an appropriate manner",
-            "translation": "",
+            "translation": "适当地；相称地",
             "examples": []
           }
         ]
@@ -49264,8 +49333,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49279,13 +49348,16 @@
       }
     },
     "forms": {
-      "pastParticiple": "befogged",
+      "gerund": "befogging",
       "past": "befogged",
-      "gerund": "befogging"
+      "pastParticiple": "befogged"
     },
     "tags": [],
     "synonyms": [
-      "obscure"
+      "obscure",
+      "blur",
+      "cloud",
+      "dim"
     ],
     "entries": [
       {
@@ -49294,7 +49366,7 @@
           {
             "id": "befog-verb-1",
             "definition": "to make less visible or unclear",
-            "translation": "",
+            "translation": "使模糊；使朦胧",
             "examples": [
               {
                 "text": "The rain befogged my drive home.",
@@ -49307,24 +49379,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befogged",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfɔɡd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfɒɡd"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "befuddled"
+      "intoxicated",
+      "stupefied",
+      "muddled"
     ],
     "entries": [
       {
@@ -49333,7 +49407,7 @@
           {
             "id": "befogged-adjective-1",
             "definition": "stupefied by alcoholic drink",
-            "translation": "",
+            "translation": "酒醉的；迷糊的",
             "examples": []
           }
         ]
@@ -49341,18 +49415,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befool",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfuːl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfuːl"
       }
     },
     "forms": {
@@ -49362,7 +49436,10 @@
     },
     "tags": [],
     "synonyms": [
-      "gull"
+      "deceive",
+      "trick",
+      "hoax",
+      "dupe"
     ],
     "entries": [
       {
@@ -49371,7 +49448,7 @@
           {
             "id": "befool-verb-1",
             "definition": "to fool or hoax",
-            "translation": "",
+            "translation": "愚弄；欺骗",
             "examples": [
               {
                 "text": "We befool the gullible.",
@@ -49382,7 +49459,7 @@
           {
             "id": "befool-verb-2",
             "definition": "to make a fool or dupe of",
-            "translation": "",
+            "translation": "使沦为笑柄；戏弄",
             "examples": [
               {
                 "text": "They befooled us.",
@@ -49395,24 +49472,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befooling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfuːlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfuːlɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "stultification"
+      "mockery",
+      "ridicule",
+      "derision"
     ],
     "entries": [
       {
@@ -49421,7 +49500,7 @@
           {
             "id": "befooling-noun-1",
             "definition": "derision of someone or something as foolish or absurd or inconsistent",
-            "translation": "",
+            "translation": "嘲弄；愚弄（行为）",
             "examples": []
           }
         ]
@@ -49429,8 +49508,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49526,11 +49605,11 @@
     "phrases": [
       {
         "text": "beforehand with",
-        "translation": ""
+        "translation": "抢先做…；对…先下手"
       },
       {
         "text": "beforehand with the world",
-        "translation": ""
+        "translation": "先发制人；占尽先机"
       }
     ],
     "metadata": {
@@ -49549,13 +49628,17 @@
       }
     },
     "forms": {
-      "past": "befouled",
       "gerund": "befouling",
+      "past": "befouled",
       "pastParticiple": "befouled"
     },
     "tags": [],
     "synonyms": [
-      "foul"
+      "dirty",
+      "stain",
+      "soil",
+      "pollute",
+      "sully"
     ],
     "entries": [
       {
@@ -49564,7 +49647,7 @@
           {
             "id": "befoul-verb-1",
             "definition": "to spot, stain, or pollute",
-            "translation": "",
+            "translation": "弄脏；玷污；污染",
             "examples": [
               {
                 "text": "The puppy befouled the new bed.",
@@ -49577,23 +49660,27 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befouled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfaʊld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfaʊld"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "soiled",
+      "filthy",
+      "polluted"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -49601,7 +49688,7 @@
           {
             "id": "befouled-adjective-1",
             "definition": "made dirty or foul",
-            "translation": "",
+            "translation": "被弄脏的",
             "examples": [
               {
                 "text": "a building befouled with soot",
@@ -49614,18 +49701,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
     "word": "befoulment",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfaʊlmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfaʊlmənt"
       }
     },
     "forms": {},
@@ -49663,12 +49750,17 @@
       }
     },
     "forms": {
+      "gerund": "befriending",
       "past": "befriended",
-      "pastParticiple": "befriended",
-      "gerund": "befriending"
+      "pastParticiple": "befriended"
     },
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "cet6"
+    ],
+    "synonyms": [
+      "make friends with",
+      "pal up with"
+    ],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -49676,7 +49768,7 @@
           {
             "id": "befriend-verb-1",
             "definition": "to become friends with",
-            "translation": "",
+            "translation": "结交；与…交朋友",
             "examples": [
               {
                 "text": "I befriended a stranger I met on a train.",
@@ -49689,8 +49781,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49734,7 +49826,7 @@
           {
             "id": "befuddle-verb-2",
             "definition": "to make stupid with alcohol",
-            "translation": "",
+            "translation": "使醉酒；使昏沉",
             "examples": [
               {
                 "text": "Sometimes after a long day of work, I love to befuddle myself with a nice martini or six.",
@@ -49755,18 +49847,18 @@
     "word": "befuddled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈfʌdld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈfʌdld"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "befogged",
       "confused",
-      "woolly"
+      "muddled",
+      "perplexed"
     ],
     "entries": [
       {
@@ -49775,13 +49867,13 @@
           {
             "id": "befuddled-adjective-1",
             "definition": "confused and vague",
-            "translation": "",
+            "translation": "困惑的；迷糊的",
             "examples": []
           },
           {
             "id": "befuddled-adjective-2",
             "definition": "stupefied by alcoholic drink",
-            "translation": "",
+            "translation": "醉酒的；醉醺醺的",
             "examples": [
               {
                 "text": "the wino's poor befuddled mind",
@@ -49792,7 +49884,7 @@
           {
             "id": "befuddled-adjective-3",
             "definition": "perplexed by many conflicting situations or statements",
-            "translation": "",
+            "translation": "茫然不知所措的；被搞糊涂的",
             "examples": []
           }
         ]
@@ -49800,8 +49892,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782642254
     }
   },
   {
@@ -49815,11 +49907,11 @@
       }
     },
     "forms": {},
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "obfuscation"
+      "confusion",
+      "bewilderment",
+      "puzzlement"
     ],
     "entries": [
       {
@@ -49828,7 +49920,7 @@
           {
             "id": "befuddlement-noun-1",
             "definition": "confusion resulting from failure to understand",
-            "translation": "",
+            "translation": "困惑；茫然",
             "examples": []
           }
         ]
@@ -49836,8 +49928,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -49908,15 +50000,15 @@
     "phrases": [
       {
         "text": "beg off",
-        "translation": ""
+        "translation": "请求免除（义务等）；请假"
       },
       {
         "text": "beg to",
-        "translation": ""
+        "translation": "试图"
       },
       {
         "text": "beg to differ",
-        "translation": ""
+        "translation": "恕不敢苟同"
       }
     ],
     "metadata": {
@@ -49940,11 +50032,13 @@
       "pastParticiple": "begotten"
     },
     "tags": [
-      "gre",
-      "toefl"
+      "cet6",
+      "gre"
     ],
     "synonyms": [
-      "get"
+      "father",
+      "procreate",
+      "generate"
     ],
     "entries": [
       {
@@ -49953,7 +50047,7 @@
           {
             "id": "beget-verb-1",
             "definition": "to make children",
-            "translation": "",
+            "translation": "生育；产生",
             "examples": [
               {
                 "text": "I beget two children.",
@@ -49966,8 +50060,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -49983,7 +50077,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "father"
+      "father",
+      "sire",
+      "male parent"
     ],
     "entries": [
       {
@@ -49992,7 +50088,7 @@
           {
             "id": "begetter-noun-1",
             "definition": "a male parent (also used as a term of address to your father)",
-            "translation": "",
+            "translation": "父亲；生父",
             "examples": []
           }
         ]
@@ -50000,8 +50096,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50014,19 +50110,15 @@
         "ipa": "ˈbeɡə"
       }
     },
-    "forms": {
-      "gerund": "beggaring",
-      "past": "beggared",
-      "pastParticiple": "beggared"
-    },
+    "forms": {},
     "tags": [
       "cet4",
       "cet6"
     ],
     "synonyms": [
+      "panhandler",
       "mendicant",
-      "pauperise",
-      "pauperize"
+      "pauper"
     ],
     "entries": [
       {
@@ -50035,7 +50127,7 @@
           {
             "id": "beggar-noun-1",
             "definition": "a pauper who lives by begging",
-            "translation": "",
+            "translation": "乞丐；穷人",
             "examples": []
           }
         ]
@@ -50071,28 +50163,30 @@
     "phrases": [
       {
         "text": "beggar on horseback",
-        "translation": ""
+        "translation": "小人得志"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beggarly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛɡərli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "mean"
+      "miserly",
+      "stingy",
+      "squalid"
     ],
     "entries": [
       {
@@ -50101,7 +50195,7 @@
           {
             "id": "beggarly-adjective-1",
             "definition": "so small in amount as to deserve contempt, usually referring to money",
-            "translation": "",
+            "translation": "少得可怜的；穷酸的",
             "examples": [
               {
                 "text": "After serving a large table, I expected more than a beggarly tip.",
@@ -50112,7 +50206,7 @@
           {
             "id": "beggarly-adjective-2",
             "definition": "marked by poverty befitting a beggar",
-            "translation": "",
+            "translation": "赤贫的；一贫如洗的",
             "examples": [
               {
                 "text": "a beggarly existence in the slums",
@@ -50125,23 +50219,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beggarman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛɡərˌmæn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəmæn"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "beggar",
+      "panhandler"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -50149,7 +50246,7 @@
           {
             "id": "beggarman-noun-1",
             "definition": "a man who is a beggar",
-            "translation": "",
+            "translation": "男乞丐；乞丐男子",
             "examples": []
           }
         ]
@@ -50157,23 +50254,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beggarweed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛɡərˌwid"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəwiːd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "Desmodium tortuosum"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -50181,7 +50280,7 @@
           {
             "id": "beggarweed-noun-1",
             "definition": "West Indian forage plant cultivated in southern United States as forage and to improve soil",
-            "translation": "",
+            "translation": "山马蝗；匍匐草（一种西印度饲料植物）",
             "examples": []
           }
         ]
@@ -50189,23 +50288,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beggarwoman",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛɡərˌwʊmən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəˌwʊmən"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "beggar",
+      "panhandler"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -50213,7 +50315,7 @@
           {
             "id": "beggarwoman-noun-1",
             "definition": "a woman who is a beggar",
-            "translation": "",
+            "translation": "女乞丐",
             "examples": []
           }
         ]
@@ -50221,18 +50323,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beggary",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛɡəri"
       }
     },
     "forms": {},
@@ -50249,7 +50351,7 @@
           {
             "id": "beggary-noun-1",
             "definition": "a solicitation for money or food (especially in the street by an apparently penniless person)",
-            "translation": "",
+            "translation": "乞讨行为",
             "examples": []
           },
           {
@@ -50280,7 +50382,8 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "beggary"
+      "panhandling",
+      "mendicancy"
     ],
     "entries": [
       {
@@ -50289,7 +50392,7 @@
           {
             "id": "begging-noun-1",
             "definition": "a solicitation for money or food (especially in the street by an apparently penniless person)",
-            "translation": "",
+            "translation": "乞讨",
             "examples": [
               {
                 "text": "Right wing politicians are trying to ban begging in Norway. ",
@@ -50303,28 +50406,33 @@
     "phrases": [
       {
         "text": "begging off",
-        "translation": ""
+        "translation": "请求免除"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "begild",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡɪld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡɪld"
       }
     },
-    "forms": {},
+    "forms": {
+      "gerund": "begilding",
+      "past": "begilded",
+      "pastParticiple": "begilded"
+    },
     "tags": [],
     "synonyms": [
-      "gild"
+      "gild",
+      "gild over"
     ],
     "entries": [
       {
@@ -50333,7 +50441,7 @@
           {
             "id": "begild-verb-1",
             "definition": "to decorate with, or as if with, gold leaf or liquid gold",
-            "translation": "",
+            "translation": "镀金于；用金箔装饰",
             "examples": [
               {
                 "text": "The mayor requested that the construction workers begild the top of the city hall.",
@@ -50346,8 +50454,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50460,39 +50568,39 @@
     "phrases": [
       {
         "text": "begin at",
-        "translation": ""
+        "translation": "从……开始"
       },
       {
         "text": "begin at the wrong end",
-        "translation": ""
+        "translation": "一开始就搞错方向"
       },
       {
         "text": "begin by",
-        "translation": ""
+        "translation": "从……开始"
       },
       {
         "text": "begin in",
-        "translation": ""
+        "translation": "从……开始"
       },
       {
         "text": "begin on",
-        "translation": ""
+        "translation": "着手处理"
       },
       {
         "text": "begin to do",
-        "translation": ""
+        "translation": "开始做"
       },
       {
         "text": "begin to fidget",
-        "translation": ""
+        "translation": "开始坐立不安"
       },
       {
         "text": "begin to see daylight",
-        "translation": ""
+        "translation": "开始明白；开始看到希望"
       },
       {
         "text": "begin to understand",
-        "translation": ""
+        "translation": "开始理解"
       },
       {
         "text": "begin upon",
@@ -50520,11 +50628,14 @@
     },
     "forms": {},
     "tags": [
-      "cet4"
+      "cet4",
+      "gk",
+      "zk"
     ],
     "synonyms": [
-      "father",
-      "initiate"
+      "novice",
+      "newcomer",
+      "founder"
     ],
     "entries": [
       {
@@ -50533,13 +50644,13 @@
           {
             "id": "beginner-noun-1",
             "definition": "a person who founds or establishes some institution",
-            "translation": "",
+            "translation": "创始人；创立者",
             "examples": []
           },
           {
             "id": "beginner-noun-2",
             "definition": "someone new to a field or activity",
-            "translation": "",
+            "translation": "初学者；新手",
             "examples": []
           }
         ]
@@ -50547,8 +50658,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50653,7 +50764,7 @@
     "phrases": [
       {
         "text": "beginning with",
-        "translation": ""
+        "translation": "以……开始"
       }
     ],
     "metadata": {
@@ -50665,10 +50776,10 @@
     "word": "begonia",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡoʊniə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡəʊniə"
       }
     },
     "forms": {},
@@ -50681,7 +50792,7 @@
           {
             "id": "begonia-noun-1",
             "definition": "any of numerous plants of the genus Begonia grown for their attractive glossy asymmetrical leaves and colorful flowers in usually terminal cymes or racemes",
-            "translation": "",
+            "translation": "秋海棠",
             "examples": []
           }
         ]
@@ -50689,23 +50800,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "begotten",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡɒtən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡɒtən"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "begot",
+      "procreated"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -50713,7 +50827,7 @@
           {
             "id": "begotten-adjective-1",
             "definition": "(of offspring) generated by procreation",
-            "translation": "",
+            "translation": "所生的；亲生的",
             "examples": [
               {
                 "text": "naturally begotten child",
@@ -50727,12 +50841,12 @@
     "phrases": [
       {
         "text": "begotten before marriage",
-        "translation": ""
+        "translation": "婚前所生的"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50746,13 +50860,15 @@
       }
     },
     "forms": {
-      "pastParticiple": "begrimed",
+      "gerund": "begriming",
       "past": "begrimed",
-      "gerund": "begriming"
+      "pastParticiple": "begrimed"
     },
     "tags": [],
     "synonyms": [
-      "dirty"
+      "soil",
+      "dirty",
+      "grime"
     ],
     "entries": [
       {
@@ -50761,7 +50877,7 @@
           {
             "id": "begrime-verb-1",
             "definition": "to make soiled, filthy, or dirty",
-            "translation": "",
+            "translation": "弄脏；使污秽",
             "examples": [
               {
                 "text": "I told my kids not to begrime the house, but they still tracked mud into the house.",
@@ -50775,12 +50891,12 @@
     "phrases": [
       {
         "text": "begrime with",
-        "translation": ""
+        "translation": "被……弄脏"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50796,7 +50912,9 @@
     "forms": {},
     "tags": [],
     "synonyms": [
-      "dingy"
+      "dirty",
+      "filthy",
+      "grimy"
     ],
     "entries": [
       {
@@ -50805,7 +50923,7 @@
           {
             "id": "begrimed-adjective-1",
             "definition": "thickly covered with ingrained dirt or soot",
-            "translation": "",
+            "translation": "污秽的；沾满烟垢的",
             "examples": [
               {
                 "text": "a miner's begrimed face",
@@ -50818,8 +50936,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50833,17 +50951,18 @@
       }
     },
     "forms": {
-      "past": "begrudged",
       "gerund": "begrudging",
+      "past": "begrudged",
       "pastParticiple": "begrudged"
     },
     "tags": [
-      "gre",
-      "toefl"
+      "cet6",
+      "ielts"
     ],
     "synonyms": [
       "envy",
-      "resent"
+      "resent",
+      "grudge"
     ],
     "entries": [
       {
@@ -50852,7 +50971,7 @@
           {
             "id": "begrudge-verb-1",
             "definition": "to wish ill or allow unwillingly",
-            "translation": "",
+            "translation": "嫉妒；不愿给",
             "examples": [
               {
                 "text": "I don't begrudge you anything.",
@@ -50863,7 +50982,7 @@
           {
             "id": "begrudge-verb-2",
             "definition": "to be envious of",
-            "translation": "",
+            "translation": "羡慕；忌妒",
             "examples": [
               {
                 "text": "I don't begrudge you.",
@@ -50876,8 +50995,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -50891,17 +51010,18 @@
       }
     },
     "forms": {
-      "pastParticiple": "beguiled",
+      "gerund": "beguiling",
       "past": "beguiled",
-      "gerund": "beguiling"
+      "pastParticiple": "beguiled"
     },
     "tags": [
       "gre",
       "toefl"
     ],
     "synonyms": [
-      "entrance",
-      "juggle"
+      "enchant",
+      "delude",
+      "charm"
     ],
     "entries": [
       {
@@ -50921,7 +51041,7 @@
           {
             "id": "beguile-verb-2",
             "definition": "to influence by slyness",
-            "translation": "",
+            "translation": "哄骗",
             "examples": [
               {
                 "text": "The shopkeeper beguiled the customer to buy the discounted goods.",
@@ -50935,36 +51055,38 @@
     "phrases": [
       {
         "text": "beguile by",
-        "translation": ""
+        "translation": "被…所吸引"
       },
       {
         "text": "beguile into",
-        "translation": ""
+        "translation": "哄骗…做某事"
       },
       {
         "text": "beguile with",
-        "translation": ""
+        "translation": "用…消遣"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beguiled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪld"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "entranced"
+      "enchanted",
+      "captivated",
+      "delighted"
     ],
     "entries": [
       {
@@ -50973,7 +51095,7 @@
           {
             "id": "beguiled-adjective-1",
             "definition": "filled with wonder and delight",
-            "translation": "",
+            "translation": "心醉神迷的",
             "examples": []
           }
         ]
@@ -50981,25 +51103,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beguilement",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlmənt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlmənt"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bewitchery",
-      "distraction"
+      "amusement",
+      "distraction",
+      "charm"
     ],
     "entries": [
       {
@@ -51008,13 +51131,13 @@
           {
             "id": "beguilement-noun-1",
             "definition": "an entertainment that provokes pleased interest and distracts you from worries and vexations",
-            "translation": "",
+            "translation": "消遣",
             "examples": []
           },
           {
             "id": "beguilement-noun-2",
             "definition": "magnetic personal charm",
-            "translation": "",
+            "translation": "魅力",
             "examples": []
           }
         ]
@@ -51022,25 +51145,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beguiler",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlə"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
       "charmer",
-      "cheat"
+      "deceiver",
+      "trickster"
     ],
     "entries": [
       {
@@ -51049,7 +51173,7 @@
           {
             "id": "beguiler-noun-1",
             "definition": "a person who charms others, usually by personal attractiveness",
-            "translation": "",
+            "translation": "迷人的人",
             "examples": [
               {
                 "text": "You are quite the beguiler, aren't you?",
@@ -51060,7 +51184,7 @@
           {
             "id": "beguiler-noun-2",
             "definition": "someone who leads you to believe something that is not true",
-            "translation": "",
+            "translation": "骗子",
             "examples": []
           }
         ]
@@ -51068,26 +51192,28 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beguiling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈɡaɪlɪŋ"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre"
+    ],
     "synonyms": [
+      "enchanting",
       "alluring",
-      "enticing",
-      "tempting"
+      "captivating"
     ],
     "entries": [
       {
@@ -51096,7 +51222,7 @@
           {
             "id": "beguiling-adjective-1",
             "definition": "misleading by means of pleasant or alluring methods",
-            "translation": "",
+            "translation": "诱人的",
             "examples": [
               {
                 "text": "taken in by beguiling tales of overnight fortunes",
@@ -51107,7 +51233,7 @@
           {
             "id": "beguiling-adjective-2",
             "definition": "highly attractive and able to arouse hope or desire",
-            "translation": "",
+            "translation": "迷人的",
             "examples": []
           }
         ]
@@ -51115,18 +51241,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beguine",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bəˈɡiːn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bəˈɡiːn"
       }
     },
     "forms": {},
@@ -51153,18 +51279,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "begum",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪɡəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪɡəm"
       }
     },
     "forms": {},
@@ -51185,8 +51311,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -51454,10 +51580,12 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [
-      "behaviourism"
+    "tags": [
+      "ielts",
+      "toefl",
+      "gre"
     ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51473,8 +51601,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -51532,10 +51660,10 @@
     "word": "behavioristic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˌheɪvjəˈrɪstɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˌheɪvjəˈrɪstɪk"
       }
     },
     "forms": {},
@@ -51682,9 +51810,12 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre",
+      "ielts"
+    ],
     "synonyms": [
-      "behaviorism"
+      "behaviorist psychology"
     ],
     "entries": [
       {
@@ -51693,7 +51824,7 @@
           {
             "id": "behaviourism-noun-1",
             "definition": "an approach to psychology that emphasizes observable measurable behavior",
-            "translation": "",
+            "translation": "行为主义",
             "examples": []
           }
         ]
@@ -51701,18 +51832,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "behaviourist",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈheɪvjərɪst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈheɪvjərɪst"
       }
     },
     "forms": {},
@@ -51832,17 +51963,15 @@
     "word": "beheaded",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈhɛdɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈhɛdɪd"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [
-      "decapitated"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -51850,7 +51979,7 @@
           {
             "id": "beheaded-adjective-1",
             "definition": "having had the head cut off",
-            "translation": "",
+            "translation": "被斩首的",
             "examples": [
               {
                 "text": "the beheaded prisoners",
@@ -51863,8 +51992,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -51878,7 +52007,10 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre",
+      "toefl"
+    ],
     "synonyms": [
       "decapitation"
     ],
@@ -51889,13 +52021,13 @@
           {
             "id": "beheading-noun-1",
             "definition": "killing by cutting off the head",
-            "translation": "",
+            "translation": "斩首",
             "examples": []
           },
           {
             "id": "beheading-noun-2",
             "definition": "execution by cutting off the victim's head",
-            "translation": "",
+            "translation": "斩首处决",
             "examples": []
           }
         ]
@@ -51903,8 +52035,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -51918,10 +52050,15 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre",
+      "ielts",
+      "toefl"
+    ],
     "synonyms": [
       "giant",
-      "monster"
+      "colossus",
+      "leviathan"
     ],
     "entries": [
       {
@@ -51930,13 +52067,13 @@
           {
             "id": "behemoth-noun-1",
             "definition": "a person of exceptional importance and reputation",
-            "translation": "",
+            "translation": "要人",
             "examples": []
           },
           {
             "id": "behemoth-noun-2",
             "definition": "someone or something that is abnormally large and powerful",
-            "translation": "",
+            "translation": "庞然大物",
             "examples": []
           }
         ]
@@ -51944,8 +52081,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -51959,8 +52096,14 @@
       }
     },
     "forms": {},
-    "tags": [],
-    "synonyms": [],
+    "tags": [
+      "gre"
+    ],
+    "synonyms": [
+      "command",
+      "order",
+      "directive"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -51968,7 +52111,7 @@
           {
             "id": "behest-noun-1",
             "definition": "an authoritative command or request",
-            "translation": "",
+            "translation": "命令",
             "examples": []
           }
         ]
@@ -51976,8 +52119,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52082,15 +52225,15 @@
     "phrases": [
       {
         "text": "behind in",
-        "translation": ""
+        "translation": "落后于"
       },
       {
         "text": "behind with",
-        "translation": ""
+        "translation": "拖欠"
       },
       {
         "text": "behind with the rent",
-        "translation": ""
+        "translation": "拖欠房租"
       }
     ],
     "metadata": {
@@ -52102,10 +52245,10 @@
     "word": "behindhand",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈhaɪnd.hænd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈhaɪnd.hænd"
       }
     },
     "forms": {},
@@ -52164,9 +52307,16 @@
       "pastParticiple": "beheld"
     },
     "tags": [
+      "cet6",
       "gre"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "see",
+      "observe",
+      "view",
+      "regard",
+      "watch"
+    ],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -52174,7 +52324,7 @@
           {
             "id": "behold-verb-1",
             "definition": "to see with attention",
-            "translation": "",
+            "translation": "注视；看见",
             "examples": [
               {
                 "text": "Behold, an apparition!",
@@ -52187,8 +52337,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52203,9 +52353,15 @@
     },
     "forms": {},
     "tags": [
+      "cet6",
       "gre"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "obliged",
+      "indebted",
+      "grateful",
+      "bound"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -52213,7 +52369,7 @@
           {
             "id": "beholden-adjective-1",
             "definition": "under a moral obligation to someone",
-            "translation": "",
+            "translation": "欠人情的；受恩惠的；有义务的",
             "examples": []
           }
         ]
@@ -52222,12 +52378,12 @@
     "phrases": [
       {
         "text": "beholden to",
-        "translation": ""
+        "translation": "欠…人情；受…的恩惠"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52242,10 +52398,15 @@
     },
     "forms": {},
     "tags": [
+      "cet6",
       "gre"
     ],
     "synonyms": [
-      "percipient"
+      "observer",
+      "witness",
+      "spectator",
+      "viewer",
+      "onlooker"
     ],
     "entries": [
       {
@@ -52254,7 +52415,7 @@
           {
             "id": "beholder-noun-1",
             "definition": "a person who becomes aware (of things or events) through the senses",
-            "translation": "",
+            "translation": "旁观者；目睹者；观察者",
             "examples": []
           }
         ]
@@ -52262,24 +52423,29 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beholding",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈhoʊl.dɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈhəʊl.dɪŋ"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre"
+    ],
     "synonyms": [
-      "seeing"
+      "seeing",
+      "observation",
+      "perception",
+      "viewing"
     ],
     "entries": [
       {
@@ -52288,7 +52454,7 @@
           {
             "id": "beholding-noun-1",
             "definition": "perception by means of the eyes",
-            "translation": "",
+            "translation": "视觉感知；观看",
             "examples": []
           }
         ]
@@ -52296,8 +52462,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52315,12 +52481,8 @@
       "past": "behooved",
       "pastParticiple": "behooved"
     },
-    "tags": [
-      "gre"
-    ],
-    "synonyms": [
-      "behove"
-    ],
+    "tags": [],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -52328,7 +52490,7 @@
           {
             "id": "behoove-verb-1",
             "definition": "to be appropriate or necessary",
-            "translation": "",
+            "translation": "有必要；适宜",
             "examples": [
               {
                 "text": "It behooves us to reflect on this matter.",
@@ -52341,8 +52503,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52356,14 +52518,12 @@
       }
     },
     "forms": {
+      "gerund": "behoving",
       "past": "behoved",
-      "pastParticiple": "behoved",
-      "gerund": "behoving"
+      "pastParticiple": "behoved"
     },
     "tags": [],
-    "synonyms": [
-      "behoove"
-    ],
+    "synonyms": [],
     "entries": [
       {
         "partOfSpeech": "verb",
@@ -52371,7 +52531,7 @@
           {
             "id": "behove-verb-1",
             "definition": "to be appropriate or necessary",
-            "translation": "",
+            "translation": "有必要；应该",
             "examples": [
               {
                 "text": "It behoves us to tip well.",
@@ -52384,8 +52544,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52437,10 +52597,10 @@
     "word": "beigel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪɡəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪɡəl"
       }
     },
     "forms": {},
@@ -52455,7 +52615,7 @@
           {
             "id": "beigel-noun-1",
             "definition": "(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust",
-            "translation": "",
+            "translation": "百吉饼（一种硬皮的环形面包）",
             "examples": []
           }
         ]
@@ -52463,18 +52623,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beignet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbeɪnjeɪ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbeɪnjeɪ"
       }
     },
     "forms": {},
@@ -52487,7 +52647,7 @@
           {
             "id": "beignet-noun-1",
             "definition": "a deep-fried, yeast-raised doughnut dusted with confectioners' sugar",
-            "translation": "",
+            "translation": "贝奈特饼（一种撒有糖粉的油炸甜点）",
             "examples": []
           }
         ]
@@ -52495,8 +52655,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52547,19 +52707,19 @@
     "phrases": [
       {
         "text": "being in arrears in handing over profits",
-        "translation": ""
+        "translation": "拖欠上缴利润"
       },
       {
         "text": "being in love",
-        "translation": ""
+        "translation": "恋爱中"
       },
       {
         "text": "being in season",
-        "translation": ""
+        "translation": "处于旺季；应季"
       },
       {
         "text": "being to the hammer",
-        "translation": ""
+        "translation": "待拍卖"
       }
     ],
     "metadata": {
@@ -52571,16 +52731,16 @@
     "word": "beingness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbiːɪŋnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbiːɪŋnəs"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "being"
+      "existence"
     ],
     "entries": [
       {
@@ -52589,7 +52749,7 @@
           {
             "id": "beingness-noun-1",
             "definition": "the state or fact of existing",
-            "translation": "",
+            "translation": "存在；实在",
             "examples": []
           }
         ]
@@ -52597,28 +52757,30 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bejewel",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdʒuːəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdʒuːəl"
       }
     },
     "forms": {
-      "gerund": "bejewelling",
-      "past": "bejewelled",
-      "pastParticiple": "bejewelled"
+      "gerund": "bejeweling",
+      "past": "bejeweled",
+      "pastParticiple": "bejeweled"
     },
     "tags": [],
     "synonyms": [
-      "jewel"
+      "adorn",
+      "embellish",
+      "bedeck"
     ],
     "entries": [
       {
@@ -52627,7 +52789,7 @@
           {
             "id": "bejewel-verb-1",
             "definition": "to adorn or decorate with precious stones",
-            "translation": "",
+            "translation": "用珠宝装饰；饰以宝石",
             "examples": [
               {
                 "text": "They bejeweled the dress for added flair.",
@@ -52640,8 +52802,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52659,11 +52821,11 @@
       "past": "belabored",
       "pastParticiple": "belabored"
     },
-    "tags": [
-      "gre"
-    ],
+    "tags": [],
     "synonyms": [
-      "belabour"
+      "criticize",
+      "harp on",
+      "overdo"
     ],
     "entries": [
       {
@@ -52672,7 +52834,7 @@
           {
             "id": "belabor-verb-1",
             "definition": "to attack verbally with harsh criticism",
-            "translation": "",
+            "translation": "痛斥；严厉批评",
             "examples": [
               {
                 "text": "I was belabored by my fellow students.",
@@ -52683,7 +52845,7 @@
           {
             "id": "belabor-verb-2",
             "definition": "to work at or to absurd length",
-            "translation": "",
+            "translation": "过分详述；冗长地做",
             "examples": [
               {
                 "text": "belabor the obvious",
@@ -52696,18 +52858,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belabour",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈleɪbər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈleɪbər"
       }
     },
     "forms": {
@@ -52717,7 +52879,10 @@
     },
     "tags": [],
     "synonyms": [
-      "belabor"
+      "criticize",
+      "berate",
+      "thrash",
+      "overwork"
     ],
     "entries": [
       {
@@ -52726,7 +52891,7 @@
           {
             "id": "belabour-verb-1",
             "definition": "to attack verbally with harsh criticism",
-            "translation": "",
+            "translation": "痛斥；严厉批评",
             "examples": [
               {
                 "text": "I don't mean to belabour you, but you must realise how badly you have messed this up.",
@@ -52737,7 +52902,7 @@
           {
             "id": "belabour-verb-2",
             "definition": "to beat soundly",
-            "translation": "",
+            "translation": "痛打；毒打",
             "examples": [
               {
                 "text": "Our team of experts belaboured all the other teams at trivia.",
@@ -52748,7 +52913,7 @@
           {
             "id": "belabour-verb-3",
             "definition": "to work at harder than you should",
-            "translation": "",
+            "translation": "过度操劳；过分辛苦地做",
             "examples": [
               {
                 "text": "I don't mean to belabour the point.",
@@ -52761,18 +52926,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belarusian",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈruːʃən"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈruːʃən"
       }
     },
     "forms": {},
@@ -52841,10 +53006,14 @@
     },
     "forms": {},
     "tags": [
+      "cet6",
       "gre"
     ],
     "synonyms": [
-      "late"
+      "late",
+      "overdue",
+      "tardy",
+      "unpunctual"
     ],
     "entries": [
       {
@@ -52853,7 +53022,7 @@
           {
             "id": "belated-adjective-1",
             "definition": "after the expected or usual time",
-            "translation": "",
+            "translation": "迟到的",
             "examples": []
           }
         ]
@@ -52861,8 +53030,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52876,9 +53045,12 @@
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "cet6"
+    ],
     "synonyms": [
-      "late"
+      "late",
+      "tardily"
     ],
     "entries": [
       {
@@ -52887,7 +53059,7 @@
           {
             "id": "belatedly-adverb-1",
             "definition": "later than usual or than expected",
-            "translation": "",
+            "translation": "逾期地",
             "examples": []
           }
         ]
@@ -52895,8 +53067,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52909,11 +53081,7 @@
         "ipa": "ˈbi:leɪ"
       }
     },
-    "forms": {
-      "gerund": "belaying",
-      "past": "belayed",
-      "pastParticiple": "belayed"
-    },
+    "forms": {},
     "tags": [],
     "synonyms": [],
     "entries": [
@@ -52923,7 +53091,7 @@
           {
             "id": "belay-noun-1",
             "definition": "something to which a mountain climber's rope can be secured",
-            "translation": "",
+            "translation": "系绳处",
             "examples": []
           }
         ]
@@ -52958,8 +53126,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -52972,23 +53140,10 @@
         "ipa": "beltʃ"
       }
     },
-    "forms": {
-      "past": "belched",
-      "gerund": "belching",
-      "pastParticiple": "belched"
-    },
-    "tags": [
-      "gre"
-    ],
+    "forms": {},
+    "tags": [],
     "synonyms": [
-      "belching",
-      "bubble",
-      "burp",
-      "burping",
-      "eruct",
-      "eructation",
-      "erupt",
-      "extravasate"
+      "burp"
     ],
     "entries": [
       {
@@ -52997,7 +53152,7 @@
           {
             "id": "belch-noun-1",
             "definition": "a reflex that expels gas noisily from the stomach through the mouth",
-            "translation": "",
+            "translation": "打嗝",
             "examples": []
           }
         ]
@@ -53033,32 +53188,33 @@
     "phrases": [
       {
         "text": "belch at",
-        "translation": ""
+        "translation": "对…打嗝"
       },
       {
         "text": "belch out",
-        "translation": ""
+        "translation": "喷出"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belching",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛltʃɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛltʃɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "belch"
+      "burping",
+      "eructation"
     ],
     "entries": [
       {
@@ -53067,13 +53223,13 @@
           {
             "id": "belching-noun-1",
             "definition": "a reflex that expels gas noisily from the stomach through the mouth",
-            "translation": "",
+            "translation": "打嗝",
             "examples": []
           },
           {
             "id": "belching-noun-2",
             "definition": "the forceful expulsion of something from inside",
-            "translation": "",
+            "translation": "喷出",
             "examples": [
               {
                 "text": "the belching of smoke from factory chimneys",
@@ -53086,24 +53242,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beldam",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛldəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛldəm"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "beldame",
+      "crone",
       "hag"
     ],
     "entries": [
@@ -53113,13 +53269,13 @@
           {
             "id": "beldam-noun-1",
             "definition": "a woman of advanced age",
-            "translation": "",
+            "translation": "老妇人",
             "examples": []
           },
           {
             "id": "beldam-noun-2",
             "definition": "an ugly evil-looking old woman",
-            "translation": "",
+            "translation": "丑陋的老太婆",
             "examples": []
           }
         ]
@@ -53127,24 +53283,24 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "beldame",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛldeɪm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛldeɪm"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "beldam",
+      "crone",
       "hag"
     ],
     "entries": [
@@ -53154,13 +53310,13 @@
           {
             "id": "beldame-noun-1",
             "definition": "a woman of advanced age",
-            "translation": "",
+            "translation": "老妇人",
             "examples": []
           },
           {
             "id": "beldame-noun-2",
             "definition": "an ugly evil-looking old woman",
-            "translation": "",
+            "translation": "丑陋的老太婆",
             "examples": []
           }
         ]
@@ -53168,8 +53324,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -53212,7 +53368,7 @@
           {
             "id": "beleaguer-verb-2",
             "definition": "to annoy persistently",
-            "translation": "",
+            "translation": "困扰",
             "examples": [
               {
                 "text": "There's no need to beleaguer the custom service employee.",
@@ -53233,15 +53389,16 @@
     "word": "beleaguering",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈliːɡərɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈliːɡərɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
+      "besiegement",
       "siege"
     ],
     "entries": [
@@ -53251,7 +53408,7 @@
           {
             "id": "beleaguering-noun-1",
             "definition": "the action of an armed force that surrounds a fortified place and isolates it while continuing to attack",
-            "translation": "",
+            "translation": "围攻",
             "examples": []
           }
         ]
@@ -53259,18 +53416,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belemnite",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛləmˌnaɪt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛləmnaɪt"
       }
     },
     "forms": {},
@@ -53283,7 +53440,7 @@
           {
             "id": "belemnite-noun-1",
             "definition": "a conical calcareous fossil tapering to a point at one end and with a conical cavity at the other end containing (when unbroken) a small chambered phragmocone from the shell of any of numerous extinct cephalopods of the family Belemnitidae",
-            "translation": "",
+            "translation": "箭石",
             "examples": []
           }
         ]
@@ -53291,18 +53448,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belemnitic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛləmˈnaɪtɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛləmˈnaɪtɪk"
       }
     },
     "forms": {},
@@ -53331,10 +53488,10 @@
     "word": "belfry",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlfri"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlfri"
       }
     },
     "forms": {},
@@ -53349,7 +53506,7 @@
           {
             "id": "belfry-noun-1",
             "definition": "a room, often at the top of a tower, where bells are hung",
-            "translation": "",
+            "translation": "钟室",
             "examples": [
               {
                 "text": "It is loud in the belfry when the bell is being rung. ",
@@ -53466,7 +53623,7 @@
           {
             "id": "belie-verb-2",
             "definition": "to be in contradiction with",
-            "translation": "",
+            "translation": "与...相矛盾",
             "examples": [
               {
                 "text": "New evidence belies the claims in your older research.",
@@ -53525,11 +53682,11 @@
     "phrases": [
       {
         "text": "belief in",
-        "translation": ""
+        "translation": "对…的信任"
       },
       {
         "text": "belief in a just world",
-        "translation": ""
+        "translation": "公正世界信念"
       }
     ],
     "metadata": {
@@ -53541,16 +53698,17 @@
     "word": "believability",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˌliːvəˈbɪləti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˌliːvəˈbɪləti"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "credibility"
+      "credibility",
+      "plausibility"
     ],
     "entries": [
       {
@@ -53559,7 +53717,7 @@
           {
             "id": "believability-noun-1",
             "definition": "the quality of being believable or trustworthy",
-            "translation": "",
+            "translation": "可信度",
             "examples": []
           }
         ]
@@ -53567,8 +53725,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -53609,16 +53767,17 @@
     "word": "believably",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈliːvəbli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈliːvəbli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "probably"
+      "credibly",
+      "plausibly"
     ],
     "entries": [
       {
@@ -53627,7 +53786,7 @@
           {
             "id": "believably-adverb-1",
             "definition": "in a believable manner",
-            "translation": "",
+            "translation": "可信地",
             "examples": [
               {
                 "text": "They acted believably sincere.",
@@ -53638,7 +53797,7 @@
           {
             "id": "believably-adverb-2",
             "definition": "easy to believe on the basis of available evidence",
-            "translation": "",
+            "translation": "令人信服地",
             "examples": []
           }
         ]
@@ -53646,8 +53805,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -53720,15 +53879,15 @@
       },
       {
         "text": "believe in me",
-        "translation": ""
+        "translation": "相信我"
       },
       {
         "text": "believe in religion",
-        "translation": ""
+        "translation": "信仰宗教"
       },
       {
         "text": "believe on",
-        "translation": ""
+        "translation": "信赖"
       }
     ],
     "metadata": {
@@ -53748,12 +53907,13 @@
     },
     "forms": {},
     "tags": [
-      "toefl"
+      "cet6",
+      "ielts"
     ],
     "synonyms": [
-      "truster",
-      "worshiper",
-      "worshipper"
+      "adherent",
+      "follower",
+      "disciple"
     ],
     "entries": [
       {
@@ -53762,13 +53922,13 @@
           {
             "id": "believer-noun-1",
             "definition": "a person who has religious faith",
-            "translation": "",
+            "translation": "信徒",
             "examples": []
           },
           {
             "id": "believer-noun-2",
             "definition": "a supporter who accepts something as true",
-            "translation": "",
+            "translation": "信仰者",
             "examples": []
           }
         ]
@@ -53776,18 +53936,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "believing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈliːvɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈliːvɪŋ"
       }
     },
     "forms": {},
@@ -53814,7 +53974,7 @@
     "phrases": [
       {
         "text": "believing in",
-        "translation": ""
+        "translation": "相信"
       }
     ],
     "metadata": {
@@ -53826,16 +53986,17 @@
     "word": "believingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈliːvɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈliːvɪŋli"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "credulously"
+      "credulously",
+      "trustingly"
     ],
     "entries": [
       {
@@ -53844,7 +54005,7 @@
           {
             "id": "believingly-adverb-1",
             "definition": "in a credulous manner",
-            "translation": "",
+            "translation": "轻信地",
             "examples": []
           }
         ]
@@ -53852,24 +54013,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈlaɪk"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "probably"
+      "probably",
+      "likely"
     ],
     "entries": [
       {
@@ -53878,7 +54040,7 @@
           {
             "id": "belike-adverb-1",
             "definition": "with considerable certainty",
-            "translation": "",
+            "translation": "很可能",
             "examples": []
           }
         ]
@@ -53886,8 +54048,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -53902,20 +54064,18 @@
     },
     "forms": {
       "gerund": "belittling",
-      "pastParticiple": "belittled",
-      "past": "belittled"
+      "past": "belittled",
+      "pastParticiple": "belittled"
     },
     "tags": [
+      "cet6",
       "gre",
-      "toefl"
+      "ielts"
     ],
     "synonyms": [
-      "denigrate",
-      "derogate",
-      "diminish",
       "disparage",
-      "minimise",
-      "minimize"
+      "denigrate",
+      "deprecate"
     ],
     "entries": [
       {
@@ -53924,7 +54084,7 @@
           {
             "id": "belittle-verb-1",
             "definition": "to lessen the authority, dignity, or reputation of",
-            "translation": "",
+            "translation": "贬低",
             "examples": [
               {
                 "text": "Don't belittle your colleagues.",
@@ -53935,7 +54095,7 @@
           {
             "id": "belittle-verb-2",
             "definition": "to express a negative opinion of",
-            "translation": "",
+            "translation": "轻视",
             "examples": [
               {
                 "text": "No one likes a boss that belittles them.",
@@ -53946,7 +54106,7 @@
           {
             "id": "belittle-verb-3",
             "definition": "to cause to seem less serious",
-            "translation": "",
+            "translation": "贬损",
             "examples": [
               {
                 "text": "Stop belittling them.",
@@ -53959,24 +54119,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belittled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈlɪtəld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈlɪtəld"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "small"
+      "disparaged",
+      "diminished"
     ],
     "entries": [
       {
@@ -53985,7 +54146,7 @@
           {
             "id": "belittled-adjective-1",
             "definition": "made to seem smaller or less (especially in worth)",
-            "translation": "",
+            "translation": "被轻视的",
             "examples": []
           }
         ]
@@ -53993,25 +54154,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belittling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈlɪtəlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈlɪtəlɪŋ"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "denigration",
-      "deprecative"
+      "disparaging",
+      "derogatory",
+      "deprecatory"
     ],
     "entries": [
       {
@@ -54020,7 +54182,7 @@
           {
             "id": "belittling-adjective-1",
             "definition": "tending to diminish or disparage",
-            "translation": "",
+            "translation": "轻视的；贬低的",
             "examples": [
               {
                 "text": "belittling comments",
@@ -54050,8 +54212,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -54157,7 +54319,7 @@
     "phrases": [
       {
         "text": "bell out",
-        "translation": ""
+        "translation": "呈钟形外扩"
       }
     ],
     "metadata": {
@@ -54169,10 +54331,50 @@
     "word": "belladonna",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈdɑnə"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈdɒnə"
+      }
+    },
+    "forms": {},
+    "tags": [],
+    "synonyms": [
+      "deadly nightshade"
+    ],
+    "entries": [
+      {
+        "partOfSpeech": "noun",
+        "senses": [
+          {
+            "id": "belladonna-noun-1",
+            "definition": "an alkaloidal extract or tincture of the poisonous belladonna plant that is used medicinally",
+            "translation": "颠茄制剂",
+            "examples": []
+          },
+          {
+            "id": "belladonna-noun-2",
+            "definition": "perennial Eurasian herb with reddish bell-shaped flowers and shining black berries",
+            "translation": "颠茄",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "phrases": [],
+    "metadata": {
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
+    }
+  },
+  {
+    "word": "bellarmine",
+    "pronunciation": {
+      "us": {
+        "ipa": "ˈbɛlərmiːn"
+      },
+      "uk": {
+        "ipa": "ˈbɛləmiːn"
       }
     },
     "forms": {},
@@ -54183,50 +54385,9 @@
         "partOfSpeech": "noun",
         "senses": [
           {
-            "id": "belladonna-noun-1",
-            "definition": "an alkaloidal extract or tincture of the poisonous belladonna plant that is used medicinally",
-            "translation": "",
-            "examples": []
-          },
-          {
-            "id": "belladonna-noun-2",
-            "definition": "perennial Eurasian herb with reddish bell-shaped flowers and shining black berries",
-            "translation": "",
-            "examples": []
-          }
-        ]
-      }
-    ],
-    "phrases": [],
-    "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
-    }
-  },
-  {
-    "word": "bellarmine",
-    "pronunciation": {
-      "us": {
-        "ipa": ""
-      },
-      "uk": {
-        "ipa": ""
-      }
-    },
-    "forms": {},
-    "tags": [],
-    "synonyms": [
-      "greybeard",
-      "longbeard"
-    ],
-    "entries": [
-      {
-        "partOfSpeech": "noun",
-        "senses": [
-          {
             "id": "bellarmine-noun-1",
             "definition": "a stoneware drinking jug with a long neck",
-            "translation": "",
+            "translation": "贝拉尔迈因陶罐",
             "examples": []
           }
         ]
@@ -54234,18 +54395,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellbird",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌbɜːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌbɜːd"
       }
     },
     "forms": {},
@@ -54258,7 +54419,7 @@
           {
             "id": "bellbird-noun-1",
             "definition": "any of several tropical American birds of the genus Procnias having a bell-like call",
-            "translation": "",
+            "translation": "钟雀",
             "examples": []
           }
         ]
@@ -54266,23 +54427,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellbottom",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌbɑtəm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌbɒtəm"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "flared"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -54290,7 +54453,7 @@
           {
             "id": "bellbottom-adjective-1",
             "definition": "(of trousers) having legs that flare at the bottom",
-            "translation": "",
+            "translation": "喇叭腿的",
             "examples": []
           }
         ]
@@ -54298,8 +54461,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -54316,7 +54479,7 @@
     "tags": [],
     "synonyms": [
       "bellhop",
-      "bellman"
+      "porter"
     ],
     "entries": [
       {
@@ -54325,7 +54488,7 @@
           {
             "id": "bellboy-noun-1",
             "definition": "someone employed as an errand boy and luggage carrier around hotels",
-            "translation": "",
+            "translation": "旅馆行李员",
             "examples": []
           }
         ]
@@ -54333,8 +54496,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -54349,7 +54512,10 @@
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "beauty",
+      "beauty queen"
+    ],
     "entries": [
       {
         "partOfSpeech": "noun",
@@ -54357,7 +54523,7 @@
           {
             "id": "belle-noun-1",
             "definition": "a young woman who is the most charming and beautiful of several rivals",
-            "translation": "",
+            "translation": "美女；最美的女子",
             "examples": [
               {
                 "text": "You were the belle of the ball.",
@@ -54370,23 +54536,26 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "belletristic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈtrɪstɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛləˈtrɪstɪk"
       }
     },
     "forms": {},
     "tags": [],
-    "synonyms": [],
+    "synonyms": [
+      "literary",
+      "aesthetic"
+    ],
     "entries": [
       {
         "partOfSpeech": "adjective",
@@ -54394,7 +54563,7 @@
           {
             "id": "belletristic-adjective-1",
             "definition": "written and regarded for aesthetic value rather than content",
-            "translation": "",
+            "translation": "美文学的；纯文学的",
             "examples": []
           }
         ]
@@ -54402,18 +54571,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellflower",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌflaʊ.ər"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌflaʊ.ər"
       }
     },
     "forms": {},
@@ -54428,7 +54597,7 @@
           {
             "id": "bellflower-noun-1",
             "definition": "any of various plants of the genus Campanula having blue or white bell-shaped flowers",
-            "translation": "",
+            "translation": "风铃草；桔梗",
             "examples": []
           }
         ]
@@ -54436,24 +54605,25 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellhop",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌhɑp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛlˌhɒp"
       }
     },
     "forms": {},
     "tags": [],
     "synonyms": [
-      "bellboy"
+      "bellboy",
+      "porter"
     ],
     "entries": [
       {
@@ -54462,7 +54632,7 @@
           {
             "id": "bellhop-noun-1",
             "definition": "someone employed as an errand boy and luggage carrier around hotels",
-            "translation": "",
+            "translation": "旅馆行李员；旅馆服务员",
             "examples": []
           }
         ]
@@ -54470,8 +54640,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
@@ -54489,7 +54659,10 @@
       "gre"
     ],
     "synonyms": [
-      "battleful"
+      "pugnacious",
+      "belligerent",
+      "aggressive",
+      "combative"
     ],
     "entries": [
       {
@@ -54498,7 +54671,7 @@
           {
             "id": "bellicose-adjective-1",
             "definition": "having or showing a ready disposition to fight",
-            "translation": "",
+            "translation": "好斗的；好战的",
             "examples": [
               {
                 "text": "Their staff was comprised mostly of bellicose young officers.",
@@ -54511,24 +54684,28 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellicoseness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˈbɛl.ɪˌkoʊs.nəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˈbɛl.ɪˌkəʊs.nəs"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre"
+    ],
     "synonyms": [
-      "bellicosity"
+      "belligerence",
+      "pugnacity",
+      "aggressiveness"
     ],
     "entries": [
       {
@@ -54537,7 +54714,7 @@
           {
             "id": "bellicoseness-noun-1",
             "definition": "a natural disposition to fight",
-            "translation": "",
+            "translation": "好斗性；好战性",
             "examples": []
           }
         ]
@@ -54545,24 +54722,28 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {
     "word": "bellicosity",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌbɛl.ɪˈkɑː.sə.t̬i"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌbɛl.ɪˈkɒs.ɪ.ti"
       }
     },
     "forms": {},
-    "tags": [],
+    "tags": [
+      "gre"
+    ],
     "synonyms": [
-      "bellicoseness"
+      "belligerence",
+      "pugnacity",
+      "combativeness"
     ],
     "entries": [
       {
@@ -54571,7 +54752,7 @@
           {
             "id": "bellicosity-noun-1",
             "definition": "a natural disposition to fight",
-            "translation": "",
+            "translation": "好斗；好战；争斗倾向",
             "examples": []
           }
         ]
@@ -54579,8 +54760,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1782643493
     }
   },
   {

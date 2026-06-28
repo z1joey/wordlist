@@ -79020,10 +79020,10 @@
     "word": "unstained",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪnd"
       }
     },
     "forms": {},
@@ -79080,10 +79080,10 @@
     "word": "unstaple",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪpəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪpəl"
       }
     },
     "forms": {},
@@ -79117,10 +79117,10 @@
     "word": "unstarred",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɑrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɑːd"
       }
     },
     "forms": {},
@@ -79135,7 +79135,7 @@
           {
             "id": "unstarred-adjective-1",
             "definition": "not marked with an asterisk",
-            "translation": "",
+            "translation": "未加星号的",
             "examples": []
           }
         ]
@@ -79143,18 +79143,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
     "word": "unstated",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪtɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪtɪd"
       }
     },
     "forms": {},
@@ -79169,7 +79169,7 @@
           {
             "id": "unstated-adjective-1",
             "definition": "not made explicit",
-            "translation": "",
+            "translation": "未说明的；未明确表达的",
             "examples": []
           }
         ]
@@ -79177,18 +79177,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
     "word": "unstatesmanlike",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪtsmənˌlaɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsteɪtsmənlaɪk"
       }
     },
     "forms": {},
@@ -79201,7 +79201,7 @@
           {
             "id": "unstatesmanlike-adjective-1",
             "definition": "not statesmanlike",
-            "translation": "",
+            "translation": "缺乏政治家风度的",
             "examples": [
               {
                 "text": "unstatesmanlike procedure",
@@ -79214,8 +79214,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
@@ -79241,7 +79241,7 @@
           {
             "id": "unsteadily-adverb-1",
             "definition": "in an unsteady manner",
-            "translation": "",
+            "translation": "不稳地；摇摇晃晃地",
             "examples": [
               {
                 "text": "We walked unsteadily toward the exit after a great disturbance in the theater.",
@@ -79254,18 +79254,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
     "word": "unsteadiness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɛdɪnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɛdɪnəs"
       }
     },
     "forms": {},
@@ -79280,13 +79280,13 @@
           {
             "id": "unsteadiness-noun-1",
             "definition": "the quality of being unsteady--varying and unpredictable",
-            "translation": "",
+            "translation": "反复无常；变化莫测",
             "examples": []
           },
           {
             "id": "unsteadiness-noun-2",
             "definition": "the quality of not being steady or securely fixed in place",
-            "translation": "",
+            "translation": "不稳；不稳固",
             "examples": []
           }
         ]
@@ -79294,8 +79294,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
@@ -79320,7 +79320,7 @@
           {
             "id": "unsteady-adjective-1",
             "definition": "not firmly or solidly positioned",
-            "translation": "",
+            "translation": "不稳定的；摇晃的",
             "examples": [
               {
                 "text": "climbing carefully up the unsteady ladder",
@@ -79331,7 +79331,7 @@
           {
             "id": "unsteady-adjective-2",
             "definition": "subject to change or variation",
-            "translation": "",
+            "translation": "易变的；无常的",
             "examples": [
               {
                 "text": "My unsteady walk brings unwanted attention.",
@@ -79344,18 +79344,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
     "word": "unsterilised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɛrəˌlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɛrəlaɪzd"
       }
     },
     "forms": {},
@@ -79370,7 +79370,7 @@
           {
             "id": "unsterilised-adjective-1",
             "definition": "not sterilized",
-            "translation": "",
+            "translation": "未消毒的",
             "examples": []
           }
         ]
@@ -79378,18 +79378,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763702400
     }
   },
   {
     "word": "unsterilized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsterəlaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsterəlaɪzd"
       }
     },
     "forms": {},
@@ -79404,7 +79404,7 @@
           {
             "id": "unsterilized-adjective-1",
             "definition": "not sterilized",
-            "translation": "",
+            "translation": "未消毒的；未经灭菌处理的",
             "examples": []
           }
         ]
@@ -79412,18 +79412,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
     "word": "unstilted",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪltɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪltɪd"
       }
     },
     "forms": {},
@@ -79436,7 +79436,7 @@
           {
             "id": "unstilted-adjective-1",
             "definition": "flowing naturally and continuously",
-            "translation": "",
+            "translation": "自然流畅的；不矫揉造作的",
             "examples": [
               {
                 "text": "unstilted conversation",
@@ -79449,18 +79449,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
     "word": "unstimulating",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪmjəleɪtɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪmjəleɪtɪŋ"
       }
     },
     "forms": {},
@@ -79475,7 +79475,7 @@
           {
             "id": "unstimulating-adjective-1",
             "definition": "not stimulating",
-            "translation": "",
+            "translation": "不令人兴奋的；枯燥乏味的",
             "examples": []
           }
         ]
@@ -79483,18 +79483,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
     "word": "unstinted",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪntɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪntɪd"
       }
     },
     "forms": {},
@@ -79509,7 +79509,7 @@
           {
             "id": "unstinted-adjective-1",
             "definition": "very generous",
-            "translation": "",
+            "translation": "毫不吝惜的；慷慨的",
             "examples": []
           }
         ]
@@ -79517,8 +79517,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
@@ -79545,7 +79545,7 @@
           {
             "id": "unstinting-adjective-1",
             "definition": "very generous",
-            "translation": "",
+            "translation": "慷慨的；不吝惜的",
             "examples": []
           }
         ]
@@ -79553,18 +79553,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
     "word": "unstintingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪntɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɪntɪŋli"
       }
     },
     "forms": {},
@@ -79577,7 +79577,7 @@
           {
             "id": "unstintingly-adverb-1",
             "definition": "in an unstinting manner",
-            "translation": "",
+            "translation": "毫不吝惜地",
             "examples": []
           }
         ]
@@ -79585,18 +79585,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
     "word": "unstirred",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɜːrd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɜːrd"
       }
     },
     "forms": {},
@@ -79609,7 +79609,7 @@
           {
             "id": "unstirred-adjective-1",
             "definition": "not agitated by stirring",
-            "translation": "",
+            "translation": "未被搅动的",
             "examples": [
               {
                 "text": "The ingredients sat in the bowl unstirred while the chef buttered the pan.",
@@ -79622,8 +79622,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764028800
     }
   },
   {
@@ -79667,10 +79667,10 @@
     "word": "unstoppered",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstɒpərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstɒpəd"
       }
     },
     "forms": {},
@@ -79683,7 +79683,7 @@
           {
             "id": "unstoppered-adjective-1",
             "definition": "(of a container) having the stopper removed",
-            "translation": "",
+            "translation": "已拔去塞子的",
             "examples": [
               {
                 "text": "whiskey spilled from the unstoppered bottle",
@@ -79696,18 +79696,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unstrain",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstreɪn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstreɪn"
       }
     },
     "forms": {},
@@ -79722,7 +79722,7 @@
           {
             "id": "unstrain-verb-1",
             "definition": "cause to feel relaxed",
-            "translation": "",
+            "translation": "使放松",
             "examples": []
           }
         ]
@@ -79730,18 +79730,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unstrained",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstreɪnd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstreɪnd"
       }
     },
     "forms": {},
@@ -79756,13 +79756,13 @@
           {
             "id": "unstrained-adjective-1",
             "definition": "not resulting from undue effort",
-            "translation": "",
+            "translation": "自然的",
             "examples": []
           },
           {
             "id": "unstrained-adjective-2",
             "definition": "not placed under psychological stress",
-            "translation": "",
+            "translation": "未受精神压力的",
             "examples": [
               {
                 "text": "the campaign would not leave party loyalties unstrained",
@@ -79775,18 +79775,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unstrap",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstræp"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstræp"
       }
     },
     "forms": {
@@ -79819,10 +79819,10 @@
     "word": "unstratified",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstrætɪfaɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstrætɪfaɪd"
       }
     },
     "forms": {},
@@ -79835,7 +79835,7 @@
           {
             "id": "unstratified-adjective-1",
             "definition": "not deposited in layers",
-            "translation": "",
+            "translation": "不成层的",
             "examples": [
               {
                 "text": "glacial till is unstratified",
@@ -79848,8 +79848,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -79872,7 +79872,7 @@
           {
             "id": "unstressed-adjective-1",
             "definition": "not bearing a stress or accent",
-            "translation": "",
+            "translation": "非重读的",
             "examples": [
               {
                 "text": "short vowels are unstressed",
@@ -79885,18 +79885,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unstring",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstrɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstrɪŋ"
       }
     },
     "forms": {
@@ -79934,10 +79934,10 @@
     "word": "unstructured",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈstrʌktʃərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈstrʌktʃəd"
       }
     },
     "forms": {},
@@ -79952,7 +79952,7 @@
           {
             "id": "unstructured-adjective-1",
             "definition": "lacking definite structure or organization",
-            "translation": "",
+            "translation": "无结构的",
             "examples": [
               {
                 "text": "an unstructured situation with no one in authority",
@@ -79963,7 +79963,7 @@
           {
             "id": "unstructured-adjective-2",
             "definition": "lacking the system or structure characteristic of living bodies",
-            "translation": "",
+            "translation": "无组织结构的",
             "examples": []
           }
         ]
@@ -79971,18 +79971,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unstrung",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstrʌŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstrʌŋ"
       }
     },
     "forms": {},
@@ -79995,7 +79995,7 @@
           {
             "id": "unstrung-adjective-1",
             "definition": "emotionally upset",
-            "translation": "",
+            "translation": "心烦意乱的",
             "examples": [
               {
                 "text": "The incident left them unstrung and incapable of rational effort.",
@@ -80008,18 +80008,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763241600
     }
   },
   {
     "word": "unstuck",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌk"
       }
     },
     "forms": {},
@@ -80034,7 +80034,7 @@
           {
             "id": "unstuck-adjective-1",
             "definition": "free and movable",
-            "translation": "",
+            "translation": "松脱的",
             "examples": [
               {
                 "text": "A tow truck was needed to get my car unstuck.",
@@ -80045,7 +80045,7 @@
           {
             "id": "unstuck-adjective-2",
             "definition": "thrown into a state of disorganization or incoherence",
-            "translation": "",
+            "translation": "陷入混乱的",
             "examples": [
               {
                 "text": "price programs became unstuck because little grain was available",
@@ -80058,18 +80058,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unstudied",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌdid"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌdid"
       }
     },
     "forms": {},
@@ -80084,7 +80084,7 @@
           {
             "id": "unstudied-adjective-1",
             "definition": "lacking knowledge gained by study often in a particular field",
-            "translation": "",
+            "translation": "缺乏学识的",
             "examples": [
               {
                 "text": "They are unstudied in the diplomatic arts, but eager to learn.",
@@ -80095,7 +80095,7 @@
           {
             "id": "unstudied-adjective-2",
             "definition": "not by design or artifice",
-            "translation": "",
+            "translation": "未经雕琢的",
             "examples": []
           }
         ]
@@ -80103,18 +80103,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unstudious",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstuːdiəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstjuːdiəs"
       }
     },
     "forms": {},
@@ -80127,7 +80127,7 @@
           {
             "id": "unstudious-adjective-1",
             "definition": "not studious",
-            "translation": "",
+            "translation": "不用功的",
             "examples": []
           }
         ]
@@ -80135,18 +80135,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unstuff",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌf"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstʌf"
       }
     },
     "forms": {},
@@ -80159,7 +80159,7 @@
           {
             "id": "unstuff-verb-1",
             "definition": "cause to become unblocked",
-            "translation": "",
+            "translation": "使疏通",
             "examples": [
               {
                 "text": "The medicine unstuffed my nose in minutes!",
@@ -80172,18 +80172,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unstylish",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈstaɪlɪʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈstaɪlɪʃ"
       }
     },
     "forms": {},
@@ -80199,7 +80199,7 @@
           {
             "id": "unstylish-adjective-1",
             "definition": "not in accord with or not following current fashion",
-            "translation": "",
+            "translation": "不时髦的",
             "examples": [
               {
                 "text": "That top is unstylish.",
@@ -80210,7 +80210,7 @@
           {
             "id": "unstylish-adjective-2",
             "definition": "lacking in style or elegance",
-            "translation": "",
+            "translation": "不雅致的",
             "examples": [
               {
                 "text": "The politician is unstylish.",
@@ -80223,18 +80223,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unsuasible",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsweɪzəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsweɪzəbəl"
       }
     },
     "forms": {},
@@ -80249,7 +80249,7 @@
           {
             "id": "unsuasible-adjective-1",
             "definition": "not susceptible to persuasion",
-            "translation": "",
+            "translation": "不听劝说的",
             "examples": []
           }
         ]
@@ -80257,18 +80257,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unsubdivided",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈdɪvɪdɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈdɪvɪdɪd"
       }
     },
     "forms": {},
@@ -80283,7 +80283,7 @@
           {
             "id": "unsubdivided-adjective-1",
             "definition": "(botany) of leaf shapes",
-            "translation": "",
+            "translation": "（叶形）不分裂的",
             "examples": []
           }
         ]
@@ -80291,18 +80291,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unsubduable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈduːəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈdjuːəbəl"
       }
     },
     "forms": {},
@@ -80317,7 +80317,7 @@
           {
             "id": "unsubduable-adjective-1",
             "definition": "impossible to subdue",
-            "translation": "",
+            "translation": "无法征服的",
             "examples": []
           }
         ]
@@ -80325,18 +80325,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1763200000
     }
   },
   {
     "word": "unsubdued",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈduːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈdjuːd"
       }
     },
     "forms": {},
@@ -80349,7 +80349,7 @@
           {
             "id": "unsubdued-adjective-1",
             "definition": "not brought under control",
-            "translation": "",
+            "translation": "未被征服的；未被抑制的",
             "examples": [
               {
                 "text": "the horse remained unsubdued",
@@ -80362,18 +80362,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unsubmissive",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈmɪsɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈmɪsɪv"
       }
     },
     "forms": {},
@@ -80388,7 +80388,7 @@
           {
             "id": "unsubmissive-adjective-1",
             "definition": "not servile or submissive",
-            "translation": "",
+            "translation": "不顺从的；不屈服的",
             "examples": []
           }
         ]
@@ -80396,18 +80396,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unsubstantial",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstænʃəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstænʃəl"
       }
     },
     "forms": {},
@@ -80422,7 +80422,7 @@
           {
             "id": "unsubstantial-adjective-1",
             "definition": "lacking material form or substance",
-            "translation": "",
+            "translation": "无实体的；非实在的",
             "examples": []
           }
         ]
@@ -80430,18 +80430,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unsubstantialise",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstæntʃəlaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstæntʃəlaɪz"
       }
     },
     "forms": {},
@@ -80457,7 +80457,7 @@
           {
             "id": "unsubstantialise-verb-1",
             "definition": "render immaterial or incorporeal",
-            "translation": "",
+            "translation": "使非实体化；使脱离实体形态",
             "examples": []
           }
         ]
@@ -80465,18 +80465,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unsubstantialize",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstæntʃəlaɪz"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəbˈstæntʃəlaɪz"
       }
     },
     "forms": {},
@@ -80492,7 +80492,7 @@
           {
             "id": "unsubstantialize-verb-1",
             "definition": "render immaterial or incorporeal",
-            "translation": "",
+            "translation": "使非实体化；使脱离实体形态",
             "examples": []
           }
         ]
@@ -80500,8 +80500,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
@@ -80529,7 +80529,7 @@
           {
             "id": "unsubstantiated-adjective-1",
             "definition": "unsupported by other evidence",
-            "translation": "",
+            "translation": "未经证实的；无事实根据的",
             "examples": []
           }
         ]
@@ -80537,18 +80537,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unsubtle",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsʌtəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsʌtəl"
       }
     },
     "forms": {},
@@ -80563,7 +80563,7 @@
           {
             "id": "unsubtle-adjective-1",
             "definition": "lacking subtlety",
-            "translation": "",
+            "translation": "不细巧的；明显的",
             "examples": []
           }
         ]
@@ -80571,8 +80571,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
@@ -80658,10 +80658,10 @@
     "word": "unsufferable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsʌfərəbl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsʌfərəbl"
       }
     },
     "forms": {},
@@ -80676,7 +80676,7 @@
           {
             "id": "unsufferable-adjective-1",
             "definition": "used of persons or their behavior",
-            "translation": "",
+            "translation": "难以忍受的；令人不堪的",
             "examples": []
           }
         ]
@@ -80684,18 +80684,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "unsugared",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈʃʊɡərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈʃʊɡəd"
       }
     },
     "forms": {},
@@ -80708,7 +80708,7 @@
           {
             "id": "unsugared-adjective-1",
             "definition": "with no sugar added",
-            "translation": "",
+            "translation": "未加糖的；不含糖的",
             "examples": []
           }
         ]
@@ -80716,8 +80716,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -80743,7 +80743,7 @@
           {
             "id": "unsuitability-noun-1",
             "definition": "the quality of having the wrong properties for a specific purpose",
-            "translation": "",
+            "translation": "不适宜；不合适；不相称",
             "examples": []
           }
         ]
@@ -80751,8 +80751,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -80825,10 +80825,10 @@
     "word": "unsuitableness",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsuːtəblnəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsuːtəblnəs"
       }
     },
     "forms": {},
@@ -80843,7 +80843,7 @@
           {
             "id": "unsuitableness-noun-1",
             "definition": "the quality of having the wrong properties for a specific purpose",
-            "translation": "",
+            "translation": "不适当；不相宜",
             "examples": []
           }
         ]
@@ -80851,18 +80851,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "unsuitably",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsuːtəbli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsuːtəbli"
       }
     },
     "forms": {},
@@ -80877,7 +80877,7 @@
           {
             "id": "unsuitably-adverb-1",
             "definition": "in an inappropriate manner",
-            "translation": "",
+            "translation": "不恰当地；不适宜地",
             "examples": []
           }
         ]
@@ -80885,8 +80885,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -80911,7 +80911,7 @@
           {
             "id": "unsuited-adjective-1",
             "definition": "not easy to combine harmoniously",
-            "translation": "",
+            "translation": "不相配的；不协调的",
             "examples": []
           }
         ]
@@ -80920,12 +80920,12 @@
     "phrases": [
       {
         "text": "unsuited to",
-        "translation": ""
+        "translation": "不适合于"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -80961,7 +80961,7 @@
           {
             "id": "unsullied-adjective-2",
             "definition": "spotlessly clean and fresh",
-            "translation": "",
+            "translation": "未受玷污的",
             "examples": [
               {
                 "text": "the unsullied snow of mountains",
@@ -81002,13 +81002,13 @@
           {
             "id": "unsung-adjective-1",
             "definition": "having value that is not acknowledged",
-            "translation": "",
+            "translation": "未被赞颂的；未得到应有的赞扬的",
             "examples": []
           },
           {
             "id": "unsung-adjective-2",
             "definition": "not famous or acclaimed",
-            "translation": "",
+            "translation": "不出名的；未被颂扬的",
             "examples": []
           }
         ]
@@ -81016,8 +81016,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -81040,7 +81040,7 @@
           {
             "id": "unsupervised-adjective-1",
             "definition": "not supervised or under constant observation",
-            "translation": "",
+            "translation": "无人监督的；无人照看的",
             "examples": [
               {
                 "text": "the school maintains unsupervised study halls during free periods",
@@ -81053,18 +81053,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unsupportable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈpɔːrtəbl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈpɔːtəbl"
       }
     },
     "forms": {},
@@ -81077,7 +81077,7 @@
           {
             "id": "unsupportable-adjective-1",
             "definition": "not able to be supported or defended",
-            "translation": "",
+            "translation": "无法支撑的；难以维持的",
             "examples": []
           }
         ]
@@ -81085,8 +81085,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -81109,7 +81109,7 @@
           {
             "id": "unsupported-adjective-1",
             "definition": "not held up or borne",
-            "translation": "",
+            "translation": "无支撑的；未被支撑的",
             "examples": [
               {
                 "text": "removal of the central post left the roof unsupported",
@@ -81120,7 +81120,7 @@
           {
             "id": "unsupported-adjective-2",
             "definition": "not sustained or maintained by nonmaterial aid",
-            "translation": "",
+            "translation": "未经证实的；缺乏支持（依据）的",
             "examples": [
               {
                 "text": "unsupported accusations",
@@ -81134,16 +81134,16 @@
     "phrases": [
       {
         "text": "unsupported back",
-        "translation": ""
+        "translation": "无支撑背部"
       },
       {
         "text": "unsupported back span",
-        "translation": ""
+        "translation": "无支撑后跨"
       }
     ],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -81166,7 +81166,7 @@
           {
             "id": "unsupportive-adjective-1",
             "definition": "not furnishing support or assistance",
-            "translation": "",
+            "translation": "不支持的；不予援助的",
             "examples": []
           }
         ]
@@ -81174,18 +81174,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
     "word": "unsuppressed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈprɛst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈprɛst"
       }
     },
     "forms": {},
@@ -81198,7 +81198,7 @@
           {
             "id": "unsuppressed-adjective-1",
             "definition": "given vent to",
-            "translation": "",
+            "translation": "未被抑制的；得以发泄的",
             "examples": [
               {
                 "text": "unsuppressed rage",
@@ -81211,8 +81211,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -81238,13 +81238,13 @@
           {
             "id": "unsure-adjective-1",
             "definition": "lacking or indicating lack of confidence or assurance",
-            "translation": "",
+            "translation": "没有把握的；不确定的",
             "examples": []
           },
           {
             "id": "unsure-adjective-2",
             "definition": "lacking self-confidence",
-            "translation": "",
+            "translation": "缺乏自信的",
             "examples": []
           }
         ]
@@ -81252,8 +81252,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764480000
     }
   },
   {
@@ -81301,10 +81301,10 @@
     "word": "unsurpassable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsərˈpæsəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈpɑːsəbəl"
       }
     },
     "forms": {},
@@ -81317,7 +81317,7 @@
           {
             "id": "unsurpassable-adjective-1",
             "definition": "not to be exceeded",
-            "translation": "",
+            "translation": "不可超越的；无与伦比的",
             "examples": [
               {
                 "text": "unsurpassable skill",
@@ -81330,8 +81330,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -81372,10 +81372,10 @@
     "word": "unsurprised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsərˈpraɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈpraɪzd"
       }
     },
     "forms": {},
@@ -81388,7 +81388,7 @@
           {
             "id": "unsurprised-adjective-1",
             "definition": "not surprised or expressing surprise",
-            "translation": "",
+            "translation": "不吃惊的；不感到意外的",
             "examples": []
           }
         ]
@@ -81396,18 +81396,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsurprising",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsərˈpraɪzɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈpraɪzɪŋ"
       }
     },
     "forms": {},
@@ -81420,7 +81420,7 @@
           {
             "id": "unsurprising-adjective-1",
             "definition": "not causing surprise",
-            "translation": "",
+            "translation": "不令人惊讶的；意料之中的",
             "examples": []
           }
         ]
@@ -81428,18 +81428,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsusceptibility",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˌseptəˈbɪləti"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˌseptɪˈbɪləti"
       }
     },
     "forms": {},
@@ -81454,7 +81454,7 @@
           {
             "id": "unsusceptibility-noun-1",
             "definition": "the state of not being susceptible",
-            "translation": "",
+            "translation": "不易感性；不易受影响的状态",
             "examples": [
               {
                 "text": "unsusceptibility to rust",
@@ -81467,18 +81467,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsusceptible",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈseptəbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈseptɪbəl"
       }
     },
     "forms": {},
@@ -81493,7 +81493,7 @@
           {
             "id": "unsusceptible-adjective-1",
             "definition": "not susceptible to",
-            "translation": "",
+            "translation": "不易感动的；不受影响的",
             "examples": []
           }
         ]
@@ -81501,8 +81501,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -81525,7 +81525,7 @@
           {
             "id": "unsuspected-adjective-1",
             "definition": "not suspected or believed likely",
-            "translation": "",
+            "translation": "未被怀疑的；未料想到的",
             "examples": [
               {
                 "text": "remained unsuspected as the head of the spy ring",
@@ -81538,8 +81538,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -81564,7 +81564,7 @@
           {
             "id": "unsuspecting-adjective-1",
             "definition": "(often followed by `of') not knowing or expecting",
-            "translation": "",
+            "translation": "毫无戒备的；未察觉的",
             "examples": []
           },
           {
@@ -81591,10 +81591,10 @@
     "word": "unsuspectingly",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈspɛktɪŋli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈspɛktɪŋli"
       }
     },
     "forms": {},
@@ -81628,10 +81628,10 @@
     "word": "unsuspicious",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈspɪʃəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsəˈspɪʃəs"
       }
     },
     "forms": {},
@@ -81662,10 +81662,10 @@
     "word": "unswayed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈsweɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈsweɪd"
       }
     },
     "forms": {},
@@ -81680,7 +81680,7 @@
           {
             "id": "unswayed-adjective-1",
             "definition": "not influenced or affected",
-            "translation": "",
+            "translation": "不受影响的；不为所动的",
             "examples": []
           }
         ]
@@ -81688,18 +81688,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "unsweet",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈswiːt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈswiːt"
       }
     },
     "forms": {},
@@ -81714,7 +81714,7 @@
           {
             "id": "unsweet-adjective-1",
             "definition": "distasteful",
-            "translation": "",
+            "translation": "令人不快的；不合口味的",
             "examples": [
               {
                 "text": "Some find life unsweet.",
@@ -81725,7 +81725,7 @@
           {
             "id": "unsweet-adjective-2",
             "definition": "(of champagne) moderately dry",
-            "translation": "",
+            "translation": "（香槟酒）略干的",
             "examples": []
           }
         ]
@@ -81733,8 +81733,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -81757,7 +81757,7 @@
           {
             "id": "unsweetened-adjective-1",
             "definition": "not made sweet",
-            "translation": "",
+            "translation": "未加糖的；不加甜味的",
             "examples": []
           }
         ]
@@ -81765,18 +81765,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "unswept",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈswɛpt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈswɛpt"
       }
     },
     "forms": {},
@@ -81789,7 +81789,7 @@
           {
             "id": "unswept-adjective-1",
             "definition": "not having been swept",
-            "translation": "",
+            "translation": "未扫过的",
             "examples": [
               {
                 "text": "unswept floors",
@@ -81800,7 +81800,7 @@
           {
             "id": "unswept-adjective-2",
             "definition": "not swept or having sweep",
-            "translation": "",
+            "translation": "无曲线的；非弧形的",
             "examples": [
               {
                 "text": "a boxy little plane with square unswept wings",
@@ -81813,8 +81813,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -81840,13 +81840,13 @@
           {
             "id": "unswerving-adjective-1",
             "definition": "firm and dependable especially in loyalty",
-            "translation": "",
+            "translation": "坚定的；忠贞不渝的",
             "examples": []
           },
           {
             "id": "unswerving-adjective-2",
             "definition": "going directly ahead from one point to another without veering or turning aside",
-            "translation": "",
+            "translation": "笔直的；不偏离的",
             "examples": []
           }
         ]
@@ -81854,8 +81854,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
@@ -81878,13 +81878,13 @@
           {
             "id": "unswervingly-adverb-1",
             "definition": "without swerving",
-            "translation": "",
+            "translation": "不偏离地",
             "examples": []
           },
           {
             "id": "unswervingly-adverb-2",
             "definition": "in a constant and steadfast manner",
-            "translation": "",
+            "translation": "坚定不移地",
             "examples": [
               {
                 "text": "an unswervingly loyal man",
@@ -81897,18 +81897,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764000000
     }
   },
   {
     "word": "unsworn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈswɔrn"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈswɔːn"
       }
     },
     "forms": {},
@@ -81921,7 +81921,7 @@
           {
             "id": "unsworn-adjective-1",
             "definition": "not bound by or stated on oath",
-            "translation": "",
+            "translation": "未宣誓的；不受誓言约束的",
             "examples": [
               {
                 "text": "the witness stands unsworn",
@@ -81934,18 +81934,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsyllabic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈlæbɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈlæbɪk"
       }
     },
     "forms": {},
@@ -81960,7 +81960,7 @@
           {
             "id": "unsyllabic-adjective-1",
             "definition": "not forming a syllable or the nucleus of a syllable",
-            "translation": "",
+            "translation": "非音节性的",
             "examples": []
           }
         ]
@@ -81968,18 +81968,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsyllabled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪləbəld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪləbəld"
       }
     },
     "forms": {},
@@ -81992,7 +81992,7 @@
           {
             "id": "unsyllabled-adjective-1",
             "definition": "not articulated in syllables",
-            "translation": "",
+            "translation": "未分音节的",
             "examples": []
           }
         ]
@@ -82000,18 +82000,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsymbolic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪmˈbɑlɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪmˈbɒlɪk"
       }
     },
     "forms": {},
@@ -82026,7 +82026,7 @@
           {
             "id": "unsymbolic-adjective-1",
             "definition": "not standing for something else",
-            "translation": "",
+            "translation": "非象征性的",
             "examples": []
           }
         ]
@@ -82034,18 +82034,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsymmetric",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmɛtrɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmɛtrɪk"
       }
     },
     "forms": {},
@@ -82060,7 +82060,7 @@
           {
             "id": "unsymmetric-adjective-1",
             "definition": "lacking symmetry",
-            "translation": "",
+            "translation": "不对称的",
             "examples": []
           }
         ]
@@ -82068,18 +82068,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsymmetrical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈmɛtrɪkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈmɛtrɪkəl"
       }
     },
     "forms": {},
@@ -82095,13 +82095,13 @@
           {
             "id": "unsymmetrical-adjective-1",
             "definition": "having unsymmetrical parts or unequal dimensions or measurements",
-            "translation": "",
+            "translation": "不对称的",
             "examples": []
           },
           {
             "id": "unsymmetrical-adjective-2",
             "definition": "lacking symmetry",
-            "translation": "",
+            "translation": "不匀称的",
             "examples": []
           }
         ]
@@ -82109,18 +82109,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsymmetrically",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈmɛtrɪkli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnsɪˈmɛtrɪkli"
       }
     },
     "forms": {},
@@ -82135,7 +82135,7 @@
           {
             "id": "unsymmetrically-adverb-1",
             "definition": "in an asymmetrical manner",
-            "translation": "",
+            "translation": "不对称地",
             "examples": []
           }
         ]
@@ -82143,8 +82143,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -82172,25 +82172,25 @@
           {
             "id": "unsympathetic-adjective-1",
             "definition": "not agreeing with your tastes or expectations",
-            "translation": "",
+            "translation": "不合意的",
             "examples": []
           },
           {
             "id": "unsympathetic-adjective-2",
             "definition": "lacking in sympathy and kindness",
-            "translation": "",
+            "translation": "冷漠无情的",
             "examples": []
           },
           {
             "id": "unsympathetic-adjective-3",
             "definition": "not having an open mind",
-            "translation": "",
+            "translation": "思想封闭的",
             "examples": []
           },
           {
             "id": "unsympathetic-adjective-4",
             "definition": "not sympathetic or disposed toward",
-            "translation": "",
+            "translation": "不同情的",
             "examples": [
               {
                 "text": "unsympathetic officialdom",
@@ -82201,7 +82201,7 @@
           {
             "id": "unsympathetic-adjective-5",
             "definition": "(of characters in literature or drama) tending to evoke antipathetic feelings",
-            "translation": "",
+            "translation": "令人反感的",
             "examples": [
               {
                 "text": "all the characters were peculiarly unsympathetic",
@@ -82214,18 +82214,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unsympathetically",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪmpəˈθɛtɪkli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪmpəˈθɛtɪkli"
       }
     },
     "forms": {},
@@ -82254,10 +82254,10 @@
     "word": "unsympathising",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmpəˌθaɪzɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmpəˌθaɪzɪŋ"
       }
     },
     "forms": {},
@@ -82272,7 +82272,7 @@
           {
             "id": "unsympathising-adjective-1",
             "definition": "not showing or expressing sympathy",
-            "translation": "",
+            "translation": "不表同情的；冷漠无情的",
             "examples": []
           }
         ]
@@ -82280,18 +82280,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsympathizing",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmpəˌθaɪzɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪmpəˌθaɪzɪŋ"
       }
     },
     "forms": {},
@@ -82306,7 +82306,7 @@
           {
             "id": "unsympathizing-adjective-1",
             "definition": "not showing or expressing sympathy",
-            "translation": "",
+            "translation": "不表同情的；冷漠无情的",
             "examples": [
               {
                 "text": "an uncharitable and unsympathizing attitude",
@@ -82319,18 +82319,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsynchronised",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrəˌnaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrəˌnaɪzd"
       }
     },
     "forms": {},
@@ -82345,7 +82345,7 @@
           {
             "id": "unsynchronised-adjective-1",
             "definition": "not occurring together",
-            "translation": "",
+            "translation": "未同步的；不同步的",
             "examples": []
           }
         ]
@@ -82353,18 +82353,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsynchronized",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrəˌnaɪzd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrəˌnaɪzd"
       }
     },
     "forms": {},
@@ -82379,7 +82379,7 @@
           {
             "id": "unsynchronized-adjective-1",
             "definition": "not occurring together",
-            "translation": "",
+            "translation": "未同步的；不同步的",
             "examples": []
           }
         ]
@@ -82387,18 +82387,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsynchronous",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrənəs"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈsɪŋkrənəs"
       }
     },
     "forms": {},
@@ -82413,7 +82413,7 @@
           {
             "id": "unsynchronous-adjective-1",
             "definition": "not occurring together",
-            "translation": "",
+            "translation": "不同步的；非同时发生的",
             "examples": []
           }
         ]
@@ -82421,18 +82421,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsystematic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪstəˈmætɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪstəˈmætɪk"
       }
     },
     "forms": {},
@@ -82445,7 +82445,7 @@
           {
             "id": "unsystematic-adjective-1",
             "definition": "lacking systematic arrangement or method or organization",
-            "translation": "",
+            "translation": "无系统的；杂乱无章的；无条理的",
             "examples": [
               {
                 "text": "unsystematic and fragmentary records",
@@ -82458,18 +82458,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "unsystematically",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪstəˈmætɪkli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˌsɪstəˈmætɪkli"
       }
     },
     "forms": {},
@@ -82482,7 +82482,7 @@
           {
             "id": "unsystematically-adverb-1",
             "definition": "in an unsystematic manner",
-            "translation": "",
+            "translation": "无系统地；杂乱无章地",
             "examples": [
               {
                 "text": "The books were lined up unsystematically on the shelf.",
@@ -82495,18 +82495,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "untactful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtæktfəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtæktfəl"
       }
     },
     "forms": {},
@@ -82521,7 +82521,7 @@
           {
             "id": "untactful-adjective-1",
             "definition": "lacking or showing a lack of what is fitting and considerate in dealing with others",
-            "translation": "",
+            "translation": "不机敏的；不老练的；缺乏处世技巧的",
             "examples": []
           }
         ]
@@ -82529,18 +82529,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764400000
     }
   },
   {
     "word": "untagged",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtæɡd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtæɡd"
       }
     },
     "forms": {},
@@ -82555,7 +82555,7 @@
           {
             "id": "untagged-adjective-1",
             "definition": "lacking a label or tag",
-            "translation": "",
+            "translation": "无标签的；未加标记的",
             "examples": []
           }
         ]
@@ -82563,8 +82563,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
@@ -82623,7 +82623,7 @@
           {
             "id": "untalented-adjective-1",
             "definition": "devoid of talent",
-            "translation": "",
+            "translation": "没有天赋的；缺乏才能的",
             "examples": []
           }
         ]
@@ -82631,18 +82631,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
     "word": "untalkative",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɔːkətɪv"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɔːkətɪv"
       }
     },
     "forms": {},
@@ -82657,7 +82657,7 @@
           {
             "id": "untalkative-adjective-1",
             "definition": "temperamentally disinclined to talk",
-            "translation": "",
+            "translation": "沉默寡言的；不爱说话的",
             "examples": []
           }
         ]
@@ -82665,8 +82665,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
@@ -82693,7 +82693,7 @@
           {
             "id": "untamed-adjective-1",
             "definition": "in a natural state",
-            "translation": "",
+            "translation": "未驯服的；野生的",
             "examples": []
           }
         ]
@@ -82701,8 +82701,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
@@ -82732,13 +82732,13 @@
           {
             "id": "untangle-verb-1",
             "definition": "become or cause to become undone by separating the fibers or threads of",
-            "translation": "",
+            "translation": "解开；松开（缠绕的线或纤维）",
             "examples": []
           },
           {
             "id": "untangle-verb-2",
             "definition": "release from entanglement of difficulty",
-            "translation": "",
+            "translation": "理清；解决（困难或纠结）",
             "examples": []
           }
         ]
@@ -82746,18 +82746,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
     "word": "untangled",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtæŋɡəld"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtæŋɡəld"
       }
     },
     "forms": {},
@@ -82770,7 +82770,7 @@
           {
             "id": "untangled-adjective-1",
             "definition": "not tangled",
-            "translation": "",
+            "translation": "未纠缠的；已解开的",
             "examples": []
           }
         ]
@@ -82778,18 +82778,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
     "word": "untangling",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtæŋɡlɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtæŋɡlɪŋ"
       }
     },
     "forms": {},
@@ -82804,7 +82804,7 @@
           {
             "id": "untangling-noun-1",
             "definition": "the act of releasing from a snarled or tangled condition",
-            "translation": "",
+            "translation": "解开（纠缠）",
             "examples": []
           }
         ]
@@ -82812,18 +82812,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764600000
     }
   },
   {
     "word": "untanned",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtænd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtænd"
       }
     },
     "forms": {},
@@ -82836,7 +82836,7 @@
           {
             "id": "untanned-adjective-1",
             "definition": "not converted to leather by a tanning agent",
-            "translation": "",
+            "translation": "未鞣制的",
             "examples": [
               {
                 "text": "a whip made of untanned hide",
@@ -82849,18 +82849,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "untaped",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈteɪpt"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈteɪpt"
       }
     },
     "forms": {},
@@ -82875,7 +82875,7 @@
           {
             "id": "untaped-adjective-1",
             "definition": "not recorded on film or tape",
-            "translation": "",
+            "translation": "未录像的",
             "examples": []
           }
         ]
@@ -82883,8 +82883,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -82910,7 +82910,7 @@
           {
             "id": "untapped-adjective-1",
             "definition": "not drawn upon or used",
-            "translation": "",
+            "translation": "未利用的",
             "examples": [
               {
                 "text": "untapped reserves of coal",
@@ -82921,7 +82921,7 @@
           {
             "id": "untapped-adjective-2",
             "definition": "not subjected to tapping",
-            "translation": "",
+            "translation": "未开孔取液的",
             "examples": [
               {
                 "text": "an untapped keg",
@@ -82934,8 +82934,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
@@ -83028,7 +83028,7 @@
           {
             "id": "untaught-adjective-1",
             "definition": "lacking in schooling",
-            "translation": "",
+            "translation": "未受过教育的",
             "examples": [
               {
                 "text": "untaught people whose verbal skills are grossly deficient",
@@ -83041,18 +83041,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "untaxed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtækst"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtækst"
       }
     },
     "forms": {},
@@ -83065,7 +83065,7 @@
           {
             "id": "untaxed-adjective-1",
             "definition": "(of goods or funds) not taxed",
-            "translation": "",
+            "translation": "（货物或资金）免税的",
             "examples": []
           }
         ]
@@ -83073,18 +83073,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "unteach",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtiːtʃ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtiːtʃ"
       }
     },
     "forms": {
@@ -83101,13 +83101,13 @@
           {
             "id": "unteach-verb-1",
             "definition": "cause to disbelieve",
-            "translation": "",
+            "translation": "使不再相信",
             "examples": []
           },
           {
             "id": "unteach-verb-2",
             "definition": "cause to unlearn",
-            "translation": "",
+            "translation": "使忘却所学",
             "examples": []
           }
         ]
@@ -83115,18 +83115,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "untechnical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtɛknɪkəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnˈtɛknɪkəl"
       }
     },
     "forms": {},
@@ -83141,7 +83141,7 @@
           {
             "id": "untechnical-adjective-1",
             "definition": "not characteristic of or skilled in applied arts and sciences",
-            "translation": "",
+            "translation": "不具有应用科学与技术特征的",
             "examples": []
           }
         ]
@@ -83149,18 +83149,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764500000
     }
   },
   {
     "word": "untellable",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛləbəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛləbəl"
       }
     },
     "forms": {},
@@ -83175,7 +83175,7 @@
           {
             "id": "untellable-adjective-1",
             "definition": "defying expression or description",
-            "translation": "",
+            "translation": "难以言喻的；无法描述的",
             "examples": []
           }
         ]
@@ -83183,8 +83183,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -83209,7 +83209,7 @@
           {
             "id": "untempered-adjective-1",
             "definition": "not moderated or controlled",
-            "translation": "",
+            "translation": "未节制的；未加控制的",
             "examples": [
               {
                 "text": "Their untempered individualism could make their more conforming colleagues uncomfortable.",
@@ -83220,7 +83220,7 @@
           {
             "id": "untempered-adjective-2",
             "definition": "not brought to a proper consistency or hardness",
-            "translation": "",
+            "translation": "未回火的；未调到适当硬度或浓度的",
             "examples": [
               {
                 "text": "untempered mortar",
@@ -83233,18 +83233,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "untempting",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛmptɪŋ"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛmptɪŋ"
       }
     },
     "forms": {},
@@ -83260,7 +83260,7 @@
           {
             "id": "untempting-adjective-1",
             "definition": "not appealing to the senses",
-            "translation": "",
+            "translation": "不诱人的；不吸引人的",
             "examples": [
               {
                 "text": "untempting food",
@@ -83271,7 +83271,7 @@
           {
             "id": "untempting-adjective-2",
             "definition": "not tempting",
-            "translation": "",
+            "translation": "不吸引人的；没有诱惑力的",
             "examples": []
           }
         ]
@@ -83279,8 +83279,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -83321,10 +83321,10 @@
     "word": "untenanted",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛnəntɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛnəntɪd"
       }
     },
     "forms": {},
@@ -83339,7 +83339,7 @@
           {
             "id": "untenanted-adjective-1",
             "definition": "not leased to or occupied by a tenant",
-            "translation": "",
+            "translation": "无人租用的；无人居住的",
             "examples": []
           }
         ]
@@ -83347,18 +83347,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "untended",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛndɪd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛndɪd"
       }
     },
     "forms": {},
@@ -83371,7 +83371,7 @@
           {
             "id": "untended-adjective-1",
             "definition": "lacking care and attention",
-            "translation": "",
+            "translation": "无人照管的；缺乏照料和关注的",
             "examples": [
               {
                 "text": "untended garden was soon overgrown with weeds",
@@ -83384,8 +83384,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
@@ -83411,7 +83411,7 @@
           {
             "id": "untested-adjective-1",
             "definition": "not tried or tested by experience",
-            "translation": "",
+            "translation": "未经试验的；没有经验的",
             "examples": [
               {
                 "text": "The team looked good in practice but was untested in competition.",
@@ -83422,7 +83422,7 @@
           {
             "id": "untested-adjective-2",
             "definition": "not yet proved or subjected to testing",
-            "translation": "",
+            "translation": "未经验证的；尚未测试的",
             "examples": [
               {
                 "text": "This drug is untested but could prove promising.",
@@ -83435,18 +83435,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "untethered",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛðərd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈtɛðəd"
       }
     },
     "forms": {},
@@ -83459,7 +83459,7 @@
           {
             "id": "untethered-adjective-1",
             "definition": "not confined or restricted with a tether",
-            "translation": "",
+            "translation": "不受束缚的；无栓系的",
             "examples": []
           }
         ]
@@ -83467,18 +83467,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1764547200
     }
   },
   {
     "word": "unthankful",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈθæŋkfəl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈθæŋkfəl"
       }
     },
     "forms": {},
@@ -83493,7 +83493,7 @@
           {
             "id": "unthankful-adjective-1",
             "definition": "not feeling or showing gratitude",
-            "translation": "",
+            "translation": "不感激的",
             "examples": []
           }
         ]
@@ -83501,18 +83501,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unthaw",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈθɔː"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈθɔː"
       }
     },
     "forms": {},
@@ -83527,7 +83527,7 @@
           {
             "id": "unthaw-verb-1",
             "definition": "become or cause to become soft or liquid",
-            "translation": "",
+            "translation": "使融化",
             "examples": []
           }
         ]
@@ -83535,18 +83535,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unthawed",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈθɔːd"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈθɔːd"
       }
     },
     "forms": {},
@@ -83559,7 +83559,7 @@
           {
             "id": "unthawed-adjective-1",
             "definition": "still frozen",
-            "translation": "",
+            "translation": "仍未解冻的",
             "examples": [
               {
                 "text": "there wasn't time to cook the unthawed turkey, so they had to settle for hotdogs",
@@ -83572,18 +83572,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "untheatrical",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnθiˈætrɪkl"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnθiˈætrɪkl"
       }
     },
     "forms": {},
@@ -83596,7 +83596,7 @@
           {
             "id": "untheatrical-adjective-1",
             "definition": "not suited to or characteristic of the stage or theater",
-            "translation": "",
+            "translation": "不适合舞台的",
             "examples": [
               {
                 "text": "a well-written but untheatrical play",
@@ -83609,18 +83609,18 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
     "word": "unthematic",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ˌʌnθɪˈmætɪk"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ˌʌnθɪˈmætɪk"
       }
     },
     "forms": {},
@@ -83633,7 +83633,7 @@
           {
             "id": "unthematic-adjective-1",
             "definition": "not relating to a melodic subject",
-            "translation": "",
+            "translation": "非主题的",
             "examples": [
               {
                 "text": "there is nothing unthematic in this composition",
@@ -83646,8 +83646,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
@@ -83686,10 +83686,10 @@
     "word": "unthinkably",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "ʌnˈθɪŋkəbli"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "ʌnˈθɪŋkəbli"
       }
     },
     "forms": {},
@@ -83704,7 +83704,7 @@
           {
             "id": "unthinkably-adverb-1",
             "definition": "to an unimaginable extent",
-            "translation": "",
+            "translation": "不可思议地",
             "examples": []
           }
         ]
@@ -83712,8 +83712,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "",
-      "updatedAt": 1782201857
+      "provider": "MiniMax-M3",
+      "updatedAt": 1769980800
     }
   },
   {
@@ -83744,13 +83744,13 @@
           {
             "id": "unthinking-adjective-1",
             "definition": "mentally sluggish",
-            "translation": "",
+            "translation": "迟钝的",
             "examples": []
           },
           {
             "id": "unthinking-adjective-2",
             "definition": "without care or thought for others",
-            "translation": "",
+            "translation": "不顾他人的",
             "examples": []
           },
           {
