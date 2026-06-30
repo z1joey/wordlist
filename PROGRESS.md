@@ -10,8 +10,8 @@
 | Reviewed & validated | 33,905 |
 | Remaining | 32,962 |
 | Completion | 52.3% |
-| Forward agent | b.json (2,106 / 3,601) |
-| Backward agent | u.json (1,283 / 2,578) |
+| Forward agent | b.json 2,106 3,601 |
+| Backward agent | u.json 1,283 2,578 |
 
 ## 📋 File Progress
 
@@ -56,20 +56,20 @@
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
-| F-b-0001 | b.json | 772–796 | 25 | opencode/mimo-v2.5-free | opencode/mimo-v2.5-free | ✅ done |
+| F-b-0001 | b.json | 772–796 | 25 | opencode-mimo-v2.5-free | opencode-mimo-v2.5-free | ✅ done |
 | F-b-0001–0005 | b.json | 344–468 | 125 | (already complete) | — | ✅ already done |
 | — | a.json | IPA fix | 101 | deepseek-v4-pro | deepseek-v4-pro | ✅ done |
 
 ## 🔧 Completion Criteria (validator must confirm ALL)
 
-- `pronunciation.us.ipa` non-empty, accurate
-- `pronunciation.uk.ipa` non-empty, accurate
-- All `senses[].translation` non-empty, accurate Chinese
-- All `senses[].translation` are DISTINCT — no two senses share the same translation
-- All `senses[].examples[].translation` non-empty, accurate (if examples exist)
-- All `phrases[].translation` non-empty, accurate (if phrases exist)
-- `tags` verified against word's actual exam list membership
-- `synonyms` verified for accuracy
-- `forms` verified (if verb: gerund, past, pastParticiple)
-- `metadata.provider` = model name only
-- `metadata.updatedAt` = Unix timestamp (integer)
+- pronunciation.us.ipa non-empty, accurate
+- pronunciation.uk.ipa non-empty, accurate
+- All senses.translation non-empty, accurate Chinese
+- All senses.translation are DISTINCT — no two senses share the same translation
+- All senses.examples.translation non-empty, accurate (if examples exist)
+- All phrases.translation non-empty, accurate (if phrases exist)
+- tags verified against word's actual exam list membership
+- synonyms verified for accuracy
+- forms verified (if verb: gerund, past, pastParticiple)
+- metadata.provider = model name only
+- metadata.updatedAt = Unix timestamp (integer)
