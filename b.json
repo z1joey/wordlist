@@ -35849,10 +35849,10 @@
     "word": "bbs",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "/ˌbiː.biːˈɛs/"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "/ˌbiː.biːˈɛs/"
       }
     },
     "forms": {},
@@ -35865,7 +35865,7 @@
           {
             "id": "bbs-noun-1",
             "definition": "a computer that is running software that allows users to leave messages and access information of general interest",
-            "translation": "bbs",
+            "translation": "电子布告栏系统",
             "examples": []
           }
         ]
@@ -35913,10 +35913,10 @@
     "word": "bce",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "/ˌbiː.siːˈiː/"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "/ˌbiː.siːˈiː/"
       }
     },
     "forms": {},
@@ -35929,7 +35929,7 @@
           {
             "id": "bce-adverb-1",
             "definition": "of the period before the Common Era",
-            "translation": "时代的",
+            "translation": "公元前",
             "examples": []
           }
         ]
@@ -35945,10 +35945,10 @@
     "word": "bdellium",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "/ˈdel.i.əm/"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "/ˈdel.i.əm/"
       }
     },
     "forms": {},
@@ -35961,7 +35961,7 @@
           {
             "id": "bdellium-noun-1",
             "definition": "aromatic gum resin",
-            "translation": "bdellium相关的事物",
+            "translation": "芳香树脂（没药属植物）",
             "examples": []
           }
         ]
@@ -40258,11 +40258,11 @@
           {
             "id": "beach-verb-1",
             "definition": "to land on a beach",
-            "translation": "海滩",
+            "translation": "拖（船）上岸",
             "examples": [
               {
                 "text": "The ship beached near the port.",
-                "translation": "例句翻译"
+                "translation": "船在港口附近靠岸。"
               }
             ]
           }
@@ -40400,7 +40400,7 @@
             "examples": [
               {
                 "text": "the town became a beachhead in the campaign to ban smoking outdoors",
-                "translation": "例句翻译"
+                "translation": "该镇成为禁止户外吸烟运动的突破口。"
               }
             ]
           },
@@ -40411,7 +40411,7 @@
             "examples": [
               {
                 "text": "the Germans were desperately trying to contain the Anzio beachhead",
-                "translation": "例句翻译"
+                "translation": "德国人拼命试图遏制安齐奥滩头阵地。"
               }
             ]
           }
@@ -40460,10 +40460,10 @@
     "word": "beacon",
     "pronunciation": {
       "us": {
-        "ipa": "ˈbikən"
+        "ipa": "/ˈbiːkən/"
       },
       "uk": {
-        "ipa": "ˈbi:kən"
+        "ipa": "/ˈbiːkən/"
       }
     },
     "forms": {},
@@ -40492,7 +40492,7 @@
             "examples": [
               {
                 "text": "Many beacons were ignited to alert people of the impending invasion.",
-                "translation": "例句翻译"
+                "translation": "许多烽火被点燃以警告人们即将入侵。"
               }
             ]
           }
@@ -40504,22 +40504,22 @@
           {
             "id": "beacon-verb-1",
             "definition": "to guide with a beacon",
-            "translation": "beacon相关的事物",
+            "translation": "以灯塔引导",
             "examples": [
               {
                 "text": "The lighthouse beacons the sailors to land safely.",
-                "translation": "例句翻译"
+                "translation": "灯塔引导水手安全靠岸。"
               }
             ]
           },
           {
             "id": "beacon-verb-2",
             "definition": "to shine like a beacon",
-            "translation": "beacon相关的事物",
+            "translation": "像灯塔一样闪耀",
             "examples": [
               {
                 "text": "My torch beaconed to the others that it was safe to approach.",
-                "translation": "例句翻译"
+                "translation": "我的火把向其他人示意安全接近。"
               }
             ]
           }
@@ -40541,10 +40541,10 @@
     "word": "bead",
     "pronunciation": {
       "us": {
-        "ipa": "bid"
+        "ipa": "/biːd/"
       },
       "uk": {
-        "ipa": "bi:d"
+        "ipa": "/biːd/"
       }
     },
     "forms": {},
@@ -40580,33 +40580,33 @@
           {
             "id": "bead-verb-1",
             "definition": "to string together like beads",
-            "translation": "bead相关的事物",
+            "translation": "串成珠状",
             "examples": [
               {
                 "text": "I beaded the necklace carefully.",
-                "translation": "例句翻译"
+                "translation": "我仔细地把项链串成珠状。"
               }
             ]
           },
           {
             "id": "bead-verb-2",
             "definition": "to decorate by sewing beads onto",
-            "translation": "bead相关的事物",
+            "translation": "用珠子装饰",
             "examples": [
               {
                 "text": "They began to bead the wedding gown with crystals.",
-                "translation": "例句翻译"
+                "translation": "她们开始用水晶装饰婚纱。"
               }
             ]
           },
           {
             "id": "bead-verb-3",
             "definition": "to form into beads, as of water or sweat",
-            "translation": "bead相关的事物",
+            "translation": "凝成珠状",
             "examples": [
               {
                 "text": "Morning dew beaded on the petals of the rose.",
-                "translation": "例句翻译"
+                "translation": "晨露在玫瑰花瓣上凝成珠状。"
               }
             ]
           }
@@ -40648,7 +40648,7 @@
             "examples": [
               {
                 "text": "a face beaded with sweat",
-                "translation": "例句翻译"
+                "translation": "一张布满汗珠的脸。"
               }
             ]
           }
@@ -40903,7 +40903,7 @@
             "examples": [
               {
                 "text": "bright beady eyes",
-                "translation": "例句翻译"
+                "translation": "明亮的小圆眼睛。"
               }
             ]
           }
@@ -40984,10 +40984,10 @@
     "word": "beak",
     "pronunciation": {
       "us": {
-        "ipa": "bik"
+        "ipa": "/biːk/"
       },
       "uk": {
-        "ipa": "bi:k"
+        "ipa": "/biːk/"
       }
     },
     "forms": {},
@@ -41029,7 +41029,7 @@
             "examples": [
               {
                 "text": "The tortoise's beak compensates for its lack of teeth.",
-                "translation": "例句翻译"
+                "translation": "海龟的喙弥补了它没有牙齿的缺陷。"
               }
             ]
           }
@@ -41041,11 +41041,11 @@
           {
             "id": "beak-verb-1",
             "definition": "to hit lightly with a picking motion",
-            "translation": "beak相关的事物",
+            "translation": "啄",
             "examples": [
               {
                 "text": "The children beaked at their food.",
-                "translation": "例句翻译"
+                "translation": "孩子们啄着食物。"
               }
             ]
           }
