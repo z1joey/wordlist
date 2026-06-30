@@ -27,7 +27,7 @@ Run both worker and validator back-to-back on the same batch. No handoff, no wai
 2. Create next batch (25 entries from cursor)
 3. Mark batch 🟡 working in PROGRESS.md
 4. Process all 25 entries (follow Working Agent workflow below)
-   → Working agent sets provider = ITS OWN MODEL NAME + updatedAt
+   → Working agent sets provider = ITS EXACT MODEL NAME + updatedAt
 5. Immediately audit all 25 entries (follow Validating Agent checklist below)
 6. If ALL pass:
    → mark batch ✅ done, advance cursor
@@ -142,7 +142,7 @@ For **each** entry, in this exact order:
     - If the word is not a verb, forms = {} is correct
 
 11. SET metadata:
-    - `metadata.provider` = YOUR MODEL NAME (e.g. "MiniMax-M2.7-highspeed")
+    - `metadata.provider` = YOUR EXACT MODEL NAME — do NOT copy the example, write your real name
     - `metadata.updatedAt` = current Unix timestamp (integer)
     - WRITE entry back to JSON file
 ```
@@ -159,7 +159,7 @@ For **each** entry, in this exact order:
 | ❌ NEVER update File Progress for files you didn't touch | Only current file's row |
 | ❌ NEVER process multiple batches without updating PROGRESS.md | Update after EACH batch |
 | ❌ NEVER process the next file until the current file is 100% complete | Finish what you started |
-| ✅ ALWAYS set `metadata.provider` = your model name | Traces who did the work |
+| ✅ ALWAYS set `metadata.provider` = your EXACT model name (never guess, never copy the example) | Traces who did the work |
 | ✅ ALWAYS set `metadata.updatedAt` = Unix timestamp | When it was completed |
 | ✅ ALWAYS update PROGRESS.md after each batch is done | Resume-safe |
 
@@ -209,6 +209,7 @@ For each entry, confirm ALL of the following. Check each one — do not skip:
 ☐ Every senses[].examples[].translation
    - Non-empty (for each example that has text)
    - Accurate Chinese translation of the example sentence
+   - NOT a placeholder like "例句翻译", "翻译", or "待翻译"
 
 ☐ Every phrases[].translation
    - Non-empty (for each phrase that has text)
@@ -270,6 +271,7 @@ If ANY entry fails ANY check:
 |------|-------------|
 | ❌ NEVER approve duplicate translations across senses | Quality |
 | ❌ NEVER approve empty fields | Completeness |
+| ❌ NEVER approve placeholder translations (`"例句翻译"`, `"翻译"`, `"待翻译"`) | Quality |
 | ❌ NEVER approve agent-contaminated provider (contains `agent-` prefix) | Traceability |
 | ❌ NEVER update File Progress for files you didn't audit | Only current file's row |
 | ❌ NEVER validate multiple batches without updating PROGRESS.md | Update after EACH batch |
@@ -406,9 +408,10 @@ Each entry in every JSON file has this exact structure:
 1. **Same translation for different senses** — a word's senses represent different meanings; their Chinese translations MUST be different
 2. **Literal/mechanical translation** — translate idiomatically, not word-for-word
 3. **Missing IPA** — both US and UK IPA are required for every word
-4. **Agent name in provider** — use model name only (e.g., `"deepseek-v4-pro"`), never include hostname or agent ID
-5. **Wrong timestamp format** — use Unix timestamp integer (e.g., `1782460314`), not date strings
-6. **Skipping hard words** — never skip; research until correct
+4. **Wrong provider name** — use YOUR EXACT model name; do NOT copy the example from this file or guess
+5. **Placeholder translations** — `"例句翻译"`, `"翻译"`, `"待翻译"`, `"{word}相关的事物"` are NOT real translations; these must be replaced with actual Chinese
+6. **Wrong timestamp format** — use Unix timestamp integer (e.g., `1782460314`), not date strings
+7. **Skipping hard words** — never skip; research until correct
 
 ---
 
@@ -451,9 +454,19 @@ grep -r '"provider": "agent-' *.json | wc -l
 jq '[.[] | select(.metadata.updatedAt | type != "number")] | length' *.json
 ```
 
-### 8. Duplicate translations across senses (within same entry)
+### 8. Placeholder example translations (not real Chinese)
 ```bash
-jq '[.[] | select((.entries[].senses | map(.translation) | unique | length) < (.entries[].senses | map(.translation) | length))] | length' *.json
+grep -c '"例句翻译"' *.json && grep -c '"翻译"' *.json && grep -c '"待翻译"' *.json
+```
+
+### 9. Entries with placeholder sense translations
+```bash
+jq '[.[] | select(.entries[].senses[].translation | test("的事物$"))] | length' *.json
+```
+
+### 10. Duplicate translations across senses (within same entry)
+```bash
+jq '[.[] | select(([.entries[].senses[].translation] | unique | length) < ([.entries[].senses[].translation] | length))] | length' *.json
 ```
 
 Run all checks:
@@ -465,7 +478,9 @@ echo "=== Empty phrase translations ===" && jq '[.[] | select(.phrases[]? .trans
 echo "=== Empty provider ===" && jq '[.[] | select(.metadata.provider == "")] | length' *.json
 echo "=== Agent-contaminated providers ===" && grep -r '"provider": "agent-' *.json | wc -l
 echo "=== Non-integer updatedAt ===" && jq '[.[] | select(.metadata.updatedAt | type != "number")] | length' *.json
-echo "=== Duplicate sense translations ===" && jq '[.[] | select((.entries[].senses | map(.translation) | unique | length) < (.entries[].senses | map(.translation) | length))] | length' *.json
+echo "=== Placeholder example translations ===" && grep -c '"例句翻译"' *.json
+echo "=== Placeholder sense translations ===" && jq '[.[] | select(.entries[].senses[].translation | test("的事物$"))] | length' *.json
+echo "=== Duplicate sense translations ===" && jq '[.[] | select(([.entries[].senses[].translation] | unique | length) < ([.entries[].senses[].translation] | length))] | length' *.json
 ```
 
 Goal: **zero violations across all checks** at project completion.
