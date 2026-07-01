@@ -45934,8 +45934,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -45966,7 +45966,7 @@
             "examples": [
               {
                 "text": "I was bedazed.",
-                "translation": "例句翻译"
+                "translation": "我茫然不知所措。"
               }
             ]
           }
@@ -45975,8 +45975,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46010,7 +46010,7 @@
             "examples": [
               {
                 "text": "The glare coming from the water bedazzled me.",
-                "translation": "例句翻译"
+                "translation": "水面反射的强光晃得我眼花缭乱。"
               }
             ]
           }
@@ -46019,8 +46019,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46047,7 +46047,7 @@
             "examples": [
               {
                 "text": "My entire apartment is crawling with bedbugs.",
-                "translation": "例句翻译"
+                "translation": "我整个公寓爬满了臭虫。"
               }
             ]
           }
@@ -46056,8 +46056,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46091,8 +46091,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46127,8 +46127,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46162,8 +46162,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46213,8 +46213,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46245,8 +46245,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46304,8 +46304,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46341,7 +46341,7 @@
             "examples": [
               {
                 "text": "I bedecked my room in the most gaudy things I could find.",
-                "translation": "例句翻译"
+                "translation": "他们用鲜花和彩灯装饰了街道。"
               }
             ]
           }
@@ -46355,8 +46355,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -46389,8 +46389,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46424,7 +46424,7 @@
             "examples": [
               {
                 "text": "They bedeviled me with their questions.",
-                "translation": "例句翻译"
+                "translation": "疾病一直困扰着这个村庄。"
               }
             ]
           },
@@ -46435,7 +46435,7 @@
             "examples": [
               {
                 "text": "They bedevil everyone around them.",
-                "translation": "例句翻译"
+                "translation": "孩子们嘲笑他，取乐他的不幸。"
               }
             ]
           }
@@ -46444,8 +46444,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -46476,8 +46476,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46511,7 +46511,7 @@
             "examples": [
               {
                 "text": "The lawn bedews on summer mornings.",
-                "translation": "例句翻译"
+                "translation": "草上沾满露水和雨水。"
               }
             ]
           }
@@ -46525,8 +46525,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46566,8 +46566,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46602,8 +46602,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46636,7 +46636,7 @@
             "examples": [
               {
                 "text": "politics makes strange bedfellows",
-                "translation": "例句翻译"
+                "translation": "政治让奇怪的人成为同床伴侣。"
               }
             ]
           }
@@ -46645,8 +46645,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -46679,8 +46679,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46714,8 +46714,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46749,7 +46749,7 @@
             "examples": [
               {
                 "text": "I've been bedhopping for the last year or so and I'm scared my partner will find out.",
-                "translation": "例句翻译"
+                "translation": "他每晚都要换一张不同的床。"
               }
             ]
           }
@@ -46758,8 +46758,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46794,7 +46794,7 @@
             "examples": [
               {
                 "text": "The knight was bedighted with the latest from the armory.",
-                "translation": "例句翻译"
+                "translation": "女主角穿着鲜艳的派对服装。"
               }
             ]
           }
@@ -46803,8 +46803,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46839,7 +46839,7 @@
             "examples": [
               {
                 "text": "Your clarification only bedims the situation.",
-                "translation": "例句翻译"
+                "translation": "悲伤使他的思绪变得模糊。"
               }
             ]
           },
@@ -46850,7 +46850,7 @@
             "examples": [
               {
                 "text": "The thick cigar smoke bedims the room.",
-                "translation": "例句翻译"
+                "translation": "泪水模糊了她的视线。"
               }
             ]
           }
@@ -46864,8 +46864,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -46896,7 +46896,7 @@
             "examples": [
               {
                 "text": "a sun bedimmed by clouds",
-                "translation": "例句翻译"
+                "translation": "她的双眼因悲伤而失去光彩。"
               }
             ]
           }
@@ -46910,8 +46910,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -46946,7 +46946,7 @@
             "examples": [
               {
                 "text": "Don't bedizen yourself at the gala this year.",
-                "translation": "例句翻译"
+                "translation": "那演员穿着华丽俗气的化装服。"
               }
             ]
           },
@@ -46957,7 +46957,7 @@
             "examples": [
               {
                 "text": "That decorator bedizens everything.",
-                "translation": "例句翻译"
+                "translation": "那个装饰师把一切都弄得俗气。"
               }
             ]
           }
@@ -46966,8 +46966,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888271
     }
   },
   {
@@ -46994,7 +46994,7 @@
           {
             "id": "bedlam-noun-1",
             "definition": "pejorative terms for an insane asylum",
-            "translation": "bedlam相关的事物",
+            "translation": "精神病院",
             "examples": []
           }
         ]
@@ -47002,8 +47002,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M2.7-highspeed",
-      "updatedAt": 1782201857
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47042,8 +47042,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47078,8 +47078,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47102,11 +47102,11 @@
           {
             "id": "bedless-adjective-1",
             "definition": "without a bed",
-            "translation": "没有一个床",
+            "translation": "没有床的",
             "examples": [
               {
                 "text": "the cell was bedless",
-                "translation": "例句翻译"
+                "translation": "牢房里没有床。"
               }
             ]
           }
@@ -47115,8 +47115,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47153,8 +47153,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47187,8 +47187,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47222,7 +47222,7 @@
             "examples": [
               {
                 "text": "The torrential showers bedraggled our clothes.",
-                "translation": "例句翻译"
+                "translation": "倾盆大雨弄得我们衣服又湿又脏。"
               }
             ]
           }
@@ -47231,8 +47231,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47263,7 +47263,7 @@
             "examples": [
               {
                 "text": "the beggar's bedraggled clothes",
-                "translation": "例句翻译"
+                "translation": "那乞丐的衣服又湿又脏。"
               }
             ]
           },
@@ -47274,7 +47274,7 @@
             "examples": [
               {
                 "text": "a street of bedraggled tenements",
-                "translation": "例句翻译"
+                "translation": "一条到处是破旧廉价公寓的街道。"
               }
             ]
           }
@@ -47283,8 +47283,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888363
     }
   },
   {
@@ -47317,8 +47317,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47352,8 +47352,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47387,8 +47387,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47428,8 +47428,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47463,8 +47463,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47502,8 +47502,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47532,7 +47532,7 @@
             "examples": [
               {
                 "text": "The doctor stood at their bedside.",
-                "translation": "例句翻译"
+                "translation": "医生站在他们床边。"
               }
             ]
           }
@@ -47541,8 +47541,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47577,8 +47577,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47613,8 +47613,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47648,8 +47648,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47684,8 +47684,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47718,8 +47718,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47744,7 +47744,7 @@
           {
             "id": "bedstead-noun-1",
             "definition": "the framework of a bed",
-            "translation": "一个床的框架",
+            "translation": "床架",
             "examples": []
           }
         ]
@@ -47752,8 +47752,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47784,8 +47784,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47816,8 +47816,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47848,8 +47848,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47883,7 +47883,7 @@
           {
             "id": "bee-noun-2",
             "definition": "a social gathering to carry out some communal task or to hold competitions",
-            "translation": "蜜蜂",
+            "translation": "聚会（为共同任务或比赛）",
             "examples": []
           }
         ]
@@ -47891,8 +47891,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888291
     }
   },
   {
@@ -47935,8 +47935,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -47967,8 +47967,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48005,8 +48005,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48037,8 +48037,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48069,8 +48069,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48101,8 +48101,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48142,13 +48142,13 @@
           {
             "id": "beef-noun-2",
             "definition": "informal terms for objecting",
-            "translation": "牛肉",
+            "translation": "抱怨；不满",
             "examples": []
           },
           {
             "id": "beef-noun-3",
             "definition": "meat from an adult domestic bovine",
-            "translation": "牛肉",
+            "translation": "牛肉（食用肉）",
             "examples": []
           }
         ]
@@ -48163,7 +48163,7 @@
             "examples": [
               {
                 "text": "If you beef one more time I'm going to flat out say no.",
-                "translation": "例句翻译"
+                "translation": "你再抱怨一次我就直接拒绝。"
               }
             ]
           }
@@ -48173,7 +48173,7 @@
     "phrases": [
       {
         "text": "beef about",
-        "translation": "牛肉关于"
+        "translation": "抱怨；对…不满"
       },
       {
         "text": "beef on the bone",
@@ -48185,7 +48185,7 @@
       },
       {
         "text": "beef round casing",
-        "translation": "牛肉圆的案例"
+        "translation": "牛肉肠衣"
       },
       {
         "text": "beef to the heel",
@@ -48209,8 +48209,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48241,8 +48241,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48271,7 +48271,7 @@
             "examples": [
               {
                 "text": "I ordered the beefburger.",
-                "translation": "例句翻译"
+                "translation": "我点了牛肉汉堡。"
               }
             ]
           }
@@ -48280,8 +48280,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48312,8 +48312,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48344,8 +48344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48378,8 +48378,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48404,13 +48404,13 @@
           {
             "id": "beefwood-noun-1",
             "definition": "tree yielding hard heavy reddish wood",
-            "translation": "树",
+            "translation": "澳洲硬木树",
             "examples": []
           },
           {
             "id": "beefwood-noun-2",
             "definition": "tree or tall shrub with shiny leaves and umbels of fragrant creamy-white flowers",
-            "translation": "树",
+            "translation": "澳洲灌木（花有香味）",
             "examples": []
           },
           {
@@ -48436,8 +48436,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48468,7 +48468,7 @@
             "examples": [
               {
                 "text": "I am a beefy wrestler.",
-                "translation": "例句翻译"
+                "translation": "我是一个肌肉发达的摔跤手。"
               }
             ]
           }
@@ -48477,8 +48477,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48536,8 +48536,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48566,7 +48566,7 @@
             "examples": [
               {
                 "text": "Studies show that we need more bees and more beekeepers.",
-                "translation": "例句翻译"
+                "translation": "研究表明我们需要更多蜜蜂和更多养蜂人。"
               }
             ]
           }
@@ -48575,8 +48575,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48609,8 +48609,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48640,7 +48640,7 @@
             "examples": [
               {
                 "text": "They made a beeline for the bathroom.",
-                "translation": "例句翻译"
+                "translation": "他们直奔浴室而去。"
               }
             ]
           }
@@ -48649,8 +48649,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48687,11 +48687,11 @@
           {
             "id": "beep-verb-1",
             "definition": "to call, summon, or alert with a beeper",
-            "translation": "beep相关的事物",
+            "translation": "用寻呼机呼叫",
             "examples": [
               {
                 "text": "The hospital beeped the doctor at dinner.",
-                "translation": "例句翻译"
+                "translation": "医院在晚饭时寻呼了医生。"
               }
             ]
           }
@@ -48700,8 +48700,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48734,8 +48734,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48781,8 +48781,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48809,7 +48809,7 @@
             "examples": [
               {
                 "text": "Have you been drinking? This room smells quite beery. ",
-                "translation": "例句翻译"
+                "translation": "你喝酒了吗？这房间闻起来有股啤酒味。"
               }
             ]
           }
@@ -48818,8 +48818,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48853,11 +48853,11 @@
           {
             "id": "beeswax-verb-1",
             "definition": "to cover with beeswax",
-            "translation": "beeswax相关的事物",
+            "translation": "给…涂蜂蜡",
             "examples": [
               {
                 "text": "They beeswaxed the kitchen table.",
-                "translation": "例句翻译"
+                "translation": "他们给厨房桌子打了蜂蜡。"
               }
             ]
           }
@@ -48866,8 +48866,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48894,7 +48894,7 @@
           {
             "id": "beet-noun-1",
             "definition": "round red root vegetable",
-            "translation": "圆的红色根蔬菜",
+            "translation": "红菜头；甜菜根",
             "examples": []
           },
           {
@@ -48908,8 +48908,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
@@ -48932,7 +48932,7 @@
           {
             "id": "beethovenian-adjective-1",
             "definition": "of or relating to Ludwig van Beethoven or his music",
-            "translation": "音乐的",
+            "translation": "贝多芬的；贝多芬音乐的",
             "examples": []
           }
         ]
@@ -48940,8 +48940,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782888317
     }
   },
   {
