@@ -84093,7 +84093,7 @@
             "examples": [
               {
                 "text": "They untied the prisoner",
-                "translation": ""
+                "translation": "他们解开了囚犯的绑绳。"
               }
             ]
           },
@@ -84108,8 +84108,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763260800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84156,8 +84156,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84190,8 +84190,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84218,7 +84218,7 @@
             "examples": [
               {
                 "text": "untilled land",
-                "translation": ""
+                "translation": "未耕种的土地"
               }
             ]
           }
@@ -84227,8 +84227,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84255,7 +84255,7 @@
             "examples": [
               {
                 "text": "an untimbered boat",
-                "translation": ""
+                "translation": "没有木材的小船"
               }
             ]
           },
@@ -84266,7 +84266,7 @@
             "examples": [
               {
                 "text": "an untimbered area",
-                "translation": ""
+                "translation": "没有树木的区域"
               }
             ]
           }
@@ -84275,8 +84275,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84316,8 +84316,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84346,7 +84346,7 @@
           {
             "id": "untimely-adjective-1",
             "definition": "uncommonly early or before the expected time",
-            "translation": "不适时地；不合时宜地",
+            "translation": "过早的",
             "examples": []
           },
           {
@@ -84363,7 +84363,7 @@
           {
             "id": "untimely-adverb-1",
             "definition": "too soon",
-            "translation": "不适时地；不合时宜地",
+            "translation": "过早地；不适时地",
             "examples": []
           }
         ]
@@ -84371,8 +84371,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84399,7 +84399,7 @@
             "examples": [
               {
                 "text": "untipped cigarettes",
-                "translation": ""
+                "translation": "无过滤嘴香烟"
               }
             ]
           }
@@ -84408,8 +84408,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84443,8 +84443,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764451200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84469,7 +84469,7 @@
           {
             "id": "untiring-adjective-1",
             "definition": "characterized by hard work and perseverance",
-            "translation": "以…为特征",
+            "translation": "不知疲倦的；坚持不懈的",
             "examples": []
           }
         ]
@@ -84477,8 +84477,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84511,8 +84511,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763328000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84543,8 +84543,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763328000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84570,11 +84570,11 @@
           {
             "id": "untold-adjective-1",
             "definition": "of an incalculable amount",
-            "translation": "数量的",
+            "translation": "不可计数的；无数的",
             "examples": [
               {
                 "text": "untold suffering",
-                "translation": ""
+                "translation": "无尽的苦难"
               }
             ]
           }
@@ -84583,8 +84583,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84617,8 +84617,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763328000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84644,13 +84644,13 @@
           {
             "id": "untouchable-adjective-1",
             "definition": "not capable of being obtained",
-            "translation": "不可接触的；碰不到的",
+            "translation": "碰不到的；无法获得的",
             "examples": []
           },
           {
             "id": "untouchable-adjective-2",
             "definition": "( especially used in traditional Hindu belief of the lowest caste or castes) defiling",
-            "translation": "不可接触的",
+            "translation": "（印度教）不可接触的（指贱民阶层）",
             "examples": []
           },
           {
@@ -84660,7 +84660,7 @@
             "examples": [
               {
                 "text": "in most museums such articles are untouchable",
-                "translation": ""
+                "translation": "在大多数博物馆里，这类展品是禁止触摸的。"
               }
             ]
           },
@@ -84677,7 +84677,7 @@
             "examples": [
               {
                 "text": "for the first time criticism was directed at a hitherto untouchable target- Newsweek",
-                "translation": ""
+                "translation": "批评首次指向了一个迄今为止无可指摘的目标 —《新闻周刊》"
               }
             ]
           }
@@ -84689,7 +84689,7 @@
           {
             "id": "untouchable-noun-1",
             "definition": "belongs to lowest social and ritual class in India",
-            "translation": "不可接触的；碰不到的",
+            "translation": "（印度教）贱民；不可接触者",
             "examples": []
           }
         ]
@@ -84697,8 +84697,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84731,7 +84731,7 @@
             "examples": [
               {
                 "text": "stewed in its petty provincialism untouched by the brisk debates that stirred the old world- V.L.Parrington",
-                "translation": ""
+                "translation": "局限于狭隘的地方主义之中，丝毫不受激荡旧世界的热烈辩论影响 — V.L.帕林顿"
               }
             ]
           },
@@ -84742,7 +84742,7 @@
             "examples": [
               {
                 "text": "They looked at the untouched cocktail in their hand.",
-                "translation": ""
+                "translation": "他们看着手中那杯原封未动的鸡尾酒。"
               }
             ]
           },
@@ -84763,8 +84763,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84797,8 +84797,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1763328000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84840,8 +84840,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84864,11 +84864,11 @@
           {
             "id": "untraceable-adjective-1",
             "definition": "incapable of being traced or tracked down",
-            "translation": "能够被",
+            "translation": "无从追踪的",
             "examples": [
               {
                 "text": "an untraceable source",
-                "translation": ""
+                "translation": "无法追踪的来源"
               }
             ]
           }
@@ -84877,8 +84877,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84911,8 +84911,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764499200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84945,8 +84945,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764499200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -84973,7 +84973,7 @@
             "examples": [
               {
                 "text": "an untrained voice",
-                "translation": ""
+                "translation": "未经训练的嗓音"
               }
             ]
           }
@@ -84982,8 +84982,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764499200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85012,7 +85012,7 @@
             "examples": [
               {
                 "text": "the gift of a fresh eye and an untrammeled curiosity- Russell Lord",
-                "translation": ""
+                "translation": "拥有新锐眼光和无拘无束的好奇心的天赋 — 拉塞尔·洛德"
               }
             ]
           }
@@ -85021,8 +85021,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764499200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85055,8 +85055,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764499200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85081,7 +85081,7 @@
           {
             "id": "untransferable-adjective-1",
             "definition": "incapable of being transferred",
-            "translation": "能够被",
+            "translation": "不可转让的",
             "examples": []
           }
         ]
@@ -85089,8 +85089,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85113,11 +85113,11 @@
           {
             "id": "untranslatable-adjective-1",
             "definition": "not capable of being put into another form or style or language",
-            "translation": "能够被",
+            "translation": "无法翻译的；不可译的",
             "examples": [
               {
                 "text": "an untranslatable idiom",
-                "translation": ""
+                "translation": "一个不可译的习语"
               }
             ]
           }
@@ -85126,8 +85126,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85152,7 +85152,7 @@
           {
             "id": "untransmutable-adjective-1",
             "definition": "not capable of being changed into something else",
-            "translation": "能够被",
+            "translation": "不可转化的",
             "examples": []
           }
         ]
@@ -85160,8 +85160,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85191,7 +85191,7 @@
             "examples": [
               {
                 "text": "untraveled roads",
-                "translation": ""
+                "translation": "人迹罕至的道路"
               }
             ]
           }
@@ -85200,8 +85200,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85234,8 +85234,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85258,7 +85258,7 @@
           {
             "id": "untraversable-adjective-1",
             "definition": "incapable of being traversed",
-            "translation": "能够被",
+            "translation": "无法穿越的",
             "examples": []
           }
         ]
@@ -85266,8 +85266,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85300,8 +85300,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85334,7 +85334,7 @@
             "examples": [
               {
                 "text": "an untreated fabric",
-                "translation": ""
+                "translation": "未经处理的织物"
               }
             ]
           },
@@ -85345,7 +85345,7 @@
             "examples": [
               {
                 "text": "an untreated disease",
-                "translation": ""
+                "translation": "未治疗的疾病"
               }
             ]
           }
@@ -85354,8 +85354,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85395,8 +85395,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85425,7 +85425,7 @@
             "examples": [
               {
                 "text": "shaggy untrimmed locks",
-                "translation": ""
+                "translation": "乱蓬蓬未经修剪的头发"
               }
             ]
           }
@@ -85434,8 +85434,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85468,8 +85468,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85502,8 +85502,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85529,18 +85529,18 @@
           {
             "id": "untroubled-adjective-1",
             "definition": "free from turmoil or worries",
-            "translation": "免于",
+            "translation": "无忧无虑的",
             "examples": [
               {
                 "text": "untroubled times",
-                "translation": ""
+                "translation": "太平盛世"
               }
             ]
           },
           {
             "id": "untroubled-adjective-2",
             "definition": "free from fear or doubt",
-            "translation": "免于",
+            "translation": "安心的；无忧惧的",
             "examples": []
           },
           {
@@ -85550,7 +85550,7 @@
             "examples": [
               {
                 "text": "seemed untroubled by doubts of any kind",
-                "translation": ""
+                "translation": "似乎丝毫不受任何疑虑困扰"
               }
             ]
           }
@@ -85559,8 +85559,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85587,7 +85587,7 @@
           {
             "id": "untrue-adjective-1",
             "definition": "(used especially of persons) not dependable in devotion or affection",
-            "translation": "不忠实的",
+            "translation": "不忠实的；不忠诚的",
             "examples": []
           },
           {
@@ -85623,8 +85623,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85651,7 +85651,7 @@
             "examples": [
               {
                 "text": "I silenced the whisperings which connected my partners untruly and unfairly, with the shady business dealings uncovered last week.",
-                "translation": ""
+                "translation": "我压下了那些窃窃私语，它们不真实也不公正地将我的合作伙伴与上周曝光的不当商业交易联系在一起。"
               }
             ]
           }
@@ -85660,8 +85660,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85694,8 +85694,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85728,8 +85728,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85762,8 +85762,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85792,7 +85792,7 @@
             "examples": [
               {
                 "text": "an untrustworthy person",
-                "translation": ""
+                "translation": "一个不值得信任的人"
               }
             ]
           }
@@ -85801,8 +85801,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85835,8 +85835,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85861,7 +85861,7 @@
           {
             "id": "untruth-noun-1",
             "definition": "a false statement",
-            "translation": "一个假的陈述",
+            "translation": "谎言；不实之词",
             "examples": []
           }
         ]
@@ -85869,8 +85869,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85897,7 +85897,7 @@
             "examples": [
               {
                 "text": "the statement given under oath was untruthful",
-                "translation": ""
+                "translation": "宣誓后所作的陈述是不真实的。"
               }
             ]
           }
@@ -85906,8 +85906,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85936,7 +85936,7 @@
             "examples": [
               {
                 "text": "I told him, quite untruthfully, that I had just returned from leave",
-                "translation": ""
+                "translation": "我对他说了谎，说自己刚休假回来。"
               }
             ]
           }
@@ -85945,8 +85945,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -85977,8 +85977,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86005,7 +86005,7 @@
             "examples": [
               {
                 "text": "the sheet came untucked",
-                "translation": ""
+                "translation": "床单从床垫下脱落出来了。"
               }
             ]
           }
@@ -86014,8 +86014,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86042,7 +86042,7 @@
             "examples": [
               {
                 "text": "untufted ears",
-                "translation": ""
+                "translation": "无簇饰的耳朵"
               }
             ]
           }
@@ -86051,8 +86051,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86081,7 +86081,7 @@
             "examples": [
               {
                 "text": "Don't untune that string!",
-                "translation": ""
+                "translation": "别把那根弦调松了！"
               }
             ]
           },
@@ -86096,8 +86096,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1762492800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86130,8 +86130,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86158,7 +86158,7 @@
             "examples": [
               {
                 "text": "left no stone unturned",
-                "translation": ""
+                "translation": "不遗余力（千方百计）"
               }
             ]
           }
@@ -86167,8 +86167,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86203,8 +86203,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86235,7 +86235,7 @@
             "examples": [
               {
                 "text": "untwine the strings",
-                "translation": ""
+                "translation": "解开这些线"
               }
             ]
           }
@@ -86244,8 +86244,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86280,8 +86280,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86312,8 +86312,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86347,8 +86347,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86381,8 +86381,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86415,8 +86415,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767200000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86449,8 +86449,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767200000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86475,7 +86475,7 @@
           {
             "id": "ununbium-noun-1",
             "definition": "a radioactive transuranic element",
-            "translation": "镄",
+            "translation": "鎶",
             "examples": []
           }
         ]
@@ -86483,8 +86483,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86517,8 +86517,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767200000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86545,7 +86545,7 @@
             "examples": [
               {
                 "text": "should not tamely submit to the unpredictable and ununderstood cycles of wars- Psychiatry",
-                "translation": ""
+                "translation": "不应默默忍受那些不可预测且无法理解的战争循环 —《精神病学》"
               }
             ]
           }
@@ -86554,8 +86554,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1767200000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86580,7 +86580,7 @@
           {
             "id": "ununhexium-noun-1",
             "definition": "a radioactive transuranic element",
-            "translation": "镄",
+            "translation": "鉝",
             "examples": []
           }
         ]
@@ -86588,8 +86588,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86614,7 +86614,7 @@
           {
             "id": "ununpentium-noun-1",
             "definition": "a radioactive transuranic element",
-            "translation": "镄",
+            "translation": "镆",
             "examples": []
           }
         ]
@@ -86622,8 +86622,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86648,7 +86648,7 @@
           {
             "id": "ununquadium-noun-1",
             "definition": "a radioactive transuranic element",
-            "translation": "镄",
+            "translation": "鈇",
             "examples": []
           }
         ]
@@ -86656,8 +86656,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86682,7 +86682,7 @@
           {
             "id": "ununtrium-noun-1",
             "definition": "a radioactive transuranic element",
-            "translation": "镄",
+            "translation": "鉨",
             "examples": []
           }
         ]
@@ -86690,8 +86690,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86716,7 +86716,7 @@
           {
             "id": "unusable-adjective-1",
             "definition": "not capable of being used",
-            "translation": "能够被",
+            "translation": "无法使用的",
             "examples": []
           }
         ]
@@ -86724,8 +86724,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86750,7 +86750,7 @@
           {
             "id": "unuseable-adjective-1",
             "definition": "not capable of being used",
-            "translation": "能够被",
+            "translation": "无法使用的；不能用的",
             "examples": []
           }
         ]
@@ -86758,8 +86758,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86789,7 +86789,7 @@
             "examples": [
               {
                 "text": "feet unused to shoes",
-                "translation": ""
+                "translation": "穿不惯鞋子的脚"
               }
             ]
           },
@@ -86812,7 +86812,7 @@
             "examples": [
               {
                 "text": "we bought an unused car for a change",
-                "translation": ""
+                "translation": "我们买了一辆没用过的车换换口味。"
               }
             ]
           }
@@ -86821,8 +86821,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86855,8 +86855,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86891,25 +86891,25 @@
             "examples": [
               {
                 "text": "two-career families are no longer unusual",
-                "translation": ""
+                "translation": "双职工家庭已不再是罕事了。"
               }
             ]
           },
           {
             "id": "unusual-adjective-2",
             "definition": "not usual or common or ordinary",
-            "translation": "不寻常的",
+            "translation": "罕见的",
             "examples": [
               {
                 "text": "a scene of unusual beauty",
-                "translation": ""
+                "translation": "一幅罕见的美景"
               }
             ]
           },
           {
             "id": "unusual-adjective-3",
             "definition": "being definitely out of the ordinary and unexpected",
-            "translation": "不寻常的",
+            "translation": "意想不到的",
             "examples": []
           }
         ]
@@ -86917,8 +86917,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782201857
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86946,11 +86946,11 @@
           {
             "id": "unusually-adverb-1",
             "definition": "to a remarkable degree or extent",
-            "translation": "非凡的度或程度",
+            "translation": "特别地；异常地",
             "examples": [
               {
                 "text": "They were unusually tall.",
-                "translation": ""
+                "translation": "他们个子特别高。"
               }
             ]
           }
@@ -86959,8 +86959,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -86991,8 +86991,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87043,8 +87043,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764556800
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87077,8 +87077,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87111,8 +87111,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87143,8 +87143,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87177,8 +87177,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87211,8 +87211,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87237,7 +87237,7 @@
           {
             "id": "unvanquishable-adjective-1",
             "definition": "incapable of being overcome or subdued",
-            "translation": "能够被",
+            "translation": "不可征服的；无法战胜的",
             "examples": []
           }
         ]
@@ -87245,8 +87245,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87279,8 +87279,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87313,8 +87313,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764480000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87345,8 +87345,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87372,11 +87372,11 @@
           {
             "id": "unvarnished-adjective-1",
             "definition": "free from any effort to soften to disguise",
-            "translation": "免于",
+            "translation": "不加掩饰的；直截了当的",
             "examples": [
               {
                 "text": "the plain and unvarnished truth",
-                "translation": ""
+                "translation": "朴实无华的事实真相"
               }
             ]
           },
@@ -87391,8 +87391,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87439,8 +87439,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87469,29 +87469,29 @@
           {
             "id": "unveil-verb-1",
             "definition": "remove the veil from",
-            "translation": "移除",
+            "translation": "揭开（面纱）",
             "examples": [
               {
                 "text": "Women must not unveil themselves in public in Islamic societies",
-                "translation": ""
+                "translation": "在伊斯兰社会中，妇女不得在公共场合揭开面纱。"
               }
             ]
           },
           {
             "id": "unveil-verb-2",
             "definition": "remove the cover from",
-            "translation": "移除",
+            "translation": "揭开（覆盖物）",
             "examples": [
               {
                 "text": "unveil a painting",
-                "translation": ""
+                "translation": "揭开一幅画的幕布"
               }
             ]
           },
           {
             "id": "unveil-verb-3",
             "definition": "make visible",
-            "translation": "通过可见的制造",
+            "translation": "使显露；公之于众",
             "examples": []
           }
         ]
@@ -87499,8 +87499,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87523,7 +87523,7 @@
           {
             "id": "unveiled-adjective-1",
             "definition": "revealed",
-            "translation": "揭示",
+            "translation": "被揭示的；公开的",
             "examples": []
           }
         ]
@@ -87531,8 +87531,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87557,7 +87557,7 @@
           {
             "id": "unveiling-noun-1",
             "definition": "the act of beginning something new",
-            "translation": "开始某事新的的行为",
+            "translation": "开端；首次亮相",
             "examples": []
           },
           {
@@ -87567,7 +87567,7 @@
             "examples": [
               {
                 "text": "We attended the unveiling of the statue.",
-                "translation": ""
+                "translation": "我们参加了雕像的揭幕仪式。"
               }
             ]
           }
@@ -87576,8 +87576,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87610,8 +87610,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87642,8 +87642,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87670,7 +87670,7 @@
             "examples": [
               {
                 "text": "My office is unventilated and can become quite unbearable during the summer months.",
-                "translation": ""
+                "translation": "我的办公室通风不良，夏季会变得相当难熬。"
               }
             ]
           }
@@ -87679,8 +87679,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87713,8 +87713,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87747,8 +87747,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87779,8 +87779,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87811,8 +87811,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87845,8 +87845,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87879,8 +87879,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87911,8 +87911,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87939,7 +87939,7 @@
             "examples": [
               {
                 "text": "unvitrified pottery",
-                "translation": ""
+                "translation": "无釉陶器"
               }
             ]
           }
@@ -87948,8 +87948,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764547200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -87985,7 +87985,7 @@
             "examples": [
               {
                 "text": "unvoiced consonants such as `p' and `k' and `s'",
-                "translation": ""
+                "translation": "像/p/、/k/和/s/这样的清辅音"
               }
             ]
           }
@@ -87994,8 +87994,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88028,8 +88028,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88062,8 +88062,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88096,8 +88096,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88136,8 +88136,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88166,7 +88166,7 @@
             "examples": [
               {
                 "text": "They unwantedly gave advice.",
-                "translation": ""
+                "translation": "他们不合时宜地提出建议。"
               }
             ]
           }
@@ -88175,8 +88175,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88207,8 +88207,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88239,8 +88239,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88273,8 +88273,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88299,7 +88299,7 @@
           {
             "id": "unwarrantable-adjective-1",
             "definition": "incapable of being justified or explained",
-            "translation": "能够被",
+            "translation": "无法辩解的；不能证明正当的",
             "examples": []
           }
         ]
@@ -88307,8 +88307,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88335,7 +88335,7 @@
             "examples": [
               {
                 "text": "in this painting, the relationship of the upper part of the body to the lower is uneasy and the right thigh seems unwarrantably stressed",
-                "translation": ""
+                "translation": "在这幅画中，身体上下半身的比例令人局促，右大腿似乎毫无理由地被过度强调"
               }
             ]
           }
@@ -88344,8 +88344,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88374,7 +88374,7 @@
           {
             "id": "unwarranted-adjective-1",
             "definition": "incapable of being justified or explained",
-            "translation": "能够被",
+            "translation": "无法辩解的",
             "examples": []
           },
           {
@@ -88394,8 +88394,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88422,7 +88422,7 @@
             "examples": [
               {
                 "text": "the shrieks of unwary animals taken by surprise",
-                "translation": ""
+                "translation": "猝不及防的动物的惊叫声"
               }
             ]
           }
@@ -88431,8 +88431,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88463,14 +88463,14 @@
             "examples": [
               {
                 "text": "a sink full of unwashed dishes",
-                "translation": ""
+                "translation": "水槽里堆满了没洗的碗碟"
               }
             ]
           },
           {
             "id": "unwashed-adjective-2",
             "definition": "of or associated with the great masses of people",
-            "translation": "人民的",
+            "translation": "平民的",
             "examples": []
           }
         ]
@@ -88478,8 +88478,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88512,8 +88512,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88553,8 +88553,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1779427200
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88579,7 +88579,7 @@
           {
             "id": "unwaveringly-adverb-1",
             "definition": "with resolute determination",
-            "translation": "非waveringly的；未waveringly的",
+            "translation": "坚定不动摇地",
             "examples": []
           }
         ]
@@ -88587,8 +88587,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1777000000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88615,7 +88615,7 @@
             "examples": [
               {
                 "text": "the unwaxed floor",
-                "translation": ""
+                "translation": "没打蜡的地板"
               }
             ]
           }
@@ -88624,8 +88624,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88652,7 +88652,7 @@
             "examples": [
               {
                 "text": "some children remain unweaned until their second or third birthdays",
-                "translation": ""
+                "translation": "有些孩子直到两三岁才断奶"
               }
             ]
           }
@@ -88661,8 +88661,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88689,7 +88689,7 @@
             "examples": [
               {
                 "text": "shoes so dilapidated as to be unwearable",
-                "translation": ""
+                "translation": "鞋子破得不能穿了"
               }
             ]
           }
@@ -88698,8 +88698,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88732,8 +88732,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88766,8 +88766,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88800,8 +88800,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {
@@ -88828,7 +88828,7 @@
             "examples": [
               {
                 "text": "chemical weathering was beginning to attack the unweathered bedrock",
-                "translation": ""
+                "translation": "化学风化作用开始侵蚀未经风化的基岩"
               }
             ]
           }
@@ -88837,8 +88837,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1764500000
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782460314
     }
   },
   {

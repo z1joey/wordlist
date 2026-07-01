@@ -1,17 +1,17 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 947 | **← Backward**: u.json index 2282 | **Updated**: 1751365000
+> **→ Forward**: b.json index 947 | **← Backward**: u.json index 2156 | **Updated**: 1782460314
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 34,055 |
-| Remaining | 32,812 |
-| Completion | 52.5% |
+| Reviewed & validated | 34,180 |
+| Remaining | 32,687 |
+| Completion | 52.7% |
 | Forward agent | b.json 2,256 3,601 |
-| Backward agent | u.json 1,283 2,578 |
+| Backward agent | u.json 1,408 2,578 |
 
 ## 📋 File Progress
 
@@ -37,13 +37,13 @@
 | r.json | 2,889 | 1,512 | ██████████░░░░░░░░░░░ 52% | ⬜ pending |
 | s.json | 7,019 | 3,152 | ████████░░░░░░░░░░░░ 45% | ⬜ pending |
 | t.json | 3,227 | 1,373 | ████████░░░░░░░░░░░░ 43% | ⬜ pending |
-| u.json | 2,578 | 1,283 | ██████████░░░░░░░░ 50% | ← in_progress |
+| u.json | 2,578 | 1,408 | ███████████░░░░░░░ 55% | ← in_progress |
 | v.json | 1,058 | 1,058 | ███████████████████ 100% | ✅ done |
 | w.json | 1,306 | 1,259 | ██████████████████░ 96% | ✅ done |
 | x.json | 92 | 72 | ███████████████░░░░░ 78% | ✅ done |
 | y.json | 149 | 149 | ███████████████████ 100% | ✅ done |
 | z.json | 139 | 139 | ███████████████████ 100% | ✅ done |
-| **Total** | **64,867** | **33,955** | **52.3%** | |
+| **Total** | **64,867** | **34,180** | **52.7%** | |
 
 ## 🔄 Current Batches
 
@@ -52,14 +52,18 @@
 | → Forward | F-b-0005 | b.json | 872–896 | ✅ done |
 | → Forward | F-b-0006 | b.json | 897–921 | ✅ done |
 | → Forward | F-b-0007 | b.json | 922–946 | ✅ done |
-| ← Backward | B-u-0081 | u.json | 2281–2257 | ⬜ pending |
+| ← Backward | B-u-0086 | u.json | 2156–2132 | ⬜ pending |
 
 ## 📝 Last Batches
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| B-u-0085 | u.json | 2181–2157 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
+| B-u-0084 | u.json | 2206–2182 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
+| B-u-0083 | u.json | 2231–2207 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
+| B-u-0082 | u.json | 2256–2232 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
+| B-u-0081 | u.json | 2281–2257 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
 | F-b-0007 | b.json | 922–946 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
-| F-b-0006 | b.json | 897–921 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
 | F-b-0005 | b.json | 872–896 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
 | F-b-0004 | b.json | 847–871 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
 | F-b-0003 | b.json | 822–846 | 25 | opencode-mimo-v2.5-free | opencode-mimo-v2.5-free | ✅ done |
