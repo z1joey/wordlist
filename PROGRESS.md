@@ -1,16 +1,16 @@
 # Dictionary Completion Progress
 
-> **→ Forward**: b.json index 847 | **← Backward**: u.json index 2282 | **Updated**: 1751279000
+> **→ Forward**: b.json index 872 | **← Backward**: u.json index 2282 | **Updated**: 1751364000
 
 ## 📊 Summary
 
 | Metric | Count |
 |--------|-------|
 | Total entries | 64,867 |
-| Reviewed & validated | 33,955 |
-| Remaining | 32,912 |
-| Completion | 52.3% |
-| Forward agent | b.json 2,156 3,601 |
+| Reviewed & validated | 33,980 |
+| Remaining | 32,887 |
+| Completion | 52.4% |
+| Forward agent | b.json 2,181 3,601 |
 | Backward agent | u.json 1,283 2,578 |
 
 ## 📋 File Progress
@@ -18,7 +18,7 @@
 | File | Total | Done | Bar | Status |
 |------|-------|------|-----|--------|
 | a.json | 4,900 | 4,900 | ███████████████████ 100% | ✅ done |
-| b.json | 3,601 | 2,156 | ███████████░░░░░░░░ 60% | → in_progress |
+| b.json | 3,601 | 2,181 | ████████████░░░░░░░ 61% | → in_progress |
 | c.json | 6,275 | 2,717 | ████████░░░░░░░░░░░░ 43% | ⬜ pending |
 | d.json | 3,729 | 1,809 | █████████░░░░░░░░░░░ 49% | ⬜ pending |
 | e.json | 2,639 | 1,276 | █████████░░░░░░░░░░░ 48% | ⬜ pending |
@@ -50,13 +50,14 @@
 | Direction | Batch ID | File | Range | Status |
 |-----------|----------|------|-------|--------|
 | → Forward | F-b-0002 | b.json | 797–821 | ✅ done |
-| → Forward | F-b-0004 | b.json | 847–871 | ⬜ pending |
+| → Forward | F-b-0004 | b.json | 847–871 | ✅ done |
 | ← Backward | B-u-0081 | u.json | 2281–2257 | ⬜ pending |
 
 ## 📝 Last Batch
 
 | Batch | File | Range | Words | Worker | Validator | Status |
 |-------|------|-------|-------|--------|-----------|--------|
+| F-b-0004 | b.json | 847–871 | 25 | long-cat/LongCat-2.0 | long-cat/LongCat-2.0 | ✅ done |
 | F-b-0003 | b.json | 822–846 | 25 | opencode-mimo-v2.5-free | opencode-mimo-v2.5-free | ✅ done |
 | F-b-0002 | b.json | 797–821 | 25 | opencode-mimo-v2.5-free | opencode-mimo-v2.5-free | ✅ done |
 | F-b-0001 | b.json | 772–796 | 25 | opencode-mimo-v2.5-free | opencode-mimo-v2.5-free | ✅ done |

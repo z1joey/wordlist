@@ -44558,7 +44558,7 @@
             "examples": [
               {
                 "text": "Their beauteousness was undeniable.",
-                "translation": "例句翻译"
+                "translation": "他们的美丽不可否认。"
               }
             ]
           }
@@ -44567,8 +44567,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44597,7 +44597,7 @@
             "examples": [
               {
                 "text": "I need a new beautician to fix my hair.",
-                "translation": "例句翻译"
+                "translation": "我需要一位新美容师来做头发。"
               }
             ]
           }
@@ -44606,8 +44606,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44630,7 +44630,7 @@
           {
             "id": "beautification-noun-1",
             "definition": "the act of making something more beautiful",
-            "translation": "制造行为",
+            "translation": "美化；颜",
             "examples": []
           }
         ]
@@ -44638,8 +44638,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44666,22 +44666,22 @@
           {
             "id": "beautiful-adjective-1",
             "definition": "delighting the senses or exciting intellectual or emotional admiration",
-            "translation": "美丽的",
+            "translation": "美丽的；漂亮的",
             "examples": [
               {
                 "text": "a beautiful child",
-                "translation": "例句翻译"
+                "translation": "一个漂亮的孩子"
               }
             ]
           },
           {
             "id": "beautiful-adjective-2",
             "definition": "(of weather) highly enjoyable",
-            "translation": "美丽的",
+            "translation": "宜人的；晴朗的",
             "examples": [
               {
                 "text": "what a beautiful day",
-                "translation": "例句翻译"
+                "translation": "多么晴朗的一天"
               }
             ]
           }
@@ -44690,8 +44690,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44716,11 +44716,11 @@
           {
             "id": "beautifully-adverb-1",
             "definition": "in a pleasing or beautiful manner",
-            "translation": "美丽的地",
+            "translation": "美丽地；漂亮地；出色地",
             "examples": [
               {
                 "text": "The house was beautifully arranged, with fresh flowers and everything!",
-                "translation": "例句翻译"
+                "translation": "房子布置得很漂亮，到处是鲜花！"
               }
             ]
           }
@@ -44729,8 +44729,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44761,33 +44761,33 @@
           {
             "id": "beautify-verb-1",
             "definition": "to make more beautiful",
-            "translation": "制造更多美丽的",
+            "translation": "美化；使更美丽",
             "examples": [
               {
                 "text": "We beautified the old building.",
-                "translation": "例句翻译"
+                "translation": "我们美化了那栏旧建筑。"
               }
             ]
           },
           {
             "id": "beautify-verb-2",
             "definition": "to make more attractive by adding ornament, colour, etc.",
-            "translation": "美化",
+            "translation": "装饰；点缀",
             "examples": [
               {
                 "text": "I beautified the lawn by adding a tasteful gnome.",
-                "translation": "例句翻译"
+                "translation": "我在草坪上加了一个雅致的小杋人装饰。"
               }
             ]
           },
           {
             "id": "beautify-verb-3",
             "definition": "to be beautiful to look at",
-            "translation": "变得美丽",
+            "translation": "显得美丽；超来越美",
             "examples": [
               {
                 "text": "Not many would argue that my child is beautifying.",
-                "translation": "例句翻译"
+                "translation": "没几个人会否认我孩子越来越漂亮了。"
               }
             ]
           }
@@ -44796,8 +44796,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44834,13 +44834,13 @@
           {
             "id": "beauty-noun-2",
             "definition": "an outstanding example of its kind",
-            "translation": "美丽",
+            "translation": "典范；佳者",
             "examples": []
           },
           {
             "id": "beauty-noun-3",
             "definition": "a very attractive or seductive looking woman",
-            "translation": "美丽",
+            "translation": "美女；佳人",
             "examples": []
           }
         ]
@@ -44848,8 +44848,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44899,14 +44899,14 @@
             "examples": [
               {
                 "text": "usually covered with silk or with beaver fur",
-                "translation": "例句翻译"
+                "translation": "通常用丝绸或海狸毛皮制成"
               }
             ]
           },
           {
             "id": "beaver-noun-5",
             "definition": "a full beard",
-            "translation": "络腮胡",
+            "translation": "脚脊胡子",
             "examples": []
           },
           {
@@ -44923,11 +44923,11 @@
           {
             "id": "beaver-verb-1",
             "definition": "to work hard on something",
-            "translation": "beav者；beav人",
+            "translation": "圴头苦干；忙碌工作",
             "examples": [
               {
                 "text": "I beavered all day at my project.",
-                "translation": "例句翻译"
+                "translation": "我一整天都在圴头苦干我的项目。"
               }
             ]
           }
@@ -44941,8 +44941,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -44978,11 +44978,11 @@
           {
             "id": "bebop-verb-1",
             "definition": "to dance the bebop",
-            "translation": "bebop相关的事物",
+            "translation": "跳博普舞；随博普乐起舞",
             "examples": [
               {
                 "text": "I bebop at parties.",
-                "translation": "例句翻译"
+                "translation": "我在派对上跳博普舞。"
               }
             ]
           }
@@ -44991,8 +44991,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45021,11 +45021,11 @@
           {
             "id": "becalm-verb-1",
             "definition": "to make steady",
-            "translation": "制造稳定的",
+            "translation": "使平静；使风平浪静",
             "examples": [
               {
                 "text": "I becalmed the children after the car crash.",
-                "translation": "例句翻译"
+                "translation": "车祸后我让孩子们平静下来。"
               }
             ]
           }
@@ -45034,8 +45034,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45070,8 +45070,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45104,8 +45104,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45141,7 +45141,7 @@
             "examples": [
               {
                 "text": "I bechanced an incredible deal today.",
-                "translation": "例句翻译"
+                "translation": "我今天偶然碰到了一笔划算的交易。"
               }
             ]
           },
@@ -45152,7 +45152,7 @@
             "examples": [
               {
                 "text": "What bechanced our old high school clique.",
-                "translation": "例句翻译"
+                "translation": "我们以前的高中小圈子后来怎么样了。"
               }
             ]
           }
@@ -45161,8 +45161,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45192,7 +45192,7 @@
             "examples": [
               {
                 "text": "The group becharms the audience with their innovative dance moves.",
-                "translation": "例句翻译"
+                "translation": "这群人用创新的舞步吸引了观众。"
               }
             ]
           },
@@ -45203,7 +45203,7 @@
             "examples": [
               {
                 "text": "I felt like they were becharming me.",
-                "translation": "例句翻译"
+                "translation": "我觉得他们好像在对我施魔法。"
               }
             ]
           }
@@ -45212,8 +45212,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45251,8 +45251,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45286,8 +45286,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45322,7 +45322,7 @@
             "examples": [
               {
                 "text": "I beckoned to the people sitting next to us.",
-                "translation": "例句翻译"
+                "translation": "我向坐在我们旁边的人招手示意。"
               }
             ]
           },
@@ -45333,18 +45333,18 @@
             "examples": [
               {
                 "text": "They beckoned me once I entered the room.",
-                "translation": "例句翻译"
+                "translation": "我一进房间他们就示意我过去。"
               }
             ]
           },
           {
             "id": "beckon-verb-3",
             "definition": "to appear inviting",
-            "translation": "出现邀请",
+            "translation": "诱人；有吸引力",
             "examples": [
               {
                 "text": "The shop window decorations beckoned customers.",
-                "translation": "例句翻译"
+                "translation": "橷窗装饰吸引着顾客。"
               }
             ]
           }
@@ -45362,8 +45362,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45400,7 +45400,7 @@
             "examples": [
               {
                 "text": "The magician beclouded the wires holding up the levitating subject.",
-                "translation": "例句翻译"
+                "translation": "魔术师让悬浮物的吊线看不见了。"
               }
             ]
           }
@@ -45409,8 +45409,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45446,44 +45446,44 @@
           {
             "id": "become-verb-1",
             "definition": "to enter or assume a certain state or condition",
-            "translation": "陈述；说明",
+            "translation": "变得；陷入",
             "examples": [
               {
                 "text": "I've become numb to the feeling.",
-                "translation": "例句翻译"
+                "translation": "我对那种感觉已经麻木了。"
               }
             ]
           },
           {
             "id": "become-verb-2",
             "definition": "to come into existence",
-            "translation": "出现",
+            "translation": "开始存在；出现",
             "examples": [
               {
                 "text": "What becomes has duration.",
-                "translation": "例句翻译"
+                "translation": "出现的事物会持续存在。"
               }
             ]
           },
           {
             "id": "become-verb-3",
             "definition": "to undergo a change or development",
-            "translation": "经历一个改变或发展",
+            "translation": "变为；发展成",
             "examples": [
               {
                 "text": "I became a dentist.",
-                "translation": "例句翻译"
+                "translation": "我成为了一名牙医。"
               }
             ]
           },
           {
             "id": "become-verb-4",
             "definition": "to enhance the appearance of",
-            "translation": "成为",
+            "translation": "适合；衬托",
             "examples": [
               {
                 "text": "Mourning doesn't become you at all.",
-                "translation": "例句翻译"
+                "translation": "哀伤完全不适合你。"
               }
             ]
           }
@@ -45492,8 +45492,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45520,22 +45520,22 @@
           {
             "id": "becoming-adjective-1",
             "definition": "displaying or setting off to best advantage",
-            "translation": "成为",
+            "translation": "合适的；相称的",
             "examples": [
               {
                 "text": "a becoming new shade of rose",
-                "translation": "例句翻译"
+                "translation": "一种很合适的玫瑰新颜色。"
               }
             ]
           },
           {
             "id": "becoming-adjective-2",
             "definition": "according with custom or propriety",
-            "translation": "成为",
+            "translation": "得体的；体面的",
             "examples": [
               {
                 "text": "The becoming modesty was almost old-fashioned.",
-                "translation": "例句翻译"
+                "translation": "那种得体的谦逊几乎有些老派。"
               }
             ]
           }
@@ -45549,8 +45549,8 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45577,7 +45577,7 @@
             "examples": [
               {
                 "text": "They were becomingly dressed for the occasion.",
-                "translation": "例句翻译"
+                "translation": "他们的穿着很适合那个场合。"
               }
             ]
           }
@@ -45586,8 +45586,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45618,8 +45618,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45658,79 +45658,79 @@
             "examples": [
               {
                 "text": "They sat on the edge of the bed.",
-                "translation": "例句翻译"
+                "translation": "他们坐在床沿。"
               }
             ]
           },
           {
             "id": "bed-noun-2",
             "definition": "a plot of ground in which plants are growing",
-            "translation": "床",
+            "translation": "苗圃；花坛",
             "examples": [
               {
                 "text": "the gardener planted a bed of roses",
-                "translation": "例句翻译"
+                "translation": "园丁种了一圃玫瑰。"
               }
             ]
           },
           {
             "id": "bed-noun-3",
             "definition": "a foundation of earth or rock supporting a road or railroad track",
-            "translation": "床",
+            "translation": "路基；道床",
             "examples": [
               {
                 "text": "the track bed had washed away",
-                "translation": "例句翻译"
+                "translation": "路基已被冲毁。"
               }
             ]
           },
           {
             "id": "bed-noun-4",
             "definition": "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
-            "translation": "床",
+            "translation": "版台",
             "examples": []
           },
           {
             "id": "bed-noun-5",
             "definition": "single thickness of usually some homogeneous substance",
-            "translation": "床",
+            "translation": "层；底层",
             "examples": [
               {
                 "text": "slices of hard-boiled egg on a bed of spinach",
-                "translation": "例句翻译"
+                "translation": "菠菜底层上铺着几片水煮蛋。"
               }
             ]
           },
           {
             "id": "bed-noun-6",
             "definition": "a stratum of ore or coal thick enough to be mined with profit",
-            "translation": "床",
+            "translation": "矿层；煤层",
             "examples": [
               {
                 "text": "The company stripped the top of the mountain off to expose coal beds.",
-                "translation": "例句翻译"
+                "translation": "公司削平山顶以露出煤矿层。"
               }
             ]
           },
           {
             "id": "bed-noun-7",
             "definition": "a depression forming the ground under a body of water",
-            "translation": "床",
+            "translation": "河床；海底",
             "examples": [
               {
                 "text": "They searched for treasure on the ocean bed.",
-                "translation": "例句翻译"
+                "translation": "他们在海底搜寻宝藏。"
               }
             ]
           },
           {
             "id": "bed-noun-8",
             "definition": "(geology) a stratum of rock (especially sedimentary rock)",
-            "translation": "床",
+            "translation": "(地质) 岩层",
             "examples": [
               {
                 "text": "they found a bed of sandstone",
-                "translation": "例句翻译"
+                "translation": "他们发现了一层砂岩。"
               }
             ]
           }
@@ -45742,44 +45742,44 @@
           {
             "id": "bed-verb-1",
             "definition": "to have sexual intercourse with",
-            "translation": "床",
+            "translation": "与…同床；发生性关系",
             "examples": [
               {
                 "text": "I bedded them after dinner.",
-                "translation": "例句翻译"
+                "translation": "晚饭后我们同床了。"
               }
             ]
           },
           {
             "id": "bed-verb-2",
             "definition": "to put to bed",
-            "translation": "床",
+            "translation": "使上床睡觉",
             "examples": [
               {
                 "text": "The children were bedded at ten o'clock.",
-                "translation": "例句翻译"
+                "translation": "孩子们十点被安顿睡觉。"
               }
             ]
           },
           {
             "id": "bed-verb-3",
             "definition": "to place plants in a prepared bed of soil",
-            "translation": "床",
+            "translation": "栽入苗床",
             "examples": [
               {
                 "text": "I spent last Saturday bedding flowers.",
-                "translation": "例句翻译"
+                "translation": "我上星期六在花床里栽花。"
               }
             ]
           },
           {
             "id": "bed-verb-4",
             "definition": "to furnish with a bed",
-            "translation": "床",
+            "translation": "供给床位",
             "examples": [
               {
                 "text": "The inn keeper could bed all the new arrivals.",
-                "translation": "例句翻译"
+                "translation": "店主能给所有新来的人提供床位。"
               }
             ]
           }
@@ -45817,18 +45817,18 @@
       }
     ],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
     "word": "bedamn",
     "pronunciation": {
       "us": {
-        "ipa": ""
+        "ipa": "bɪˈdæm"
       },
       "uk": {
-        "ipa": ""
+        "ipa": "bɪˈdæm"
       }
     },
     "forms": {},
@@ -45843,11 +45843,11 @@
           {
             "id": "bedamn-verb-1",
             "definition": "to wish harm upon",
-            "translation": "希望伤害在...上",
+            "translation": "诅咒；降祸于",
             "examples": [
               {
                 "text": "I bedamn anyone who dares to cross me.",
-                "translation": "例句翻译"
+                "translation": "我诅咒任何胆敢冒犯我的人。"
               }
             ]
           }
@@ -45856,8 +45856,8 @@
     ],
     "phrases": [],
     "metadata": {
-      "provider": "deepseek-v4-flash",
-      "updatedAt": 1782288257
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
@@ -45888,7 +45888,7 @@
             "examples": [
               {
                 "text": "They bedaub themselves with paint.",
-                "translation": "例句翻译"
+                "translation": "他们把颜料涂抹在自己身上。"
               }
             ]
           }
@@ -45902,8 +45902,8 @@
       }
     ],
     "metadata": {
-      "provider": "MiniMax-M3",
-      "updatedAt": 1782642254
+      "provider": "long-cat/LongCat-2.0",
+      "updatedAt": 1782887750
     }
   },
   {
